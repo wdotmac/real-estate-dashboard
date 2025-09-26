@@ -1,17 +1,14 @@
 {
-  "as_of": "2025-09-26 13:37 UTC",
+  "as_of": "2025-09-26 15:08 UTC",
   "macro": {
-    "spx": {
-      "price": 6604.72,
-      "pct_1d": -0.005009061505249379
-    },
+    "spx": null,
     "ten_year": {
       "yield_pct": 4.16,
-      "delta_bp_1d": 4
+      "delta_bp_1d": 4.0000000000000036
     },
     "mortgage_30y": {
       "rate_pct": 6.3,
-      "delta_bp_wow": 4
+      "delta_bp_wow": 4.0000000000000036
     },
     "starts": {
       "level_saar": 1307.0,
@@ -139,5 +136,68 @@
         }
       }
     }
-  }
+  },
+  "watchlist": [],
+  "feed": [
+    {
+      "title": "Zillow facing job discrimination suit from a ‘day one’ employee",
+      "link": "https://www.housingwire.com/articles/zillow-facing-job-discrimination-suit-from-a-day-one-employee/",
+      "published": "Fri, 26 Sep 2025"
+    },
+    {
+      "title": "SERHANT. gears up for October Rhode Island expansion",
+      "link": "https://www.housingwire.com/articles/serhant-gears-up-for-october-rhode-island-expansion/",
+      "published": "Fri, 26 Sep 2025"
+    },
+    {
+      "title": "How Paris Hilton demonstrated an age-old accounting principle and why this matters for clients",
+      "link": "https://www.housingwire.com/articles/how-paris-hilton-demonstrated-an-age-old-accounting-principle-and-why-this-matters-for-clients/",
+      "published": "Fri, 26 Sep 2025"
+    },
+    {
+      "title": "Coldwell Banker Realty adds top agent in Boulder, Colorado",
+      "link": "https://www.housingwire.com/articles/coldwell-banker-realty-adds-top-agent-in-boulder-colorado/",
+      "published": "Thu, 25 Sep 2025"
+    },
+    {
+      "title": "Luxury agent Frank Aazami joins Compass in Arizona",
+      "link": "https://www.housingwire.com/articles/frank-aazami-joins-compass-in-arizona/",
+      "published": "Thu, 25 Sep 2025"
+    },
+    {
+      "title": "The Great Stay: Why the US housing market is divided in two",
+      "link": "https://www.housingwire.com/articles/the-great-stay-why-the-us-housing-market-is-divided-in-two/",
+      "published": "Thu, 25 Sep 2025"
+    },
+    {
+      "title": "Pending Home Sales Post First Decline in 3 Months, Even As Mortgage Rates Drop",
+      "link": "https://www.redfin.com/news/housing-market-update-pending-sales-rates-fall/",
+      "published": "Thu, 25 Sep 2025"
+    },
+    {
+      "title": "August’s Most Expensive Home Sales: Rosie O’Donnell’s Former Miami Mansion, Kauai Compound Once Owned by Julia Roberts",
+      "link": "https://www.redfin.com/news/most-expensive-home-sales-august-2025/",
+      "published": "Wed, 24 Sep 2025"
+    },
+    {
+      "title": "High Housing Costs Are Pushing Some Americans to Make Major Family Sacrifices, Like Delaying Having Kids Or Giving Up Pets",
+      "link": "https://www.redfin.com/news/survey-homebuyers-renters-family-sacrifices/",
+      "published": "Tue, 23 Sep 2025"
+    },
+    {
+      "title": "U.S. Home Prices Ticked Up 0.2% in August",
+      "link": "https://www.redfin.com/news/home-price-index-august-2025/",
+      "published": "Tue, 23 Sep 2025"
+    },
+    {
+      "title": "Redfin Economists’ Weekly Take: Fed Speeches May Offer Clues About Future Rate Cuts",
+      "link": "https://www.redfin.com/news/weekly-economics-update-september-22/",
+      "published": "Mon, 22 Sep 2025"
+    },
+    {
+      "title": "Summer 2025 Was the Strongest Buyer’s Market in Records Dating Back Over a Decade",
+      "link": "https://www.redfin.com/news/buyers-vs-sellers-august-2025/",
+      "published": "Mon, 22 Sep 2025"
+    }
+  ]
 }
