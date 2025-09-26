@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-09-26 21:26 UTC",
+  "as_of": "2025-09-26 22:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Fri, 26 Sep 2025"
     },
     {
+      "title": "Government Shutdown Could Impact Mortgage Processing, D.C. Housing Market",
+      "link": "https://www.redfin.com/news/government-shutdown-mortgage-processing-housing-market/",
+      "published": "Fri, 26 Sep 2025"
+    },
+    {
       "title": "Pending Home Sales Post First Decline in 3 Months, Even As Mortgage Rates Drop",
       "link": "https://www.redfin.com/news/housing-market-update-pending-sales-rates-fall/",
       "published": "Thu, 25 Sep 2025"
@@ -193,15 +198,19 @@
       "title": "Redfin Economists’ Weekly Take: Fed Speeches May Offer Clues About Future Rate Cuts",
       "link": "https://www.redfin.com/news/weekly-economics-update-september-22/",
       "published": "Mon, 22 Sep 2025"
-    },
-    {
-      "title": "Summer 2025 Was the Strongest Buyer’s Market in Records Dating Back Over a Decade",
-      "link": "https://www.redfin.com/news/buyers-vs-sellers-august-2025/",
-      "published": "Mon, 22 Sep 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Government Shutdown Could Impact Mortgage Processing, D.C. Housing Market",
+        "url": "https://www.redfin.com/news/government-shutdown-mortgage-processing-housing-market/",
+        "what": "A federal government shutdown next Wednesday seems increasingly likely",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/government-shutdown-mortgage-processing-housing-market/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "NFIP set to expire as shutdown, disaster seasons collide",
         "url": "https://www.housingwire.com/articles/national-flood-insurance-program-government-shutdown/",
@@ -235,15 +244,6 @@
         "what": "Last Week In A Nutshell Mortgage rates inched up as the Fed presented a murky view of rate cuts for the next two meetings, while multiple economic data reports came in stronger than expected",
         "numbers": "",
         "justified": "redfin.com — https://www.redfin.com/news/weekly-economics-update-september-22/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Summer 2025 Was the Strongest Buyer’s Market in Records Dating Back Over a Decade",
-        "url": "https://www.redfin.com/news/buyers-vs-sellers-august-2025/",
-        "what": "There were an estimated 506,000 more home sellers than buyers in August, meaning buyers held the negotiating power",
-        "numbers": "506,000, 1.4 million, 2025",
-        "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-august-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
