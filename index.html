@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Market & Housing Dashboard — v6 FINAL (Hydrated from state.json)</title>
-<!-- === V6 FINAL LAYOUT (Hydrated from data/state.json) === -->
+<title>Market & Housing Dashboard — v6 FINAL (Hydrated)</title>
+
 <style>
   :root{
     --bg1:#f6f8ff; --bg2:#eef7ff;
@@ -73,6 +73,13 @@
 
   /* FEED */
   .feed-wrap{max-height:680px;overflow:auto;border:1px solid var(--border);border-radius:12px;background:#fff;padding:14px}
+  .section-title{margin:14px 0 10px;font-weight:800;color:#1f2937;font-size:var(--fz-lg)}
+  .block{border:1px solid var(--border);border-radius:12px;background:#fff;padding:14px;margin-bottom:14px}
+  .block h4{margin:0 0 8px;font-size:17px;color:#111827}
+  .lines{display:grid;gap:6px}
+  .label{color:#64748b;font-size:var(--fz-sm);width:180px;display:inline-block}
+  .text{color:#0f172a}
+  .summary{border:2px dashed var(--border);border-radius:12px;background:#fcfdff;padding:14px;font-weight:600}
 
   @media (max-width: 1000px){ .kpis{grid-template-columns:repeat(2,1fr)} }
   @media (max-width: 640px){ .kpis{grid-template-columns:1fr} }
@@ -84,6 +91,8 @@
     <div class="brand"><div class="logo"></div><div>Market & Housing — v6 FINAL</div></div>
     <div class="toolbar">
       <span class="chip">Updated: <span id="lastUpdated">—</span></span>
+      <button class="btn secondary" id="copyFeed">Copy FEED</button>
+      <button class="btn secondary" id="downloadTxt">Export FEED TXT</button>
       <button class="btn secondary" id="refreshTakeaways">Refresh Takeaways</button>
       <button class="btn" id="downloadHtml">Download HTML</button>
     </div>
@@ -119,6 +128,7 @@
         </div>
 
         <div class="kpis" id="flPermitsKPI">
+          <!-- Four tiles are in the DOM already; we hydrate them -->
           <div class="kpi">
             <div class="label">Orlando–Kissimmee–Sanford</div>
             <div class="kpi-sub"><div class="sub-label">Latest Month · Units authorized (NSA) — Total</div><div class="value">—</div><div class="delta"></div></div>
@@ -151,19 +161,33 @@
       </div>
     </div>
 
-    <!-- 3) WATCHLIST (wired to state.json) -->
+    <!-- 3) WATCHLIST — FULL LIST -->
     <div class="card">
       <h3>Watchlist — Full List</h3>
       <div class="content">
-        <div class="stocks-wrap" id="stocksWrap"></div>
+        <div class="stocks-wrap" id="stocksWrap">
+          <!-- We’ll render the full list below; this wrapper scrolls -->
+        </div>
       </div>
     </div>
 
-    <!-- 4) FEED TICKER (wired to state.json) -->
+    <!-- 4) FEED TICKER — v6 FINAL block format -->
     <div class="card">
-      <h3>FEED: RE Ticker</h3>
+      <h3>## FEED: RE Ticker — <span id="feedTime">—</span> — <span id="feedDate">—</span></h3>
       <div class="content">
-        <div class="feed-wrap" id="feedWrap"></div>
+        <div class="feed-wrap" id="feedWrap">
+          <div class="section-title">(1) Changes Today</div>
+          <div id="today"></div>
+
+          <div class="section-title">(2) Month-over-Month (MoM)</div>
+          <div id="mom"></div>
+
+          <div class="section-title">(3) Quarter-to-Date (or longer)</div>
+          <div id="qtd"></div>
+
+          <div class="section-title">Summary Takeaways (No Sugarcoat)</div>
+          <div class="summary" id="takeaways">—</div>
+        </div>
       </div>
     </div>
 
@@ -171,62 +195,96 @@
 </main>
 
 <script>
-  // Utilities
+  // --- Utilities ---
   const cls = (x)=> (x>0?'pos':(x<0?'neg':'flat'));
   const fmtPct = (x,d=1)=> (x==null?'—':((x>=0?'+':'')+(100*x).toFixed(d)+'%'));
   const setText = (el, v)=>{ if(el) el.textContent = v; };
   const setHTML = (el, v)=>{ if(el) el.innerHTML = v; };
+  const $ = (s)=>document.querySelector(s);
 
-  // Download HTML
+  // Buttons
   document.getElementById('downloadHtml').addEventListener('click', ()=>{
     const blob = new Blob([document.documentElement.outerHTML], {type:'text/html'});
     const url = URL.createObjectURL(blob); const a=document.createElement('a');
     a.href=url; a.download='market_housing_dashboard_v6_FINAL.html'; a.click(); URL.revokeObjectURL(url);
   });
 
-  // Hydrate from /data/state.json
+  function blockHTML(h,what,numbers,just,why,market){
+    return `<div class="block"><h4>${h}</h4>
+      <div class="lines">
+        <div><span class="label">What:</span><span class="text">${what||'—'}</span></div>
+        <div><span class="label">Numbers:</span><span class="text">${numbers||'—'}</span></div>
+        <div><span class="label">Justified by:</span><span class="text">${just||'—'}</span></div>
+        <div><span class="label">Why it matters:</span><span class="text">${why||'—'}</span></div>
+        <div><span class="label">Market take:</span><span class="text">${market||'—'}</span></div>
+      </div></div>`;
+  }
+
+  function feedTextFromDOM(){
+    const now=new Date();
+    const head=`## FEED: RE Ticker — ${now.toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'})} — ${now.toLocaleDateString()}\n\nBelow is a concise “ticker” style update for real estate & housing macro / capital markets.\n`;
+    const toText = (sel)=>{
+      const nodes=document.querySelectorAll(sel+" .block");
+      let out=""; nodes.forEach(n=>{
+        const cat=n.querySelector('h4').textContent.trim();
+        const texts=n.querySelectorAll('.text');
+        const [what,nums,just,why,market]=Array.from(texts).map(x=>x.textContent.trim());
+        out+=`\n${cat}\n  • What: ${what}\n  • Numbers: ${nums}\n  • Justified by: ${just}\n  • Why / Outlook: ${why}\n  • Market take: ${market}\n`;
+      }); return out;
+    };
+    let txt=head;
+    txt += `\n(1) Changes Today\n` + toText('#today');
+    txt += `\n(2) Month-over-Month (MoM)\n` + toText('#mom');
+    txt += `\n(3) Quarter-to-Date (or longer)\n` + toText('#qtd');
+    txt += `\nSummary Takeaways (No Sugarcoat)\n` + document.querySelector('#takeaways').innerText.split('\n').map(x=>"  • "+x).join('\n')+"\n";
+    return txt;
+  }
+  document.getElementById('copyFeed').addEventListener('click', async ()=>{
+    const text=feedTextFromDOM();
+    try{ await navigator.clipboard.writeText(text); alert('FEED copied to clipboard.'); }
+    catch(e){ alert('Copy failed; use Export TXT.'); }
+  });
+  document.getElementById('downloadTxt').addEventListener('click', ()=>{
+    const blob = new Blob([feedTextFromDOM()], {type:'text/plain'});
+    const url = URL.createObjectURL(blob); const a=document.createElement('a');
+    a.href=url; a.download='FEED_RE_Ticker_v6_FINAL.txt'; a.click(); URL.revokeObjectURL(url);
+  });
+
+  // --- Hydrate from /data/state.json ---
   (async function(){
     let resp;
-    try{
-      resp = await fetch('data/state.json?cb=' + Date.now());
-    }catch(e){
-      console.error('fetch state.json failed', e);
-      document.getElementById('lastUpdated').textContent = 'Failed to load data.';
-      return;
-    }
-    if(!resp.ok){
-      document.getElementById('lastUpdated').textContent = 'No data yet.';
-      return;
-    }
+    try{ resp = await fetch('data/state.json?cb=' + Date.now()); }
+    catch(e){ console.error('fetch state.json failed', e); $('#lastUpdated').textContent = 'Failed to load data.'; return; }
+    if(!resp?.ok){ $('#lastUpdated').textContent = 'No data yet.'; return; }
     const S = await resp.json();
 
     // Header time
-    setText(document.getElementById('lastUpdated'), S.as_of || '—');
+    setText($('#lastUpdated'), S.as_of || '—');
 
     // Macro
     if(S.macro?.spx){
       const p = Number(S.macro.spx.price||0);
       const d = Number(S.macro.spx.pct_1d||0);
-      setText(document.getElementById('spx'), p.toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2}));
-      setHTML(document.getElementById('spxDelta'), `<span class="${cls(d)}">${fmtPct(d,2)}</span> 1d`);
+      setText($('#spx'), p? p.toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2}) : '—');
+      setHTML($('#spxDelta'), d===0||isNaN(d)? '' : `<span class="${cls(d)}">${fmtPct(d,2)}</span> 1d`);
     }
     if(S.macro?.ten_year){
       const y=Number(S.macro.ten_year.yield_pct||0);
       const bp=Math.round(Number(S.macro.ten_year.delta_bp_1d||0));
-      setText(document.getElementById('ust10'), y.toFixed(2)+'%');
-      setHTML(document.getElementById('ust10Delta'), `<span class="${cls(bp)}">${bp>=0?'+':''}${bp}bp</span>`);
+      setText($('#ust10'), y? y.toFixed(2)+'%' : '—');
+      setHTML($('#ust10Delta'), isNaN(bp)? '' : `<span class="${cls(bp)}">${bp>=0?'+':''}${bp}bp</span>`);
     }
     if(S.macro?.mortgage_30y){
       const y=Number(S.macro.mortgage_30y.rate_pct||0);
       const bp=Math.round(Number(S.macro.mortgage_30y.delta_bp_wow||0));
-      setText(document.getElementById('mort30'), y.toFixed(2)+'%');
-      setHTML(document.getElementById('mort30Delta'), `<span class="${cls(bp)}">${bp>=0?'+':''}${bp}bp</span> w/w`);
+      setText($('#mort30'), y? y.toFixed(2)+'%' : '—');
+      setHTML($('#mort30Delta'), isNaN(bp)? '' : `<span class="${cls(bp)}">${bp>=0?'+':''}${bp}bp</span> w/w`);
     }
     if(S.macro?.starts){
       const lvl=Number(S.macro.starts.level_saar||0);
       const mom=Number(S.macro.starts.mom||0);
-      setText(document.getElementById('starts'), (lvl/1_000_000).toFixed(2)+'m SAAR');
-      setHTML(document.getElementById('startsDelta'), `<span class="${cls(mom)}">${fmtPct(mom,1)}</span> m/m`);
+      setText($('#starts'), lvl? (lvl/1_000_000).toFixed(2)+'m SAAR' : '—');
+      setHTML($('#startsDelta'), isNaN(mom)? '' : `<span class="${cls(mom)}">${fmtPct(mom,1)}</span> m/m`);
     }
 
     // Florida Permits + DOM
@@ -238,113 +296,158 @@
       'Palm Bay–Melbourne–Titusville':'Palm Bay–Melbourne–Titusville'
     };
 
-    function render(type){
+    function renderPermits(type){
       document.querySelectorAll('#flPermitsKPI .kpi').forEach(kpi=>{
         const label = kpi.querySelector('.label')?.textContent.trim() || '';
         const M = msas[KEY[label]]; if(!M) return;
         const bucket = (type==='1unit') ? M.one_unit : M.total;
+        const subs = kpi.querySelectorAll('.kpi-sub'); // [0]=Latest, [1]=YTD, [2]=DOM
 
-        const blocks = kpi.querySelectorAll('.kpi-sub'); // [0]=Latest, [1]=YTD, [2]=DOM
         // Latest
-        if(blocks[0]){
+        if(subs[0]){
           if(bucket?.latest!=null){
-            const mom=bucket.mom, yoy=bucket.yoy;
-            blocks[0].querySelector('.sub-label').textContent = `Latest Month · Units authorized (NSA) — ${type==='1unit'?'1-Unit':'Total'}`;
-            blocks[0].querySelector('.value').textContent = (bucket.latest).toLocaleString();
-            blocks[0].querySelector('.delta').innerHTML =
-              `<span class="${cls(mom)}">${fmtPct(mom,1)} MoM</span> · <span class="${cls(yoy)}">${fmtPct(yoy,1)} YoY</span>`;
+            subs[0].querySelector('.sub-label').textContent = `Latest Month · Units authorized (NSA) — ${type==='1unit'?'1-Unit':'Total'}`;
+            subs[0].querySelector('.value').textContent = (bucket.latest).toLocaleString();
+            subs[0].querySelector('.delta').innerHTML =
+              `<span class="${cls(bucket.mom)}">${fmtPct(bucket.mom,1)} MoM</span> · <span class="${cls(bucket.yoy)}">${fmtPct(bucket.yoy,1)} YoY</span>`;
           }else{
-            blocks[0].querySelector('.value').textContent='—';
-            blocks[0].querySelector('.delta').textContent='—';
+            subs[0].querySelector('.value').textContent='—';
+            subs[0].querySelector('.delta').textContent='—';
           }
         }
         // YTD
-        if(blocks[1]){
+        if(subs[1]){
           if(bucket){
             const yr=bucket.latest_year, mname=bucket.latest_month_name||bucket.latest_month||'—';
-            blocks[1].querySelector('.sub-label').textContent = `YTD · Jan–${mname} ${yr} vs ${yr-1} — ${type==='1unit'?'1-Unit':'Total'}`;
-            blocks[1].querySelector('.value').textContent = (bucket.ytd_count??'—').toLocaleString();
-            blocks[1].querySelector('.delta').innerHTML =
+            subs[1].querySelector('.sub-label').textContent = `YTD · Jan–${mname} ${yr} vs ${yr-1} — ${type==='1unit'?'1-Unit':'Total'}`;
+            subs[1].querySelector('.value').textContent = (bucket.ytd_count??'—').toLocaleString();
+            subs[1].querySelector('.delta').innerHTML =
               `<span class="${cls(bucket.ytd_yoy)}">${fmtPct(bucket.ytd_yoy,1)} Y/Y</span>`;
           }else{
-            blocks[1].querySelector('.value').textContent='—';
-            blocks[1].querySelector('.delta').textContent='—';
+            subs[1].querySelector('.value').textContent='—';
+            subs[1].querySelector('.delta').textContent='—';
           }
         }
         // DOM
-        if(blocks[2]){
+        if(subs[2]){
           const D=M.dom;
           if(D){
-            blocks[2].querySelector('.value').textContent = `${D.days} days`;
-            blocks[2].querySelector('.delta').innerHTML =
+            subs[2].querySelector('.value').textContent = `${D.days} days`;
+            subs[2].querySelector('.delta').innerHTML =
               `<span class="${cls(D.yoy)}">${fmtPct(D.yoy,1)} YoY</span> <span class="fine">(${D.as_of||'—'})</span>`;
           }else{
-            blocks[2].querySelector('.value').textContent='—';
-            blocks[2].querySelector('.delta').textContent='—';
+            subs[2].querySelector('.value').textContent='—';
+            subs[2].querySelector('.delta').textContent='—';
           }
         }
       });
     }
-
-    // ---- Watchlist (from S.watchlist) ----
-    function renderWatchlist(list){
-      const wrap = document.getElementById('stocksWrap');
-      if(!wrap) return;
-      wrap.innerHTML = '';
-      if(!Array.isArray(list) || list.length===0){
-        wrap.innerHTML = '<div class="fine" style="padding:12px">No watchlist data yet.</div>';
-        return;
-      }
-      list.forEach(row=>{
-        const ch1d = row.pct_1d, cls1 = (ch1d>0?'pos':(ch1d<0?'neg':'flat'));
-        wrap.insertAdjacentHTML('beforeend', `
-          <div class="stock-row">
-            <div class="ticker">${row.symbol}</div>
-            <div class="name"></div>
-            <div class="desc"></div>
-            <div class="price">$${Number(row.price||0).toFixed(2)}</div>
-            <div class="${cls1}">${ch1d==null?'—':((ch1d>=0?'+':'')+(100*ch1d).toFixed(2)+'%')}</div>
-          </div>
-        `);
-      });
-    }
-
-    // ---- FEED (from S.feed) ----
-    function renderFeed(feed){
-      const wrap = document.getElementById('feedWrap');
-      if(!wrap) return;
-      wrap.innerHTML = '';
-      if(!Array.isArray(feed) || feed.length===0){
-        wrap.innerHTML = '<div class="fine">No headlines yet.</div>';
-        return;
-      }
-      feed.forEach(it=>{
-        const t = it.title || '—';
-        const L = it.link ? `<a href="${it.link}" target="_blank" rel="noopener noreferrer">${t}</a>` : t;
-        const ts = it.published ? ` <span class="fine">· ${it.published}</span>` : '';
-        wrap.insertAdjacentHTML('beforeend', `<div style="padding:8px 0;border-bottom:1px dashed var(--border)">• ${L}${ts}</div>`);
-      });
-    }
-
-    // Toggle wiring
     document.querySelectorAll('#typeToggle button').forEach(btn=>{
       btn.addEventListener('click', ()=>{
         document.querySelectorAll('#typeToggle button').forEach(b=>b.classList.remove('active'));
         btn.classList.add('active');
-        render(btn.dataset.type);
+        renderPermits(btn.dataset.type);
       });
     });
+    renderPermits('total');
 
-    // Initial paints
-    render('total');
-    renderWatchlist(S.watchlist || []);
-    renderFeed(S.feed || []);
+    // Watchlist (hydrate if S.watchlist exists; else show full static list with placeholders)
+    const DEFAULT_LIST = [
+      ["DHI","D.R. Horton"],["LEN","Lennar"],["NVR","NVR"],["TOL","Toll Brothers"],["PHM","PulteGroup"],["KBH","KB Home"],
+      ["MTH","Meritage"],["GRBK","Green Brick"],["BLDR","Builders FirstSource"],["HD","Home Depot"],["LOW","Lowe's"],
+      ["XHB","SPDR Homebuilders"],["ITB","iShares Home Construction"],
+      ["VNQ","Vanguard REIT"],["SPG","Simon Property"],["PLD","Prologis"],["AMT","American Tower"],["MAA","Mid-America Apt"],
+      ["AVB","AvalonBay"],["EQR","Equity Residential"],["O","Realty Income"],["INVH","Invitation Homes"],["AMH","American Homes 4 Rent"],
+      ["Z","Zillow"],["RDFN","Redfin"],["OPEN","Opendoor"],["OPAD","Offerpad"],
+      ["RKT","Rocket"],["UWMC","UWM"],["BAC","Bank of America"],["WFC","Wells Fargo"],["JPM","JPMorgan"],["USB","U.S. Bancorp"]
+    ];
+    const DESCRIPTIONS = {
+      "DHI":"Largest builder; entry-level muscle.",
+      "LEN":"Big builder; FL/TX footprint, options-heavy.",
+      "NVR":"Asset-light builder; ruthless buybacks.",
+      "TOL":"Luxury homes; margins, mood lighting.",
+      "PHM":"Scale builder; move-up exposure.",
+      "KBH":"West/Sun Belt; first-time skew.",
+      "MTH":"Entry-to-move-up; Sun Belt bias.",
+      "GRBK":"Texas growth engine; niche swagger.",
+      "BLDR":"Pro contractor supplier; price leverage.",
+      "HD":"Home improvement mothership; Pro bellwether.",
+      "LOW":"HD’s rival; catching Pro share.",
+      "XHB":"Homebuilder/supplier ETF; diversified.",
+      "ITB":"Builder-heavy ETF; beta on housing.",
+      "VNQ":"Broad REIT ETF; yield vehicle.",
+      "SPG":"A-mall REIT; dividends and Dior.",
+      "PLD":"Logistics REIT; boxes for everything.",
+      "AMT":"Tower REIT; 5G rent escalators.",
+      "MAA":"Sun Belt multifamily; steady eddy.",
+      "AVB":"Coastal Class-A apartments; cyclical.",
+      "EQR":"Urban coastal apts; regulation vibes.",
+      "O":"Net-lease REIT; monthly rent checks.",
+      "INVH":"SFR landlord; scaled operations.",
+      "AMH":"SFR REIT; build-to-rent push."
+    };
+    const wrap=$("#stocksWrap"); wrap.innerHTML='';
+    const WL = Array.isArray(S.watchlist)? S.watchlist.map(x=>[x.symbol, x.name||x.symbol]) : DEFAULT_LIST;
+    WL.forEach(([t,n])=>{
+      const desc = DESCRIPTIONS[t] || "Company in housing stack.";
+      const price = (S.watchlist?.find(w=>w.symbol===t)?.price);
+      const ch = (S.watchlist?.find(w=>w.symbol===t)?.pct_1d);
+      const chTxt = (ch==null)? '—' : ((ch>0?'+':'')+(100*ch).toFixed(2)+'%');
+      const chCls = ch==null? 'style="color:#64748b"' : (ch>0? 'style="color:#16a34a"' : (ch<0? 'style="color:#dc2626"':'style="color:#64748b"'));
+      wrap.insertAdjacentHTML('beforeend',
+        `<div class="stock-row">
+           <div class="ticker">${t}</div>
+           <div class="name">${n}</div>
+           <div class="desc">${desc}</div>
+           <div class="price">${price==null?'—':('$'+Number(price).toFixed(2))}</div>
+           <div ${chCls}>${chTxt}</div>
+         </div>`);
+    });
+
+    // FEED: render v6 block format from S.feed if provided
+    const sections = [['today','#today'], ['mom','#mom'], ['qtd','#qtd']];
+    const now = new Date();
+    setText($('#feedTime'), now.toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'}));
+    setText($('#feedDate'), now.toLocaleDateString());
+
+    function renderFeedBlocks(){
+      const F = S.feed || {};
+      sections.forEach(([key, sel])=>{
+        const arr = Array.isArray(F[key]) ? F[key] : [];
+        const mount = document.querySelector(sel);
+        mount.innerHTML = arr.length ? '' : '<div class="fine">No items yet.</div>';
+        arr.forEach(item=>{
+          mount.insertAdjacentHTML('beforeend',
+            blockHTML(item.h||'—', item.what, item.numbers, item.justify, item.why, item.market));
+        });
+      });
+    }
+    renderFeedBlocks();
+
+    // Takeaways from available data
+    function generateTakeaways(){
+      const mort = $('#mort30')?.innerText || '';
+      const mortDelta = $('#mort30Delta')?.innerText || '';
+      const ust10 = $('#ust10')?.innerText || '';
+      let upPerm=0, downPerm=0, leader=null, bestMoM=-1e9;
+
+      Object.values(msas).forEach(M=>{
+        const b = (document.querySelector('#typeToggle .active')?.dataset.type==='1unit')? M.one_unit : M.total;
+        if(b?.mom>0) upPerm++; else if(b?.mom<0) downPerm++;
+        if(b?.mom!=null && b.mom>bestMoM){ bestMoM=b.mom; leader= (M?.label)||''; }
+      });
+
+      const bullets = [
+        `Mortgage ${mort} (${mortDelta||'—'}).`,
+        `10Y ${ust10}.`,
+        `Permits breadth: ${upPerm} up / ${downPerm} down m/m${leader?`; leader ≈ strongest MoM`:''}.`,
+        `DOM data wired to state.json; watch changes where DOM is rising.`,
+      ];
+      $('#takeaways').innerHTML = "• " + bullets.join("<br/>• ");
+    }
+    generateTakeaways();
+    document.getElementById('refreshTakeaways').addEventListener('click', generateTakeaways);
   })();
-
-  // Placeholder action for the top button (kept for parity with earlier builds)
-  document.getElementById('refreshTakeaways').addEventListener('click', ()=>{
-    alert('Takeaways button kept for parity. The FEED list above is now hydrated from state.json.');
-  });
 </script>
 </body>
 </html>
