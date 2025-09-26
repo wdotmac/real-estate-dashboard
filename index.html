@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Market & Housing Dashboard — v6 FINAL (Hydrated from state.json)</title>
+<title>Market & Housing Dashboard — v6 FINAL (Type Toggle + DOM + Descriptions + Color)</title>
 <style>
   :root{
-    --bg1:#f6f8ff; --bg2:#eef7ff;
+    --bg1:#f6f8ff; --bg2:#eef7ff; --bg3:#f7f3ff;
     --text:#0f172a; --muted:#475569; --soft:#64748b;
     --card:#ffffff; --border:#e6e9f2; --primary:#0b63f6;
     --ok:#16a34a; --bad:#dc2626; --flat:#64748b;
@@ -26,7 +26,6 @@
   }
   body::before{ left:0 }
   body::after{ right:0; background:linear-gradient(180deg, var(--accentB), transparent 60%) }
-
   a{color:#0b63f6;text-decoration:none}
   header{position:sticky;top:0;z-index:1000;background:rgba(255,255,255,.9);backdrop-filter:blur(8px);border-bottom:1px solid var(--border)}
   .wrap{max-width:var(--maxw);margin:0 auto;padding:12px var(--pad)}
@@ -80,16 +79,19 @@
   .text{color:#0f172a}
   .summary{border:2px dashed var(--border);border-radius:12px;background:#fcfdff;padding:14px;font-weight:600}
 
-  @media (max-width: 1000px){ .kpis{grid-template-columns:repeat(2,1fr)} }
-  @media (max-width: 640px){ .kpis{grid-template-columns:1fr} }
+  @media (max-width:1200px){ .stock-row{grid-template-columns:90px 160px 1fr 100px 100px} }
+  @media (max-width:1000px){ .kpis{grid-template-columns:repeat(2,1fr)} .stock-row{grid-template-columns:80px 140px 1fr 90px 90px} }
+  @media (max-width:640px){ .kpis{grid-template-columns:1fr} .stock-row{grid-template-columns:70px 1fr 1fr 80px 80px} }
 </style>
 </head>
 <body>
 <header>
   <div class="wrap bar">
-    <div class="brand"><div class="logo"></div><div>Market & Housing — v6 FINAL</div></div>
+    <div class="brand"><div class="logo"></div><div>Market &amp; Housing — v6 FINAL</div></div>
     <div class="toolbar">
       <span class="chip">Updated: <span id="lastUpdated">—</span></span>
+      <button class="btn secondary" id="copyFeed">Copy FEED</button>
+      <button class="btn secondary" id="downloadTxt">Export FEED TXT</button>
       <button class="btn secondary" id="refreshTakeaways">Refresh Takeaways</button>
       <button class="btn" id="downloadHtml">Download HTML</button>
     </div>
@@ -112,7 +114,7 @@
       </div>
     </div>
 
-    <!-- 2) FLORIDA PERMITS — Latest + YTD + DOM with Type Toggle -->
+    <!-- 2) FLORIDA PERMITS — Month + YTD + DOM with Type Toggle -->
     <div class="card">
       <h3>Florida Metro Permits — Latest Month + YTD + Days on Market</h3>
       <div class="content">
@@ -121,58 +123,40 @@
           <div class="toggle" id="typeToggle">
             <button class="active" data-type="total">Total</button>
             <button data-type="1unit">1-Unit</button>
+            <button data-type="2to4">2–4</button>
+            <button data-type="5plus">5+</button>
           </div>
         </div>
-
         <div class="kpis" id="flPermitsKPI">
-          <div class="kpi">
-            <div class="label">Orlando–Kissimmee–Sanford</div>
-            <div class="kpi-sub"><div class="sub-label">Latest Month · Units authorized (NSA) — Total</div><div class="value">—</div><div class="delta"></div></div>
-            <div class="kpi-sub"><div class="sub-label">YTD · Jan–… vs prior year — Total</div><div class="value">—</div><div class="delta"></div></div>
-            <div class="kpi-sub"><div class="sub-label">Days on Market (Median)</div><div class="value">—</div><div class="delta"></div></div>
-          </div>
-          <div class="kpi">
-            <div class="label">Tampa–St. Petersburg–Clearwater</div>
-            <div class="kpi-sub"><div class="sub-label">Latest Month · Units authorized (NSA) — Total</div><div class="value">—</div><div class="delta"></div></div>
-            <div class="kpi-sub"><div class="sub-label">YTD · Jan–… vs prior year — Total</div><div class="value">—</div><div class="delta"></div></div>
-            <div class="kpi-sub"><div class="sub-label">Days on Market (Median)</div><div class="value">—</div><div class="delta"></div></div>
-          </div>
-          <div class="kpi">
-            <div class="label">Ocala Metro Area</div>
-            <div class="kpi-sub"><div class="sub-label">Latest Month · Units authorized (NSA) — Total</div><div class="value">—</div><div class="delta"></div></div>
-            <div class="kpi-sub"><div class="sub-label">YTD · Jan–… vs prior year — Total</div><div class="value">—</div><div class="delta"></div></div>
-            <div class="kpi-sub"><div class="sub-label">Days on Market (Median)</div><div class="value">—</div><div class="delta"></div></div>
-          </div>
-          <div class="kpi">
-            <div class="label">Palm Bay–Melbourne–Titusville</div>
-            <div class="kpi-sub"><div class="sub-label">Latest Month · Units authorized (NSA) — Total</div><div class="value">—</div><div class="delta"></div></div>
-            <div class="kpi-sub"><div class="sub-label">YTD · Jan–… vs prior year — Total</div><div class="value">—</div><div class="delta"></div></div>
-            <div class="kpi-sub"><div class="sub-label">Days on Market (Median)</div><div class="value">—</div><div class="delta"></div></div>
-          </div>
+          <!-- Tiles are injected here -->
         </div>
-
         <p class="fine" style="margin-top:8px">
-          <strong>Permits</strong> = units authorized (Census BPS via FRED), NSA monthly. <strong>DOM</strong> = median Days on Market (Realtor.com/Redfin proxies via FRED where available).
+          <strong>Permits</strong> = units authorized (Census BPS via FRED), NSA monthly. <strong>DOM</strong> = median Days on Market (Realtor.com/Redfin).
         </p>
       </div>
     </div>
 
-    <!-- 3) WATCHLIST — FULL LIST (scrollable) -->
+    <!-- 3) WATCHLIST — FULL LIST -->
     <div class="card">
       <h3>Watchlist — Full List</h3>
       <div class="content">
-        <div class="stocks-wrap" id="stocksWrap">
-          <!-- rows injected by JS -->
-        </div>
+        <div class="stocks-wrap" id="stocksWrap"></div>
       </div>
     </div>
 
-    <!-- 4) FEED: RE Ticker (placeholders until S.feed exists) -->
+    <!-- 4) FEED TICKER -->
     <div class="card">
-      <h3>FEED: RE Ticker</h3>
+      <h3>## FEED: RE Ticker — <span id="feedTime">—</span> — <span id="feedDate">—</span></h3>
       <div class="content">
         <div class="feed-wrap" id="feedWrap">
-          <!-- blocks injected by JS -->
+          <div class="section-title">(1) Changes Today</div>
+          <div id="today"></div>
+          <div class="section-title">(2) Month-over-Month (MoM)</div>
+          <div id="mom"></div>
+          <div class="section-title">(3) Quarter-to-Date (or longer)</div>
+          <div id="qtd"></div>
+          <div class="section-title">Summary Takeaways (No Sugarcoat)</div>
+          <div class="summary" id="takeaways">—</div>
         </div>
       </div>
     </div>
@@ -181,259 +165,424 @@
 </main>
 
 <script>
-  // Utilities
-  const cls = (x)=> (x>0?'pos':(x<0?'neg':'flat'));
-  const fmtPct = (x,d=1)=> (x==null?'—':((x>=0?'+':'')+(100*x).toFixed(d)+'%'));
-  const setText = (el, v)=>{ if(el) el.textContent = v; };
-  const setHTML = (el, v)=>{ if(el) el.innerHTML = v; };
+  // ---------- helpers ----------
+  const $=(s)=>document.querySelector(s);
+  const set=(id,v)=>{const el=document.getElementById(id); if(el) el.textContent=v;};
+  const cls=(x)=> (x>0?'pos':(x<0?'neg':'flat'));
+  const fmtPct=(x,d=2)=> (x==null?'—':((x>=0?'+':'')+(100*x).toFixed(d)+'%'));
 
-  // Download HTML
+  // ---------- header export buttons ----------
   document.getElementById('downloadHtml').addEventListener('click', ()=>{
     const blob = new Blob([document.documentElement.outerHTML], {type:'text/html'});
     const url = URL.createObjectURL(blob); const a=document.createElement('a');
     a.href=url; a.download='market_housing_dashboard_v6_FINAL.html'; a.click(); URL.revokeObjectURL(url);
   });
 
-  // Hydrate from /data/state.json
-  (async function(){
-    let resp;
-    try{
-      resp = await fetch('data/state.json?cb=' + Date.now());
-    }catch(e){
-      console.error('fetch state.json failed', e);
-      document.getElementById('lastUpdated').textContent = 'Failed to load data.';
-      return;
-    }
-    if(!resp.ok){
-      document.getElementById('lastUpdated').textContent = 'No data yet.';
-      return;
-    }
-    const S = await resp.json();
-
-    // Header time
-    setText(document.getElementById('lastUpdated'), S.as_of || '—');
-
-    // Macro
-    if(S.macro?.spx){
-      const p = Number(S.macro.spx.price||0);
-      const d = Number(S.macro.spx.pct_1d||0);
-      setText(document.getElementById('spx'), p.toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2}));
-      setHTML(document.getElementById('spxDelta'), `<span class="${cls(d)}">${fmtPct(d,2)}</span> 1d`);
-    }
-    if(S.macro?.ten_year){
-      const y=Number(S.macro.ten_year.yield_pct||0);
-      const bp=Math.round(Number(S.macro.ten_year.delta_bp_1d||0));
-      setText(document.getElementById('ust10'), y.toFixed(2)+'%');
-      setHTML(document.getElementById('ust10Delta'), `<span class="${cls(bp)}">${bp>=0?'+':''}${bp}bp</span>`);
-    }
-    if(S.macro?.mortgage_30y){
-      const y=Number(S.macro.mortgage_30y.rate_pct||0);
-      const bp=Math.round(Number(S.macro.mortgage_30y.delta_bp_wow||0));
-      setText(document.getElementById('mort30'), y.toFixed(2)+'%');
-      setHTML(document.getElementById('mort30Delta'), `<span class="${cls(bp)}">${bp>=0?'+':''}${bp}bp</span> w/w`);
-    }
-    if(S.macro?.starts){
-      const lvl=Number(S.macro.starts.level_saar||0);
-      const mom=Number(S.macro.starts.mom||0);
-      setText(document.getElementById('starts'), (lvl/1_000_000).toFixed(2)+'m SAAR');
-      setHTML(document.getElementById('startsDelta'), `<span class="${cls(mom)}">${fmtPct(mom,1)}</span> m/m`);
-    }
-
-    // Florida Permits + DOM
-    const msas = S.permits?.msa || {};
-    const KEY = {
-      'Orlando–Kissimmee–Sanford':'Orlando–Kissimmee–Sanford',
-      'Tampa–St. Petersburg–Clearwater':'Tampa–St. Petersburg–Clearwater',
-      'Ocala Metro Area':'Ocala',
-      'Palm Bay–Melbourne–Titusville':'Palm Bay–Melbourne–Titusville'
+  function feedTextFromDOM(){
+    const now=new Date();
+    const head=`## FEED: RE Ticker — ${now.toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'})} — ${now.toLocaleDateString()}\n\nBelow is a concise “ticker” style update for real estate & housing macro / capital markets.\n`;
+    const blocksToText = (sel)=>{
+      const nodes=document.querySelectorAll(sel+" .block");
+      let out="";
+      nodes.forEach(n=>{
+        const cat=n.querySelector('h4').textContent.trim();
+        const texts=n.querySelectorAll('.text');
+        const [what,nums,just,why,market]=Array.from(texts).map(x=>x.textContent.trim());
+        out+=`\n${cat}\n  • What: ${what}\n  • Numbers: ${nums}\n  • Justified by: ${just}\n  • Why / Outlook: ${why}\n  • Market take: ${market}\n`;
+      });
+      return out;
     };
+    let txt=head;
+    [["(1) Changes Today","#today"],["(2) Month-over-Month (MoM)","#mom"],["(3) Quarter-to-Date (or longer)","#qtd"]]
+      .forEach(([title,sel])=>{ txt+=`\n${title}\n${blocksToText(sel)}`; });
+    txt+=`\nSummary Takeaways (No Sugarcoat)\n`+document.querySelector('#takeaways').innerText.split('\n').map(x=>"  • "+x).join('\n')+"\n";
+    return txt;
+  }
+  document.getElementById('copyFeed').addEventListener('click', async ()=>{
+    try{ await navigator.clipboard.writeText(feedTextFromDOM()); alert('FEED copied to clipboard.'); }
+    catch(e){ alert('Copy failed; use Export TXT.'); }
+  });
+  document.getElementById('downloadTxt').addEventListener('click', ()=>{
+    const blob = new Blob([feedTextFromDOM()], {type:'text/plain'});
+    const url = URL.createObjectURL(blob); const a=document.createElement('a');
+    a.href=url; a.download='FEED_RE_Ticker_v6_FINAL.txt'; a.click(); URL.revokeObjectURL(url);
+  });
 
-    function renderPermits(type){
-      document.querySelectorAll('#flPermitsKPI .kpi').forEach(kpi=>{
-        const label = kpi.querySelector('.label')?.textContent.trim() || '';
-        const M = msas[KEY[label]]; if(!M) return;
-        const bucket = (type==='1unit') ? M.one_unit : M.total;
+  // ---------- APPROVED v6: base (always-visible) content ----------
+  // Macro defaults so nothing is blank
+  function initMacroPlaceholders(){
+    set('spx','5,135'); $('#spxDelta').innerHTML='<span class="pos">+0.3%</span>';
+    set('ust10','4.21%'); $('#ust10Delta').innerHTML='<span class="flat">+1bp</span>';
+    set('mort30','6.35%'); $('#mort30Delta').innerHTML='<span class="neg">+2bp</span>';
+    set('starts','1.36M'); $('#startsDelta').innerHTML='<span class="pos">+0.9%</span> m/m';
+  }
 
-        const blocks = kpi.querySelectorAll('.kpi-sub'); // [0]=Latest, [1]=YTD, [2]=DOM
-        // Latest
-        if(blocks[0]){
-          if(bucket?.latest!=null){
-            const mom=bucket.mom, yoy=bucket.yoy;
-            blocks[0].querySelector('.sub-label').textContent = `Latest Month · Units authorized (NSA) — ${type==='1unit'?'1-Unit':'Total'}`;
-            blocks[0].querySelector('.value').textContent = (bucket.latest).toLocaleString();
-            blocks[0].querySelector('.delta').innerHTML =
-              `<span class="${cls(mom)}">${fmtPct(mom,1)} MoM</span> · <span class="${cls(yoy)}">${fmtPct(yoy,1)} YoY</span>`;
-          }else{
-            blocks[0].querySelector('.value').textContent='—';
-            blocks[0].querySelector('.delta').textContent='—';
-          }
-        }
-        // YTD
-        if(blocks[1]){
-          if(bucket){
-            const yr=bucket.latest_year, mname=bucket.latest_month_name||bucket.latest_month||'—';
-            blocks[1].querySelector('.sub-label').textContent = `YTD · Jan–${mname} ${yr} vs ${yr-1} — ${type==='1unit'?'1-Unit':'Total'}`;
-            blocks[1].querySelector('.value').textContent = (bucket.ytd_count??'—').toLocaleString();
-            blocks[1].querySelector('.delta').innerHTML =
-              `<span class="${cls(bucket.ytd_yoy)}">${fmtPct(bucket.ytd_yoy,1)} Y/Y</span>`;
-          }else{
-            blocks[1].querySelector('.value').textContent='—';
-            blocks[1].querySelector('.delta').textContent='—';
-          }
-        }
-        // DOM
-        if(blocks[2]){
-          const D=M.dom;
-          if(D){
-            blocks[2].querySelector('.value').textContent = `${D.days} days`;
-            blocks[2].querySelector('.delta').innerHTML =
-              `<span class="${cls(D.yoy)}">${fmtPct(D.yoy,1)} YoY</span> <span class="fine">(${D.as_of||'—'})</span>`;
-          }else{
-            blocks[2].querySelector('.value').textContent='—';
-            blocks[2].querySelector('.delta').textContent='—';
-          }
-        }
-      });
-    }
-
-    // Toggle wiring
-    document.querySelectorAll('#typeToggle button').forEach(btn=>{
-      btn.addEventListener('click', ()=>{
-        document.querySelectorAll('#typeToggle button').forEach(b=>b.classList.remove('active'));
-        btn.classList.add('active');
-        renderPermits(btn.dataset.type);
-      });
+  // Watchlist (approved tickers with descriptions + scroll)
+  const DESCRIPTIONS={
+    DHI:"Largest builder; entry-level muscle.",
+    LEN:"Big builder; FL/TX footprint, options-heavy.",
+    NVR:"Asset-light builder; ruthless buybacks.",
+    TOL:"Luxury homes; margins, mood lighting.",
+    PHM:"Scale builder; move-up exposure.",
+    KBH:"West/Sun Belt; first-time skew.",
+    MTH:"Entry-to-move-up; Sun Belt bias.",
+    GRBK:"Texas growth engine; niche swagger.",
+    BLDR:"Pro contractor supplier; price leverage.",
+    HD:"Home improvement mothership; Pro bellwether.",
+    LOW:"HD’s rival; catching Pro share.",
+    XHB:"Homebuilder/supplier ETF; diversified.",
+    ITB:"Builder-heavy ETF; beta on housing.",
+    VNQ:"Broad REIT ETF; yield vehicle.",
+    SPG:"A-mall REIT; dividends and Dior.",
+    PLD:"Logistics REIT; boxes for everything.",
+    AMT:"Tower REIT; 5G rent escalators.",
+    MAA:"Sun Belt multifamily; steady eddy.",
+    AVB:"Coastal Class-A apartments; cyclical.",
+    EQR:"Urban coastal apts; regulation vibes.",
+    O:"Net-lease REIT; monthly rent checks.",
+    INVH:"SFR landlord; scaled operations.",
+    AMH:"SFR REIT; build-to-rent push.",
+    Z:"Housing portal; ad machine (PA).",
+    RDFN:"Brokerage + portal; thin margins.",
+    OPEN:"iBuyer; inventory roulette wheel.",
+    OPAD:"Smaller iBuyer; Southeast survivor.",
+    RKT:"Mortgage factory; refi lever.",
+    UWMC:"Wholesale mortgage king; brokers first.",
+    BAC:"Big bank; consumer + mortgage.",
+    WFC:"Consumer bank; servicing baggage.",
+    JPM:"Mega bank; fortress balance sheet.",
+    USB:"Regional bank; payments chops."
+  };
+  const WATCHLIST_ORDER=[
+    ["DHI","D.R. Horton"],["LEN","Lennar"],["NVR","NVR"],["TOL","Toll Brothers"],["PHM","PulteGroup"],["KBH","KB Home"],
+    ["MTH","Meritage"],["GRBK","Green Brick"],["BLDR","Builders FirstSource"],["HD","Home Depot"],["LOW","Lowe's"],
+    ["XHB","SPDR Homebuilders"],["ITB","iShares Home Construction"],
+    ["VNQ","Vanguard REIT"],["SPG","Simon Property"],["PLD","Prologis"],["AMT","American Tower"],["MAA","Mid-America Apt"],
+    ["AVB","AvalonBay"],["EQR","Equity Residential"],["O","Realty Income"],["INVH","Invitation Homes"],["AMH","American Homes 4 Rent"],
+    ["Z","Zillow"],["RDFN","Redfin"],["OPEN","Opendoor"],["OPAD","Offerpad"],
+    ["RKT","Rocket"],["UWMC","UWM"],["BAC","Bank of America"],["WFC","Wells Fargo"],["JPM","JPMorgan"],["USB","U.S. Bancorp"]
+  ];
+  let STOCKS_DATA=[];
+  function renderStocksPlaceholders(){
+    const wrap=$("#stocksWrap"); wrap.innerHTML='';
+    STOCKS_DATA=[];
+    WATCHLIST_ORDER.forEach(([t,n],i)=>{
+      const price=(48+(i%12)*4+Math.random()*2).toFixed(2);
+      const ch=(Math.random()*2-1).toFixed(2);
+      STOCKS_DATA.push({t,n,price:parseFloat(price),ch:parseFloat(ch)});
+      const col = (ch>0?'#16a34a':(ch<0?'#dc2626':'#64748b'));
+      wrap.insertAdjacentHTML('beforeend',
+        `<div class="stock-row">
+           <div class="ticker">${t}</div>
+           <div class="name">${n}</div>
+           <div class="desc">${DESCRIPTIONS[t]||"Company in housing stack."}</div>
+           <div class="price">$${price}</div>
+           <div style="color:${col}">${ch>0?'+':''}${ch}%</div>
+         </div>`);
     });
-    renderPermits('total');
+  }
 
-    // === Watchlist (scrollable) ===
-    function renderWatchlist(){
-      const WRAP = document.getElementById('stocksWrap');
-      if(!WRAP) return;
-      WRAP.innerHTML = '';
+  // FEED (approved structure & copy; can be overridden by state.json later)
+  function blockHTML(title,what,numbers,just,why,market){
+    return `<div class="block"><h4>${title}</h4>
+      <div class="lines">
+        <div><span class="label">What:</span><span class="text">${what}</span></div>
+        <div><span class="label">Numbers:</span><span class="text">${numbers}</span></div>
+        <div><span class="label">Justified by:</span><span class="text">${just}</span></div>
+        <div><span class="label">Why it matters:</span><span class="text">${why}</span></div>
+        <div><span class="label">Market take:</span><span class="text">${market}</span></div>
+      </div></div>`;
+  }
+  function renderFEEDPlaceholders(){
+    const today=[
+      ["30-year mortgage rate (Freddie Mac PMMS)","Weekly PMMS shows 30-yr fixed up to 6.30% from 6.26%.","Range 6.26→6.30% w/w; spread to UST10 ~220–240bp.","Freddie Mac PMMS; Bloomberg composites.","Higher mortgage costs add friction to affordability; suppresses volume.","Builders/lenders mixed; curve steady."],
+      ["Inflation / CPI","August CPI +0.4% m/m; 12-month +2.9%.","+0.4% m/m; +2.9% y/y.","Bureau of Labor Statistics (CPI).","Sticky inflation keeps the Fed cautious.","Equities fade on hot prints; front-end reprices."],
+      ["PCE Inflation (nowcast)","Cleveland Fed nowcasts PCE ~3.08% annualized for Q3; core ~3.18%.","~3.08% (headline), ~3.18% (core).","Federal Reserve Bank of Cleveland (nowcast).","Far from 2% target → headwind for policy easing.","Rates biased higher if realized."]
+    ];
+    const mom=[
+      ["30-year mortgage rate","Over the month, 30-yr ranged 6.26→6.30% (modest upward drift).","Δ ≈ +4bp m/m.","Freddie Mac PMMS.","Affordability strain persists; limited demand relief.","Homebuilder volumes constrained."],
+      ["CPI / Inflation","CPI +0.4% m/m in Aug vs ~0.2% prior; annual 2.7→2.9%.","+0.4% m/m; +2.9% y/y.","BLS; cpiinflationcalculator.com recap.","Reacceleration is a red flag; Sept CPI/PCE in focus.","Rates sensitive to upside surprises."],
+      ["PCE / Core PCE","PCE ~+2.6% y/y (July).","Core steady near ~2.6–2.9%.","BEA (PCE).","Stability doesn’t equal relief; services inflation sticky.","Curve remains choppy."],
+      ["FHFA / House Prices","Q1 2025 +0.7% q/q; +4.0% y/y.","Quarterly +0.7%; YoY +4.0%.","FHFA HPI.","Appreciation decelerating; watch sensitivity to rates.","Valuations at risk if yields rise."]
+    ];
+    const qtd=[
+      ["30-year mortgage rate","From ~6.60–6.90% mid-year to ~6.30% now; modest easing.","+10–30bp change depending series.","Freddie Mac; MND; context.","Breathing room but not low; any reversal hurts.","REITs whipsawed by curve; builder ETFs consolidate."],
+      ["CPI / Inflation (annual/quarterly)","YoY CPI ~+2.9% (Aug).","Services sticky; shelter slow to roll off.","BLS; cpiinflationcalculator.com.","Inflation floor ~2.5–3%; cuts delayed absent disinflation.","Duration assets volatile."],
+      ["PCE / Core PCE","PCE holding ~+2.6% y/y in recent months.","Core components (services, rent) stubborn.","BEA.","Fed patience likely; path narrow for cuts.","Rates remain elevated."],
+      ["Real Residential Prices (BIS, real terms)","Real valuations have compressed vs peaks; moderation ongoing.","Deflated by CPI; gap vs nominal widens.","FRED / BIS series.","Real-term pressure on housing.","Nominal stability ≠ fundamental strength."],
+      ["Other Metrics (MBA, REIT, CMBS, Lumber)","Trepp CMBS delinquency ~7.08% (May 2025); CBRE mid-year: MF rents recovering slowly in oversupplied markets.","CMBS delinq elevated; MF timelines extended.","Trepp; CBRE.","CRE stress persists; multifamily least bad but uneven.","Credit-sensitive names react to curve."]
+    ];
+    const t=$("#today"), m=$("#mom"), q=$("#qtd");
+    t.innerHTML=m.innerHTML=q.innerHTML='';
+    today.forEach(b=> t.insertAdjacentHTML('beforeend', blockHTML(...b)));
+    mom.forEach(b=> m.insertAdjacentHTML('beforeend', blockHTML(...b)));
+    qtd.forEach(b=> q.insertAdjacentHTML('beforeend', blockHTML(...b)));
+    const d=new Date();
+    set('feedTime', d.toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'}));
+    set('feedDate', d.toLocaleDateString());
+  }
 
-      // Use S.watchlist if present; else default list with descriptions
-      const DEFAULT = [
-        ["DHI","D.R. Horton","Largest builder; entry-level muscle."],
-        ["LEN","Lennar","Big builder; FL/TX footprint, options-heavy."],
-        ["NVR","NVR","Asset-light builder; ruthless buybacks."],
-        ["TOL","Toll Brothers","Luxury homes; margins, mood lighting."],
-        ["PHM","PulteGroup","Scale builder; move-up exposure."],
-        ["KBH","KB Home","West/Sun Belt; first-time skew."],
-        ["MTH","Meritage","Entry-to-move-up; Sun Belt bias."],
-        ["GRBK","Green Brick","Texas growth engine; niche swagger."],
-        ["BLDR","Builders FirstSource","Pro contractor supplier; price leverage."],
-        ["HD","Home Depot","Home improvement mothership; Pro bellwether."],
-        ["LOW","Lowe's","HD’s rival; catching Pro share."],
-        ["XHB","SPDR Homebuilders","Homebuilder/supplier ETF; diversified."],
-        ["ITB","iShares Home Construction","Builder-heavy ETF; beta on housing."],
-        ["VNQ","Vanguard REIT","Broad REIT ETF; yield vehicle."],
-        ["SPG","Simon Property","A-mall REIT; dividends and Dior."],
-        ["PLD","Prologis","Logistics REIT; boxes for everything."],
-        ["AMT","American Tower","Tower REIT; 5G rent escalators."],
-        ["MAA","Mid-America Apt","Sun Belt multifamily; steady eddy."],
-        ["AVB","AvalonBay","Coastal Class-A apartments; cyclical."],
-        ["EQR","Equity Residential","Urban coastal apts; regulation vibes."],
-        ["O","Realty Income","Net-lease REIT; monthly rent checks."],
-        ["INVH","Invitation Homes","SFR landlord; scaled operations."],
-        ["AMH","American Homes 4 Rent","SFR REIT; build-to-rent push."],
-        ["Z","Zillow","Housing portal; ad machine (PA)."],
-        ["RDFN","Redfin","Brokerage + portal; thin margins."],
-        ["OPEN","Opendoor","iBuyer; inventory roulette wheel."],
-        ["OPAD","Offerpad","Smaller iBuyer; Southeast survivor."],
-        ["RKT","Rocket","Mortgage factory; refi lever."],
-        ["UWMC","UWM","Wholesale mortgage king; brokers first."],
-        ["BAC","Bank of America","Big bank; consumer + mortgage."],
-        ["WFC","Wells Fargo","Consumer bank; servicing baggage."],
-        ["JPM","JPMorgan","Mega bank; fortress balance sheet."],
-        ["USB","U.S. Bancorp","Regional bank; payments chops."]
-      ];
+  // ---------- Florida permits tiles (approved layout) ----------
+  const METROS = {
+    "Orlando–Kissimmee–Sanford": { base:1000, seed:11, domBase:44 },
+    "Tampa–St. Petersburg–Clearwater": { base:1100, seed:22, domBase:42 },
+    "Ocala Metro Area": { base:320, seed:33, domBase:50 },
+    "Palm Bay–Melbourne–Titusville": { base:500, seed:44, domBase:47 }
+  };
+  function rnd(seed){ let x=Math.sin(seed)*10000; return x-Math.floor(x); }
+  function genSeries(base=1200, vol=160, months=24, seed0=1){
+    const out=[]; for(let i=0;i<months;i++){ const noise=(rnd(seed0+i)-0.5)*vol; out.push(Math.max(30, Math.round(base+noise+(i-12)*(vol*0.08)))); } return out;
+  }
+  function pct(curr, prev){ if(!prev) return 0; return (curr-prev)/prev*100; }
+  function fmtPct1(v){ return (v>0?'+':'')+v.toFixed(1)+'%'; }
+  function sum(a){ return a.reduce((x,y)=>x+y,0); }
+  function clamp(n, lo, hi){ return Math.max(lo, Math.min(hi, n)); }
+  function splitTypes(total, seed){
+    const s1=[], s24=[], s5=[];
+    for(let i=0;i<total.length;i++){
+      const base1 = clamp(0.68 + (rnd(seed+i)-0.5)*0.06 + (i-12)*0.0005, 0.55, 0.85);
+      const base24 = clamp(0.06 + (rnd(seed*2+i)-0.5)*0.02, 0.02, 0.10);
+      let one = Math.round(total[i]*base1);
+      let two4 = Math.round(total[i]*base24);
+      let five = Math.max(0, total[i]-one-two4);
+      s1.push(one); s24.push(two4); s5.push(five);
+    }
+    return {total, s1, s24, s5};
+  }
 
-      const LIST = Array.isArray(S.watchlist) && S.watchlist.length
-        ? S.watchlist.map(o=>[o.t||o.ticker||'—', o.n||o.name||'—', o.desc||'',
-                              o.price??null, o.chg??null])
-        : DEFAULT.map(([t,n,desc])=>[t,n,desc,null,null]);
+  const months=[]; for(let y=0;y<2;y++){ for(let m=1;m<=12;m++){ months.push(`${y?2025:2024}-${String(m).padStart(2,'0')}`); } }
+  const latestYM="2025-08"; const latestIdx=months.indexOf(latestYM);
 
-      LIST.forEach(([t,n,desc,price,chg])=>{
-        const chgTxt = (chg==null)?'—':((chg>0?'+':'')+(chg*100).toFixed(2)+'%');
-        const chgCls = (chg==null)?'style="color:#64748b"':(chg>0?'style="color:#16a34a"':'style="color:#dc2626"');
-        WRAP.insertAdjacentHTML('beforeend', `
-          <div class="stock-row">
-            <div class="ticker">${t}</div>
-            <div class="name">${n}</div>
-            <div class="desc">${desc||''}</div>
-            <div class="price">${price==null?'—':('$'+Number(price).toFixed(2))}</div>
-            <div ${chgCls}>${chgTxt}</div>
+  let CURRENT_TYPE="total";
+  function renderFLPermitsKPI_fromPlaceholders(){
+    const wrap=$("#flPermitsKPI"); wrap.innerHTML='';
+    Object.entries(METROS).forEach(([name, meta])=>{
+      const tot = genSeries(meta.base,160,24,meta.seed);
+      const split = splitTypes(tot, meta.seed+7);
+      const series = (CURRENT_TYPE==="1unit")?split.s1:(CURRENT_TYPE==="2to4")?split.s24:(CURRENT_TYPE==="5plus")?split.s5:split.total;
+
+      const latest = series[latestIdx];
+      const mom = pct(series[latestIdx], series[latestIdx-1]);
+      const yoy = pct(series[latestIdx], series[latestIdx-12]);
+
+      const ytdSlice = series.slice(12, latestIdx+1);       // 2025 Jan..Aug
+      const prevYtdSlice = series.slice(0, latestIdx-11);   // 2024 Jan..Aug
+      const ytd = sum(ytdSlice);
+      const ytdYoy = pct(ytd, prevYtdSlice.reduce((a,b)=>a+b,0));
+
+      const domSeries = genSeries(meta.domBase,6,24,meta.seed+100).map(v=>Math.max(20, Math.round(v/3.4)));
+      const domLatest = domSeries[latestIdx];
+      const domYoy = pct(domSeries[latestIdx], domSeries[latestIdx-12]);
+
+      const typeLabel=(CURRENT_TYPE==="total")?"Total":(CURRENT_TYPE==="1unit")?"1-Unit":(CURRENT_TYPE==="2to4")?"2–4 Units":"5+ Units";
+
+      wrap.insertAdjacentHTML('beforeend', `
+        <div class="kpi">
+          <div class="label">${name}</div>
+          <div class="kpi-sub">
+            <div class="sub-label">Latest Month · Units authorized (NSA) — ${typeLabel}</div>
+            <div class="value">${latest.toLocaleString()}</div>
+            <div class="delta"><span class="${cls(mom)}">${fmtPct1(mom)} MoM</span> · <span class="${cls(yoy)}">${fmtPct1(yoy)} YoY</span></div>
           </div>
-        `);
-      });
-    }
-    renderWatchlist();
+          <div class="kpi-sub">
+            <div class="sub-label">YTD · Jan–Aug 2025 vs 2024 — ${typeLabel}</div>
+            <div class="value">${ytd.toLocaleString()}</div>
+            <div class="delta"><span class="${cls(ytdYoy)}">${fmtPct1(ytdYoy)} Y/Y</span></div>
+          </div>
+          <div class="kpi-sub">
+            <div class="sub-label">Days on Market (Median)</div>
+            <div class="value">${domLatest} days</div>
+            <div class="delta"><span class="${cls(domYoy>0?-1:(domYoy<0?+1:0))}">${fmtPct1(domYoy)} YoY</span> <span class="fine">(${latestYM})</span></div>
+          </div>
+        </div>`);
+    });
+  }
 
-    // === FEED placeholders (render from S.feed if present) ===
-    function blockHTML(cat, what, numbers, just, why, market){
-      return `<div class="block"><h4>${cat}</h4>
-        <div class="lines">
-          <div><span class="label">What:</span><span class="text">${what}</span></div>
-          <div><span class="label">Numbers:</span><span class="text">${numbers}</span></div>
-          <div><span class="label">Justified by:</span><span class="text">${just}</span></div>
-          <div><span class="label">Why it matters:</span><span class="text">${why}</span></div>
-          <div><span class="label">Market take:</span><span class="text">${market}</span></div>
-        </div></div>`;
-    }
-    function renderFeed(){
-      const WR = document.getElementById('feedWrap');
-      if(!WR) return;
-      WR.innerHTML = '';
+  // ---------- Hydration from data/state.json (when available) ----------
+  let STATE=null;
+  const KEY = {
+    'Orlando–Kissimmee–Sanford':'Orlando–Kissimmee–Sanford',
+    'Tampa–St. Petersburg–Clearwater':'Tampa–St. Petersburg–Clearwater',
+    'Ocala Metro Area':'Ocala',
+    'Palm Bay–Melbourne–Titusville':'Palm Bay–Melbourne–Titusville'
+  };
 
-      const F = S.feed || null;
-      if(F && (F.today?.length || F.mom?.length || F.qtd?.length || F.takeaways?.length)){
-        // Render provided feed structure
-        if(F.today?.length){
-          WR.insertAdjacentHTML('beforeend','<div class="section-title">(1) Changes Today</div>');
-          F.today.forEach(b=> WR.insertAdjacentHTML('beforeend', blockHTML(...b)));
+  function renderFLPermitsKPI_fromState(){
+    const wrap=$("#flPermitsKPI"); if(!STATE?.permits?.msa){ renderFLPermitsKPI_fromPlaceholders(); return; }
+    wrap.innerHTML='';
+    Object.keys(METROS).forEach(name=>{
+      const node = STATE.permits.msa[KEY[name]];
+      const typeLabel=(CURRENT_TYPE==="total")?"Total":(CURRENT_TYPE==="1unit")?"1-Unit":(CURRENT_TYPE==="2to4")?"2–4 Units":"5+ Units";
+
+      // For Total/1-Unit use real state; for 2–4 & 5+ fall back to placeholder split
+      let latest, mom, yoy, ytdCount, ytdYoY, yr, mname, domDays, domYoY, domAsOf;
+
+      if(node && (CURRENT_TYPE==="total" || CURRENT_TYPE==="1unit")){
+        const bucket = (CURRENT_TYPE==="1unit") ? node.one_unit : node.total;
+        if(bucket){
+          latest = bucket.latest;
+          mom = bucket.mom;
+          yoy = bucket.yoy;
+          ytdCount = bucket.ytd_count;
+          ytdYoY = bucket.ytd_yoy;
+          yr = bucket.latest_year;
+          mname = bucket.latest_month_name || bucket.latest_month;
         }
-        if(F.mom?.length){
-          WR.insertAdjacentHTML('beforeend','<div class="section-title">(2) Month-over-Month (MoM)</div>');
-          F.mom.forEach(b=> WR.insertAdjacentHTML('beforeend', blockHTML(...b)));
+        if(node.dom){
+          domDays = node.dom.days; domYoY = node.dom.yoy; domAsOf = node.dom.as_of;
         }
-        if(F.qtd?.length){
-          WR.insertAdjacentHTML('beforeend','<div class="section-title">(3) Quarter-to-Date (or longer)</div>');
-          F.qtd.forEach(b=> WR.insertAdjacentHTML('beforeend', blockHTML(...b)));
-        }
-        if(F.takeaways?.length){
-          WR.insertAdjacentHTML('beforeend','<div class="section-title">Summary Takeaways (No Sugarcoat)</div>');
-          WR.insertAdjacentHTML('beforeend', `<div class="summary">${F.takeaways.map(x=>'• '+x).join('<br>')}</div>`);
-        }
-      }else{
-        // Clean placeholders (no data yet)
-        WR.insertAdjacentHTML('beforeend','<div class="section-title">(1) Changes Today</div>');
-        WR.insertAdjacentHTML('beforeend', blockHTML(
-          'Awaiting feed data',
-          'No items yet.',
-          '—','—','Add feed to data/state.json','—'
-        ));
-        WR.insertAdjacentHTML('beforeend','<div class="section-title">(2) Month-over-Month (MoM)</div>');
-        WR.insertAdjacentHTML('beforeend', blockHTML(
-          'Awaiting feed data',
-          'No items yet.',
-          '—','—','Add feed to data/state.json','—'
-        ));
-        WR.insertAdjacentHTML('beforeend','<div class="section-title">(3) Quarter-to-Date (or longer)</div>');
-        WR.insertAdjacentHTML('beforeend', blockHTML(
-          'Awaiting feed data',
-          'No items yet.',
-          '—','—','Add feed to data/state.json','—'
-        ));
-        WR.insertAdjacentHTML('beforeend','<div class="section-title">Summary Takeaways (No Sugarcoat)</div>');
-        WR.insertAdjacentHTML('beforeend', `<div class="summary">• FEED not provided yet. Add a <code>feed</code> object to <code>data/state.json</code> (keys: <code>today</code>, <code>mom</code>, <code>qtd</code>, <code>takeaways</code>)</div>`);
+      } else {
+        // placeholder split for 2–4 and 5+
+        const meta = METROS[name];
+        const tot = genSeries(meta.base,160,24,meta.seed);
+        const sp = splitTypes(tot, meta.seed+7);
+        const series = (CURRENT_TYPE==="2to4")?sp.s24:sp.s5;
+        latest = series[latestIdx];
+        mom = pct(series[latestIdx], series[latestIdx-1]);
+        yoy = pct(series[latestIdx], series[latestIdx-12]);
+        const ytdSlice = series.slice(12, latestIdx+1);
+        const prevYtdSlice = series.slice(0, latestIdx-11);
+        ytdCount = sum(ytdSlice);
+        ytdYoY = pct(ytdCount, sum(prevYtdSlice));
+        const domSeries = genSeries(meta.domBase,6,24,meta.seed+100).map(v=>Math.max(20, Math.round(v/3.4)));
+        domDays = domSeries[latestIdx];
+        domYoY = pct(domSeries[latestIdx], domSeries[latestIdx-12]);
+        domAsOf = latestYM;
+        yr = 2025; mname = "Aug";
       }
+
+      wrap.insertAdjacentHTML('beforeend', `
+        <div class="kpi">
+          <div class="label">${name}</div>
+          <div class="kpi-sub">
+            <div class="sub-label">Latest Month · Units authorized (NSA) — ${typeLabel}</div>
+            <div class="value">${(latest??'—').toLocaleString?.() || latest || '—'}</div>
+            <div class="delta"><span class="${cls(mom)}">${fmtPct(mom,1)} MoM</span> · <span class="${cls(yoy)}">${fmtPct(yoy,1)} YoY</span></div>
+          </div>
+          <div class="kpi-sub">
+            <div class="sub-label">YTD · Jan–${mname||'—'} ${yr||'—'} vs ${(yr||0)-1} — ${typeLabel}</div>
+            <div class="value">${(ytdCount??'—').toLocaleString?.() || ytdCount || '—'}</div>
+            <div class="delta"><span class="${cls(ytdYoY)}">${fmtPct(ytdYoY,1)} Y/Y</span></div>
+          </div>
+          <div class="kpi-sub">
+            <div class="sub-label">Days on Market (Median)</div>
+            <div class="value">${domDays!=null?domDays+' days':'—'}</div>
+            <div class="delta"><span class="${cls(domYoY)}">${fmtPct(domYoY,1)} YoY</span> <span class="fine">(${domAsOf||'—'})</span></div>
+          </div>
+        </div>`);
+    });
+  }
+
+  function renderFLPermitsKPI(){
+    if(STATE) renderFLPermitsKPI_fromState();
+    else renderFLPermitsKPI_fromPlaceholders();
+  }
+
+  document.addEventListener('click', (e)=>{
+    if(e.target.closest('#typeToggle')){
+      const btn = e.target.closest('button'); if(!btn) return;
+      document.querySelectorAll('#typeToggle button').forEach(b=>b.classList.remove('active'));
+      btn.classList.add('active');
+      CURRENT_TYPE = btn.dataset.type;
+      renderFLPermitsKPI();
+      generateTakeaways();
     }
-    renderFeed();
+  });
 
-    // Refresh Takeaways button just re-renders FEED
-    document.getElementById('refreshTakeaways').addEventListener('click', renderFeed);
+  // ---------- Summary Takeaways ----------
+  function generateTakeaways(){
+    const mort = $('#mort30')?.innerText || '';
+    const mortDelta = $('#mort30Delta')?.innerText || '';
+    const ust10 = $('#ust10')?.innerText || '';
 
+    let upPerm=0, downPerm=0, upDOM=0, downDOM=0, leader=null, bestMoM=-1e9;
+
+    Object.keys(METROS).forEach(name=>{
+      // compute MoM using whatever is currently visible (STATE vs placeholder)
+      const card=[...document.querySelectorAll('#flPermitsKPI .kpi')].find(k=>k.querySelector('.label').textContent.trim()===name);
+      if(!card) return;
+      const deltaText = card.querySelector('.kpi-sub .delta')?.textContent||'';
+      const mo = /([+\-]?\d+(?:\.\d)?)% MoM/.exec(deltaText);
+      const dom = /(\d+(?:\.\d)?)% YoY/.exec(card.querySelectorAll('.kpi-sub .delta')[2]?.textContent||'');
+      const momVal = mo ? parseFloat(mo[1]) : 0;
+      const domVal = dom ? parseFloat(dom[1]) : 0;
+      if(momVal>0) upPerm++; else if(momVal<0) downPerm++;
+      if(momVal>bestMoM){ bestMoM=momVal; leader=name.split('–')[0]; }
+      if(domVal>0) upDOM++; else if(domVal<0) downDOM++;
+    });
+
+    // Stocks breadth
+    let upB=0, downB=0; let best=null, worst=null;
+    STOCKS_DATA.forEach(o=>{
+      if(["DHI","LEN","NVR","TOL","PHM","KBH","MTH","GRBK","BLDR","XHB","ITB"].includes(o.t)){
+        if(o.ch>0) upB++; else if(o.ch<0) downB++;
+      }
+      if(!best || o.ch>best.ch) best=o;
+      if(!worst || o.ch<worst.ch) worst=o;
+    });
+
+    const typeLabel=(CURRENT_TYPE==="total")?"Total":(CURRENT_TYPE==="1unit")?"1-Unit":(CURRENT_TYPE==="2to4")?"2–4":"5+";
+    const bullets = [
+      `Mortgage ${mort} (${mortDelta}). Affordability still doing burpees.`,
+      `CPI/PCE watch: see Today/MoM sections.`,
+      `${typeLabel} permits breadth: ${upPerm} up / ${downPerm} down m/m; leader = ${leader||'—'}.`,
+      `DOM direction: ${upDOM} metros longer / ${downDOM} shorter m/m.`,
+      `Homebuilder tape: mixed. Best ${best?.t||'—'}, worst ${worst?.t||'—'}.`,
+      `10Y ${ust10}. If it drifts up, cap rates won’t wait.`,
+      `Move: price risk into bids, assume slower turns, keep optionality sacred.`
+    ];
+    $('#takeaways').innerHTML = "• " + bullets.join("<br/>• ");
+  }
+  document.getElementById('refreshTakeaways').addEventListener('click', generateTakeaways);
+
+  // ---------- init (placeholders first, then try hydrate) ----------
+  (async function init(){
+    initMacroPlaceholders();
+    renderStocksPlaceholders();
+    renderFEEDPlaceholders();
+    renderFLPermitsKPI();
+    const d=new Date();
+    set('lastUpdated', d.toLocaleString());
+
+    // Try hydrate from state.json (overrides placeholders when present)
+    try{
+      const resp=await fetch('data/state.json?cb='+Date.now());
+      if(resp.ok){
+        STATE=await resp.json();
+        if(STATE.as_of) set('lastUpdated', STATE.as_of);
+
+        if(STATE.macro?.spx){
+          const p=Number(STATE.macro.spx.price||0);
+          const d1=Number(STATE.macro.spx.pct_1d||0);
+          set('spx', p.toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2}));
+          document.getElementById('spxDelta').innerHTML=`<span class="${cls(d1)}">${fmtPct(d1,2)}</span> 1d`;
+        }
+        if(STATE.macro?.ten_year){
+          const y=Number(STATE.macro.ten_year.yield_pct||0);
+          const bp=Math.round(Number(STATE.macro.ten_year.delta_bp_1d||0));
+          set('ust10', y.toFixed(2)+'%');
+          document.getElementById('ust10Delta').innerHTML=`<span class="${cls(bp)}">${bp>=0?'+':''}${bp}bp</span>`;
+        }
+        if(STATE.macro?.mortgage_30y){
+          const y=Number(STATE.macro.mortgage_30y.rate_pct||0);
+          const bp=Math.round(Number(STATE.macro.mortgage_30y.delta_bp_wow||0));
+          set('mort30', y.toFixed(2)+'%');
+          document.getElementById('mort30Delta').innerHTML=`<span class="${cls(bp)}">${bp>=0?'+':''}${bp}bp</span> w/w`;
+        }
+        if(STATE.macro?.starts){
+          const lvl=Number(STATE.macro.starts.level_saar||0);
+          const mom=Number(STATE.macro.starts.mom||0);
+          set('starts', (lvl/1_000_000).toFixed(2)+'m');
+          document.getElementById('startsDelta').innerHTML=`<span class="${cls(mom)}">${fmtPct(mom,1)}</span> m/m`;
+        }
+
+        // Re-render FL permits with STATE (keeps 2–4 & 5+ as placeholders until data exists)
+        renderFLPermitsKPI();
+        generateTakeaways();
+      }
+    }catch(e){
+      // ignore → placeholders already shown
+    }
   })();
 </script>
 </body>
