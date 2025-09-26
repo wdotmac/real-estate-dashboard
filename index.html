@@ -1,136 +1,169 @@
-<script>
-/* FINAL dashboard data hydration — uses data/state.json produced by GitHub Actions */
-(async function () {
-  // Fetch state.json (cache-buster to avoid stale CDN)
-  let resp;
-  try {
-    resp = await fetch('data/state.json?cb=' + Date.now());
-  } catch (e) {
-    console.error('Failed to fetch state.json', e);
-    document.getElementById('lastUpdated')?.replaceChildren('Failed to load data.');
-    return;
-  }
-  if (!resp.ok) {
-    document.getElementById('lastUpdated')?.replaceChildren('No data yet.');
-    return;
-  }
-  const S = await resp.json();
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Real Estate Daily Dashboard</title>
+  <style>
+    :root { font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial, sans-serif; }
+    body { margin: 0; color: #111; background: #fff; }
+    header { padding: 16px; border-bottom: 1px solid #eee; }
+    main { max-width: 1200px; margin: 0 auto; padding: 16px; }
+    h1 { font-size: 20px; margin: 0; }
+    h2 { margin: 10px 0 8px; font-size: 16px; }
+    .asof { color: #666; font-size: 12px; margin-top: 4px; }
+    section { margin: 24px 0; }
+    .card { border: 1px solid #eee; border-radius: 12px; padding: 16px; background: #fff; }
+    .grid { display: grid; gap: 12px; }
+    .grid.cols-2 { grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+    .kpi-label { color: #666; font-size: 12px; }
+    .kpi-value { font-size: 22px; margin: 6px 0 8px; }
+    .kpi-sub { color: #666; font-size: 12px; }
+    .pos { color: #0a7a21; }
+    .neg { color: #b00020; }
+    table { width: 100%; border-collapse: collapse; font-size: 14px; }
+    th, td { padding: 8px; border-bottom: 1px solid #f0f0f0; text-align: left; }
+    th { background: #fafafa; position: sticky; top: 0; z-index: 1; }
+    .muted { color: #666; font-size: 12px; }
+    .ticker { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    /* FEED ticker */
+    .feedbar { border: 1px solid #eee; border-radius: 12px; padding: 10px 12px; background: #fff; }
+    .feeditem { font-size: 14px; margin: 6px 0; }
+    .feeditem a { text-decoration: none; color: #0366d6; }
+    .tabs { display: flex; gap: 6px; margin-bottom: 8px; }
+    .tab { font-size: 12px; padding: 6px 10px; border: 1px solid #eee; border-radius: 16px; cursor: default; background: #fafafa; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Real Estate Daily Dashboard</h1>
+    <div class="asof" id="lastUpdated">Loading…</div>
+  </header>
+  <main>
+    <!-- 1) Macro Snapshot -->
+    <section>
+      <h2>1) Macro Snapshot</h2>
+      <div id="macro" class="grid cols-2">
+        <div class="card"><div class="kpi-label">S&amp;P 500</div><div class="kpi-value" id="spx">—</div><div class="kpi-sub" id="spxDelta"></div></div>
+        <div class="card"><div class="kpi-label">10Y Treasury</div><div class="kpi-value" id="ust10">—</div><div class="kpi-sub" id="ust10Delta"></div></div>
+        <div class="card"><div class="kpi-label">30Y Mortgage</div><div class="kpi-value" id="mort30">—</div><div class="kpi-sub" id="mort30Delta"></div></div>
+        <div class="card"><div class="kpi-label">Housing Starts</div><div class="kpi-value" id="starts">—</div><div class="kpi-sub" id="startsDelta"></div></div>
+      </div>
+    </section>
 
-  // Helpers
-  const fmtPct = (x, d=2) => (x === null || x === undefined) ? '—' : ((x>=0?'+':'') + (100*x).toFixed(d) + '%');
-  const cls = (x) => (x>0?'pos':(x<0?'neg':'flat'));
-  const setHTML = (el, html) => { if (el) el.innerHTML = html; };
-  const setText = (el, txt) => { if (el) el.textContent = txt; };
+    <!-- 2) Florida Permits (Finalized) -->
+    <section>
+      <h2>2) Florida Permits</h2>
+      <div class="card">
+        <div class="tabs" id="typeToggle">
+          <button class="tab active" data-type="total">Total</button>
+          <button class="tab" data-type="1unit">1-Unit</button>
+        </div>
+        <div id="flPermitsKPI" class="grid cols-2">
+          <div class="card kpi"><div class="label">Orlando–Kissimmee–Sanford</div>
+            <div class="kpi-sub"><div class="sub-label">Latest</div><div class="value">—</div><div class="delta"></div></div>
+            <div class="kpi-sub"><div class="sub-label">YTD</div><div class="value">—</div><div class="delta"></div></div>
+            <div class="kpi-sub"><div class="sub-label">DOM</div><div class="value">—</div><div class="delta"></div></div>
+          </div>
+          <div class="card kpi"><div class="label">Tampa–St. Petersburg–Clearwater</div>
+            <div class="kpi-sub"><div class="sub-label">Latest</div><div class="value">—</div><div class="delta"></div></div>
+            <div class="kpi-sub"><div class="sub-label">YTD</div><div class="value">—</div><div class="delta"></div></div>
+            <div class="kpi-sub"><div class="sub-label">DOM</div><div class="value">—</div><div class="delta"></div></div>
+          </div>
+          <div class="card kpi"><div class="label">Ocala Metro Area</div>
+            <div class="kpi-sub"><div class="sub-label">Latest</div><div class="value">—</div><div class="delta"></div></div>
+            <div class="kpi-sub"><div class="sub-label">YTD</div><div class="value">—</div><div class="delta"></div></div>
+            <div class="kpi-sub"><div class="sub-label">DOM</div><div class="value">—</div><div class="delta"></div></div>
+          </div>
+          <div class="card kpi"><div class="label">Palm Bay–Melbourne–Titusville</div>
+            <div class="kpi-sub"><div class="sub-label">Latest</div><div class="value">—</div><div class="delta"></div></div>
+            <div class="kpi-sub"><div class="sub-label">YTD</div><div class="value">—</div><div class="delta"></div></div>
+            <div class="kpi-sub"><div class="sub-label">DOM</div><div class="value">—</div><div class="delta"></div></div>
+          </div>
+        </div>
+      </div>
+    </section>
 
-  // 1) Header "As of"
-  setText(document.getElementById('lastUpdated'), S.as_of || '—');
+    <!-- 3) Watchlist — Full List -->
+    <section>
+      <h2>3) Watchlist — Full List</h2>
+      <div class="card" style="padding:0;">
+        <div style="overflow:auto"><table id="watchlist"></table></div>
+      </div>
+    </section>
 
-  // 2) Macro cards (S&P 500, 10Y, 30Y Mortgage, Housing Starts)
-  if (S.macro?.spx) {
-    const p = Number(S.macro.spx.price || 0);
-    const d = Number(S.macro.spx.pct_1d || 0);
-    setText(document.getElementById('spx'), p.toLocaleString(undefined, {minimumFractionDigits:2, maximumFractionDigits:2}));
-    setHTML(document.getElementById('spxDelta'),
-      `<span class="${cls(d)}">${fmtPct(d,2)}</span> 1d`);
-  }
-  if (S.macro?.ten_year) {
-    // ten_year.yield_pct is a percent like 4.27 (not 0.0427)
-    const y = Number(S.macro.ten_year.yield_pct || 0);
-    const bp = Math.round(Number(S.macro.ten_year.delta_bp_1d || 0));
-    setText(document.getElementById('ust10'), y.toFixed(2) + '%');
-    setHTML(document.getElementById('ust10Delta'),
-      `<span class="${cls(bp)}">${bp>=0?'+':''}${bp}bp</span>`);
-  }
-  if (S.macro?.mortgage_30y) {
-    const y = Number(S.macro.mortgage_30y.rate_pct || 0);
-    const bp = Math.round(Number(S.macro.mortgage_30y.delta_bp_wow || 0));
-    setText(document.getElementById('mort30'), y.toFixed(2) + '%');
-    setHTML(document.getElementById('mort30Delta'),
-      `<span class="${cls(bp)}">${bp>=0?'+':''}${bp}bp</span> w/w`);
-  }
-  if (S.macro?.starts) {
-    const lvl = Number(S.macro.starts.level_saar || 0); // SAAR units
-    const mom = Number(S.macro.starts.mom || 0);
-    setText(document.getElementById('starts'), (lvl/1_000_000).toFixed(2) + 'm SAAR');
-    setHTML(document.getElementById('startsDelta'),
-      `<span class="${cls(mom)}">${fmtPct(mom,1)}</span> m/m`);
-  }
+    <!-- 4) FEED Ticker -->
+    <section>
+      <h2>4) FEED Ticker</h2>
+      <div id="feed" class="feedbar"></div>
+    </section>
+  </main>
 
-  // 3) Florida Permits — by Metro (Total vs 1-Unit)
-  const msas = S.permits?.msa || {};
-  const dom = (m) => m?.dom ? m.dom : null;
+  <script>
+  /* FINAL dashboard data hydration — uses data/state.json produced by GitHub Actions */
+  (async function () {
+    let resp;
+    try {
+      resp = await fetch('data/state.json?cb=' + Date.now());
+    } catch (e) {
+      console.error('Failed to fetch state.json', e);
+      document.getElementById('lastUpdated')?.replaceChildren('Failed to load data.');
+      return;
+    }
+    if (!resp.ok) {
+      document.getElementById('lastUpdated')?.replaceChildren('No data yet.');
+      return;
+    }
+    const S = await resp.json();
 
-  // 🔧 Correct mappings from visible labels → JSON keys (must match exactly)
-  const KEY = {
-    'Orlando–Kissimmee–Sanford': 'Orlando–Kissimmee–Sanford',
-    'Tampa–St. Petersburg–Clearwater': 'Tampa–St. Petersburg–Clearwater', // fixed
-    'Ocala Metro Area': 'Ocala',
-    'Palm Bay–Melbourne–Titusville': 'Palm Bay–Melbourne–Titusville'       // fixed
-  };
+    const fmtPct = (x, d=2) => (x==null) ? '—' : ((x>=0?'+':'') + (100*x).toFixed(d) + '%');
+    const cls = (x) => (x>0?'pos':(x<0?'neg':'flat'));
+    const setHTML = (el, html) => { if (el) el.innerHTML = html; };
+    const setText = (el, txt) => { if (el) el.textContent = txt; };
 
-  function render(type) {
-    document.querySelectorAll('#flPermitsKPI .kpi').forEach(kpi => {
-      const label = kpi.querySelector('.label')?.textContent.trim() || '';
-      const key = KEY[label] || label;
-      const M = msas[key];
-      const blocks = kpi.querySelectorAll('.kpi-sub'); // [0]=Latest, [1]=YTD, [2]=DOM
-      if (!M || blocks.length < 3) return;
+    // Header
+    setText(document.getElementById('lastUpdated'), S.as_of || '—');
 
-      const bucket = (type === '1unit') ? M.one_unit : M.total; // Only these two are wired now
+    // Macro
+    if (S.macro?.spx) { setText(document.getElementById('spx'), S.macro.spx.price.toFixed(2)); }
+    if (S.macro?.ten_year) { setText(document.getElementById('ust10'), S.macro.ten_year.yield_pct.toFixed(2)+'%'); }
+    if (S.macro?.mortgage_30y) { setText(document.getElementById('mort30'), S.macro.mortgage_30y.rate_pct.toFixed(2)+'%'); }
+    if (S.macro?.starts) { setText(document.getElementById('starts'), (S.macro.starts.level_saar/1_000_000).toFixed(2)+'m SAAR'); }
 
-      // 0) Latest month
-      const b0 = blocks[0];
-      if (bucket) {
-        setText(b0.querySelector('.sub-label'), `Latest Month · Units authorized (NSA) — ${type==='1unit'?'1-Unit':'Total'}`);
-        setText(b0.querySelector('.value'), (bucket.latest ?? '—').toLocaleString());
-        const mom = bucket.mom, yoy = bucket.yoy;
-        setHTML(b0.querySelector('.delta'),
-          `<span class="${cls(mom)}">${fmtPct(mom,1)} MoM</span> · <span class="${cls(yoy)}">${fmtPct(yoy,1)} YoY</span>`);
-      } else {
-        setText(b0.querySelector('.sub-label'), `Latest Month — ${type==='1unit'?'1-Unit':'Total'}`);
-        setText(b0.querySelector('.value'), '—');
-        setHTML(b0.querySelector('.delta'), `<span class="flat">—</span>`);
-      }
-
-      // 1) YTD
-      const b1 = blocks[1];
-      if (bucket) {
-        const mname = bucket.latest_month_name || bucket.latest_month || '—';
-        const yr = bucket.latest_year || '—';
-        setText(b1.querySelector('.sub-label'), `YTD · Jan–${mname} ${yr} vs ${yr-1} — ${type==='1unit'?'1-Unit':'Total'}`);
-        setText(b1.querySelector('.value'), (bucket.ytd_count ?? '—').toLocaleString());
-        setHTML(b1.querySelector('.delta'), `<span class="${cls(bucket.ytd_yoy)}">${fmtPct(bucket.ytd_yoy,1)} Y/Y</span>`);
-      } else {
-        setText(b1.querySelector('.sub-label'), `YTD — ${type==='1unit'?'1-Unit':'Total'}`);
-        setText(b1.querySelector('.value'), '—');
-        setHTML(b1.querySelector('.delta'), `<span class="flat">—</span>`);
-      }
-
-      // 2) DOM (median days on market)
-      const b2 = blocks[2];
-      const D = dom(M);
-      if (D) {
-        setText(b2.querySelector('.value'), `${D.days} days`);
-        setHTML(b2.querySelector('.delta'),
-          `<span class="${cls(D.yoy)}">${fmtPct(D.yoy,1)} YoY</span> <span class="fine">(${D.as_of || '—'})</span>`);
-      } else {
-        setText(b2.querySelector('.value'), '—');
-        setHTML(b2.querySelector('.delta'), `<span class="flat">—</span>`);
-      }
+    // Permits
+    const msas = S.permits?.msa || {};
+    const KEY = {
+      'Orlando–Kissimmee–Sanford':'Orlando–Kissimmee–Sanford',
+      'Tampa–St. Petersburg–Clearwater':'Tampa–St. Petersburg–Clearwater',
+      'Ocala Metro Area':'Ocala',
+      'Palm Bay–Melbourne–Titusville':'Palm Bay–Melbourne–Titusville'
+    };
+    function render(type){
+      document.querySelectorAll('#flPermitsKPI .kpi').forEach(kpi=>{
+        const label = kpi.querySelector('.label').textContent.trim();
+        const M = msas[KEY[label]]; if(!M) return;
+        const bucket = (type==='1unit')?M.one_unit:M.total;
+        const subs = kpi.querySelectorAll('.kpi-sub');
+        if(bucket){
+          setText(subs[0].querySelector('.value'), bucket.latest?.toLocaleString()||'—');
+          setHTML(subs[0].querySelector('.delta'), `<span class="${cls(bucket.mom)}">${fmtPct(bucket.mom,1)} MoM</span> · <span class="${cls(bucket.yoy)}">${fmtPct(bucket.yoy,1)} YoY</span>`);
+          setText(subs[1].querySelector('.value'), bucket.ytd_count?.toLocaleString()||'—');
+          setHTML(subs[1].querySelector('.delta'), `<span class="${cls(bucket.ytd_yoy)}">${fmtPct(bucket.ytd_yoy,1)} Y/Y</span>`);
+        }
+        if(M.dom){
+          setText(subs[2].querySelector('.value'), M.dom.days+' days');
+          setHTML(subs[2].querySelector('.delta'), `<span class="${cls(M.dom.yoy)}">${fmtPct(M.dom.yoy,1)} YoY</span> (${M.dom.as_of})`);
+        }
+      });
+    }
+    document.querySelectorAll('#typeToggle button').forEach(btn=>{
+      btn.addEventListener('click',()=>{
+        document.querySelectorAll('#typeToggle button').forEach(b=>b.classList.remove('active'));
+        btn.classList.add('active'); render(btn.dataset.type);
+      });
     });
-  }
-
-  // Hook up the Type toggle
-  const toggles = document.querySelectorAll('#typeToggle button');
-  toggles.forEach(btn => {
-    btn.addEventListener('click', () => {
-      toggles.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      render(btn.dataset.type);
-    });
-  });
-
-  // Initial render (use the currently "active" toggle)
-  render(document.querySelector('#typeToggle button.active')?.dataset.type || 'total');
-})();
-</script>
+    render('total');
+  })();
+  </script>
+</body>
+</html>
