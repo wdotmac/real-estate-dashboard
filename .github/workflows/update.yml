@@ -1,5 +1,9 @@
 name: Build state.json (FRED + markets)
 
+# Allow the workflow to push commits back to the repo
+permissions:
+  contents: write
+
 on:
   workflow_dispatch: {}
   schedule:
@@ -26,7 +30,8 @@ jobs:
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
         run: |
           python updater/main.py
-          test -s data/state.json && jq . data/state.json | head -n 40 || (echo "state.json missing" && exit 1)
+          # verify the file was created and is non-empty
+          test -s data/state.json || (echo "state.json missing" && exit 1)
 
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
