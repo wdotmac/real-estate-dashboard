@@ -1,0 +1,35 @@
+name: Build state.json (FRED + markets)
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "15 * * * *"   # hourly at :15 (UTC)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r updater/requirements.txt
+
+      - name: Generate data/state.json
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: |
+          python updater/main.py
+          test -s data/state.json && jq . data/state.json | head -n 40 || (echo "state.json missing" && exit 1)
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(data): refresh state.json"
+          file_pattern: data/state.json
