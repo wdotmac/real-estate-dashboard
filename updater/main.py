@@ -208,6 +208,60 @@ def get_feed():
       dedup.append(it)
   return dedup[:MAX_ITEMS]
 
+# ------------ 10/10/20 AUTO-FEED (additive; does not alter existing feed) ------------
+# Builds S['feed_101020'] with three buckets from RSS: macro, housing, notables.
+# Each item has: title, url, what, numbers, justified, why, market.
+KEYWORDS = {
+  "macro":   ["fed", "inflation", "cpi", "pce", "rates", "treasury", "yield", "mortgage rate", "jobs", "payrolls"],
+  "housing": ["housing", "permit", "starts", "builder", "home", "mortgage", "realtor", "zillow", "redfin", "rent", "inventory"]
+}
+def _classify_bucket(title_lower: str):
+  for k in KEYWORDS["macro"]:
+    if k in title_lower: return "macro"
+  for k in KEYWORDS["housing"]:
+    if k in title_lower: return "housing"
+  return "notables"
+
+def build_101020_from_rss(max_macro=10, max_housing=10, max_notables=20):
+  bucket = {"macro": [], "housing": [], "notables": []}
+  try:
+    pool = []
+    for url in RSS_SOURCES:
+      try:
+        feed = feedparser.parse(url)
+        for e in feed.entries[:12]:
+          title = (e.get("title") or "").strip()
+          link  = (e.get("link")  or "").strip()
+          if not title: continue
+          pool.append((title, link))
+      except Exception:
+        continue
+    # de-dup by title (case-insensitive)
+    seen = set()
+    for title, link in pool:
+      key = title.lower()
+      if key in seen: continue
+      seen.add(key)
+      b = _classify_bucket(key)
+      item = {
+        "title": title,
+        "url": link,
+        # 10/10/20 shape expected by the dashboard:
+        "what": title,
+        "numbers": "",
+        "justified": "Source: RSS",
+        "why": "",
+        "market": ""
+      }
+      bucket[b].append(item)
+    bucket["macro"]   = bucket["macro"][:max_macro]
+    bucket["housing"] = bucket["housing"][:max_housing]
+    bucket["notables"]= bucket["notables"][:max_notables]
+  except Exception:
+    # never fail the run
+    pass
+  return bucket
+
 # ------------ build + write ------------
 def build_state():
   state = {
@@ -224,6 +278,8 @@ def build_state():
     },
     "watchlist": get_watchlist(),
     "feed": get_feed(),
+    # ADD: 10/10/20 feed (auto-built from RSS); safe & non-breaking
+    "feed_101020": build_101020_from_rss(),
   }
   return state
 
