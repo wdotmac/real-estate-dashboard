@@ -1,0 +1,20 @@
+# updater/feeds.yml
+macro_sources:
+  - https://www.federalreserve.gov/feeds/press_all.xml
+  - https://www.bls.gov/feed/news_release.rss
+  - https://www.bea.gov/rss.xml
+  - https://www.census.gov/economic-indicators/feed.xml
+
+housing_sources:
+  - https://www.redfin.com/news/feed/
+  - https://www.realtor.com/research/feed/
+  - https://newslink.mba.org/feed/
+
+notables_sources:
+  - https://therealdeal.com/feed/
+  - https://seekingalpha.com/sector/real-estate/feed.xml
+
+keywords:
+  macro: [CPI, PCE, inflation, FOMC, "10-year", "10Y", Treasury, Fed, GDP, payrolls, jobs, unemployment, PPI, ISM]
+  housing: [permits, starts, housing, mortgage, PMMS, FHFA, Case-Shiller, "existing home", "new home", inventory, listings, rents, REIT, multifamily, single-family, CMBS]
+  notables: [earnings, upgrade, downgrade, rating, guidance, merger, acquisition, lawsuit, investigation, bankruptcy, refinancing]
