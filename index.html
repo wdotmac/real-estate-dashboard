@@ -4,6 +4,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Market & Housing Dashboard — v6 FINAL (Hydrated from state.json)</title>
+<!-- === V6 FINAL LAYOUT (Hydrated from data/state.json) === -->
 <style>
   :root{
     --bg1:#f6f8ff; --bg2:#eef7ff;
@@ -60,7 +61,7 @@
   .toggle button.active{background:#0b63f6;color:#fff}
   .toggle button+button{border-left:1px solid var(--border)}
 
-  /* Watchlist (placeholder layout) */
+  /* Watchlist */
   .stocks-wrap{max-height:520px;overflow:auto;border:1px solid var(--border);border-radius:12px;background:#fff}
   .stock-row{display:grid;grid-template-columns:110px 180px 1fr 120px 120px;gap:10px;align-items:center;padding:12px 14px;border-bottom:1px dashed var(--border)}
   .stock-row:last-child{border-bottom:none}
@@ -104,7 +105,7 @@
       </div>
     </div>
 
-    <!-- 2) FLORIDA PERMITS — Month + YTD + DOM with Type Toggle (Total & 1-Unit) -->
+    <!-- 2) FLORIDA PERMITS — Latest + YTD + DOM with Type Toggle -->
     <div class="card">
       <h3>Florida Metro Permits — Latest Month + YTD + Days on Market</h3>
       <div class="content">
@@ -117,40 +118,24 @@
         </div>
 
         <div class="kpis" id="flPermitsKPI">
-          <!-- Orlando -->
           <div class="kpi">
             <div class="label">Orlando–Kissimmee–Sanford</div>
-            <div class="kpi-sub">
-              <div class="sub-label">Latest Month · Units authorized (NSA) — Total</div>
-              <div class="value">—</div>
-              <div class="delta"></div>
-            </div>
-            <div class="kpi-sub">
-              <div class="sub-label">YTD · Jan–… vs prior year — Total</div>
-              <div class="value">—</div>
-              <div class="delta"></div>
-            </div>
-            <div class="kpi-sub">
-              <div class="sub-label">Days on Market (Median)</div>
-              <div class="value">—</div>
-              <div class="delta"></div>
-            </div>
+            <div class="kpi-sub"><div class="sub-label">Latest Month · Units authorized (NSA) — Total</div><div class="value">—</div><div class="delta"></div></div>
+            <div class="kpi-sub"><div class="sub-label">YTD · Jan–… vs prior year — Total</div><div class="value">—</div><div class="delta"></div></div>
+            <div class="kpi-sub"><div class="sub-label">Days on Market (Median)</div><div class="value">—</div><div class="delta"></div></div>
           </div>
-          <!-- Tampa -->
           <div class="kpi">
             <div class="label">Tampa–St. Petersburg–Clearwater</div>
             <div class="kpi-sub"><div class="sub-label">Latest Month · Units authorized (NSA) — Total</div><div class="value">—</div><div class="delta"></div></div>
             <div class="kpi-sub"><div class="sub-label">YTD · Jan–… vs prior year — Total</div><div class="value">—</div><div class="delta"></div></div>
             <div class="kpi-sub"><div class="sub-label">Days on Market (Median)</div><div class="value">—</div><div class="delta"></div></div>
           </div>
-          <!-- Ocala -->
           <div class="kpi">
             <div class="label">Ocala Metro Area</div>
             <div class="kpi-sub"><div class="sub-label">Latest Month · Units authorized (NSA) — Total</div><div class="value">—</div><div class="delta"></div></div>
             <div class="kpi-sub"><div class="sub-label">YTD · Jan–… vs prior year — Total</div><div class="value">—</div><div class="delta"></div></div>
             <div class="kpi-sub"><div class="sub-label">Days on Market (Median)</div><div class="value">—</div><div class="delta"></div></div>
           </div>
-          <!-- Palm Bay -->
           <div class="kpi">
             <div class="label">Palm Bay–Melbourne–Titusville</div>
             <div class="kpi-sub"><div class="sub-label">Latest Month · Units authorized (NSA) — Total</div><div class="value">—</div><div class="delta"></div></div>
@@ -160,12 +145,12 @@
         </div>
 
         <p class="fine" style="margin-top:8px">
-          <strong>Permits</strong> = units authorized (Census BPS via FRED), NSA monthly. <strong>DOM</strong> from Realtor.com/Redfin via FRED proxies where available.
+          <strong>Permits</strong> = units authorized (Census BPS via FRED), NSA monthly. <strong>DOM</strong> = median Days on Market (Realtor.com/Redfin proxies via FRED where available).
         </p>
       </div>
     </div>
 
-    <!-- 3) WATCHLIST — layout placeholder (no live data yet) -->
+    <!-- 3) WATCHLIST (layout placeholder) -->
     <div class="card">
       <h3>Watchlist — Full List</h3>
       <div class="content">
@@ -173,17 +158,16 @@
           <div class="stock-row"><div class="ticker">DHI</div><div class="name">D.R. Horton</div><div class="desc">Largest builder; entry-level muscle.</div><div class="price">—</div><div class="muted">—</div></div>
           <div class="stock-row"><div class="ticker">LEN</div><div class="name">Lennar</div><div class="desc">Big builder; FL/TX footprint.</div><div class="price">—</div><div class="muted">—</div></div>
           <div class="stock-row"><div class="ticker">XHB</div><div class="name">SPDR Homebuilders</div><div class="desc">Homebuilder/supplier ETF.</div><div class="price">—</div><div class="muted">—</div></div>
-          <!-- Add more rows later when we wire a watchlist JSON -->
         </div>
       </div>
     </div>
 
-    <!-- 4) FEED TICKER (static placeholder section) -->
+    <!-- 4) FEED TICKER (layout placeholder) -->
     <div class="card">
       <h3>FEED: RE Ticker</h3>
       <div class="content">
         <div class="feed-wrap" id="feedWrap">
-          <div class="fine">You can populate this later; the design is in place.</div>
+          <div class="fine">Layout ready. We can wire a FEED JSON later.</div>
         </div>
       </div>
     </div>
@@ -192,20 +176,20 @@
 </main>
 
 <script>
-  // Small helpers
+  // Utilities
   const cls = (x)=> (x>0?'pos':(x<0?'neg':'flat'));
   const fmtPct = (x,d=1)=> (x==null?'—':((x>=0?'+':'')+(100*x).toFixed(d)+'%'));
   const setText = (el, v)=>{ if(el) el.textContent = v; };
   const setHTML = (el, v)=>{ if(el) el.innerHTML = v; };
 
-  // Download self
+  // Download HTML
   document.getElementById('downloadHtml').addEventListener('click', ()=>{
     const blob = new Blob([document.documentElement.outerHTML], {type:'text/html'});
     const url = URL.createObjectURL(blob); const a=document.createElement('a');
     a.href=url; a.download='market_housing_dashboard_v6_FINAL.html'; a.click(); URL.revokeObjectURL(url);
   });
 
-  // Hydrate from data/state.json (no generators)
+  // Hydrate from /data/state.json
   (async function(){
     let resp;
     try{
@@ -250,7 +234,7 @@
       setHTML(document.getElementById('startsDelta'), `<span class="${cls(mom)}">${fmtPct(mom,1)}</span> m/m`);
     }
 
-    // Florida Permits (Total & 1-Unit) + DOM
+    // Florida Permits + DOM
     const msas = S.permits?.msa || {};
     const KEY = {
       'Orlando–Kissimmee–Sanford':'Orlando–Kissimmee–Sanford',
@@ -318,9 +302,9 @@
     render('total');
   })();
 
-  // Optional: refresh takeaways button (placeholder)
+  // Placeholder action
   document.getElementById('refreshTakeaways').addEventListener('click', ()=>{
-    alert('This will summarize once we wire a FEED source. Layout is ready.');
+    alert('Summary will populate when FEED JSON is wired. Layout is ready.');
   });
 </script>
 </body>
