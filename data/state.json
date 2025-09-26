@@ -1,14 +1,17 @@
 {
-  "as_of": "2025-09-26 04:37 UTC",
+  "as_of": "2025-09-26 04:52 UTC",
   "macro": {
-    "spx": null,
+    "spx": {
+      "price": 6604.72,
+      "pct_1d": -0.005009061505249379
+    },
     "ten_year": {
       "yield_pct": 4.16,
-      "delta_bp_1d": 4.0000000000000036
+      "delta_bp_1d": 4
     },
     "mortgage_30y": {
       "rate_pct": 6.3,
-      "delta_bp_wow": 4.0000000000000036
+      "delta_bp_wow": 4
     },
     "starts": {
       "level_saar": 1307.0,
