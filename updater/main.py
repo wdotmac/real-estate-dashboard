@@ -6,6 +6,7 @@ from fredapi import Fred
 import yfinance as yf
 import feedparser
 from urllib.parse import urlparse  # <-- ADDED
+import re, html  # <-- ADDED
 
 OUT = 'data/state.json'
 
@@ -257,7 +258,67 @@ def _domain(u):
 def _match_bucket(title_lower: str, bucket: str):
   return any(k in title_lower for k in KEYWORDS_101020[bucket])
 
-# REPLACED: stricter builder for feed_101020
+# ---------- helpers to structure 10/10/20 items ----------  # <-- ADDED
+def _clean(txt: str) -> str:
+  if not txt: return ""
+  txt = re.sub(r"<[^>]+>", " ", str(txt))
+  txt = html.unescape(txt)
+  return re.sub(r"\s+", " ", txt).strip()
+
+def _first_sentence(text: str) -> str:
+  text = _clean(text)
+  for sep in [". ", " — ", " – ", " | ", " • ", "! ", "? "]:
+    if sep in text:
+      return text.split(sep)[0].strip()
+  return text[:180].strip()
+
+_NUM_PAT = re.compile(
+  r"(\$?\d[\d,\.]*\s?(?:billion|million|thousand|bn|mn|k)?|\d{1,3}(?:\.\d+)?%|\d+\s?bp|\$\d[\d,\.]*)",
+  re.I
+)
+
+def _extract_numbers(text: str) -> str:
+  text = _clean(text)
+  seen = set(); out = []
+  for m in _NUM_PAT.findall(text):
+    t = m.strip()
+    key = t.lower()
+    if key in seen:
+      continue
+    seen.add(key); out.append(t)
+  return ", ".join(out[:6])
+
+def _infer_why_market(title_lc: str, body_lc: str):
+  t = f"{title_lc} {body_lc}"
+  if any(k in t for k in ["mortgage rate","mortgage rates","mortgage","rate","yield","treasury","curve","fed","fomc","cpi","pce","inflation"]):
+    why = "Rates & inflation shape discount rates and housing affordability."
+    market = "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+  elif any(k in t for k in ["permit","permits","starts","completions","builder","nahb"]):
+    why = "Supply pipeline sets future inventory and construction activity."
+    market = "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+  elif any(k in t for k in ["price","prices","case-shiller","hpi","home prices"]):
+    why = "Price trend signals wealth effects and buyer/seller power."
+    market = "Firm prices help builder margins; softness hits comps and sentiment."
+  elif any(k in t for k in ["inventory","listing","listings","dom","days on market","pending","closed sales","transactions"]):
+    why = "Inventory and velocity drive pricing power and volume."
+    market = "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+  elif any(k in t for k in ["rent","vacancy"]):
+    why = "Rent moves feed shelter inflation and multifamily fundamentals."
+    market = "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+  else:
+    why = "Relevant development for housing and markets."
+    market = "Watch second-order effects across builders, lenders, and REITs."
+  return why, market
+
+def _entry_body(e):
+  if "summary" in e: return str(e.summary)
+  if "description" in e: return str(e.description)
+  if "content" in e and e.content:
+    try: return str(e.content[0].value)
+    except Exception: pass
+  return ""
+
+# REPLACED: stricter builder for feed_101020 (now structured)  # <-- REPLACED
 def build_101020_from_rss(max_macro=10, max_housing=10, max_notables=20):
   now_ts = int(time.time())
   cutoff = now_ts - DAYS_WINDOW_101020*24*3600
@@ -277,38 +338,46 @@ def build_101020_from_rss(max_macro=10, max_housing=10, max_notables=20):
         ts = _ts_from_entry(e)
         if ts is None or ts < cutoff:
           continue
-        pool.append((ts, title, link))
+        pool.append((ts, title, link, e))
     except Exception:
       continue
 
   # de-dup by lowercase title, keep newest
   seen = {}
-  for ts, title, link in pool:
+  for ts, title, link, e in pool:
     k = title.lower()
     if k not in seen or ts > seen[k][0]:
-      seen[k] = (ts, title, link)
+      seen[k] = (ts, title, link, e)
 
   # newest first
   items = sorted(seen.values(), key=lambda x: x[0], reverse=True)
 
-  # classify
-  for ts, title, link in items:
+  # classify + structure
+  for ts, title, link, e in items:
     tl = title.lower()
-    if _match_bucket(tl, "macro"):
+    body_raw = _entry_body(e)
+    body_lc  = _clean(body_raw).lower()
+
+    if any(k in tl or k in body_lc for k in KEYWORDS_101020["macro"]):
       bucket = "macro"
-    elif _match_bucket(tl, "housing"):
+    elif any(k in tl or k in body_lc for k in KEYWORDS_101020["housing"]):
       bucket = "housing"
     else:
       bucket = "notables"
 
+    what     = _first_sentence(body_raw or title) or title
+    numbers  = _extract_numbers(body_raw or title)
+    why, mkt = _infer_why_market(tl, body_lc)
+    just     = f"{_domain(link)} — {link}"
+
     out[bucket].append({
       "title": title,
       "url": link,
-      "what": title,
-      "numbers": "",
-      "justified": f"{_domain(link)} — {link}",
-      "why": "",
-      "market": ""
+      "what": what,
+      "numbers": numbers,
+      "justified": just,
+      "why": why,
+      "market": mkt
     })
 
   # trim to 10/10/20
@@ -361,7 +430,6 @@ def main():
   with open(OUT, 'w', encoding='utf-8') as fobj:
     json.dump(state, fobj, ensure_ascii=False, indent=2)
   print(f"Wrote {OUT}")
-
 
 if __name__ == '__main__':
   main()
