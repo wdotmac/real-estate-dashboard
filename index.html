@@ -3,8 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Market & Housing Dashboard — v6 FINAL (Hydrated)</title>
-
+<title>Market & Housing Dashboard — v6 FINAL (Hydrated from state.json)</title>
 <style>
   :root{
     --bg1:#f6f8ff; --bg2:#eef7ff;
@@ -91,8 +90,6 @@
     <div class="brand"><div class="logo"></div><div>Market & Housing — v6 FINAL</div></div>
     <div class="toolbar">
       <span class="chip">Updated: <span id="lastUpdated">—</span></span>
-      <button class="btn secondary" id="copyFeed">Copy FEED</button>
-      <button class="btn secondary" id="downloadTxt">Export FEED TXT</button>
       <button class="btn secondary" id="refreshTakeaways">Refresh Takeaways</button>
       <button class="btn" id="downloadHtml">Download HTML</button>
     </div>
@@ -128,7 +125,6 @@
         </div>
 
         <div class="kpis" id="flPermitsKPI">
-          <!-- Four tiles are in the DOM already; we hydrate them -->
           <div class="kpi">
             <div class="label">Orlando–Kissimmee–Sanford</div>
             <div class="kpi-sub"><div class="sub-label">Latest Month · Units authorized (NSA) — Total</div><div class="value">—</div><div class="delta"></div></div>
@@ -161,32 +157,22 @@
       </div>
     </div>
 
-    <!-- 3) WATCHLIST — FULL LIST -->
+    <!-- 3) WATCHLIST — FULL LIST (scrollable) -->
     <div class="card">
       <h3>Watchlist — Full List</h3>
       <div class="content">
         <div class="stocks-wrap" id="stocksWrap">
-          <!-- We’ll render the full list below; this wrapper scrolls -->
+          <!-- rows injected by JS -->
         </div>
       </div>
     </div>
 
-    <!-- 4) FEED TICKER — v6 FINAL block format -->
+    <!-- 4) FEED: RE Ticker (placeholders until S.feed exists) -->
     <div class="card">
-      <h3>## FEED: RE Ticker — <span id="feedTime">—</span> — <span id="feedDate">—</span></h3>
+      <h3>FEED: RE Ticker</h3>
       <div class="content">
         <div class="feed-wrap" id="feedWrap">
-          <div class="section-title">(1) Changes Today</div>
-          <div id="today"></div>
-
-          <div class="section-title">(2) Month-over-Month (MoM)</div>
-          <div id="mom"></div>
-
-          <div class="section-title">(3) Quarter-to-Date (or longer)</div>
-          <div id="qtd"></div>
-
-          <div class="section-title">Summary Takeaways (No Sugarcoat)</div>
-          <div class="summary" id="takeaways">—</div>
+          <!-- blocks injected by JS -->
         </div>
       </div>
     </div>
@@ -195,96 +181,62 @@
 </main>
 
 <script>
-  // --- Utilities ---
+  // Utilities
   const cls = (x)=> (x>0?'pos':(x<0?'neg':'flat'));
   const fmtPct = (x,d=1)=> (x==null?'—':((x>=0?'+':'')+(100*x).toFixed(d)+'%'));
   const setText = (el, v)=>{ if(el) el.textContent = v; };
   const setHTML = (el, v)=>{ if(el) el.innerHTML = v; };
-  const $ = (s)=>document.querySelector(s);
 
-  // Buttons
+  // Download HTML
   document.getElementById('downloadHtml').addEventListener('click', ()=>{
     const blob = new Blob([document.documentElement.outerHTML], {type:'text/html'});
     const url = URL.createObjectURL(blob); const a=document.createElement('a');
     a.href=url; a.download='market_housing_dashboard_v6_FINAL.html'; a.click(); URL.revokeObjectURL(url);
   });
 
-  function blockHTML(h,what,numbers,just,why,market){
-    return `<div class="block"><h4>${h}</h4>
-      <div class="lines">
-        <div><span class="label">What:</span><span class="text">${what||'—'}</span></div>
-        <div><span class="label">Numbers:</span><span class="text">${numbers||'—'}</span></div>
-        <div><span class="label">Justified by:</span><span class="text">${just||'—'}</span></div>
-        <div><span class="label">Why it matters:</span><span class="text">${why||'—'}</span></div>
-        <div><span class="label">Market take:</span><span class="text">${market||'—'}</span></div>
-      </div></div>`;
-  }
-
-  function feedTextFromDOM(){
-    const now=new Date();
-    const head=`## FEED: RE Ticker — ${now.toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'})} — ${now.toLocaleDateString()}\n\nBelow is a concise “ticker” style update for real estate & housing macro / capital markets.\n`;
-    const toText = (sel)=>{
-      const nodes=document.querySelectorAll(sel+" .block");
-      let out=""; nodes.forEach(n=>{
-        const cat=n.querySelector('h4').textContent.trim();
-        const texts=n.querySelectorAll('.text');
-        const [what,nums,just,why,market]=Array.from(texts).map(x=>x.textContent.trim());
-        out+=`\n${cat}\n  • What: ${what}\n  • Numbers: ${nums}\n  • Justified by: ${just}\n  • Why / Outlook: ${why}\n  • Market take: ${market}\n`;
-      }); return out;
-    };
-    let txt=head;
-    txt += `\n(1) Changes Today\n` + toText('#today');
-    txt += `\n(2) Month-over-Month (MoM)\n` + toText('#mom');
-    txt += `\n(3) Quarter-to-Date (or longer)\n` + toText('#qtd');
-    txt += `\nSummary Takeaways (No Sugarcoat)\n` + document.querySelector('#takeaways').innerText.split('\n').map(x=>"  • "+x).join('\n')+"\n";
-    return txt;
-  }
-  document.getElementById('copyFeed').addEventListener('click', async ()=>{
-    const text=feedTextFromDOM();
-    try{ await navigator.clipboard.writeText(text); alert('FEED copied to clipboard.'); }
-    catch(e){ alert('Copy failed; use Export TXT.'); }
-  });
-  document.getElementById('downloadTxt').addEventListener('click', ()=>{
-    const blob = new Blob([feedTextFromDOM()], {type:'text/plain'});
-    const url = URL.createObjectURL(blob); const a=document.createElement('a');
-    a.href=url; a.download='FEED_RE_Ticker_v6_FINAL.txt'; a.click(); URL.revokeObjectURL(url);
-  });
-
-  // --- Hydrate from /data/state.json ---
+  // Hydrate from /data/state.json
   (async function(){
     let resp;
-    try{ resp = await fetch('data/state.json?cb=' + Date.now()); }
-    catch(e){ console.error('fetch state.json failed', e); $('#lastUpdated').textContent = 'Failed to load data.'; return; }
-    if(!resp?.ok){ $('#lastUpdated').textContent = 'No data yet.'; return; }
+    try{
+      resp = await fetch('data/state.json?cb=' + Date.now());
+    }catch(e){
+      console.error('fetch state.json failed', e);
+      document.getElementById('lastUpdated').textContent = 'Failed to load data.';
+      return;
+    }
+    if(!resp.ok){
+      document.getElementById('lastUpdated').textContent = 'No data yet.';
+      return;
+    }
     const S = await resp.json();
 
     // Header time
-    setText($('#lastUpdated'), S.as_of || '—');
+    setText(document.getElementById('lastUpdated'), S.as_of || '—');
 
     // Macro
     if(S.macro?.spx){
       const p = Number(S.macro.spx.price||0);
       const d = Number(S.macro.spx.pct_1d||0);
-      setText($('#spx'), p? p.toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2}) : '—');
-      setHTML($('#spxDelta'), d===0||isNaN(d)? '' : `<span class="${cls(d)}">${fmtPct(d,2)}</span> 1d`);
+      setText(document.getElementById('spx'), p.toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2}));
+      setHTML(document.getElementById('spxDelta'), `<span class="${cls(d)}">${fmtPct(d,2)}</span> 1d`);
     }
     if(S.macro?.ten_year){
       const y=Number(S.macro.ten_year.yield_pct||0);
       const bp=Math.round(Number(S.macro.ten_year.delta_bp_1d||0));
-      setText($('#ust10'), y? y.toFixed(2)+'%' : '—');
-      setHTML($('#ust10Delta'), isNaN(bp)? '' : `<span class="${cls(bp)}">${bp>=0?'+':''}${bp}bp</span>`);
+      setText(document.getElementById('ust10'), y.toFixed(2)+'%');
+      setHTML(document.getElementById('ust10Delta'), `<span class="${cls(bp)}">${bp>=0?'+':''}${bp}bp</span>`);
     }
     if(S.macro?.mortgage_30y){
       const y=Number(S.macro.mortgage_30y.rate_pct||0);
       const bp=Math.round(Number(S.macro.mortgage_30y.delta_bp_wow||0));
-      setText($('#mort30'), y? y.toFixed(2)+'%' : '—');
-      setHTML($('#mort30Delta'), isNaN(bp)? '' : `<span class="${cls(bp)}">${bp>=0?'+':''}${bp}bp</span> w/w`);
+      setText(document.getElementById('mort30'), y.toFixed(2)+'%');
+      setHTML(document.getElementById('mort30Delta'), `<span class="${cls(bp)}">${bp>=0?'+':''}${bp}bp</span> w/w`);
     }
     if(S.macro?.starts){
       const lvl=Number(S.macro.starts.level_saar||0);
       const mom=Number(S.macro.starts.mom||0);
-      setText($('#starts'), lvl? (lvl/1_000_000).toFixed(2)+'m SAAR' : '—');
-      setHTML($('#startsDelta'), isNaN(mom)? '' : `<span class="${cls(mom)}">${fmtPct(mom,1)}</span> m/m`);
+      setText(document.getElementById('starts'), (lvl/1_000_000).toFixed(2)+'m SAAR');
+      setHTML(document.getElementById('startsDelta'), `<span class="${cls(mom)}">${fmtPct(mom,1)}</span> m/m`);
     }
 
     // Florida Permits + DOM
@@ -301,47 +253,50 @@
         const label = kpi.querySelector('.label')?.textContent.trim() || '';
         const M = msas[KEY[label]]; if(!M) return;
         const bucket = (type==='1unit') ? M.one_unit : M.total;
-        const subs = kpi.querySelectorAll('.kpi-sub'); // [0]=Latest, [1]=YTD, [2]=DOM
 
+        const blocks = kpi.querySelectorAll('.kpi-sub'); // [0]=Latest, [1]=YTD, [2]=DOM
         // Latest
-        if(subs[0]){
+        if(blocks[0]){
           if(bucket?.latest!=null){
-            subs[0].querySelector('.sub-label').textContent = `Latest Month · Units authorized (NSA) — ${type==='1unit'?'1-Unit':'Total'}`;
-            subs[0].querySelector('.value').textContent = (bucket.latest).toLocaleString();
-            subs[0].querySelector('.delta').innerHTML =
-              `<span class="${cls(bucket.mom)}">${fmtPct(bucket.mom,1)} MoM</span> · <span class="${cls(bucket.yoy)}">${fmtPct(bucket.yoy,1)} YoY</span>`;
+            const mom=bucket.mom, yoy=bucket.yoy;
+            blocks[0].querySelector('.sub-label').textContent = `Latest Month · Units authorized (NSA) — ${type==='1unit'?'1-Unit':'Total'}`;
+            blocks[0].querySelector('.value').textContent = (bucket.latest).toLocaleString();
+            blocks[0].querySelector('.delta').innerHTML =
+              `<span class="${cls(mom)}">${fmtPct(mom,1)} MoM</span> · <span class="${cls(yoy)}">${fmtPct(yoy,1)} YoY</span>`;
           }else{
-            subs[0].querySelector('.value').textContent='—';
-            subs[0].querySelector('.delta').textContent='—';
+            blocks[0].querySelector('.value').textContent='—';
+            blocks[0].querySelector('.delta').textContent='—';
           }
         }
         // YTD
-        if(subs[1]){
+        if(blocks[1]){
           if(bucket){
             const yr=bucket.latest_year, mname=bucket.latest_month_name||bucket.latest_month||'—';
-            subs[1].querySelector('.sub-label').textContent = `YTD · Jan–${mname} ${yr} vs ${yr-1} — ${type==='1unit'?'1-Unit':'Total'}`;
-            subs[1].querySelector('.value').textContent = (bucket.ytd_count??'—').toLocaleString();
-            subs[1].querySelector('.delta').innerHTML =
+            blocks[1].querySelector('.sub-label').textContent = `YTD · Jan–${mname} ${yr} vs ${yr-1} — ${type==='1unit'?'1-Unit':'Total'}`;
+            blocks[1].querySelector('.value').textContent = (bucket.ytd_count??'—').toLocaleString();
+            blocks[1].querySelector('.delta').innerHTML =
               `<span class="${cls(bucket.ytd_yoy)}">${fmtPct(bucket.ytd_yoy,1)} Y/Y</span>`;
           }else{
-            subs[1].querySelector('.value').textContent='—';
-            subs[1].querySelector('.delta').textContent='—';
+            blocks[1].querySelector('.value').textContent='—';
+            blocks[1].querySelector('.delta').textContent='—';
           }
         }
         // DOM
-        if(subs[2]){
+        if(blocks[2]){
           const D=M.dom;
           if(D){
-            subs[2].querySelector('.value').textContent = `${D.days} days`;
-            subs[2].querySelector('.delta').innerHTML =
+            blocks[2].querySelector('.value').textContent = `${D.days} days`;
+            blocks[2].querySelector('.delta').innerHTML =
               `<span class="${cls(D.yoy)}">${fmtPct(D.yoy,1)} YoY</span> <span class="fine">(${D.as_of||'—'})</span>`;
           }else{
-            subs[2].querySelector('.value').textContent='—';
-            subs[2].querySelector('.delta').textContent='—';
+            blocks[2].querySelector('.value').textContent='—';
+            blocks[2].querySelector('.delta').textContent='—';
           }
         }
       });
     }
+
+    // Toggle wiring
     document.querySelectorAll('#typeToggle button').forEach(btn=>{
       btn.addEventListener('click', ()=>{
         document.querySelectorAll('#typeToggle button').forEach(b=>b.classList.remove('active'));
@@ -351,102 +306,134 @@
     });
     renderPermits('total');
 
-    // Watchlist (hydrate if S.watchlist exists; else show full static list with placeholders)
-    const DEFAULT_LIST = [
-      ["DHI","D.R. Horton"],["LEN","Lennar"],["NVR","NVR"],["TOL","Toll Brothers"],["PHM","PulteGroup"],["KBH","KB Home"],
-      ["MTH","Meritage"],["GRBK","Green Brick"],["BLDR","Builders FirstSource"],["HD","Home Depot"],["LOW","Lowe's"],
-      ["XHB","SPDR Homebuilders"],["ITB","iShares Home Construction"],
-      ["VNQ","Vanguard REIT"],["SPG","Simon Property"],["PLD","Prologis"],["AMT","American Tower"],["MAA","Mid-America Apt"],
-      ["AVB","AvalonBay"],["EQR","Equity Residential"],["O","Realty Income"],["INVH","Invitation Homes"],["AMH","American Homes 4 Rent"],
-      ["Z","Zillow"],["RDFN","Redfin"],["OPEN","Opendoor"],["OPAD","Offerpad"],
-      ["RKT","Rocket"],["UWMC","UWM"],["BAC","Bank of America"],["WFC","Wells Fargo"],["JPM","JPMorgan"],["USB","U.S. Bancorp"]
-    ];
-    const DESCRIPTIONS = {
-      "DHI":"Largest builder; entry-level muscle.",
-      "LEN":"Big builder; FL/TX footprint, options-heavy.",
-      "NVR":"Asset-light builder; ruthless buybacks.",
-      "TOL":"Luxury homes; margins, mood lighting.",
-      "PHM":"Scale builder; move-up exposure.",
-      "KBH":"West/Sun Belt; first-time skew.",
-      "MTH":"Entry-to-move-up; Sun Belt bias.",
-      "GRBK":"Texas growth engine; niche swagger.",
-      "BLDR":"Pro contractor supplier; price leverage.",
-      "HD":"Home improvement mothership; Pro bellwether.",
-      "LOW":"HD’s rival; catching Pro share.",
-      "XHB":"Homebuilder/supplier ETF; diversified.",
-      "ITB":"Builder-heavy ETF; beta on housing.",
-      "VNQ":"Broad REIT ETF; yield vehicle.",
-      "SPG":"A-mall REIT; dividends and Dior.",
-      "PLD":"Logistics REIT; boxes for everything.",
-      "AMT":"Tower REIT; 5G rent escalators.",
-      "MAA":"Sun Belt multifamily; steady eddy.",
-      "AVB":"Coastal Class-A apartments; cyclical.",
-      "EQR":"Urban coastal apts; regulation vibes.",
-      "O":"Net-lease REIT; monthly rent checks.",
-      "INVH":"SFR landlord; scaled operations.",
-      "AMH":"SFR REIT; build-to-rent push."
-    };
-    const wrap=$("#stocksWrap"); wrap.innerHTML='';
-    const WL = Array.isArray(S.watchlist)? S.watchlist.map(x=>[x.symbol, x.name||x.symbol]) : DEFAULT_LIST;
-    WL.forEach(([t,n])=>{
-      const desc = DESCRIPTIONS[t] || "Company in housing stack.";
-      const price = (S.watchlist?.find(w=>w.symbol===t)?.price);
-      const ch = (S.watchlist?.find(w=>w.symbol===t)?.pct_1d);
-      const chTxt = (ch==null)? '—' : ((ch>0?'+':'')+(100*ch).toFixed(2)+'%');
-      const chCls = ch==null? 'style="color:#64748b"' : (ch>0? 'style="color:#16a34a"' : (ch<0? 'style="color:#dc2626"':'style="color:#64748b"'));
-      wrap.insertAdjacentHTML('beforeend',
-        `<div class="stock-row">
-           <div class="ticker">${t}</div>
-           <div class="name">${n}</div>
-           <div class="desc">${desc}</div>
-           <div class="price">${price==null?'—':('$'+Number(price).toFixed(2))}</div>
-           <div ${chCls}>${chTxt}</div>
-         </div>`);
-    });
+    // === Watchlist (scrollable) ===
+    function renderWatchlist(){
+      const WRAP = document.getElementById('stocksWrap');
+      if(!WRAP) return;
+      WRAP.innerHTML = '';
 
-    // FEED: render v6 block format from S.feed if provided
-    const sections = [['today','#today'], ['mom','#mom'], ['qtd','#qtd']];
-    const now = new Date();
-    setText($('#feedTime'), now.toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'}));
-    setText($('#feedDate'), now.toLocaleDateString());
-
-    function renderFeedBlocks(){
-      const F = S.feed || {};
-      sections.forEach(([key, sel])=>{
-        const arr = Array.isArray(F[key]) ? F[key] : [];
-        const mount = document.querySelector(sel);
-        mount.innerHTML = arr.length ? '' : '<div class="fine">No items yet.</div>';
-        arr.forEach(item=>{
-          mount.insertAdjacentHTML('beforeend',
-            blockHTML(item.h||'—', item.what, item.numbers, item.justify, item.why, item.market));
-        });
-      });
-    }
-    renderFeedBlocks();
-
-    // Takeaways from available data
-    function generateTakeaways(){
-      const mort = $('#mort30')?.innerText || '';
-      const mortDelta = $('#mort30Delta')?.innerText || '';
-      const ust10 = $('#ust10')?.innerText || '';
-      let upPerm=0, downPerm=0, leader=null, bestMoM=-1e9;
-
-      Object.values(msas).forEach(M=>{
-        const b = (document.querySelector('#typeToggle .active')?.dataset.type==='1unit')? M.one_unit : M.total;
-        if(b?.mom>0) upPerm++; else if(b?.mom<0) downPerm++;
-        if(b?.mom!=null && b.mom>bestMoM){ bestMoM=b.mom; leader= (M?.label)||''; }
-      });
-
-      const bullets = [
-        `Mortgage ${mort} (${mortDelta||'—'}).`,
-        `10Y ${ust10}.`,
-        `Permits breadth: ${upPerm} up / ${downPerm} down m/m${leader?`; leader ≈ strongest MoM`:''}.`,
-        `DOM data wired to state.json; watch changes where DOM is rising.`,
+      // Use S.watchlist if present; else default list with descriptions
+      const DEFAULT = [
+        ["DHI","D.R. Horton","Largest builder; entry-level muscle."],
+        ["LEN","Lennar","Big builder; FL/TX footprint, options-heavy."],
+        ["NVR","NVR","Asset-light builder; ruthless buybacks."],
+        ["TOL","Toll Brothers","Luxury homes; margins, mood lighting."],
+        ["PHM","PulteGroup","Scale builder; move-up exposure."],
+        ["KBH","KB Home","West/Sun Belt; first-time skew."],
+        ["MTH","Meritage","Entry-to-move-up; Sun Belt bias."],
+        ["GRBK","Green Brick","Texas growth engine; niche swagger."],
+        ["BLDR","Builders FirstSource","Pro contractor supplier; price leverage."],
+        ["HD","Home Depot","Home improvement mothership; Pro bellwether."],
+        ["LOW","Lowe's","HD’s rival; catching Pro share."],
+        ["XHB","SPDR Homebuilders","Homebuilder/supplier ETF; diversified."],
+        ["ITB","iShares Home Construction","Builder-heavy ETF; beta on housing."],
+        ["VNQ","Vanguard REIT","Broad REIT ETF; yield vehicle."],
+        ["SPG","Simon Property","A-mall REIT; dividends and Dior."],
+        ["PLD","Prologis","Logistics REIT; boxes for everything."],
+        ["AMT","American Tower","Tower REIT; 5G rent escalators."],
+        ["MAA","Mid-America Apt","Sun Belt multifamily; steady eddy."],
+        ["AVB","AvalonBay","Coastal Class-A apartments; cyclical."],
+        ["EQR","Equity Residential","Urban coastal apts; regulation vibes."],
+        ["O","Realty Income","Net-lease REIT; monthly rent checks."],
+        ["INVH","Invitation Homes","SFR landlord; scaled operations."],
+        ["AMH","American Homes 4 Rent","SFR REIT; build-to-rent push."],
+        ["Z","Zillow","Housing portal; ad machine (PA)."],
+        ["RDFN","Redfin","Brokerage + portal; thin margins."],
+        ["OPEN","Opendoor","iBuyer; inventory roulette wheel."],
+        ["OPAD","Offerpad","Smaller iBuyer; Southeast survivor."],
+        ["RKT","Rocket","Mortgage factory; refi lever."],
+        ["UWMC","UWM","Wholesale mortgage king; brokers first."],
+        ["BAC","Bank of America","Big bank; consumer + mortgage."],
+        ["WFC","Wells Fargo","Consumer bank; servicing baggage."],
+        ["JPM","JPMorgan","Mega bank; fortress balance sheet."],
+        ["USB","U.S. Bancorp","Regional bank; payments chops."]
       ];
-      $('#takeaways').innerHTML = "• " + bullets.join("<br/>• ");
+
+      const LIST = Array.isArray(S.watchlist) && S.watchlist.length
+        ? S.watchlist.map(o=>[o.t||o.ticker||'—', o.n||o.name||'—', o.desc||'',
+                              o.price??null, o.chg??null])
+        : DEFAULT.map(([t,n,desc])=>[t,n,desc,null,null]);
+
+      LIST.forEach(([t,n,desc,price,chg])=>{
+        const chgTxt = (chg==null)?'—':((chg>0?'+':'')+(chg*100).toFixed(2)+'%');
+        const chgCls = (chg==null)?'style="color:#64748b"':(chg>0?'style="color:#16a34a"':'style="color:#dc2626"');
+        WRAP.insertAdjacentHTML('beforeend', `
+          <div class="stock-row">
+            <div class="ticker">${t}</div>
+            <div class="name">${n}</div>
+            <div class="desc">${desc||''}</div>
+            <div class="price">${price==null?'—':('$'+Number(price).toFixed(2))}</div>
+            <div ${chgCls}>${chgTxt}</div>
+          </div>
+        `);
+      });
     }
-    generateTakeaways();
-    document.getElementById('refreshTakeaways').addEventListener('click', generateTakeaways);
+    renderWatchlist();
+
+    // === FEED placeholders (render from S.feed if present) ===
+    function blockHTML(cat, what, numbers, just, why, market){
+      return `<div class="block"><h4>${cat}</h4>
+        <div class="lines">
+          <div><span class="label">What:</span><span class="text">${what}</span></div>
+          <div><span class="label">Numbers:</span><span class="text">${numbers}</span></div>
+          <div><span class="label">Justified by:</span><span class="text">${just}</span></div>
+          <div><span class="label">Why it matters:</span><span class="text">${why}</span></div>
+          <div><span class="label">Market take:</span><span class="text">${market}</span></div>
+        </div></div>`;
+    }
+    function renderFeed(){
+      const WR = document.getElementById('feedWrap');
+      if(!WR) return;
+      WR.innerHTML = '';
+
+      const F = S.feed || null;
+      if(F && (F.today?.length || F.mom?.length || F.qtd?.length || F.takeaways?.length)){
+        // Render provided feed structure
+        if(F.today?.length){
+          WR.insertAdjacentHTML('beforeend','<div class="section-title">(1) Changes Today</div>');
+          F.today.forEach(b=> WR.insertAdjacentHTML('beforeend', blockHTML(...b)));
+        }
+        if(F.mom?.length){
+          WR.insertAdjacentHTML('beforeend','<div class="section-title">(2) Month-over-Month (MoM)</div>');
+          F.mom.forEach(b=> WR.insertAdjacentHTML('beforeend', blockHTML(...b)));
+        }
+        if(F.qtd?.length){
+          WR.insertAdjacentHTML('beforeend','<div class="section-title">(3) Quarter-to-Date (or longer)</div>');
+          F.qtd.forEach(b=> WR.insertAdjacentHTML('beforeend', blockHTML(...b)));
+        }
+        if(F.takeaways?.length){
+          WR.insertAdjacentHTML('beforeend','<div class="section-title">Summary Takeaways (No Sugarcoat)</div>');
+          WR.insertAdjacentHTML('beforeend', `<div class="summary">${F.takeaways.map(x=>'• '+x).join('<br>')}</div>`);
+        }
+      }else{
+        // Clean placeholders (no data yet)
+        WR.insertAdjacentHTML('beforeend','<div class="section-title">(1) Changes Today</div>');
+        WR.insertAdjacentHTML('beforeend', blockHTML(
+          'Awaiting feed data',
+          'No items yet.',
+          '—','—','Add feed to data/state.json','—'
+        ));
+        WR.insertAdjacentHTML('beforeend','<div class="section-title">(2) Month-over-Month (MoM)</div>');
+        WR.insertAdjacentHTML('beforeend', blockHTML(
+          'Awaiting feed data',
+          'No items yet.',
+          '—','—','Add feed to data/state.json','—'
+        ));
+        WR.insertAdjacentHTML('beforeend','<div class="section-title">(3) Quarter-to-Date (or longer)</div>');
+        WR.insertAdjacentHTML('beforeend', blockHTML(
+          'Awaiting feed data',
+          'No items yet.',
+          '—','—','Add feed to data/state.json','—'
+        ));
+        WR.insertAdjacentHTML('beforeend','<div class="section-title">Summary Takeaways (No Sugarcoat)</div>');
+        WR.insertAdjacentHTML('beforeend', `<div class="summary">• FEED not provided yet. Add a <code>feed</code> object to <code>data/state.json</code> (keys: <code>today</code>, <code>mom</code>, <code>qtd</code>, <code>takeaways</code>)</div>`);
+      }
+    }
+    renderFeed();
+
+    // Refresh Takeaways button just re-renders FEED
+    document.getElementById('refreshTakeaways').addEventListener('click', renderFeed);
+
   })();
 </script>
 </body>
