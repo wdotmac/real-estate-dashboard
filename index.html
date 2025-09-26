@@ -38,6 +38,7 @@
   .btn{background:#0b63f6;color:#fff;padding:9px 13px;border-radius:10px;cursor:pointer;border:1px solid #0b5be0;box-shadow:var(--shadow);font-weight:600}
   .btn.secondary{background:#fff;color:#0b63f6;border:1px solid var(--border)}
   .chip{background:#eef2ff;color:#1e293b;border:1px solid var(--border);padding:6px 10px;border-radius:999px;font-size:var(--fz-sm)}
+
   main{padding:var(--pad)}
   .grid{display:grid;gap:22px;grid-template-columns:1fr}
   .card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden}
@@ -150,25 +151,19 @@
       </div>
     </div>
 
-    <!-- 3) WATCHLIST (layout placeholder) -->
+    <!-- 3) WATCHLIST (wired to state.json) -->
     <div class="card">
       <h3>Watchlist — Full List</h3>
       <div class="content">
-        <div class="stocks-wrap" id="stocksWrap">
-          <div class="stock-row"><div class="ticker">DHI</div><div class="name">D.R. Horton</div><div class="desc">Largest builder; entry-level muscle.</div><div class="price">—</div><div class="muted">—</div></div>
-          <div class="stock-row"><div class="ticker">LEN</div><div class="name">Lennar</div><div class="desc">Big builder; FL/TX footprint.</div><div class="price">—</div><div class="muted">—</div></div>
-          <div class="stock-row"><div class="ticker">XHB</div><div class="name">SPDR Homebuilders</div><div class="desc">Homebuilder/supplier ETF.</div><div class="price">—</div><div class="muted">—</div></div>
-        </div>
+        <div class="stocks-wrap" id="stocksWrap"></div>
       </div>
     </div>
 
-    <!-- 4) FEED TICKER (layout placeholder) -->
+    <!-- 4) FEED TICKER (wired to state.json) -->
     <div class="card">
       <h3>FEED: RE Ticker</h3>
       <div class="content">
-        <div class="feed-wrap" id="feedWrap">
-          <div class="fine">Layout ready. We can wire a FEED JSON later.</div>
-        </div>
+        <div class="feed-wrap" id="feedWrap"></div>
       </div>
     </div>
 
@@ -291,6 +286,46 @@
       });
     }
 
+    // ---- Watchlist (from S.watchlist) ----
+    function renderWatchlist(list){
+      const wrap = document.getElementById('stocksWrap');
+      if(!wrap) return;
+      wrap.innerHTML = '';
+      if(!Array.isArray(list) || list.length===0){
+        wrap.innerHTML = '<div class="fine" style="padding:12px">No watchlist data yet.</div>';
+        return;
+      }
+      list.forEach(row=>{
+        const ch1d = row.pct_1d, cls1 = (ch1d>0?'pos':(ch1d<0?'neg':'flat'));
+        wrap.insertAdjacentHTML('beforeend', `
+          <div class="stock-row">
+            <div class="ticker">${row.symbol}</div>
+            <div class="name"></div>
+            <div class="desc"></div>
+            <div class="price">$${Number(row.price||0).toFixed(2)}</div>
+            <div class="${cls1}">${ch1d==null?'—':((ch1d>=0?'+':'')+(100*ch1d).toFixed(2)+'%')}</div>
+          </div>
+        `);
+      });
+    }
+
+    // ---- FEED (from S.feed) ----
+    function renderFeed(feed){
+      const wrap = document.getElementById('feedWrap');
+      if(!wrap) return;
+      wrap.innerHTML = '';
+      if(!Array.isArray(feed) || feed.length===0){
+        wrap.innerHTML = '<div class="fine">No headlines yet.</div>';
+        return;
+      }
+      feed.forEach(it=>{
+        const t = it.title || '—';
+        const L = it.link ? `<a href="${it.link}" target="_blank" rel="noopener noreferrer">${t}</a>` : t;
+        const ts = it.published ? ` <span class="fine">· ${it.published}</span>` : '';
+        wrap.insertAdjacentHTML('beforeend', `<div style="padding:8px 0;border-bottom:1px dashed var(--border)">• ${L}${ts}</div>`);
+      });
+    }
+
     // Toggle wiring
     document.querySelectorAll('#typeToggle button').forEach(btn=>{
       btn.addEventListener('click', ()=>{
@@ -299,12 +334,16 @@
         render(btn.dataset.type);
       });
     });
+
+    // Initial paints
     render('total');
+    renderWatchlist(S.watchlist || []);
+    renderFeed(S.feed || []);
   })();
 
-  // Placeholder action
+  // Placeholder action for the top button (kept for parity with earlier builds)
   document.getElementById('refreshTakeaways').addEventListener('click', ()=>{
-    alert('Summary will populate when FEED JSON is wired. Layout is ready.');
+    alert('Takeaways button kept for parity. The FEED list above is now hydrated from state.json.');
   });
 </script>
 </body>
