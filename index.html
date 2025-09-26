@@ -1,136 +1,256 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Real Estate Daily Dashboard</title>
-  <style>
-    :root { font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial, sans-serif; }
-    body { margin: 0; color: #111; background: #fff; }
-    header { padding: 16px; border-bottom: 1px solid #eee; }
-    main { max-width: 1200px; margin: 0 auto; padding: 16px; }
-    h1 { font-size: 20px; margin: 0; }
-    h2 { margin: 10px 0 8px; font-size: 16px; }
-    .asof { color: #666; font-size: 12px; margin-top: 4px; }
-    section { margin: 24px 0; }
-    .card { border: 1px solid #eee; border-radius: 12px; padding: 16px; background: #fff; }
-    .grid { display: grid; gap: 12px; }
-    .grid.cols-2 { grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
-    .kpi-label { color: #666; font-size: 12px; }
-    .kpi-value { font-size: 22px; margin: 6px 0 8px; }
-    .kpi-sub { color: #666; font-size: 12px; }
-    .pos { color: #0a7a21; }
-    .neg { color: #b00020; }
-    table { width: 100%; border-collapse: collapse; font-size: 14px; }
-    th, td { padding: 8px; border-bottom: 1px solid #f0f0f0; text-align: left; }
-    th { background: #fafafa; position: sticky; top: 0; z-index: 1; }
-    .muted { color: #666; font-size: 12px; }
-    .ticker { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-    /* FEED ticker */
-    .feedbar { border: 1px solid #eee; border-radius: 12px; padding: 10px 12px; background: #fff; }
-    .feeditem { font-size: 14px; margin: 6px 0; }
-    .feeditem a { text-decoration: none; color: #0366d6; }
-    .tabs { display: flex; gap: 6px; margin-bottom: 8px; }
-    .tab { font-size: 12px; padding: 6px 10px; border: 1px solid #eee; border-radius: 16px; cursor: default; background: #fafafa; }
-  </style>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Market & Housing Dashboard — v6 FINAL (Hydrated from state.json)</title>
+<style>
+  :root{
+    --bg1:#f6f8ff; --bg2:#eef7ff;
+    --text:#0f172a; --muted:#475569; --soft:#64748b;
+    --card:#ffffff; --border:#e6e9f2; --primary:#0b63f6;
+    --ok:#16a34a; --bad:#dc2626; --flat:#64748b;
+    --accentA:#e9f1ff; --accentB:#f0e9ff;
+    --radius:14px; --shadow:0 10px 32px rgba(10,14,25,.10);
+    --fz:16px; --fz-sm:14px; --fz-lg:18px;
+    --pad:18px; --gap:16px; --maxw:1240px;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0;color:var(--text);font:var(--fz)/1.7 Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+    background:linear-gradient(180deg, var(--bg1), var(--bg2)) fixed;
+  }
+  body::before, body::after{
+    content:""; position:fixed; top:0; bottom:0; width:10px; pointer-events:none;
+    background:linear-gradient(180deg, var(--accentA), transparent 60%);
+  }
+  body::before{ left:0 }
+  body::after{ right:0; background:linear-gradient(180deg, var(--accentB), transparent 60%) }
+
+  a{color:#0b63f6;text-decoration:none}
+  header{position:sticky;top:0;z-index:1000;background:rgba(255,255,255,.9);backdrop-filter:blur(8px);border-bottom:1px solid var(--border)}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:12px var(--pad)}
+  .bar{display:flex;align-items:center;justify-content:space-between;gap:12px}
+  .brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:20px}
+  .logo{width:30px;height:30px;border-radius:9px;background:linear-gradient(135deg,#0b63f6,#7c3aed)}
+  .toolbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+  .btn{background:#0b63f6;color:#fff;padding:9px 13px;border-radius:10px;cursor:pointer;border:1px solid #0b5be0;box-shadow:var(--shadow);font-weight:600}
+  .btn.secondary{background:#fff;color:#0b63f6;border:1px solid var(--border)}
+  .chip{background:#eef2ff;color:#1e293b;border:1px solid var(--border);padding:6px 10px;border-radius:999px;font-size:var(--fz-sm)}
+  main{padding:var(--pad)}
+  .grid{display:grid;gap:22px;grid-template-columns:1fr}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden}
+  .card h3{margin:0;padding:14px var(--pad);background:linear-gradient(180deg,#ffffff,#fbfbff);border-bottom:1px solid var(--border);font-size:var(--fz-lg);color:#1f2937;letter-spacing:.2px}
+  .content{padding:var(--pad)}
+
+  /* KPI grid */
+  .kpis{display:grid;gap:14px;grid-template-columns:repeat(4,1fr)}
+  .kpi{display:flex;flex-direction:column;gap:10px;background:#fff;border:1px solid var(--border);border-radius:12px;padding:12px}
+  .kpi .label{color:#0f172a;font-size:15px;font-weight:800}
+  .kpi-sub{border:1px dashed var(--border);border-radius:10px;padding:10px;background:#fcfdff}
+  .sub-label{color:#64748b;font-size:12px;text-transform:uppercase;letter-spacing:.4px;margin-bottom:6px}
+  .value{font-size:24px;font-weight:800}
+  .delta{font-size:13px;color:#475569}
+  .pos{color:var(--ok)} .neg{color:var(--bad)} .flat{color:var(--flat)}
+  .fine{color:#64748b;font-size:12px}
+
+  /* Type toggle */
+  .toggle{display:inline-flex;border:1px solid var(--border);border-radius:12px;overflow:hidden;background:#fff}
+  .toggle button{padding:8px 12px;border:none;background:#fff;color:#0b63f6;font-weight:700;cursor:pointer}
+  .toggle button.active{background:#0b63f6;color:#fff}
+  .toggle button+button{border-left:1px solid var(--border)}
+
+  /* Watchlist (placeholder layout) */
+  .stocks-wrap{max-height:520px;overflow:auto;border:1px solid var(--border);border-radius:12px;background:#fff}
+  .stock-row{display:grid;grid-template-columns:110px 180px 1fr 120px 120px;gap:10px;align-items:center;padding:12px 14px;border-bottom:1px dashed var(--border)}
+  .stock-row:last-child{border-bottom:none}
+  .ticker{font-weight:800;color:#111827}
+  .name{color:#1f2937;font-weight:600}
+  .desc{color:#475569;font-size:14px}
+  .price{font-variant-numeric:tabular-nums}
+
+  /* FEED */
+  .feed-wrap{max-height:680px;overflow:auto;border:1px solid var(--border);border-radius:12px;background:#fff;padding:14px}
+
+  @media (max-width: 1000px){ .kpis{grid-template-columns:repeat(2,1fr)} }
+  @media (max-width: 640px){ .kpis{grid-template-columns:1fr} }
+</style>
 </head>
 <body>
-  <header>
-    <h1>Real Estate Daily Dashboard</h1>
-    <div class="asof" id="lastUpdated">Loading…</div>
-  </header>
-  <main>
-    <!-- 1) Macro Snapshot -->
-    <section>
-      <h2>1) Macro Snapshot</h2>
-      <div id="macro" class="grid cols-2">
-        <div class="card"><div class="kpi-label">S&amp;P 500</div><div class="kpi-value" id="spx">—</div><div class="kpi-sub" id="spxDelta"></div></div>
-        <div class="card"><div class="kpi-label">10Y Treasury</div><div class="kpi-value" id="ust10">—</div><div class="kpi-sub" id="ust10Delta"></div></div>
-        <div class="card"><div class="kpi-label">30Y Mortgage</div><div class="kpi-value" id="mort30">—</div><div class="kpi-sub" id="mort30Delta"></div></div>
-        <div class="card"><div class="kpi-label">Housing Starts</div><div class="kpi-value" id="starts">—</div><div class="kpi-sub" id="startsDelta"></div></div>
-      </div>
-    </section>
+<header>
+  <div class="wrap bar">
+    <div class="brand"><div class="logo"></div><div>Market & Housing — v6 FINAL</div></div>
+    <div class="toolbar">
+      <span class="chip">Updated: <span id="lastUpdated">—</span></span>
+      <button class="btn secondary" id="refreshTakeaways">Refresh Takeaways</button>
+      <button class="btn" id="downloadHtml">Download HTML</button>
+    </div>
+  </div>
+</header>
 
-    <!-- 2) Florida Permits (Finalized) -->
-    <section>
-      <h2>2) Florida Permits</h2>
-      <div class="card">
-        <div class="tabs" id="typeToggle">
-          <button class="tab active" data-type="total">Total</button>
-          <button class="tab" data-type="1unit">1-Unit</button>
-        </div>
-        <div id="flPermitsKPI" class="grid cols-2">
-          <div class="card kpi"><div class="label">Orlando–Kissimmee–Sanford</div>
-            <div class="kpi-sub"><div class="sub-label">Latest</div><div class="value">—</div><div class="delta"></div></div>
-            <div class="kpi-sub"><div class="sub-label">YTD</div><div class="value">—</div><div class="delta"></div></div>
-            <div class="kpi-sub"><div class="sub-label">DOM</div><div class="value">—</div><div class="delta"></div></div>
-          </div>
-          <div class="card kpi"><div class="label">Tampa–St. Petersburg–Clearwater</div>
-            <div class="kpi-sub"><div class="sub-label">Latest</div><div class="value">—</div><div class="delta"></div></div>
-            <div class="kpi-sub"><div class="sub-label">YTD</div><div class="value">—</div><div class="delta"></div></div>
-            <div class="kpi-sub"><div class="sub-label">DOM</div><div class="value">—</div><div class="delta"></div></div>
-          </div>
-          <div class="card kpi"><div class="label">Ocala Metro Area</div>
-            <div class="kpi-sub"><div class="sub-label">Latest</div><div class="value">—</div><div class="delta"></div></div>
-            <div class="kpi-sub"><div class="sub-label">YTD</div><div class="value">—</div><div class="delta"></div></div>
-            <div class="kpi-sub"><div class="sub-label">DOM</div><div class="value">—</div><div class="delta"></div></div>
-          </div>
-          <div class="card kpi"><div class="label">Palm Bay–Melbourne–Titusville</div>
-            <div class="kpi-sub"><div class="sub-label">Latest</div><div class="value">—</div><div class="delta"></div></div>
-            <div class="kpi-sub"><div class="sub-label">YTD</div><div class="value">—</div><div class="delta"></div></div>
-            <div class="kpi-sub"><div class="sub-label">DOM</div><div class="value">—</div><div class="delta"></div></div>
-          </div>
+<main>
+  <div class="wrap grid">
+
+    <!-- 1) MACRO SNAPSHOT -->
+    <div class="card">
+      <h3>Macro Snapshot</h3>
+      <div class="content">
+        <div class="kpis">
+          <div class="kpi"><div class="label">S&amp;P 500</div><div class="value" id="spx">—</div><div class="delta" id="spxDelta"></div></div>
+          <div class="kpi"><div class="label">10Y UST</div><div class="value" id="ust10">—</div><div class="delta" id="ust10Delta"></div></div>
+          <div class="kpi"><div class="label">30Y Mortgage (PMMS)</div><div class="value" id="mort30">—</div><div class="delta" id="mort30Delta"></div></div>
+          <div class="kpi"><div class="label">Housing Starts (SAAR)</div><div class="value" id="starts">—</div><div class="delta" id="startsDelta"></div></div>
         </div>
       </div>
-    </section>
+    </div>
 
-    <!-- 3) Watchlist — Full List -->
-    <section>
-      <h2>3) Watchlist — Full List</h2>
-      <div class="card" style="padding:0;">
-        <div style="overflow:auto"><table id="watchlist"></table></div>
+    <!-- 2) FLORIDA PERMITS — Month + YTD + DOM with Type Toggle (Total & 1-Unit) -->
+    <div class="card">
+      <h3>Florida Metro Permits — Latest Month + YTD + Days on Market</h3>
+      <div class="content">
+        <div style="display:flex;align-items:center;gap:10px;margin-bottom:10px">
+          <span class="fine" style="font-weight:700">Type:</span>
+          <div class="toggle" id="typeToggle">
+            <button class="active" data-type="total">Total</button>
+            <button data-type="1unit">1-Unit</button>
+          </div>
+        </div>
+
+        <div class="kpis" id="flPermitsKPI">
+          <!-- Orlando -->
+          <div class="kpi">
+            <div class="label">Orlando–Kissimmee–Sanford</div>
+            <div class="kpi-sub">
+              <div class="sub-label">Latest Month · Units authorized (NSA) — Total</div>
+              <div class="value">—</div>
+              <div class="delta"></div>
+            </div>
+            <div class="kpi-sub">
+              <div class="sub-label">YTD · Jan–… vs prior year — Total</div>
+              <div class="value">—</div>
+              <div class="delta"></div>
+            </div>
+            <div class="kpi-sub">
+              <div class="sub-label">Days on Market (Median)</div>
+              <div class="value">—</div>
+              <div class="delta"></div>
+            </div>
+          </div>
+          <!-- Tampa -->
+          <div class="kpi">
+            <div class="label">Tampa–St. Petersburg–Clearwater</div>
+            <div class="kpi-sub"><div class="sub-label">Latest Month · Units authorized (NSA) — Total</div><div class="value">—</div><div class="delta"></div></div>
+            <div class="kpi-sub"><div class="sub-label">YTD · Jan–… vs prior year — Total</div><div class="value">—</div><div class="delta"></div></div>
+            <div class="kpi-sub"><div class="sub-label">Days on Market (Median)</div><div class="value">—</div><div class="delta"></div></div>
+          </div>
+          <!-- Ocala -->
+          <div class="kpi">
+            <div class="label">Ocala Metro Area</div>
+            <div class="kpi-sub"><div class="sub-label">Latest Month · Units authorized (NSA) — Total</div><div class="value">—</div><div class="delta"></div></div>
+            <div class="kpi-sub"><div class="sub-label">YTD · Jan–… vs prior year — Total</div><div class="value">—</div><div class="delta"></div></div>
+            <div class="kpi-sub"><div class="sub-label">Days on Market (Median)</div><div class="value">—</div><div class="delta"></div></div>
+          </div>
+          <!-- Palm Bay -->
+          <div class="kpi">
+            <div class="label">Palm Bay–Melbourne–Titusville</div>
+            <div class="kpi-sub"><div class="sub-label">Latest Month · Units authorized (NSA) — Total</div><div class="value">—</div><div class="delta"></div></div>
+            <div class="kpi-sub"><div class="sub-label">YTD · Jan–… vs prior year — Total</div><div class="value">—</div><div class="delta"></div></div>
+            <div class="kpi-sub"><div class="sub-label">Days on Market (Median)</div><div class="value">—</div><div class="delta"></div></div>
+          </div>
+        </div>
+
+        <p class="fine" style="margin-top:8px">
+          <strong>Permits</strong> = units authorized (Census BPS via FRED), NSA monthly. <strong>DOM</strong> from Realtor.com/Redfin via FRED proxies where available.
+        </p>
       </div>
-    </section>
+    </div>
 
-    <!-- 4) FEED Ticker -->
-    <section>
-      <h2>4) FEED Ticker</h2>
-      <div id="feed" class="feedbar"></div>
-    </section>
-  </main>
+    <!-- 3) WATCHLIST — layout placeholder (no live data yet) -->
+    <div class="card">
+      <h3>Watchlist — Full List</h3>
+      <div class="content">
+        <div class="stocks-wrap" id="stocksWrap">
+          <div class="stock-row"><div class="ticker">DHI</div><div class="name">D.R. Horton</div><div class="desc">Largest builder; entry-level muscle.</div><div class="price">—</div><div class="muted">—</div></div>
+          <div class="stock-row"><div class="ticker">LEN</div><div class="name">Lennar</div><div class="desc">Big builder; FL/TX footprint.</div><div class="price">—</div><div class="muted">—</div></div>
+          <div class="stock-row"><div class="ticker">XHB</div><div class="name">SPDR Homebuilders</div><div class="desc">Homebuilder/supplier ETF.</div><div class="price">—</div><div class="muted">—</div></div>
+          <!-- Add more rows later when we wire a watchlist JSON -->
+        </div>
+      </div>
+    </div>
 
-  <script>
-  /* FINAL dashboard data hydration — uses data/state.json produced by GitHub Actions */
-  (async function () {
+    <!-- 4) FEED TICKER (static placeholder section) -->
+    <div class="card">
+      <h3>FEED: RE Ticker</h3>
+      <div class="content">
+        <div class="feed-wrap" id="feedWrap">
+          <div class="fine">You can populate this later; the design is in place.</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</main>
+
+<script>
+  // Small helpers
+  const cls = (x)=> (x>0?'pos':(x<0?'neg':'flat'));
+  const fmtPct = (x,d=1)=> (x==null?'—':((x>=0?'+':'')+(100*x).toFixed(d)+'%'));
+  const setText = (el, v)=>{ if(el) el.textContent = v; };
+  const setHTML = (el, v)=>{ if(el) el.innerHTML = v; };
+
+  // Download self
+  document.getElementById('downloadHtml').addEventListener('click', ()=>{
+    const blob = new Blob([document.documentElement.outerHTML], {type:'text/html'});
+    const url = URL.createObjectURL(blob); const a=document.createElement('a');
+    a.href=url; a.download='market_housing_dashboard_v6_FINAL.html'; a.click(); URL.revokeObjectURL(url);
+  });
+
+  // Hydrate from data/state.json (no generators)
+  (async function(){
     let resp;
-    try {
+    try{
       resp = await fetch('data/state.json?cb=' + Date.now());
-    } catch (e) {
-      console.error('Failed to fetch state.json', e);
-      document.getElementById('lastUpdated')?.replaceChildren('Failed to load data.');
+    }catch(e){
+      console.error('fetch state.json failed', e);
+      document.getElementById('lastUpdated').textContent = 'Failed to load data.';
       return;
     }
-    if (!resp.ok) {
-      document.getElementById('lastUpdated')?.replaceChildren('No data yet.');
+    if(!resp.ok){
+      document.getElementById('lastUpdated').textContent = 'No data yet.';
       return;
     }
     const S = await resp.json();
 
-    const fmtPct = (x, d=2) => (x==null) ? '—' : ((x>=0?'+':'') + (100*x).toFixed(d) + '%');
-    const cls = (x) => (x>0?'pos':(x<0?'neg':'flat'));
-    const setHTML = (el, html) => { if (el) el.innerHTML = html; };
-    const setText = (el, txt) => { if (el) el.textContent = txt; };
-
-    // Header
+    // Header time
     setText(document.getElementById('lastUpdated'), S.as_of || '—');
 
     // Macro
-    if (S.macro?.spx) { setText(document.getElementById('spx'), S.macro.spx.price.toFixed(2)); }
-    if (S.macro?.ten_year) { setText(document.getElementById('ust10'), S.macro.ten_year.yield_pct.toFixed(2)+'%'); }
-    if (S.macro?.mortgage_30y) { setText(document.getElementById('mort30'), S.macro.mortgage_30y.rate_pct.toFixed(2)+'%'); }
-    if (S.macro?.starts) { setText(document.getElementById('starts'), (S.macro.starts.level_saar/1_000_000).toFixed(2)+'m SAAR'); }
+    if(S.macro?.spx){
+      const p = Number(S.macro.spx.price||0);
+      const d = Number(S.macro.spx.pct_1d||0);
+      setText(document.getElementById('spx'), p.toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2}));
+      setHTML(document.getElementById('spxDelta'), `<span class="${cls(d)}">${fmtPct(d,2)}</span> 1d`);
+    }
+    if(S.macro?.ten_year){
+      const y=Number(S.macro.ten_year.yield_pct||0);
+      const bp=Math.round(Number(S.macro.ten_year.delta_bp_1d||0));
+      setText(document.getElementById('ust10'), y.toFixed(2)+'%');
+      setHTML(document.getElementById('ust10Delta'), `<span class="${cls(bp)}">${bp>=0?'+':''}${bp}bp</span>`);
+    }
+    if(S.macro?.mortgage_30y){
+      const y=Number(S.macro.mortgage_30y.rate_pct||0);
+      const bp=Math.round(Number(S.macro.mortgage_30y.delta_bp_wow||0));
+      setText(document.getElementById('mort30'), y.toFixed(2)+'%');
+      setHTML(document.getElementById('mort30Delta'), `<span class="${cls(bp)}">${bp>=0?'+':''}${bp}bp</span> w/w`);
+    }
+    if(S.macro?.starts){
+      const lvl=Number(S.macro.starts.level_saar||0);
+      const mom=Number(S.macro.starts.mom||0);
+      setText(document.getElementById('starts'), (lvl/1_000_000).toFixed(2)+'m SAAR');
+      setHTML(document.getElementById('startsDelta'), `<span class="${cls(mom)}">${fmtPct(mom,1)}</span> m/m`);
+    }
 
-    // Permits
+    // Florida Permits (Total & 1-Unit) + DOM
     const msas = S.permits?.msa || {};
     const KEY = {
       'Orlando–Kissimmee–Sanford':'Orlando–Kissimmee–Sanford',
@@ -138,32 +258,70 @@
       'Ocala Metro Area':'Ocala',
       'Palm Bay–Melbourne–Titusville':'Palm Bay–Melbourne–Titusville'
     };
+
     function render(type){
       document.querySelectorAll('#flPermitsKPI .kpi').forEach(kpi=>{
-        const label = kpi.querySelector('.label').textContent.trim();
+        const label = kpi.querySelector('.label')?.textContent.trim() || '';
         const M = msas[KEY[label]]; if(!M) return;
-        const bucket = (type==='1unit')?M.one_unit:M.total;
-        const subs = kpi.querySelectorAll('.kpi-sub');
-        if(bucket){
-          setText(subs[0].querySelector('.value'), bucket.latest?.toLocaleString()||'—');
-          setHTML(subs[0].querySelector('.delta'), `<span class="${cls(bucket.mom)}">${fmtPct(bucket.mom,1)} MoM</span> · <span class="${cls(bucket.yoy)}">${fmtPct(bucket.yoy,1)} YoY</span>`);
-          setText(subs[1].querySelector('.value'), bucket.ytd_count?.toLocaleString()||'—');
-          setHTML(subs[1].querySelector('.delta'), `<span class="${cls(bucket.ytd_yoy)}">${fmtPct(bucket.ytd_yoy,1)} Y/Y</span>`);
+        const bucket = (type==='1unit') ? M.one_unit : M.total;
+
+        const blocks = kpi.querySelectorAll('.kpi-sub'); // [0]=Latest, [1]=YTD, [2]=DOM
+        // Latest
+        if(blocks[0]){
+          if(bucket?.latest!=null){
+            const mom=bucket.mom, yoy=bucket.yoy;
+            blocks[0].querySelector('.sub-label').textContent = `Latest Month · Units authorized (NSA) — ${type==='1unit'?'1-Unit':'Total'}`;
+            blocks[0].querySelector('.value').textContent = (bucket.latest).toLocaleString();
+            blocks[0].querySelector('.delta').innerHTML =
+              `<span class="${cls(mom)}">${fmtPct(mom,1)} MoM</span> · <span class="${cls(yoy)}">${fmtPct(yoy,1)} YoY</span>`;
+          }else{
+            blocks[0].querySelector('.value').textContent='—';
+            blocks[0].querySelector('.delta').textContent='—';
+          }
         }
-        if(M.dom){
-          setText(subs[2].querySelector('.value'), M.dom.days+' days');
-          setHTML(subs[2].querySelector('.delta'), `<span class="${cls(M.dom.yoy)}">${fmtPct(M.dom.yoy,1)} YoY</span> (${M.dom.as_of})`);
+        // YTD
+        if(blocks[1]){
+          if(bucket){
+            const yr=bucket.latest_year, mname=bucket.latest_month_name||bucket.latest_month||'—';
+            blocks[1].querySelector('.sub-label').textContent = `YTD · Jan–${mname} ${yr} vs ${yr-1} — ${type==='1unit'?'1-Unit':'Total'}`;
+            blocks[1].querySelector('.value').textContent = (bucket.ytd_count??'—').toLocaleString();
+            blocks[1].querySelector('.delta').innerHTML =
+              `<span class="${cls(bucket.ytd_yoy)}">${fmtPct(bucket.ytd_yoy,1)} Y/Y</span>`;
+          }else{
+            blocks[1].querySelector('.value').textContent='—';
+            blocks[1].querySelector('.delta').textContent='—';
+          }
+        }
+        // DOM
+        if(blocks[2]){
+          const D=M.dom;
+          if(D){
+            blocks[2].querySelector('.value').textContent = `${D.days} days`;
+            blocks[2].querySelector('.delta').innerHTML =
+              `<span class="${cls(D.yoy)}">${fmtPct(D.yoy,1)} YoY</span> <span class="fine">(${D.as_of||'—'})</span>`;
+          }else{
+            blocks[2].querySelector('.value').textContent='—';
+            blocks[2].querySelector('.delta').textContent='—';
+          }
         }
       });
     }
+
+    // Toggle wiring
     document.querySelectorAll('#typeToggle button').forEach(btn=>{
-      btn.addEventListener('click',()=>{
+      btn.addEventListener('click', ()=>{
         document.querySelectorAll('#typeToggle button').forEach(b=>b.classList.remove('active'));
-        btn.classList.add('active'); render(btn.dataset.type);
+        btn.classList.add('active');
+        render(btn.dataset.type);
       });
     });
     render('total');
   })();
-  </script>
+
+  // Optional: refresh takeaways button (placeholder)
+  document.getElementById('refreshTakeaways').addEventListener('click', ()=>{
+    alert('This will summarize once we wire a FEED source. Layout is ready.');
+  });
+</script>
 </body>
 </html>
