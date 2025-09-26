@@ -1,0 +1,33 @@
+{
+  "as_of": "2025-09-25T12:00:00Z",
+  "macro": {
+    "ten_year": {"label": "US 10Y", "latest": 4.24, "pretty": "4.24%", "mom": 0.012, "yoy": -0.034, "ytd": -0.018},
+    "two_year": {"label": "US 2Y",  "latest": 4.60, "pretty": "4.60%", "mom": -0.006, "yoy": -0.090, "ytd": -0.055},
+    "cpi": {"label": "CPI YoY", "latest": 0.032, "pretty": "+3.2% YoY", "mom": 0.003, "yoy": -0.006, "ytd": 0.012},
+    "mortgage_30y": {"label": "Mortgage 30Y", "latest": 6.85, "pretty": "6.85%", "mom": -0.004, "yoy": -0.009, "ytd": -0.021}
+  },
+  "permits": {
+    "florida": {
+      "latest": 13250,
+      "latest_date": "2025-08",
+      "mom": 0.018,
+      "yoy": 0.045,
+      "ytd": 0.067,
+      "table": [
+        {"date": "2025-08", "value": 13250},
+        {"date": "2025-07", "value": 13014},
+        {"date": "2025-06", "value": 12880}
+      ]
+    }
+  },
+  "watchlist": [
+    {"symbol": "DHI", "price": 123.45, "pct_1d": 0.006, "pct_wtd": 0.012, "pct_mtd": -0.008, "pct_ytd": 0.155},
+    {"symbol": "LEN", "price": 150.02, "pct_1d": -0.004, "pct_wtd": 0.002, "pct_mtd": -0.015, "pct_ytd": 0.121},
+    {"symbol": "ITB", "price": 106.77, "pct_1d": 0.001, "pct_wtd": 0.009, "pct_mtd": -0.012, "pct_ytd": 0.085},
+    {"symbol": "XHB", "price": 106.10, "pct_1d": 0.002, "pct_wtd": 0.008, "pct_mtd": -0.010, "pct_ytd": 0.078},
+    {"symbol": "^GSPC", "price": 5510.25, "pct_1d": 0.004, "pct_wtd": 0.007, "pct_mtd": -0.005, "pct_ytd": 0.178}
+  ],
+  "feed": [
+    {"title": "Sample item", "link": "https://example.com", "published": "2025-09-25"}
+  ]
+}
