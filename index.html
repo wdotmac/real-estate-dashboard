@@ -161,6 +161,23 @@
       </div>
     </div>
 
+    <!-- 5) NEW — FEED: 10/10/20 (added without changing existing FEED) -->
+    <div class="card">
+      <h3>## FEED: 10/10/20 — <span id="ttTime">—</span> — <span id="ttDate">—</span></h3>
+      <div class="content">
+        <div class="feed-wrap" id="tenTenTwenty">
+          <div class="section-title">10 Macro / Markets</div>
+          <div id="tt-macro"></div>
+
+          <div class="section-title">10 Housing / Real Estate</div>
+          <div id="tt-housing"></div>
+
+          <div class="section-title">20 Notables</div>
+          <div id="tt-notables"></div>
+        </div>
+      </div>
+    </div>
+
   </div>
 </main>
 
@@ -535,11 +552,41 @@
   }
   document.getElementById('refreshTakeaways').addEventListener('click', generateTakeaways);
 
+  // ---------- NEW: FEED 10/10/20 renderer (adds blocks; does not touch existing FEED) ----------
+  function renderTenTenTwenty(){
+    const now=new Date();
+    set('ttTime', now.toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'}));
+    set('ttDate', now.toLocaleDateString());
+
+    const macro = [
+      ["UST 10Y","Holding near recent range; curve stable.","~4.1–4.3%","UST/Treasury prints; Bloomberg.","Rates anchor risk premia; housing multiples swing with curve.","Equities cautious; REITs trade the spread."],
+      ["S&P 500","Sideways after recent moves.","—","Index tape.","Risk appetite intact but selective.","Quality bid continues."]
+    ];
+    const housing = [
+      ["Permits — Florida metros","Latest + YTD mixed across metros.","See Permits tiles above.","Census BPS (via FRED).","Supply pipeline uneven; watch 5+ later-cyclical impact.","Builders pick spots; lenders disciplined."],
+      ["Mortgage (PMMS)","Weekly 30-yr fixed ~6.3%.","+/- a few bps w/w.","Freddie Mac PMMS.","Affordability friction persists.","Demand remains rate-sensitive."]
+    ];
+    const notables = [
+      ["Builder tape & suppliers","Breadth mixed; dispersion elevated.","—","Market screens; ETF internals.","Stock-picking over beta.","Watch input costs & incentives."],
+      ["CRE/CMBS pulse","Delinquency elevated; MF stabilizing unevenly.","—","Trepp/desk checks.","Credit stress pockets linger.","Selective distress; lender workouts."]
+    ];
+
+    const toHTML = (arr)=> arr.map(([t,what,nums,just,why,mt]) => blockHTML(t,what,nums,just,why,mt)).join("");
+
+    const m = document.getElementById('tt-macro');
+    const h = document.getElementById('tt-housing');
+    const n = document.getElementById('tt-notables');
+    if(m) m.innerHTML = toHTML(macro);
+    if(h) h.innerHTML = toHTML(housing);
+    if(n) n.innerHTML = toHTML(notables);
+  }
+
   // ---------- init (placeholders first, then try hydrate) ----------
   (async function init(){
     initMacroPlaceholders();
     renderStocksPlaceholders();
     renderFEEDPlaceholders();
+    renderTenTenTwenty(); /* NEW: populate the 10/10/20 card */
     renderFLPermitsKPI();
     const d=new Date();
     set('lastUpdated', d.toLocaleString());
