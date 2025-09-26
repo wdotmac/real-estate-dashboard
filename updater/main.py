@@ -5,6 +5,7 @@ import pandas as pd
 from fredapi import Fred
 import yfinance as yf
 import feedparser
+from urllib.parse import urlparse  # <-- ADDED
 
 OUT = 'data/state.json'
 
@@ -209,58 +210,116 @@ def get_feed():
   return dedup[:MAX_ITEMS]
 
 # ------------ 10/10/20 AUTO-FEED (additive; does not alter existing feed) ------------
-# Builds S['feed_101020'] with three buckets from RSS: macro, housing, notables.
+# Builds S['feed_101020'] with three buckets from curated RSS: macro, housing, notables.
 # Each item has: title, url, what, numbers, justified, why, market.
+
+# ADDED: curated sources only for 10/10/20 (leave RSS_SOURCES for legacy FEED)
+RSS_SOURCES_101020 = [
+  "https://www.housingwire.com/feed/",
+  "https://www.redfin.com/news/feed/",
+  "https://therealdeal.com/feed/",
+]
+
+# ADDED: stricter keyword buckets
+KEYWORDS_101020 = {
+  "macro": [
+    "fed","fomc","inflation","cpi","pce","jobs","payroll","unemployment",
+    "treasury","yield","rates","mortgage rate","mortgage rates","bond","curve",
+    "core","headline","powell","economic","gdp"
+  ],
+  "housing": [
+    "housing","permit","permits","starts","completions","home sales","home prices",
+    "mortgage","inventory","listings","new listings","dom","days on market",
+    "pending","closed sales","builder","nahb","zillow","redfin","realtor.com","rent"
+  ],
+}
+DAYS_WINDOW_101020 = 7  # ADDED: freshness window (days)
+
+# keep your original (looser) KEYWORDS for anything else that might use it
 KEYWORDS = {
   "macro":   ["fed", "inflation", "cpi", "pce", "rates", "treasury", "yield", "mortgage rate", "jobs", "payrolls"],
   "housing": ["housing", "permit", "starts", "builder", "home", "mortgage", "realtor", "zillow", "redfin", "rent", "inventory"]
 }
-def _classify_bucket(title_lower: str):
-  for k in KEYWORDS["macro"]:
-    if k in title_lower: return "macro"
-  for k in KEYWORDS["housing"]:
-    if k in title_lower: return "housing"
-  return "notables"
 
-def build_101020_from_rss(max_macro=10, max_housing=10, max_notables=20):
-  bucket = {"macro": [], "housing": [], "notables": []}
+# ADDED helpers for 10/10/20
+def _ts_from_entry(e):
+  for k in ("published_parsed","updated_parsed"):
+    if getattr(e, k, None):
+      return int(time.mktime(getattr(e, k)))
+  return None
+
+def _domain(u):
   try:
-    pool = []
-    for url in RSS_SOURCES:
-      try:
-        feed = feedparser.parse(url)
-        for e in feed.entries[:12]:
-          title = (e.get("title") or "").strip()
-          link  = (e.get("link")  or "").strip()
-          if not title: continue
-          pool.append((title, link))
-      except Exception:
-        continue
-    # de-dup by title (case-insensitive)
-    seen = set()
-    for title, link in pool:
-      key = title.lower()
-      if key in seen: continue
-      seen.add(key)
-      b = _classify_bucket(key)
-      item = {
-        "title": title,
-        "url": link,
-        # 10/10/20 shape expected by the dashboard:
-        "what": title,
-        "numbers": "",
-        "justified": "Source: RSS",
-        "why": "",
-        "market": ""
-      }
-      bucket[b].append(item)
-    bucket["macro"]   = bucket["macro"][:max_macro]
-    bucket["housing"] = bucket["housing"][:max_housing]
-    bucket["notables"]= bucket["notables"][:max_notables]
+    return urlparse(u).netloc.replace("www.","")
   except Exception:
-    # never fail the run
-    pass
-  return bucket
+    return ""
+
+def _match_bucket(title_lower: str, bucket: str):
+  return any(k in title_lower for k in KEYWORDS_101020[bucket])
+
+# REPLACED: stricter builder for feed_101020
+def build_101020_from_rss(max_macro=10, max_housing=10, max_notables=20):
+  now_ts = int(time.time())
+  cutoff = now_ts - DAYS_WINDOW_101020*24*3600
+
+  pool = []
+  out = {"macro": [], "housing": [], "notables": []}
+
+  # fetch
+  for url in RSS_SOURCES_101020:
+    try:
+      feed = feedparser.parse(url)
+      for e in feed.entries[:25]:
+        title = (e.get("title") or "").strip()
+        link  = (e.get("link")  or "").strip()
+        if not title or not link:
+          continue
+        ts = _ts_from_entry(e)
+        if ts is None or ts < cutoff:
+          continue
+        pool.append((ts, title, link))
+    except Exception:
+      continue
+
+  # de-dup by lowercase title, keep newest
+  seen = {}
+  for ts, title, link in pool:
+    k = title.lower()
+    if k not in seen or ts > seen[k][0]:
+      seen[k] = (ts, title, link)
+
+  # newest first
+  items = sorted(seen.values(), key=lambda x: x[0], reverse=True)
+
+  # classify
+  for ts, title, link in items:
+    tl = title.lower()
+    if _match_bucket(tl, "macro"):
+      bucket = "macro"
+    elif _match_bucket(tl, "housing"):
+      bucket = "housing"
+    else:
+      bucket = "notables"
+
+    out[bucket].append({
+      "title": title,
+      "url": link,
+      "what": title,
+      "numbers": "",
+      "justified": f"{_domain(link)} — {link}",
+      "why": "",
+      "market": ""
+    })
+
+  # trim to 10/10/20
+  out["macro"]   = out["macro"][:max_macro]
+  out["housing"] = out["housing"][:max_housing]
+  out["notables"]= out["notables"][:max_notables]
+
+  # clear action log
+  print(f"[feeds] 10/10/20 built from RSS: macro={len(out['macro'])}, housing={len(out['housing'])}, notables={len(out['notables'])}")
+
+  return out
 
 # ------------ build + write ------------
 def build_state():
