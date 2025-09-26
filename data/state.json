@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-09-26 19:24 UTC",
+  "as_of": "2025-09-26 20:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.16,
-      "delta_bp_1d": 4.0000000000000036
+      "yield_pct": 4.18,
+      "delta_bp_1d": 1.9999999999999574
     },
     "mortgage_30y": {
       "rate_pct": 6.3,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Bipartisan RESIDE Act aims to convert vacant spaces into housing",
+      "link": "https://www.housingwire.com/articles/reside-act-vacant-spaces-housing/",
+      "published": "Fri, 26 Sep 2025"
+    },
+    {
+      "title": "Realtor association tools driving member success",
+      "link": "https://www.housingwire.com/articles/realtor-associations-tools-member-success/",
+      "published": "Fri, 26 Sep 2025"
+    },
+    {
+      "title": "NAR pegs former Etihad exec to lead event strategy",
+      "link": "https://www.housingwire.com/articles/nar-appoints-amanda-whitehead-event-strategy/",
+      "published": "Fri, 26 Sep 2025"
+    },
+    {
       "title": "Douglas Elliman investigated over insider trading: Reuters",
       "link": "https://www.housingwire.com/articles/douglas-elliman-insider-trading-investigation-reuters/",
       "published": "Fri, 26 Sep 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Government shutdown looms large for real estate, mortgage",
       "link": "https://www.housingwire.com/articles/government-shutdown-real-estate-mortgage-impact/",
-      "published": "Fri, 26 Sep 2025"
-    },
-    {
-      "title": "What are Tech Trendsetters most excited about right now?",
-      "link": "https://www.housingwire.com/articles/housingwire-2025-tech-trendsetters-ai-mortgage-real-estate-housing/",
-      "published": "Fri, 26 Sep 2025"
-    },
-    {
-      "title": "Gibson, Batton plaintiffs object to final approval of eXp, Weichert settlements",
-      "link": "https://www.housingwire.com/articles/gibson-batton-plaintiffs-object-to-final-approval-of-exp-weichert-settlements/",
-      "published": "Fri, 26 Sep 2025"
-    },
-    {
-      "title": "Workers are more confident about retirement, but there’s a catch",
-      "link": "https://www.housingwire.com/articles/workers-retirement-confidence-knowledge-gap/",
       "published": "Fri, 26 Sep 2025"
     },
     {
@@ -207,7 +207,7 @@
         "url": "https://www.redfin.com/news/housing-market-update-pending-sales-rates-fall/",
         "what": "Pending Home Sales Post First Decline in 3 Months, Even As Mortgage Rates Drop",
         "numbers": "",
-        "justified": "Source: RSS",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-rates-fall/",
         "why": "",
         "market": ""
       },
@@ -216,18 +216,27 @@
         "url": "https://www.redfin.com/news/weekly-economics-update-september-22/",
         "what": "Redfin Economists’ Weekly Take: Fed Speeches May Offer Clues About Future Rate Cuts",
         "numbers": "",
-        "justified": "Source: RSS",
+        "justified": "redfin.com — https://www.redfin.com/news/weekly-economics-update-september-22/",
         "why": "",
         "market": ""
       }
     ],
     "housing": [
       {
+        "title": "Bipartisan RESIDE Act aims to convert vacant spaces into housing",
+        "url": "https://www.housingwire.com/articles/reside-act-vacant-spaces-housing/",
+        "what": "Bipartisan RESIDE Act aims to convert vacant spaces into housing",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reside-act-vacant-spaces-housing/",
+        "why": "",
+        "market": ""
+      },
+      {
         "title": "Government shutdown looms large for real estate, mortgage",
         "url": "https://www.housingwire.com/articles/government-shutdown-real-estate-mortgage-impact/",
         "what": "Government shutdown looms large for real estate, mortgage",
         "numbers": "",
-        "justified": "Source: RSS",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/government-shutdown-real-estate-mortgage-impact/",
         "why": "",
         "market": ""
       },
@@ -236,7 +245,7 @@
         "url": "https://www.housingwire.com/articles/zillow-facing-job-discrimination-suit-from-a-day-one-employee/",
         "what": "Zillow facing job discrimination suit from a ‘day one’ employee",
         "numbers": "",
-        "justified": "Source: RSS",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-facing-job-discrimination-suit-from-a-day-one-employee/",
         "why": "",
         "market": ""
       },
@@ -245,7 +254,7 @@
         "url": "https://www.redfin.com/news/most-expensive-home-sales-august-2025/",
         "what": "August’s Most Expensive Home Sales: Rosie O’Donnell’s Former Miami Mansion, Kauai Compound Once Owned by Julia Roberts",
         "numbers": "",
-        "justified": "Source: RSS",
+        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-august-2025/",
         "why": "",
         "market": ""
       },
@@ -254,7 +263,7 @@
         "url": "https://www.redfin.com/news/survey-homebuyers-renters-family-sacrifices/",
         "what": "High Housing Costs Are Pushing Some Americans to Make Major Family Sacrifices, Like Delaying Having Kids Or Giving Up Pets",
         "numbers": "",
-        "justified": "Source: RSS",
+        "justified": "redfin.com — https://www.redfin.com/news/survey-homebuyers-renters-family-sacrifices/",
         "why": "",
         "market": ""
       },
@@ -263,18 +272,36 @@
         "url": "https://www.redfin.com/news/home-price-index-august-2025/",
         "what": "U.S. Home Prices Ticked Up 0.2% in August",
         "numbers": "",
-        "justified": "Source: RSS",
+        "justified": "redfin.com — https://www.redfin.com/news/home-price-index-august-2025/",
         "why": "",
         "market": ""
       }
     ],
     "notables": [
       {
+        "title": "Realtor association tools driving member success",
+        "url": "https://www.housingwire.com/articles/realtor-associations-tools-member-success/",
+        "what": "Realtor association tools driving member success",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/realtor-associations-tools-member-success/",
+        "why": "",
+        "market": ""
+      },
+      {
+        "title": "NAR pegs former Etihad exec to lead event strategy",
+        "url": "https://www.housingwire.com/articles/nar-appoints-amanda-whitehead-event-strategy/",
+        "what": "NAR pegs former Etihad exec to lead event strategy",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-appoints-amanda-whitehead-event-strategy/",
+        "why": "",
+        "market": ""
+      },
+      {
         "title": "Douglas Elliman investigated over insider trading: Reuters",
         "url": "https://www.housingwire.com/articles/douglas-elliman-insider-trading-investigation-reuters/",
         "what": "Douglas Elliman investigated over insider trading: Reuters",
         "numbers": "",
-        "justified": "Source: RSS",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/douglas-elliman-insider-trading-investigation-reuters/",
         "why": "",
         "market": ""
       },
@@ -283,7 +310,7 @@
         "url": "https://www.housingwire.com/articles/national-flood-insurance-program-government-shutdown/",
         "what": "NFIP set to expire as shutdown, disaster seasons collide",
         "numbers": "",
-        "justified": "Source: RSS",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/national-flood-insurance-program-government-shutdown/",
         "why": "",
         "market": ""
       },
@@ -292,7 +319,7 @@
         "url": "https://www.housingwire.com/articles/housingwire-2025-tech-trendsetters-ai-mortgage-real-estate-housing/",
         "what": "What are Tech Trendsetters most excited about right now?",
         "numbers": "",
-        "justified": "Source: RSS",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housingwire-2025-tech-trendsetters-ai-mortgage-real-estate-housing/",
         "why": "",
         "market": ""
       },
@@ -301,7 +328,7 @@
         "url": "https://www.housingwire.com/articles/gibson-batton-plaintiffs-object-to-final-approval-of-exp-weichert-settlements/",
         "what": "Gibson, Batton plaintiffs object to final approval of eXp, Weichert settlements",
         "numbers": "",
-        "justified": "Source: RSS",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gibson-batton-plaintiffs-object-to-final-approval-of-exp-weichert-settlements/",
         "why": "",
         "market": ""
       },
@@ -310,34 +337,7 @@
         "url": "https://www.housingwire.com/articles/workers-retirement-confidence-knowledge-gap/",
         "what": "Workers are more confident about retirement, but there’s a catch",
         "numbers": "",
-        "justified": "Source: RSS",
-        "why": "",
-        "market": ""
-      },
-      {
-        "title": "SERHANT. gears up for October Rhode Island expansion",
-        "url": "https://www.housingwire.com/articles/serhant-gears-up-for-october-rhode-island-expansion/",
-        "what": "SERHANT. gears up for October Rhode Island expansion",
-        "numbers": "",
-        "justified": "Source: RSS",
-        "why": "",
-        "market": ""
-      },
-      {
-        "title": "How Paris Hilton demonstrated an age-old accounting principle and why this matters for clients",
-        "url": "https://www.housingwire.com/articles/how-paris-hilton-demonstrated-an-age-old-accounting-principle-and-why-this-matters-for-clients/",
-        "what": "How Paris Hilton demonstrated an age-old accounting principle and why this matters for clients",
-        "numbers": "",
-        "justified": "Source: RSS",
-        "why": "",
-        "market": ""
-      },
-      {
-        "title": "Coldwell Banker Realty adds top agent in Boulder, Colorado",
-        "url": "https://www.housingwire.com/articles/coldwell-banker-realty-adds-top-agent-in-boulder-colorado/",
-        "what": "Coldwell Banker Realty adds top agent in Boulder, Colorado",
-        "numbers": "",
-        "justified": "Source: RSS",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/workers-retirement-confidence-knowledge-gap/",
         "why": "",
         "market": ""
       },
@@ -346,7 +346,7 @@
         "url": "https://www.redfin.com/news/buyers-vs-sellers-august-2025/",
         "what": "Summer 2025 Was the Strongest Buyer’s Market in Records Dating Back Over a Decade",
         "numbers": "",
-        "justified": "Source: RSS",
+        "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-august-2025/",
         "why": "",
         "market": ""
       }
