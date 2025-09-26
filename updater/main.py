@@ -286,9 +286,23 @@ def build_state():
 def main():
   os.makedirs('data', exist_ok=True)
   state = build_state()
-  with open(OUT, 'w', encoding='utf-8') as f:
-    json.dump(state, f, ensure_ascii=False, indent=2)
+
+  # NEW: print feed_101020 counts to the GitHub Actions log
+  try:
+    f = state.get("feed_101020", {})
+    print(
+      f"[feeds] 10/10/20 built from RSS: "
+      f"macro={len(f.get('macro', []))}, "
+      f"housing={len(f.get('housing', []))}, "
+      f"notables={len(f.get('notables', []))}"
+    )
+  except Exception as e:
+    print(f"[feeds] error: {e}")
+
+  with open(OUT, 'w', encoding='utf-8') as fobj:
+    json.dump(state, fobj, ensure_ascii=False, indent=2)
   print(f"Wrote {OUT}")
+
 
 if __name__ == '__main__':
   main()
