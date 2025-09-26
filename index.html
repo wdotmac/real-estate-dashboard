@@ -581,6 +581,35 @@
     if(n) n.innerHTML = toHTML(notables);
   }
 
+  /* === ADDED FOR ITEM D: hydrate 10/10/20 from data/state.json if available === */
+  function setTTTimestamp(as_of){
+    if(!as_of) return;
+    try{
+      const d = new Date(as_of.replace(' UTC','Z'));
+      set('ttTime', d.toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'}));
+      set('ttDate', d.toLocaleDateString());
+    }catch(e){}
+  }
+  function renderTenTenTwentyFromState(tt){
+    if(!tt) return;
+    const toHTML = (arr)=> (arr||[]).map(it=>{
+      const title = it.title || it.what || 'Item';
+      const what  = it.what  || it.title || '';
+      const nums  = it.numbers || '';
+      const just  = it.justified || 'Source: data';
+      const why   = it.why || '';
+      const mkt   = it.market || '';
+      return blockHTML(title, what, nums, just, why, mkt);
+    }).join("");
+    const m = document.getElementById('tt-macro');
+    const h = document.getElementById('tt-housing');
+    const n = document.getElementById('tt-notables');
+    if(m) m.innerHTML = toHTML(tt.macro);
+    if(h) h.innerHTML = toHTML(tt.housing);
+    if(n) n.innerHTML = toHTML(tt.notables);
+  }
+  /* === END ITEM D ADD === */
+
   // ---------- init (placeholders first, then try hydrate) ----------
   (async function init(){
     initMacroPlaceholders();
@@ -622,6 +651,13 @@
           set('starts', (lvl/1_000_000).toFixed(2)+'m');
           document.getElementById('startsDelta').innerHTML=`<span class="${cls(mom)}">${fmtPct(mom,1)}</span> m/m`;
         }
+
+        /* === ITEM D: hydrate 10/10/20 if present === */
+        if(STATE.feed_101020){
+          setTTTimestamp(STATE.as_of);
+          renderTenTenTwentyFromState(STATE.feed_101020);
+        }
+        /* === END ITEM D === */
 
         // Re-render FL permits with STATE (keeps 2–4 & 5+ as placeholders until data exists)
         renderFLPermitsKPI();
