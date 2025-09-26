@@ -1,33 +1,140 @@
 {
-  "as_of": "2025-09-25T12:00:00Z",
+  "as_of": "2025-09-26 04:37 UTC",
   "macro": {
-    "ten_year": {"label": "US 10Y", "latest": 4.24, "pretty": "4.24%", "mom": 0.012, "yoy": -0.034, "ytd": -0.018},
-    "two_year": {"label": "US 2Y",  "latest": 4.60, "pretty": "4.60%", "mom": -0.006, "yoy": -0.090, "ytd": -0.055},
-    "cpi": {"label": "CPI YoY", "latest": 0.032, "pretty": "+3.2% YoY", "mom": 0.003, "yoy": -0.006, "ytd": 0.012},
-    "mortgage_30y": {"label": "Mortgage 30Y", "latest": 6.85, "pretty": "6.85%", "mom": -0.004, "yoy": -0.009, "ytd": -0.021}
+    "spx": null,
+    "ten_year": {
+      "yield_pct": 4.16,
+      "delta_bp_1d": 4.0000000000000036
+    },
+    "mortgage_30y": {
+      "rate_pct": 6.3,
+      "delta_bp_wow": 4.0000000000000036
+    },
+    "starts": {
+      "level_saar": 1307.0,
+      "mom": -0.08537438768369487
+    }
   },
   "permits": {
     "florida": {
-      "latest": 13250,
+      "latest": 13594,
       "latest_date": "2025-08",
-      "mom": 0.018,
-      "yoy": 0.045,
-      "ytd": 0.067,
-      "table": [
-        {"date": "2025-08", "value": 13250},
-        {"date": "2025-07", "value": 13014},
-        {"date": "2025-06", "value": 12880}
-      ]
+      "mom": -0.0727781188186345,
+      "yoy": -0.13226094727435211,
+      "ytd": -0.026868417713488135,
+      "ytd_count": 122708,
+      "latest_year": 2025,
+      "latest_month_name": "Aug"
+    },
+    "msa": {
+      "Orlando–Kissimmee–Sanford": {
+        "total": {
+          "latest": 1649,
+          "latest_year": 2025,
+          "latest_month": 8,
+          "latest_month_name": "Aug",
+          "mom": -0.20797310278578285,
+          "yoy": -0.16336884830035514,
+          "ytd_yoy": 0.20390428982314424,
+          "ytd_count": 19673
+        },
+        "one_unit": {
+          "latest": 927,
+          "latest_year": 2025,
+          "latest_month": 8,
+          "latest_month_name": "Aug",
+          "mom": -0.12793979303857006,
+          "yoy": -0.382,
+          "ytd_yoy": 0.008284136354979932,
+          "ytd_count": 10589
+        },
+        "dom": {
+          "days": 77,
+          "yoy": 0.22222222222222232,
+          "as_of": "2025-08"
+        }
+      },
+      "Tampa–St. Petersburg–Clearwater": {
+        "total": {
+          "latest": 2908,
+          "latest_year": 2025,
+          "latest_month": 8,
+          "latest_month_name": "Aug",
+          "mom": 0.6645678305666858,
+          "yoy": 0.465725806451613,
+          "ytd_yoy": -0.06499153020892157,
+          "ytd_count": 16559
+        },
+        "one_unit": {
+          "latest": 1324,
+          "latest_year": 2025,
+          "latest_month": 8,
+          "latest_month_name": "Aug",
+          "mom": 0.16140350877192988,
+          "yoy": 0.2526017029328287,
+          "ytd_yoy": -0.09323079844298865,
+          "ytd_count": 9551
+        },
+        "dom": {
+          "days": 77,
+          "yoy": 0.203125,
+          "as_of": "2025-08"
+        }
+      },
+      "Ocala": {
+        "total": {
+          "latest": 461,
+          "latest_year": 2025,
+          "latest_month": 8,
+          "latest_month_name": "Aug",
+          "mom": 0.0453514739229024,
+          "yoy": 0.0453514739229024,
+          "ytd_yoy": -0.1361718450326045,
+          "ytd_count": 4504
+        },
+        "one_unit": {
+          "latest": 451,
+          "latest_year": 2025,
+          "latest_month": 8,
+          "latest_month_name": "Aug",
+          "mom": 0.09200968523002429,
+          "yoy": 0.0562060889929743,
+          "ytd_yoy": -0.12195652173913041,
+          "ytd_count": 4039
+        },
+        "dom": {
+          "days": 78,
+          "yoy": 0.18181818181818188,
+          "as_of": "2025-08"
+        }
+      },
+      "Palm Bay–Melbourne–Titusville": {
+        "total": {
+          "latest": 391,
+          "latest_year": 2025,
+          "latest_month": 8,
+          "latest_month_name": "Aug",
+          "mom": -0.28519195612431447,
+          "yoy": 0.3076923076923077,
+          "ytd_yoy": 0.03214156735283491,
+          "ytd_count": 2858
+        },
+        "one_unit": {
+          "latest": 239,
+          "latest_year": 2025,
+          "latest_month": 8,
+          "latest_month_name": "Aug",
+          "mom": -0.13090909090909086,
+          "yoy": -0.2006688963210702,
+          "ytd_yoy": -0.10545165141265422,
+          "ytd_count": 2248
+        },
+        "dom": {
+          "days": 75,
+          "yoy": 0.15384615384615374,
+          "as_of": "2025-08"
+        }
+      }
     }
-  },
-  "watchlist": [
-    {"symbol": "DHI", "price": 123.45, "pct_1d": 0.006, "pct_wtd": 0.012, "pct_mtd": -0.008, "pct_ytd": 0.155},
-    {"symbol": "LEN", "price": 150.02, "pct_1d": -0.004, "pct_wtd": 0.002, "pct_mtd": -0.015, "pct_ytd": 0.121},
-    {"symbol": "ITB", "price": 106.77, "pct_1d": 0.001, "pct_wtd": 0.009, "pct_mtd": -0.012, "pct_ytd": 0.085},
-    {"symbol": "XHB", "price": 106.10, "pct_1d": 0.002, "pct_wtd": 0.008, "pct_mtd": -0.010, "pct_ytd": 0.078},
-    {"symbol": "^GSPC", "price": 5510.25, "pct_1d": 0.004, "pct_wtd": 0.007, "pct_mtd": -0.005, "pct_ytd": 0.178}
-  ],
-  "feed": [
-    {"title": "Sample item", "link": "https://example.com", "published": "2025-09-25"}
-  ]
+  }
 }
