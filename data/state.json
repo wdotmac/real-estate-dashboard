@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-09-29 11:26 UTC",
+  "as_of": "2025-09-29 13:00 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Jerry Halbrook named president, COO of Covered Insurance",
+      "link": "https://www.housingwire.com/articles/jerry-halbrook-covered-insurance-president-coo/",
+      "published": "Mon, 29 Sep 2025"
+    },
+    {
       "title": "The new era of real estate marketing: From static photos to immersive experiences",
       "link": "https://www.housingwire.com/articles/the-new-era-of-real-estate-marketing-from-static-photos-to-immersive-experiences/",
       "published": "Mon, 29 Sep 2025"
@@ -165,9 +170,9 @@
       "published": "Sat, 27 Sep 2025"
     },
     {
-      "title": "Tech Pulse: Realtor groups talk tech; lenders stress compliance",
-      "link": "https://www.housingwire.com/articles/tech-pulse-realtor-groups-talk-tech-lenders-stress-compliance/",
-      "published": "Fri, 26 Sep 2025"
+      "title": "Share of Mortgages with Rates Above 6% Climbs to 10-Year High as Americans Adapt to New Normal",
+      "link": "https://www.redfin.com/news/rate-lock-q2-2025/",
+      "published": "Mon, 29 Sep 2025"
     },
     {
       "title": "Government Shutdown Could Impact Mortgage Processing, D.C. Housing Market",
@@ -193,15 +198,19 @@
       "title": "U.S. Home Prices Ticked Up 0.2% in August",
       "link": "https://www.redfin.com/news/home-price-index-august-2025/",
       "published": "Tue, 23 Sep 2025"
-    },
-    {
-      "title": "Redfin Economists’ Weekly Take: Fed Speeches May Offer Clues About Future Rate Cuts",
-      "link": "https://www.redfin.com/news/weekly-economics-update-september-22/",
-      "published": "Mon, 22 Sep 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Share of Mortgages with Rates Above 6% Climbs to 10-Year High as Americans Adapt to New Normal",
+        "url": "https://www.redfin.com/news/rate-lock-q2-2025/",
+        "what": "80.3% of mortgaged U.S",
+        "numbers": "80.3, 6, 92.7, 2022., 52.5, 4",
+        "justified": "redfin.com — https://www.redfin.com/news/rate-lock-q2-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "The battle over rates: Trump vs. Fed Chair Jerome Powell",
         "url": "https://www.housingwire.com/articles/the-battle-over-rates-trump-vs-fed-chair-jerome-powell/",
@@ -226,15 +235,6 @@
         "what": "The weekly average mortgage rate dropped for the ninth straight week, dipping to an 11-month low",
         "numbers": "11, 6.26, 6.8, 3",
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-rates-fall/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Redfin Economists’ Weekly Take: Fed Speeches May Offer Clues About Future Rate Cuts",
-        "url": "https://www.redfin.com/news/weekly-economics-update-september-22/",
-        "what": "Last Week In A Nutshell Mortgage rates inched up as the Fed presented a murky view of rate cuts for the next two meetings, while multiple economic data reports came in stronger than expected",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/weekly-economics-update-september-22/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
@@ -333,6 +333,15 @@
     ],
     "notables": [
       {
+        "title": "Jerry Halbrook named president, COO of Covered Insurance",
+        "url": "https://www.housingwire.com/articles/jerry-halbrook-covered-insurance-president-coo/",
+        "what": "Jerry Halbrook, with 40+ years in fintech, joins Covered Insurance as president and COO, aiming to drive growth and innovation.",
+        "numbers": "40",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/jerry-halbrook-covered-insurance-president-coo/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "NAR appoints former Etihad Airways exec to lead event strategy",
         "url": "https://www.housingwire.com/articles/nar-appoints-amanda-whitehead-event-strategy/",
         "what": "Amanda Whitehead previously led events at Etihad Airways, but now she is tasked with elevating NAR’s events game.",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/nar-appoints-amanda-whitehead-event-strategy/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Douglas Elliman investigated over insider trading: Reuters",
-        "url": "https://www.housingwire.com/articles/douglas-elliman-insider-trading-investigation-reuters/",
-        "what": "Reuters reports that Douglas Elliman is being investigated over its rumored acquisition deal with Anywhere and possible insider trading.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/douglas-elliman-insider-trading-investigation-reuters/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
