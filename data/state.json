@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-09-30 18:39 UTC",
+  "as_of": "2025-09-30 19:25 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Giorgio Bertuol named president of sales at West Capital Lending",
+      "link": "https://www.housingwire.com/articles/giorgio-bertuol-named-president-of-sales-at-west-capital-lending/",
+      "published": "Tue, 30 Sep 2025"
+    },
+    {
+      "title": "Seniors see aging in place as greatest health risk in 2025: survey",
+      "link": "https://www.housingwire.com/articles/seniors-see-aging-in-place-as-greatest-health-risk-in-2025-survey/",
+      "published": "Tue, 30 Sep 2025"
+    },
+    {
+      "title": "FTC lawsuit claims Zillow–Redfin rental tie-up crushes competition",
+      "link": "https://www.housingwire.com/articles/ftc-lawsuit-claims-zillow-redfin-rental-tie-up-crushes-competition/",
+      "published": "Tue, 30 Sep 2025"
+    },
+    {
       "title": "No. 1 eXp mega team Pemberton Homes branches out on its own",
       "link": "https://www.housingwire.com/articles/no-1-exp-mega-team-pemberton-homes-branches-out-on-its-own/",
       "published": "Tue, 30 Sep 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Mortgage rate shift turns fall into a ‘new spring’ for lenders",
       "link": "https://www.housingwire.com/articles/mortgage-rate-shift-turns-fall-into-a-new-spring-for-lenders/",
-      "published": "Tue, 30 Sep 2025"
-    },
-    {
-      "title": "Estimated damages in Batton commission lawsuit come in at over $10 billion",
-      "link": "https://www.housingwire.com/articles/estimated-damages-in-batton-commission-lawsuit-come-in-at-over-10-billion/",
-      "published": "Tue, 30 Sep 2025"
-    },
-    {
-      "title": "Elevate your value with clear communication of real estate professional fees",
-      "link": "https://www.housingwire.com/articles/explaining-real-estate-professional-fees-commissions/",
-      "published": "Tue, 30 Sep 2025"
-    },
-    {
-      "title": "Automate half your real estate business, keep all your humanity",
-      "link": "https://www.housingwire.com/articles/automate-half-your-real-estate-business-keep-all-your-humanity/",
       "published": "Tue, 30 Sep 2025"
     },
     {
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "FTC lawsuit claims Zillow–Redfin rental tie-up crushes competition",
+        "url": "https://www.housingwire.com/articles/ftc-lawsuit-claims-zillow-redfin-rental-tie-up-crushes-competition/",
+        "what": "The FTC is suing Zillow and Redfin over their rental syndication agreement, claiming that the two firms conspired to eliminate competition in the rental listing space.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ftc-lawsuit-claims-zillow-redfin-rental-tie-up-crushes-competition/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "No. 1 eXp mega team Pemberton Homes branches out on its own",
         "url": "https://www.housingwire.com/articles/no-1-exp-mega-team-pemberton-homes-branches-out-on-its-own/",
         "what": "After seven years with eXp, Parker Pemberton is going against current trends and launching PembertonRE, his own independent brokerage.",
@@ -264,15 +273,6 @@
         "what": "Critics argue that stricter requirements for aid and tying benefits to work or self-sufficiency standards could leave many with few options.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/trump-administration-plans-deep-cuts-to-homeless-housing-program/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CoStar doubles down on Zillow in copyright lawsuit",
-        "url": "https://www.housingwire.com/articles/costar-doubles-down-on-zillow-in-copyright-lawsuit/",
-        "what": "In an update, CoStar claims that Zillow has displayed an additional 4,618 copyrighted photos on its site since the suit was filed.",
-        "numbers": "4,618",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-doubles-down-on-zillow-in-copyright-lawsuit/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
@@ -296,6 +296,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "Giorgio Bertuol named president of sales at West Capital Lending",
+        "url": "https://www.housingwire.com/articles/giorgio-bertuol-named-president-of-sales-at-west-capital-lending/",
+        "what": "Bertoul joins West Capital Lending from loanDepot, where he served as the executive vice president of sales.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/giorgio-bertuol-named-president-of-sales-at-west-capital-lending/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Seniors see aging in place as greatest health risk in 2025: survey",
+        "url": "https://www.housingwire.com/articles/seniors-see-aging-in-place-as-greatest-health-risk-in-2025-survey/",
+        "what": "U.S",
+        "numbers": "2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/seniors-see-aging-in-place-as-greatest-health-risk-in-2025-survey/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Estimated damages in Batton commission lawsuit come in at over $10 billion",
         "url": "https://www.housingwire.com/articles/estimated-damages-in-batton-commission-lawsuit-come-in-at-over-10-billion/",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/home-price-growth-drops-to-lowest-level-in-two-years/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Rocket Pro unveils broker-focused initiatives at RPX in Detroit",
-        "url": "https://www.housingwire.com/articles/rocket-pro-unvelis-new-technology-products/",
-        "what": "Rocket Pro on Tuesday unveiled a slate of broker-focused initiatives affirming its commitment to the broker channel.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-pro-unvelis-new-technology-products/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Corcoran Group adds first Rhode Island affiliate",
-        "url": "https://www.housingwire.com/articles/corcoran-group-adds-first-rhode-island-affiliate/",
-        "what": "Rhode Island’s coastal markets recorded more than $2.1 billion in combined sales volume last year, according to local MLS data.",
-        "numbers": "$2.1 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/corcoran-group-adds-first-rhode-island-affiliate/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
