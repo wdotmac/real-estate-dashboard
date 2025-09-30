@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-09-30 19:25 UTC",
+  "as_of": "2025-09-30 20:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.2,
-      "delta_bp_1d": 2.000000000000046
+      "yield_pct": 4.15,
+      "delta_bp_1d": -4.999999999999982
     },
     "mortgage_30y": {
       "rate_pct": 6.3,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "CFPB ends multiple lender consent orders, opens few new cases",
+      "link": "https://www.housingwire.com/articles/cfpb-ends-multiple-lender-consent-orders-opens-few-new-cases/",
+      "published": "Tue, 30 Sep 2025"
+    },
+    {
+      "title": "Houston MLS enters data share agreement with DFW counterpart",
+      "link": "https://www.housingwire.com/articles/houston-mls-enters-data-share-agreement-with-dfw-counterpart/",
+      "published": "Tue, 30 Sep 2025"
+    },
+    {
       "title": "Giorgio Bertuol named president of sales at West Capital Lending",
       "link": "https://www.housingwire.com/articles/giorgio-bertuol-named-president-of-sales-at-west-capital-lending/",
       "published": "Tue, 30 Sep 2025"
@@ -157,16 +167,6 @@
     {
       "title": "No. 1 eXp mega team Pemberton Homes branches out on its own",
       "link": "https://www.housingwire.com/articles/no-1-exp-mega-team-pemberton-homes-branches-out-on-its-own/",
-      "published": "Tue, 30 Sep 2025"
-    },
-    {
-      "title": "Trump administration plans deep cuts to homeless housing program",
-      "link": "https://www.housingwire.com/articles/trump-administration-plans-deep-cuts-to-homeless-housing-program/",
-      "published": "Tue, 30 Sep 2025"
-    },
-    {
-      "title": "Mortgage rate shift turns fall into a ‘new spring’ for lenders",
-      "link": "https://www.housingwire.com/articles/mortgage-rate-shift-turns-fall-into-a-new-spring-for-lenders/",
       "published": "Tue, 30 Sep 2025"
     },
     {
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Houston MLS enters data share agreement with DFW counterpart",
+        "url": "https://www.housingwire.com/articles/houston-mls-enters-data-share-agreement-with-dfw-counterpart/",
+        "what": "After this data share with NTREIS, HAR MLS subscribers now have access to listings in Houston, DFW, Austin and San Antonio.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/houston-mls-enters-data-share-agreement-with-dfw-counterpart/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "FTC lawsuit claims Zillow–Redfin rental tie-up crushes competition",
         "url": "https://www.housingwire.com/articles/ftc-lawsuit-claims-zillow-redfin-rental-tie-up-crushes-competition/",
         "what": "The FTC is suing Zillow and Redfin over their rental syndication agreement, claiming that the two firms conspired to eliminate competition in the rental listing space.",
@@ -297,6 +306,15 @@
     ],
     "notables": [
       {
+        "title": "CFPB ends multiple lender consent orders, opens few new cases",
+        "url": "https://www.housingwire.com/articles/cfpb-ends-multiple-lender-consent-orders-opens-few-new-cases/",
+        "what": "Under the Trump administration, the Consumer Financial Protection Bureau (CFPB) has been winding down enforcement actions against lenders and servicers while opening only two new c",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-ends-multiple-lender-consent-orders-opens-few-new-cases/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Giorgio Bertuol named president of sales at West Capital Lending",
         "url": "https://www.housingwire.com/articles/giorgio-bertuol-named-president-of-sales-at-west-capital-lending/",
         "what": "Bertoul joins West Capital Lending from loanDepot, where he served as the executive vice president of sales.",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/explaining-real-estate-professional-fees-commissions/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Automate half your real estate business, keep all your humanity",
-        "url": "https://www.housingwire.com/articles/automate-half-your-real-estate-business-keep-all-your-humanity/",
-        "what": "Learn how AI for real estate agents can boost productivity and personalization without losing your human touch.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/automate-half-your-real-estate-business-keep-all-your-humanity/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Home price growth drops to lowest level in two years",
-        "url": "https://www.housingwire.com/articles/home-price-growth-drops-to-lowest-level-in-two-years/",
-        "what": "The S&P Cotality Case-Shiller Index recorded 1.7% annual price appreciation in July, the slowest pace of home price growth since July 2023.",
-        "numbers": "1.7, 2023.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/home-price-growth-drops-to-lowest-level-in-two-years/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ]
   }
