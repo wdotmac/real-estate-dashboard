@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-09-30 16:37 UTC",
+  "as_of": "2025-09-30 17:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Trump administration plans deep cuts to homeless housing program",
+      "link": "https://www.housingwire.com/articles/trump-administration-plans-deep-cuts-to-homeless-housing-program/",
+      "published": "Tue, 30 Sep 2025"
+    },
+    {
+      "title": "Mortgage rate shift turns fall into a ‘new spring’ for lenders",
+      "link": "https://www.housingwire.com/articles/mortgage-rate-shift-turns-fall-into-a-new-spring-for-lenders/",
+      "published": "Tue, 30 Sep 2025"
+    },
+    {
       "title": "Estimated damages in Batton commission lawsuit come in at over $10 billion",
       "link": "https://www.housingwire.com/articles/estimated-damages-in-batton-commission-lawsuit-come-in-at-over-10-billion/",
       "published": "Tue, 30 Sep 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Home price growth drops to lowest level in two years",
       "link": "https://www.housingwire.com/articles/home-price-growth-drops-to-lowest-level-in-two-years/",
-      "published": "Tue, 30 Sep 2025"
-    },
-    {
-      "title": "Rocket Pro unveils broker-focused initiatives at RPX in Detroit",
-      "link": "https://www.housingwire.com/articles/rocket-pro-unvelis-new-technology-products/",
-      "published": "Tue, 30 Sep 2025"
-    },
-    {
-      "title": "CoStar doubles down on Zillow in copyright lawsuit",
-      "link": "https://www.housingwire.com/articles/costar-doubles-down-on-zillow-in-copyright-lawsuit/",
       "published": "Tue, 30 Sep 2025"
     },
     {
@@ -203,11 +203,11 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "How homeowners benefit from massive equity and lower fixed rates",
-        "url": "https://www.housingwire.com/articles/home-equity-fixed-rates-2025-housing/",
-        "what": "In 2025, strong home equity and fixed mortgage rates are key factors differentiating today's housing market from the 2008 crash.",
-        "numbers": "2025,, 2008",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/home-equity-fixed-rates-2025-housing/",
+        "title": "Mortgage rate shift turns fall into a ‘new spring’ for lenders",
+        "url": "https://www.housingwire.com/articles/mortgage-rate-shift-turns-fall-into-a-new-spring-for-lenders/",
+        "what": "On Tuesday, HousingWire’s Mortgage Rates Center showed that 30-year conforming loan locks averaged 6.34%",
+        "numbers": "30, 6.34, 11",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rate-shift-turns-fall-into-a-new-spring-for-lenders/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -249,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Trump administration plans deep cuts to homeless housing program",
+        "url": "https://www.housingwire.com/articles/trump-administration-plans-deep-cuts-to-homeless-housing-program/",
+        "what": "Critics argue that stricter requirements for aid and tying benefits to work or self-sufficiency standards could leave many with few options.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-administration-plans-deep-cuts-to-homeless-housing-program/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "CoStar doubles down on Zillow in copyright lawsuit",
         "url": "https://www.housingwire.com/articles/costar-doubles-down-on-zillow-in-copyright-lawsuit/",
@@ -338,15 +347,6 @@
         "what": "Explore the 2025 RealTrends GameChangers: 24 brokerages that grew transaction side percentage by 75% and more in 5 years.",
         "numbers": "2025, 24, 75, 5",
         "justified": "housingwire.com — https://www.housingwire.com/articles/realtrends-gamechangers-2025-fastest-growing-brokerages/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Three ways to instill confidence in your borrowers",
-        "url": "https://www.housingwire.com/articles/three-ways-to-instill-confidence-in-your-borrowers/",
-        "what": "So, how do today’s lenders really instill confidence in their borrowers when the potential for snags is lurking around every corner",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/three-ways-to-instill-confidence-in-your-borrowers/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
