@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-09-30 11:27 UTC",
+  "as_of": "2025-09-30 13:00 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Corcoran Group adds first Rhode Island affiliate",
+      "link": "https://www.housingwire.com/articles/corcoran-group-adds-first-rhode-island-affiliate/",
+      "published": "Tue, 30 Sep 2025"
+    },
+    {
       "title": "2025 RealTrends Verified GameChangers: firms reshaping the future of brokerage",
       "link": "https://www.housingwire.com/articles/realtrends-gamechangers-2025-fastest-growing-brokerages/",
       "published": "Tue, 30 Sep 2025"
@@ -165,9 +170,9 @@
       "published": "Mon, 29 Sep 2025"
     },
     {
-      "title": "MLS PIN, Nosalek settlement finally gains final approval",
-      "link": "https://www.housingwire.com/articles/mls-pin-nosalek-settlement-finally-gains-final-approval/",
-      "published": "Mon, 29 Sep 2025"
+      "title": "Starter-Home Sales Up 4% as Demand for Higher-Priced Options Stumbles",
+      "link": "https://www.redfin.com/news/starter-home-report-august-2025/",
+      "published": "Tue, 30 Sep 2025"
     },
     {
       "title": "Redfin Economists’ Weekly Take: Potential Government Shutdown Looms Ahead of Key Jobs Report",
@@ -193,11 +198,6 @@
       "title": "August’s Most Expensive Home Sales: Rosie O’Donnell’s Former Miami Mansion, Kauai Compound Once Owned by Julia Roberts",
       "link": "https://www.redfin.com/news/most-expensive-home-sales-august-2025/",
       "published": "Wed, 24 Sep 2025"
-    },
-    {
-      "title": "High Housing Costs Are Pushing Some Americans to Make Major Family Sacrifices, Like Delaying Having Kids Or Giving Up Pets",
-      "link": "https://www.redfin.com/news/survey-homebuyers-renters-family-sacrifices/",
-      "published": "Tue, 23 Sep 2025"
     }
   ],
   "feed_101020": {
@@ -239,15 +239,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Government shutdown could disrupt key services for older Americans",
-        "url": "https://www.housingwire.com/articles/government-shutdown-could-disrupt-key-services-for-older-americans/",
-        "what": "Lawmakers in Congress are edging the federal government closer to a shutdown, with a Tuesday midnight looming to pass a temporary funding bill",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/government-shutdown-could-disrupt-key-services-for-older-americans/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Share of Mortgages with Rates Above 6% Climbs to 10-Year High as Americans Adapt to New Normal",
         "url": "https://www.redfin.com/news/rate-lock-q2-2025/",
         "what": "80.3% of mortgaged U.S",
@@ -277,6 +268,15 @@
     ],
     "housing": [
       {
+        "title": "Starter-Home Sales Up 4% as Demand for Higher-Priced Options Stumbles",
+        "url": "https://www.redfin.com/news/starter-home-report-august-2025/",
+        "what": "The median sale price of starter homes hit a record $260,508 in August, up 2.2% from a year earlier",
+        "numbers": "$260,508, 2.2, 3.8, 12, 0.6, 1.2",
+        "justified": "redfin.com — https://www.redfin.com/news/starter-home-report-august-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Cummins Advisors makes the move to Baird & Warner",
         "url": "https://www.housingwire.com/articles/cummins-advisors-makes-the-move-to-baird-warner/",
         "what": "Team leader Peter Cummins cited differences in ideology surrounding private listings as what prompted him to leave @properties",
@@ -302,18 +302,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-august-2025/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "High Housing Costs Are Pushing Some Americans to Make Major Family Sacrifices, Like Delaying Having Kids Or Giving Up Pets",
-        "url": "https://www.redfin.com/news/survey-homebuyers-renters-family-sacrifices/",
-        "what": "With nearly half of homeowners and renters struggling to afford housing, we’re taking a look at the family-related changes and sacrifices they’re making",
-        "numbers": "44.4",
-        "justified": "redfin.com — https://www.redfin.com/news/survey-homebuyers-renters-family-sacrifices/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       }
     ],
     "notables": [
+      {
+        "title": "Corcoran Group adds first Rhode Island affiliate",
+        "url": "https://www.housingwire.com/articles/corcoran-group-adds-first-rhode-island-affiliate/",
+        "what": "Rhode Island’s coastal markets recorded more than $2.1 billion in combined sales volume last year, according to local MLS data.",
+        "numbers": "$2.1 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/corcoran-group-adds-first-rhode-island-affiliate/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "2025 RealTrends Verified GameChangers: firms reshaping the future of brokerage",
         "url": "https://www.housingwire.com/articles/realtrends-gamechangers-2025-fastest-growing-brokerages/",
