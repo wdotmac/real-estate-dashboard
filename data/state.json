@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-01 14:35 UTC",
+  "as_of": "2025-10-01 15:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -150,6 +150,11 @@
       "published": "Wed, 01 Oct 2025"
     },
     {
+      "title": "Mortgage applications take a dive as rates tick back up",
+      "link": "https://www.housingwire.com/articles/mortgage-applications-take-a-dive-as-rates-tick-back-up/",
+      "published": "Wed, 01 Oct 2025"
+    },
+    {
       "title": "Broker Public Portal’s consumer-facing site becomes Cribio",
       "link": "https://www.housingwire.com/articles/broker-public-portal-becomes-cribio-chooses-the-consumers-side/",
       "published": "Tue, 30 Sep 2025"
@@ -162,11 +167,6 @@
     {
       "title": "FinCEN delays implementation of anti-money laundering rule",
       "link": "https://www.housingwire.com/articles/fincen-delays-implementation-of-anti-money-laundering-rule/",
-      "published": "Tue, 30 Sep 2025"
-    },
-    {
-      "title": "CFPB ends multiple lender consent orders, opens few new cases",
-      "link": "https://www.housingwire.com/articles/cfpb-ends-multiple-lender-consent-orders-opens-few-new-cases/",
       "published": "Tue, 30 Sep 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage applications take a dive as rates tick back up",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-take-a-dive-as-rates-tick-back-up/",
+        "what": "Despite rebounding last week, refinance applications decreased 21% and the refinance share of activity shrank to 55.0% of total applications.",
+        "numbers": "21, 55.0",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-take-a-dive-as-rates-tick-back-up/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Record senior home equity is fueling demand for new solutions for older American homeowners",
         "url": "https://www.housingwire.com/articles/record-senior-home-equity-is-fueling-demand-for-new-solutions-for-older-american-homeowners/",
@@ -273,15 +282,6 @@
         "what": "After this data share with NTREIS, HAR MLS subscribers now have access to listings in Houston, DFW, Austin and San Antonio.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/houston-mls-enters-data-share-agreement-with-dfw-counterpart/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "FTC lawsuit claims Zillow–Redfin rental tie-up crushes competition",
-        "url": "https://www.housingwire.com/articles/ftc-lawsuit-claims-zillow-redfin-rental-tie-up-crushes-competition/",
-        "what": "The FTC is suing Zillow and Redfin over their rental syndication agreement, claiming that the two firms conspired to eliminate competition in the rental listing space.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ftc-lawsuit-claims-zillow-redfin-rental-tie-up-crushes-competition/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
