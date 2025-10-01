@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-01 15:30 UTC",
+  "as_of": "2025-10-01 16:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "MBA COO Marcia Davies will retire at the end of the year",
+      "link": "https://www.housingwire.com/articles/mba-coo-marcia-davies-will-retire-at-the-end-of-the-year/",
+      "published": "Wed, 01 Oct 2025"
+    },
+    {
+      "title": "UWM cuts costs for refinance borrowers with update to title fees",
+      "link": "https://www.housingwire.com/articles/uwm-cuts-costs-for-refinance-borrowers-with-update-to-title-fees/",
+      "published": "Wed, 01 Oct 2025"
+    },
+    {
+      "title": "‘Especially vulnerable’: Housing industry warns of shutdown effects",
+      "link": "https://www.housingwire.com/articles/especially-vulnerable-housing-industry-warns-of-shutdown-effects/",
+      "published": "Wed, 01 Oct 2025"
+    },
+    {
+      "title": "Supreme Court delays ruling on Lisa Cook’s future at the Fed",
+      "link": "https://www.housingwire.com/articles/supreme-court-delays-ruling-on-lisa-cooks-future-at-the-fed/",
+      "published": "Wed, 01 Oct 2025"
+    },
+    {
       "title": "Jay Bray now CEO of Rocket Mortgage as Rocket closes $14.2B Mr. Cooper acquisition",
       "link": "https://www.housingwire.com/articles/jay-bray-ceo-rocket-mortgage-closes-14-2b-mr-cooper-acquisition/",
       "published": "Wed, 01 Oct 2025"
@@ -148,26 +168,6 @@
       "title": "Corcoran launches New Mexico affiliate in Santa Fe",
       "link": "https://www.housingwire.com/articles/corcoran-launches-new-mexico-affiliate-in-santa-fe/",
       "published": "Wed, 01 Oct 2025"
-    },
-    {
-      "title": "Mortgage applications take a dive as rates tick back up",
-      "link": "https://www.housingwire.com/articles/mortgage-applications-take-a-dive-as-rates-tick-back-up/",
-      "published": "Wed, 01 Oct 2025"
-    },
-    {
-      "title": "Broker Public Portal’s consumer-facing site becomes Cribio",
-      "link": "https://www.housingwire.com/articles/broker-public-portal-becomes-cribio-chooses-the-consumers-side/",
-      "published": "Tue, 30 Sep 2025"
-    },
-    {
-      "title": "Record senior home equity is fueling demand for new solutions for older American homeowners",
-      "link": "https://www.housingwire.com/articles/record-senior-home-equity-is-fueling-demand-for-new-solutions-for-older-american-homeowners/",
-      "published": "Tue, 30 Sep 2025"
-    },
-    {
-      "title": "FinCEN delays implementation of anti-money laundering rule",
-      "link": "https://www.housingwire.com/articles/fincen-delays-implementation-of-anti-money-laundering-rule/",
-      "published": "Tue, 30 Sep 2025"
     },
     {
       "title": "Typical U.S. Luxury Home Price Rises 4% to $1.25M as Sales Fall to Lowest August Level in Over a Decade",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Supreme Court delays ruling on Lisa Cook’s future at the Fed",
+        "url": "https://www.housingwire.com/articles/supreme-court-delays-ruling-on-lisa-cooks-future-at-the-fed/",
+        "what": "Lisa Cook will remain a Federal Reserve Governor at least until January, when the Supreme Court is scheduled to hear arguments on whether President Donald Trump has legal grounds t",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/supreme-court-delays-ruling-on-lisa-cooks-future-at-the-fed/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage applications take a dive as rates tick back up",
         "url": "https://www.housingwire.com/articles/mortgage-applications-take-a-dive-as-rates-tick-back-up/",
@@ -259,6 +268,33 @@
     ],
     "housing": [
       {
+        "title": "MBA COO Marcia Davies will retire at the end of the year",
+        "url": "https://www.housingwire.com/articles/mba-coo-marcia-davies-will-retire-at-the-end-of-the-year/",
+        "what": "Davies served as MBA's chief operating officer and founded mPower to promote the advancement of women in the mortgage industry.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-coo-marcia-davies-will-retire-at-the-end-of-the-year/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "UWM cuts costs for refinance borrowers with update to title fees",
+        "url": "https://www.housingwire.com/articles/uwm-cuts-costs-for-refinance-borrowers-with-update-to-title-fees/",
+        "what": "United Wholesale Mortgage (UWM) is cutting costs for refinance borrowers with updates to its title review and closing alternative, TRAC+.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-cuts-costs-for-refinance-borrowers-with-update-to-title-fees/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "‘Especially vulnerable’: Housing industry warns of shutdown effects",
+        "url": "https://www.housingwire.com/articles/especially-vulnerable-housing-industry-warns-of-shutdown-effects/",
+        "what": "The government shutdown could derail an estimated 1,400 home sales every day",
+        "numbers": "1,400",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/especially-vulnerable-housing-industry-warns-of-shutdown-effects/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Jay Bray now CEO of Rocket Mortgage as Rocket closes $14.2B Mr. Cooper acquisition",
         "url": "https://www.housingwire.com/articles/jay-bray-ceo-rocket-mortgage-closes-14-2b-mr-cooper-acquisition/",
         "what": "As part of the deal, Mr",
@@ -275,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/luxury-homes-market-august-2025/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Houston MLS enters data share agreement with DFW counterpart",
-        "url": "https://www.housingwire.com/articles/houston-mls-enters-data-share-agreement-with-dfw-counterpart/",
-        "what": "After this data share with NTREIS, HAR MLS subscribers now have access to listings in Houston, DFW, Austin and San Antonio.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/houston-mls-enters-data-share-agreement-with-dfw-counterpart/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Starter-Home Sales Up 4% as Demand for Higher-Priced Options Stumbles",
@@ -320,33 +347,6 @@
         "what": "The rule is now slated to go into effect four months later in March 2026, which FinCEN said will give title firms more time to comply.",
         "numbers": "2026,",
         "justified": "housingwire.com — https://www.housingwire.com/articles/fincen-delays-implementation-of-anti-money-laundering-rule/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CFPB ends multiple lender consent orders, opens few new cases",
-        "url": "https://www.housingwire.com/articles/cfpb-ends-multiple-lender-consent-orders-opens-few-new-cases/",
-        "what": "Under the Trump administration, the Consumer Financial Protection Bureau (CFPB) has been winding down enforcement actions against lenders and servicers while opening only two new c",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-ends-multiple-lender-consent-orders-opens-few-new-cases/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Giorgio Bertuol named president of sales at West Capital Lending",
-        "url": "https://www.housingwire.com/articles/giorgio-bertuol-named-president-of-sales-at-west-capital-lending/",
-        "what": "Bertoul joins West Capital Lending from loanDepot, where he served as the executive vice president of sales.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/giorgio-bertuol-named-president-of-sales-at-west-capital-lending/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Seniors see aging in place as greatest health risk in 2025: survey",
-        "url": "https://www.housingwire.com/articles/seniors-see-aging-in-place-as-greatest-health-risk-in-2025-survey/",
-        "what": "U.S",
-        "numbers": "2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/seniors-see-aging-in-place-as-greatest-health-risk-in-2025-survey/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
