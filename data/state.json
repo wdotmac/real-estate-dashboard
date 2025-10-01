@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-01 22:31 UTC",
+  "as_of": "2025-10-01 23:26 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "FICO bypasses credit bureaus with new program for mortgage lenders",
+      "link": "https://www.housingwire.com/articles/fico-bypasses-credit-bureaus-with-new-program-for-mortgage-lenders/",
+      "published": "Wed, 01 Oct 2025"
+    },
+    {
       "title": "Fannie and Freddie waive some loan requirements amid shutdown",
       "link": "https://www.housingwire.com/articles/fannie-and-freddie-waive-some-loan-requirements-amid-shutdown/",
       "published": "Wed, 01 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Radius launches AI assistant to streamline brokerage operations",
       "link": "https://www.housingwire.com/articles/radius-launches-ai-assistant-to-streamline-brokerage-operations/",
-      "published": "Wed, 01 Oct 2025"
-    },
-    {
-      "title": "Kimber White named NAMB board president",
-      "link": "https://www.housingwire.com/articles/kimber-white-named-namb-board-president/",
       "published": "Wed, 01 Oct 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "FICO bypasses credit bureaus with new program for mortgage lenders",
+        "url": "https://www.housingwire.com/articles/fico-bypasses-credit-bureaus-with-new-program-for-mortgage-lenders/",
+        "what": "Fair Isaac Corp",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fico-bypasses-credit-bureaus-with-new-program-for-mortgage-lenders/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Redfin Economists’ Weekly Take: Potential Government Shutdown Looms Ahead of Key Jobs Report",
         "url": "https://www.redfin.com/news/weekly-economics-update-september-29/",
@@ -266,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/atlas-vms-quantumreverse-enter-tech-integration-partnership/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "5 states sue Zillow, Redfin over $100M rental agreement one day after FTC suit",
-        "url": "https://www.housingwire.com/articles/5-states-sue-zillow-redfin-over-100m-rental-agreement-ftc-suit/",
-        "what": "Attorneys general in Virginia, Arizona, New York, Connecticut and Washington have filed their own version of the FTC's lawsuit.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/5-states-sue-zillow-redfin-over-100m-rental-agreement-ftc-suit/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "Typical U.S. Luxury Home Price Rises 4% to $1.25M as Sales Fall to Lowest August Level in Over a Decade",
