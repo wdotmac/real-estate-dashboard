@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-10-02 19:22 UTC",
+  "as_of": "2025-10-02 20:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.16,
-      "delta_bp_1d": 0.9999999999999787
+      "yield_pct": 4.12,
+      "delta_bp_1d": -4.0000000000000036
     },
     "mortgage_30y": {
       "rate_pct": 6.34,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "HomeSmart names Stacey Onnen president",
+      "link": "https://www.housingwire.com/articles/homesmart-names-stacey-onnen-president/",
+      "published": "Thu, 02 Oct 2025"
+    },
+    {
       "title": "Government shutdown halts new reverse mortgage endorsements",
       "link": "https://www.housingwire.com/articles/government-shutdown-halts-new-reverse-mortgage-endorsements/",
       "published": "Thu, 02 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "HUD’s Scott Turner defends website text amid Hatch Act complaint",
       "link": "https://www.housingwire.com/articles/huds-scott-turner-defends-website-text-amid-hatch-act-complaint/",
-      "published": "Thu, 02 Oct 2025"
-    },
-    {
-      "title": "International markets embrace the U.S. MLS model",
-      "link": "https://www.housingwire.com/articles/international-markets-embrace-the-u-s-mls-model/",
       "published": "Thu, 02 Oct 2025"
     },
     {
@@ -297,6 +297,15 @@
     ],
     "notables": [
       {
+        "title": "HomeSmart names Stacey Onnen president",
+        "url": "https://www.housingwire.com/articles/homesmart-names-stacey-onnen-president/",
+        "what": "Onnen has more than 20 years of experience in real estate",
+        "numbers": "20",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homesmart-names-stacey-onnen-president/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "The Steven Cohen Team returns to Corcoran Group",
         "url": "https://www.housingwire.com/articles/the-steven-cohen-team-returns-to-corcoran-group/",
         "what": "After five years at Douglas Elliman, Cohen and his top-performing New York City-based team are returning to their roots at Corcoran Group",
@@ -338,15 +347,6 @@
         "what": "Annaly Capital and Pennymac Financial Services, Inc",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/pennymac-annaly-capital-enter-subservicing-partnership/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Big brokerage mergers will lead to increased business for high-end boutique firms",
-        "url": "https://www.housingwire.com/articles/big-brokerage-mergers-will-lead-to-increased-business-for-high-end-boutique-firms/",
-        "what": "While big brokerage mergers may benefit middle-market buyers and sellers, it raises a critical concern for high-net-worth real estate clients.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/big-brokerage-mergers-will-lead-to-increased-business-for-high-end-boutique-firms/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
