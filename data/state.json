@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-02 11:25 UTC",
+  "as_of": "2025-10-02 12:55 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,16 @@
       "published": "Wed, 01 Oct 2025"
     },
     {
+      "title": "Home Sellers Are Cutting Prices at a Record Rate to Lure Skittish Buyers",
+      "link": "https://www.redfin.com/news/price-drops-record-rate-august-2025/",
+      "published": "Thu, 02 Oct 2025"
+    },
+    {
+      "title": "Pending Home Sales Slide, But There Are Bright Spots: Buyers Have Bargaining Power, Starter-Home Sales Improving",
+      "link": "https://www.redfin.com/news/housing-market-update-prospective-homebuyers-back-away/",
+      "published": "Thu, 02 Oct 2025"
+    },
+    {
       "title": "Typical U.S. Luxury Home Price Rises 4% to $1.25M as Sales Fall to Lowest August Level in Over a Decade",
       "link": "https://www.redfin.com/news/luxury-homes-market-august-2025/",
       "published": "Wed, 01 Oct 2025"
@@ -188,20 +198,19 @@
       "title": "Share of Mortgages with Rates Above 6% Climbs to 10-Year High as Americans Adapt to New Normal",
       "link": "https://www.redfin.com/news/rate-lock-q2-2025/",
       "published": "Mon, 29 Sep 2025"
-    },
-    {
-      "title": "Government Shutdown Could Impact Mortgage Processing, D.C. Housing Market",
-      "link": "https://www.redfin.com/news/government-shutdown-mortgage-processing-housing-market/",
-      "published": "Fri, 26 Sep 2025"
-    },
-    {
-      "title": "Pending Home Sales Post First Decline in 3 Months, Even As Mortgage Rates Drop",
-      "link": "https://www.redfin.com/news/housing-market-update-pending-sales-rates-fall/",
-      "published": "Thu, 25 Sep 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Pending Home Sales Slide, But There Are Bright Spots: Buyers Have Bargaining Power, Starter-Home Sales Improving",
+        "url": "https://www.redfin.com/news/housing-market-update-prospective-homebuyers-back-away/",
+        "what": "Pending U.S",
+        "numbers": "1",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-prospective-homebuyers-back-away/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "FICO bypasses credit bureaus with new program for mortgage lenders",
         "url": "https://www.housingwire.com/articles/fico-bypasses-credit-bureaus-with-new-program-for-mortgage-lenders/",
@@ -228,27 +237,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/rate-lock-q2-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Government Shutdown Could Impact Mortgage Processing, D.C. Housing Market",
-        "url": "https://www.redfin.com/news/government-shutdown-mortgage-processing-housing-market/",
-        "what": "A federal government shutdown next Wednesday seems increasingly likely",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/government-shutdown-mortgage-processing-housing-market/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Pending Home Sales Post First Decline in 3 Months, Even As Mortgage Rates Drop",
-        "url": "https://www.redfin.com/news/housing-market-update-pending-sales-rates-fall/",
-        "what": "The weekly average mortgage rate dropped for the ninth straight week, dipping to an 11-month low",
-        "numbers": "11, 6.26, 6.8, 3",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-rates-fall/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Home Sellers Are Cutting Prices at a Record Rate to Lure Skittish Buyers",
+        "url": "https://www.redfin.com/news/price-drops-record-rate-august-2025/",
+        "what": "The typical home that sold in August went for nearly 4% under its asking price–the steepest discount for that month since 2019",
+        "numbers": "4, 2019., 16.7, 15.9, 2012.",
+        "justified": "redfin.com — https://www.redfin.com/news/price-drops-record-rate-august-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Fannie and Freddie waive some loan requirements amid shutdown",
         "url": "https://www.housingwire.com/articles/fannie-and-freddie-waive-some-loan-requirements-amid-shutdown/",
