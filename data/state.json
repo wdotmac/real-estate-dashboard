@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-03 20:31 UTC",
+  "as_of": "2025-10-03 21:26 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Georgia metros show sharp divide in days on market",
+      "link": "https://www.housingwire.com/articles/georgia-housing-market-contrasts/",
+      "published": "Fri, 03 Oct 2025"
+    },
+    {
       "title": "Inventory-heavy states show wide gaps in sales speed",
       "link": "https://www.housingwire.com/articles/housing-market-inventory-sales-speed/",
       "published": "Fri, 03 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Top-producing Colorado teams combine forces",
       "link": "https://www.housingwire.com/articles/top-producing-colorado-teams-combine-forces/",
-      "published": "Fri, 03 Oct 2025"
-    },
-    {
-      "title": "What we know about the labor market, even without Jobs Friday data",
-      "link": "https://www.housingwire.com/articles/what-we-know-about-the-labor-market-even-without-jobs-friday-data/",
       "published": "Fri, 03 Oct 2025"
     },
     {
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Georgia metros show sharp divide in days on market",
+        "url": "https://www.housingwire.com/articles/georgia-housing-market-contrasts/",
+        "what": "Georgia's housing market metros like Hinesville selling fast, while Brunswick lags",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/georgia-housing-market-contrasts/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Inventory-heavy states show wide gaps in sales speed",
         "url": "https://www.housingwire.com/articles/housing-market-inventory-sales-speed/",
         "what": "Among states with the most listings, California sells in 63 days while Florida and Texas take longer, HW Data shows.",
@@ -284,15 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-believes-compass-acquisitions-could-impact-lawsuit/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "NEXA Mortgage rebrands to NEXA Lending, but it’s not a pivot to retail",
-        "url": "https://www.housingwire.com/articles/nexa-mortgage-rebrands-to-nexa-lending-but-its-not-a-pivot-to-retail/",
-        "what": "Kortas hopes to lure large retail producers to the wholesale side by emphasizing their biggest advantage: wholesale pricing.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nexa-mortgage-rebrands-to-nexa-lending-but-its-not-a-pivot-to-retail/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Home Sellers Are Cutting Prices at a Record Rate to Lure Skittish Buyers",
