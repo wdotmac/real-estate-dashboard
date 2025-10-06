@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-06 11:26 UTC",
+  "as_of": "2025-10-06 12:58 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Fri, 03 Oct 2025"
     },
     {
+      "title": "There Are 72% More Condo Sellers Than Buyers in the U.S.",
+      "link": "https://www.redfin.com/news/more-condo-sellers-than-buyers/",
+      "published": "Mon, 06 Oct 2025"
+    },
+    {
       "title": "Home Sellers Are Cutting Prices at a Record Rate to Lure Skittish Buyers",
       "link": "https://www.redfin.com/news/price-drops-record-rate-august-2025/",
       "published": "Thu, 02 Oct 2025"
@@ -192,11 +197,6 @@
     {
       "title": "Redfin Economists’ Weekly Take: Potential Government Shutdown Looms Ahead of Key Jobs Report",
       "link": "https://www.redfin.com/news/weekly-economics-update-september-29/",
-      "published": "Mon, 29 Sep 2025"
-    },
-    {
-      "title": "Share of Mortgages with Rates Above 6% Climbs to 10-Year High as Americans Adapt to New Normal",
-      "link": "https://www.redfin.com/news/rate-lock-q2-2025/",
       "published": "Mon, 29 Sep 2025"
     }
   ],
@@ -228,18 +228,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/weekly-economics-update-september-29/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Share of Mortgages with Rates Above 6% Climbs to 10-Year High as Americans Adapt to New Normal",
-        "url": "https://www.redfin.com/news/rate-lock-q2-2025/",
-        "what": "80.3% of mortgaged U.S",
-        "numbers": "80.3, 6, 92.7, 2022., 52.5, 4",
-        "justified": "redfin.com — https://www.redfin.com/news/rate-lock-q2-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "There Are 72% More Condo Sellers Than Buyers in the U.S.",
+        "url": "https://www.redfin.com/news/more-condo-sellers-than-buyers/",
+        "what": "Would-be condo buyers are spooked by high costs, including rising HOA dues and insurance fees–but the silver lining is bargaining power",
+        "numbers": "81, 72.3, 108,945, 72",
+        "justified": "redfin.com — https://www.redfin.com/news/more-condo-sellers-than-buyers/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "The end of the mortgage workhorse: Adapting to a new lending ecosystem",
         "url": "https://www.housingwire.com/articles/the-end-of-the-mortgage-workhorse-adapting-to-a-new-lending-ecosystem/",
