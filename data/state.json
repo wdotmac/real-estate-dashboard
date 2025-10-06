@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-06 07:30 UTC",
+  "as_of": "2025-10-06 08:38 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The end of the mortgage workhorse: Adapting to a new lending ecosystem",
+      "link": "https://www.housingwire.com/articles/the-end-of-the-mortgage-workhorse-adapting-to-a-new-lending-ecosystem/",
+      "published": "Mon, 06 Oct 2025"
+    },
+    {
+      "title": "Making mortgage brokers relatable to the modern homebuyer",
+      "link": "https://www.housingwire.com/articles/making-mortgage-brokers-relatable-to-the-modern-homebuyer/",
+      "published": "Mon, 06 Oct 2025"
+    },
+    {
+      "title": "Homebot’s discovery game: Turning dormant prospects into engaged homeowners",
+      "link": "https://www.housingwire.com/articles/homebots-discovery-game-turning-dormant-prospects-into-engaged-homeowners/",
+      "published": "Mon, 06 Oct 2025"
+    },
+    {
       "title": "Trump urges Fannie Mae, Freddie Mac to boost homebuilding",
       "link": "https://www.housingwire.com/articles/trump-urges-fannie-mae-freddie-mac-to-boost-homebuilding/",
       "published": "Mon, 06 Oct 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Mississippi among slowest markets as gap with U.S. widens",
       "link": "https://www.housingwire.com/articles/mississippi-housing-market-slowest/",
-      "published": "Fri, 03 Oct 2025"
-    },
-    {
-      "title": "CFO Kevin Ryan to retire from Better, will join PennyMac as chief strategy officer",
-      "link": "https://www.housingwire.com/articles/better-cfo-kevin-ryan-to-retire/",
-      "published": "Fri, 03 Oct 2025"
-    },
-    {
-      "title": "Tech Pulse: Agent AI adoption remains slow; title fraud thwarted in Ohio",
-      "link": "https://www.housingwire.com/articles/tech-pulse-agent-ai-adoption-remains-slow-title-fraud-thwarted-in-ohio/",
-      "published": "Fri, 03 Oct 2025"
-    },
-    {
-      "title": "Georgia metros show sharp divide in days on market",
-      "link": "https://www.housingwire.com/articles/georgia-housing-market-contrasts/",
       "published": "Fri, 03 Oct 2025"
     },
     {
@@ -241,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "The end of the mortgage workhorse: Adapting to a new lending ecosystem",
+        "url": "https://www.housingwire.com/articles/the-end-of-the-mortgage-workhorse-adapting-to-a-new-lending-ecosystem/",
+        "what": "The mortgage industry is incredibly different than it was five years ago",
+        "numbers": "2008",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-end-of-the-mortgage-workhorse-adapting-to-a-new-lending-ecosystem/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Making mortgage brokers relatable to the modern homebuyer",
+        "url": "https://www.housingwire.com/articles/making-mortgage-brokers-relatable-to-the-modern-homebuyer/",
+        "what": "We’ve all heard the clichés before",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/making-mortgage-brokers-relatable-to-the-modern-homebuyer/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Trump urges Fannie Mae, Freddie Mac to boost homebuilding",
         "url": "https://www.housingwire.com/articles/trump-urges-fannie-mae-freddie-mac-to-boost-homebuilding/",
         "what": "The latest inventory of new homes, released by the Census Bureau on Sept",
@@ -266,24 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-inventory-sales-speed/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Court dismisses N.J. mayors’ challenge to affordable housing law",
-        "url": "https://www.housingwire.com/articles/court-dismisses-n-j-mayors-challenge-to-affordable-housing-law/",
-        "what": "Previous efforts to block the law during litigation failed at the appellate and state Supreme Court levels.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/court-dismisses-n-j-mayors-challenge-to-affordable-housing-law/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "New tariffs on wood, furniture raise fears of higher housing costs",
-        "url": "https://www.housingwire.com/articles/new-tariffs-on-wood-furniture-raise-fears-of-higher-housing-costs/",
-        "what": "New tariffs will soon hit imported timber and lumber, along with kitchen cabinets, bathroom vanities and upholstered furniture.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-tariffs-on-wood-furniture-raise-fears-of-higher-housing-costs/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Home Sellers Are Cutting Prices at a Record Rate to Lure Skittish Buyers",
@@ -315,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "Homebot’s discovery game: Turning dormant prospects into engaged homeowners",
+        "url": "https://www.housingwire.com/articles/homebots-discovery-game-turning-dormant-prospects-into-engaged-homeowners/",
+        "what": "In this executive conversation, Graham explains how lenders can transition from reactive to proactive engagement, leveraging private and personalized experiences to create meaningf",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebots-discovery-game-turning-dormant-prospects-into-engaged-homeowners/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Mississippi among slowest markets as gap with U.S. widens",
         "url": "https://www.housingwire.com/articles/mississippi-housing-market-slowest/",
         "what": "Mississippi homes take a median of 91 days to sell, three weeks longer than the U.S",
@@ -338,15 +347,6 @@
         "what": "AI adoption lags in real estate despite new innovations",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/tech-pulse-agent-ai-adoption-remains-slow-title-fraud-thwarted-in-ohio/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Planet Financial Group boosts non-agency team with Rob Parsley and Tim Fisher hires",
-        "url": "https://www.housingwire.com/articles/planet-financial-group-boosts-non-agency-team-with-rob-parsley-and-tim-fisher-hires/",
-        "what": "Planet Home Lending named Tim Fisher senior vice president, non-agency lending, and Rob Parsley senior vice president, non-agency sales.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/planet-financial-group-boosts-non-agency-team-with-rob-parsley-and-tim-fisher-hires/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
