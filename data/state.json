@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-06 20:31 UTC",
+  "as_of": "2025-10-06 21:27 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "How much are sellers cutting home prices?",
+      "link": "https://www.housingwire.com/articles/seller-price-cuts-us-housing-oct-2025/",
+      "published": "Mon, 06 Oct 2025"
+    },
+    {
+      "title": "How Jeff Mateja listed 90 houses in 90 days (working 9-5)",
+      "link": "https://www.housingwire.com/articles/90-listings-90-days-jeff-mateja/",
+      "published": "Mon, 06 Oct 2025"
+    },
+    {
       "title": "Cleveland nonprofit fights to halt investor homebuying wave",
       "link": "https://www.housingwire.com/articles/cleveland-nonprofit-fights-to-halt-investor-homebuying-wave/",
       "published": "Mon, 06 Oct 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Zillow, ChatGPT launch app integration",
       "link": "https://www.housingwire.com/articles/zillow-chatgpt-launch-app-integration/",
-      "published": "Mon, 06 Oct 2025"
-    },
-    {
-      "title": "Maine Listings unveils new logo in rebrand effort",
-      "link": "https://www.housingwire.com/articles/maine-listings-unveils-new-logo-in-rebrand-effort/",
-      "published": "Mon, 06 Oct 2025"
-    },
-    {
-      "title": "Beeline expects to achieve cash flow positive status by Q1 2026",
-      "link": "https://www.housingwire.com/articles/beeline-expects-to-achieve-cash-flow-positive-status-by-q1-2026/",
       "published": "Mon, 06 Oct 2025"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Judge narrows class-action lawsuit against UWM, dismisses RICO claims",
-        "url": "https://www.housingwire.com/articles/judge-narrows-class-action-lawsuit-against-uwm-dismisses-rico-claims/",
-        "what": "A federal judge has sharply narrowed the scope of a class-action lawsuit filed in April 2024 that alleged United Wholesale Mortgage orchestrated a scheme with mortgage brokers to c",
-        "numbers": "2024",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/judge-narrows-class-action-lawsuit-against-uwm-dismisses-rico-claims/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Pending Home Sales Slide, But There Are Bright Spots: Buyers Have Bargaining Power, Starter-Home Sales Improving",
         "url": "https://www.redfin.com/news/housing-market-update-prospective-homebuyers-back-away/",
         "what": "Pending U.S",
@@ -231,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "How much are sellers cutting home prices?",
+        "url": "https://www.housingwire.com/articles/seller-price-cuts-us-housing-oct-2025/",
+        "what": "42% of listings have price cuts with a median markdown of 4%, highlighting seller adjustments in a balancing market.",
+        "numbers": "42, 4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/seller-price-cuts-us-housing-oct-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Zillow, ChatGPT launch app integration",
         "url": "https://www.housingwire.com/articles/zillow-chatgpt-launch-app-integration/",
@@ -277,15 +277,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage Research Center launches First Residential Independent Mortgage",
-        "url": "https://www.housingwire.com/articles/mortgage-research-center-launches-first-residential-independent-mortgage/",
-        "what": "First Residential Independent Mortgage is launching as the Paddio brand retires, with all Paddio employees moving to the new company.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-research-center-launches-first-residential-independent-mortgage/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "There Are 72% More Condo Sellers Than Buyers in the U.S.",
         "url": "https://www.redfin.com/news/more-condo-sellers-than-buyers/",
         "what": "Would-be condo buyers are spooked by high costs, including rising HOA dues and insurance fees–but the silver lining is bargaining power",
@@ -323,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "How Jeff Mateja listed 90 houses in 90 days (working 9-5)",
+        "url": "https://www.housingwire.com/articles/90-listings-90-days-jeff-mateja/",
+        "what": "Want to scale your listing business in 2025",
+        "numbers": "2025, 90",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/90-listings-90-days-jeff-mateja/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Cleveland nonprofit fights to halt investor homebuying wave",
         "url": "https://www.housingwire.com/articles/cleveland-nonprofit-fights-to-halt-investor-homebuying-wave/",
