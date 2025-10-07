@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-07 11:26 UTC",
+  "as_of": "2025-10-07 12:58 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Douglas Elliman launches AI assistant app",
+      "link": "https://www.housingwire.com/articles/douglas-elliman-launches-ai-assistant-app/",
+      "published": "Tue, 07 Oct 2025"
+    },
+    {
       "title": "The elephant in the room",
       "link": "https://www.housingwire.com/articles/the-elephant-in-the-room/",
       "published": "Tue, 07 Oct 2025"
@@ -165,9 +170,9 @@
       "published": "Mon, 06 Oct 2025"
     },
     {
-      "title": "Cleveland nonprofit fights to halt investor homebuying wave",
-      "link": "https://www.housingwire.com/articles/cleveland-nonprofit-fights-to-halt-investor-homebuying-wave/",
-      "published": "Mon, 06 Oct 2025"
+      "title": "Homebuyers Are Canceling Deals at a Record Rate. Here’s Why.",
+      "link": "https://www.redfin.com/news/home-purchase-cancellations-august-2025/",
+      "published": "Tue, 07 Oct 2025"
     },
     {
       "title": "Redfin Economists’ Weekly Take: All Eyes on Fed Speeches as Markets Continue to Fly Data-Blind",
@@ -193,11 +198,6 @@
       "title": "Typical U.S. Luxury Home Price Rises 4% to $1.25M as Sales Fall to Lowest August Level in Over a Decade",
       "link": "https://www.redfin.com/news/luxury-homes-market-august-2025/",
       "published": "Wed, 01 Oct 2025"
-    },
-    {
-      "title": "Starter-Home Sales Up 4% as Demand for Higher-Priced Options Stumbles",
-      "link": "https://www.redfin.com/news/starter-home-report-august-2025/",
-      "published": "Tue, 30 Sep 2025"
     }
   ],
   "feed_101020": {
@@ -222,6 +222,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Douglas Elliman launches AI assistant app",
+        "url": "https://www.housingwire.com/articles/douglas-elliman-launches-ai-assistant-app/",
+        "what": "Elli AI is currently only available to Douglas Elliman agents in Florida, but the brokerage is planning a nationwide rollout in 2026",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/douglas-elliman-launches-ai-assistant-app/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Homebuyers Are Canceling Deals at a Record Rate. Here’s Why.",
+        "url": "https://www.redfin.com/news/home-purchase-cancellations-august-2025/",
+        "what": "Roughly 56,000 U.S",
+        "numbers": "56,000, 15.1, 2017.",
+        "justified": "redfin.com — https://www.redfin.com/news/home-purchase-cancellations-august-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "The elephant in the room",
         "url": "https://www.housingwire.com/articles/the-elephant-in-the-room/",
@@ -268,15 +286,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Maine Listings unveils new logo in rebrand effort",
-        "url": "https://www.housingwire.com/articles/maine-listings-unveils-new-logo-in-rebrand-effort/",
-        "what": "Maine Listings is unveiling a new brand identity, after a rebrand effort facilitated by marketing firm WAV Group.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/maine-listings-unveils-new-logo-in-rebrand-effort/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "There Are 72% More Condo Sellers Than Buyers in the U.S.",
         "url": "https://www.redfin.com/news/more-condo-sellers-than-buyers/",
         "what": "Would-be condo buyers are spooked by high costs, including rising HOA dues and insurance fees–but the silver lining is bargaining power",
@@ -300,15 +309,6 @@
         "what": "The typical U.S",
         "numbers": "$1,250,000, 3.9, 0.7, 2013., 0.6, 46",
         "justified": "redfin.com — https://www.redfin.com/news/luxury-homes-market-august-2025/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Starter-Home Sales Up 4% as Demand for Higher-Priced Options Stumbles",
-        "url": "https://www.redfin.com/news/starter-home-report-august-2025/",
-        "what": "The median sale price of starter homes hit a record $260,508 in August, up 2.2% from a year earlier",
-        "numbers": "$260,508, 2.2, 3.8, 12, 0.6, 1.2",
-        "justified": "redfin.com — https://www.redfin.com/news/starter-home-report-august-2025/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
