@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-07 21:27 UTC",
+  "as_of": "2025-10-07 22:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Equifax slashes VantageScore 4.0 pricing as FICO launches new reseller model",
+      "link": "https://www.housingwire.com/articles/equifax-vantagescore-4-0-pricing/",
+      "published": "Tue, 07 Oct 2025"
+    },
+    {
       "title": "Kansas City Fed chair backs cautious approach on rates",
       "link": "https://www.housingwire.com/articles/kansas-city-fed-chair-backs-cautious-approach-on-rates/",
       "published": "Tue, 07 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Mortgage rates hold steady as shutdown enters seventh day",
       "link": "https://www.housingwire.com/articles/mortgage-rates-hold-steady-as-shutdown-enters-seventh-day/",
-      "published": "Tue, 07 Oct 2025"
-    },
-    {
-      "title": "California FAIR Plan seeks insurance premium hike of nearly 36%",
-      "link": "https://www.housingwire.com/articles/california-fair-plan-seeks-insurance-premium-increase/",
       "published": "Tue, 07 Oct 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Equifax slashes VantageScore 4.0 pricing as FICO launches new reseller model",
+        "url": "https://www.housingwire.com/articles/equifax-vantagescore-4-0-pricing/",
+        "what": "Equifax announced changes to its pricing strategy following Fair Isaac Corp.’s rollout of a new program that allows tri-merge resellers to calculate and distribute its scores direc",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/equifax-vantagescore-4-0-pricing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Kansas City Fed chair backs cautious approach on rates",
         "url": "https://www.housingwire.com/articles/kansas-city-fed-chair-backs-cautious-approach-on-rates/",
@@ -275,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/better-xactus-executives-on-balancing-innovation-with-consumer-needs/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Stellar MLS, Rhode Island’s State-Wide MLS announce data share",
-        "url": "https://www.housingwire.com/articles/stellar-mls-rhode-islands-state-wide-mls-announce-data-share/",
-        "what": "Subscribers of Rhode Island Realtors’ subsidiary State-Wide MLS now have access to listings in Stellar MLS’ system.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/stellar-mls-rhode-islands-state-wide-mls-announce-data-share/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Homebuyers Are Canceling Deals at a Record Rate. Here’s Why.",
