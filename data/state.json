@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-10-07 19:25 UTC",
+  "as_of": "2025-10-07 20:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.13,
-      "delta_bp_1d": 3.000000000000025
+      "yield_pct": 4.18,
+      "delta_bp_1d": 4.999999999999982
     },
     "mortgage_30y": {
       "rate_pct": 6.34,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Texas housing inventory grows as sellers trim prices",
+      "link": "https://www.housingwire.com/articles/texas-housing-inventory-october/",
+      "published": "Tue, 07 Oct 2025"
+    },
+    {
+      "title": "Fifth Third buys Comerica in nearly $11B deal",
+      "link": "https://www.housingwire.com/articles/fifth-third-buys-comerica-in-nearly-11b-deal/",
+      "published": "Tue, 07 Oct 2025"
+    },
+    {
       "title": "Flueid launches enhanced title verification platform",
       "link": "https://www.housingwire.com/articles/flueid-launches-enhanced-title-verification-platform/",
       "published": "Tue, 07 Oct 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Better, Xactus executives on balancing innovation with consumer needs",
       "link": "https://www.housingwire.com/articles/better-xactus-executives-on-balancing-innovation-with-consumer-needs/",
-      "published": "Tue, 07 Oct 2025"
-    },
-    {
-      "title": "All-cash home sales hold strong as high mortgage rates persist",
-      "link": "https://www.housingwire.com/articles/all-cash-home-sales-hold-strong-as-high-mortgage-rates-persist/",
-      "published": "Tue, 07 Oct 2025"
-    },
-    {
-      "title": "The best real estate software for 2025: 23 top picks for agents + teams",
-      "link": "https://www.housingwire.com/articles/real-estate-software/",
       "published": "Tue, 07 Oct 2025"
     },
     {
@@ -241,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "Texas housing inventory grows as sellers trim prices",
+        "url": "https://www.housingwire.com/articles/texas-housing-inventory-october/",
+        "what": "With rising inventory and slower sales, Texas sellers are adjusting listings",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/texas-housing-inventory-october/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Fifth Third buys Comerica in nearly $11B deal",
+        "url": "https://www.housingwire.com/articles/fifth-third-buys-comerica-in-nearly-11b-deal/",
+        "what": "The transaction is expected to close by the end of the first quarter of 2026, pending approval from each company's shareholders.",
+        "numbers": "2026,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fifth-third-buys-comerica-in-nearly-11b-deal/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Better, Xactus executives on balancing innovation with consumer needs",
         "url": "https://www.housingwire.com/articles/better-xactus-executives-on-balancing-innovation-with-consumer-needs/",
         "what": "Better and Xactus executives shared insights on winning in an evolving mortgage landscape and how to balance technology and customer needs.",
@@ -257,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/stellar-mls-rhode-islands-state-wide-mls-announce-data-share/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Zillow says there is no evidence of ‘irreparable harm’ to Compass",
-        "url": "https://www.housingwire.com/articles/zillow-says-there-is-no-evidence-of-irreparable-harm-to-compass/",
-        "what": "In a letter filed on Monday, Zillow says a hearing on Compass's preliminary injunction motion is not necessary.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-says-there-is-no-evidence-of-irreparable-harm-to-compass/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Homebuyers Are Canceling Deals at a Record Rate. Here’s Why.",
@@ -338,15 +347,6 @@
         "what": "Borrowers have added new details in an amended complaint alleging that loanDepot engaged in a “sophisticated, years-long scheme” to steer customers into higher-rate loans to inflat",
         "numbers": "2021",
         "justified": "housingwire.com — https://www.housingwire.com/articles/alleged-loandepot-steering-scheme-detailed-in-amended-court-complaint/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "SMILE moments: the secret weapon for real estate agents to build lasting client relationships",
-        "url": "https://www.housingwire.com/articles/smile-moments-transforming-real-estate-client-relationships/",
-        "what": "Transform your real estate practice with SMILE Moments",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/smile-moments-transforming-real-estate-client-relationships/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
