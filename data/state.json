@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-08 12:59 UTC",
+  "as_of": "2025-10-08 13:40 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "More purchase and refinance applicants are considering ARMs, MBA says",
+      "link": "https://www.housingwire.com/articles/borrowers-consider-arms/",
+      "published": "Wed, 08 Oct 2025"
+    },
+    {
       "title": "Industry veterans launch consultancy firm Alloy Advisors",
       "link": "https://www.housingwire.com/articles/industry-veterans-launch-consultancy-firm-alloy-advisors/",
       "published": "Wed, 08 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Equifax slashes VantageScore 4.0 pricing as FICO launches new reseller model",
       "link": "https://www.housingwire.com/articles/equifax-vantagescore-4-0-pricing/",
-      "published": "Tue, 07 Oct 2025"
-    },
-    {
-      "title": "Kansas City Fed chair backs cautious approach on rates",
-      "link": "https://www.housingwire.com/articles/kansas-city-fed-chair-backs-cautious-approach-on-rates/",
       "published": "Tue, 07 Oct 2025"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "More purchase and refinance applicants are considering ARMs, MBA says",
+        "url": "https://www.housingwire.com/articles/borrowers-consider-arms/",
+        "what": "Mortgage applications fell 4.7% last week, with refinance activity dropping 8% despite stable mortgage rates",
+        "numbers": "4.7, 8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/borrowers-consider-arms/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "17% of Americans Are Delaying a Major Purchase Like a Home or Car Due to Government Shutdown. 65% Are Undeterred.",
         "url": "https://www.redfin.com/news/delaying-home-car-purchase-government-shutdown/",
         "what": "Some Americans are changing plans because they’re directly impacted by the shutdown, and others are wary of making a big purchase because of economic uncertainty",
@@ -226,15 +235,6 @@
         "what": "Kansas City Fed Chair Jeff Schmid said he voted in favor of the Fed’s September quarter-point rate cut but sees no need for aggressive easing.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/kansas-city-fed-chair-backs-cautious-approach-on-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage rates hold steady as shutdown enters seventh day",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-hold-steady-as-shutdown-enters-seventh-day/",
-        "what": "Mortgage rates have remained relatively stable in the past few days amid political turbulence, as the U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-hold-steady-as-shutdown-enters-seventh-day/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
