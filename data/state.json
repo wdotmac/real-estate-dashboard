@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-08 18:43 UTC",
+  "as_of": "2025-10-08 19:25 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Zillow’s ChatGPT integration could redefine — or violate — MLS policies",
+      "link": "https://www.housingwire.com/articles/zillow-chatgpt-integration-redefine-or-violate-mls-policies/",
+      "published": "Wed, 08 Oct 2025"
+    },
+    {
       "title": "David vs. Goliath: why the Compass–Anywhere deal is a win for the little guys",
       "link": "https://www.housingwire.com/articles/david-vs-goliath-why-the-compass-anywhere-deal-is-a-win-for-the-little-guys/",
       "published": "Wed, 08 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Is it possible for the GSEs to exit conservatorship without market disruption?",
       "link": "https://www.housingwire.com/articles/is-it-possible-for-the-gses-to-exit-conservatorship-without-market-disruption/",
-      "published": "Wed, 08 Oct 2025"
-    },
-    {
-      "title": "Borrowers sue Optimal Blue, top lenders over alleged mortgage price-fixing scheme",
-      "link": "https://www.housingwire.com/articles/optimal-blue-mortgage-lenders-face-antitrust-lawsuit-rate-inflation/",
       "published": "Wed, 08 Oct 2025"
     },
     {
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Zillow’s ChatGPT integration could redefine — or violate — MLS policies",
+        "url": "https://www.housingwire.com/articles/zillow-chatgpt-integration-redefine-or-violate-mls-policies/",
+        "what": "Critics say the integration breaches IDX display rules, while others see it as a needed wake-up call for modernizing MLS policies.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-chatgpt-integration-redefine-or-violate-mls-policies/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "High rents and growing inventory create room to convert renters",
         "url": "https://www.housingwire.com/articles/high-rents-growing-inventory/",
         "what": "Rents remain high as for-sale inventory expands and price cuts increase, giving buyers more options.",
@@ -275,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/compasss-anywhere-deal-could-push-exclusives-higher-but-not-sky-high/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "REVERSE plus launches with three new mortgage tools",
-        "url": "https://www.housingwire.com/articles/reverse-plus-launches-mortgage-tools/",
-        "what": "The new products involve self-paced training modules, loan scenario modeling and visualization tools, and an AI-powered answer desk.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-plus-launches-mortgage-tools/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Homebuyers Are Canceling Deals at a Record Rate. Here’s Why.",
