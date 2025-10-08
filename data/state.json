@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-08 14:35 UTC",
+  "as_of": "2025-10-08 15:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Jonathan McKernan confirmed as Treasury under secretary",
+      "link": "https://www.housingwire.com/articles/jonathan-mckernan-treasury-under-secretary/",
+      "published": "Wed, 08 Oct 2025"
+    },
+    {
+      "title": "Stewart introduces FinCEN AML compliance tool",
+      "link": "https://www.housingwire.com/articles/stewart-introduces-fincen-aml-compliance-tool/",
+      "published": "Wed, 08 Oct 2025"
+    },
+    {
+      "title": "Court permits Zillow to review select Compass-Anywhere communications in antitrust case",
+      "link": "https://www.housingwire.com/articles/court-permits-zillow-to-review-select-compass-anywhere-communications-in-antitrust-case/",
+      "published": "Wed, 08 Oct 2025"
+    },
+    {
       "title": "Tri Pointe VP Brandon Hamara moves from Freddie Mac to Fannie Mae board",
       "link": "https://www.housingwire.com/articles/tri-pointe-vp-brandon-hamara-moves-from-freddie-mac-to-fannie-mae-board/",
       "published": "Wed, 08 Oct 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Scott Durkin returns to Corcoran as associate broker",
       "link": "https://www.housingwire.com/articles/scott-durkin-returns-to-corcoran-as-associate-broker/",
-      "published": "Wed, 08 Oct 2025"
-    },
-    {
-      "title": "More purchase and refinance applicants are considering ARMs, MBA says",
-      "link": "https://www.housingwire.com/articles/borrowers-consider-arms/",
-      "published": "Wed, 08 Oct 2025"
-    },
-    {
-      "title": "Industry veterans launch consultancy firm Alloy Advisors",
-      "link": "https://www.housingwire.com/articles/industry-veterans-launch-consultancy-firm-alloy-advisors/",
-      "published": "Wed, 08 Oct 2025"
-    },
-    {
-      "title": "Recruiting the same loan officer and expecting different results",
-      "link": "https://www.housingwire.com/articles/recruiting-the-same-loan-officer-and-expecting-different-results/",
       "published": "Wed, 08 Oct 2025"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Jonathan McKernan confirmed as Treasury under secretary",
+        "url": "https://www.housingwire.com/articles/jonathan-mckernan-treasury-under-secretary/",
+        "what": "Jonathan McKernan's confirmation as under secretary for domestic finance marks a pivotal moment for U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/jonathan-mckernan-treasury-under-secretary/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Tri Pointe VP Brandon Hamara moves from Freddie Mac to Fannie Mae board",
         "url": "https://www.housingwire.com/articles/tri-pointe-vp-brandon-hamara-moves-from-freddie-mac-to-fannie-mae-board/",
         "what": "Federal Housing Finance Agency Director Bill Pulte announced on Tuesday that homebuilder executive Brandon Hamara, vice president at Tri Pointe Homes, will join Fannie Mae as a boa",
@@ -230,24 +239,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Equifax slashes VantageScore 4.0 pricing as FICO launches new reseller model",
-        "url": "https://www.housingwire.com/articles/equifax-vantagescore-4-0-pricing/",
-        "what": "Equifax announced changes to its pricing strategy following Fair Isaac Corp.’s rollout of a new program that allows tri-merge resellers to calculate and distribute its scores direc",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/equifax-vantagescore-4-0-pricing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Kansas City Fed chair backs cautious approach on rates",
-        "url": "https://www.housingwire.com/articles/kansas-city-fed-chair-backs-cautious-approach-on-rates/",
-        "what": "Kansas City Fed Chair Jeff Schmid said he voted in favor of the Fed’s September quarter-point rate cut but sees no need for aggressive easing.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kansas-city-fed-chair-backs-cautious-approach-on-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: All Eyes on Fed Speeches as Markets Continue to Fly Data-Blind",
         "url": "https://www.redfin.com/news/weekly-economics-update-october-6/",
         "what": "Last Week In A Nutshell Rates eased due to a surprisingly negative ADP jobs report, which stayed in the spotlight as the government shutdown sidelined the official jobs report",
@@ -267,6 +258,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Court permits Zillow to review select Compass-Anywhere communications in antitrust case",
+        "url": "https://www.housingwire.com/articles/court-permits-zillow-to-review-select-compass-anywhere-communications-in-antitrust-case/",
+        "what": "Zillow will be allowed to review documents and communications between Compass and Anywhere regarding Zillow’s policy and the lawsuit.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/court-permits-zillow-to-review-select-compass-anywhere-communications-in-antitrust-case/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "Movement Mortgage names two leaders to executive team",
         "url": "https://www.housingwire.com/articles/movement-mortgage-executive-promotions/",
@@ -291,15 +291,6 @@
         "what": "Behind the hype of generative AI lies a tougher reality for mortgage and real estate leaders: adoption is anything but easy.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/radians-playbook-for-ai-governance-growth-and-operational-excellence/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "With increased defaults, when is it prudent for servicers to record loan modifications?",
-        "url": "https://www.housingwire.com/articles/with-increased-defaults-when-is-it-prudent-for-servicers-to-record-loan-modifications/",
-        "what": "A question we’ve received from clients with increased frequency is whether they can forgo recording their loan modification agreement in certain circumstances or jurisdictions with",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/with-increased-defaults-when-is-it-prudent-for-servicers-to-record-loan-modifications/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -332,6 +323,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Stewart introduces FinCEN AML compliance tool",
+        "url": "https://www.housingwire.com/articles/stewart-introduces-fincen-aml-compliance-tool/",
+        "what": "Platform tools include electronic filing of reports, data validation, communication with buyers and sellers and secure document retention.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/stewart-introduces-fincen-aml-compliance-tool/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Scott Durkin returns to Corcoran as associate broker",
         "url": "https://www.housingwire.com/articles/scott-durkin-returns-to-corcoran-as-associate-broker/",
