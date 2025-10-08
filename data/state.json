@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-08 17:30 UTC",
+  "as_of": "2025-10-08 18:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "David vs. Goliath: why the Compass–Anywhere deal is a win for the little guys",
+      "link": "https://www.housingwire.com/articles/david-vs-goliath-why-the-compass-anywhere-deal-is-a-win-for-the-little-guys/",
+      "published": "Wed, 08 Oct 2025"
+    },
+    {
+      "title": "High rents and growing inventory create room to convert renters",
+      "link": "https://www.housingwire.com/articles/high-rents-growing-inventory/",
+      "published": "Wed, 08 Oct 2025"
+    },
+    {
+      "title": "14 spooktacular Halloween real estate marketing ideas",
+      "link": "https://www.housingwire.com/articles/halloween-real-estate-marketing-ideas/",
+      "published": "Wed, 08 Oct 2025"
+    },
+    {
+      "title": "The longer the shutdown continues, the greater the impact on housing",
+      "link": "https://www.housingwire.com/articles/nar-warns-government-shutdown-impact-housing-market-programs/",
+      "published": "Wed, 08 Oct 2025"
+    },
+    {
       "title": "Is it possible for the GSEs to exit conservatorship without market disruption?",
       "link": "https://www.housingwire.com/articles/is-it-possible-for-the-gses-to-exit-conservatorship-without-market-disruption/",
       "published": "Wed, 08 Oct 2025"
@@ -147,26 +167,6 @@
     {
       "title": "Borrowers sue Optimal Blue, top lenders over alleged mortgage price-fixing scheme",
       "link": "https://www.housingwire.com/articles/optimal-blue-mortgage-lenders-face-antitrust-lawsuit-rate-inflation/",
-      "published": "Wed, 08 Oct 2025"
-    },
-    {
-      "title": "Which coastal housing market is stronger, California or Florida?",
-      "link": "https://www.housingwire.com/articles/california-vs-florida-housing-market/",
-      "published": "Wed, 08 Oct 2025"
-    },
-    {
-      "title": "TRUE and Candor unveil income verification tool, Instant Income Clarity",
-      "link": "https://www.housingwire.com/articles/true-candor-instant-income-clarity/",
-      "published": "Wed, 08 Oct 2025"
-    },
-    {
-      "title": "Compass’s Anywhere deal could push exclusives higher, but not sky-high",
-      "link": "https://www.housingwire.com/articles/compasss-anywhere-deal-could-push-exclusives-higher-but-not-sky-high/",
-      "published": "Wed, 08 Oct 2025"
-    },
-    {
-      "title": "REVERSE plus launches with three new mortgage tools",
-      "link": "https://www.housingwire.com/articles/reverse-plus-launches-mortgage-tools/",
       "published": "Wed, 08 Oct 2025"
     },
     {
@@ -203,29 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "The longer the shutdown continues, the greater the impact on housing",
+        "url": "https://www.housingwire.com/articles/nar-warns-government-shutdown-impact-housing-market-programs/",
+        "what": "NAR's Shannon McGahn outlines the growing consequences of the federal shutdown on housing programs and the broader real estate market.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-warns-government-shutdown-impact-housing-market-programs/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Borrowers sue Optimal Blue, top lenders over alleged mortgage price-fixing scheme",
         "url": "https://www.housingwire.com/articles/optimal-blue-mortgage-lenders-face-antitrust-lawsuit-rate-inflation/",
         "what": "A class-action lawsuit filed in early October in Tennessee accuses software company Optimal Blue and some of the nation’s largest lenders of violating federal antitrust laws throug",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/optimal-blue-mortgage-lenders-face-antitrust-lawsuit-rate-inflation/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Jonathan McKernan confirmed as Treasury under secretary",
-        "url": "https://www.housingwire.com/articles/jonathan-mckernan-treasury-under-secretary/",
-        "what": "Jonathan McKernan's confirmation as under secretary for domestic finance marks a pivotal moment for U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/jonathan-mckernan-treasury-under-secretary/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Tri Pointe VP Brandon Hamara moves from Freddie Mac to Fannie Mae board",
-        "url": "https://www.housingwire.com/articles/tri-pointe-vp-brandon-hamara-moves-from-freddie-mac-to-fannie-mae-board/",
-        "what": "Federal Housing Finance Agency Director Bill Pulte announced on Tuesday that homebuilder executive Brandon Hamara, vice president at Tri Pointe Homes, will join Fannie Mae as a boa",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tri-pointe-vp-brandon-hamara-moves-from-freddie-mac-to-fannie-mae-board/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -259,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "High rents and growing inventory create room to convert renters",
+        "url": "https://www.housingwire.com/articles/high-rents-growing-inventory/",
+        "what": "Rents remain high as for-sale inventory expands and price cuts increase, giving buyers more options.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/high-rents-growing-inventory/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Which coastal housing market is stronger, California or Florida?",
         "url": "https://www.housingwire.com/articles/california-vs-florida-housing-market/",
         "what": "California and Florida show diverging fall dynamics as inventory and price cuts move in different directions according to HW Data.",
@@ -284,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-plus-launches-mortgage-tools/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Court permits Zillow to review select Compass-Anywhere communications in antitrust case",
-        "url": "https://www.housingwire.com/articles/court-permits-zillow-to-review-select-compass-anywhere-communications-in-antitrust-case/",
-        "what": "Zillow will be allowed to review documents and communications between Compass and Anywhere regarding Zillow’s policy and the lawsuit.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/court-permits-zillow-to-review-select-compass-anywhere-communications-in-antitrust-case/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Homebuyers Are Canceling Deals at a Record Rate. Here’s Why.",
@@ -324,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "David vs. Goliath: why the Compass–Anywhere deal is a win for the little guys",
+        "url": "https://www.housingwire.com/articles/david-vs-goliath-why-the-compass-anywhere-deal-is-a-win-for-the-little-guys/",
+        "what": "Discover why San Francisco's boutique real estate agencies are poised for success in the wake of the Compass-Anywhere merger",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/david-vs-goliath-why-the-compass-anywhere-deal-is-a-win-for-the-little-guys/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "14 spooktacular Halloween real estate marketing ideas",
+        "url": "https://www.housingwire.com/articles/halloween-real-estate-marketing-ideas/",
+        "what": "Check out these fun, memorable real estate marketing ideas for Halloween night and throughout October.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/halloween-real-estate-marketing-ideas/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Is it possible for the GSEs to exit conservatorship without market disruption?",
         "url": "https://www.housingwire.com/articles/is-it-possible-for-the-gses-to-exit-conservatorship-without-market-disruption/",
         "what": "MBA's Pete Mills and CHLA's Rob Zimmer weigh the risks of the GSes' potential release from conservatorship, focusing on market stability and competition.",
@@ -338,15 +347,6 @@
         "what": "Candor and TRUE claim the tool is the first to deliver GSE-aligned, verified income analysis instantly, a process that typically takes days.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/true-candor-instant-income-clarity/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Stewart introduces FinCEN AML compliance tool",
-        "url": "https://www.housingwire.com/articles/stewart-introduces-fincen-aml-compliance-tool/",
-        "what": "Platform tools include electronic filing of reports, data validation, communication with buyers and sellers and secure document retention.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/stewart-introduces-fincen-aml-compliance-tool/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
