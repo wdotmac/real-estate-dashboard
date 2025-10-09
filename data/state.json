@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-09 15:43 UTC",
+  "as_of": "2025-10-09 16:41 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": -4.0000000000000036
     },
     "mortgage_30y": {
-      "rate_pct": 6.34,
-      "delta_bp_wow": 4.0000000000000036
+      "rate_pct": 6.3,
+      "delta_bp_wow": -4.0000000000000036
     },
     "starts": {
       "level_saar": 1307.0,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Homie believes lower court misapplied the law in antitrust suit ruling",
+      "link": "https://www.housingwire.com/articles/homie-believes-lower-court-misapplied-the-law-in-antitrust-suit-ruling/",
+      "published": "Thu, 09 Oct 2025"
+    },
+    {
+      "title": "Rene Galicia joins executive team at North Texas-based MLS",
+      "link": "https://www.housingwire.com/articles/rene-galicia-joins-executive-team-north-texas-based-mls/",
+      "published": "Thu, 09 Oct 2025"
+    },
+    {
+      "title": "Gibson Sotheby’s International Realty acquires 200-agent firm in Massachusetts",
+      "link": "https://www.housingwire.com/articles/gibson-sothebys-acquires-advisors-living/",
+      "published": "Thu, 09 Oct 2025"
+    },
+    {
       "title": "What sellers should know as Chicago home prices climb",
       "link": "https://www.housingwire.com/articles/chicago-housing-market-supply-prices/",
       "published": "Thu, 09 Oct 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Realtor.com launches AI-powered home search tool",
       "link": "https://www.housingwire.com/articles/realtor-com-launches-ai-powered-home-search-tool/",
-      "published": "Thu, 09 Oct 2025"
-    },
-    {
-      "title": "Don’t get left behind: Why your title company needs a tech partner built on these 4 pillars",
-      "link": "https://www.housingwire.com/articles/dont-get-left-behind-why-your-title-company-needs-a-tech-partner-built-on-these-4-pillars/",
-      "published": "Thu, 09 Oct 2025"
-    },
-    {
-      "title": "Inside Rocket Pro’s bold plan to reinvent broker partnerships",
-      "link": "https://www.housingwire.com/articles/inside-rocket-pros-bold-plan-to-reinvent-broker-partnerships/",
-      "published": "Thu, 09 Oct 2025"
-    },
-    {
-      "title": "The dream of homeownership isn’t dead, but it needs to evolve",
-      "link": "https://www.housingwire.com/articles/the-dream-of-homeownership-isnt-dead-but-it-needs-to-evolve/",
       "published": "Thu, 09 Oct 2025"
     },
     {
@@ -277,15 +277,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "CoStar economist details housing risks of extended government shutdown",
-        "url": "https://www.housingwire.com/articles/costar-economist-details-housing-risks-of-extended-government-shutdown/",
-        "what": "Carl Gomez, chief economist and head of market analytics at CoStar Group, said the shutdown is casting a psychological shadow on housing.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-economist-details-housing-risks-of-extended-government-shutdown/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Homebuyers Are Canceling Deals at a Record Rate. Here’s Why.",
         "url": "https://www.redfin.com/news/home-purchase-cancellations-august-2025/",
         "what": "Roughly 56,000 U.S",
@@ -306,6 +297,33 @@
     ],
     "notables": [
       {
+        "title": "Homie believes lower court misapplied the law in antitrust suit ruling",
+        "url": "https://www.housingwire.com/articles/homie-believes-lower-court-misapplied-the-law-in-antitrust-suit-ruling/",
+        "what": "In a brief in its appeal of an antitrust suit filed against NAR and major brokerages, Homie claims the District Court misapplied the law.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homie-believes-lower-court-misapplied-the-law-in-antitrust-suit-ruling/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Rene Galicia joins executive team at North Texas-based MLS",
+        "url": "https://www.housingwire.com/articles/rene-galicia-joins-executive-team-north-texas-based-mls/",
+        "what": "NTREIS has named Galicia as its executive vice president and general counsel, after his five month stint at CMLS.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rene-galicia-joins-executive-team-north-texas-based-mls/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Gibson Sotheby’s International Realty acquires 200-agent firm in Massachusetts",
+        "url": "https://www.housingwire.com/articles/gibson-sothebys-acquires-advisors-living/",
+        "what": "Gibson Sotheby's reported $3.39 billion in sales volume in 2024 — making it the No",
+        "numbers": "$3.39 billion, 2024, 1",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gibson-sothebys-acquires-advisors-living/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Proof launches new secure digital identity tool Certify",
         "url": "https://www.housingwire.com/articles/proof-launches-new-secure-digital-identity-tool-certify/",
         "what": "Proof's new product, Certify, allows users to embed their identity in everything they do online, creating verifiable records.",
@@ -322,24 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/anne-winicki-joins-scenic-sothebys-international-realty-in-florida/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Illinois offers affordable entry points for first-time buyers",
-        "url": "https://www.housingwire.com/articles/illinois-first-time-buyers-affordable-entry-points/",
-        "what": "Illinois remains more affordable than the U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/illinois-first-time-buyers-affordable-entry-points/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "ALTA Good Deeds Foundation awards $105K in grants, honors late board chair",
-        "url": "https://www.housingwire.com/articles/alta-good-deeds-foundation-awards-105k-in-grants-honors-late-board-chair/",
-        "what": "ALTA honored the late Mary O’Donnell, who worked as foundation board chair and president and CEO of Westcor Land Title Insurance Co.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/alta-good-deeds-foundation-awards-105k-in-grants-honors-late-board-chair/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
