@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-09 16:41 UTC",
+  "as_of": "2025-10-09 17:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage originations could jump 13%, reach $2.27T in 2026",
+      "link": "https://www.housingwire.com/articles/us-mortgage-originations-2026/",
+      "published": "Thu, 09 Oct 2025"
+    },
+    {
+      "title": "Milo’s Josip Rupena on increasing client wealth through crypto lending",
+      "link": "https://www.housingwire.com/articles/milo-crypto-mortgage-wealth/",
+      "published": "Thu, 09 Oct 2025"
+    },
+    {
+      "title": "CoStar wants its Zillow lawsuit to remain in New York",
+      "link": "https://www.housingwire.com/articles/costar-wants-its-zillow-lawsuit-to-remain-in-new-york/",
+      "published": "Thu, 09 Oct 2025"
+    },
+    {
       "title": "Homie believes lower court misapplied the law in antitrust suit ruling",
       "link": "https://www.housingwire.com/articles/homie-believes-lower-court-misapplied-the-law-in-antitrust-suit-ruling/",
       "published": "Thu, 09 Oct 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Gibson Sotheby’s International Realty acquires 200-agent firm in Massachusetts",
       "link": "https://www.housingwire.com/articles/gibson-sothebys-acquires-advisors-living/",
-      "published": "Thu, 09 Oct 2025"
-    },
-    {
-      "title": "What sellers should know as Chicago home prices climb",
-      "link": "https://www.housingwire.com/articles/chicago-housing-market-supply-prices/",
-      "published": "Thu, 09 Oct 2025"
-    },
-    {
-      "title": "Proof launches new secure digital identity tool Certify",
-      "link": "https://www.housingwire.com/articles/proof-launches-new-secure-digital-identity-tool-certify/",
-      "published": "Thu, 09 Oct 2025"
-    },
-    {
-      "title": "Realtor.com launches AI-powered home search tool",
-      "link": "https://www.housingwire.com/articles/realtor-com-launches-ai-powered-home-search-tool/",
       "published": "Thu, 09 Oct 2025"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Mortgage originations could jump 13%, reach $2.27T in 2026",
+        "url": "https://www.housingwire.com/articles/us-mortgage-originations-2026/",
+        "what": "iEmergent predicts U.S",
+        "numbers": "$2.27, 2026,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/us-mortgage-originations-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "More Home Sellers Test the Market, But Buyers Aren’t Budging",
         "url": "https://www.redfin.com/news/housing-market-update-more-sellers-list-homes/",
         "what": "Pending home sales are declining, with some house hunters waiting for mortgage rates to drop lower and some feeling jittery about the economy",
@@ -219,15 +228,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/dont-get-left-behind-why-your-title-company-needs-a-tech-partner-built-on-these-4-pillars/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The dream of homeownership isn’t dead, but it needs to evolve",
-        "url": "https://www.housingwire.com/articles/the-dream-of-homeownership-isnt-dead-but-it-needs-to-evolve/",
-        "what": "Americans collectively hold almost $35 trillion in housing wealth, a nearly 80% increase since early 2020 (Federal Reserve)",
-        "numbers": "$35, 80, 2020, 54.5, 46",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-dream-of-homeownership-isnt-dead-but-it-needs-to-evolve/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "17% of Americans Are Delaying a Major Purchase Like a Home or Car Due to Government Shutdown. 65% Are Undeterred.",
@@ -250,6 +250,24 @@
     ],
     "housing": [
       {
+        "title": "Milo’s Josip Rupena on increasing client wealth through crypto lending",
+        "url": "https://www.housingwire.com/articles/milo-crypto-mortgage-wealth/",
+        "what": "Milo's crypto mortgage model, which allows clients to buy homes without selling Bitcoin, has increased client wealth by $100 million.",
+        "numbers": "$100 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/milo-crypto-mortgage-wealth/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "CoStar wants its Zillow lawsuit to remain in New York",
+        "url": "https://www.housingwire.com/articles/costar-wants-its-zillow-lawsuit-to-remain-in-new-york/",
+        "what": "Zillow wants to move CoStar’s copyright infringement suit to Seattle, but CoStar says New York is central to the lawsuit.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-wants-its-zillow-lawsuit-to-remain-in-new-york/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "What sellers should know as Chicago home prices climb",
         "url": "https://www.housingwire.com/articles/chicago-housing-market-supply-prices/",
         "what": "Chicago home prices are climbing as supply shrinks",
@@ -266,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/realtor-com-launches-ai-powered-home-search-tool/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Inside Rocket Pro’s bold plan to reinvent broker partnerships",
-        "url": "https://www.housingwire.com/articles/inside-rocket-pros-bold-plan-to-reinvent-broker-partnerships/",
-        "what": "The mortgage industry continues to grapple with margin compression, rapid technological disruption, and shifting demographics among borrowers",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/inside-rocket-pros-bold-plan-to-reinvent-broker-partnerships/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Homebuyers Are Canceling Deals at a Record Rate. Here’s Why.",
@@ -331,15 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/proof-launches-new-secure-digital-identity-tool-certify/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Anne Winicki joins Scenic Sotheby’s International Realty in Florida",
-        "url": "https://www.housingwire.com/articles/anne-winicki-joins-scenic-sothebys-international-realty-in-florida/",
-        "what": "She has closed 631 transactions totaling nearly $800 million in lifetime sales volume, including $86.7 million in sales volume in 2024.",
-        "numbers": "631, $800 million, $86.7 million, 2024.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/anne-winicki-joins-scenic-sothebys-international-realty-in-florida/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
