@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-09 21:28 UTC",
+  "as_of": "2025-10-09 22:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Colorado housing market sees wider price cuts ahead of ski season",
+      "link": "https://www.housingwire.com/articles/colorado-housing-market-price-cuts/",
+      "published": "Thu, 09 Oct 2025"
+    },
+    {
+      "title": "Zillow and Housing Connector help 10,000 people find homes",
+      "link": "https://www.housingwire.com/articles/zillow-housing-connector-10000-homes/",
+      "published": "Thu, 09 Oct 2025"
+    },
+    {
+      "title": "Veterans are missing out on billions in VA loan benefits",
+      "link": "https://www.housingwire.com/articles/veterans-miss-va-home-loan-benefits/",
+      "published": "Thu, 09 Oct 2025"
+    },
+    {
+      "title": "Most Americans use AI for housing market data",
+      "link": "https://www.housingwire.com/articles/ai-reshapes-real-estate/",
+      "published": "Thu, 09 Oct 2025"
+    },
+    {
       "title": "New York AG Letitia James indicted on mortgage fraud charge",
       "link": "https://www.housingwire.com/articles/new-york-ag-letitia-james-indicted-mortgage-fraud/",
       "published": "Thu, 09 Oct 2025"
@@ -147,26 +167,6 @@
     {
       "title": "Foreclosure activity edges higher in Q3 2025",
       "link": "https://www.housingwire.com/articles/foreclosures-edge-higher-in-q3-2025/",
-      "published": "Thu, 09 Oct 2025"
-    },
-    {
-      "title": "Jason Mitchell Group, Roam team up",
-      "link": "https://www.housingwire.com/articles/jason-mitchell-group-roam-team-up/",
-      "published": "Thu, 09 Oct 2025"
-    },
-    {
-      "title": "Mortgage execs advise lenders to embrace technology or risk falling behind",
-      "link": "https://www.housingwire.com/articles/mortgage-lenders-tech-paradigm-shift/",
-      "published": "Thu, 09 Oct 2025"
-    },
-    {
-      "title": "Watchdog urges Fed to investigate Fifth Third–Comerica merger",
-      "link": "https://www.housingwire.com/articles/fifth-third-comerica-merger-opposition/",
-      "published": "Thu, 09 Oct 2025"
-    },
-    {
-      "title": "Florida brokerage endures a nightmare and lesson in real estate cybersecurity",
-      "link": "https://www.housingwire.com/articles/ai-scams-target-florida-real-estate-agents-cybersecurity/",
       "published": "Thu, 09 Oct 2025"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage originations could jump 13%, reach $2.27T in 2026",
-        "url": "https://www.housingwire.com/articles/us-mortgage-originations-2026/",
-        "what": "iEmergent predicts U.S",
-        "numbers": "$2.27, 2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/us-mortgage-originations-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "More Home Sellers Test the Market, But Buyers Aren’t Budging",
         "url": "https://www.redfin.com/news/housing-market-update-more-sellers-list-homes/",
         "what": "Pending home sales are declining, with some house hunters waiting for mortgage rates to drop lower and some feeling jittery about the economy",
@@ -250,6 +241,42 @@
     ],
     "housing": [
       {
+        "title": "Colorado housing market sees wider price cuts ahead of ski season",
+        "url": "https://www.housingwire.com/articles/colorado-housing-market-price-cuts/",
+        "what": "Colorado housing shows lower new-listing prices and widespread cuts",
+        "numbers": "$597,500, $649,900, 48",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/colorado-housing-market-price-cuts/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Zillow and Housing Connector help 10,000 people find homes",
+        "url": "https://www.housingwire.com/articles/zillow-housing-connector-10000-homes/",
+        "what": "What began in 2019 as a local solution in Seattle has evolved into a national model for unlocking private-market housing.",
+        "numbers": "2019",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-housing-connector-10000-homes/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Veterans are missing out on billions in VA loan benefits",
+        "url": "https://www.housingwire.com/articles/veterans-miss-va-home-loan-benefits/",
+        "what": "A new Veterans United Home Loans analysis found that more than 58,000 VA loans went unused in 2024",
+        "numbers": "58,000, 2024, $28 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/veterans-miss-va-home-loan-benefits/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Most Americans use AI for housing market data",
+        "url": "https://www.housingwire.com/articles/ai-reshapes-real-estate/",
+        "what": "A majority of Americans are using AI for real estate insights, yet real estate agents remain the most trusted source",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-reshapes-real-estate/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "New York AG Letitia James indicted on mortgage fraud charge",
         "url": "https://www.housingwire.com/articles/new-york-ag-letitia-james-indicted-mortgage-fraud/",
         "what": "An anonymous source says James was indicted in the Eastern District of Virginia on one count after a mortgage fraud investigation.",
@@ -264,24 +291,6 @@
         "what": "Lenders face a paradigm shift as technology and market changes disrupt the mortgage industry",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-lenders-tech-paradigm-shift/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "HUD seeks public feedback on HECM, HMBS programs",
-        "url": "https://www.housingwire.com/articles/hud-reverse-mortgage-improvements/",
-        "what": "HUD is seeking public comments on potential improvements to its reverse mortgage programs to help shape future policy changes.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-reverse-mortgage-improvements/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Milo’s Josip Rupena on increasing client wealth through crypto lending",
-        "url": "https://www.housingwire.com/articles/milo-crypto-mortgage-wealth/",
-        "what": "Milo's crypto mortgage model, which allows clients to buy homes without selling Bitcoin, has increased client wealth by $100 million.",
-        "numbers": "$100 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/milo-crypto-mortgage-wealth/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -329,15 +338,6 @@
         "what": "A chilling scam against Florida agents reveals how AI tools are empowering criminals",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/ai-scams-target-florida-real-estate-agents-cybersecurity/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "David Townsend inducted as president of ALTA",
-        "url": "https://www.housingwire.com/articles/david-townsend-inducted-as-president-of-alta/",
-        "what": "With more than 20 years of experience in the title insurance industry, Townsend brings a record of leadership and service to the role.",
-        "numbers": "20",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/david-townsend-inducted-as-president-of-alta/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
