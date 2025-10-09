@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-09 11:26 UTC",
+  "as_of": "2025-10-09 12:59 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Proof launches new secure digital identity tool Certify",
+      "link": "https://www.housingwire.com/articles/proof-launches-new-secure-digital-identity-tool-certify/",
+      "published": "Thu, 09 Oct 2025"
+    },
+    {
       "title": "Realtor.com launches AI-powered home search tool",
       "link": "https://www.housingwire.com/articles/realtor-com-launches-ai-powered-home-search-tool/",
       "published": "Thu, 09 Oct 2025"
@@ -165,9 +170,9 @@
       "published": "Wed, 08 Oct 2025"
     },
     {
-      "title": "Illinois offers affordable entry points for first-time buyers",
-      "link": "https://www.housingwire.com/articles/illinois-first-time-buyers-affordable-entry-points/",
-      "published": "Wed, 08 Oct 2025"
+      "title": "More Home Sellers Test the Market, But Buyers Aren’t Budging",
+      "link": "https://www.redfin.com/news/housing-market-update-more-sellers-list-homes/",
+      "published": "Thu, 09 Oct 2025"
     },
     {
       "title": "17% of Americans Are Delaying a Major Purchase Like a Home or Car Due to Government Shutdown. 65% Are Undeterred.",
@@ -193,15 +198,19 @@
       "title": "Home Sellers Are Cutting Prices at a Record Rate to Lure Skittish Buyers",
       "link": "https://www.redfin.com/news/price-drops-record-rate-august-2025/",
       "published": "Thu, 02 Oct 2025"
-    },
-    {
-      "title": "Pending Home Sales Slide, But There Are Bright Spots: Buyers Have Bargaining Power, Starter-Home Sales Improving",
-      "link": "https://www.redfin.com/news/housing-market-update-prospective-homebuyers-back-away/",
-      "published": "Thu, 02 Oct 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "More Home Sellers Test the Market, But Buyers Aren’t Budging",
+        "url": "https://www.redfin.com/news/housing-market-update-more-sellers-list-homes/",
+        "what": "Pending home sales are declining, with some house hunters waiting for mortgage rates to drop lower and some feeling jittery about the economy",
+        "numbers": "2.3, 5,",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-more-sellers-list-homes/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Don’t get left behind: Why your title company needs a tech partner built on these 4 pillars",
         "url": "https://www.housingwire.com/articles/dont-get-left-behind-why-your-title-company-needs-a-tech-partner-built-on-these-4-pillars/",
@@ -235,15 +244,6 @@
         "what": "Last Week In A Nutshell Rates eased due to a surprisingly negative ADP jobs report, which stayed in the spotlight as the government shutdown sidelined the official jobs report",
         "numbers": "220,000",
         "justified": "redfin.com — https://www.redfin.com/news/weekly-economics-update-october-6/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Pending Home Sales Slide, But There Are Bright Spots: Buyers Have Bargaining Power, Starter-Home Sales Improving",
-        "url": "https://www.redfin.com/news/housing-market-update-prospective-homebuyers-back-away/",
-        "what": "Pending U.S",
-        "numbers": "1",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-prospective-homebuyers-back-away/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
@@ -302,18 +302,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/more-condo-sellers-than-buyers/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Home Sellers Are Cutting Prices at a Record Rate to Lure Skittish Buyers",
-        "url": "https://www.redfin.com/news/price-drops-record-rate-august-2025/",
-        "what": "The typical home that sold in August went for nearly 4% under its asking price–the steepest discount for that month since 2019",
-        "numbers": "4, 2019., 16.7, 15.9, 2012.",
-        "justified": "redfin.com — https://www.redfin.com/news/price-drops-record-rate-august-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
+      {
+        "title": "Proof launches new secure digital identity tool Certify",
+        "url": "https://www.housingwire.com/articles/proof-launches-new-secure-digital-identity-tool-certify/",
+        "what": "Proof's new product, Certify, allows users to embed their identity in everything they do online, creating verifiable records.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/proof-launches-new-secure-digital-identity-tool-certify/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Anne Winicki joins Scenic Sotheby’s International Realty in Florida",
         "url": "https://www.housingwire.com/articles/anne-winicki-joins-scenic-sothebys-international-realty-in-florida/",
@@ -340,15 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/alta-good-deeds-foundation-awards-105k-in-grants-honors-late-board-chair/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "David vs. Goliath: why the Compass–Anywhere deal is a win for the little guys",
-        "url": "https://www.housingwire.com/articles/david-vs-goliath-why-the-compass-anywhere-deal-is-a-win-for-the-little-guys/",
-        "what": "Discover why San Francisco's boutique real estate agencies are poised for success in the wake of the Compass-Anywhere merger",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/david-vs-goliath-why-the-compass-anywhere-deal-is-a-win-for-the-little-guys/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
