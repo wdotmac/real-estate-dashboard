@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-10 07:28 UTC",
+  "as_of": "2025-10-10 08:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "From simple automation to embedded intelligence: The future of AI in mortgage lending",
+      "link": "https://www.housingwire.com/articles/from-simple-automation-to-embedded-intelligence-the-future-of-ai-in-mortgage-lending/",
+      "published": "Fri, 10 Oct 2025"
+    },
+    {
+      "title": "I closed a $4M crypto asset depletion loan",
+      "link": "https://www.housingwire.com/articles/i-closed-a-4m-crypto-asset-depletion-loan/",
+      "published": "Fri, 10 Oct 2025"
+    },
+    {
       "title": "Colorado housing market sees wider price cuts ahead of ski season",
       "link": "https://www.housingwire.com/articles/colorado-housing-market-price-cuts/",
       "published": "Thu, 09 Oct 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Most Americans use AI for housing market data",
       "link": "https://www.housingwire.com/articles/ai-reshapes-real-estate/",
-      "published": "Thu, 09 Oct 2025"
-    },
-    {
-      "title": "New York AG Letitia James indicted on mortgage fraud charge",
-      "link": "https://www.housingwire.com/articles/new-york-ag-letitia-james-indicted-mortgage-fraud/",
-      "published": "Thu, 09 Oct 2025"
-    },
-    {
-      "title": "Foreclosure activity edges higher in Q3 2025",
-      "link": "https://www.housingwire.com/articles/foreclosures-edge-higher-in-q3-2025/",
       "published": "Thu, 09 Oct 2025"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Watchdog urges Fed to investigate Fifth Third–Comerica merger",
-        "url": "https://www.housingwire.com/articles/fifth-third-comerica-merger-opposition/",
-        "what": "Fair Finance Watch opposes Fifth Third's acquisition of Comerica, citing disparities in mortgage lending",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fifth-third-comerica-merger-opposition/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "More Home Sellers Test the Market, But Buyers Aren’t Budging",
         "url": "https://www.redfin.com/news/housing-market-update-more-sellers-list-homes/",
         "what": "Pending home sales are declining, with some house hunters waiting for mortgage rates to drop lower and some feeling jittery about the economy",
@@ -240,6 +231,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "From simple automation to embedded intelligence: The future of AI in mortgage lending",
+        "url": "https://www.housingwire.com/articles/from-simple-automation-to-embedded-intelligence-the-future-of-ai-in-mortgage-lending/",
+        "what": "Institutions that move quickly from pilots to practice, with use cases that lower costs and strengthen relationships, will set the pace for the industry",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/from-simple-automation-to-embedded-intelligence-the-future-of-ai-in-mortgage-lending/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "I closed a $4M crypto asset depletion loan",
+        "url": "https://www.housingwire.com/articles/i-closed-a-4m-crypto-asset-depletion-loan/",
+        "what": "This month, we secured underwriting approval on one of the most unique loans I’ve ever worked on: a $4 million non-QM mortgage using crypto asset depletion to qualify",
+        "numbers": "$4 million, $8 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/i-closed-a-4m-crypto-asset-depletion-loan/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Colorado housing market sees wider price cuts ahead of ski season",
         "url": "https://www.housingwire.com/articles/colorado-housing-market-price-cuts/",
@@ -329,15 +338,6 @@
         "what": "The Jason Mitchell Group announced a partnership with Roam, giving its agents access to Roam’s home search platform.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/jason-mitchell-group-roam-team-up/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Florida brokerage endures a nightmare and lesson in real estate cybersecurity",
-        "url": "https://www.housingwire.com/articles/ai-scams-target-florida-real-estate-agents-cybersecurity/",
-        "what": "A chilling scam against Florida agents reveals how AI tools are empowering criminals",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-scams-target-florida-real-estate-agents-cybersecurity/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
