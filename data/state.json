@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-13 21:26 UTC",
+  "as_of": "2025-10-13 22:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Dallas housing market shows steady demand as inventory expands",
+      "link": "https://www.housingwire.com/articles/dallas-housing-market/",
+      "published": "Mon, 13 Oct 2025"
+    },
+    {
       "title": "Miami has the world’s biggest housing bubble. Local experts reject that label",
       "link": "https://www.housingwire.com/articles/miami-overvalued-housing-market/",
       "published": "Mon, 13 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Los Angeles home prices level off as new listings trend lower",
       "link": "https://www.housingwire.com/articles/los-angeles-housing-market/",
-      "published": "Mon, 13 Oct 2025"
-    },
-    {
-      "title": "NY couple claims Zillow, First Street’s climate risk data harmed home sale",
-      "link": "https://www.housingwire.com/articles/ny-couple-claims-zillows-climate-risk-data-harmed-home-sale/",
       "published": "Mon, 13 Oct 2025"
     },
     {
@@ -223,6 +223,15 @@
     ],
     "housing": [
       {
+        "title": "Dallas housing market shows steady demand as inventory expands",
+        "url": "https://www.housingwire.com/articles/dallas-housing-market/",
+        "what": "Dallas housing activity remains solid with expanding inventory and steady demand, HW Data shows last week.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/dallas-housing-market/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Miami has the world’s biggest housing bubble. Local experts reject that label",
         "url": "https://www.housingwire.com/articles/miami-overvalued-housing-market/",
         "what": "Experts say the report ignores key Miami market drivers",
@@ -275,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/san-francisco-housing-market-october-2025/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "RMI targets forward LOs with Reverse Qualifier tool",
-        "url": "https://www.housingwire.com/articles/reverse-mortgage-tool-simplifies-process/",
-        "what": "Reverse Market Insight has launched a Reverse Qualifier tool to simplify reverse mortgage processes for forward loan originators.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-tool-simplifies-process/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Homebuyers Are Canceling Deals at a Record Rate. Here’s Why.",
