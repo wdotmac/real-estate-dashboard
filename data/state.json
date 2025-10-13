@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-13 17:30 UTC",
+  "as_of": "2025-10-13 18:40 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Investor premiums are pricing out first-time homebuyers",
+      "link": "https://www.housingwire.com/articles/investors-drive-up-home-prices/",
+      "published": "Mon, 13 Oct 2025"
+    },
+    {
+      "title": "San Francisco metro housing market remains highly competitive",
+      "link": "https://www.housingwire.com/articles/san-francisco-housing-market-october-2025/",
+      "published": "Mon, 13 Oct 2025"
+    },
+    {
+      "title": "LendingTree CEO Doug Lebda killed in accident",
+      "link": "https://www.housingwire.com/articles/doug-lebda-dies-atv-accident/",
+      "published": "Mon, 13 Oct 2025"
+    },
+    {
       "title": "RMI targets forward LOs with Reverse Qualifier tool",
       "link": "https://www.housingwire.com/articles/reverse-mortgage-tool-simplifies-process/",
       "published": "Mon, 13 Oct 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Payload integrates with eXp Realty platforms",
       "link": "https://www.housingwire.com/articles/payload-integrates-with-exp-realty-platforms/",
-      "published": "Mon, 13 Oct 2025"
-    },
-    {
-      "title": "Rick Calle returns to loanDepot as chief strategy officer",
-      "link": "https://www.housingwire.com/articles/rick-calle-loandepot-strategy/",
-      "published": "Mon, 13 Oct 2025"
-    },
-    {
-      "title": "Optimal Blue antitrust case draws parallels to commission lawsuits, RealPage",
-      "link": "https://www.housingwire.com/articles/optimal-blue-antitrust-lawsuit/",
-      "published": "Mon, 13 Oct 2025"
-    },
-    {
-      "title": "Why title insurance is essential to secure, affordable homeownership",
-      "link": "https://www.housingwire.com/articles/why-title-insurance-is-essential-to-secure-affordable-homeownership/",
       "published": "Mon, 13 Oct 2025"
     },
     {
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "San Francisco metro housing market remains highly competitive",
+        "url": "https://www.housingwire.com/articles/san-francisco-housing-market-october-2025/",
+        "what": "San Francisco home prices remain strong with tight inventory and brisk sales",
+        "numbers": "2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/san-francisco-housing-market-october-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "RMI targets forward LOs with Reverse Qualifier tool",
         "url": "https://www.housingwire.com/articles/reverse-mortgage-tool-simplifies-process/",
         "what": "Reverse Market Insight has launched a Reverse Qualifier tool to simplify reverse mortgage processes for forward loan originators.",
@@ -268,15 +277,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Tech Pulse: Mortgage leaders stress forward thinking",
-        "url": "https://www.housingwire.com/articles/tech-pulse-mortgage-leaders-stress-forward-thinking/",
-        "what": "Discover the latest tech trends in real estate such as AI, crypto, digital identity tools and cybersecurity challenges.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tech-pulse-mortgage-leaders-stress-forward-thinking/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Homebuyers Are Canceling Deals at a Record Rate. Here’s Why.",
         "url": "https://www.redfin.com/news/home-purchase-cancellations-august-2025/",
         "what": "Roughly 56,000 U.S",
@@ -287,6 +287,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "Investor premiums are pricing out first-time homebuyers",
+        "url": "https://www.housingwire.com/articles/investors-drive-up-home-prices/",
+        "what": "Investors are paying premiums on homes and outbidding borrowers, making it harder for first-time buyers to compete.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/investors-drive-up-home-prices/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "LendingTree CEO Doug Lebda killed in accident",
+        "url": "https://www.housingwire.com/articles/doug-lebda-dies-atv-accident/",
+        "what": "Doug Lebda, the founder, chairman and CEO of LendingTree, died Sunday in an all-terrain vehicle accident, the company’s board of directors announced.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/doug-lebda-dies-atv-accident/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Rick Calle returns to loanDepot as chief strategy officer",
         "url": "https://www.housingwire.com/articles/rick-calle-loandepot-strategy/",
@@ -302,24 +320,6 @@
         "what": "The 81-page complaint claims that the lenders who share information about their loans on Optimal Blue are part of a “cartel,” and that it's an example of “concerted action.”",
         "numbers": "81",
         "justified": "housingwire.com — https://www.housingwire.com/articles/optimal-blue-antitrust-lawsuit/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Slocum Home Team joins eXp Realty after 76 years in Rhode Island",
-        "url": "https://www.housingwire.com/articles/slocum-home-team-joins-exp-realty-after-76-years-in-rhode-island/",
-        "what": "The team has served more than 249 families in the past year",
-        "numbers": "249, $109 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/slocum-home-team-joins-exp-realty-after-76-years-in-rhode-island/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Compass adds the Salaverri Windsor Group in Florida",
-        "url": "https://www.housingwire.com/articles/compass-adds-the-salaverri-windsor-group-in-florida/",
-        "what": "The team has more than 30 years of combined experience in real estate",
-        "numbers": "30, $450 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-adds-the-salaverri-windsor-group-in-florida/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
