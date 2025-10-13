@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-13 20:31 UTC",
+  "as_of": "2025-10-13 21:26 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Miami has the world’s biggest housing bubble. Local experts reject that label",
+      "link": "https://www.housingwire.com/articles/miami-overvalued-housing-market/",
+      "published": "Mon, 13 Oct 2025"
+    },
+    {
+      "title": "Washington, D.C. housing market steady as sellers keep edge",
+      "link": "https://www.housingwire.com/articles/washington-d-c-housing-market/",
+      "published": "Mon, 13 Oct 2025"
+    },
+    {
       "title": "NAR unveils new value proposition as it looks ahead",
       "link": "https://www.housingwire.com/articles/nar-unveils-new-value-proposition-as-it-looks-ahead/",
       "published": "Mon, 13 Oct 2025"
@@ -157,16 +167,6 @@
     {
       "title": "NY couple claims Zillow, First Street’s climate risk data harmed home sale",
       "link": "https://www.housingwire.com/articles/ny-couple-claims-zillows-climate-risk-data-harmed-home-sale/",
-      "published": "Mon, 13 Oct 2025"
-    },
-    {
-      "title": "Investor premiums are pricing out first-time homebuyers",
-      "link": "https://www.housingwire.com/articles/investors-drive-up-home-prices/",
-      "published": "Mon, 13 Oct 2025"
-    },
-    {
-      "title": "San Francisco metro housing market remains highly competitive",
-      "link": "https://www.housingwire.com/articles/san-francisco-housing-market-october-2025/",
       "published": "Mon, 13 Oct 2025"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Payload integrates with eXp Realty platforms",
-        "url": "https://www.housingwire.com/articles/payload-integrates-with-exp-realty-platforms/",
-        "what": "eXp Realty and Payload are partnering up to launch an integration that allows the brokerage to automate is payment workflows.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/payload-integrates-with-exp-realty-platforms/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "More Home Sellers Test the Market, But Buyers Aren’t Budging",
         "url": "https://www.redfin.com/news/housing-market-update-more-sellers-list-homes/",
         "what": "Pending home sales are declining, with some house hunters waiting for mortgage rates to drop lower and some feeling jittery about the economy",
@@ -231,6 +222,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Miami has the world’s biggest housing bubble. Local experts reject that label",
+        "url": "https://www.housingwire.com/articles/miami-overvalued-housing-market/",
+        "what": "Experts say the report ignores key Miami market drivers",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/miami-overvalued-housing-market/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Washington, D.C. housing market steady as sellers keep edge",
+        "url": "https://www.housingwire.com/articles/washington-d-c-housing-market/",
+        "what": "Washington, D.C",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/washington-d-c-housing-market/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "PHH Mortgage unveils revamped non-QM options",
         "url": "https://www.housingwire.com/articles/phh-mortgage-flexiq-launch/",
@@ -275,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-tool-simplifies-process/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Zillow Rentals launches Listing Spotlight feature",
-        "url": "https://www.housingwire.com/articles/zillow-rentals-launches-listing-spotlight-feature/",
-        "what": "Property managers can now shine a spotlight on the listings of their choosing through new Zillow Rentals feature.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-rentals-launches-listing-spotlight-feature/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Homebuyers Are Canceling Deals at a Record Rate. Here’s Why.",
