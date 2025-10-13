@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-13 19:24 UTC",
+  "as_of": "2025-10-13 20:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "NAR unveils new value proposition as it looks ahead",
+      "link": "https://www.housingwire.com/articles/nar-unveils-new-value-proposition-as-it-looks-ahead/",
+      "published": "Mon, 13 Oct 2025"
+    },
+    {
+      "title": "PHH Mortgage unveils revamped non-QM options",
+      "link": "https://www.housingwire.com/articles/phh-mortgage-flexiq-launch/",
+      "published": "Mon, 13 Oct 2025"
+    },
+    {
+      "title": "Los Angeles home prices level off as new listings trend lower",
+      "link": "https://www.housingwire.com/articles/los-angeles-housing-market/",
+      "published": "Mon, 13 Oct 2025"
+    },
+    {
       "title": "NY couple claims Zillow, First Street’s climate risk data harmed home sale",
       "link": "https://www.housingwire.com/articles/ny-couple-claims-zillows-climate-risk-data-harmed-home-sale/",
       "published": "Mon, 13 Oct 2025"
@@ -152,21 +167,6 @@
     {
       "title": "San Francisco metro housing market remains highly competitive",
       "link": "https://www.housingwire.com/articles/san-francisco-housing-market-october-2025/",
-      "published": "Mon, 13 Oct 2025"
-    },
-    {
-      "title": "LendingTree CEO Doug Lebda killed in accident",
-      "link": "https://www.housingwire.com/articles/doug-lebda-dies-atv-accident/",
-      "published": "Mon, 13 Oct 2025"
-    },
-    {
-      "title": "RMI targets forward LOs with Reverse Qualifier tool",
-      "link": "https://www.housingwire.com/articles/reverse-mortgage-tool-simplifies-process/",
-      "published": "Mon, 13 Oct 2025"
-    },
-    {
-      "title": "Zillow Rentals launches Listing Spotlight feature",
-      "link": "https://www.housingwire.com/articles/zillow-rentals-launches-listing-spotlight-feature/",
       "published": "Mon, 13 Oct 2025"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Why title insurance is essential to secure, affordable homeownership",
-        "url": "https://www.housingwire.com/articles/why-title-insurance-is-essential-to-secure-affordable-homeownership/",
-        "what": "The Federal Reserve’s decision this month to cut its benchmark interest rate by 25 basis points was encouraging news for Americans eager to become homeowners",
-        "numbers": "25, 2024,, 30, 6.39, 29",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/why-title-insurance-is-essential-to-secure-affordable-homeownership/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "More Home Sellers Test the Market, But Buyers Aren’t Budging",
         "url": "https://www.redfin.com/news/housing-market-update-more-sellers-list-homes/",
         "what": "Pending home sales are declining, with some house hunters waiting for mortgage rates to drop lower and some feeling jittery about the economy",
@@ -240,6 +231,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "PHH Mortgage unveils revamped non-QM options",
+        "url": "https://www.housingwire.com/articles/phh-mortgage-flexiq-launch/",
+        "what": "PHH Mortgage introduces FlexIQ, a new non-QM product suite, to enhance non-agency offerings and support diverse borrowers.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/phh-mortgage-flexiq-launch/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Los Angeles home prices level off as new listings trend lower",
+        "url": "https://www.housingwire.com/articles/los-angeles-housing-market/",
+        "what": "Los Angeles home prices show signs of softening as new listings trend below current medians",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/los-angeles-housing-market/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "NY couple claims Zillow, First Street’s climate risk data harmed home sale",
         "url": "https://www.housingwire.com/articles/ny-couple-claims-zillows-climate-risk-data-harmed-home-sale/",
@@ -288,6 +297,15 @@
     ],
     "notables": [
       {
+        "title": "NAR unveils new value proposition as it looks ahead",
+        "url": "https://www.housingwire.com/articles/nar-unveils-new-value-proposition-as-it-looks-ahead/",
+        "what": "NAR CEO Nykia Wright discussed how NAR is aiming for increased transparency as she unveiled parts of its 2026-2028 Strategic Plan.",
+        "numbers": "2026, 2028",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-unveils-new-value-proposition-as-it-looks-ahead/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Investor premiums are pricing out first-time homebuyers",
         "url": "https://www.housingwire.com/articles/investors-drive-up-home-prices/",
         "what": "Investors are paying premiums on homes and outbidding borrowers, making it harder for first-time buyers to compete.",
@@ -302,24 +320,6 @@
         "what": "Doug Lebda, the founder, chairman and CEO of LendingTree, died Sunday in an all-terrain vehicle accident, the company’s board of directors announced.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/doug-lebda-dies-atv-accident/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Rick Calle returns to loanDepot as chief strategy officer",
-        "url": "https://www.housingwire.com/articles/rick-calle-loandepot-strategy/",
-        "what": "Rick Calle has returned to loanDepot as chief strategy officer to oversee mergers and acquisitions (M&A) and revenue operations.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rick-calle-loandepot-strategy/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Optimal Blue antitrust case draws parallels to commission lawsuits, RealPage",
-        "url": "https://www.housingwire.com/articles/optimal-blue-antitrust-lawsuit/",
-        "what": "The 81-page complaint claims that the lenders who share information about their loans on Optimal Blue are part of a “cartel,” and that it's an example of “concerted action.”",
-        "numbers": "81",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/optimal-blue-antitrust-lawsuit/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
