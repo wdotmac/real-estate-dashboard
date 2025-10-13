@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-13 16:37 UTC",
+  "as_of": "2025-10-13 17:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "RMI targets forward LOs with Reverse Qualifier tool",
+      "link": "https://www.housingwire.com/articles/reverse-mortgage-tool-simplifies-process/",
+      "published": "Mon, 13 Oct 2025"
+    },
+    {
       "title": "Zillow Rentals launches Listing Spotlight feature",
       "link": "https://www.housingwire.com/articles/zillow-rentals-launches-listing-spotlight-feature/",
       "published": "Mon, 13 Oct 2025"
@@ -163,11 +168,6 @@
       "title": "Why title insurance is essential to secure, affordable homeownership",
       "link": "https://www.housingwire.com/articles/why-title-insurance-is-essential-to-secure-affordable-homeownership/",
       "published": "Mon, 13 Oct 2025"
-    },
-    {
-      "title": "Did housing inventory peak in August this year?",
-      "link": "https://www.housingwire.com/articles/housing-inventory-peak-2025/",
-      "published": "Sat, 11 Oct 2025"
     },
     {
       "title": "More Home Sellers Test the Market, But Buyers Aren’t Budging",
@@ -237,18 +237,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/delaying-home-car-purchase-government-shutdown/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Redfin Economists’ Weekly Take: All Eyes on Fed Speeches as Markets Continue to Fly Data-Blind",
-        "url": "https://www.redfin.com/news/weekly-economics-update-october-6/",
-        "what": "Last Week In A Nutshell Rates eased due to a surprisingly negative ADP jobs report, which stayed in the spotlight as the government shutdown sidelined the official jobs report",
-        "numbers": "220,000",
-        "justified": "redfin.com — https://www.redfin.com/news/weekly-economics-update-october-6/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "RMI targets forward LOs with Reverse Qualifier tool",
+        "url": "https://www.housingwire.com/articles/reverse-mortgage-tool-simplifies-process/",
+        "what": "Reverse Market Insight has launched a Reverse Qualifier tool to simplify reverse mortgage processes for forward loan originators.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-tool-simplifies-process/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Zillow Rentals launches Listing Spotlight feature",
         "url": "https://www.housingwire.com/articles/zillow-rentals-launches-listing-spotlight-feature/",
@@ -275,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/tech-pulse-mortgage-leaders-stress-forward-thinking/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Suspected $100M real estate fraud scheme uncovered in Baltimore",
-        "url": "https://www.housingwire.com/articles/suspected-100m-real-estate-fraud-scheme-uncovered-in-baltimore/",
-        "what": "Investors are accused of taking out $100 million in DSCR loans from dozens of private lenders",
-        "numbers": "$100 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/suspected-100m-real-estate-fraud-scheme-uncovered-in-baltimore/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "Homebuyers Are Canceling Deals at a Record Rate. Here’s Why.",
