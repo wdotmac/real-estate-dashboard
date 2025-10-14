@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-10-14 19:25 UTC",
+  "as_of": "2025-10-14 20:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.14,
-      "delta_bp_1d": 0.9999999999999787
+      "yield_pct": 4.05,
+      "delta_bp_1d": -8.999999999999986
     },
     "mortgage_30y": {
       "rate_pct": 6.3,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "ADU innovation spells affordable housing progress in North Carolina",
+      "link": "https://www.housingwire.com/articles/adu-innovation-spells-affordable-housing-progress-in-north-carolina/",
+      "published": "Tue, 14 Oct 2025"
+    },
+    {
+      "title": "Buyer agency agreements test limits of real estate agent-buyer trust",
+      "link": "https://www.housingwire.com/articles/buyer-agency-agreements-test-limits-of-agent-buyer-trust/",
+      "published": "Tue, 14 Oct 2025"
+    },
+    {
+      "title": "Big banks beat Q3 earnings expectations, with modest growth in mortgages",
+      "link": "https://www.housingwire.com/articles/big-banks-q3-earnings/",
+      "published": "Tue, 14 Oct 2025"
+    },
+    {
       "title": "Finance of America partners with Better to expand into home equity lending",
       "link": "https://www.housingwire.com/articles/finance-of-america-partners-with-better-to-expand-into-home-equity-lending/",
       "published": "Tue, 14 Oct 2025"
@@ -155,18 +170,8 @@
       "published": "Tue, 14 Oct 2025"
     },
     {
-      "title": "Mortgage rates aren’t budging during the shutdown. How long will it last?",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-steady-shutdown/",
-      "published": "Tue, 14 Oct 2025"
-    },
-    {
-      "title": "Stellar MLS, BeachesMLS enter data sharing agreement",
-      "link": "https://www.housingwire.com/articles/stellar-mls-beachesmls-enter-data-sharing-agreement/",
-      "published": "Tue, 14 Oct 2025"
-    },
-    {
-      "title": "Floify launches Dynamic AI data extraction tool",
-      "link": "https://www.housingwire.com/articles/floify-launches-dynamic-ai-data-extraction-tool/",
+      "title": "Redfin Economists’ Weekly Take: China Trade Tensions Push Mortgage Rates Lower",
+      "link": "https://www.redfin.com/news/weekly-economics-update-october-14/",
       "published": "Tue, 14 Oct 2025"
     },
     {
@@ -193,15 +198,28 @@
       "title": "There Are 72% More Condo Sellers Than Buyers in the U.S.",
       "link": "https://www.redfin.com/news/more-condo-sellers-than-buyers/",
       "published": "Mon, 06 Oct 2025"
-    },
-    {
-      "title": "Home Sellers Are Cutting Prices at a Record Rate to Lure Skittish Buyers",
-      "link": "https://www.redfin.com/news/price-drops-record-rate-august-2025/",
-      "published": "Thu, 02 Oct 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Big banks beat Q3 earnings expectations, with modest growth in mortgages",
+        "url": "https://www.housingwire.com/articles/big-banks-q3-earnings/",
+        "what": "Big banks Wells Fargo, JPMorgan and Citi exceeded Q3 earnings expectations, showcasing resilience amid economic challenges.",
+        "numbers": "3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/big-banks-q3-earnings/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Redfin Economists’ Weekly Take: China Trade Tensions Push Mortgage Rates Lower",
+        "url": "https://www.redfin.com/news/weekly-economics-update-october-14/",
+        "what": "Last Week In A Nutshell Rates ended the week about 10 bps lower following renewed trade tensions with China",
+        "numbers": "10, 24,",
+        "justified": "redfin.com — https://www.redfin.com/news/weekly-economics-update-october-14/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mat Ishbia reimagines servicing at UWM through Bilt rewards platform",
         "url": "https://www.housingwire.com/articles/uwm-bilt-mortgage-servicing/",
@@ -241,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "ADU innovation spells affordable housing progress in North Carolina",
+        "url": "https://www.housingwire.com/articles/adu-innovation-spells-affordable-housing-progress-in-north-carolina/",
+        "what": "What began a decade ago as a small real estate venture has evolved into one of the region’s most innovative build-to-rent programs.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/adu-innovation-spells-affordable-housing-progress-in-north-carolina/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
         "title": "Dark Matter expands Empower LOS with eClosing integration",
         "url": "https://www.housingwire.com/articles/dark-matter-empower-eclosing-integration/",
         "what": "Dark Matter's Empower LOS now features eClosing, streamlining digital mortgage closings and enhancing borrower experience.",
@@ -266,18 +293,18 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-and-esusu-expand-credit-building-for-renters/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "UWM to offer mortgage payment rewards in partnership with Bilt",
-        "url": "https://www.housingwire.com/articles/uwm-bilt-mortgage-rewards/",
-        "what": "Under the agreement announced on Tuesday, UWM customers will earn Bilt Points each time they make an on-time payment.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-bilt-mortgage-rewards/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
+      {
+        "title": "Buyer agency agreements test limits of real estate agent-buyer trust",
+        "url": "https://www.housingwire.com/articles/buyer-agency-agreements-test-limits-of-agent-buyer-trust/",
+        "what": "With more agents claiming clients are cutting them out of deals, industry leaders warn that lawsuits could harm reputations.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/buyer-agency-agreements-test-limits-of-agent-buyer-trust/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Finance of America partners with Better to expand into home equity lending",
         "url": "https://www.housingwire.com/articles/finance-of-america-partners-with-better-to-expand-into-home-equity-lending/",
@@ -293,24 +320,6 @@
         "what": "Floify's Dynamic AI automates document collection and data extraction, reducing manual entry and speeding up approvals.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/floify-launches-dynamic-ai-data-extraction-tool/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "PRMI appoints three division presidents",
-        "url": "https://www.housingwire.com/articles/prmi-appoints-three-division-presidents/",
-        "what": "PRMI appoints Eduardo Paras, Pete Roeske, and Paul Fitch as division presidents to drive growth and enhance its reach.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/prmi-appoints-three-division-presidents/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "loanDepot reunites ‘original architects’ of consumer direct model",
-        "url": "https://www.housingwire.com/articles/loandepot-reunites-original-architects-of-consumer-direct-model/",
-        "what": "The moves follow a series of leadership changes at the company since founder Anthony Hsieh returned as loanDepot's CEO.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/loandepot-reunites-original-architects-of-consumer-direct-model/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
