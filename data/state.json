@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-14 11:26 UTC",
+  "as_of": "2025-10-14 13:00 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Homes.com launches AI-powered ‘Smart Search’",
+      "link": "https://www.housingwire.com/articles/homes-com-launches-ai-powered-smart-search/",
+      "published": "Tue, 14 Oct 2025"
+    },
+    {
+      "title": "Vanguard report reveals gaps in US retirement readiness",
+      "link": "https://www.housingwire.com/articles/retirement-readiness-vanguard-report/",
+      "published": "Tue, 14 Oct 2025"
+    },
+    {
+      "title": "Xactus launches first borrower mortgage intent index",
+      "link": "https://www.housingwire.com/articles/xactus-mortgage-intent-index/",
+      "published": "Tue, 14 Oct 2025"
+    },
+    {
+      "title": "Real releases embedded lending solution",
+      "link": "https://www.housingwire.com/articles/real-wallet-capital-launch/",
+      "published": "Tue, 14 Oct 2025"
+    },
+    {
       "title": "Consumer-permissioned is the future. Is your business ready?",
       "link": "https://www.housingwire.com/articles/consumer-permissioned-is-the-future-is-your-business-ready/",
       "published": "Tue, 14 Oct 2025"
@@ -147,26 +167,6 @@
     {
       "title": "Dallas housing market shows steady demand as inventory expands",
       "link": "https://www.housingwire.com/articles/dallas-housing-market/",
-      "published": "Mon, 13 Oct 2025"
-    },
-    {
-      "title": "Miami has the world’s biggest housing bubble. Local experts reject that label",
-      "link": "https://www.housingwire.com/articles/miami-overvalued-housing-market/",
-      "published": "Mon, 13 Oct 2025"
-    },
-    {
-      "title": "Washington, D.C. housing market steady as sellers keep edge",
-      "link": "https://www.housingwire.com/articles/washington-d-c-housing-market/",
-      "published": "Mon, 13 Oct 2025"
-    },
-    {
-      "title": "NAR unveils new value proposition as it looks ahead",
-      "link": "https://www.housingwire.com/articles/nar-unveils-new-value-proposition-as-it-looks-ahead/",
-      "published": "Mon, 13 Oct 2025"
-    },
-    {
-      "title": "PHH Mortgage unveils revamped non-QM options",
-      "link": "https://www.housingwire.com/articles/phh-mortgage-flexiq-launch/",
       "published": "Mon, 13 Oct 2025"
     },
     {
@@ -223,6 +223,24 @@
     ],
     "housing": [
       {
+        "title": "Vanguard report reveals gaps in US retirement readiness",
+        "url": "https://www.housingwire.com/articles/retirement-readiness-vanguard-report/",
+        "what": "The report says younger groups appear better positioned than their parents due to wider access to workplace plans and improved plan options.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/retirement-readiness-vanguard-report/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Xactus launches first borrower mortgage intent index",
+        "url": "https://www.housingwire.com/articles/xactus-mortgage-intent-index/",
+        "what": "The index, updated daily, offers lenders and economists early insights into mortgage demand built from millions of credit pull transactions.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/xactus-mortgage-intent-index/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Dallas housing market shows steady demand as inventory expands",
         "url": "https://www.housingwire.com/articles/dallas-housing-market/",
         "what": "Dallas housing activity remains solid with expanding inventory and steady demand, HW Data shows last week.",
@@ -257,45 +275,27 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/phh-mortgage-flexiq-launch/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
+      }
+    ],
+    "notables": [
       {
-        "title": "Los Angeles home prices level off as new listings trend lower",
-        "url": "https://www.housingwire.com/articles/los-angeles-housing-market/",
-        "what": "Los Angeles home prices show signs of softening as new listings trend below current medians",
+        "title": "Homes.com launches AI-powered ‘Smart Search’",
+        "url": "https://www.housingwire.com/articles/homes-com-launches-ai-powered-smart-search/",
+        "what": "The new search tool allows users to look for homes using natural language rather than traditional filters or keywords.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/los-angeles-housing-market/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "NY couple claims Zillow, First Street’s climate risk data harmed home sale",
-        "url": "https://www.housingwire.com/articles/ny-couple-claims-zillows-climate-risk-data-harmed-home-sale/",
-        "what": "Andrew and Eri Uerkwitz claim that their property’s flood risk rating on Zillow caused prospective buyers to pass on their home.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ny-couple-claims-zillows-climate-risk-data-harmed-home-sale/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homes-com-launches-ai-powered-smart-search/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "San Francisco metro housing market remains highly competitive",
-        "url": "https://www.housingwire.com/articles/san-francisco-housing-market-october-2025/",
-        "what": "San Francisco home prices remain strong with tight inventory and brisk sales",
-        "numbers": "2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/san-francisco-housing-market-october-2025/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+        "title": "Real releases embedded lending solution",
+        "url": "https://www.housingwire.com/articles/real-wallet-capital-launch/",
+        "what": "Leaders said the new solution marks the first use of embedded lending technology in the residential brokerage industry.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-wallet-capital-launch/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
-      {
-        "title": "Homebuyers Are Canceling Deals at a Record Rate. Here’s Why.",
-        "url": "https://www.redfin.com/news/home-purchase-cancellations-august-2025/",
-        "what": "Roughly 56,000 U.S",
-        "numbers": "56,000, 15.1, 2017.",
-        "justified": "redfin.com — https://www.redfin.com/news/home-purchase-cancellations-august-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      }
-    ],
-    "notables": [
       {
         "title": "Consumer-permissioned is the future. Is your business ready?",
         "url": "https://www.housingwire.com/articles/consumer-permissioned-is-the-future-is-your-business-ready/",
@@ -313,15 +313,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/nar-unveils-new-value-proposition-as-it-looks-ahead/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Investor premiums are pricing out first-time homebuyers",
-        "url": "https://www.housingwire.com/articles/investors-drive-up-home-prices/",
-        "what": "Investors are paying premiums on homes and outbidding borrowers, making it harder for first-time buyers to compete.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/investors-drive-up-home-prices/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
