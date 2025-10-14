@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-14 13:00 UTC",
+  "as_of": "2025-10-14 13:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Experian makes VantageScore 4.0 free for mortgage lenders",
+      "link": "https://www.housingwire.com/articles/experian-makes-vantagescore-4-0-free-for-mortgage-lenders/",
+      "published": "Tue, 14 Oct 2025"
+    },
+    {
       "title": "Homes.com launches AI-powered ‘Smart Search’",
       "link": "https://www.housingwire.com/articles/homes-com-launches-ai-powered-smart-search/",
       "published": "Tue, 14 Oct 2025"
@@ -163,11 +168,6 @@
       "title": "Consumer-permissioned is the future. Is your business ready?",
       "link": "https://www.housingwire.com/articles/consumer-permissioned-is-the-future-is-your-business-ready/",
       "published": "Tue, 14 Oct 2025"
-    },
-    {
-      "title": "Dallas housing market shows steady demand as inventory expands",
-      "link": "https://www.housingwire.com/articles/dallas-housing-market/",
-      "published": "Mon, 13 Oct 2025"
     },
     {
       "title": "More Home Sellers Test the Market, But Buyers Aren’t Budging",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Experian makes VantageScore 4.0 free for mortgage lenders",
+        "url": "https://www.housingwire.com/articles/experian-makes-vantagescore-4-0-free-for-mortgage-lenders/",
+        "what": "Experian announced on Tuesday that it will offer VantageScore 4.0 for free to its mortgage clients in an effort to accelerate adoption.",
+        "numbers": "4.0",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/experian-makes-vantagescore-4-0-free-for-mortgage-lenders/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "More Home Sellers Test the Market, But Buyers Aren’t Budging",
         "url": "https://www.redfin.com/news/housing-market-update-more-sellers-list-homes/",
@@ -266,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/washington-d-c-housing-market/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "PHH Mortgage unveils revamped non-QM options",
-        "url": "https://www.housingwire.com/articles/phh-mortgage-flexiq-launch/",
-        "what": "PHH Mortgage introduces FlexIQ, a new non-QM product suite, to enhance non-agency offerings and support diverse borrowers.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/phh-mortgage-flexiq-launch/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
