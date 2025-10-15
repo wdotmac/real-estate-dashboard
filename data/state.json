@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-15 07:30 UTC",
+  "as_of": "2025-10-15 08:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "How Coldwell Banker is redefining real estate through lifestyle and legacy",
+      "link": "https://www.housingwire.com/articles/how-coldwell-banker-is-redefining-real-estate-through-lifestyle-and-legacy/",
+      "published": "Wed, 15 Oct 2025"
+    },
+    {
       "title": "Atlas VMS names Trey Cole VP of client engagement for AIM-Port",
       "link": "https://www.housingwire.com/articles/atlas-vms-trey-cole-vp-of-client-engagement-aim-port/",
       "published": "Tue, 14 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Buyer agency agreements test limits of real estate agent-buyer trust",
       "link": "https://www.housingwire.com/articles/buyer-agency-agreements-test-limits-of-agent-buyer-trust/",
-      "published": "Tue, 14 Oct 2025"
-    },
-    {
-      "title": "Big banks beat Q3 earnings expectations, with modest growth in mortgages",
-      "link": "https://www.housingwire.com/articles/big-banks-q3-earnings/",
       "published": "Tue, 14 Oct 2025"
     },
     {
@@ -230,15 +230,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage rates aren’t budging during the shutdown. How long will it last?",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-steady-shutdown/",
-        "what": "Roughly two weeks after the federal government shutdown, mortgage rates have yet to be impacted, but that’s not expected to last indefinitely.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-steady-shutdown/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "More Home Sellers Test the Market, But Buyers Aren’t Budging",
         "url": "https://www.redfin.com/news/housing-market-update-more-sellers-list-homes/",
         "what": "Pending home sales are declining, with some house hunters waiting for mortgage rates to drop lower and some feeling jittery about the economy",
@@ -258,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "How Coldwell Banker is redefining real estate through lifestyle and legacy",
+        "url": "https://www.housingwire.com/articles/how-coldwell-banker-is-redefining-real-estate-through-lifestyle-and-legacy/",
+        "what": "The new Coldwell Banker brand campaign marks a pivotal evolution for the 119-year-old real estate powerhouse",
+        "numbers": "119",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/how-coldwell-banker-is-redefining-real-estate-through-lifestyle-and-legacy/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "ADU innovation spells affordable housing progress in North Carolina",
         "url": "https://www.housingwire.com/articles/adu-innovation-spells-affordable-housing-progress-in-north-carolina/",
