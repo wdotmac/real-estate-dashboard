@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-15 11:27 UTC",
+  "as_of": "2025-10-15 13:00 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Rechat, Loft47 partner to streamline brokerage operations",
+      "link": "https://www.housingwire.com/articles/rechat-loft47-real-estate-brokerage-operations/",
+      "published": "Wed, 15 Oct 2025"
+    },
+    {
+      "title": "Blend Labs unveils AI system for lending",
+      "link": "https://www.housingwire.com/articles/blend-labs-unveils-ai-system-for-lending/",
+      "published": "Wed, 15 Oct 2025"
+    },
+    {
+      "title": "FHA refinance applications rise 12% amid mixed mortgage rates",
+      "link": "https://www.housingwire.com/articles/fha-refinance-applications-rise-12-amid-mixed-mortgage-rates/",
+      "published": "Wed, 15 Oct 2025"
+    },
+    {
+      "title": "Plaid introduces LendScore for real-time credit risk assessment",
+      "link": "https://www.housingwire.com/articles/plaid-lendscore-credit-risk/",
+      "published": "Wed, 15 Oct 2025"
+    },
+    {
       "title": "AI in title and escrow is a ‘force multiplier’ not a ‘job killer’",
       "link": "https://www.housingwire.com/articles/ai-title-and-escrow-a-force-multiplier-not-a-job-killer/",
       "published": "Wed, 15 Oct 2025"
@@ -148,26 +168,6 @@
       "title": "How Coldwell Banker is redefining real estate through lifestyle and legacy",
       "link": "https://www.housingwire.com/articles/how-coldwell-banker-is-redefining-real-estate-through-lifestyle-and-legacy/",
       "published": "Wed, 15 Oct 2025"
-    },
-    {
-      "title": "Atlas VMS names Trey Cole VP of client engagement for AIM-Port",
-      "link": "https://www.housingwire.com/articles/atlas-vms-trey-cole-vp-of-client-engagement-aim-port/",
-      "published": "Tue, 14 Oct 2025"
-    },
-    {
-      "title": "loanDepot claims West Capital Lending used illegal playbook to become a top brokerage",
-      "link": "https://www.housingwire.com/articles/loandepot-sues-wcl-illegal-practices/",
-      "published": "Tue, 14 Oct 2025"
-    },
-    {
-      "title": "Friday Harbor’s AI originator assistant now supports overlays",
-      "link": "https://www.housingwire.com/articles/friday-harbor-ai-loan-compliance/",
-      "published": "Tue, 14 Oct 2025"
-    },
-    {
-      "title": "ADU innovation spells affordable housing progress in North Carolina",
-      "link": "https://www.housingwire.com/articles/adu-innovation-spells-affordable-housing-progress-in-north-carolina/",
-      "published": "Tue, 14 Oct 2025"
     },
     {
       "title": "Redfin Economists’ Weekly Take: China Trade Tensions Push Mortgage Rates Lower",
@@ -203,13 +203,22 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Big banks beat Q3 earnings expectations, with modest growth in mortgages",
-        "url": "https://www.housingwire.com/articles/big-banks-q3-earnings/",
-        "what": "Big banks Wells Fargo, JPMorgan and Citi exceeded Q3 earnings expectations, showcasing resilience amid economic challenges.",
-        "numbers": "3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/big-banks-q3-earnings/",
+        "title": "FHA refinance applications rise 12% amid mixed mortgage rates",
+        "url": "https://www.housingwire.com/articles/fha-refinance-applications-rise-12-amid-mixed-mortgage-rates/",
+        "what": "Purchase applications declined for the third consecutive week but remained 20% ahead of last year’s pace, MBA reported.",
+        "numbers": "20",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-refinance-applications-rise-12-amid-mixed-mortgage-rates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Plaid introduces LendScore for real-time credit risk assessment",
+        "url": "https://www.housingwire.com/articles/plaid-lendscore-credit-risk/",
+        "what": "Plaid launches LendScore, a credit risk model using real-time cash flow data to show lenders a complete view of borrowers' financial situations.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/plaid-lendscore-credit-risk/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Redfin Economists’ Weekly Take: China Trade Tensions Push Mortgage Rates Lower",
@@ -226,15 +235,6 @@
         "what": "Pending home sales are declining, with some house hunters waiting for mortgage rates to drop lower and some feeling jittery about the economy",
         "numbers": "2.3, 5,",
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-more-sellers-list-homes/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "17% of Americans Are Delaying a Major Purchase Like a Home or Car Due to Government Shutdown. 65% Are Undeterred.",
-        "url": "https://www.redfin.com/news/delaying-home-car-purchase-government-shutdown/",
-        "what": "Some Americans are changing plans because they’re directly impacted by the shutdown, and others are wary of making a big purchase because of economic uncertainty",
-        "numbers": "17, 65",
-        "justified": "redfin.com — https://www.redfin.com/news/delaying-home-car-purchase-government-shutdown/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
@@ -257,18 +257,27 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/adu-innovation-spells-affordable-housing-progress-in-north-carolina/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Dark Matter expands Empower LOS with eClosing integration",
-        "url": "https://www.housingwire.com/articles/dark-matter-empower-eclosing-integration/",
-        "what": "Dark Matter's Empower LOS now features eClosing, streamlining digital mortgage closings and enhancing borrower experience.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/dark-matter-empower-eclosing-integration/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
+      {
+        "title": "Rechat, Loft47 partner to streamline brokerage operations",
+        "url": "https://www.housingwire.com/articles/rechat-loft47-real-estate-brokerage-operations/",
+        "what": "The integration allows deals created in Rechat to flow into Loft47’s back office for compliance checks, accounting and commission processing.",
+        "numbers": "47",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rechat-loft47-real-estate-brokerage-operations/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Blend Labs unveils AI system for lending",
+        "url": "https://www.housingwire.com/articles/blend-labs-unveils-ai-system-for-lending/",
+        "what": "Blend Labs introduces Intelligent Origination, an AI system designed to automate and enhance the lending process.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/blend-labs-unveils-ai-system-for-lending/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "AI in title and escrow is a ‘force multiplier’ not a ‘job killer’",
         "url": "https://www.housingwire.com/articles/ai-title-and-escrow-a-force-multiplier-not-a-job-killer/",
@@ -302,24 +311,6 @@
         "what": "Friday Harbor's AI Originator Assistant now includes overlays, enhancing loan compliance and credit quality control for lenders.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/friday-harbor-ai-loan-compliance/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Buyer agency agreements test limits of real estate agent-buyer trust",
-        "url": "https://www.housingwire.com/articles/buyer-agency-agreements-test-limits-of-agent-buyer-trust/",
-        "what": "With more agents claiming clients are cutting them out of deals, industry leaders warn that lawsuits could harm reputations.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/buyer-agency-agreements-test-limits-of-agent-buyer-trust/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Finance of America partners with Better to expand into home equity lending",
-        "url": "https://www.housingwire.com/articles/finance-of-america-partners-with-better-to-expand-into-home-equity-lending/",
-        "what": "The partnership enables FOA to offer new home equity products without building additional infrastructure, using Tinman’s plug-and-play AI technology.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/finance-of-america-partners-with-better-to-expand-into-home-equity-lending/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
