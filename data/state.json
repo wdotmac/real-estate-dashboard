@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-16 16:39 UTC",
+  "as_of": "2025-10-16 17:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "FHFA proposes 2026-2030 strategic plan, signaling shift under Trump administration",
+      "link": "https://www.housingwire.com/articles/fhfa-strategic-plan-2026-2030/",
+      "published": "Thu, 16 Oct 2025"
+    },
+    {
+      "title": "Real estate fraud uses forged signature of deceased",
+      "link": "https://www.housingwire.com/articles/real-estate-fraud-uses-forged-signature-of-deceased/",
+      "published": "Thu, 16 Oct 2025"
+    },
+    {
       "title": "New-home mortgage demand dips in September but remains above 2024 levels",
       "link": "https://www.housingwire.com/articles/new-home-mortgage-applications-september-2025/",
       "published": "Thu, 16 Oct 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Fathom acquires START Real Estate to focus on first-time buyers",
       "link": "https://www.housingwire.com/articles/fathom-acquires-start-real-estate-to-focus-on-first-time-buyers/",
-      "published": "Thu, 16 Oct 2025"
-    },
-    {
-      "title": "Howard Hanna enters NYC with Elegran Real Estate acquisition",
-      "link": "https://www.housingwire.com/articles/howard-hanna-enters-nyc-with-elegran-real-estate-acquisition/",
-      "published": "Thu, 16 Oct 2025"
-    },
-    {
-      "title": "Easing mortgage rates drive builder confidence higher",
-      "link": "https://www.housingwire.com/articles/homebuilder-confidence-rises/",
       "published": "Thu, 16 Oct 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "FHFA proposes 2026-2030 strategic plan, signaling shift under Trump administration",
+        "url": "https://www.housingwire.com/articles/fhfa-strategic-plan-2026-2030/",
+        "what": "The Federal Housing Finance Agency (FHFA) is seeking public feedback on its proposed strategic plan for 2026-2030, the agency announced Wednesday.",
+        "numbers": "2026, 2030,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-strategic-plan-2026-2030/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Easing mortgage rates drive builder confidence higher",
         "url": "https://www.housingwire.com/articles/homebuilder-confidence-rises/",
@@ -270,6 +279,15 @@
     ],
     "notables": [
       {
+        "title": "Real estate fraud uses forged signature of deceased",
+        "url": "https://www.housingwire.com/articles/real-estate-fraud-uses-forged-signature-of-deceased/",
+        "what": "A Cleveland woman says her late mother’s home was sold more than a decade after her death through a forged property deed.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-fraud-uses-forged-signature-of-deceased/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Longbridge highlights wholesale reverse tech at NRMLA meeting",
         "url": "https://www.housingwire.com/articles/longbridge-unveils-new-tech-tools/",
         "what": "Longbridge Financial showcased new tech tools and products at NRMLA, including Bridget AI and Equity Engine, to enhance partner growth.",
@@ -302,24 +320,6 @@
         "what": "Budget Director Russel Vought said he plans call to shutter the Consumer Financial Protection Bureau within the next two or three months.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/russell-vought-says-he-will-shut-down-cfpb/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "7 ways title companies can combat seller impersonation fraud",
-        "url": "https://www.housingwire.com/articles/7-ways-title-companies-can-combat-seller-impersonation-fraud/",
-        "what": "Let’s talk seller impersonation fraud",
-        "numbers": "2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/7-ways-title-companies-can-combat-seller-impersonation-fraud/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Compass adds the Andrade Group in South Florida",
-        "url": "https://www.housingwire.com/articles/compass-adds-the-andrade-group-in-south-florida/",
-        "what": "The Andrade Group has averaged $50 million in annual sales and closed hundreds of millions of dollars in deals during its 22-year history.",
-        "numbers": "$50 million, 22",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-adds-the-andrade-group-in-south-florida/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
