@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-17 11:27 UTC",
+  "as_of": "2025-10-17 12:58 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Thu, 16 Oct 2025"
     },
     {
+      "title": "29% of U.S. Home Purchases Are Made in Cash, Essentially Flat From a Year Ago",
+      "link": "https://www.redfin.com/news/all-cash-down-payments-2025/",
+      "published": "Fri, 17 Oct 2025"
+    },
+    {
       "title": "September’s Most Expensive Home Sales Include Ellen DeGeneres’ Former Montecito Mansion",
       "link": "https://www.redfin.com/news/most-expensive-home-sales-september-2025/",
       "published": "Thu, 16 Oct 2025"
@@ -193,15 +198,19 @@
       "title": "17% of Americans Are Delaying a Major Purchase Like a Home or Car Due to Government Shutdown. 65% Are Undeterred.",
       "link": "https://www.redfin.com/news/delaying-home-car-purchase-government-shutdown/",
       "published": "Wed, 08 Oct 2025"
-    },
-    {
-      "title": "Homebuyers Are Canceling Deals at a Record Rate. Here’s Why.",
-      "link": "https://www.redfin.com/news/home-purchase-cancellations-august-2025/",
-      "published": "Tue, 07 Oct 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "29% of U.S. Home Purchases Are Made in Cash, Essentially Flat From a Year Ago",
+        "url": "https://www.redfin.com/news/all-cash-down-payments-2025/",
+        "what": "29% of U.S",
+        "numbers": "29, 35, $70,000,",
+        "justified": "redfin.com — https://www.redfin.com/news/all-cash-down-payments-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "FHFA proposes 2026-2030 strategic plan, signaling shift under Trump administration",
         "url": "https://www.housingwire.com/articles/fhfa-strategic-plan-2026-2030/",
