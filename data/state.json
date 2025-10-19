@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-18 23:27 UTC",
+  "as_of": "2025-10-19 02:21 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Housing demand now reflects a positive trend",
+      "link": "https://www.housingwire.com/articles/housing-demand-now-reflects-a-positive-trend/",
+      "published": "Sun, 19 Oct 2025"
+    },
+    {
       "title": "Tech Pulse: Are MLS policies built for the ChatGPT era?",
       "link": "https://www.housingwire.com/articles/tech-pulse-housingwire-october-17-2025/",
       "published": "Fri, 17 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Big Sky Sotheby’s International Realty adds top Montana agents",
       "link": "https://www.housingwire.com/articles/big-sky-sothebys-international-realty-adds-top-montana-agents/",
-      "published": "Fri, 17 Oct 2025"
-    },
-    {
-      "title": "Senior homeowner wealth hits new record high of $14.4 trillion",
-      "link": "https://www.housingwire.com/articles/senior-homeowner-wealth-q2-2025/",
       "published": "Fri, 17 Oct 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Housing demand now reflects a positive trend",
+        "url": "https://www.housingwire.com/articles/housing-demand-now-reflects-a-positive-trend/",
+        "what": "The housing market has stabilized as mortgage rates have stayed below 6.64%, impacting housing demand and inventory.",
+        "numbers": "6.64",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-demand-now-reflects-a-positive-trend/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "TransUnion cuts VantageScore 4.0 pricing for mortgage lenders",
         "url": "https://www.housingwire.com/articles/transunion-vantagescore-4-0-pricing/",
@@ -273,15 +282,6 @@
         "what": "Movement Mortgage completes a three-year tech overhaul with the launch of MORE LOS, aiming to enhance efficiency and collaboration.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/movement-mortgage-unveils-more-los/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "American Pacific Mortgage names new CEO amid leadership transitions",
-        "url": "https://www.housingwire.com/articles/american-pacific-mortgage-ceo/",
-        "what": "American Pacific Mortgage announces a leadership transition as Bill Lowman retires and Dustin Sheppard becomes CEO.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/american-pacific-mortgage-ceo/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
