@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-20 07:30 UTC",
+  "as_of": "2025-10-20 08:39 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "A brave new world of lending — Powered by AI",
+      "link": "https://www.housingwire.com/articles/a-brave-new-world-of-lending-powered-by-ai/",
+      "published": "Mon, 20 Oct 2025"
+    },
+    {
+      "title": "If there’s a national housing emergency, let’s be honest about what It really means",
+      "link": "https://www.housingwire.com/articles/if-theres-a-national-housing-emergency-lets-be-honest-about-what-it-really-means/",
+      "published": "Mon, 20 Oct 2025"
+    },
+    {
       "title": "MBA forecasts $2.2T mortgage origination in 2026",
       "link": "https://www.housingwire.com/articles/mba-forecasts-2-2t-mortgage-origination-in-2026/",
       "published": "Mon, 20 Oct 2025"
@@ -158,16 +168,6 @@
       "title": "Housing demand now reflects a positive trend",
       "link": "https://www.housingwire.com/articles/housing-demand-now-reflects-a-positive-trend/",
       "published": "Sun, 19 Oct 2025"
-    },
-    {
-      "title": "Tech Pulse: Are MLS policies built for the ChatGPT era?",
-      "link": "https://www.housingwire.com/articles/tech-pulse-housingwire-october-17-2025/",
-      "published": "Fri, 17 Oct 2025"
-    },
-    {
-      "title": "TransUnion cuts VantageScore 4.0 pricing for mortgage lenders",
-      "link": "https://www.housingwire.com/articles/transunion-vantagescore-4-0-pricing/",
-      "published": "Fri, 17 Oct 2025"
     },
     {
       "title": "29% of U.S. Home Purchases Are Made in Cash, Essentially Flat From a Year Ago",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "If there’s a national housing emergency, let’s be honest about what It really means",
+        "url": "https://www.housingwire.com/articles/if-theres-a-national-housing-emergency-lets-be-honest-about-what-it-really-means/",
+        "what": "The Trump administration has hinted at declaring a national housing emergency",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/if-theres-a-national-housing-emergency-lets-be-honest-about-what-it-really-means/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Housing demand now reflects a positive trend",
         "url": "https://www.housingwire.com/articles/housing-demand-now-reflects-a-positive-trend/",
@@ -250,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "A brave new world of lending — Powered by AI",
+        "url": "https://www.housingwire.com/articles/a-brave-new-world-of-lending-powered-by-ai/",
+        "what": "Artificial intelligence has become the mortgage industry’s most powerful and most misunderstood new ally",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/a-brave-new-world-of-lending-powered-by-ai/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "MBA forecasts $2.2T mortgage origination in 2026",
         "url": "https://www.housingwire.com/articles/mba-forecasts-2-2t-mortgage-origination-in-2026/",
         "what": "Purchase originations are forecast to increase 7.7% to $1.46T next year and refinance originations are expected to increase 9.2% to $737B.",
@@ -257,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mba-forecasts-2-2t-mortgage-origination-in-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Senior homeowner wealth hits new record high of $14.4 trillion",
-        "url": "https://www.housingwire.com/articles/senior-homeowner-wealth-q2-2025/",
-        "what": "Senior homeowners saw their housing wealth grow to $14.39 trillion in Q2 2025, a 4% increase driven by rising home values.",
-        "numbers": "$14.39, 2, 2025,, 4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/senior-homeowner-wealth-q2-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "September’s Most Expensive Home Sales Include Ellen DeGeneres’ Former Montecito Mansion",
@@ -320,15 +329,6 @@
         "what": "The Phoenix Suns ownership dispute involving UWM CEO Mat Ishbia ends with a dismissal, as the parties agreed to cover their own legal fees.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/phoenix-suns-ownership-dispute-involving-uwms-ishbia-resolved-in-court/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Big Sky Sotheby’s International Realty adds top Montana agents",
-        "url": "https://www.housingwire.com/articles/big-sky-sothebys-international-realty-adds-top-montana-agents/",
-        "what": "The team ranks No",
-        "numbers": "1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/big-sky-sothebys-international-realty-adds-top-montana-agents/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
