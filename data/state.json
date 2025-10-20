@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-20 11:28 UTC",
+  "as_of": "2025-10-20 12:59 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Sun, 19 Oct 2025"
     },
     {
+      "title": "Homebuyers Are Scoring the Biggest Autumn Discounts Since 2019",
+      "link": "https://www.redfin.com/news/homebuyer-discounts-september-2025/",
+      "published": "Mon, 20 Oct 2025"
+    },
+    {
       "title": "29% of U.S. Home Purchases Are Made in Cash, Essentially Flat From a Year Ago",
       "link": "https://www.redfin.com/news/all-cash-down-payments-2025/",
       "published": "Fri, 17 Oct 2025"
@@ -193,11 +198,6 @@
       "title": "More Home Sellers Test the Market, But Buyers Aren’t Budging",
       "link": "https://www.redfin.com/news/housing-market-update-more-sellers-list-homes/",
       "published": "Thu, 09 Oct 2025"
-    },
-    {
-      "title": "17% of Americans Are Delaying a Major Purchase Like a Home or Car Due to Government Shutdown. 65% Are Undeterred.",
-      "link": "https://www.redfin.com/news/delaying-home-car-purchase-government-shutdown/",
-      "published": "Wed, 08 Oct 2025"
     }
   ],
   "feed_101020": {
@@ -258,6 +258,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Homebuyers Are Scoring the Biggest Autumn Discounts Since 2019",
+        "url": "https://www.redfin.com/news/homebuyer-discounts-september-2025/",
+        "what": "The typical home that sold last month went for 1.4% less than its final list price—the biggest September discount in six years—as a slow housing market empowered buyers to negotiate",
+        "numbers": "1.4, 50, 2019",
+        "justified": "redfin.com — https://www.redfin.com/news/homebuyer-discounts-september-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "A brave new world of lending — Powered by AI",
         "url": "https://www.housingwire.com/articles/a-brave-new-world-of-lending-powered-by-ai/",
