@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-21 16:38 UTC",
+  "as_of": "2025-10-21 17:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Trade groups push plan to let GSEs buy MBS to ease mortgage rates",
+      "link": "https://www.housingwire.com/articles/gse-buy-mbs-lower-mortgage-rates/",
+      "published": "Tue, 21 Oct 2025"
+    },
+    {
+      "title": "Why more homeowners are listing without agents — and regretting it",
+      "link": "https://www.housingwire.com/articles/selling-without-an-agent-regret/",
+      "published": "Tue, 21 Oct 2025"
+    },
+    {
+      "title": "It’s up to MLSs to decide if the Zillow-ChatGPT integration violates IDX policies",
+      "link": "https://www.housingwire.com/articles/mls-zillow-chatgpt-idx-compliance/",
+      "published": "Tue, 21 Oct 2025"
+    },
+    {
       "title": "Mark Spain Real Estate names new CEO; Spain transitions to executive chairman",
       "link": "https://www.housingwire.com/articles/mark-spain-real-estate-names-new-ceo-spain-transitions-to-executive-chairman/",
       "published": "Tue, 21 Oct 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Mountain Lakes Board of Realtors joins Hive MLS",
       "link": "https://www.housingwire.com/articles/mountain-lakes-board-of-realtors-joins-hive-mls/",
-      "published": "Tue, 21 Oct 2025"
-    },
-    {
-      "title": "eXp agent built top Omaha business by putting people first",
-      "link": "https://www.housingwire.com/articles/omaha-top-exp-agent-people-first/",
-      "published": "Tue, 21 Oct 2025"
-    },
-    {
-      "title": "10 real estate social media marketing strategies to grow your brand ( + top tools)",
-      "link": "https://www.housingwire.com/articles/real-estate-social-media-marketing/",
-      "published": "Tue, 21 Oct 2025"
-    },
-    {
-      "title": "CoStar disputes Zillow announcement, says clients can share Matterport tours on Zillow",
-      "link": "https://www.housingwire.com/articles/costar-disputes-zillow-announcement-says-clients-can-share-matterport-tours-on-zillow/",
       "published": "Tue, 21 Oct 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Trade groups push plan to let GSEs buy MBS to ease mortgage rates",
+        "url": "https://www.housingwire.com/articles/gse-buy-mbs-lower-mortgage-rates/",
+        "what": "Community lenders and bankers propose allowing Fannie Mae and Freddie Mac to purchase up to $300 billion in MBS as investor demand weakens.",
+        "numbers": "$300 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gse-buy-mbs-lower-mortgage-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Former LO sentenced in reverse mortgage fraud scheme",
         "url": "https://www.housingwire.com/articles/former-loan-officer-sentenced-fraud/",
@@ -241,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "It’s up to MLSs to decide if the Zillow-ChatGPT integration violates IDX policies",
+        "url": "https://www.housingwire.com/articles/mls-zillow-chatgpt-idx-compliance/",
+        "what": "NAR offers MLSs guidance as they each look to determine if the Zillow-ChatGPT app integration violates IDX policy.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-zillow-chatgpt-idx-compliance/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "CoStar disputes Zillow announcement, says clients can share Matterport tours on Zillow",
         "url": "https://www.housingwire.com/articles/costar-disputes-zillow-announcement-says-clients-can-share-matterport-tours-on-zillow/",
         "what": "Zillow removed Matterports from listings due to alleged changes to the terms of service, but CoStar says clients can share them ‘anywhere’.",
@@ -248,15 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/costar-disputes-zillow-announcement-says-clients-can-share-matterport-tours-on-zillow/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Ex-Movement COO Jason Stenger joins Rate to lead production",
-        "url": "https://www.housingwire.com/articles/jason-stenger-joins-rate-ex-movement-coo/",
-        "what": "Jason Stenger has joined Rate as chief production officer, just weeks after stepping down as chief operations officer at Movement Mortgage.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/jason-stenger-joins-rate-ex-movement-coo/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "U.S. Home Prices Rose 0.2% in September",
@@ -287,6 +296,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Why more homeowners are listing without agents — and regretting it",
+        "url": "https://www.housingwire.com/articles/selling-without-an-agent-regret/",
+        "what": "More homeowners are listing without agents, but many regret it later",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/selling-without-an-agent-regret/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Mark Spain Real Estate names new CEO; Spain transitions to executive chairman",
         "url": "https://www.housingwire.com/articles/mark-spain-real-estate-names-new-ceo-spain-transitions-to-executive-chairman/",
@@ -329,24 +347,6 @@
         "what": "Better.com unveiled its AI-powered wholesale lending program, expanding access to home equity products like HELOCs and CES loans.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/better-introduces-ai-driven-wholesale-lending/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "New Western acquires Big State Home Buyers to expand investment pipeline",
-        "url": "https://www.housingwire.com/articles/new-western-acquires-big-state-home-buyers-to-expand-investment-pipeline/",
-        "what": "Combined efforts could generate up to 8,200 additional investment opportunities annually once the companies are fully integrated.",
-        "numbers": "8,200",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-western-acquires-big-state-home-buyers-to-expand-investment-pipeline/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Qualia puts forth FinCEN compliance solution",
-        "url": "https://www.housingwire.com/articles/qualia-puts-forth-fincen-compliance-solution/",
-        "what": "Incomplete or late FinCEN reports could lead to fines of up to $1,400 per violation and more than $100,000 for patterns of negligence.",
-        "numbers": "$1,400, $100,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/qualia-puts-forth-fincen-compliance-solution/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
