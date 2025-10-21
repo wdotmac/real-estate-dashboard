@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-10-21 19:27 UTC",
+  "as_of": "2025-10-21 20:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.02,
-      "delta_bp_1d": 2.999999999999936
+      "yield_pct": 4.0,
+      "delta_bp_1d": -1.9999999999999574
     },
     "mortgage_30y": {
       "rate_pct": 6.27,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "REcore sues CoStar and Homes.com over alleged breach of contract",
+      "link": "https://www.housingwire.com/articles/recore-sues-costar-over-contract-breach/",
+      "published": "Tue, 21 Oct 2025"
+    },
+    {
+      "title": "eXp Luxury unveils division for high-profile clients",
+      "link": "https://www.housingwire.com/articles/exp-luxury-unveils-division-for-high-profile-clients/",
+      "published": "Tue, 21 Oct 2025"
+    },
+    {
       "title": "eXp Realty launches AI assistant ‘Mira,’ AI training program",
       "link": "https://www.housingwire.com/articles/exp-realty-launches-ai-assistant-mira-ai-training-program/",
       "published": "Tue, 21 Oct 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Trade groups push plan to let GSEs buy MBS to ease mortgage rates",
       "link": "https://www.housingwire.com/articles/gse-buy-mbs-lower-mortgage-rates/",
-      "published": "Tue, 21 Oct 2025"
-    },
-    {
-      "title": "Why more homeowners are listing without agents — and regretting it",
-      "link": "https://www.housingwire.com/articles/selling-without-an-agent-regret/",
-      "published": "Tue, 21 Oct 2025"
-    },
-    {
-      "title": "It’s up to MLSs to decide if the Zillow-ChatGPT integration violates IDX policies",
-      "link": "https://www.housingwire.com/articles/mls-zillow-chatgpt-idx-compliance/",
       "published": "Tue, 21 Oct 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "REcore sues CoStar and Homes.com over alleged breach of contract",
+        "url": "https://www.housingwire.com/articles/recore-sues-costar-over-contract-breach/",
+        "what": "REcore claims CoStar has not paid the full amount it owes for its IDX feed due to its monetization of MLS data.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/recore-sues-costar-over-contract-breach/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Mortgage rates dip slightly, staying near 2025 lows ahead of CPI report",
         "url": "https://www.housingwire.com/articles/mortgage-rates-dip-slightly-staying-near-2025-lows-ahead-of-cpi-report/",
@@ -306,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "eXp Luxury unveils division for high-profile clients",
+        "url": "https://www.housingwire.com/articles/exp-luxury-unveils-division-for-high-profile-clients/",
+        "what": "The new division provides agents with certification, branding tools and access to a global network designed to meet specialized needs.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-luxury-unveils-division-for-high-profile-clients/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "eXp Realty launches AI assistant ‘Mira,’ AI training program",
         "url": "https://www.housingwire.com/articles/exp-realty-launches-ai-assistant-mira-ai-training-program/",
         "what": "CEO Leo Pareja speaks on Mira combining eXp’s data systems with natural language processing to simplify how agents interact with information.",
@@ -329,24 +347,6 @@
         "what": "Former Roofstock and Opendoor leader David Zanaty joins Mark Spain Real Estate as its new CEO after a nearly 12 month search.",
         "numbers": "12",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mark-spain-real-estate-names-new-ceo-spain-transitions-to-executive-chairman/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Mountain Lakes Board of Realtors joins Hive MLS",
-        "url": "https://www.housingwire.com/articles/mountain-lakes-board-of-realtors-joins-hive-mls/",
-        "what": "MLBOR, which serves real estate professionals in North Carolina, Georgia and Tennessee, is joining the MLS wholesale cooperative.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mountain-lakes-board-of-realtors-joins-hive-mls/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "eXp agent built top Omaha business by putting people first",
-        "url": "https://www.housingwire.com/articles/omaha-top-exp-agent-people-first/",
-        "what": "Omaha’s top-ranked agent Nicki Headen shares how putting clients first and ditching paid leads helped her close 115 deals in 2024",
-        "numbers": "115, 2024",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/omaha-top-exp-agent-people-first/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
