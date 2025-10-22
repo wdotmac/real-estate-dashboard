@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-22 14:38 UTC",
+  "as_of": "2025-10-22 15:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "ARM, refinance activity buck the trend of declining mortgage demand",
+      "link": "https://www.housingwire.com/articles/mortgage-applications-dip-refinance-surge/",
+      "published": "Wed, 22 Oct 2025"
+    },
+    {
       "title": "Are you ready for it? Realtor.com hit with Taylor Swift copyright claim",
       "link": "https://www.housingwire.com/articles/realtor-com-faces-copyright-lawsuit-taylor-swift-kelce-engagement-photos/",
       "published": "Wed, 22 Oct 2025"
@@ -163,11 +168,6 @@
       "title": "Safety in real estate extends far beyond the physical",
       "link": "https://www.housingwire.com/articles/safety-in-real-estate-extends-far-beyond-the-physical/",
       "published": "Wed, 22 Oct 2025"
-    },
-    {
-      "title": "Pennymac posts Q3 profit of $181M, fueled by servicing strength",
-      "link": "https://www.housingwire.com/articles/pennymac-q3-2025-profit-surge/",
-      "published": "Tue, 21 Oct 2025"
     },
     {
       "title": "Austin, TX Is America’s Strongest Buyer’s Market, With Over Twice as Many Home Sellers as Buyers",
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "ARM, refinance activity buck the trend of declining mortgage demand",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-dip-refinance-surge/",
+        "what": "Mortgage applications fell 0.3% last week, but refinance activity surged 4% as mortgage rates hit a monthly low.",
+        "numbers": "0.3, 4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-dip-refinance-surge/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Sellers Are Getting Ghosted: 15% of Homebuying Contracts Were Canceled in September",
         "url": "https://www.redfin.com/news/contract-cancellations-september-2025/",
         "what": "Housing costs are frightful and economic jitters are in the air, leading some buyers to leave sellers in the lurch",
@@ -219,15 +228,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/recore-sues-costar-over-contract-breach/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Mortgage rates dip slightly, staying near 2025 lows ahead of CPI report",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-dip-slightly-staying-near-2025-lows-ahead-of-cpi-report/",
-        "what": "The government shutdown, which reached its 21st day on Tuesday, postponed the release of key inflation data.",
-        "numbers": "21",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-dip-slightly-staying-near-2025-lows-ahead-of-cpi-report/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Redfin Economists’ Weekly Take: Inflation Report Unlikely to Stop Fed From Cutting Rates Next Week",
