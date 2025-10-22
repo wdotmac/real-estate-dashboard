@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-10-22 19:24 UTC",
+  "as_of": "2025-10-22 20:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.0,
-      "delta_bp_1d": -1.9999999999999574
+      "yield_pct": 3.98,
+      "delta_bp_1d": -2.0000000000000018
     },
     "mortgage_30y": {
       "rate_pct": 6.27,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Union Home Mortgage expands non-QM offerings with launch of Platinum products",
+      "link": "https://www.housingwire.com/articles/uhm-platinum-launch/",
+      "published": "Wed, 22 Oct 2025"
+    },
+    {
       "title": "Are Zillow Flex agents required to send buyers to Zillow Home Loans?",
       "link": "https://www.housingwire.com/articles/are-zillow-flex-agents-required-to-send-buyers-to-zillow-home-loans/",
       "published": "Wed, 22 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "How a rebel Realtor became Chicago’s No. 2 power player in luxury real estate",
       "link": "https://www.housingwire.com/articles/carrie-mccormick-chicago-top-broker-real-estate-success-strategies/",
-      "published": "Wed, 22 Oct 2025"
-    },
-    {
-      "title": "PennyMac eyes high-coupon MSRs, broker channel growth",
-      "link": "https://www.housingwire.com/articles/pennymac-strategic-growth/",
       "published": "Wed, 22 Oct 2025"
     },
     {
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "Union Home Mortgage expands non-QM offerings with launch of Platinum products",
+        "url": "https://www.housingwire.com/articles/uhm-platinum-launch/",
+        "what": "Through UHM Platinum, investors will have access to products including bank-statement loans and debt-service-coverage ratio loans.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uhm-platinum-launch/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Are Zillow Flex agents required to send buyers to Zillow Home Loans?",
         "url": "https://www.housingwire.com/articles/are-zillow-flex-agents-required-to-send-buyers-to-zillow-home-loans/",
         "what": "In a The Capitol Forum story, Zillow Flex agents claim that they must send buyers to ZHL in order to continue receiving leads.",
@@ -273,15 +282,6 @@
         "what": "Industry leaders discussed consolidation, artificial intelligence and how to keep pace with shifts across the mortgage landscape.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/navigating-change-mortgage-bankers-convention/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Lower inks marketing deal with HomeSmart",
-        "url": "https://www.housingwire.com/articles/lower-homesmart-partnership/",
-        "what": "The agreement gives more than 25,000 HomeSmart agents access to Lower’s mortgage products and technology tools.",
-        "numbers": "25,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lower-homesmart-partnership/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
