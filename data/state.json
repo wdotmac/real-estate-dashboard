@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-23 14:36 UTC",
+  "as_of": "2025-10-23 15:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The Casa Team expands Douglas Elliman operations to Miami",
+      "link": "https://www.housingwire.com/articles/the-casa-team-expands-douglas-elliman-operations-to-miami/",
+      "published": "Thu, 23 Oct 2025"
+    },
+    {
+      "title": "Bri Lees joins NEO Home Loans as head of marketing",
+      "link": "https://www.housingwire.com/articles/neo-home-loans-bri-lees-marketing/",
+      "published": "Thu, 23 Oct 2025"
+    },
+    {
+      "title": "Existing-home inventory up 14% from a year ago",
+      "link": "https://www.housingwire.com/articles/existing-home-inventory-up-14-from-a-year-ago/",
+      "published": "Thu, 23 Oct 2025"
+    },
+    {
+      "title": "Pulte says LLPA fees under review, signals relief for borrowers",
+      "link": "https://www.housingwire.com/articles/fhfa-reviews-loan-level-price-adjustments/",
+      "published": "Thu, 23 Oct 2025"
+    },
+    {
       "title": "Realtor Veronica Figueroa dismissed from recruiting lawsuit",
       "link": "https://www.housingwire.com/articles/realtor-veronica-figueroa-dismissed-from-recruiting-lawsuit/",
       "published": "Thu, 23 Oct 2025"
@@ -147,26 +167,6 @@
     {
       "title": "It’s time for a federal housing policy reset",
       "link": "https://www.housingwire.com/articles/its-time-for-a-federal-housing-policy-reset/",
-      "published": "Thu, 23 Oct 2025"
-    },
-    {
-      "title": "‘Relentless competitiveness’ is the key to this NYC real estate team’s success",
-      "link": "https://www.housingwire.com/articles/ravi-kantha-serhant-nyc-realtrends-city-rankings/",
-      "published": "Thu, 23 Oct 2025"
-    },
-    {
-      "title": "The 7 best real estate CRMs for every budget in 2025",
-      "link": "https://www.housingwire.com/articles/best-real-estate-crm/",
-      "published": "Thu, 23 Oct 2025"
-    },
-    {
-      "title": "Home equity slips in Q3, with more properties falling underwater",
-      "link": "https://www.housingwire.com/articles/home-equity-slips-in-q3-with-more-properties-falling-underwater/",
-      "published": "Thu, 23 Oct 2025"
-    },
-    {
-      "title": "Scottsdale’s luxury standout: Realtor Nicole Demas on rising to the top and lifting others along the way",
-      "link": "https://www.housingwire.com/articles/scottsdales-luxury-standout-realtor-nicole-demas-on-rising-to-the-top-and-lifting-others-along-the-way/",
       "published": "Thu, 23 Oct 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Pulte says LLPA fees under review, signals relief for borrowers",
+        "url": "https://www.housingwire.com/articles/fhfa-reviews-loan-level-price-adjustments/",
+        "what": "Federal Housing Finance Agency (FHFA) Director Bill Pulte said on social media Wednesday that the agency is reviewing the loan-level price adjustment (LLPA) matrix",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-reviews-loan-level-price-adjustments/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "It’s time for a federal housing policy reset",
         "url": "https://www.housingwire.com/articles/its-time-for-a-federal-housing-policy-reset/",
@@ -241,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Existing-home inventory up 14% from a year ago",
+        "url": "https://www.housingwire.com/articles/existing-home-inventory-up-14-from-a-year-ago/",
+        "what": "The pace of existing home sales rose in September, but so has the amount of unsold inventory, which is good news buyers.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/existing-home-inventory-up-14-from-a-year-ago/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Home equity slips in Q3, with more properties falling underwater",
         "url": "https://www.housingwire.com/articles/home-equity-slips-in-q3-with-more-properties-falling-underwater/",
         "what": "About 46.1% of mortgaged homes were equity rich at the end of the third quarter, down from 47.4% in the second quarter and 48.3% a year earlier.",
@@ -248,24 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/home-equity-slips-in-q3-with-more-properties-falling-underwater/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Deephaven’s record-breaking month driven by non-QM business",
-        "url": "https://www.housingwire.com/articles/non-qm-loans-gig-economy/",
-        "what": "Deephaven is finding success through non-QM loans, second liens and home equity options as gig economy workers seek mortgage solutions.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/non-qm-loans-gig-economy/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Fannie Mae names Peter Akwaboah as acting CEO",
-        "url": "https://www.housingwire.com/articles/fannie-mae-names-acting-ceo/",
-        "what": "Fannie Mae appoints Peter Akwaboah as acting CEO, marking a significant leadership change as current CEO Priscilla Almodovar departs.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-mae-names-acting-ceo/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "Austin, TX Is America’s Strongest Buyer’s Market, With Over Twice as Many Home Sellers as Buyers",
@@ -296,6 +296,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "The Casa Team expands Douglas Elliman operations to Miami",
+        "url": "https://www.housingwire.com/articles/the-casa-team-expands-douglas-elliman-operations-to-miami/",
+        "what": "Led by Chiqui Delgado and Edgar Marquez, the team brings more than two decades of combined experience in sales, media, design and law.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-casa-team-expands-douglas-elliman-operations-to-miami/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Bri Lees joins NEO Home Loans as head of marketing",
+        "url": "https://www.housingwire.com/articles/neo-home-loans-bri-lees-marketing/",
+        "what": "NEO Home Loans hired Bri Lees to lead marketing efforts and align with Better's platform",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/neo-home-loans-bri-lees-marketing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Realtor Veronica Figueroa dismissed from recruiting lawsuit",
         "url": "https://www.housingwire.com/articles/realtor-veronica-figueroa-dismissed-from-recruiting-lawsuit/",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/scottsdales-luxury-standout-realtor-nicole-demas-on-rising-to-the-top-and-lifting-others-along-the-way/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "AI powered search is here: Seven tips for agents to get found",
-        "url": "https://www.housingwire.com/articles/ai-powered-search-is-here-seven-tips-for-agents-to-get-found/",
-        "what": "Where and how real estate buyers search for information is changing quickly",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-powered-search-is-here-seven-tips-for-agents-to-get-found/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How to measure and communicate the ROI of AI tools",
-        "url": "https://www.housingwire.com/articles/how-to-measure-and-communicate-the-roi-of-ai-tools/",
-        "what": "Lenders are under unrelenting pressure to cut costs, accelerate processes and enhance borrower experiences while navigating a less-than-certain originations environment",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/how-to-measure-and-communicate-the-roi-of-ai-tools/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
