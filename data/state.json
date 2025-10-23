@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-23 20:32 UTC",
+  "as_of": "2025-10-23 21:25 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Memo reportedly undercuts mortgage fraud allegations against Letitia James",
+      "link": "https://www.housingwire.com/articles/letitia-james-bank-fraud-charges/",
+      "published": "Thu, 23 Oct 2025"
+    },
+    {
+      "title": "Extreme heat risks higher for affordable housing residents",
+      "link": "https://www.housingwire.com/articles/extreme-heat-risks-higher-for-affordable-housing-residents/",
+      "published": "Thu, 23 Oct 2025"
+    },
+    {
       "title": "Federal Home Loan Bank of Dallas awards $73.5M to affordable housing projects",
       "link": "https://www.housingwire.com/articles/federal-home-loan-bank-of-dallas-affordable-housing-grants/",
       "published": "Thu, 23 Oct 2025"
@@ -160,13 +170,8 @@
       "published": "Thu, 23 Oct 2025"
     },
     {
-      "title": "Unison settles lawsuit after HEI product ruled to be reverse mortgage",
-      "link": "https://www.housingwire.com/articles/washington-hei-reverse-mortgage-ruling/",
-      "published": "Thu, 23 Oct 2025"
-    },
-    {
-      "title": "Tom Ferry, Josh Altman launch new coaching program",
-      "link": "https://www.housingwire.com/articles/tom-ferry-josh-altman-launch-new-coaching-program/",
+      "title": "Redfin Welcomes Over 50 New Agents in September",
+      "link": "https://www.redfin.com/news/september-2025-agent-hires/",
       "published": "Thu, 23 Oct 2025"
     },
     {
@@ -192,11 +197,6 @@
     {
       "title": "Redfin Economists’ Weekly Take: Inflation Report Unlikely to Stop Fed From Cutting Rates Next Week",
       "link": "https://www.redfin.com/news/weekly-economics-update-october-20/",
-      "published": "Mon, 20 Oct 2025"
-    },
-    {
-      "title": "Homebuyers Are Scoring the Biggest Autumn Discounts Since 2019",
-      "link": "https://www.redfin.com/news/homebuyer-discounts-september-2025/",
       "published": "Mon, 20 Oct 2025"
     }
   ],
@@ -250,6 +250,33 @@
     ],
     "housing": [
       {
+        "title": "Memo reportedly undercuts mortgage fraud allegations against Letitia James",
+        "url": "https://www.housingwire.com/articles/letitia-james-bank-fraud-charges/",
+        "what": "Prosecutors reviewing the mortgage occupancy fraud case against New York Attorney General Letitia James determined there is evidence that undercuts the allegations against her, acc",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/letitia-james-bank-fraud-charges/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Redfin Welcomes Over 50 New Agents in September",
+        "url": "https://www.redfin.com/news/september-2025-agent-hires/",
+        "what": "Fall brings fresh energy—and so does our team! We’re thrilled to welcome more than 50 new agents this month, each bringing unique expertise to help homebuyers and sellers nationwide",
+        "numbers": "50",
+        "justified": "redfin.com — https://www.redfin.com/news/september-2025-agent-hires/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Extreme heat risks higher for affordable housing residents",
+        "url": "https://www.housingwire.com/articles/extreme-heat-risks-higher-for-affordable-housing-residents/",
+        "what": "The analysis found that nearly all residents in affordable housing experienced at least seven days of extreme heat alerts in 2024.",
+        "numbers": "2024.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/extreme-heat-risks-higher-for-affordable-housing-residents/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "White paper discusses future of MLS governance, sovereign AI",
         "url": "https://www.housingwire.com/articles/ai-mls-governance-framework/",
         "what": "The paper argues that only broker-authorized MLSs should be allowed to publish property listings to Model Context Protocol servers.",
@@ -277,15 +304,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Existing-home inventory up 14% from a year ago",
-        "url": "https://www.housingwire.com/articles/existing-home-inventory-up-14-from-a-year-ago/",
-        "what": "The pace of existing home sales rose in September, but so has the amount of unsold inventory, which is good news buyers.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/existing-home-inventory-up-14-from-a-year-ago/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "Austin, TX Is America’s Strongest Buyer’s Market, With Over Twice as Many Home Sellers as Buyers",
         "url": "https://www.redfin.com/news/buyers-vs-sellers-september-2025/",
         "what": "Nationwide, there are an estimated 37% more sellers than buyers—a near-record gap that’s giving buyers across the country negotiating power",
@@ -302,15 +320,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/home-price-index-september-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Homebuyers Are Scoring the Biggest Autumn Discounts Since 2019",
-        "url": "https://www.redfin.com/news/homebuyer-discounts-september-2025/",
-        "what": "The typical home that sold last month went for 1.4% less than its final list price—the biggest September discount in six years—as a slow housing market empowered buyers to negotiate",
-        "numbers": "1.4, 50, 2019",
-        "justified": "redfin.com — https://www.redfin.com/news/homebuyer-discounts-september-2025/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
@@ -338,15 +347,6 @@
         "what": "Led by Chiqui Delgado and Edgar Marquez, the team brings more than two decades of combined experience in sales, media, design and law.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/the-casa-team-expands-douglas-elliman-operations-to-miami/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Bri Lees joins NEO Home Loans as head of marketing",
-        "url": "https://www.housingwire.com/articles/neo-home-loans-bri-lees-marketing/",
-        "what": "NEO Home Loans hired Bri Lees to lead marketing efforts and align with Better's platform",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/neo-home-loans-bri-lees-marketing/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
