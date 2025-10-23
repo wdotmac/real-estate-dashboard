@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-10-23 19:26 UTC",
+  "as_of": "2025-10-23 20:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 3.98,
-      "delta_bp_1d": -2.0000000000000018
+      "yield_pct": 3.97,
+      "delta_bp_1d": -0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.19,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Federal Home Loan Bank of Dallas awards $73.5M to affordable housing projects",
+      "link": "https://www.housingwire.com/articles/federal-home-loan-bank-of-dallas-affordable-housing-grants/",
+      "published": "Thu, 23 Oct 2025"
+    },
+    {
+      "title": "REcore dismisses breach of contract suit against CoStar, Homes.com",
+      "link": "https://www.housingwire.com/articles/recore-dismisses-breach-of-contract-suit-against-costar-homes-com/",
+      "published": "Thu, 23 Oct 2025"
+    },
+    {
       "title": "White paper discusses future of MLS governance, sovereign AI",
       "link": "https://www.housingwire.com/articles/ai-mls-governance-framework/",
       "published": "Thu, 23 Oct 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Tom Ferry, Josh Altman launch new coaching program",
       "link": "https://www.housingwire.com/articles/tom-ferry-josh-altman-launch-new-coaching-program/",
-      "published": "Thu, 23 Oct 2025"
-    },
-    {
-      "title": "The 4 best online real estate schools for 2025",
-      "link": "https://www.housingwire.com/articles/best-online-real-estate-school/",
-      "published": "Thu, 23 Oct 2025"
-    },
-    {
-      "title": "The Casa Team expands Douglas Elliman operations to Miami",
-      "link": "https://www.housingwire.com/articles/the-casa-team-expands-douglas-elliman-operations-to-miami/",
       "published": "Thu, 23 Oct 2025"
     },
     {
@@ -203,13 +203,22 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Pulte says LLPA fees under review, signals relief for borrowers",
-        "url": "https://www.housingwire.com/articles/fhfa-reviews-loan-level-price-adjustments/",
-        "what": "Federal Housing Finance Agency (FHFA) Director Bill Pulte said on social media Wednesday that the agency is reviewing the loan-level price adjustment (LLPA) matrix",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-reviews-loan-level-price-adjustments/",
+        "title": "Federal Home Loan Bank of Dallas awards $73.5M to affordable housing projects",
+        "url": "https://www.housingwire.com/articles/federal-home-loan-bank-of-dallas-affordable-housing-grants/",
+        "what": "This year’s grants will fund the construction or rehabilitation of more than 3,700 housing units across six states.",
+        "numbers": "3,700",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/federal-home-loan-bank-of-dallas-affordable-housing-grants/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "REcore dismisses breach of contract suit against CoStar, Homes.com",
+        "url": "https://www.housingwire.com/articles/recore-dismisses-breach-of-contract-suit-against-costar-homes-com/",
+        "what": "Less than 48 hours after filing its breach of contract suit, REcore has dismissed its claims against CoStar and Homes.com with prejudice.",
+        "numbers": "48",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/recore-dismisses-breach-of-contract-suit-against-costar-homes-com/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Mortgage Rates Drop Near 3-Year Low, Opening Door For Homebuyers–But Few Are Walking Through",
@@ -338,15 +347,6 @@
         "what": "NEO Home Loans hired Bri Lees to lead marketing efforts and align with Better's platform",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/neo-home-loans-bri-lees-marketing/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Realtor Veronica Figueroa dismissed from recruiting lawsuit",
-        "url": "https://www.housingwire.com/articles/realtor-veronica-figueroa-dismissed-from-recruiting-lawsuit/",
-        "what": "The leader of eXp’s The Fig Team was voluntarily dismissed from a recruiting lawsuit involving three KW franchises earlier this month.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realtor-veronica-figueroa-dismissed-from-recruiting-lawsuit/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
