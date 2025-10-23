@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-23 10:36 UTC",
+  "as_of": "2025-10-23 11:27 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Home equity slips in Q3, with more properties falling underwater",
+      "link": "https://www.housingwire.com/articles/home-equity-slips-in-q3-with-more-properties-falling-underwater/",
+      "published": "Thu, 23 Oct 2025"
+    },
+    {
       "title": "Scottsdale’s luxury standout: Realtor Nicole Demas on rising to the top and lifting others along the way",
       "link": "https://www.housingwire.com/articles/scottsdales-luxury-standout-realtor-nicole-demas-on-rising-to-the-top-and-lifting-others-along-the-way/",
       "published": "Thu, 23 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Fannie Mae names Peter Akwaboah as acting CEO",
       "link": "https://www.housingwire.com/articles/fannie-mae-names-acting-ceo/",
-      "published": "Wed, 22 Oct 2025"
-    },
-    {
-      "title": "Union Home Mortgage expands non-QM offerings with launch of Platinum products",
-      "link": "https://www.housingwire.com/articles/uhm-platinum-launch/",
       "published": "Wed, 22 Oct 2025"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "11 proven real estate email templates (with sky-high open rates)",
-        "url": "https://www.housingwire.com/articles/real-estate-email-templates/",
-        "what": "Boost your open rates and convert more leads with our proven real estate email templates and expert tips for writing more effective emails.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-email-templates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Sellers Are Getting Ghosted: 15% of Homebuying Contracts Were Canceled in September",
         "url": "https://www.redfin.com/news/contract-cancellations-september-2025/",
         "what": "Housing costs are frightful and economic jitters are in the air, leading some buyers to leave sellers in the lurch",
@@ -240,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Home equity slips in Q3, with more properties falling underwater",
+        "url": "https://www.housingwire.com/articles/home-equity-slips-in-q3-with-more-properties-falling-underwater/",
+        "what": "About 46.1% of mortgaged homes were equity rich at the end of the third quarter, down from 47.4% in the second quarter and 48.3% a year earlier.",
+        "numbers": "46.1, 47.4, 48.3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/home-equity-slips-in-q3-with-more-properties-falling-underwater/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Deephaven’s record-breaking month driven by non-QM business",
         "url": "https://www.housingwire.com/articles/non-qm-loans-gig-economy/",
