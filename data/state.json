@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-23 18:43 UTC",
+  "as_of": "2025-10-23 19:26 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "White paper discusses future of MLS governance, sovereign AI",
+      "link": "https://www.housingwire.com/articles/ai-mls-governance-framework/",
+      "published": "Thu, 23 Oct 2025"
+    },
+    {
       "title": "IDIQ names Robin Clayton VP of marketing",
       "link": "https://www.housingwire.com/articles/idiq-names-robin-clayton-vp-of-marketing/",
       "published": "Thu, 23 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "The Casa Team expands Douglas Elliman operations to Miami",
       "link": "https://www.housingwire.com/articles/the-casa-team-expands-douglas-elliman-operations-to-miami/",
-      "published": "Thu, 23 Oct 2025"
-    },
-    {
-      "title": "Bri Lees joins NEO Home Loans as head of marketing",
-      "link": "https://www.housingwire.com/articles/neo-home-loans-bri-lees-marketing/",
       "published": "Thu, 23 Oct 2025"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "It’s time for a federal housing policy reset",
-        "url": "https://www.housingwire.com/articles/its-time-for-a-federal-housing-policy-reset/",
-        "what": "Trace the journey of federal housing policy from the 1970s to 2020s and how the future of affordable housing initiatives needs to be reset.",
-        "numbers": "1970, 2020",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/its-time-for-a-federal-housing-policy-reset/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Mortgage Rates Drop Near 3-Year Low, Opening Door For Homebuyers–But Few Are Walking Through",
         "url": "https://www.redfin.com/news/housing-market-update-mortgage-rates-drop-buyers-stay-on-sidelines/",
         "what": "A homebuyer on a $3,000 budget has gained $26,000 since last year as mortgage rates drop to the low-6% range",
@@ -249,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "White paper discusses future of MLS governance, sovereign AI",
+        "url": "https://www.housingwire.com/articles/ai-mls-governance-framework/",
+        "what": "The paper argues that only broker-authorized MLSs should be allowed to publish property listings to Model Context Protocol servers.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-mls-governance-framework/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "IDIQ names Robin Clayton VP of marketing",
         "url": "https://www.housingwire.com/articles/idiq-names-robin-clayton-vp-of-marketing/",
