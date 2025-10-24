@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-24 15:32 UTC",
+  "as_of": "2025-10-24 16:39 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,7 +140,17 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Inflation hit highest level since January in September",
+      "title": "MIBOR, Lundy partner to streamline MLS data access",
+      "link": "https://www.housingwire.com/articles/mibor-lundy-partner-to-streamline-mls-data-access/",
+      "published": "Fri, 24 Oct 2025"
+    },
+    {
+      "title": "Fannie Mae forecasts lower mortgage rates ahead, bump in originations",
+      "link": "https://www.housingwire.com/articles/fannie-mae-lowers-mortgage-rate-outlook-2025/",
+      "published": "Fri, 24 Oct 2025"
+    },
+    {
+      "title": "Inflation moves higher for third straight month, hits highest level since January",
       "link": "https://www.housingwire.com/articles/september-2025-inflation-rise/",
       "published": "Fri, 24 Oct 2025"
     },
@@ -157,16 +167,6 @@
     {
       "title": "Memo reportedly undercuts mortgage fraud allegations against Letitia James",
       "link": "https://www.housingwire.com/articles/letitia-james-bank-fraud-charges/",
-      "published": "Thu, 23 Oct 2025"
-    },
-    {
-      "title": "Extreme heat risks higher for affordable housing residents",
-      "link": "https://www.housingwire.com/articles/extreme-heat-risks-higher-for-affordable-housing-residents/",
-      "published": "Thu, 23 Oct 2025"
-    },
-    {
-      "title": "Federal Home Loan Bank of Dallas awards $73.5M to affordable housing projects",
-      "link": "https://www.housingwire.com/articles/federal-home-loan-bank-of-dallas-affordable-housing-grants/",
       "published": "Thu, 23 Oct 2025"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Fannie Mae forecasts lower mortgage rates ahead, bump in originations",
+        "url": "https://www.housingwire.com/articles/fannie-mae-lowers-mortgage-rate-outlook-2025/",
+        "what": "Fannie Mae’s Economic and Strategic Research (ESR) Group slightly lowered its mortgage rate outlook in October, now projecting rates to end 2025 at 6.3%, down from the 6.4% forecas",
+        "numbers": "2025, 6.3, 6.4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-mae-lowers-mortgage-rate-outlook-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Cool Inflation Data Gives Fed a Green Light to Keep Cutting Rates",
         "url": "https://www.redfin.com/news/september-cpi-report-2/",
         "what": "Mortgage rates will stay near recent lows as cooler-than-expected inflation data allows the Fed to keep cutting",
@@ -212,7 +221,7 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Inflation hit highest level since January in September",
+        "title": "Inflation moves higher for third straight month, hits highest level since January",
         "url": "https://www.housingwire.com/articles/september-2025-inflation-rise/",
         "what": "The delayed September CPI release shows that overall inflation rose to 3.0% in September, the third consecutive month of increases.",
         "numbers": "3.0",
@@ -304,24 +313,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "IDIQ names Robin Clayton VP of marketing",
-        "url": "https://www.housingwire.com/articles/idiq-names-robin-clayton-vp-of-marketing/",
-        "what": "Clayton will oversee marketing strategy and growth initiatives, expanding IDIQ’s presence in the mortgage and housing industries.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/idiq-names-robin-clayton-vp-of-marketing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Unison settles lawsuit after HEI product ruled to be reverse mortgage",
-        "url": "https://www.housingwire.com/articles/washington-hei-reverse-mortgage-ruling/",
-        "what": "A lengthy legal battle over the validity of home equity investments (HEIs) and whether they should be classified as reverse mortgages has come to an end in Washington state.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/washington-hei-reverse-mortgage-ruling/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Austin, TX Is America’s Strongest Buyer’s Market, With Over Twice as Many Home Sellers as Buyers",
         "url": "https://www.redfin.com/news/buyers-vs-sellers-september-2025/",
         "what": "Nationwide, there are an estimated 37% more sellers than buyers—a near-record gap that’s giving buyers across the country negotiating power",
@@ -341,6 +332,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "MIBOR, Lundy partner to streamline MLS data access",
+        "url": "https://www.housingwire.com/articles/mibor-lundy-partner-to-streamline-mls-data-access/",
+        "what": "Leaders said the move aims to simplify and accelerate how real estate technology vendors access multiple listing service data.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mibor-lundy-partner-to-streamline-mls-data-access/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "San Francisco Realtors partners with Rayse",
         "url": "https://www.housingwire.com/articles/san-francisco-realtors-rayse-partnership/",
