@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-24 20:32 UTC",
+  "as_of": "2025-10-24 21:28 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Fannie Mae names new head of single family and acting general counsel",
+      "link": "https://www.housingwire.com/articles/fannie-mae-leadership-promotions/",
+      "published": "Fri, 24 Oct 2025"
+    },
+    {
+      "title": "Ohio moves to tie property tax increases to inflation",
+      "link": "https://www.housingwire.com/articles/ohio-property-tax-bills/",
+      "published": "Fri, 24 Oct 2025"
+    },
+    {
+      "title": "From life change to top agent: James Jensen’s North Dakota story",
+      "link": "https://www.housingwire.com/articles/james-jensen-real-estate-success/",
+      "published": "Fri, 24 Oct 2025"
+    },
+    {
       "title": "Social Security COLA will increase 2.8% in 2026",
       "link": "https://www.housingwire.com/articles/social-security-cola-2026/",
       "published": "Fri, 24 Oct 2025"
@@ -152,21 +167,6 @@
     {
       "title": "ICE’s First Look report shows mortgage performance is strong despite FHA strain",
       "link": "https://www.housingwire.com/articles/mortgage-market-resilience-fha-challenges/",
-      "published": "Fri, 24 Oct 2025"
-    },
-    {
-      "title": "Howard Hanna’s strategy to get 20% market share in 20 markets",
-      "link": "https://www.housingwire.com/articles/howard-hannas-strategy-to-get-20-market-share-in-20-markets/",
-      "published": "Fri, 24 Oct 2025"
-    },
-    {
-      "title": "Truework’s Ethan Winchell on creating a better VOIE process",
-      "link": "https://www.housingwire.com/articles/truework-mortgage-technology-ethan-winchell-interview/",
-      "published": "Fri, 24 Oct 2025"
-    },
-    {
-      "title": "UWM announces three new broker tools at AIME Fuse",
-      "link": "https://www.housingwire.com/articles/uwm-tools-broker-efficiency/",
       "published": "Fri, 24 Oct 2025"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Ohio moves to tie property tax increases to inflation",
+        "url": "https://www.housingwire.com/articles/ohio-property-tax-bills/",
+        "what": "Legislators said safeguards were added to prevent local governments from cutting millage only to restore it later after raising other taxes.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ohio-property-tax-bills/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "ICE’s First Look report shows mortgage performance is strong despite FHA strain",
         "url": "https://www.housingwire.com/articles/mortgage-market-resilience-fha-challenges/",
         "what": "The mortgage market remains largely resilient",
@@ -221,29 +230,11 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Fannie Mae forecasts lower mortgage rates ahead, bump in originations",
-        "url": "https://www.housingwire.com/articles/fannie-mae-lowers-mortgage-rate-outlook-2025/",
-        "what": "Fannie Mae’s Economic and Strategic Research (ESR) Group slightly lowered its mortgage rate outlook in October, now projecting rates to end 2025 at 6.3%, down from the 6.4% forecas",
-        "numbers": "2025, 6.3, 6.4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-mae-lowers-mortgage-rate-outlook-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Cool Inflation Data Gives Fed a Green Light to Keep Cutting Rates",
         "url": "https://www.redfin.com/news/september-cpi-report-2/",
         "what": "Mortgage rates will stay near recent lows as cooler-than-expected inflation data allows the Fed to keep cutting",
         "numbers": "0.2, 3.0",
         "justified": "redfin.com — https://www.redfin.com/news/september-cpi-report-2/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Inflation moves higher for third straight month, hits highest level since January",
-        "url": "https://www.housingwire.com/articles/september-2025-inflation-rise/",
-        "what": "The delayed September CPI release shows that overall inflation rose to 3.0% in September, the third consecutive month of increases.",
-        "numbers": "3.0",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/september-2025-inflation-rise/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -315,6 +306,24 @@
     ],
     "notables": [
       {
+        "title": "Fannie Mae names new head of single family and acting general counsel",
+        "url": "https://www.housingwire.com/articles/fannie-mae-leadership-promotions/",
+        "what": "Fannie Mae has promoted Jake Williamson and Tom Klein to lead its single-family business and general counsel’s office, respectively.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-mae-leadership-promotions/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "From life change to top agent: James Jensen’s North Dakota story",
+        "url": "https://www.housingwire.com/articles/james-jensen-real-estate-success/",
+        "what": "A bold career move led Jensen to affiliate his brokerage with RE/MAX in 2015, marking a new chapter for his growing RE/MAX Now team.",
+        "numbers": "2015,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/james-jensen-real-estate-success/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Social Security COLA will increase 2.8% in 2026",
         "url": "https://www.housingwire.com/articles/social-security-cola-2026/",
         "what": "The Social Security Administration (SSA) on Friday announced that its cost-of-living adjustment (COLA) will rise 2.8% in 2026",
@@ -338,15 +347,6 @@
         "what": "The 70-year-old firm continues its eastward push with its Elegran deal, signaling its ambitions to grow for the next 70 years",
         "numbers": "70",
         "justified": "housingwire.com — https://www.housingwire.com/articles/howard-hannas-strategy-to-get-20-market-share-in-20-markets/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "MIBOR, Lundy partner to streamline MLS data access",
-        "url": "https://www.housingwire.com/articles/mibor-lundy-partner-to-streamline-mls-data-access/",
-        "what": "Leaders said the move aims to simplify and accelerate how real estate technology vendors access multiple listing service data.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mibor-lundy-partner-to-streamline-mls-data-access/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
