@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-24 13:43 UTC",
+  "as_of": "2025-10-24 14:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Inflation hit highest level since January in September",
+      "link": "https://www.housingwire.com/articles/september-2025-inflation-rise/",
+      "published": "Fri, 24 Oct 2025"
+    },
+    {
       "title": "San Francisco Realtors partners with Rayse",
       "link": "https://www.housingwire.com/articles/san-francisco-realtors-rayse-partnership/",
       "published": "Fri, 24 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Federal Home Loan Bank of Dallas awards $73.5M to affordable housing projects",
       "link": "https://www.housingwire.com/articles/federal-home-loan-bank-of-dallas-affordable-housing-grants/",
-      "published": "Thu, 23 Oct 2025"
-    },
-    {
-      "title": "REcore dismisses breach of contract suit against CoStar, Homes.com",
-      "link": "https://www.housingwire.com/articles/recore-dismisses-breach-of-contract-suit-against-costar-homes-com/",
       "published": "Thu, 23 Oct 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Inflation hit highest level since January in September",
+        "url": "https://www.housingwire.com/articles/september-2025-inflation-rise/",
+        "what": "The delayed September CPI release shows that overall inflation rose to 3.0% in September, the third consecutive month of increases.",
+        "numbers": "3.0",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/september-2025-inflation-rise/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Existing home prices firmed up in September",
         "url": "https://www.housingwire.com/articles/existing-home-sales-rise-2025/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/san-francisco-realtors-rayse-partnership/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Tom Ferry, Josh Altman launch new coaching program",
-        "url": "https://www.housingwire.com/articles/tom-ferry-josh-altman-launch-new-coaching-program/",
-        "what": "The Altman Advantage is open to all agents for a subscription fee of $99 per month and provides live coaching sessions and strategy playbooks.",
-        "numbers": "$99",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tom-ferry-josh-altman-launch-new-coaching-program/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
