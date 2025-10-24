@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-24 21:28 UTC",
+  "as_of": "2025-10-24 22:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Tech Pulse: MLS AI debate; CoStar disputes Zillow announcement",
+      "link": "https://www.housingwire.com/articles/tech-pulse-mls-ai-costar-zillow/",
+      "published": "Fri, 24 Oct 2025"
+    },
+    {
       "title": "Fannie Mae names new head of single family and acting general counsel",
       "link": "https://www.housingwire.com/articles/fannie-mae-leadership-promotions/",
       "published": "Fri, 24 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "SERHANT. strengthens leadership of new development team",
       "link": "https://www.housingwire.com/articles/serhant-strengthens-new-development-team/",
-      "published": "Fri, 24 Oct 2025"
-    },
-    {
-      "title": "ICE’s First Look report shows mortgage performance is strong despite FHA strain",
-      "link": "https://www.housingwire.com/articles/mortgage-market-resilience-fha-challenges/",
       "published": "Fri, 24 Oct 2025"
     },
     {
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "New York AG Letitia James pleads not guilty to fraud allegations",
-        "url": "https://www.housingwire.com/articles/letitia-james-fraud-charges/",
-        "what": "James's indictment stems from a criminal referral in April from Federal Housing Finance Agency Director Bill Pulte.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/letitia-james-fraud-charges/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Cool Inflation Data Gives Fed a Green Light to Keep Cutting Rates",
         "url": "https://www.redfin.com/news/september-cpi-report-2/",
         "what": "Mortgage rates will stay near recent lows as cooler-than-expected inflation data allows the Fed to keep cutting",
@@ -258,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Tech Pulse: MLS AI debate; CoStar disputes Zillow announcement",
+        "url": "https://www.housingwire.com/articles/tech-pulse-mls-ai-costar-zillow/",
+        "what": "Explore the latest real estate technology trends like Zillow's ChatGPT integration, eXp's AI assistant and UWM's new broker tools.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tech-pulse-mls-ai-costar-zillow/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Truework’s Ethan Winchell on creating a better VOIE process",
         "url": "https://www.housingwire.com/articles/truework-mortgage-technology-ethan-winchell-interview/",
