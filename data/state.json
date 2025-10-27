@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-10-27 19:26 UTC",
+  "as_of": "2025-10-27 20:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.01,
-      "delta_bp_1d": 3.999999999999959
+      "yield_pct": 4.02,
+      "delta_bp_1d": 0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.19,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "NextHome partners with Workman Success Systems, promotes executives",
+      "link": "https://www.housingwire.com/articles/nexthome-partners-with-workman-success-systems-promotes-executives/",
+      "published": "Mon, 27 Oct 2025"
+    },
+    {
       "title": "Xactus announces partnerships for income, employment verification efforts",
       "link": "https://www.housingwire.com/articles/xactus-integrations-enhance-verification/",
       "published": "Mon, 27 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Broker working group pushes for change at NAR",
       "link": "https://www.housingwire.com/articles/broker-group-nar-reform/",
-      "published": "Mon, 27 Oct 2025"
-    },
-    {
-      "title": "Click n’ Close offers free USDA loan extensions",
-      "link": "https://www.housingwire.com/articles/click-n-close-free-usda-loan-extensions/",
       "published": "Mon, 27 Oct 2025"
     },
     {
@@ -268,15 +268,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Popular Bank is waving goodbye to the mortgage business",
-        "url": "https://www.housingwire.com/articles/popular-bank-exits-us-mortgage/",
-        "what": "Popular Bank is exiting the U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/popular-bank-exits-us-mortgage/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Welcomes Over 50 New Agents in September",
         "url": "https://www.redfin.com/news/september-2025-agent-hires/",
         "what": "Fall brings fresh energy—and so does our team! We’re thrilled to welcome more than 50 new agents this month, each bringing unique expertise to help homebuyers and sellers nationwide",
@@ -296,6 +287,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "NextHome partners with Workman Success Systems, promotes executives",
+        "url": "https://www.housingwire.com/articles/nexthome-partners-with-workman-success-systems-promotes-executives/",
+        "what": "NextHome is launching a new agent training platform, NextHome Growth Lab, in partnership with Workman Success Systems.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nexthome-partners-with-workman-success-systems-promotes-executives/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Fourth generation of Hunt family takes over HUNT Real Estate",
         "url": "https://www.housingwire.com/articles/charlie-hunt-ceo-hunt-real-estate/",
