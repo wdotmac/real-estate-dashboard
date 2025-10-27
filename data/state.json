@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-27 08:42 UTC",
+  "as_of": "2025-10-27 09:36 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Manufactured housing Is the future of affordable housing",
+      "link": "https://www.housingwire.com/articles/manufactured-housing-is-the-future-of-affordable-housing/",
+      "published": "Mon, 27 Oct 2025"
+    },
+    {
       "title": "Private mortgage insurance: one of the most powerful financial tools for first-time buyers",
       "link": "https://www.housingwire.com/articles/private-mortgage-insurance-one-of-the-most-powerful-financial-tools-for-first-time-buyers/",
       "published": "Mon, 27 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Fannie Mae names new head of single family and acting general counsel",
       "link": "https://www.housingwire.com/articles/fannie-mae-leadership-promotions/",
-      "published": "Fri, 24 Oct 2025"
-    },
-    {
-      "title": "Ohio moves to tie property tax increases to inflation",
-      "link": "https://www.housingwire.com/articles/ohio-property-tax-bills/",
       "published": "Fri, 24 Oct 2025"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "ICE’s First Look report shows mortgage performance is strong despite FHA strain",
-        "url": "https://www.housingwire.com/articles/mortgage-market-resilience-fha-challenges/",
-        "what": "The mortgage market remains largely resilient",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-market-resilience-fha-challenges/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Cool Inflation Data Gives Fed a Green Light to Keep Cutting Rates",
         "url": "https://www.redfin.com/news/september-cpi-report-2/",
         "what": "Mortgage rates will stay near recent lows as cooler-than-expected inflation data allows the Fed to keep cutting",
@@ -249,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Manufactured housing Is the future of affordable housing",
+        "url": "https://www.housingwire.com/articles/manufactured-housing-is-the-future-of-affordable-housing/",
+        "what": "Last month, Members of Congress were treated to an on-the-ground look at manufactured housing - the sector of the housing industry that holds the greatest promise for meeting our n",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/manufactured-housing-is-the-future-of-affordable-housing/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
       {
         "title": "Private mortgage insurance: one of the most powerful financial tools for first-time buyers",
         "url": "https://www.housingwire.com/articles/private-mortgage-insurance-one-of-the-most-powerful-financial-tools-for-first-time-buyers/",
