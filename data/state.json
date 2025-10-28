@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-28 11:27 UTC",
+  "as_of": "2025-10-28 12:59 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "American Financial Resources rebrands as eLEND",
+      "link": "https://www.housingwire.com/articles/elending-rebrand-focus/",
+      "published": "Tue, 28 Oct 2025"
+    },
+    {
+      "title": "Real Brokerage lands familiar team as Pozek Group returns to the fold",
+      "link": "https://www.housingwire.com/articles/pozek-group-returns-real-brokerage/",
+      "published": "Tue, 28 Oct 2025"
+    },
+    {
       "title": "Fraudsters never sleep, and neither should lenders",
       "link": "https://www.housingwire.com/articles/fraudsters-never-sleep-and-neither-should-lenders/",
       "published": "Tue, 28 Oct 2025"
@@ -160,14 +170,9 @@
       "published": "Mon, 27 Oct 2025"
     },
     {
-      "title": "Renters are moving more than homeowners, but US mobility is historically low",
-      "link": "https://www.housingwire.com/articles/american-mobility-decline/",
-      "published": "Mon, 27 Oct 2025"
-    },
-    {
-      "title": "NextHome partners with Workman Success Systems, promotes executives",
-      "link": "https://www.housingwire.com/articles/nexthome-partners-with-workman-success-systems-promotes-executives/",
-      "published": "Mon, 27 Oct 2025"
+      "title": "Bay Area Housing Market Heats Up Amid AI Boom, Return to Office",
+      "link": "https://www.redfin.com/news/bay-area-san-francisco-home-sales/",
+      "published": "Tue, 28 Oct 2025"
     },
     {
       "title": "Redfin Economists’ Weekly Take: Mortgage Rates Stable Ahead of Expected Fed Cut",
@@ -192,11 +197,6 @@
     {
       "title": "Austin, TX Is America’s Strongest Buyer’s Market, With Over Twice as Many Home Sellers as Buyers",
       "link": "https://www.redfin.com/news/buyers-vs-sellers-september-2025/",
-      "published": "Wed, 22 Oct 2025"
-    },
-    {
-      "title": "Sellers Are Getting Ghosted: 15% of Homebuying Contracts Were Canceled in September",
-      "link": "https://www.redfin.com/news/contract-cancellations-september-2025/",
       "published": "Wed, 22 Oct 2025"
     }
   ],
@@ -237,18 +237,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-mortgage-rates-drop-buyers-stay-on-sidelines/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Sellers Are Getting Ghosted: 15% of Homebuying Contracts Were Canceled in September",
-        "url": "https://www.redfin.com/news/contract-cancellations-september-2025/",
-        "what": "Housing costs are frightful and economic jitters are in the air, leading some buyers to leave sellers in the lurch",
-        "numbers": "53,000, 15, 13.6",
-        "justified": "redfin.com — https://www.redfin.com/news/contract-cancellations-september-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "housing": [
+      {
+        "title": "American Financial Resources rebrands as eLEND",
+        "url": "https://www.housingwire.com/articles/elending-rebrand-focus/",
+        "what": "American Financial Resources rebrands as eLEND, emphasizing technology and efficiency in mortgage lending.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/elending-rebrand-focus/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Bay Area Housing Market Heats Up Amid AI Boom, Return to Office",
+        "url": "https://www.redfin.com/news/bay-area-san-francisco-home-sales/",
+        "what": "Pending home sales jumped 17% year over year in San Francisco last month—more than any other major metro",
+        "numbers": "17, 20",
+        "justified": "redfin.com — https://www.redfin.com/news/bay-area-san-francisco-home-sales/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Fraudsters never sleep, and neither should lenders",
         "url": "https://www.housingwire.com/articles/fraudsters-never-sleep-and-neither-should-lenders/",
@@ -264,15 +273,6 @@
         "what": "In 2024, just 11% of Americans changed their address, down from 14.3% a decade earlier and nearly half the rate of the 1960s.",
         "numbers": "2024,, 11, 14.3, 1960",
         "justified": "housingwire.com — https://www.housingwire.com/articles/american-mobility-decline/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "9 top places to buy mortgage leads in 2025",
-        "url": "https://www.housingwire.com/articles/buy-mortgage-leads/",
-        "what": "Whether you need a plug-and-play lead source to buy mortgage leads or a full-service system, this guide helps you find the best fit to keep your pipeline flowing.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/buy-mortgage-leads/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -296,6 +296,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Real Brokerage lands familiar team as Pozek Group returns to the fold",
+        "url": "https://www.housingwire.com/articles/pozek-group-returns-real-brokerage/",
+        "what": "After time at other firms and as an independent brokerage, The Pozek Group returns to Real looking to close $400 million in sales this year.",
+        "numbers": "$400 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pozek-group-returns-real-brokerage/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Making the 7-Day refi reality: Instant title, done right",
         "url": "https://www.housingwire.com/articles/making-the-7-day-refi-reality-instant-title-done-right/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/charlie-hunt-ceo-hunt-real-estate/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Beeline Loans pioneers blockchain home equity transactions",
-        "url": "https://www.housingwire.com/articles/beeline-loans-pioneers-blockchain-home-equity-transactions/",
-        "what": "Beeline Loans has completed its first blockchain-recorded home equity transactions, offering a debt-free alternative to traditional loans.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/beeline-loans-pioneers-blockchain-home-equity-transactions/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
