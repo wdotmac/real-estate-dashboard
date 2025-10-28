@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-28 16:43 UTC",
+  "as_of": "2025-10-28 17:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "5 best Arizona real estate schools for 2025",
+      "link": "https://www.housingwire.com/articles/arizona-real-estate-school/",
+      "published": "Tue, 28 Oct 2025"
+    },
+    {
+      "title": "Prudential study reveals retirement planning gaps",
+      "link": "https://www.housingwire.com/articles/mass-affluent-retirement-confidence/",
+      "published": "Tue, 28 Oct 2025"
+    },
+    {
+      "title": "Mortgage rates hit 2025 low point again, spurring fall housing activity",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-drop-driving-housing-activity/",
+      "published": "Tue, 28 Oct 2025"
+    },
+    {
       "title": "Redfin pulled into the fray as Zillow, Compass fight over witness",
       "link": "https://www.housingwire.com/articles/redfin-pulled-into-the-fray-as-zillow-compass-fight-over-witness/",
       "published": "Tue, 28 Oct 2025"
     },
     {
-      "title": "Douglas Elliman sells property management arm to Associa subsidiary for $85 Million",
+      "title": "Douglas Elliman sells property management arm to Associa subsidiary for $85 million",
       "link": "https://www.housingwire.com/articles/douglas-elliman-sells-property-management-arm-to-associa-subsidiary-for-85-million/",
       "published": "Tue, 28 Oct 2025"
     },
     {
       "title": "PayPal, Bilt partner to allow mortgage payments through Venmo",
       "link": "https://www.housingwire.com/articles/venmo-rent-mortgage-payments/",
-      "published": "Tue, 28 Oct 2025"
-    },
-    {
-      "title": "Home price growth continued to cool in August",
-      "link": "https://www.housingwire.com/articles/home-price-growth-continued-to-cool-in-august/",
-      "published": "Tue, 28 Oct 2025"
-    },
-    {
-      "title": "How real estate agents can embrace AI without losing  humanity",
-      "link": "https://www.housingwire.com/articles/how-real-estate-agents-can-embrace-ai-without-losing-humanity/",
-      "published": "Tue, 28 Oct 2025"
-    },
-    {
-      "title": "American Financial Resources rebrands as eLEND",
-      "link": "https://www.housingwire.com/articles/elending-rebrand-focus/",
       "published": "Tue, 28 Oct 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage rates hit 2025 low point again, spurring fall housing activity",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-drop-driving-housing-activity/",
+        "what": "Mortgage rates hit the 2025 low of 6.13% again on Tuesday, continuing trend of near-6% rates that's been spurring housing activity.",
+        "numbers": "2025, 6.13, 6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-drop-driving-housing-activity/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Redfin Economists’ Weekly Take: Mortgage Rates Stable Ahead of Expected Fed Cut",
         "url": "https://www.redfin.com/news/weekly-economics-update-october-27/",
@@ -286,15 +295,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Fraudsters never sleep, and neither should lenders",
-        "url": "https://www.housingwire.com/articles/fraudsters-never-sleep-and-neither-should-lenders/",
-        "what": "Many of us have heard about, or will soon learn, the now-infamous Baltimore story",
-        "numbers": "12, 30, $200 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fraudsters-never-sleep-and-neither-should-lenders/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
         "title": "Redfin Welcomes Over 50 New Agents in September",
         "url": "https://www.redfin.com/news/september-2025-agent-hires/",
         "what": "Fall brings fresh energy—and so does our team! We’re thrilled to welcome more than 50 new agents this month, each bringing unique expertise to help homebuyers and sellers nationwide",
@@ -315,7 +315,25 @@
     ],
     "notables": [
       {
-        "title": "Douglas Elliman sells property management arm to Associa subsidiary for $85 Million",
+        "title": "5 best Arizona real estate schools for 2025",
+        "url": "https://www.housingwire.com/articles/arizona-real-estate-school/",
+        "what": "We've pinpointed the best online programs to complete your 96-hour course at an approved Arizona real estate school.",
+        "numbers": "96",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/arizona-real-estate-school/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Prudential study reveals retirement planning gaps",
+        "url": "https://www.housingwire.com/articles/mass-affluent-retirement-confidence/",
+        "what": "Prudential's survey reveals a gap between retirement confidence and preparedness among affluent Americans.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mass-affluent-retirement-confidence/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Douglas Elliman sells property management arm to Associa subsidiary for $85 million",
         "url": "https://www.housingwire.com/articles/douglas-elliman-sells-property-management-arm-to-associa-subsidiary-for-85-million/",
         "what": "Elliman said it expects to report a gain of more than $75 million from the sale in the fourth quarter of 2025.",
         "numbers": "$75 million, 2025.",
@@ -329,24 +347,6 @@
         "what": "After time at other firms and as an independent brokerage, The Pozek Group returns to Real looking to close $400 million in sales this year.",
         "numbers": "$400 million",
         "justified": "housingwire.com — https://www.housingwire.com/articles/pozek-group-returns-real-brokerage/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Making the 7-Day refi reality: Instant title, done right",
-        "url": "https://www.housingwire.com/articles/making-the-7-day-refi-reality-instant-title-done-right/",
-        "what": "The refinance experience is only as fast as its slowest step, and title insurance has traditionally been one of the least understood steps in the process – and, therefore, perceived as one of the most unpredictable",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/making-the-7-day-refi-reality-instant-title-done-right/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Collov AI, Side partner on virtual staging tools for agents",
-        "url": "https://www.housingwire.com/articles/collov-ai-side-partner-on-virtual-staging-tools-for-agents/",
-        "what": "The partnership aims to support more than 3,700 Side agents by enabling them to create photorealistic, professionally designed spaces.",
-        "numbers": "3,700",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/collov-ai-side-partner-on-virtual-staging-tools-for-agents/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
