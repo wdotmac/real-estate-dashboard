@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-28 13:42 UTC",
+  "as_of": "2025-10-28 14:36 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Home price growth continued to cool in August",
+      "link": "https://www.housingwire.com/articles/home-price-growth-continued-to-cool-in-august/",
+      "published": "Tue, 28 Oct 2025"
+    },
+    {
+      "title": "How real estate agents can embrace AI without losing  humanity",
+      "link": "https://www.housingwire.com/articles/how-real-estate-agents-can-embrace-ai-without-losing-humanity/",
+      "published": "Tue, 28 Oct 2025"
+    },
+    {
       "title": "American Financial Resources rebrands as eLEND",
       "link": "https://www.housingwire.com/articles/elending-rebrand-focus/",
       "published": "Tue, 28 Oct 2025"
@@ -158,16 +168,6 @@
       "title": "Making the 7-Day refi reality: Instant title, done right",
       "link": "https://www.housingwire.com/articles/making-the-7-day-refi-reality-instant-title-done-right/",
       "published": "Tue, 28 Oct 2025"
-    },
-    {
-      "title": "Collov AI, Side partner on virtual staging tools for agents",
-      "link": "https://www.housingwire.com/articles/collov-ai-side-partner-on-virtual-staging-tools-for-agents/",
-      "published": "Mon, 27 Oct 2025"
-    },
-    {
-      "title": "Luxury homebuyers getting more bang for their buck in Atlanta, Denver",
-      "link": "https://www.housingwire.com/articles/luxury-homebuyers-getting-more-bang-for-their-buck-in-atlanta-denver/",
-      "published": "Mon, 27 Oct 2025"
     },
     {
       "title": "Bay Area Housing Market Heats Up Amid AI Boom, Return to Office",
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Xactus announces partnerships for income, employment verification efforts",
-        "url": "https://www.housingwire.com/articles/xactus-integrations-enhance-verification/",
-        "what": "Xactus integrates Thomas & Co., Argyle and Plaid into Xactus360, enhancing access to income, employment and asset data for lenders.",
-        "numbers": "360,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/xactus-integrations-enhance-verification/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Mortgage Rates Stable Ahead of Expected Fed Cut",
         "url": "https://www.redfin.com/news/weekly-economics-update-october-27/",
         "what": "This Week In A Nutshell Rates are steady heading into the week following a cool inflation report last Friday, but they could rise even if the Fed cuts as expected on Wednesday—if Fed officials push back on expectations for a subsequent cut in December",
@@ -240,6 +231,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Home price growth continued to cool in August",
+        "url": "https://www.housingwire.com/articles/home-price-growth-continued-to-cool-in-august/",
+        "what": "In August, home prices rose at their slowest annual pace since July 2023, marking the seventh consecutive month of cooling price growth.",
+        "numbers": "2023,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/home-price-growth-continued-to-cool-in-august/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "How real estate agents can embrace AI without losing  humanity",
+        "url": "https://www.housingwire.com/articles/how-real-estate-agents-can-embrace-ai-without-losing-humanity/",
+        "what": "Industry experts urged housing peers to embrace AI as the tech moves beyond its novelty status or risk being left in the dust.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/how-real-estate-agents-can-embrace-ai-without-losing-humanity/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "American Financial Resources rebrands as eLEND",
         "url": "https://www.housingwire.com/articles/elending-rebrand-focus/",
@@ -338,15 +347,6 @@
         "what": "NextHome is launching a new agent training platform, NextHome Growth Lab, in partnership with Workman Success Systems.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/nexthome-partners-with-workman-success-systems-promotes-executives/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Fourth generation of Hunt family takes over HUNT Real Estate",
-        "url": "https://www.housingwire.com/articles/charlie-hunt-ceo-hunt-real-estate/",
-        "what": "Charlie Hunt has held leadership roles at HUNT for the past decade, and now he is the latest Hunt family member to take the helm.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/charlie-hunt-ceo-hunt-real-estate/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
