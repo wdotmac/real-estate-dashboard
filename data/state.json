@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-10-29 19:26 UTC",
+  "as_of": "2025-10-29 20:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.01,
-      "delta_bp_1d": -0.9999999999999787
+      "yield_pct": 3.99,
+      "delta_bp_1d": -1.9999999999999574
     },
     "mortgage_30y": {
       "rate_pct": 6.19,
@@ -170,6 +170,11 @@
       "published": "Wed, 29 Oct 2025"
     },
     {
+      "title": "Mortgage Rates to Tick Up After Fed Signals That December Cut Isn’t Guaranteed",
+      "link": "https://www.redfin.com/news/fed-meeting-analysis-oct-2025/",
+      "published": "Wed, 29 Oct 2025"
+    },
+    {
       "title": "27% of For-Sale Homes Are Newly Built, the Lowest Share in 4 Years",
       "link": "https://www.redfin.com/news/august-2025-new-construction-homes/",
       "published": "Wed, 29 Oct 2025"
@@ -193,15 +198,19 @@
       "title": "Redfin Welcomes Over 50 New Agents in September",
       "link": "https://www.redfin.com/news/september-2025-agent-hires/",
       "published": "Thu, 23 Oct 2025"
-    },
-    {
-      "title": "Mortgage Rates Drop Near 3-Year Low, Opening Door For Homebuyers–But Few Are Walking Through",
-      "link": "https://www.redfin.com/news/housing-market-update-mortgage-rates-drop-buyers-stay-on-sidelines/",
-      "published": "Thu, 23 Oct 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage Rates to Tick Up After Fed Signals That December Cut Isn’t Guaranteed",
+        "url": "https://www.redfin.com/news/fed-meeting-analysis-oct-2025/",
+        "what": "Mortgage rates will tick up after Fed Chair Powell sent a strong signal that a December rate cut—that markets have already priced in—is far from a foregone conclusion",
+        "numbers": "25",
+        "justified": "redfin.com — https://www.redfin.com/news/fed-meeting-analysis-oct-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Fed delivers another 25-bps rate cut. Mortgage lenders prepare to scale up",
         "url": "https://www.housingwire.com/articles/fed-rate-cut-mortgage-impact/",
@@ -226,15 +235,6 @@
         "what": "Mortgage rates will stay near recent lows as cooler-than-expected inflation data allows the Fed to keep cutting",
         "numbers": "0.2, 3.0",
         "justified": "redfin.com — https://www.redfin.com/news/september-cpi-report-2/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage Rates Drop Near 3-Year Low, Opening Door For Homebuyers–But Few Are Walking Through",
-        "url": "https://www.redfin.com/news/housing-market-update-mortgage-rates-drop-buyers-stay-on-sidelines/",
-        "what": "A homebuyer on a $3,000 budget has gained $26,000 since last year as mortgage rates drop to the low-6% range",
-        "numbers": "$3,000, $26,000, 6, 6.17, 3",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-mortgage-rates-drop-buyers-stay-on-sidelines/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
