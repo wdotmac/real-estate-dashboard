@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-29 13:02 UTC",
+  "as_of": "2025-10-29 13:45 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Fannie Mae ups ante with $3.9B in net income",
+      "link": "https://www.housingwire.com/articles/fannie-mae-q3-net-income-2025/",
+      "published": "Wed, 29 Oct 2025"
+    },
+    {
       "title": "The AI advantage: How real estate industry leaders can get ahead in a digital market",
       "link": "https://www.housingwire.com/articles/the-ai-advantage-how-real-estate-industry-leaders-can-get-ahead-in-a-digital-market/",
       "published": "Wed, 29 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Coldwell Banker affiliate changes ownership in West Virginia",
       "link": "https://www.housingwire.com/articles/coldwell-banker-affiliate-changes-ownership-in-west-virginia/",
-      "published": "Tue, 28 Oct 2025"
-    },
-    {
-      "title": "Fed prepares to pivot balance sheet, with potential ripple effects for mortgages",
-      "link": "https://www.housingwire.com/articles/fed-qt-end-mortgage-impact/",
       "published": "Tue, 28 Oct 2025"
     },
     {
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Will the Fed ruin the lowest mortgage rates of 2025?",
-        "url": "https://www.housingwire.com/articles/will-the-fed-ruin-the-lowest-mortgage-rates-of-2025/",
-        "what": "Mortgage rates have dropped just before the Fed meeting tomorrow",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/will-the-fed-ruin-the-lowest-mortgage-rates-of-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Mortgage Rates Stable Ahead of Expected Fed Cut",
         "url": "https://www.redfin.com/news/weekly-economics-update-october-27/",
         "what": "This Week In A Nutshell Rates are steady heading into the week following a cool inflation report last Friday, but they could rise even if the Fed cuts as expected on Wednesday—if Fed officials push back on expectations for a subsequent cut in December",
@@ -258,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Fannie Mae ups ante with $3.9B in net income",
+        "url": "https://www.housingwire.com/articles/fannie-mae-q3-net-income-2025/",
+        "what": "Fannie Mae reported a net income of $3.9 billion for Q3 2025, up 16% from Q2",
+        "numbers": "$3.9 billion, 3, 2025,, 16, 2., $109 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-mae-q3-net-income-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "27% of For-Sale Homes Are Newly Built, the Lowest Share in 4 Years",
         "url": "https://www.redfin.com/news/august-2025-new-construction-homes/",
