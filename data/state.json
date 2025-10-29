@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-29 15:35 UTC",
+  "as_of": "2025-10-29 16:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Pending home sales flat in September as affordability challenges persist",
+      "link": "https://www.housingwire.com/articles/pending-home-sales-flat-in-september-as-affordability-challenges-persist/",
+      "published": "Wed, 29 Oct 2025"
+    },
+    {
+      "title": "The four-step real estate listing framework for more signed agreements",
+      "link": "https://www.housingwire.com/articles/real-framework-listing-appointments/",
+      "published": "Wed, 29 Oct 2025"
+    },
+    {
+      "title": "CoStar can’t stop talking about Zillow as Homes.com growth surges",
+      "link": "https://www.housingwire.com/articles/costar-cant-stop-talking-about-zillow-as-homes-com-growth-surges/",
+      "published": "Wed, 29 Oct 2025"
+    },
+    {
+      "title": "CFPB drops nonbank registry rule, citing cost burden",
+      "link": "https://www.housingwire.com/articles/cfpb-rescinds-nonbank-registry-rule/",
+      "published": "Wed, 29 Oct 2025"
+    },
+    {
       "title": "Zillow adds in-app messaging to chat with ‘co-shoppers’",
       "link": "https://www.housingwire.com/articles/zillow-adds-in-app-messaging-to-chat-with-co-shoppers/",
       "published": "Wed, 29 Oct 2025"
@@ -147,26 +167,6 @@
     {
       "title": "David Benson is back at Fannie Mae",
       "link": "https://www.housingwire.com/articles/david-benson-returns-fannie-mae/",
-      "published": "Wed, 29 Oct 2025"
-    },
-    {
-      "title": "Lower rates prompt refis and dismissal of ARMs",
-      "link": "https://www.housingwire.com/articles/mortgage-applications-rise-7-1-percent/",
-      "published": "Wed, 29 Oct 2025"
-    },
-    {
-      "title": "Fannie Mae ups ante with $3.9B in net income",
-      "link": "https://www.housingwire.com/articles/fannie-mae-q3-net-income-2025/",
-      "published": "Wed, 29 Oct 2025"
-    },
-    {
-      "title": "The AI advantage: How real estate industry leaders can get ahead in a digital market",
-      "link": "https://www.housingwire.com/articles/the-ai-advantage-how-real-estate-industry-leaders-can-get-ahead-in-a-digital-market/",
-      "published": "Wed, 29 Oct 2025"
-    },
-    {
-      "title": "Redefining the loan officer’s toolkit: Why insurance guidance belongs next to APR calculators",
-      "link": "https://www.housingwire.com/articles/redefining-the-loan-officers-toolkit-why-insurance-guidance-belongs-next-to-apr-calculators/",
       "published": "Wed, 29 Oct 2025"
     },
     {
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Fed prepares to pivot balance sheet, with potential ripple effects for mortgages",
-        "url": "https://www.housingwire.com/articles/fed-qt-end-mortgage-impact/",
-        "what": "A growing number of economists believe the Federal Reserve is close to announcing the end of its quantitative tightening (QT) program",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-qt-end-mortgage-impact/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Mortgage Rates Stable Ahead of Expected Fed Cut",
         "url": "https://www.redfin.com/news/weekly-economics-update-october-27/",
         "what": "This Week In A Nutshell Rates are steady heading into the week following a cool inflation report last Friday, but they could rise even if the Fed cuts as expected on Wednesday—if Fed officials push back on expectations for a subsequent cut in December",
@@ -258,6 +249,33 @@
       }
     ],
     "housing": [
+      {
+        "title": "Pending home sales flat in September as affordability challenges persist",
+        "url": "https://www.housingwire.com/articles/pending-home-sales-flat-in-september-as-affordability-challenges-persist/",
+        "what": "The number of contract signings remained flat in September as homebuyers grapple with affordability challenges and an uncertain economy.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pending-home-sales-flat-in-september-as-affordability-challenges-persist/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "The four-step real estate listing framework for more signed agreements",
+        "url": "https://www.housingwire.com/articles/real-framework-listing-appointments/",
+        "what": "Discover the R.E.A.L",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-framework-listing-appointments/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "CoStar can’t stop talking about Zillow as Homes.com growth surges",
+        "url": "https://www.housingwire.com/articles/costar-cant-stop-talking-about-zillow-as-homes-com-growth-surges/",
+        "what": "Zillow was a main character on CoStar Group's Q3 earnings call, even as Homes.com reported record growth for the quarter.",
+        "numbers": "3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-cant-stop-talking-about-zillow-as-homes-com-growth-surges/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Zillow adds in-app messaging to chat with ‘co-shoppers’",
         "url": "https://www.housingwire.com/articles/zillow-adds-in-app-messaging-to-chat-with-co-shoppers/",
@@ -306,6 +324,15 @@
     ],
     "notables": [
       {
+        "title": "CFPB drops nonbank registry rule, citing cost burden",
+        "url": "https://www.housingwire.com/articles/cfpb-rescinds-nonbank-registry-rule/",
+        "what": "CFPB acting director Russell Vought raised concerns about the costs the rules impose on regulated entities and the expenses CFPB would incur for maintaining the registries.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-rescinds-nonbank-registry-rule/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "David Benson is back at Fannie Mae",
         "url": "https://www.housingwire.com/articles/david-benson-returns-fannie-mae/",
         "what": "David Benson returns to Fannie Mae as senior adviser, bringing experience during a time of leadership changes and potential IPO plans.",
@@ -320,33 +347,6 @@
         "what": "Artificial intelligence (AI) is no longer a future promise in real estate",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/the-ai-advantage-how-real-estate-industry-leaders-can-get-ahead-in-a-digital-market/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Financially stressed homeowners are delaying essential repairs",
-        "url": "https://www.housingwire.com/articles/homeowners-delay-repairs-safety-financial-risks/",
-        "what": "A study found that 71% of homeowners have postponed at least one home project in 2025, and 60% are actively delaying essential maintenance.",
-        "numbers": "71, 2025,, 60",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homeowners-delay-repairs-safety-financial-risks/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "5 best real estate classes in Washington for 2025",
-        "url": "https://www.housingwire.com/articles/real-estate-classes-washington/",
-        "what": "Choose one of our favorite real estate classes in Washington State to ace the state exam and confidently launch a new career.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-classes-washington/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Coldwell Banker affiliate changes ownership in West Virginia",
-        "url": "https://www.housingwire.com/articles/coldwell-banker-affiliate-changes-ownership-in-west-virginia/",
-        "what": "The acquired firm has served multiple West Virginia communities for more than two decades, with leadership staying on under new ownership.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/coldwell-banker-affiliate-changes-ownership-in-west-virginia/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
