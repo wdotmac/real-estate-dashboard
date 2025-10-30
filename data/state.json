@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-30 13:42 UTC",
+  "as_of": "2025-10-30 14:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Freddie Mac’s earnings slowly ticking back up amid credit losses",
+      "link": "https://www.housingwire.com/articles/freddie-mac-q3-2025-earnings/",
+      "published": "Thu, 30 Oct 2025"
+    },
+    {
       "title": "Shutdown slows housing activity in federal worker-heavy markets",
       "link": "https://www.housingwire.com/articles/shutdown-slows-housing-activity-in-federal-worker-heavy-markets/",
       "published": "Thu, 30 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "ALTA’s David Townsend on housing affordability and title insurance regulations",
       "link": "https://www.housingwire.com/articles/david-townsend-alta-agenda/",
-      "published": "Wed, 29 Oct 2025"
-    },
-    {
-      "title": "The ultimate guide to real estate business cards",
-      "link": "https://www.housingwire.com/articles/real-estate-business-cards/",
       "published": "Wed, 29 Oct 2025"
     },
     {
@@ -235,15 +235,6 @@
         "what": "Mortgage rates will tick up after Fed Chair Powell sent a strong signal that a December rate cut—that markets have already priced in—is far from a foregone conclusion",
         "numbers": "25",
         "justified": "redfin.com — https://www.redfin.com/news/fed-meeting-analysis-oct-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Fed delivers another 25-bps rate cut. Mortgage lenders prepare to scale up",
-        "url": "https://www.housingwire.com/articles/fed-rate-cut-mortgage-impact/",
-        "what": "Monetary policy watchers expect another cut in December, which",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-rate-cut-mortgage-impact/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -323,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Freddie Mac’s earnings slowly ticking back up amid credit losses",
+        "url": "https://www.housingwire.com/articles/freddie-mac-q3-2025-earnings/",
+        "what": "Freddie Mac's Q3 2025 earnings show while net income increased from last quarter to $2.8 billion, there is still a year-over-year decline.",
+        "numbers": "3, 2025, $2.8 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/freddie-mac-q3-2025-earnings/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "The ultimate guide to real estate business cards",
         "url": "https://www.housingwire.com/articles/real-estate-business-cards/",
