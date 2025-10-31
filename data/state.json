@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-31 12:59 UTC",
+  "as_of": "2025-10-31 13:41 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Fannie Mae cuts 62 jobs under FHFA’s push to streamline operations",
+      "link": "https://www.housingwire.com/articles/fannie-mae-layoffs-strategic-shift/",
+      "published": "Fri, 31 Oct 2025"
+    },
+    {
       "title": "One in five Americans believe they’ve lived in a haunted house",
       "link": "https://www.housingwire.com/articles/one-in-five-americans-believe-theyve-lived-in-a-haunted-house/",
       "published": "Fri, 31 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Rocket’s integrations of Redfin, Mr. Cooper lift Q3 results above forecasts",
       "link": "https://www.housingwire.com/articles/rocket-companies-q3-2025-earnings/",
-      "published": "Thu, 30 Oct 2025"
-    },
-    {
-      "title": "Debate heats up around GSEs’ potentially larger role as MBS buyers",
-      "link": "https://www.housingwire.com/articles/gse-mbs-purchases-debate/",
       "published": "Thu, 30 Oct 2025"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Fannie Mae cuts 62 jobs under FHFA’s push to streamline operations",
+        "url": "https://www.housingwire.com/articles/fannie-mae-layoffs-strategic-shift/",
+        "what": "Fannie Mae cut 62 jobs on Thursday across its operations, technology, and diversity teams as part of an ongoing strategy imposed by Federal Housing Finance Agency (FHFA) Director B",
+        "numbers": "62",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-mae-layoffs-strategic-shift/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Affordability for first-time homebuyers: Beyond rates and prices",
         "url": "https://www.housingwire.com/articles/affordability-for-first-time-homebuyers-beyond-rates-and-prices/",
         "what": "We've all heard the refrain: it's never been harder to buy your first home",
@@ -217,15 +226,6 @@
         "what": "NextHome co-CEO Keith Robinson and others are happy to see Washington address housing, but say more first-time homebuyers help is needed.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-leaders-praise-federal-housing-action-stress-first-time-buyer-help/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Government shutdown impacts senior access to services",
-        "url": "https://www.housingwire.com/articles/government-shutdown-seniors-impact/",
-        "what": "The federal government shutdown is set to reach one month on Saturday, and the impacts are being felt by many Americans, including seniors who are struggling to access food, health",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/government-shutdown-seniors-impact/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
