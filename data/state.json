@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-02 13:31 UTC",
+  "as_of": "2025-11-02 14:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage spreads hit lowest level in years, keeping rates near 6%",
+      "link": "https://www.housingwire.com/articles/mortgage-spreads-hit-lowest-level-in-years-keeping-rates-near-6/",
+      "published": "Sun, 02 Nov 2025"
+    },
+    {
       "title": "Tech Pulse: AI advances, big earnings and policy shifts",
       "link": "https://www.housingwire.com/articles/tech-pulse-ai-advances-big-earnings-and-policy-shifts/",
       "published": "Fri, 31 Oct 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Realtor.com releasing 3D “FlyAround” property viewing tool",
       "link": "https://www.housingwire.com/articles/realtor-com-releasing-3d-flyaround-property-viewing-tool/",
-      "published": "Fri, 31 Oct 2025"
-    },
-    {
-      "title": "Zillow’s Follow Up Boss privacy policy changes spark industry debate",
-      "link": "https://www.housingwire.com/articles/zillow-follow-up-boss-privacy-changes/",
       "published": "Fri, 31 Oct 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage spreads hit lowest level in years, keeping rates near 6%",
+        "url": "https://www.housingwire.com/articles/mortgage-spreads-hit-lowest-level-in-years-keeping-rates-near-6/",
+        "what": "Improved mortgage spreads have been key to lowering rates near 6% in 2025, enhancing the housing market's stability.",
+        "numbers": "6, 2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-spreads-hit-lowest-level-in-years-keeping-rates-near-6/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Ocrolus adds automated conditioning to mortgage tools",
         "url": "https://www.housingwire.com/articles/ocrolus-automated-conditioning/",
@@ -338,15 +347,6 @@
         "what": "The new governance model includes a smaller board of directors, the majority of whom will come from outside the real estate industry.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/northstarmls-governance-revamp/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "RE/MAX sees Q3 profit rise despite revenue dip, talks AI and franchise programs",
-        "url": "https://www.housingwire.com/articles/re-max-sees-q3-profit-rise-despite-revenue-dip-talks-ai-and-franchise-programs/",
-        "what": "CEO Erik Carlson said new digital marketing initiatives will help agents win more business while improving profitability for brokerages.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/re-max-sees-q3-profit-rise-despite-revenue-dip-talks-ai-and-franchise-programs/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
