@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-03 10:40 UTC",
+  "as_of": "2025-11-03 11:27 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Sage Home Loans partners with Robinhood for exclusive rate offer",
+      "link": "https://www.housingwire.com/articles/robinhood-gold-sage-mortgage-offer/",
+      "published": "Mon, 03 Nov 2025"
+    },
+    {
       "title": "The need for speed: Delivering faster home equity turn times",
       "link": "https://www.housingwire.com/articles/the-need-for-speed-delivering-faster-home-equity-turn-times/",
       "published": "Mon, 03 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "NorthstarMLS restructures board, embraces new governance model",
       "link": "https://www.housingwire.com/articles/northstarmls-governance-revamp/",
-      "published": "Fri, 31 Oct 2025"
-    },
-    {
-      "title": "Newrez wholesale leader Tony Kottenbrock talks about growing non-QM",
-      "link": "https://www.housingwire.com/articles/newrez-non-qm-mortgage-surge/",
       "published": "Fri, 31 Oct 2025"
     },
     {
@@ -203,20 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Sage Home Loans partners with Robinhood for exclusive rate offer",
+        "url": "https://www.housingwire.com/articles/robinhood-gold-sage-mortgage-offer/",
+        "what": "Through the offer, Robinhood Gold subscribers can now access mortgage rates 0.75% below the national average and a $500 closing credit.",
+        "numbers": "0.75, $500",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/robinhood-gold-sage-mortgage-offer/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage spreads hit lowest level in years, keeping rates near 6%",
         "url": "https://www.housingwire.com/articles/mortgage-spreads-hit-lowest-level-in-years-keeping-rates-near-6/",
         "what": "Improved mortgage spreads have been key to lowering rates near 6% in 2025, enhancing the housing market's stability.",
         "numbers": "6, 2025,",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-spreads-hit-lowest-level-in-years-keeping-rates-near-6/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Ocrolus adds automated conditioning to mortgage tools",
-        "url": "https://www.housingwire.com/articles/ocrolus-automated-conditioning/",
-        "what": "The new AI-powered feature accelerates loan processing by automating the identification and management of conditions.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ocrolus-automated-conditioning/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
