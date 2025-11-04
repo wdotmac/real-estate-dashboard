@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-03 23:29 UTC",
+  "as_of": "2025-11-04 02:14 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Mon, 03 Nov 2025"
     },
     {
+      "title": "Redfin Economists’ Weekly Take: No End in Sight for Government Shutdown",
+      "link": "https://www.redfin.com/news/weekly-economics-update-november-3/",
+      "published": "Mon, 03 Nov 2025"
+    },
+    {
       "title": "Only 28 Out of Every 1,000 U.S. Homes Changed Hands This Year—The Lowest Turnover in Decades",
       "link": "https://www.redfin.com/news/home-turnover-report-2025/",
       "published": "Fri, 31 Oct 2025"
@@ -193,15 +198,19 @@
       "title": "27% of For-Sale Homes Are Newly Built, the Lowest Share in 4 Years",
       "link": "https://www.redfin.com/news/august-2025-new-construction-homes/",
       "published": "Wed, 29 Oct 2025"
-    },
-    {
-      "title": "Bay Area Housing Market Heats Up Amid AI Boom, Return to Office",
-      "link": "https://www.redfin.com/news/bay-area-san-francisco-home-sales/",
-      "published": "Tue, 28 Oct 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Redfin Economists’ Weekly Take: No End in Sight for Government Shutdown",
+        "url": "https://www.redfin.com/news/weekly-economics-update-november-3/",
+        "what": "This Week In A Nutshell Rates have reset about 15-20 bps higher following last week’s Fed meeting",
+        "numbers": "15, 20",
+        "justified": "redfin.com — https://www.redfin.com/news/weekly-economics-update-november-3/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "FHFA inspector general role vacant after reported ouster of Joe Allen",
         "url": "https://www.housingwire.com/articles/fhfa-inspector-general-vacancy/",
@@ -293,15 +302,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/august-2025-new-construction-homes/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Bay Area Housing Market Heats Up Amid AI Boom, Return to Office",
-        "url": "https://www.redfin.com/news/bay-area-san-francisco-home-sales/",
-        "what": "Pending home sales jumped 17% year over year in San Francisco last month—more than any other major metro",
-        "numbers": "17, 20",
-        "justified": "redfin.com — https://www.redfin.com/news/bay-area-san-francisco-home-sales/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
