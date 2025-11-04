@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-11-04 20:34 UTC",
+  "as_of": "2025-11-04 21:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.11,
-      "delta_bp_1d": 0.0
+      "yield_pct": 4.13,
+      "delta_bp_1d": 1.9999999999999574
     },
     "mortgage_30y": {
       "rate_pct": 6.17,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "November Demo Day: DocMagic One",
+      "link": "https://www.housingwire.com/articles/november-demo-day-docmagic-one/",
+      "published": "Tue, 04 Nov 2025"
+    },
+    {
+      "title": "Century 21 merger creates tri-state service net",
+      "link": "https://www.housingwire.com/articles/century-21-merger-creates-tri-state-service-net/",
+      "published": "Tue, 04 Nov 2025"
+    },
+    {
+      "title": "NEXA Lending promotes Rana Mortensen to chief administrative officer",
+      "link": "https://www.housingwire.com/articles/nexa-lending-rana-mortensen-cao/",
+      "published": "Tue, 04 Nov 2025"
+    },
+    {
       "title": "Opteon acquires Equity Valuation Partners, expands US presence",
       "link": "https://www.housingwire.com/articles/opteon-acquires-equity-valuation-partners/",
       "published": "Tue, 04 Nov 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Zillow, MRED at odds over listing policy",
       "link": "https://www.housingwire.com/articles/mred-zillow-listing-policy/",
-      "published": "Tue, 04 Nov 2025"
-    },
-    {
-      "title": "FHFA plan would bring LLPA relief for second homes and cash-out refis",
-      "link": "https://www.housingwire.com/articles/barry-habib-llpa-adjustments/",
-      "published": "Tue, 04 Nov 2025"
-    },
-    {
-      "title": "Will 6% mortgage rates create more opportunities for homebuyers?",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-opportunities-2025/",
-      "published": "Tue, 04 Nov 2025"
-    },
-    {
-      "title": "Senate Democrats propose emergency payment for seniors hit by inflation",
-      "link": "https://www.housingwire.com/articles/senate-bill-social-security-benefits-increase/",
       "published": "Tue, 04 Nov 2025"
     },
     {
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "November Demo Day: DocMagic One",
+        "url": "https://www.housingwire.com/articles/november-demo-day-docmagic-one/",
+        "what": "DocMagic One DocMagic One is a unified mortgage production platform that streamlines document preparation, automated compliance, and eSignature management in one place",
+        "numbers": "1",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/november-demo-day-docmagic-one/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Zillow, MRED at odds over listing policy",
         "url": "https://www.housingwire.com/articles/mred-zillow-listing-policy/",
         "what": "MLS giant MRED says Zillow’s restrictions could violate its agreement and threaten the city’s private listing network.",
@@ -297,6 +306,24 @@
     ],
     "notables": [
       {
+        "title": "Century 21 merger creates tri-state service net",
+        "url": "https://www.housingwire.com/articles/century-21-merger-creates-tri-state-service-net/",
+        "what": "With the merger, the combined company totals 11 offices and approximately 275 independent agents across three states.",
+        "numbers": "11, 275",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/century-21-merger-creates-tri-state-service-net/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "NEXA Lending promotes Rana Mortensen to chief administrative officer",
+        "url": "https://www.housingwire.com/articles/nexa-lending-rana-mortensen-cao/",
+        "what": "NEXA Lending announced another change to its C-suite on Tuesday, promoting Rana Mortensen to chief administrative officer.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nexa-lending-rana-mortensen-cao/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Opteon acquires Equity Valuation Partners, expands US presence",
         "url": "https://www.housingwire.com/articles/opteon-acquires-equity-valuation-partners/",
         "what": "Equity Valuation Partners provides residential and commercial appraisal services across the U.S",
@@ -315,38 +342,11 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "FHFA plan would bring LLPA relief for second homes and cash-out refis",
+        "title": "Habib’s proposal to FHFA would bring LLPA relief for second homes, cash-out refis",
         "url": "https://www.housingwire.com/articles/barry-habib-llpa-adjustments/",
         "what": "Barry Habib's plan, sent to FHFA Director Bill Pulte, focuses on non-owner-occupied second homes and cash-out refinances.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/barry-habib-llpa-adjustments/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Compass leans on Christie’s acquisition playbook ahead of Anywhere merger",
-        "url": "https://www.housingwire.com/articles/compass-anywhere-integration/",
-        "what": "After proving its playbook with Christie’s, Compass now looks to replicate its success at a far larger scale.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-anywhere-integration/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Why these 10 overlooked real estate niches are goldmines",
-        "url": "https://www.housingwire.com/articles/overlooked-real-estate-niches/",
-        "what": "Explore 10 real estate niches that most agents overlook",
-        "numbers": "10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/overlooked-real-estate-niches/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Anywhere reports Q3 revenue growth, moves closer to Compass merger",
-        "url": "https://www.housingwire.com/articles/anywhere-reports-q3-revenue-growth-moves-closer-to-compass-merger/",
-        "what": "Third quarter revenue of $1.6 billion represented a 6% year-over-year jump, with operating EBITDA totaling $100 million.",
-        "numbers": "$1.6 billion, 6, $100 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/anywhere-reports-q3-revenue-growth-moves-closer-to-compass-merger/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
