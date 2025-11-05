@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-05 22:33 UTC",
+  "as_of": "2025-11-05 23:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "As other markets tighten, Memphis remains a bargain for buyers",
+      "link": "https://www.housingwire.com/articles/memphis-buyers-gain-leverage/",
+      "published": "Wed, 05 Nov 2025"
+    },
+    {
+      "title": "Guild sees Q3 revenue surge to $307.4M ahead of Bayview transaction",
+      "link": "https://www.housingwire.com/articles/guild-holdings-q3-2025-earnings/",
+      "published": "Wed, 05 Nov 2025"
+    },
+    {
+      "title": "Decatur homes sell twice as fast as national average",
+      "link": "https://www.housingwire.com/articles/decatur-il-homes-trends/",
+      "published": "Wed, 05 Nov 2025"
+    },
+    {
+      "title": "Mortgage industry backs LLPA changes but is divided over priorities",
+      "link": "https://www.housingwire.com/articles/llpa-changes-gse-stock-offering/",
+      "published": "Wed, 05 Nov 2025"
+    },
+    {
       "title": "A growing foreclosure crisis? Not according to the latest Fed data",
       "link": "https://www.housingwire.com/articles/ny-fed-report-homeowner-financial-health-foreclosure-2025/",
       "published": "Wed, 05 Nov 2025"
@@ -147,26 +167,6 @@
     {
       "title": "Phoenix sellers cut prices, but values hold firm",
       "link": "https://www.housingwire.com/articles/phoenix-home-trends-2025/",
-      "published": "Wed, 05 Nov 2025"
-    },
-    {
-      "title": "Rochester affordability fuels New York’s tightest housing market",
-      "link": "https://www.housingwire.com/articles/rochester-affordable-housing-market/",
-      "published": "Wed, 05 Nov 2025"
-    },
-    {
-      "title": "New View: Proprietary loans now account for 40% of reverse mortgages",
-      "link": "https://www.housingwire.com/articles/proprietary-reverse-mortgages-market-share/",
-      "published": "Wed, 05 Nov 2025"
-    },
-    {
-      "title": "Real Brokerage teams up with MAXA designs to automate marketing for agents",
-      "link": "https://www.housingwire.com/articles/real-brokerage-maxa-marketing-automation/",
-      "published": "Wed, 05 Nov 2025"
-    },
-    {
-      "title": "Q3 2025 earnings for publicly traded mortgage and real estate companies",
-      "link": "https://www.housingwire.com/articles/q2-2025-earnings-mortgage-real-estate-companies/",
       "published": "Wed, 05 Nov 2025"
     },
     {
@@ -232,6 +232,24 @@
     ],
     "housing": [
       {
+        "title": "As other markets tighten, Memphis remains a bargain for buyers",
+        "url": "https://www.housingwire.com/articles/memphis-buyers-gain-leverage/",
+        "what": "Memphis home buyers gain leverage as inventory grows 18% and homes take 84 days to sell, keeping prices well below state and national medians.",
+        "numbers": "18, 84",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/memphis-buyers-gain-leverage/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Mortgage industry backs LLPA changes but is divided over priorities",
+        "url": "https://www.housingwire.com/articles/llpa-changes-gse-stock-offering/",
+        "what": "The mortgage industry largely supports changes to the loan-level price adjustment (LLPA) matrix but remains divided on priorities, with a full overhaul unlikely amid a potential st",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/llpa-changes-gse-stock-offering/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Rochester affordability fuels New York’s tightest housing market",
         "url": "https://www.housingwire.com/articles/rochester-affordable-housing-market/",
         "what": "Rochester's housing market is New York's tightest with just 0.96 months of inventory",
@@ -257,33 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/q2-2025-earnings-mortgage-real-estate-companies/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mamdani not Florida’s ‘Realtor of the Year’ as NYC’s housing market stays stable — so far",
-        "url": "https://www.housingwire.com/articles/mamdani-nyc-real-estate-impact/",
-        "what": "Predictions of a sell-off and migration surge haven’t played out",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mamdani-nyc-real-estate-impact/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "California’s top premium markets show divergent trends",
-        "url": "https://www.housingwire.com/articles/california-premium-market-trends/",
-        "what": "Explore why California's premium housing markets show divergent trends",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/california-premium-market-trends/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Manchester housing eludes national slowdown as homes sell in 35 days",
-        "url": "https://www.housingwire.com/articles/manchester-housing-trends-2025/",
-        "what": "Manchester homes sell in 35 days, defying national trends",
-        "numbers": "35",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/manchester-housing-trends-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Military Members, Veterans Make Up Slightly Higher Share of Mortgaged Homebuyers Than Last Year As Buyer’s Market Persists",
@@ -324,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "Guild sees Q3 revenue surge to $307.4M ahead of Bayview transaction",
+        "url": "https://www.housingwire.com/articles/guild-holdings-q3-2025-earnings/",
+        "what": "Ahead of its Bayview transaction, Guild Holdings posted a Q3 2025 revenue of $307.4 million, up from $279.4 million in Q2 2025.",
+        "numbers": "3, 2025, $307.4 million, $279.4 million, 2, 2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/guild-holdings-q3-2025-earnings/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Decatur homes sell twice as fast as national average",
+        "url": "https://www.housingwire.com/articles/decatur-il-homes-trends/",
+        "what": "Homes in Decatur sell in 35 days, twice as fast as the U.S",
+        "numbers": "35, 17.8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/decatur-il-homes-trends/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Phoenix sellers cut prices, but values hold firm",
         "url": "https://www.housingwire.com/articles/phoenix-home-trends-2025/",
         "what": "Nearly half of Phoenix homes cut prices, yet the median list price stays 20% above national levels",
@@ -338,15 +347,6 @@
         "what": "Real Brokerage teams up with MAXA Designs to automate marketing for agents",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/real-brokerage-maxa-marketing-automation/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "November Demo Day: Mova Speech Analytics Platform",
-        "url": "https://www.housingwire.com/articles/november-demo-day-mova-speech-analytics-platform/",
-        "what": "Mova Speech Analytics Platform The Mova platform allows you to capture and coach on insights from 100% of your selling and servicing conversations",
-        "numbers": "100",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/november-demo-day-mova-speech-analytics-platform/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
