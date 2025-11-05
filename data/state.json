@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-05 18:43 UTC",
+  "as_of": "2025-11-05 19:27 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Austin market relies on price cuts as homes sit longer",
+      "link": "https://www.housingwire.com/articles/austin-housing-trends/",
+      "published": "Wed, 05 Nov 2025"
+    },
+    {
+      "title": "Foundation Mortgage welcomes Samuel Bjelac to lead TPO sales",
+      "link": "https://www.housingwire.com/articles/foundation-mortgage-samuel-bjelac/",
+      "published": "Wed, 05 Nov 2025"
+    },
+    {
+      "title": "Comparing Texas housing markets: Austin, Dallas, Houston, San Antonio trends",
+      "link": "https://www.housingwire.com/articles/texas-housing-market-2025/",
+      "published": "Wed, 05 Nov 2025"
+    },
+    {
       "title": "Rental payment reporting boosts mortgage eligibility",
       "link": "https://www.housingwire.com/articles/rental-payment-reporting-mortgage-eligibility/",
       "published": "Wed, 05 Nov 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Fathom’s START Real Estate enters Utah, Arizona and Nevada",
       "link": "https://www.housingwire.com/articles/start-real-estate-expansion-utah-arizona-nevada/",
-      "published": "Wed, 05 Nov 2025"
-    },
-    {
-      "title": "Hartford metro homes sell quickly amid price cuts",
-      "link": "https://www.housingwire.com/articles/hartford-housing-market/",
-      "published": "Wed, 05 Nov 2025"
-    },
-    {
-      "title": "NewDay USA names executives to head up new mortgage program",
-      "link": "https://www.housingwire.com/articles/newday-usa-leadership-veteran-homeownership/",
-      "published": "Wed, 05 Nov 2025"
-    },
-    {
-      "title": "Off-market sales cost San Francisco home sellers an estimated $750M",
-      "link": "https://www.housingwire.com/articles/mls-listings-san-francisco-value/",
       "published": "Wed, 05 Nov 2025"
     },
     {
@@ -232,6 +232,33 @@
     ],
     "housing": [
       {
+        "title": "Austin market relies on price cuts as homes sit longer",
+        "url": "https://www.housingwire.com/articles/austin-housing-trends/",
+        "what": "Austin's housing market diverges from Texas trends",
+        "numbers": "84",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/austin-housing-trends/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Foundation Mortgage welcomes Samuel Bjelac to lead TPO sales",
+        "url": "https://www.housingwire.com/articles/foundation-mortgage-samuel-bjelac/",
+        "what": "With more than 20 years of experience, Bjelac aims to expand the company's national wholesale lending presence and drive growth.",
+        "numbers": "20",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/foundation-mortgage-samuel-bjelac/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Comparing Texas housing markets: Austin, Dallas, Houston, San Antonio trends",
+        "url": "https://www.housingwire.com/articles/texas-housing-market-2025/",
+        "what": "The top Texas housing markets show diverse housing trends with Austin leading in price cuts",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/texas-housing-market-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Hartford metro homes sell quickly amid price cuts",
         "url": "https://www.housingwire.com/articles/hartford-housing-market/",
         "what": "The Hartford, CT metro housing market maintains its fast median 28 days on market as 30.7% of active listings reduced their asking prices.",
@@ -255,15 +282,6 @@
         "what": "Tri-state homes sell 26 days faster than national median days on market despite a price premium",
         "numbers": "26",
         "justified": "housingwire.com — https://www.housingwire.com/articles/tri-state-housing/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Tampa real estate trends",
-        "url": "https://www.housingwire.com/articles/tampa-housing-trends/",
-        "what": "Explore Tampa's housing market trends with over 53% of current home listings seeing price cuts and faster sales.",
-        "numbers": "53",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tampa-housing-trends/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mls-listings-san-francisco-value/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Finance of America’s Q3 loss contrasts with sharp rise in adjusted income",
-        "url": "https://www.housingwire.com/articles/finance-of-america-q3-loss-adjusted-earnings-rise/",
-        "what": "Finance of America reported a Q3 net loss but saw a sharp rise in adjusted income, driven by home equity lending growth.",
-        "numbers": "3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/finance-of-america-q3-loss-adjusted-earnings-rise/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Point, Blue Owl funds close record $390M HEI securitization",
-        "url": "https://www.housingwire.com/articles/point-blue-owl-hei-securitization/",
-        "what": "Point and funds managed by Blue Owl Capital have issued a $390 million securitization of home equity investment (HEI) assets, the companies announced on Wednesday.",
-        "numbers": "$390 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/point-blue-owl-hei-securitization/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
