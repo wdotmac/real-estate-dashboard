@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-05 15:32 UTC",
+  "as_of": "2025-11-05 16:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Finance of America’s Q3 loss contrasts with sharp rise in adjusted income",
+      "link": "https://www.housingwire.com/articles/finance-of-america-q3-loss-adjusted-earnings-rise/",
+      "published": "Wed, 05 Nov 2025"
+    },
+    {
+      "title": "Tampa real estate trends",
+      "link": "https://www.housingwire.com/articles/tampa-housing-trends/",
+      "published": "Wed, 05 Nov 2025"
+    },
+    {
+      "title": "Point, Blue Owl funds close record $390M HEI securitization",
+      "link": "https://www.housingwire.com/articles/point-blue-owl-hei-securitization/",
+      "published": "Wed, 05 Nov 2025"
+    },
+    {
       "title": "Mortgage applications fall 1.9% in late October",
       "link": "https://www.housingwire.com/articles/mortgage-applications-decline-october/",
       "published": "Wed, 05 Nov 2025"
@@ -153,21 +168,6 @@
       "title": "From automation to action: The next wave of AI in title & escrow",
       "link": "https://www.housingwire.com/articles/from-automation-to-action-the-next-wave-of-ai-in-title-escrow/",
       "published": "Wed, 05 Nov 2025"
-    },
-    {
-      "title": "Rethinking climate readiness: How ICE’s climate data helps close risk gaps and reduce lender blind spots",
-      "link": "https://www.housingwire.com/articles/rethinking-climate-readiness-ices-data-driven-approach-to-lender-resilience/",
-      "published": "Wed, 05 Nov 2025"
-    },
-    {
-      "title": "The Optimal Blue lawsuit: Data transparency or market manipulation?",
-      "link": "https://www.housingwire.com/articles/the-optimal-blue-lawsuit-data-transparency-or-market-manipulation/",
-      "published": "Wed, 05 Nov 2025"
-    },
-    {
-      "title": "Another Fed rate cut to finish 2025? Not so fast",
-      "link": "https://www.housingwire.com/articles/fed-interest-rate-cut-odds/",
-      "published": "Tue, 04 Nov 2025"
     },
     {
       "title": "Military Members, Veterans Make Up Slightly Higher Share of Mortgaged Homebuyers Than Last Year As Buyer’s Market Persists",
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Tampa real estate trends",
+        "url": "https://www.housingwire.com/articles/tampa-housing-trends/",
+        "what": "Explore Tampa's housing market trends with over 53% of current home listings seeing price cuts and faster sales.",
+        "numbers": "53",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tampa-housing-trends/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Mortgage applications fall 1.9% in late October",
         "url": "https://www.housingwire.com/articles/mortgage-applications-decline-october/",
         "what": "Mortgage applications fell 1.9% for the week ending October 31, 2025, but refinance applications remain significantly higher than last year.",
@@ -297,6 +306,24 @@
     ],
     "notables": [
       {
+        "title": "Finance of America’s Q3 loss contrasts with sharp rise in adjusted income",
+        "url": "https://www.housingwire.com/articles/finance-of-america-q3-loss-adjusted-earnings-rise/",
+        "what": "Finance of America reported a Q3 net loss but saw a sharp rise in adjusted income, driven by home equity lending growth.",
+        "numbers": "3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/finance-of-america-q3-loss-adjusted-earnings-rise/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Point, Blue Owl funds close record $390M HEI securitization",
+        "url": "https://www.housingwire.com/articles/point-blue-owl-hei-securitization/",
+        "what": "Point and funds managed by Blue Owl Capital have issued a $390 million securitization of home equity investment (HEI) assets, the companies announced on Wednesday.",
+        "numbers": "$390 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/point-blue-owl-hei-securitization/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "SERHANT. bets big on Las Vegas real estate",
         "url": "https://www.housingwire.com/articles/serhant-las-vegas-launch/",
         "what": "The Ryan Serhant-helmed firm is making its Vegas debut, marking its fourth new market expansion this year and its second Western market debut.",
@@ -322,33 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/november-demo-day-nestment-key-by-nestment/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "November Demo Day: Intelligent Quality Control by Blend",
-        "url": "https://www.housingwire.com/articles/november-demo-day-intelligent-quality-control-by-blend/",
-        "what": "Intelligent Quality Control Blend’s AI-powered Intelligent Quality Control product enhances loan quality control, helping QC analysts detect issues more efficiently",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/november-demo-day-intelligent-quality-control-by-blend/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "November Demo Day: Dara Invoice by Sagent",
-        "url": "https://www.housingwire.com/articles/november-demo-day-dara-invoice-by-sagent/",
-        "what": "Dara Invoice Dara Invoice streamlines invoice management between servicers and their default servicing partners",
-        "numbers": "1, 30, 2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/november-demo-day-dara-invoice-by-sagent/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "November Demo Day: OneHomeowner by Cotality",
-        "url": "https://www.housingwire.com/articles/november-demo-day-onehomeowner-by-cotality/",
-        "what": "OneHomeowner OneHomeowner makes long-term client connections easy",
-        "numbers": "1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/november-demo-day-onehomeowner-by-cotality/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
