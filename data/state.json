@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-05 14:36 UTC",
+  "as_of": "2025-11-05 15:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage applications fall 1.9% in late October",
+      "link": "https://www.housingwire.com/articles/mortgage-applications-decline-october/",
+      "published": "Wed, 05 Nov 2025"
+    },
+    {
       "title": "SERHANT. bets big on Las Vegas real estate",
       "link": "https://www.housingwire.com/articles/serhant-las-vegas-launch/",
       "published": "Wed, 05 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Another Fed rate cut to finish 2025? Not so fast",
       "link": "https://www.housingwire.com/articles/fed-interest-rate-cut-odds/",
-      "published": "Tue, 04 Nov 2025"
-    },
-    {
-      "title": "November Demo Day: Nestment Key by Nestment",
-      "link": "https://www.housingwire.com/articles/november-demo-day-nestment-key-by-nestment/",
       "published": "Tue, 04 Nov 2025"
     },
     {
@@ -250,20 +250,20 @@
     ],
     "housing": [
       {
+        "title": "Mortgage applications fall 1.9% in late October",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-decline-october/",
+        "what": "Mortgage applications fell 1.9% for the week ending October 31, 2025, but refinance applications remain significantly higher than last year.",
+        "numbers": "1.9, 31,, 2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-decline-october/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Military Members, Veterans Make Up Slightly Higher Share of Mortgaged Homebuyers Than Last Year As Buyer’s Market Persists",
         "url": "https://www.redfin.com/news/va-loans-uptick-2025/",
         "what": "VA loans have become slightly more common as buyers gain power and sellers are more apt to accept offers with low down payments",
         "numbers": "",
         "justified": "redfin.com — https://www.redfin.com/news/va-loans-uptick-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "November Demo Day: DocMagic One",
-        "url": "https://www.housingwire.com/articles/november-demo-day-docmagic-one/",
-        "what": "DocMagic One DocMagic One is a unified mortgage production platform that streamlines document preparation, automated compliance, and eSignature management in one place",
-        "numbers": "1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/november-demo-day-docmagic-one/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
