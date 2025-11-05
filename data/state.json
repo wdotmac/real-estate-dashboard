@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-05 16:42 UTC",
+  "as_of": "2025-11-05 17:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "NewDay USA names executives to head up new mortgage program",
+      "link": "https://www.housingwire.com/articles/newday-usa-leadership-veteran-homeownership/",
+      "published": "Wed, 05 Nov 2025"
+    },
+    {
+      "title": "Off-market sales cost San Francisco home sellers an estimated $750M",
+      "link": "https://www.housingwire.com/articles/mls-listings-san-francisco-value/",
+      "published": "Wed, 05 Nov 2025"
+    },
+    {
+      "title": "Tri-state homes sell faster despite high prices",
+      "link": "https://www.housingwire.com/articles/tri-state-housing/",
+      "published": "Wed, 05 Nov 2025"
+    },
+    {
       "title": "Finance of America’s Q3 loss contrasts with sharp rise in adjusted income",
       "link": "https://www.housingwire.com/articles/finance-of-america-q3-loss-adjusted-earnings-rise/",
       "published": "Wed, 05 Nov 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Point, Blue Owl funds close record $390M HEI securitization",
       "link": "https://www.housingwire.com/articles/point-blue-owl-hei-securitization/",
-      "published": "Wed, 05 Nov 2025"
-    },
-    {
-      "title": "Mortgage applications fall 1.9% in late October",
-      "link": "https://www.housingwire.com/articles/mortgage-applications-decline-october/",
-      "published": "Wed, 05 Nov 2025"
-    },
-    {
-      "title": "SERHANT. bets big on Las Vegas real estate",
-      "link": "https://www.housingwire.com/articles/serhant-las-vegas-launch/",
-      "published": "Wed, 05 Nov 2025"
-    },
-    {
-      "title": "From automation to action: The next wave of AI in title & escrow",
-      "link": "https://www.housingwire.com/articles/from-automation-to-action-the-next-wave-of-ai-in-title-escrow/",
       "published": "Wed, 05 Nov 2025"
     },
     {
@@ -212,24 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "The Optimal Blue lawsuit: Data transparency or market manipulation?",
-        "url": "https://www.housingwire.com/articles/the-optimal-blue-lawsuit-data-transparency-or-market-manipulation/",
-        "what": "Mortgage-pricing data has gone digital",
-        "numbers": "2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-optimal-blue-lawsuit-data-transparency-or-market-manipulation/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Another Fed rate cut to finish 2025? Not so fast",
-        "url": "https://www.housingwire.com/articles/fed-interest-rate-cut-odds/",
-        "what": "The odds that the Federal Reserve will cut benchmark interest rates again in December are still high",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-interest-rate-cut-odds/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: No End in Sight for Government Shutdown",
         "url": "https://www.redfin.com/news/weekly-economics-update-november-3/",
         "what": "This Week In A Nutshell Rates have reset about 15-20 bps higher following last week’s Fed meeting",
@@ -249,6 +231,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "NewDay USA names executives to head up new mortgage program",
+        "url": "https://www.housingwire.com/articles/newday-usa-leadership-veteran-homeownership/",
+        "what": "NewDay USA appoints Ken Harthausen and Neil Brooks to lead NewDay Home, a program empowering veterans with no-down-payment home purchases.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/newday-usa-leadership-veteran-homeownership/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Tri-state homes sell faster despite high prices",
+        "url": "https://www.housingwire.com/articles/tri-state-housing/",
+        "what": "Tri-state homes sell 26 days faster than national median days on market despite a price premium",
+        "numbers": "26",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tri-state-housing/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Tampa real estate trends",
         "url": "https://www.housingwire.com/articles/tampa-housing-trends/",
@@ -306,6 +306,15 @@
     ],
     "notables": [
       {
+        "title": "Off-market sales cost San Francisco home sellers an estimated $750M",
+        "url": "https://www.housingwire.com/articles/mls-listings-san-francisco-value/",
+        "what": "Results from a recent three-year study showed MLS-listed properties consistently outperforming off-market sales across all price ranges.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-listings-san-francisco-value/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Finance of America’s Q3 loss contrasts with sharp rise in adjusted income",
         "url": "https://www.housingwire.com/articles/finance-of-america-q3-loss-adjusted-earnings-rise/",
         "what": "Finance of America reported a Q3 net loss but saw a sharp rise in adjusted income, driven by home equity lending growth.",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/from-automation-to-action-the-next-wave-of-ai-in-title-escrow/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "November Demo Day: Nestment Key by Nestment",
-        "url": "https://www.housingwire.com/articles/november-demo-day-nestment-key-by-nestment/",
-        "what": "Nestment Key Nestment Key empowers agents to transform dormant leads into “ready buyers”",
-        "numbers": "1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/november-demo-day-nestment-key-by-nestment/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
