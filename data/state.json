@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-05 19:27 UTC",
+  "as_of": "2025-11-05 20:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "San Jose’s housing market is a California standout",
+      "link": "https://www.housingwire.com/articles/san-jose-housing-market-defies-trends/",
+      "published": "Wed, 05 Nov 2025"
+    },
+    {
       "title": "Austin market relies on price cuts as homes sit longer",
       "link": "https://www.housingwire.com/articles/austin-housing-trends/",
       "published": "Wed, 05 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Douglas Elliman’s revenue drops amid ‘transitional year’",
       "link": "https://www.housingwire.com/articles/douglas-elliman-transformation/",
-      "published": "Wed, 05 Nov 2025"
-    },
-    {
-      "title": "Fathom’s START Real Estate enters Utah, Arizona and Nevada",
-      "link": "https://www.housingwire.com/articles/start-real-estate-expansion-utah-arizona-nevada/",
       "published": "Wed, 05 Nov 2025"
     },
     {
@@ -232,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "San Jose’s housing market is a California standout",
+        "url": "https://www.housingwire.com/articles/san-jose-housing-market-defies-trends/",
+        "what": "Explore why San Jose's housing market remains hot with tight supply and high prices, defying broader California trends.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/san-jose-housing-market-defies-trends/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Austin market relies on price cuts as homes sit longer",
         "url": "https://www.housingwire.com/articles/austin-housing-trends/",
         "what": "Austin's housing market diverges from Texas trends",
@@ -275,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/newday-usa-leadership-veteran-homeownership/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Tri-state homes sell faster despite high prices",
-        "url": "https://www.housingwire.com/articles/tri-state-housing/",
-        "what": "Tri-state homes sell 26 days faster than national median days on market despite a price premium",
-        "numbers": "26",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tri-state-housing/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "Military Members, Veterans Make Up Slightly Higher Share of Mortgaged Homebuyers Than Last Year As Buyer’s Market Persists",
