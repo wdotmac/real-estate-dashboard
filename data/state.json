@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-06 13:00 UTC",
+  "as_of": "2025-11-06 13:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Wed, 05 Nov 2025"
     },
     {
+      "title": "Flood-Prone America Is Seeing More People Move Out Than In for the First Time Since 2019",
+      "link": "https://www.redfin.com/news/climate-migration-real-estate-2025/",
+      "published": "Thu, 06 Nov 2025"
+    },
+    {
       "title": "Pending Home Sales Barely Budge, As Buyers Stay Cautious Despite Lower Mortgage Rates",
       "link": "https://www.redfin.com/news/housing-market-update-pending-home-sales-barely-budge/",
       "published": "Thu, 06 Nov 2025"
@@ -193,11 +198,6 @@
       "title": "Only 28 Out of Every 1,000 U.S. Homes Changed Hands This Year—The Lowest Turnover in Decades",
       "link": "https://www.redfin.com/news/home-turnover-report-2025/",
       "published": "Fri, 31 Oct 2025"
-    },
-    {
-      "title": "U.S. Luxury Home Prices Rose 5% in September, Twice the Pace of Non-Luxury Prices",
-      "link": "https://www.redfin.com/news/luxury-homes-market-september-2025/",
-      "published": "Thu, 30 Oct 2025"
     }
   ],
   "feed_101020": {
@@ -231,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Flood-Prone America Is Seeing More People Move Out Than In for the First Time Since 2019",
+        "url": "https://www.redfin.com/news/climate-migration-real-estate-2025/",
+        "what": "An analysis of domestic migration data shows high-flood-risk counties lost nearly 30,000 more residents than they gained last year, driven largely by outflows from Miami and Houston",
+        "numbers": "30,000, 2019",
+        "justified": "redfin.com — https://www.redfin.com/news/climate-migration-real-estate-2025/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Reimagining a real estate icon: Inside the RE/MAX brand refresh",
         "url": "https://www.housingwire.com/articles/reimagining-a-real-estate-icon-inside-the-re-max-brand-refresh/",
