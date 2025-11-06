@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-06 13:43 UTC",
+  "as_of": "2025-11-06 14:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Market trends are giving Oklahoma City buyers an edge",
+      "link": "https://www.housingwire.com/articles/okc-housing-update/",
+      "published": "Thu, 06 Nov 2025"
+    },
+    {
       "title": "Reimagining a real estate icon: Inside the RE/MAX brand refresh",
       "link": "https://www.housingwire.com/articles/reimagining-a-real-estate-icon-inside-the-re-max-brand-refresh/",
       "published": "Thu, 06 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Mortgage industry backs LLPA changes but is divided over priorities",
       "link": "https://www.housingwire.com/articles/llpa-changes-gse-stock-offering/",
-      "published": "Wed, 05 Nov 2025"
-    },
-    {
-      "title": "A growing foreclosure crisis? Not according to the latest Fed data",
-      "link": "https://www.housingwire.com/articles/ny-fed-report-homeowner-financial-health-foreclosure-2025/",
       "published": "Wed, 05 Nov 2025"
     },
     {
@@ -231,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Market trends are giving Oklahoma City buyers an edge",
+        "url": "https://www.housingwire.com/articles/okc-housing-update/",
+        "what": "Oklahoma City housing market shifts to neutral as inventory rises and price cuts increase",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/okc-housing-update/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Flood-Prone America Is Seeing More People Move Out Than In for the First Time Since 2019",
         "url": "https://www.redfin.com/news/climate-migration-real-estate-2025/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/phoenix-home-trends-2025/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Real Brokerage teams up with MAXA designs to automate marketing for agents",
-        "url": "https://www.housingwire.com/articles/real-brokerage-maxa-marketing-automation/",
-        "what": "Real Brokerage teams up with MAXA Designs to automate marketing for agents",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-brokerage-maxa-marketing-automation/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
