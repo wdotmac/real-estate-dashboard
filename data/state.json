@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-06 11:28 UTC",
+  "as_of": "2025-11-06 13:00 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Wed, 05 Nov 2025"
     },
     {
+      "title": "Pending Home Sales Barely Budge, As Buyers Stay Cautious Despite Lower Mortgage Rates",
+      "link": "https://www.redfin.com/news/housing-market-update-pending-home-sales-barely-budge/",
+      "published": "Thu, 06 Nov 2025"
+    },
+    {
       "title": "Military Members, Veterans Make Up Slightly Higher Share of Mortgaged Homebuyers Than Last Year As Buyer’s Market Persists",
       "link": "https://www.redfin.com/news/va-loans-uptick-2025/",
       "published": "Wed, 05 Nov 2025"
@@ -193,15 +198,19 @@
       "title": "U.S. Luxury Home Prices Rose 5% in September, Twice the Pace of Non-Luxury Prices",
       "link": "https://www.redfin.com/news/luxury-homes-market-september-2025/",
       "published": "Thu, 30 Oct 2025"
-    },
-    {
-      "title": "Median Monthly Housing Payment Posts Biggest Decline in Nearly a Year",
-      "link": "https://www.redfin.com/news/housing-market-update-monthly-payments-biggest-decline-in-year/",
-      "published": "Thu, 30 Oct 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Pending Home Sales Barely Budge, As Buyers Stay Cautious Despite Lower Mortgage Rates",
+        "url": "https://www.redfin.com/news/housing-market-update-pending-home-sales-barely-budge/",
+        "what": "Homes are selling at the slowest pace for this time of year since 2019",
+        "numbers": "2019., 0.7, 2,",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-home-sales-barely-budge/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "A growing foreclosure crisis? Not according to the latest Fed data",
         "url": "https://www.housingwire.com/articles/ny-fed-report-homeowner-financial-health-foreclosure-2025/",
@@ -217,15 +226,6 @@
         "what": "This Week In A Nutshell Rates have reset about 15-20 bps higher following last week’s Fed meeting",
         "numbers": "15, 20",
         "justified": "redfin.com — https://www.redfin.com/news/weekly-economics-update-november-3/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Median Monthly Housing Payment Posts Biggest Decline in Nearly a Year",
-        "url": "https://www.redfin.com/news/housing-market-update-monthly-payments-biggest-decline-in-year/",
-        "what": "Many would-be buyers are still spooked by rising sale prices and economic instability, but some are creeping off the sidelines",
-        "numbers": "$2,530, 26,, 1.4, 2024.",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-monthly-payments-biggest-decline-in-year/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
@@ -302,15 +302,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/home-turnover-report-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "U.S. Luxury Home Prices Rose 5% in September, Twice the Pace of Non-Luxury Prices",
-        "url": "https://www.redfin.com/news/luxury-homes-market-september-2025/",
-        "what": "The typical U.S",
-        "numbers": "$1,262,000, 4.8, 0.3, 5",
-        "justified": "redfin.com — https://www.redfin.com/news/luxury-homes-market-september-2025/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
