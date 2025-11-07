@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-07 12:59 UTC",
+  "as_of": "2025-11-07 13:39 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Why Green Bay homes sell 42 days faster than national average",
+      "link": "https://www.housingwire.com/articles/green-bay-housing-market-price-cuts-sales-velocity/",
+      "published": "Fri, 07 Nov 2025"
+    },
+    {
       "title": "Three ways servicers can move the needle on borrower experience",
       "link": "https://www.housingwire.com/articles/three-ways-servicers-can-move-the-needle-on-borrower-experience/",
       "published": "Fri, 07 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Blend Labs reports shrinking mortgage revenue even as its partnerships gain steam",
       "link": "https://www.housingwire.com/articles/blend-labs-q3-earnings-2025/",
-      "published": "Thu, 06 Nov 2025"
-    },
-    {
-      "title": "Why Springfield homes sell faster than Illinois average",
-      "link": "https://www.housingwire.com/articles/springfield-housing-market/",
       "published": "Thu, 06 Nov 2025"
     },
     {
@@ -232,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "Why Green Bay homes sell 42 days faster than national average",
+        "url": "https://www.housingwire.com/articles/green-bay-housing-market-price-cuts-sales-velocity/",
+        "what": "Green Bay housing market speeds sales with 33% price cuts and homes selling in 35 days, 42 days faster than national median",
+        "numbers": "33, 35, 42",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/green-bay-housing-market-price-cuts-sales-velocity/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Three ways servicers can move the needle on borrower experience",
         "url": "https://www.housingwire.com/articles/three-ways-servicers-can-move-the-needle-on-borrower-experience/",
         "what": "Low borrower satisfaction carries significant business consequences for mortgage servicers",
@@ -291,15 +300,6 @@
         "what": "Orlando metro homes take 20% longer to sell despite over 47% price cuts",
         "numbers": "20, 47",
         "justified": "housingwire.com — https://www.housingwire.com/articles/orlando-metro-housing-market-nov-2025/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Philadelphia homes sell weeks faster than national pace",
-        "url": "https://www.housingwire.com/articles/philadelphia-metro-homes-sell-faster/",
-        "what": "Philadelphia metro homes sell 28 days faster than national pace",
-        "numbers": "28, 39, 2.0",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/philadelphia-metro-homes-sell-faster/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
