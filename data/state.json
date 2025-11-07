@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-07 21:26 UTC",
+  "as_of": "2025-11-07 22:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Stewart acquires MCS’s mortgage services business for $330 million",
+      "link": "https://www.housingwire.com/articles/stewart-acquires-mcs-property-preservation/",
+      "published": "Fri, 07 Nov 2025"
+    },
+    {
       "title": "Opendoor hits reset: The iBuyer goes full founder mode with new CEO",
       "link": "https://www.housingwire.com/articles/opendoor-hits-reset-the-ibuyer-goes-full-founder-mode-with-new-ceo/",
       "published": "Fri, 07 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Longbridge has record quarter for proprietary volume, posts $8.6M profit",
       "link": "https://www.housingwire.com/articles/longbridge-financial-q3-2025-earnings/",
-      "published": "Fri, 07 Nov 2025"
-    },
-    {
-      "title": "Opendoor, Roam team up to expand assumable mortgage access",
-      "link": "https://www.housingwire.com/articles/opendoor-roam-team-up-to-expand-assumable-mortgage-access/",
       "published": "Fri, 07 Nov 2025"
     },
     {
@@ -213,6 +213,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Stewart acquires MCS’s mortgage services business for $330 million",
+        "url": "https://www.housingwire.com/articles/stewart-acquires-mcs-property-preservation/",
+        "what": "Stewart Information Services Corp",
+        "numbers": "$330 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/stewart-acquires-mcs-property-preservation/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Exclusive: NFM Lending grows footprint with Homespire Mortgage acquisition",
         "url": "https://www.housingwire.com/articles/nfm-lending-acquires-homespire-mortgage/",
@@ -266,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/green-bay-housing-market-price-cuts-sales-velocity/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Three ways servicers can move the needle on borrower experience",
-        "url": "https://www.housingwire.com/articles/three-ways-servicers-can-move-the-needle-on-borrower-experience/",
-        "what": "Low borrower satisfaction carries significant business consequences for mortgage servicers",
-        "numbers": "2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/three-ways-servicers-can-move-the-needle-on-borrower-experience/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Flood-Prone America Is Seeing More People Move Out Than In for the First Time Since 2019",
