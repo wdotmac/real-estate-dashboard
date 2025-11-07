@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-11-07 20:30 UTC",
+  "as_of": "2025-11-07 21:26 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.17,
-      "delta_bp_1d": 7.000000000000028
+      "yield_pct": 4.11,
+      "delta_bp_1d": -5.999999999999961
     },
     "mortgage_30y": {
       "rate_pct": 6.22,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Opendoor hits reset: The iBuyer goes full founder mode with new CEO",
+      "link": "https://www.housingwire.com/articles/opendoor-hits-reset-the-ibuyer-goes-full-founder-mode-with-new-ceo/",
+      "published": "Fri, 07 Nov 2025"
+    },
+    {
       "title": "Exclusive: NFM Lending grows footprint with Homespire Mortgage acquisition",
       "link": "https://www.housingwire.com/articles/nfm-lending-acquires-homespire-mortgage/",
       "published": "Fri, 07 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Opendoor, Roam team up to expand assumable mortgage access",
       "link": "https://www.housingwire.com/articles/opendoor-roam-team-up-to-expand-assumable-mortgage-access/",
-      "published": "Fri, 07 Nov 2025"
-    },
-    {
-      "title": "David Conroy rejoins NAR as first-ever chief data officer",
-      "link": "https://www.housingwire.com/articles/david-conroy-rejoins-nar-as-first-ever-chief-data-officer/",
       "published": "Fri, 07 Nov 2025"
     },
     {
@@ -202,15 +202,6 @@
   ],
   "feed_101020": {
     "macro": [
-      {
-        "title": "Year of the second mortgage comeback: Why it matters and why it’s not going away anytime soon",
-        "url": "https://www.housingwire.com/articles/year-of-the-second-mortgage-comeback-why-it-matters-and-why-its-not-going-away-anytime-soon/",
-        "what": "The second-lien market is entering a new growth cycle, and Deephaven is helping lead the conversation",
-        "numbers": "$60 billion, 2025,, $35, 85, 5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/year-of-the-second-mortgage-comeback-why-it-matters-and-why-its-not-going-away-anytime-soon/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
       {
         "title": "Pending Home Sales Barely Budge, As Buyers Stay Cautious Despite Lower Mortgage Rates",
         "url": "https://www.redfin.com/news/housing-market-update-pending-home-sales-barely-budge/",
@@ -314,6 +305,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Opendoor hits reset: The iBuyer goes full founder mode with new CEO",
+        "url": "https://www.housingwire.com/articles/opendoor-hits-reset-the-ibuyer-goes-full-founder-mode-with-new-ceo/",
+        "what": "Opendoor CEO Kaz Nejatian aims to transform the company with faster home buying and AI as he takes the helm",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-hits-reset-the-ibuyer-goes-full-founder-mode-with-new-ceo/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Real, former CFO settle wrongful termination lawsuit",
         "url": "https://www.housingwire.com/articles/ressler-settlement/",
