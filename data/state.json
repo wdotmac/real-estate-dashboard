@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-07 07:30 UTC",
+  "as_of": "2025-11-07 08:41 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Year of the second mortgage comeback: Why it matters and why it’s not going away anytime soon",
+      "link": "https://www.housingwire.com/articles/year-of-the-second-mortgage-comeback-why-it-matters-and-why-its-not-going-away-anytime-soon/",
+      "published": "Fri, 07 Nov 2025"
+    },
+    {
       "title": "Florida housing market slows as listings rise and sales drop",
       "link": "https://www.housingwire.com/articles/florida-housing-market-inventory-builds-2025/",
       "published": "Thu, 06 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "How Terre Haute market defies trends with faster sales and price gains",
       "link": "https://www.housingwire.com/articles/terre-haute-housing-market-faster-sales-2025/",
-      "published": "Thu, 06 Nov 2025"
-    },
-    {
-      "title": "Rithm drops Onity as subservicer on $33B portfolio",
-      "link": "https://www.housingwire.com/articles/rithm-subservicing-termination-onity/",
       "published": "Thu, 06 Nov 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Year of the second mortgage comeback: Why it matters and why it’s not going away anytime soon",
+        "url": "https://www.housingwire.com/articles/year-of-the-second-mortgage-comeback-why-it-matters-and-why-its-not-going-away-anytime-soon/",
+        "what": "The second-lien market is entering a new growth cycle, and Deephaven is helping lead the conversation",
+        "numbers": "$60 billion, 2025,, $35, 85, 5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/year-of-the-second-mortgage-comeback-why-it-matters-and-why-its-not-going-away-anytime-soon/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Pending Home Sales Barely Budge, As Buyers Stay Cautious Despite Lower Mortgage Rates",
         "url": "https://www.redfin.com/news/housing-market-update-pending-home-sales-barely-budge/",
@@ -295,15 +304,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Indianapolis sellers cut prices on majority of homes as inventory builds",
-        "url": "https://www.housingwire.com/articles/indianapolis-housing-market-trends-2025/",
-        "what": "Indianapolis housing market sees 56% of homes cut prices as inventory rises and absorption slows, signaling a shift in seller strategy.",
-        "numbers": "56",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/indianapolis-housing-market-trends-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Flood-Prone America Is Seeing More People Move Out Than In for the First Time Since 2019",
         "url": "https://www.redfin.com/news/climate-migration-real-estate-2025/",
         "what": "An analysis of domestic migration data shows high-flood-risk counties lost nearly 30,000 more residents than they gained last year, driven largely by outflows from Miami and Houston",
@@ -311,6 +311,15 @@
         "justified": "redfin.com — https://www.redfin.com/news/climate-migration-real-estate-2025/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Military Members, Veterans Make Up Slightly Higher Share of Mortgaged Homebuyers Than Last Year As Buyer’s Market Persists",
+        "url": "https://www.redfin.com/news/va-loans-uptick-2025/",
+        "what": "VA loans have become slightly more common as buyers gain power and sellers are more apt to accept offers with low down payments",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/va-loans-uptick-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
