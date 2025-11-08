@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-08 19:24 UTC",
+  "as_of": "2025-11-08 20:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Trump proposes 50-year mortgage to help affordability",
+      "link": "https://www.housingwire.com/articles/trump-proposes-50-year-mortgage-to-help-affordability/",
+      "published": "Sat, 08 Nov 2025"
+    },
+    {
       "title": "Pulte says Fannie, Freddie to remain in conservatorship with IPO plans",
       "link": "https://www.housingwire.com/articles/fannie-freddie-ipo-plans-2025/",
       "published": "Sat, 08 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Real, former CFO settle wrongful termination lawsuit",
       "link": "https://www.housingwire.com/articles/ressler-settlement/",
-      "published": "Fri, 07 Nov 2025"
-    },
-    {
-      "title": "What Realtors really think about working with builders",
-      "link": "https://www.housingwire.com/articles/what-realtors-really-think-about-working-with-builders/",
       "published": "Fri, 07 Nov 2025"
     },
     {
@@ -213,6 +213,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Trump proposes 50-year mortgage to help affordability",
+        "url": "https://www.housingwire.com/articles/trump-proposes-50-year-mortgage-to-help-affordability/",
+        "what": "Trump supports 50-year mortgages to lower monthly payments, but longer terms reduce equity and aren't currently allowed under the Dodd-Frank Act.",
+        "numbers": "50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-proposes-50-year-mortgage-to-help-affordability/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Stewart acquires MCS’s mortgage services business for $330 million",
         "url": "https://www.housingwire.com/articles/stewart-acquires-mcs-property-preservation/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/david-conroy-rejoins-nar-as-first-ever-chief-data-officer/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "eXp World Holdings reports strong Q3 2025: revenue growth, agent retention success",
-        "url": "https://www.housingwire.com/articles/exp-world-holdings-reports-strong-q3-2025-revenue-growth-agent-retention-success/",
-        "what": "eXp reports $1.3 billion revenue in Q3 2025, a 7% increase YoY, with net income of $3.5M, driven by agent productivity and retention.",
-        "numbers": "$1.3 billion, 3, 2025,, 7, $3.5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-world-holdings-reports-strong-q3-2025-revenue-growth-agent-retention-success/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
