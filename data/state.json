@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-09 22:31 UTC",
+  "as_of": "2025-11-09 23:27 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Housing inventory falls as demand picks up",
+      "link": "https://www.housingwire.com/articles/housing-inventory/",
+      "published": "Sun, 09 Nov 2025"
+    },
+    {
       "title": "A 50-year mortgage could double your interest payment",
       "link": "https://www.housingwire.com/articles/how-much-would-a-50-year-mortgage-cost/",
       "published": "Sun, 09 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Opendoor hits reset: The iBuyer goes full founder mode with new CEO",
       "link": "https://www.housingwire.com/articles/opendoor-hits-reset-the-ibuyer-goes-full-founder-mode-with-new-ceo/",
-      "published": "Fri, 07 Nov 2025"
-    },
-    {
-      "title": "Exclusive: NFM Lending grows footprint with Homespire Mortgage acquisition",
-      "link": "https://www.housingwire.com/articles/nfm-lending-acquires-homespire-mortgage/",
       "published": "Fri, 07 Nov 2025"
     },
     {
@@ -213,6 +213,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Housing inventory falls as demand picks up",
+        "url": "https://www.housingwire.com/articles/housing-inventory/",
+        "what": "The growth rate of housing inventory has slowed by half, but remains up year over year for a healthier market.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-inventory/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "A 50-year mortgage could double your interest payment",
         "url": "https://www.housingwire.com/articles/how-much-would-a-50-year-mortgage-cost/",
@@ -266,15 +275,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/shutdown-sentiment-job-security-survey/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Opendoor, Roam team up to expand assumable mortgage access",
-        "url": "https://www.housingwire.com/articles/opendoor-roam-team-up-to-expand-assumable-mortgage-access/",
-        "what": "Opendoor and Roam are teaming up to help consumers identify assumable mortgage opportunities as they look for new homes.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-roam-team-up-to-expand-assumable-mortgage-access/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "New on Redfin: See Your Buying Power While You Search",
