@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-10 11:27 UTC",
+  "as_of": "2025-11-10 13:01 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Sat, 08 Nov 2025"
     },
     {
+      "title": "Affordability Improves Slightly For Veteran Homebuyers, But Most Homes Are Still Out of Reach",
+      "link": "https://www.redfin.com/news/veteran-homebuying-affordability-2025/",
+      "published": "Mon, 10 Nov 2025"
+    },
+    {
       "title": "45% of Americans Say the Government Shutdown Makes Them Less Likely to Make a Major Purchase, Up From 21% in Early October",
       "link": "https://www.redfin.com/news/shutdown-sentiment-job-security-survey/",
       "published": "Fri, 07 Nov 2025"
@@ -193,11 +198,6 @@
       "title": "Military Members, Veterans Make Up Slightly Higher Share of Mortgaged Homebuyers Than Last Year As Buyer’s Market Persists",
       "link": "https://www.redfin.com/news/va-loans-uptick-2025/",
       "published": "Wed, 05 Nov 2025"
-    },
-    {
-      "title": "One Year of Redfin Next: Top Redfin Agents’ Pay Jumps 20%",
-      "link": "https://www.redfin.com/news/agent-pay-report-2025/",
-      "published": "Tue, 04 Nov 2025"
     }
   ],
   "feed_101020": {
@@ -213,6 +213,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Affordability Improves Slightly For Veteran Homebuyers, But Most Homes Are Still Out of Reach",
+        "url": "https://www.redfin.com/news/veteran-homebuying-affordability-2025/",
+        "what": "22% of U.S",
+        "numbers": "22, 2023,",
+        "justified": "redfin.com — https://www.redfin.com/news/veteran-homebuying-affordability-2025/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Zillow faces lawsuit alleging illegal kickbacks in mortgage business",
         "url": "https://www.housingwire.com/articles/zillow-mortgage-lawsuit/",
@@ -293,15 +302,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/climate-migration-real-estate-2025/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Military Members, Veterans Make Up Slightly Higher Share of Mortgaged Homebuyers Than Last Year As Buyer’s Market Persists",
-        "url": "https://www.redfin.com/news/va-loans-uptick-2025/",
-        "what": "VA loans have become slightly more common as buyers gain power and sellers are more apt to accept offers with low down payments",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/va-loans-uptick-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
