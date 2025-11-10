@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-10 15:34 UTC",
+  "as_of": "2025-11-10 16:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "October mortgage credit availability reaches highest point since 2022",
+      "link": "https://www.housingwire.com/articles/mortgage-credit-availability-october-2025/",
+      "published": "Mon, 10 Nov 2025"
+    },
+    {
+      "title": "Alexander brothers detail defamation claims against The Real Deal",
+      "link": "https://www.housingwire.com/articles/alexander-defamation-case/",
+      "published": "Mon, 10 Nov 2025"
+    },
+    {
+      "title": "ICE: Lower mortgage rates open the door to $11.2T in home equity access",
+      "link": "https://www.housingwire.com/articles/declining-mortgage-rates-refinance-equity/",
+      "published": "Mon, 10 Nov 2025"
+    },
+    {
       "title": "Propy acquires Delta South Title, marking entrance into Alabama",
       "link": "https://www.housingwire.com/articles/propy-title-firm-acquisition-delta-south-alabama/",
       "published": "Mon, 10 Nov 2025"
@@ -153,21 +168,6 @@
       "title": "Stop marketing like it’s 2008: You’re invisible",
       "link": "https://www.housingwire.com/articles/stop-marketing-like-its-2008-youre-invisible/",
       "published": "Mon, 10 Nov 2025"
-    },
-    {
-      "title": "Housing inventory falls as demand picks up",
-      "link": "https://www.housingwire.com/articles/housing-inventory/",
-      "published": "Sun, 09 Nov 2025"
-    },
-    {
-      "title": "A 50-year mortgage could double your interest payment",
-      "link": "https://www.housingwire.com/articles/how-much-would-a-50-year-mortgage-cost/",
-      "published": "Sun, 09 Nov 2025"
-    },
-    {
-      "title": "Trump proposes 50-year mortgage to help affordability",
-      "link": "https://www.housingwire.com/articles/trump-proposes-50-year-mortgage-to-help-affordability/",
-      "published": "Sat, 08 Nov 2025"
     },
     {
       "title": "Affordability Improves Slightly For Veteran Homebuyers, But Most Homes Are Still Out of Reach",
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "ICE: Lower mortgage rates open the door to $11.2T in home equity access",
+        "url": "https://www.housingwire.com/articles/declining-mortgage-rates-refinance-equity/",
+        "what": "Declining mortgage rates are creating new volume opportunities across the mortgage industry, according to the November 2025 ICE Mortgage Monitor Report.",
+        "numbers": "2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/declining-mortgage-rates-refinance-equity/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Pending Home Sales Barely Budge, As Buyers Stay Cautious Despite Lower Mortgage Rates",
         "url": "https://www.redfin.com/news/housing-market-update-pending-home-sales-barely-budge/",
         "what": "Homes are selling at the slowest pace for this time of year since 2019",
@@ -213,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "October mortgage credit availability reaches highest point since 2022",
+        "url": "https://www.housingwire.com/articles/mortgage-credit-availability-october-2025/",
+        "what": "The increase was mainly due to growth in conventional mortgage credit, with a notable rise in ARM and cash-out refinance loan programs.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-credit-availability-october-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Affordability Improves Slightly For Veteran Homebuyers, But Most Homes Are Still Out of Reach",
         "url": "https://www.redfin.com/news/veteran-homebuying-affordability-2025/",
@@ -232,7 +250,7 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Housing inventory falls as demand picks up",
+        "title": "Housing inventory falls as weekly demand grows 15.5% year over year",
         "url": "https://www.housingwire.com/articles/housing-inventory/",
         "what": "The growth rate of housing inventory has slowed by half, but remains up year over year for a healthier market.",
         "numbers": "",
@@ -255,24 +273,6 @@
         "what": "Trump supports 50-year mortgages to lower monthly payments, but longer terms reduce equity and aren't currently allowed under the Dodd-Frank Act.",
         "numbers": "50",
         "justified": "housingwire.com — https://www.housingwire.com/articles/trump-proposes-50-year-mortgage-to-help-affordability/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Stewart acquires MCS’s mortgage services business for $330 million",
-        "url": "https://www.housingwire.com/articles/stewart-acquires-mcs-property-preservation/",
-        "what": "Stewart Information Services Corp",
-        "numbers": "$330 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/stewart-acquires-mcs-property-preservation/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Exclusive: NFM Lending grows footprint with Homespire Mortgage acquisition",
-        "url": "https://www.housingwire.com/articles/nfm-lending-acquires-homespire-mortgage/",
-        "what": "Two Maryland-based retail mortgage lenders struck an M&A deal this week as NFM Lending has agreed to acquire Homespire Mortgage.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nfm-lending-acquires-homespire-mortgage/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -302,9 +302,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/climate-migration-real-estate-2025/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Military Members, Veterans Make Up Slightly Higher Share of Mortgaged Homebuyers Than Last Year As Buyer’s Market Persists",
+        "url": "https://www.redfin.com/news/va-loans-uptick-2025/",
+        "what": "VA loans have become slightly more common as buyers gain power and sellers are more apt to accept offers with low down payments",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/va-loans-uptick-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
+      {
+        "title": "Alexander brothers detail defamation claims against The Real Deal",
+        "url": "https://www.housingwire.com/articles/alexander-defamation-case/",
+        "what": "The Alexanders sue The Real Deal for allegedly false reporting in its coverage of sexual assault allegations against the brothers.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/alexander-defamation-case/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Propy acquires Delta South Title, marking entrance into Alabama",
         "url": "https://www.housingwire.com/articles/propy-title-firm-acquisition-delta-south-alabama/",
@@ -329,15 +347,6 @@
         "what": "FHFA Director Bill Pulte said Fannie Mae and Freddie Mac will remain in conservatorship while the government plans to sell up to 5% of shares.",
         "numbers": "5",
         "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-freddie-ipo-plans-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Opendoor hits reset: The iBuyer goes full founder mode with new CEO",
-        "url": "https://www.housingwire.com/articles/opendoor-hits-reset-the-ibuyer-goes-full-founder-mode-with-new-ceo/",
-        "what": "Opendoor CEO Kaz Nejatian aims to transform the company with faster home buying and AI as he takes the helm",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-hits-reset-the-ibuyer-goes-full-founder-mode-with-new-ceo/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
