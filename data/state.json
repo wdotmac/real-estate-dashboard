@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-11 22:33 UTC",
+  "as_of": "2025-11-11 23:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "How Las Vegas sellers are adjusting prices in a changing real estate market",
+      "link": "https://www.housingwire.com/articles/las-vegas-real-estate/",
+      "published": "Tue, 11 Nov 2025"
+    },
+    {
+      "title": "San Diego sellers hold firm on pricing as homes linger 50% longer than last year",
+      "link": "https://www.housingwire.com/articles/san-diego-real-estate/",
+      "published": "Tue, 11 Nov 2025"
+    },
+    {
+      "title": "Collin County homes command 39% premium over Texas despite majority of sellers cutting prices",
+      "link": "https://www.housingwire.com/articles/collin-county-housing-market-november-2025/",
+      "published": "Tue, 11 Nov 2025"
+    },
+    {
       "title": "Tommie Wehrle named president of LGBTQ+ Real Estate Alliance",
       "link": "https://www.housingwire.com/articles/tommie-wehrle-named-president-of-lgbtq-real-estate-alliance/",
       "published": "Tue, 11 Nov 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Retirement plans for small-business owners have visible generational gaps",
       "link": "https://www.housingwire.com/articles/small-business-retirement-plan-disparities/",
-      "published": "Tue, 11 Nov 2025"
-    },
-    {
-      "title": "VA loans rise as housing market shifts toward buyers",
-      "link": "https://www.housingwire.com/articles/va-loans-rise-as-housing-market-shifts-toward-buyers/",
-      "published": "Tue, 11 Nov 2025"
-    },
-    {
-      "title": "Homebuyers embrace sustainability, efficiency in 2025",
-      "link": "https://www.housingwire.com/articles/homebuyers-embrace-sustainability-efficiency-in-2025/",
-      "published": "Tue, 11 Nov 2025"
-    },
-    {
-      "title": "Reimagining a real estate icon: Inside the RE/MAX brand refresh",
-      "link": "https://www.housingwire.com/articles/reimagining-a-real-estate-icon-inside-the-re-max-brand-refresh/",
       "published": "Tue, 11 Nov 2025"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Home flippers express caution over rising costs, low resale demand",
-        "url": "https://www.housingwire.com/articles/fix-and-flip-market-challenges-2025/",
-        "what": "The 2025 Fix and Flip Market Index reveals declining prices and cautious investor sentiment as costs and economic uncertainty rise.",
-        "numbers": "2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fix-and-flip-market-challenges-2025/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Fresh Government Data Could Bring Mortgage Rate Volatility",
         "url": "https://www.redfin.com/news/weekly-economics-update-november-10/",
         "what": "This Week In A Nutshell The government shutdown looks likely to end this week, which means a flurry of fresh economic data over the next month or so could bring mortgage-rate volatility as investors reprice the odds of future rate cuts",
@@ -240,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "How Las Vegas sellers are adjusting prices in a changing real estate market",
+        "url": "https://www.housingwire.com/articles/las-vegas-real-estate/",
+        "what": "Nearly 40% of Las Vegas homes had price cuts last week as inventory rises to 3.4 months and absorption outpaces new listings.",
+        "numbers": "40, 3.4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/las-vegas-real-estate/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Hometap continues to fight ‘illegal reverse mortgage’ lawsuit in Massachusetts",
         "url": "https://www.housingwire.com/articles/massachusetts-hometap-lawsuit/",
@@ -266,15 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/reimagining-a-real-estate-icon-inside-the-re-max-brand-refresh/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Seattle median list price at $850K even as price cuts spread",
-        "url": "https://www.housingwire.com/articles/seattle-home-price-cuts/",
-        "what": "Seattle housing market adjusts with 44.7% price cuts and $850,000 median list price amid strong seller conditions.",
-        "numbers": "44.7, $850,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/seattle-home-price-cuts/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "Affordability Improves Slightly For Veteran Homebuyers, But Most Homes Are Still Out of Reach",
@@ -315,6 +306,24 @@
     ],
     "notables": [
       {
+        "title": "San Diego sellers hold firm on pricing as homes linger 50% longer than last year",
+        "url": "https://www.housingwire.com/articles/san-diego-real-estate/",
+        "what": "Sellers in San Diego hold prices steady as homes linger 50% longer and absorption drops 37% year-over-year.",
+        "numbers": "50, 37",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/san-diego-real-estate/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Collin County homes command 39% premium over Texas despite majority of sellers cutting prices",
+        "url": "https://www.housingwire.com/articles/collin-county-housing-market-november-2025/",
+        "what": "Collin County homes list 39% above Texas median as 56% cut prices",
+        "numbers": "39, 56, 84",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/collin-county-housing-market-november-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Tommie Wehrle named president of LGBTQ+ Real Estate Alliance",
         "url": "https://www.housingwire.com/articles/tommie-wehrle-named-president-of-lgbtq-real-estate-alliance/",
         "what": "Wehrle has worked in real estate for nearly 35 years, holding roles as an agent, broker/owner, instructor and coach.",
@@ -338,15 +347,6 @@
         "what": "Findings reflect a nationwide shift away from large, aesthetic features toward practical, eco-friendly and tech-driven living.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/homebuyers-embrace-sustainability-efficiency-in-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Helping heroes home: how real estate pros can better serve veterans",
-        "url": "https://www.housingwire.com/articles/helping-heroes-home-how-real-estate-pros-can-better-serve-veterans/",
-        "what": "Real estate pros can make a difference by guiding veterans through VA loans and community resources for homeownership.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/helping-heroes-home-how-real-estate-pros-can-better-serve-veterans/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
