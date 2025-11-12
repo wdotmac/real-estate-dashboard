@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-12 15:35 UTC",
+  "as_of": "2025-11-12 16:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Lutz homebuyer commission appears to be headed to court",
+      "link": "https://www.housingwire.com/articles/lutz-commission-trial/",
+      "published": "Wed, 12 Nov 2025"
+    },
+    {
+      "title": "Judge awards $325K to UWM in ‘All In’ broker dispute",
+      "link": "https://www.housingwire.com/articles/uwm-legal-award-kevron-investment/",
+      "published": "Wed, 12 Nov 2025"
+    },
+    {
+      "title": "Cornerstone launches Prime HEI for mortgage brokers",
+      "link": "https://www.housingwire.com/articles/cornerstone-prime-hei-launch/",
+      "published": "Wed, 12 Nov 2025"
+    },
+    {
       "title": "The ultimate guide to real estate networking for agents who want more referrals",
       "link": "https://www.housingwire.com/articles/real-estate-networking/",
       "published": "Wed, 12 Nov 2025"
@@ -152,21 +167,6 @@
     {
       "title": "20 real estate tax deductions agents use to save money",
       "link": "https://www.housingwire.com/articles/real-estate-agent-tax-deductions/",
-      "published": "Wed, 12 Nov 2025"
-    },
-    {
-      "title": "Purchase applications rebound nearly 6% from last week",
-      "link": "https://www.housingwire.com/articles/mortgage-applications-rise-despite-rate-hike/",
-      "published": "Wed, 12 Nov 2025"
-    },
-    {
-      "title": "Agentic AI will vastly improve real estate — but only if a big problem is fixed",
-      "link": "https://www.housingwire.com/articles/agentic-ai-will-vastly-improve-real-estate-but-only-if-a-big-problem-is-fixed/",
-      "published": "Wed, 12 Nov 2025"
-    },
-    {
-      "title": "Tucson sellers find pricing sweet spot as 43% adjust expectations to meet buyer demand",
-      "link": "https://www.housingwire.com/articles/tuscon-housing-market-update/",
       "published": "Wed, 12 Nov 2025"
     },
     {
@@ -232,6 +232,33 @@
     ],
     "housing": [
       {
+        "title": "Lutz homebuyer commission appears to be headed to court",
+        "url": "https://www.housingwire.com/articles/lutz-commission-trial/",
+        "what": "Judge K",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lutz-commission-trial/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Judge awards $325K to UWM in ‘All In’ broker dispute",
+        "url": "https://www.housingwire.com/articles/uwm-legal-award-kevron-investment/",
+        "what": "United Wholesale Mortgage (UWM) secured a $325,000 award in a three-year legal dispute with California-based brokerage firm Kevron Investment over alleged violations of its “All In",
+        "numbers": "$325,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-legal-award-kevron-investment/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Cornerstone launches Prime HEI for mortgage brokers",
+        "url": "https://www.housingwire.com/articles/cornerstone-prime-hei-launch/",
+        "what": "Prime HEI by Cornerstone offers mortgage brokers a debt-free way to access home equity, expanding CHEIFS distribution.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cornerstone-prime-hei-launch/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Tucson sellers find pricing sweet spot as 43% adjust expectations to meet buyer demand",
         "url": "https://www.housingwire.com/articles/tuscon-housing-market-update/",
         "what": "The Tucson housing market showed balanced supply and demand with 42.9% of sellers reducing prices and a 2.9-month supply.",
@@ -246,33 +273,6 @@
         "what": "Asheville home prices show 52.9% price cuts as median list prices remain near $600K with steady absorption.",
         "numbers": "52.9, $600K",
         "justified": "housingwire.com — https://www.housingwire.com/articles/asheville-home-prices/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Denver sellers cut prices on more than half of homes as market slows",
-        "url": "https://www.housingwire.com/articles/denver-housing-market/",
-        "what": "Denver real estate market sees over 50% of homes reduce listing prices and median days on market extend to 70.",
-        "numbers": "50, 70.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/denver-housing-market/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "By the numbers: Key housing market trends in Columbia, SC",
-        "url": "https://www.housingwire.com/articles/columbia-housing-market/",
-        "what": "Columbia housing market sees 47.7% price reductions signaling neutral conditions and steady median list price of $315,000.",
-        "numbers": "47.7, $315,000.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/columbia-housing-market/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Portland real estate: Price cuts deepen buyer’s market",
-        "url": "https://www.housingwire.com/articles/portland-housing-market-update/",
-        "what": "Portland, OR real estate market sees nearly half of home listings with price cuts as buyer's market deepens.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/portland-housing-market-update/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
