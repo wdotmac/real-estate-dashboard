@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-12 11:28 UTC",
+  "as_of": "2025-11-12 13:03 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Realtor.com launches new agent, listing enhancement features",
-      "link": "https://www.housingwire.com/articles/realtorcom-spotlight-listings/",
+      "title": "Asheville home sellers cut prices amid $600K median list price test",
+      "link": "https://www.housingwire.com/articles/asheville-home-prices/",
       "published": "Wed, 12 Nov 2025"
     },
     {
-      "title": "NEXA Lending sues former president over ’employee raid’",
-      "link": "https://www.housingwire.com/articles/nexa-lending-lawsuit-employee-raid/",
+      "title": "Denver sellers cut prices on more than half of homes as market slows",
+      "link": "https://www.housingwire.com/articles/denver-housing-market/",
       "published": "Wed, 12 Nov 2025"
     },
     {
-      "title": "How Las Vegas sellers are adjusting prices in a changing real estate market",
-      "link": "https://www.housingwire.com/articles/las-vegas-real-estate/",
-      "published": "Tue, 11 Nov 2025"
+      "title": "By the numbers: Key housing market trends in Columbia, SC",
+      "link": "https://www.housingwire.com/articles/columbia-housing-market/",
+      "published": "Wed, 12 Nov 2025"
     },
     {
-      "title": "San Diego sellers hold firm on pricing as homes linger 50% longer than last year",
-      "link": "https://www.housingwire.com/articles/san-diego-real-estate/",
-      "published": "Tue, 11 Nov 2025"
+      "title": "Portland real estate: Price cuts deepen buyer’s market",
+      "link": "https://www.housingwire.com/articles/portland-housing-market-update/",
+      "published": "Wed, 12 Nov 2025"
     },
     {
-      "title": "Collin County homes command 39% premium over Texas despite majority of sellers cutting prices",
-      "link": "https://www.housingwire.com/articles/collin-county-housing-market-november-2025/",
-      "published": "Tue, 11 Nov 2025"
+      "title": "Citi gets highest marks in J.D. Power’s 2025 mortgage origination satisfaction study",
+      "link": "https://www.housingwire.com/articles/advisory-approach-boosts-mortgage-satisfaction/",
+      "published": "Wed, 12 Nov 2025"
     },
     {
-      "title": "Tommie Wehrle named president of LGBTQ+ Real Estate Alliance",
-      "link": "https://www.housingwire.com/articles/tommie-wehrle-named-president-of-lgbtq-real-estate-alliance/",
-      "published": "Tue, 11 Nov 2025"
+      "title": "Riverside metro absorption surges as market dynamics shift",
+      "link": "https://www.housingwire.com/articles/riverside-housing-market-update/",
+      "published": "Wed, 12 Nov 2025"
     },
     {
       "title": "Redfin Economists’ Weekly Take: Fresh Government Data Could Bring Mortgage Rate Volatility",
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Citi gets highest marks in J.D. Power’s 2025 mortgage origination satisfaction study",
+        "url": "https://www.housingwire.com/articles/advisory-approach-boosts-mortgage-satisfaction/",
+        "what": "The J.D",
+        "numbers": "2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/advisory-approach-boosts-mortgage-satisfaction/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Redfin Economists’ Weekly Take: Fresh Government Data Could Bring Mortgage Rate Volatility",
         "url": "https://www.redfin.com/news/weekly-economics-update-november-10/",
         "what": "This Week In A Nutshell The government shutdown looks likely to end this week, which means a flurry of fresh economic data over the next month or so could bring mortgage-rate volatility as investors reprice the odds of future rate cuts",
@@ -223,6 +232,51 @@
     ],
     "housing": [
       {
+        "title": "Asheville home sellers cut prices amid $600K median list price test",
+        "url": "https://www.housingwire.com/articles/asheville-home-prices/",
+        "what": "Asheville home prices show 52.9% price cuts as median list prices remain near $600K with steady absorption.",
+        "numbers": "52.9, $600K",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/asheville-home-prices/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Denver sellers cut prices on more than half of homes as market slows",
+        "url": "https://www.housingwire.com/articles/denver-housing-market/",
+        "what": "Denver real estate market sees over 50% of homes reduce listing prices and median days on market extend to 70.",
+        "numbers": "50, 70.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/denver-housing-market/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "By the numbers: Key housing market trends in Columbia, SC",
+        "url": "https://www.housingwire.com/articles/columbia-housing-market/",
+        "what": "Columbia housing market sees 47.7% price reductions signaling neutral conditions and steady median list price of $315,000.",
+        "numbers": "47.7, $315,000.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/columbia-housing-market/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Portland real estate: Price cuts deepen buyer’s market",
+        "url": "https://www.housingwire.com/articles/portland-housing-market-update/",
+        "what": "Portland, OR real estate market sees nearly half of home listings with price cuts as buyer's market deepens.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/portland-housing-market-update/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Riverside metro absorption surges as market dynamics shift",
+        "url": "https://www.housingwire.com/articles/riverside-housing-market-update/",
+        "what": "Weekly absorption in Riverside exceeds new listings by 273 homes as 35.3% of listings reduce prices amid neutral market.",
+        "numbers": "273, 35.3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/riverside-housing-market-update/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Realtor.com launches new agent, listing enhancement features",
         "url": "https://www.housingwire.com/articles/realtorcom-spotlight-listings/",
         "what": "The listing portal is launching Spotlight Listings allowing sellers to improve visibility of their listings on the website.",
@@ -239,24 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/las-vegas-real-estate/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Hometap continues to fight ‘illegal reverse mortgage’ lawsuit in Massachusetts",
-        "url": "https://www.housingwire.com/articles/massachusetts-hometap-lawsuit/",
-        "what": "State Attorney General Andrea Joy Campbell sued Hometap in February 2025, labeling the company’s primary product offerings as “illegal reverse mortgages that fail to comply with st",
-        "numbers": "2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/massachusetts-hometap-lawsuit/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "VA loans rise as housing market shifts toward buyers",
-        "url": "https://www.housingwire.com/articles/va-loans-rise-as-housing-market-shifts-toward-buyers/",
-        "what": "During the pandemic’s competitive housing market, VA buyers often lost out to those offering larger down payments.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/va-loans-rise-as-housing-market-shifts-toward-buyers/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Affordability Improves Slightly For Veteran Homebuyers, But Most Homes Are Still Out of Reach",
@@ -284,15 +320,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/new-on-redfin-see-your-buying-power-while-you-search/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Flood-Prone America Is Seeing More People Move Out Than In for the First Time Since 2019",
-        "url": "https://www.redfin.com/news/climate-migration-real-estate-2025/",
-        "what": "An analysis of domestic migration data shows high-flood-risk counties lost nearly 30,000 more residents than they gained last year, driven largely by outflows from Miami and Houston",
-        "numbers": "30,000, 2019",
-        "justified": "redfin.com — https://www.redfin.com/news/climate-migration-real-estate-2025/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
@@ -313,42 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/san-diego-real-estate/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Collin County homes command 39% premium over Texas despite majority of sellers cutting prices",
-        "url": "https://www.housingwire.com/articles/collin-county-housing-market-november-2025/",
-        "what": "Collin County homes list 39% above Texas median as 56% cut prices",
-        "numbers": "39, 56, 84",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/collin-county-housing-market-november-2025/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Tommie Wehrle named president of LGBTQ+ Real Estate Alliance",
-        "url": "https://www.housingwire.com/articles/tommie-wehrle-named-president-of-lgbtq-real-estate-alliance/",
-        "what": "Wehrle has worked in real estate for nearly 35 years, holding roles as an agent, broker/owner, instructor and coach.",
-        "numbers": "35",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tommie-wehrle-named-president-of-lgbtq-real-estate-alliance/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Retirement plans for small-business owners have visible generational gaps",
-        "url": "https://www.housingwire.com/articles/small-business-retirement-plan-disparities/",
-        "what": "A Capital Group report reveals generational and gender disparities in small business retirement plan readiness.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/small-business-retirement-plan-disparities/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Homebuyers embrace sustainability, efficiency in 2025",
-        "url": "https://www.housingwire.com/articles/homebuyers-embrace-sustainability-efficiency-in-2025/",
-        "what": "Findings reflect a nationwide shift away from large, aesthetic features toward practical, eco-friendly and tech-driven living.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuyers-embrace-sustainability-efficiency-in-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
