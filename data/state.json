@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-13 22:33 UTC",
+  "as_of": "2025-11-13 23:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Pittsburgh sellers reduce prices on nearly half of homes at $249K median",
+      "link": "https://www.housingwire.com/articles/pittsburgh-housing-market/",
+      "published": "Thu, 13 Nov 2025"
+    },
+    {
+      "title": "NAR seeks broker input to improve value and transparency",
+      "link": "https://www.housingwire.com/articles/nar-broker-engagement/",
+      "published": "Thu, 13 Nov 2025"
+    },
+    {
+      "title": "What if the real homebuilding disruption isn’t AI — It’s culture?",
+      "link": "https://www.housingwire.com/articles/what-if-the-real-homebuilding-disruption-isnt-ai-its-culture/",
+      "published": "Thu, 13 Nov 2025"
+    },
+    {
+      "title": "Charlottesville sellers accelerate price adjustments as inventory builds",
+      "link": "https://www.housingwire.com/articles/charlottesville-home-prices/",
+      "published": "Thu, 13 Nov 2025"
+    },
+    {
       "title": "MoxiWorks unveils AI marketing platform RISE",
       "link": "https://www.housingwire.com/articles/moxiworks-unveils-ai-marketing-platform-rise/",
       "published": "Thu, 13 Nov 2025"
@@ -147,26 +167,6 @@
     {
       "title": "How Alexandria is defying Louisiana’s housing slowdown with a 22% buyer jump",
       "link": "https://www.housingwire.com/articles/alexandria-la-housing-market/",
-      "published": "Thu, 13 Nov 2025"
-    },
-    {
-      "title": "Home affordability delaying life milestones for aspiring buyers",
-      "link": "https://www.housingwire.com/articles/home-affordability-delaying-life-milestones-for-aspiring-buyers/",
-      "published": "Thu, 13 Nov 2025"
-    },
-    {
-      "title": "Wheeling, WV: Price cuts hit 43.9% of home listings in affordable area",
-      "link": "https://www.housingwire.com/articles/wheeling-wv-real-estate/",
-      "published": "Thu, 13 Nov 2025"
-    },
-    {
-      "title": "How homebuilders can embed trust into the digital buyers journey",
-      "link": "https://www.housingwire.com/articles/how-homebuilders-can-embed-trust-into-the-digital-buyers-journey/",
-      "published": "Thu, 13 Nov 2025"
-    },
-    {
-      "title": "Managing savings, homeownership during first retirement year",
-      "link": "https://www.housingwire.com/articles/first-year-retirement-financial-tips/",
       "published": "Thu, 13 Nov 2025"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Mortgage rate locks stay strong, refis drive activity",
-        "url": "https://www.housingwire.com/articles/mortgage-rate-locks-stay-strong-refis-drive-activity/",
-        "what": "Total lock volume in October was 18% higher than a year earlier as borrowers responded to improving affordability and narrower rate spreads.",
-        "numbers": "18",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rate-locks-stay-strong-refis-drive-activity/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Pending Home Sales Slip As Would-Be Buyers Wait For Lower Rates and Economic Clarity",
         "url": "https://www.redfin.com/news/housing-market-update-pending-sales-decline-buyers-waiting-for-lower-rates/",
         "what": "The homes that do sell are taking a long time to find buyers, who are wary of high housing costs and economic instability",
@@ -231,6 +222,33 @@
       }
     ],
     "housing": [
+      {
+        "title": "Pittsburgh sellers reduce prices on nearly half of homes at $249K median",
+        "url": "https://www.housingwire.com/articles/pittsburgh-housing-market/",
+        "what": "Pittsburgh sellers cut prices on 48% of homes while median list price stays at $249000 and inventory rises.",
+        "numbers": "48, $249000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pittsburgh-housing-market/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "What if the real homebuilding disruption isn’t AI — It’s culture?",
+        "url": "https://www.housingwire.com/articles/what-if-the-real-homebuilding-disruption-isnt-ai-its-culture/",
+        "what": "Homebuilding’s biggest disruption isn’t AI—it’s culture",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/what-if-the-real-homebuilding-disruption-isnt-ai-its-culture/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Charlottesville sellers accelerate price adjustments as inventory builds",
+        "url": "https://www.housingwire.com/articles/charlottesville-home-prices/",
+        "what": "Charlottesville housing market sees 41.5% of listings reduce prices as inventory rises to 3 month supply with median list price at $609,890.",
+        "numbers": "41.5, 3, $609,890.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/charlottesville-home-prices/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "How Alexandria is defying Louisiana’s housing slowdown with a 22% buyer jump",
         "url": "https://www.housingwire.com/articles/alexandria-la-housing-market/",
@@ -255,24 +273,6 @@
         "what": "As affordability erodes and insurance volatility grows, trust has become builders’ most strategic asset",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/how-homebuilders-can-embed-trust-into-the-digital-buyers-journey/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Fair housing complaints mount amid HUD staffing cuts",
-        "url": "https://www.housingwire.com/articles/fair-housing-complaints-mount-amid-hud-staffing-cuts/",
-        "what": "Disability-related discrimination accounted for most complaints, followed by race, national origin, sex, familial status and religion.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fair-housing-complaints-mount-amid-hud-staffing-cuts/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Bulk MSR supply shifts from survival sales to strategic portfolio moves",
-        "url": "https://www.housingwire.com/articles/msr-trades-strategic-shift-2025/",
-        "what": "There’s been a noticeable shift in the nature of mortgage servicing rights (MSR) trades",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/msr-trades-strategic-shift-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -315,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "NAR seeks broker input to improve value and transparency",
+        "url": "https://www.housingwire.com/articles/nar-broker-engagement/",
+        "what": "Broker engagement and co-creation of resources are central to NAR’s strategy as the organization looks to reinvent itself.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-broker-engagement/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "MoxiWorks unveils AI marketing platform RISE",
         "url": "https://www.housingwire.com/articles/moxiworks-unveils-ai-marketing-platform-rise/",
         "what": "Features include daily task prioritization and predictive modeling to identify clients most likely to transact within specific time windows.",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/first-year-retirement-financial-tips/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "APM leaders discuss succession planning and 2026 strategy",
-        "url": "https://www.housingwire.com/articles/american-pacific-mortgage-leadership/",
-        "what": "APM's Ned Payant and Dustin Sheppard discuss 2026 goals as the company approaches its 30th anniversary.",
-        "numbers": "2026, 30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/american-pacific-mortgage-leadership/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
