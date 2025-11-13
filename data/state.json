@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-13 21:28 UTC",
+  "as_of": "2025-11-13 22:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "MoxiWorks unveils AI marketing platform RISE",
+      "link": "https://www.housingwire.com/articles/moxiworks-unveils-ai-marketing-platform-rise/",
+      "published": "Thu, 13 Nov 2025"
+    },
+    {
+      "title": "How Alexandria is defying Louisiana’s housing slowdown with a 22% buyer jump",
+      "link": "https://www.housingwire.com/articles/alexandria-la-housing-market/",
+      "published": "Thu, 13 Nov 2025"
+    },
+    {
+      "title": "Home affordability delaying life milestones for aspiring buyers",
+      "link": "https://www.housingwire.com/articles/home-affordability-delaying-life-milestones-for-aspiring-buyers/",
+      "published": "Thu, 13 Nov 2025"
+    },
+    {
       "title": "Wheeling, WV: Price cuts hit 43.9% of home listings in affordable area",
       "link": "https://www.housingwire.com/articles/wheeling-wv-real-estate/",
       "published": "Thu, 13 Nov 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Managing savings, homeownership during first retirement year",
       "link": "https://www.housingwire.com/articles/first-year-retirement-financial-tips/",
-      "published": "Thu, 13 Nov 2025"
-    },
-    {
-      "title": "Mortgage rate locks stay strong, refis drive activity",
-      "link": "https://www.housingwire.com/articles/mortgage-rate-locks-stay-strong-refis-drive-activity/",
-      "published": "Thu, 13 Nov 2025"
-    },
-    {
-      "title": "APM leaders discuss succession planning and 2026 strategy",
-      "link": "https://www.housingwire.com/articles/american-pacific-mortgage-leadership/",
-      "published": "Thu, 13 Nov 2025"
-    },
-    {
-      "title": "Fair housing complaints mount amid HUD staffing cuts",
-      "link": "https://www.housingwire.com/articles/fair-housing-complaints-mount-amid-hud-staffing-cuts/",
       "published": "Thu, 13 Nov 2025"
     },
     {
@@ -232,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "How Alexandria is defying Louisiana’s housing slowdown with a 22% buyer jump",
+        "url": "https://www.housingwire.com/articles/alexandria-la-housing-market/",
+        "what": "Alexandria housing market buyer activity rises 22% year over year with absorption exceeding new listings by 71% and median price at $235,000.",
+        "numbers": "22, 71, $235,000.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/alexandria-la-housing-market/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Wheeling, WV: Price cuts hit 43.9% of home listings in affordable area",
         "url": "https://www.housingwire.com/articles/wheeling-wv-real-estate/",
         "what": "Price reductions hit 43.9% in Wheeling metro with steady absorption and affordable median price of $185,000.",
@@ -264,24 +273,6 @@
         "what": "There’s been a noticeable shift in the nature of mortgage servicing rights (MSR) trades",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/msr-trades-strategic-shift-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "High-income job losses stand to hurt housing market",
-        "url": "https://www.housingwire.com/articles/high-income-job-losses-housing-market-impact/",
-        "what": "Data notes that employment composition now matters as much as overall job growth in shaping local housing markets.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/high-income-job-losses-housing-market-impact/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Cotality reports 8.2% rise in mortgage fraud risk during Q3",
-        "url": "https://www.housingwire.com/articles/mortgage-fraud-risk-increase-2025/",
-        "what": "Cotality's Q3 2025 report reveals an 8.2% increase in mortgage fraud risk, with undisclosed real estate debt as a key factor.",
-        "numbers": "3, 2025, 8.2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-fraud-risk-increase-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -324,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "MoxiWorks unveils AI marketing platform RISE",
+        "url": "https://www.housingwire.com/articles/moxiworks-unveils-ai-marketing-platform-rise/",
+        "what": "Features include daily task prioritization and predictive modeling to identify clients most likely to transact within specific time windows.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/moxiworks-unveils-ai-marketing-platform-rise/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Home affordability delaying life milestones for aspiring buyers",
+        "url": "https://www.housingwire.com/articles/home-affordability-delaying-life-milestones-for-aspiring-buyers/",
+        "what": "Among those hoping to buy a home, roughly 1-in-5 said they are delaying marriage and/or postponing having children.",
+        "numbers": "1, 5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/home-affordability-delaying-life-milestones-for-aspiring-buyers/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Managing savings, homeownership during first retirement year",
         "url": "https://www.housingwire.com/articles/first-year-retirement-financial-tips/",
         "what": "Retirees should maintain cash reserves and craft a sustainable withdrawal plan to manage finances effectively.",
@@ -338,15 +347,6 @@
         "what": "APM's Ned Payant and Dustin Sheppard discuss 2026 goals as the company approaches its 30th anniversary.",
         "numbers": "2026, 30",
         "justified": "housingwire.com — https://www.housingwire.com/articles/american-pacific-mortgage-leadership/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NAR just teased its 2026–2028 plan. Here’s why it could be the group’s make-or-break moment",
-        "url": "https://www.housingwire.com/articles/nar-2025-nxt-event/",
-        "what": "NAR and its leaders pledges accountability and transformation with new strategic plan and quarterly reporting.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-2025-nxt-event/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
