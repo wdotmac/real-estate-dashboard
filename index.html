@@ -234,6 +234,33 @@
     set('starts','1.36M'); $('#startsDelta').innerHTML='<span class="pos">+0.9%</span> m/m';
   }
 
+   // Fetch S&P 500 real-time data from Alpha Vantage
+ async function fetchSP500Data(){
+  const apiKey = "NK95FPMICQT3XX37";
+  const symbol = "^GSPC";
+  const url = `https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=${symbol}&apikey=${apiKey}`;
+  
+  try{
+    const resp = await fetch(url);
+    const data = await resp.json();
+    const quote = data["Global Quote"];
+    
+    if(quote && quote["05. price"]){
+      const price = parseFloat(quote["05. price"]);
+      const change = parseFloat(quote["09. change"]);
+      const changePercent = parseFloat(quote["10. change percent"]);
+      
+      set('spx', price.toLocaleString(undefined, {minimumFractionDigits:2, maximumFractionDigits:2}));
+      
+      const color = change >= 0 ? 'pos' : 'neg';
+      document.getElementById('spxDelta').innerHTML = 
+        `<span class="${color}">${change >= 0 ? '+' : ''}${change.toFixed(2)}</span> (${changePercent >= 0 ? '+' : ''}${changePercent.toFixed(2)}%)`;
+    }
+  }catch(e){
+    console.error('Failed to fetch S&P 500 data:', e);
+  }
+ }
+
   // Watchlist (approved tickers with descriptions + scroll)
   const DESCRIPTIONS={
     DHI:"Largest builder; entry-level muscle.",
@@ -613,6 +640,7 @@
   // ---------- init (placeholders first, then try hydrate) ----------
   (async function init(){
     initMacroPlaceholders();
+      fetchSP500Data();
     renderStocksPlaceholders();
     renderFEEDPlaceholders();
     renderTenTenTwenty(); /* NEW: populate the 10/10/20 card */
