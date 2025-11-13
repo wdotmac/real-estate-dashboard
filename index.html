@@ -238,7 +238,7 @@
  async function fetchSP500Data(){
   const apiKey = "NK95FPMICQT3XX37";
   const symbol = "^GSPC";
-  const url = `https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=${symbol}&apikey=${apiKey}`;
+  const url = `https://corsproxy.io/?https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=${symbol}&apikey=${apiKey}`;
   
   try{
     const resp = await fetch(url);
