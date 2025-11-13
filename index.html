@@ -106,8 +106,7 @@
       <h3>Macro Snapshot</h3>
       <div class="content">
         <div class="kpis">
-          <div class="kpi"><div class="label">S&amp;P 500</div><div class="value" id="spx">—</div><div class="delta" id="spxDelta"></div></div>
-          <div class="kpi"><div class="label">10Y UST</div><div class="value" id="ust10">—</div><div class="delta" id="ust10Delta"></div></div>
+            <div class="kpi" id="spxCard"><div class="label">S&amp;P 500</div><div class="kpi-sub"><div class="value" id="spx">—</div><div class="delta" id="spxDelta">—</div></div><div class="kpi-sub"><div class="sub-label">Today's Range</div><div class="fine" id="spxRange">—</div></div><div class="kpi-sub"><div class="sub-label">Open / Prev Close</div><div class="fine" id="spxOpenClose">—</div></div><div class="kpi-sub"><div class="sub-label">Volume</div><div class="fine" id="spxVolume">—</div></div></div>          <div class="kpi"><div class="label">10Y UST</div><div class="value" id="ust10">—</div><div class="delta" id="ust10Delta"></div></div>
           <div class="kpi"><div class="label">30Y Mortgage (PMMS)</div><div class="value" id="mort30">—</div><div class="delta" id="mort30Delta"></div></div>
           <div class="kpi"><div class="label">Housing Starts (SAAR)</div><div class="value" id="starts">—</div><div class="delta" id="startsDelta"></div></div>
         </div>
@@ -235,7 +234,7 @@
   }
 
    // Fetch S&P 500 real-time data from Alpha Vantage
- async function fetchSP500Data(){
+async function fetchSP500Data(){
   const apiKey = "NK95FPMICQT3XX37";
   const symbol = "^GSPC";
   const url = `https://corsproxy.io/?https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=${symbol}&apikey=${apiKey}`;
@@ -249,17 +248,44 @@
       const price = parseFloat(quote["05. price"]);
       const change = parseFloat(quote["09. change"]);
       const changePercent = parseFloat(quote["10. change percent"]);
+      const open = parseFloat(quote["02. open"]);
+      const high = parseFloat(quote["03. high"]);
+      const low = parseFloat(quote["04. low"]);
+      const prevClose = parseFloat(quote["08. previous close"]);
+      const volume = parseInt(quote["06. volume"]);
       
       set('spx', price.toLocaleString(undefined, {minimumFractionDigits:2, maximumFractionDigits:2}));
       
       const color = change >= 0 ? 'pos' : 'neg';
       document.getElementById('spxDelta').innerHTML = 
-        `<span class="${color}">${change >= 0 ? '+' : ''}${change.toFixed(2)}</span> (${changePercent >= 0 ? '+' : ''}${changePercent.toFixed(2)}%)`;
+        `<span class="${color}">${change >= 0 ? '+' : ''}${change.toFixed(2)} (${changePercent >= 0 ? '+' : ''}${changePercent.toFixed(2)}%)</span>`;
+      
+      document.getElementById('spxRange').textContent = 
+        `${low.toLocaleString()} – ${high.toLocaleString()}`;
+      
+      document.getElementById('spxOpenClose').textContent = 
+        `${open.toLocaleString()} / ${prevClose.toLocaleString()}`;
+      
+      const volDisplay = volume > 1e9 
+        ? (volume / 1e9).toFixed(2) + 'B' 
+        : (volume / 1e6).toFixed(1) + 'M';
+      document.getElementById('spxVolume').textContent = volDisplay;
+      
+      const card = document.getElementById('spxCard');
+      if(card){
+        if(changePercent > 0){
+          card.style.background = 'linear-gradient(135deg, #f0fdf4, #ffffff)';
+          card.style.borderColor = '#86efac';
+        } else if(changePercent < 0){
+          card.style.background = 'linear-gradient(135deg, #fef2f2, #ffffff)';
+          card.style.borderColor = '#fca5a5';
+        }
+      }
     }
   }catch(e){
     console.error('Failed to fetch S&P 500 data:', e);
   }
- }
+}
 
   // Watchlist (approved tickers with descriptions + scroll)
   const DESCRIPTIONS={
