@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-13 11:28 UTC",
+  "as_of": "2025-11-13 13:02 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Redfin puts forth AI chat tool for home searches",
+      "link": "https://www.housingwire.com/articles/redfin-puts-forth-ai-chat-tool-for-home-searches/",
+      "published": "Thu, 13 Nov 2025"
+    },
+    {
+      "title": "Zillow rebuts Compass claims of conspiracy in antitrust lawsuit",
+      "link": "https://www.housingwire.com/articles/zillow-antitrust-defense/",
+      "published": "Thu, 13 Nov 2025"
+    },
+    {
       "title": "FHFA eyes assumable and portable mortgages, raising questions for lenders",
       "link": "https://www.housingwire.com/articles/fhfa-assumable-portable-mortgages/",
       "published": "Wed, 12 Nov 2025"
@@ -160,14 +170,14 @@
       "published": "Wed, 12 Nov 2025"
     },
     {
-      "title": "Raphael Bostic to retire as Atlanta Fed president",
-      "link": "https://www.housingwire.com/articles/raphael-bostic-retirement-atlanta-fed/",
-      "published": "Wed, 12 Nov 2025"
+      "title": "Redfin Debuts Conversational Search to Reinvent How You Find Homes",
+      "link": "https://www.redfin.com/news/redfin-debuts-conversational-search/",
+      "published": "Thu, 13 Nov 2025"
     },
     {
-      "title": "Vanguard: Turning savings into stable retirement income is a common hurdle",
-      "link": "https://www.housingwire.com/articles/vanguard-turning-savings-into-stable-retirement-income-is-a-common-hurdle/",
-      "published": "Wed, 12 Nov 2025"
+      "title": "Pending Home Sales Slip As Would-Be Buyers Wait For Lower Rates and Economic Clarity",
+      "link": "https://www.redfin.com/news/housing-market-update-pending-sales-decline-buyers-waiting-for-lower-rates/",
+      "published": "Thu, 13 Nov 2025"
     },
     {
       "title": "Redfin Economists’ Weekly Take: Fresh Government Data Could Bring Mortgage Rate Volatility",
@@ -188,20 +198,19 @@
       "title": "New on Redfin: See Your Buying Power While You Search",
       "link": "https://www.redfin.com/news/new-on-redfin-see-your-buying-power-while-you-search/",
       "published": "Fri, 07 Nov 2025"
-    },
-    {
-      "title": "Flood-Prone America Is Seeing More People Move Out Than In for the First Time Since 2019",
-      "link": "https://www.redfin.com/news/climate-migration-real-estate-2025/",
-      "published": "Thu, 06 Nov 2025"
-    },
-    {
-      "title": "Pending Home Sales Barely Budge, As Buyers Stay Cautious Despite Lower Mortgage Rates",
-      "link": "https://www.redfin.com/news/housing-market-update-pending-home-sales-barely-budge/",
-      "published": "Thu, 06 Nov 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Pending Home Sales Slip As Would-Be Buyers Wait For Lower Rates and Economic Clarity",
+        "url": "https://www.redfin.com/news/housing-market-update-pending-sales-decline-buyers-waiting-for-lower-rates/",
+        "what": "The homes that do sell are taking a long time to find buyers, who are wary of high housing costs and economic instability",
+        "numbers": "0.3, 9,",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-decline-buyers-waiting-for-lower-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "FHFA eyes assumable and portable mortgages, raising questions for lenders",
         "url": "https://www.housingwire.com/articles/fhfa-assumable-portable-mortgages/",
@@ -237,18 +246,36 @@
         "justified": "redfin.com — https://www.redfin.com/news/weekly-economics-update-november-10/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Pending Home Sales Barely Budge, As Buyers Stay Cautious Despite Lower Mortgage Rates",
-        "url": "https://www.redfin.com/news/housing-market-update-pending-home-sales-barely-budge/",
-        "what": "Homes are selling at the slowest pace for this time of year since 2019",
-        "numbers": "2019., 0.7, 2,",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-home-sales-barely-budge/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Redfin Debuts Conversational Search to Reinvent How You Find Homes",
+        "url": "https://www.redfin.com/news/redfin-debuts-conversational-search/",
+        "what": "The AI feature allows you to have a back-and-forth dialogue with Redfin while you search, helping you discover homes that best suit your preferences For years, online real estate search has been limited by filters and map boundaries",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/redfin-debuts-conversational-search/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Redfin puts forth AI chat tool for home searches",
+        "url": "https://www.housingwire.com/articles/redfin-puts-forth-ai-chat-tool-for-home-searches/",
+        "what": "Early testing shows that users of the new system view nearly twice as many listings as those using standard search tools.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/redfin-puts-forth-ai-chat-tool-for-home-searches/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Zillow rebuts Compass claims of conspiracy in antitrust lawsuit",
+        "url": "https://www.housingwire.com/articles/zillow-antitrust-defense/",
+        "what": "Zillow argues Compass’s claims of conspiracy lack evidence and that listing standards protect market transparency",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-antitrust-defense/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "What real estate agents need to know about the 50-year mortgage",
         "url": "https://www.housingwire.com/articles/what-real-estate-agents-need-to-know-about-the-50-year-mortgage/",
@@ -273,24 +300,6 @@
         "what": "Learn the YouTube strategy that helped EXP’s Gail DeMarco rebuild her career in a new market.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/start-over-new-market-gail-demarco/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Lexington sellers hold firm on pricing as inventory builds to highest level in years",
-        "url": "https://www.housingwire.com/articles/lexington-home-prices/",
-        "what": "Lexington home prices keep prices steady as active listings reach 1,112 homes with a 2.6-month supply",
-        "numbers": "1,112, 2.6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lexington-home-prices/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "From snow caps to sand traps: Sellers play different games in Alaska and Hawaii",
-        "url": "https://www.housingwire.com/articles/alaska-vs-hawaii-housing-market-price-cuts/",
-        "what": "Alaska leads Hawaii in price cuts",
-        "numbers": "39.4, 31.9",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/alaska-vs-hawaii-housing-market-price-cuts/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -320,15 +329,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/new-on-redfin-see-your-buying-power-while-you-search/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Flood-Prone America Is Seeing More People Move Out Than In for the First Time Since 2019",
-        "url": "https://www.redfin.com/news/climate-migration-real-estate-2025/",
-        "what": "An analysis of domestic migration data shows high-flood-risk counties lost nearly 30,000 more residents than they gained last year, driven largely by outflows from Miami and Houston",
-        "numbers": "30,000, 2019",
-        "justified": "redfin.com — https://www.redfin.com/news/climate-migration-real-estate-2025/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
