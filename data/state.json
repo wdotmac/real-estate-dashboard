@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-14 15:30 UTC",
+  "as_of": "2025-11-14 16:41 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Shreveport-Bossier City housing market finds balance",
+      "link": "https://www.housingwire.com/articles/shreveport-bossier-city-housing-market/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
+      "title": "2025 NAR president Kevin Sears on gaining members’ trust",
+      "link": "https://www.housingwire.com/articles/2025-nar-president-kevin-sears-on-gaining-members-trust/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
       "title": "Rice Park Capital acquires Rosegate Mortgage",
       "link": "https://www.housingwire.com/articles/rice-park-acquires-rosegate-mortgage/",
       "published": "Fri, 14 Nov 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Battle Creek, MI housing market update",
       "link": "https://www.housingwire.com/articles/battle-creek-housing-market/",
-      "published": "Fri, 14 Nov 2025"
-    },
-    {
-      "title": "Oshkosh, WI’s fast sales pace and tight inventory contrast with price cuts on 37% of listings",
-      "link": "https://www.housingwire.com/articles/oshkosh-home-prices/",
-      "published": "Fri, 14 Nov 2025"
-    },
-    {
-      "title": "Joplin housing market sees buyer demand outpace new listings",
-      "link": "https://www.housingwire.com/articles/joplin-housing-market/",
       "published": "Fri, 14 Nov 2025"
     },
     {
@@ -222,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Shreveport-Bossier City housing market finds balance",
+        "url": "https://www.housingwire.com/articles/shreveport-bossier-city-housing-market/",
+        "what": "Weekly absorption exceeds new listings in Shreveport-Bossier City with median price at $250,000 and 37.5% price reductions.",
+        "numbers": "$250,000, 37.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/shreveport-bossier-city-housing-market/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Rice Park Capital acquires Rosegate Mortgage",
         "url": "https://www.housingwire.com/articles/rice-park-acquires-rosegate-mortgage/",
@@ -295,24 +304,25 @@
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
-        "title": "AI has officially entered the chat but adoption will decide everything",
-        "url": "https://www.housingwire.com/articles/ai-has-officially-entered-the-chat-but-adoption-will-decide-everything/",
-        "what": "One of the most common themes in the mortgage industry is to point out its failure to adopt technology",
+        "title": "Redfin Debuts Conversational Search to Reinvent How You Find Homes",
+        "url": "https://www.redfin.com/news/redfin-debuts-conversational-search/",
+        "what": "The AI feature allows you to have a back-and-forth dialogue with Redfin while you search, helping you discover homes that best suit your preferences For years, online real estate search has been limited by filters and map boundaries",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-has-officially-entered-the-chat-but-adoption-will-decide-everything/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Great Falls housing market shifts toward buyers as 46% of sellers cut prices",
-        "url": "https://www.housingwire.com/articles/great-falls-housing-market/",
-        "what": "Sellers in Great Falls reduce prices on 46% of listings as median days on market extend to 84 and supply grows.",
-        "numbers": "46, 84",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/great-falls-housing-market/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+        "justified": "redfin.com — https://www.redfin.com/news/redfin-debuts-conversational-search/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
-    "notables": []
+    "notables": [
+      {
+        "title": "2025 NAR president Kevin Sears on gaining members’ trust",
+        "url": "https://www.housingwire.com/articles/2025-nar-president-kevin-sears-on-gaining-members-trust/",
+        "what": "Sears thanked NAR members for their trust and highlighted the association’s turnaround in farewell address at the NAR NXT conference.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/2025-nar-president-kevin-sears-on-gaining-members-trust/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      }
+    ]
   }
 }
