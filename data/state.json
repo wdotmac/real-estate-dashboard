@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-14 18:43 UTC",
+  "as_of": "2025-11-14 19:26 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The 50-year mortgage: I’m not buying the “forever loan”",
+      "link": "https://www.housingwire.com/articles/the-50-year-mortgage-im-not-buying-the-forever-loan/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
+      "title": "Housing’s real problem now: job growth at the high end has stalled",
+      "link": "https://www.housingwire.com/articles/housings-real-problem-now-job-growth-at-the-high-end-has-stalled/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
       "title": "AI is rewriting the new home search. Here’s how homebuilders can win",
       "link": "https://www.housingwire.com/articles/ai-is-rewriting-the-new-home-search-heres-how-homebuilders-can-win/",
       "published": "Fri, 14 Nov 2025"
@@ -157,16 +167,6 @@
     {
       "title": "FHA loans drive mortgage delinquency increase in Q3 2025",
       "link": "https://www.housingwire.com/articles/mortgage-delinquency-rate-q3-2025/",
-      "published": "Fri, 14 Nov 2025"
-    },
-    {
-      "title": "IRS announces increases to 2026 retirement account contribution limits",
-      "link": "https://www.housingwire.com/articles/irs-2026-retirement-limits/",
-      "published": "Fri, 14 Nov 2025"
-    },
-    {
-      "title": "AnnieMac CEO Joseph Panebianco on using data to drive success",
-      "link": "https://www.housingwire.com/articles/2026-housing-market/",
       "published": "Fri, 14 Nov 2025"
     },
     {
@@ -241,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "The 50-year mortgage: I’m not buying the “forever loan”",
+        "url": "https://www.housingwire.com/articles/the-50-year-mortgage-im-not-buying-the-forever-loan/",
+        "what": "The 50-year mortgage spreads payments but increases total interest and risks for Texas homebuyers.",
+        "numbers": "50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-50-year-mortgage-im-not-buying-the-forever-loan/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Housing’s real problem now: job growth at the high end has stalled",
+        "url": "https://www.housingwire.com/articles/housings-real-problem-now-job-growth-at-the-high-end-has-stalled/",
+        "what": "Stalled job growth in critical sectors slows housing market momentum despite mortgage incentives.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housings-real-problem-now-job-growth-at-the-high-end-has-stalled/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "AI is rewriting the new home search. Here’s how homebuilders can win",
         "url": "https://www.housingwire.com/articles/ai-is-rewriting-the-new-home-search-heres-how-homebuilders-can-win/",
         "what": "AI is reshaping new home search with 66% of buyers using it to research homes and builders needing to adapt.",
@@ -275,24 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/shreveport-bossier-city-housing-market/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Rice Park Capital acquires Rosegate Mortgage",
-        "url": "https://www.housingwire.com/articles/rice-park-acquires-rosegate-mortgage/",
-        "what": "Rice Park Capital's acquisition of Rosegate Mortgage aims to enhance servicing retention and recapture strategies.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rice-park-acquires-rosegate-mortgage/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Fathom Holdings introduces lead generation program",
-        "url": "https://www.housingwire.com/articles/fathom-holdings-introduces-lead-generation-program/",
-        "what": "The program aims to streamline lead management and strengthen connections across Fathom’s divisions, including mortgage and title services.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fathom-holdings-introduces-lead-generation-program/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Redfin Debuts Conversational Search to Reinvent How You Find Homes",
