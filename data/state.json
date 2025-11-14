@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-14 14:34 UTC",
+  "as_of": "2025-11-14 15:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Rice Park Capital acquires Rosegate Mortgage",
+      "link": "https://www.housingwire.com/articles/rice-park-acquires-rosegate-mortgage/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
+      "title": "Fathom Holdings introduces lead generation program",
+      "link": "https://www.housingwire.com/articles/fathom-holdings-introduces-lead-generation-program/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
       "title": "How buyer demand is affecting prices in the Ogden-Clearfield metro this week",
       "link": "https://www.housingwire.com/articles/ogden-clearfield-housing-market/",
       "published": "Fri, 14 Nov 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Joplin housing market sees buyer demand outpace new listings",
       "link": "https://www.housingwire.com/articles/joplin-housing-market/",
-      "published": "Fri, 14 Nov 2025"
-    },
-    {
-      "title": "What’s driving Canton’s aggressive home price cuts and steady sales?",
-      "link": "https://www.housingwire.com/articles/canton-housing-makret/",
-      "published": "Fri, 14 Nov 2025"
-    },
-    {
-      "title": "Tuscaloosa home prices adjust even as sales outpace new listings",
-      "link": "https://www.housingwire.com/articles/tuscaloosa-home-prices/",
       "published": "Fri, 14 Nov 2025"
     },
     {
@@ -222,6 +222,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Rice Park Capital acquires Rosegate Mortgage",
+        "url": "https://www.housingwire.com/articles/rice-park-acquires-rosegate-mortgage/",
+        "what": "Rice Park Capital's acquisition of Rosegate Mortgage aims to enhance servicing retention and recapture strategies.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rice-park-acquires-rosegate-mortgage/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Fathom Holdings introduces lead generation program",
+        "url": "https://www.housingwire.com/articles/fathom-holdings-introduces-lead-generation-program/",
+        "what": "The program aims to streamline lead management and strengthen connections across Fathom’s divisions, including mortgage and title services.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fathom-holdings-introduces-lead-generation-program/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "How buyer demand is affecting prices in the Ogden-Clearfield metro this week",
         "url": "https://www.housingwire.com/articles/ogden-clearfield-housing-market/",
@@ -291,24 +309,6 @@
         "what": "Sellers in Great Falls reduce prices on 46% of listings as median days on market extend to 84 and supply grows.",
         "numbers": "46, 84",
         "justified": "housingwire.com — https://www.housingwire.com/articles/great-falls-housing-market/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "50-year mortgage? NAR would rather focus on  increasing inventory",
-        "url": "https://www.housingwire.com/articles/50-year-mortgage-nar-would-rather-focus-on-increasing-inventory/",
-        "what": "NAR advocates for housing supply and tax reforms over long-term mortgage solutions, but appreciates focus on affordability.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/50-year-mortgage-nar-would-rather-focus-on-increasing-inventory/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Boise home sellers adjust prices facing highest fall inventory levels",
-        "url": "https://www.housingwire.com/articles/boise-home-prices/",
-        "what": "Boise home sellers reduce 41.2% of list prices as real estate inventory climbs to highest fall level at 3,335 listings.",
-        "numbers": "41.2, 3,335",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/boise-home-prices/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
