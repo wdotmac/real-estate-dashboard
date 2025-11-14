@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-14 19:26 UTC",
+  "as_of": "2025-11-14 20:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Home improvement contractors remain cautiously optimistic despite slowdown",
+      "link": "https://www.housingwire.com/articles/home-improvement-contractors-remain-cautiously-optimistic-despite-slowdown/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
+      "title": "Supreme Court’s tariffs case could have minimal impact on construction costs",
+      "link": "https://www.housingwire.com/articles/trump-tariffs-construction/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
+      "title": "HUD announces drastic changes to homelessness strategy",
+      "link": "https://www.housingwire.com/articles/hud-announces-drastic-changes-to-homelessness-strategy/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
       "title": "The 50-year mortgage: I’m not buying the “forever loan”",
       "link": "https://www.housingwire.com/articles/the-50-year-mortgage-im-not-buying-the-forever-loan/",
       "published": "Fri, 14 Nov 2025"
@@ -155,18 +170,8 @@
       "published": "Fri, 14 Nov 2025"
     },
     {
-      "title": "Mortgage servicers rethink recapture strategies as financial benefits fade",
-      "link": "https://www.housingwire.com/articles/recapture-profitability-decline-mortgage/",
-      "published": "Fri, 14 Nov 2025"
-    },
-    {
-      "title": "Younger buyers interested in 50-year mortgage, despite drawbacks",
-      "link": "https://www.housingwire.com/articles/younger-buyers-interested-in-50-year-mortgage-despite-drawbacks/",
-      "published": "Fri, 14 Nov 2025"
-    },
-    {
-      "title": "FHA loans drive mortgage delinquency increase in Q3 2025",
-      "link": "https://www.housingwire.com/articles/mortgage-delinquency-rate-q3-2025/",
+      "title": "How a 50-Year Mortgage Would Differ From a 30-Year Mortgage—and What It Would Mean for Homebuyers",
+      "link": "https://www.redfin.com/news/50-year-mortgage-explained/",
       "published": "Fri, 14 Nov 2025"
     },
     {
@@ -192,11 +197,6 @@
     {
       "title": "45% of Americans Say the Government Shutdown Makes Them Less Likely to Make a Major Purchase, Up From 21% in Early October",
       "link": "https://www.redfin.com/news/shutdown-sentiment-job-security-survey/",
-      "published": "Fri, 07 Nov 2025"
-    },
-    {
-      "title": "New on Redfin: See Your Buying Power While You Search",
-      "link": "https://www.redfin.com/news/new-on-redfin-see-your-buying-power-while-you-search/",
       "published": "Fri, 07 Nov 2025"
     }
   ],
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "How a 50-Year Mortgage Would Differ From a 30-Year Mortgage—and What It Would Mean for Homebuyers",
+        "url": "https://www.redfin.com/news/50-year-mortgage-explained/",
+        "what": "A proposed 50-year mortgage could lower monthly payments, but buyers would pay far more interest over time and build equity far more slowly",
+        "numbers": "50, 30",
+        "justified": "redfin.com — https://www.redfin.com/news/50-year-mortgage-explained/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "The 50-year mortgage: I’m not buying the “forever loan”",
         "url": "https://www.housingwire.com/articles/the-50-year-mortgage-im-not-buying-the-forever-loan/",
         "what": "The 50-year mortgage spreads payments but increases total interest and risks for Texas homebuyers.",
@@ -277,24 +286,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "AnnieMac CEO Joseph Panebianco on using data to drive success",
-        "url": "https://www.housingwire.com/articles/2026-housing-market/",
-        "what": "Insights on managing growth, risk and data-driven decisions in the 2026 housing market from Joseph Panebianco.",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-housing-market/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Shreveport-Bossier City housing market finds balance",
-        "url": "https://www.housingwire.com/articles/shreveport-bossier-city-housing-market/",
-        "what": "Weekly absorption exceeds new listings in Shreveport-Bossier City with median price at $250,000 and 37.5% price reductions.",
-        "numbers": "$250,000, 37.5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/shreveport-bossier-city-housing-market/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
         "title": "Redfin Debuts Conversational Search to Reinvent How You Find Homes",
         "url": "https://www.redfin.com/news/redfin-debuts-conversational-search/",
         "what": "The AI feature allows you to have a back-and-forth dialogue with Redfin while you search, helping you discover homes that best suit your preferences For years, online real estate search has been limited by filters and map boundaries",
@@ -315,20 +306,38 @@
     ],
     "notables": [
       {
+        "title": "Home improvement contractors remain cautiously optimistic despite slowdown",
+        "url": "https://www.housingwire.com/articles/home-improvement-contractors-remain-cautiously-optimistic-despite-slowdown/",
+        "what": "Despite a slowdown and uncertainty, most home improvement contractors remain optimistic about the market, with growth expected.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/home-improvement-contractors-remain-cautiously-optimistic-despite-slowdown/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Supreme Court’s tariffs case could have minimal impact on construction costs",
+        "url": "https://www.housingwire.com/articles/trump-tariffs-construction/",
+        "what": "The Supreme Court will decide on the legality of many of the Trump administration's tariffs, but many levies on construction material imports will remain regardless, possibly incre",
+        "numbers": "2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-tariffs-construction/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "HUD announces drastic changes to homelessness strategy",
+        "url": "https://www.housingwire.com/articles/hud-announces-drastic-changes-to-homelessness-strategy/",
+        "what": "The plan redirects resources toward short-term shelters that tie participation to employment and substance-abuse treatment.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-announces-drastic-changes-to-homelessness-strategy/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "IRS announces increases to 2026 retirement account contribution limits",
         "url": "https://www.housingwire.com/articles/irs-2026-retirement-limits/",
         "what": "IRS raises 2026 contribution limits for 401(k), IRA and catch-up plans with new phase-out ranges and Roth 401(k) rules.",
         "numbers": "2026, 401",
         "justified": "housingwire.com — https://www.housingwire.com/articles/irs-2026-retirement-limits/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "2025 NAR president Kevin Sears on gaining members’ trust",
-        "url": "https://www.housingwire.com/articles/2025-nar-president-kevin-sears-on-gaining-members-trust/",
-        "what": "Sears thanked NAR members for their trust and highlighted the association’s turnaround in farewell address at the NAR NXT conference.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/2025-nar-president-kevin-sears-on-gaining-members-trust/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
