@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-14 02:16 UTC",
+  "as_of": "2025-11-14 03:52 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Great Falls housing market shifts toward buyers as 46% of sellers cut prices",
+      "link": "https://www.housingwire.com/articles/great-falls-housing-market/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
+      "title": "50-year mortgage? NAR would rather focus on  increasing inventory",
+      "link": "https://www.housingwire.com/articles/50-year-mortgage-nar-would-rather-focus-on-increasing-inventory/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
       "title": "Boise home sellers adjust prices facing highest fall inventory levels",
       "link": "https://www.housingwire.com/articles/boise-home-prices/",
       "published": "Thu, 13 Nov 2025"
@@ -157,16 +167,6 @@
     {
       "title": "What if the real homebuilding disruption isn’t AI — It’s culture?",
       "link": "https://www.housingwire.com/articles/what-if-the-real-homebuilding-disruption-isnt-ai-its-culture/",
-      "published": "Thu, 13 Nov 2025"
-    },
-    {
-      "title": "Charlottesville sellers accelerate price adjustments as inventory builds",
-      "link": "https://www.housingwire.com/articles/charlottesville-home-prices/",
-      "published": "Thu, 13 Nov 2025"
-    },
-    {
-      "title": "MoxiWorks unveils AI marketing platform RISE",
-      "link": "https://www.housingwire.com/articles/moxiworks-unveils-ai-marketing-platform-rise/",
       "published": "Thu, 13 Nov 2025"
     },
     {
@@ -223,6 +223,24 @@
     ],
     "housing": [
       {
+        "title": "Great Falls housing market shifts toward buyers as 46% of sellers cut prices",
+        "url": "https://www.housingwire.com/articles/great-falls-housing-market/",
+        "what": "Sellers in Great Falls reduce prices on 46% of listings as median days on market extend to 84 and supply grows.",
+        "numbers": "46, 84",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/great-falls-housing-market/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "50-year mortgage? NAR would rather focus on  increasing inventory",
+        "url": "https://www.housingwire.com/articles/50-year-mortgage-nar-would-rather-focus-on-increasing-inventory/",
+        "what": "NAR advocates for housing supply and tax reforms over long-term mortgage solutions, but appreciates focus on affordability.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/50-year-mortgage-nar-would-rather-focus-on-increasing-inventory/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Boise home sellers adjust prices facing highest fall inventory levels",
         "url": "https://www.housingwire.com/articles/boise-home-prices/",
         "what": "Boise home sellers reduce 41.2% of list prices as real estate inventory climbs to highest fall level at 3,335 listings.",
@@ -266,24 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/alexandria-la-housing-market/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Wheeling, WV: Price cuts hit 43.9% of home listings in affordable area",
-        "url": "https://www.housingwire.com/articles/wheeling-wv-real-estate/",
-        "what": "Price reductions hit 43.9% in Wheeling metro with steady absorption and affordable median price of $185,000.",
-        "numbers": "43.9, $185,000.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/wheeling-wv-real-estate/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "How homebuilders can embed trust into the digital buyers journey",
-        "url": "https://www.housingwire.com/articles/how-homebuilders-can-embed-trust-into-the-digital-buyers-journey/",
-        "what": "As affordability erodes and insurance volatility grows, trust has become builders’ most strategic asset",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/how-homebuilders-can-embed-trust-into-the-digital-buyers-journey/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Redfin Debuts Conversational Search to Reinvent How You Find Homes",
