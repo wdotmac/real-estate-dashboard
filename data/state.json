@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-14 16:41 UTC",
+  "as_of": "2025-11-14 17:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "FHA loans drive mortgage delinquency increase in Q3 2025",
+      "link": "https://www.housingwire.com/articles/mortgage-delinquency-rate-q3-2025/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
+      "title": "IRS announces increases to 2026 retirement account contribution limits",
+      "link": "https://www.housingwire.com/articles/irs-2026-retirement-limits/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
+      "title": "AnnieMac CEO Joseph Panebianco on using data to drive success",
+      "link": "https://www.housingwire.com/articles/2026-housing-market/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
       "title": "Shreveport-Bossier City housing market finds balance",
       "link": "https://www.housingwire.com/articles/shreveport-bossier-city-housing-market/",
       "published": "Fri, 14 Nov 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Rice Park Capital acquires Rosegate Mortgage",
       "link": "https://www.housingwire.com/articles/rice-park-acquires-rosegate-mortgage/",
-      "published": "Fri, 14 Nov 2025"
-    },
-    {
-      "title": "Fathom Holdings introduces lead generation program",
-      "link": "https://www.housingwire.com/articles/fathom-holdings-introduces-lead-generation-program/",
-      "published": "Fri, 14 Nov 2025"
-    },
-    {
-      "title": "How buyer demand is affecting prices in the Ogden-Clearfield metro this week",
-      "link": "https://www.housingwire.com/articles/ogden-clearfield-housing-market/",
-      "published": "Fri, 14 Nov 2025"
-    },
-    {
-      "title": "Battle Creek, MI housing market update",
-      "link": "https://www.housingwire.com/articles/battle-creek-housing-market/",
       "published": "Fri, 14 Nov 2025"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "FHA loans drive mortgage delinquency increase in Q3 2025",
+        "url": "https://www.housingwire.com/articles/mortgage-delinquency-rate-q3-2025/",
+        "what": "FHA loans lead the rise in mortgage delinquencies and are impacted by economic stressors such as a softer labor market and increased costs.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-delinquency-rate-q3-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Pending Home Sales Slip As Would-Be Buyers Wait For Lower Rates and Economic Clarity",
         "url": "https://www.redfin.com/news/housing-market-update-pending-sales-decline-buyers-waiting-for-lower-rates/",
         "what": "The homes that do sell are taking a long time to find buyers, who are wary of high housing costs and economic instability",
@@ -222,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "AnnieMac CEO Joseph Panebianco on using data to drive success",
+        "url": "https://www.housingwire.com/articles/2026-housing-market/",
+        "what": "Insights on managing growth, risk and data-driven decisions in the 2026 housing market from Joseph Panebianco.",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-housing-market/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Shreveport-Bossier City housing market finds balance",
         "url": "https://www.housingwire.com/articles/shreveport-bossier-city-housing-market/",
@@ -277,33 +295,6 @@
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
-        "title": "Joplin housing market sees buyer demand outpace new listings",
-        "url": "https://www.housingwire.com/articles/joplin-housing-market/",
-        "what": "Buyer demand in Joplin exceeded new listings as 32 homes sold and 33.8% of listings cut prices in the Joplin housing market absorbed 32 homes with 30 new listings added, showing bu",
-        "numbers": "32, 33.8, 30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/joplin-housing-market/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "What’s driving Canton’s aggressive home price cuts and steady sales?",
-        "url": "https://www.housingwire.com/articles/canton-housing-makret/",
-        "what": "Canton housing market cuts prices on 40% of listings but maintains seller conditions with 49-day median selling time and 2 months inventory.",
-        "numbers": "40, 49, 2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/canton-housing-makret/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Tuscaloosa home prices adjust even as sales outpace new listings",
-        "url": "https://www.housingwire.com/articles/tuscaloosa-home-prices/",
-        "what": "Price reductions affect 40% of Tuscaloosa home prices while absorption exceeds new listings by 48.6%",
-        "numbers": "40, 48.6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tuscaloosa-home-prices/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
         "title": "Redfin Debuts Conversational Search to Reinvent How You Find Homes",
         "url": "https://www.redfin.com/news/redfin-debuts-conversational-search/",
         "what": "The AI feature allows you to have a back-and-forth dialogue with Redfin while you search, helping you discover homes that best suit your preferences For years, online real estate search has been limited by filters and map boundaries",
@@ -311,9 +302,36 @@
         "justified": "redfin.com — https://www.redfin.com/news/redfin-debuts-conversational-search/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Affordability Improves Slightly For Veteran Homebuyers, But Most Homes Are Still Out of Reach",
+        "url": "https://www.redfin.com/news/veteran-homebuying-affordability-2025/",
+        "what": "22% of U.S",
+        "numbers": "22, 2023,",
+        "justified": "redfin.com — https://www.redfin.com/news/veteran-homebuying-affordability-2025/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "45% of Americans Say the Government Shutdown Makes Them Less Likely to Make a Major Purchase, Up From 21% in Early October",
+        "url": "https://www.redfin.com/news/shutdown-sentiment-job-security-survey/",
+        "what": "45% of respondents are less likely to make a major purchase overall due to the government shutdown, up from 21% in early October, according to a new Redfin survey conducted by Ipsos",
+        "numbers": "45, 21, 17",
+        "justified": "redfin.com — https://www.redfin.com/news/shutdown-sentiment-job-security-survey/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
+      {
+        "title": "IRS announces increases to 2026 retirement account contribution limits",
+        "url": "https://www.housingwire.com/articles/irs-2026-retirement-limits/",
+        "what": "IRS raises 2026 contribution limits for 401(k), IRA and catch-up plans with new phase-out ranges and Roth 401(k) rules.",
+        "numbers": "2026, 401",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/irs-2026-retirement-limits/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "2025 NAR president Kevin Sears on gaining members’ trust",
         "url": "https://www.housingwire.com/articles/2025-nar-president-kevin-sears-on-gaining-members-trust/",
