@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-14 22:33 UTC",
+  "as_of": "2025-11-14 23:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Tech Pulse: Redfin, Real Brokerage show off AI home search",
+      "link": "https://www.housingwire.com/articles/tech-pulse-redfin-real-brokerage-show-off-ai-home-search/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
+      "title": "First American’s 2026 housing market forecast points to better affordability",
+      "link": "https://www.housingwire.com/articles/housing-market-2026/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
       "title": "Figure’s marketplace accelerates with $2.5B in Q3 volume",
       "link": "https://www.housingwire.com/articles/figure-technology-q3-loan-volume-2025/",
       "published": "Fri, 14 Nov 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Luxury real estate market projected to exceed $330B by 2030",
       "link": "https://www.housingwire.com/articles/luxury-real-estate-market-projected-to-exceed-330b-by-2030/",
-      "published": "Fri, 14 Nov 2025"
-    },
-    {
-      "title": "Home improvement contractors remain cautiously optimistic despite slowdown",
-      "link": "https://www.housingwire.com/articles/home-improvement-contractors-remain-cautiously-optimistic-despite-slowdown/",
-      "published": "Fri, 14 Nov 2025"
-    },
-    {
-      "title": "Supreme Court’s tariffs case could have minimal impact on construction costs",
-      "link": "https://www.housingwire.com/articles/trump-tariffs-construction/",
       "published": "Fri, 14 Nov 2025"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "First American’s 2026 housing market forecast points to better affordability",
+        "url": "https://www.housingwire.com/articles/housing-market-2026/",
+        "what": "First American's Odeta Kushi said mortgage rates are expected to remain in the low-6% range, but other factors will lift affordability.",
+        "numbers": "6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Figure’s marketplace accelerates with $2.5B in Q3 volume",
         "url": "https://www.housingwire.com/articles/figure-technology-q3-loan-volume-2025/",
         "what": "Figure Technology Solutions reached $2.5 billion in consumer loan marketplace volume in the third quarter of 2025, a 70% year-over-year increase.",
@@ -232,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "Tech Pulse: Redfin, Real Brokerage show off AI home search",
+        "url": "https://www.housingwire.com/articles/tech-pulse-redfin-real-brokerage-show-off-ai-home-search/",
+        "what": "Both Redfin and Real offer homebuyers AI-powered voice search with natural conversation and responses based on criteria and more.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tech-pulse-redfin-real-brokerage-show-off-ai-home-search/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "How a 50-Year Mortgage Would Differ From a 30-Year Mortgage—and What It Would Mean for Homebuyers",
         "url": "https://www.redfin.com/news/50-year-mortgage-explained/",
         "what": "A proposed 50-year mortgage could lower monthly payments, but buyers would pay far more interest over time and build equity far more slowly",
@@ -248,24 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/the-50-year-mortgage-im-not-buying-the-forever-loan/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Housing’s real problem now: job growth at the high end has stalled",
-        "url": "https://www.housingwire.com/articles/housings-real-problem-now-job-growth-at-the-high-end-has-stalled/",
-        "what": "Stalled job growth in critical sectors slows housing market momentum despite mortgage incentives.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housings-real-problem-now-job-growth-at-the-high-end-has-stalled/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "AI is rewriting the new home search. Here’s how homebuilders can win",
-        "url": "https://www.housingwire.com/articles/ai-is-rewriting-the-new-home-search-heres-how-homebuilders-can-win/",
-        "what": "AI is reshaping new home search with 66% of buyers using it to research homes and builders needing to adapt.",
-        "numbers": "66",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-is-rewriting-the-new-home-search-heres-how-homebuilders-can-win/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Redfin Debuts Conversational Search to Reinvent How You Find Homes",
