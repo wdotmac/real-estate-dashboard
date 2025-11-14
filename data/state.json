@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-11-14 20:33 UTC",
+  "as_of": "2025-11-14 21:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.08,
-      "delta_bp_1d": -4.999999999999982
+      "yield_pct": 4.11,
+      "delta_bp_1d": 3.000000000000025
     },
     "mortgage_30y": {
       "rate_pct": 6.24,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Figure’s marketplace accelerates with $2.5B in Q3 volume",
+      "link": "https://www.housingwire.com/articles/figure-technology-q3-loan-volume-2025/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
+      "title": "Macquarie’s Jason White on the Stewart-MCS  deal",
+      "link": "https://www.housingwire.com/articles/macquarie-advisor-stewart-mcs/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
+      "title": "NAR proposes MLS rule repeals, updates to code of ethics",
+      "link": "https://www.housingwire.com/articles/nar-mls-repeals/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
+      "title": "Luxury real estate market projected to exceed $330B by 2030",
+      "link": "https://www.housingwire.com/articles/luxury-real-estate-market-projected-to-exceed-330b-by-2030/",
+      "published": "Fri, 14 Nov 2025"
+    },
+    {
       "title": "Home improvement contractors remain cautiously optimistic despite slowdown",
       "link": "https://www.housingwire.com/articles/home-improvement-contractors-remain-cautiously-optimistic-despite-slowdown/",
       "published": "Fri, 14 Nov 2025"
@@ -147,26 +167,6 @@
     {
       "title": "Supreme Court’s tariffs case could have minimal impact on construction costs",
       "link": "https://www.housingwire.com/articles/trump-tariffs-construction/",
-      "published": "Fri, 14 Nov 2025"
-    },
-    {
-      "title": "HUD announces drastic changes to homelessness strategy",
-      "link": "https://www.housingwire.com/articles/hud-announces-drastic-changes-to-homelessness-strategy/",
-      "published": "Fri, 14 Nov 2025"
-    },
-    {
-      "title": "The 50-year mortgage: I’m not buying the “forever loan”",
-      "link": "https://www.housingwire.com/articles/the-50-year-mortgage-im-not-buying-the-forever-loan/",
-      "published": "Fri, 14 Nov 2025"
-    },
-    {
-      "title": "Housing’s real problem now: job growth at the high end has stalled",
-      "link": "https://www.housingwire.com/articles/housings-real-problem-now-job-growth-at-the-high-end-has-stalled/",
-      "published": "Fri, 14 Nov 2025"
-    },
-    {
-      "title": "AI is rewriting the new home search. Here’s how homebuilders can win",
-      "link": "https://www.housingwire.com/articles/ai-is-rewriting-the-new-home-search-heres-how-homebuilders-can-win/",
       "published": "Fri, 14 Nov 2025"
     },
     {
@@ -203,20 +203,11 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Mortgage servicers rethink recapture strategies as financial benefits fade",
-        "url": "https://www.housingwire.com/articles/recapture-profitability-decline-mortgage/",
-        "what": "Rice Park Capital’s agreement to acquire Rosegate Mortgage highlights the increasing focus among mortgage companies on recapture opportunities",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/recapture-profitability-decline-mortgage/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "FHA loans drive mortgage delinquency increase in Q3 2025",
-        "url": "https://www.housingwire.com/articles/mortgage-delinquency-rate-q3-2025/",
-        "what": "FHA loans lead the rise in mortgage delinquencies and are impacted by economic stressors such as a softer labor market and increased costs.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-delinquency-rate-q3-2025/",
+        "title": "Figure’s marketplace accelerates with $2.5B in Q3 volume",
+        "url": "https://www.housingwire.com/articles/figure-technology-q3-loan-volume-2025/",
+        "what": "Figure Technology Solutions reached $2.5 billion in consumer loan marketplace volume in the third quarter of 2025, a 70% year-over-year increase.",
+        "numbers": "$2.5 billion, 2025,, 70",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/figure-technology-q3-loan-volume-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -277,15 +268,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Younger buyers interested in 50-year mortgage, despite drawbacks",
-        "url": "https://www.housingwire.com/articles/younger-buyers-interested-in-50-year-mortgage-despite-drawbacks/",
-        "what": "Millennials were the most open to a half-century loan, with 54% indicating they would consider one",
-        "numbers": "54",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/younger-buyers-interested-in-50-year-mortgage-despite-drawbacks/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Debuts Conversational Search to Reinvent How You Find Homes",
         "url": "https://www.redfin.com/news/redfin-debuts-conversational-search/",
         "what": "The AI feature allows you to have a back-and-forth dialogue with Redfin while you search, helping you discover homes that best suit your preferences For years, online real estate search has been limited by filters and map boundaries",
@@ -305,6 +287,33 @@
       }
     ],
     "notables": [
+      {
+        "title": "Macquarie’s Jason White on the Stewart-MCS  deal",
+        "url": "https://www.housingwire.com/articles/macquarie-advisor-stewart-mcs/",
+        "what": "Macquarie's Jason White shared insights on the firm's advisory strategy, market context for the deal and future M&A trends for 2026.",
+        "numbers": "2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/macquarie-advisor-stewart-mcs/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "NAR proposes MLS rule repeals, updates to code of ethics",
+        "url": "https://www.housingwire.com/articles/nar-mls-repeals/",
+        "what": "NAR proposes MLS rule repeals to empower local associations and updates code of ethics for commission lawsuit compliance.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-mls-repeals/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Luxury real estate market projected to exceed $330B by 2030",
+        "url": "https://www.housingwire.com/articles/luxury-real-estate-market-projected-to-exceed-330b-by-2030/",
+        "what": "States across the Southeast",
+        "numbers": "2030.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/luxury-real-estate-market-projected-to-exceed-330b-by-2030/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Home improvement contractors remain cautiously optimistic despite slowdown",
         "url": "https://www.housingwire.com/articles/home-improvement-contractors-remain-cautiously-optimistic-despite-slowdown/",
@@ -331,15 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/hud-announces-drastic-changes-to-homelessness-strategy/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "IRS announces increases to 2026 retirement account contribution limits",
-        "url": "https://www.housingwire.com/articles/irs-2026-retirement-limits/",
-        "what": "IRS raises 2026 contribution limits for 401(k), IRA and catch-up plans with new phase-out ranges and Roth 401(k) rules.",
-        "numbers": "2026, 401",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/irs-2026-retirement-limits/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
