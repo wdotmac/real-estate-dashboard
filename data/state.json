@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-17 17:33 UTC",
+  "as_of": "2025-11-17 18:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Kevin Sears concludes NAR presidency with praise, strategic plan focus",
+      "link": "https://www.housingwire.com/articles/nar-kevin-sears-leadership-transiti/",
+      "published": "Mon, 17 Nov 2025"
+    },
+    {
+      "title": "Despite economic uncertainty, weekly housing demand up double digits over 2024",
+      "link": "https://www.housingwire.com/articles/despite-economic-uncertainty-weekly-housing-demand-up-double-digits-over-2024/",
+      "published": "Mon, 17 Nov 2025"
+    },
+    {
+      "title": "October new-home mortgage applications fall 2.6%",
+      "link": "https://www.housingwire.com/articles/mortgage-applications-drop-october-2025/",
+      "published": "Mon, 17 Nov 2025"
+    },
+    {
+      "title": "NAR’s MLS cleanup shifts power locally. Here’s what you need to know",
+      "link": "https://www.housingwire.com/articles/mls-policy-changes/",
+      "published": "Mon, 17 Nov 2025"
+    },
+    {
       "title": "HomeLight: Lenders optimistic about 2026 originations growth",
       "link": "https://www.housingwire.com/articles/us-housing-market-2026-outlook/",
       "published": "Mon, 17 Nov 2025"
@@ -147,26 +167,6 @@
     {
       "title": "Harrisonburg housing market trends test seller patience",
       "link": "https://www.housingwire.com/articles/harrisonburg-housing-market/",
-      "published": "Mon, 17 Nov 2025"
-    },
-    {
-      "title": "Illinois moves to boost housing by curbing parking mandates",
-      "link": "https://www.housingwire.com/articles/illinois-bids-to-boost-housing-by-curbing-parking-mandates/",
-      "published": "Mon, 17 Nov 2025"
-    },
-    {
-      "title": "Brown Harris Stevens names Christopher Halstead chief strategy officer",
-      "link": "https://www.housingwire.com/articles/brown-harris-stevens-names-christopher-halstead-chief-strategy-officer/",
-      "published": "Mon, 17 Nov 2025"
-    },
-    {
-      "title": "Griffin Funding names John Jones as SVP of growth",
-      "link": "https://www.housingwire.com/articles/john-jones-griffin-funding-svp-growth/",
-      "published": "Mon, 17 Nov 2025"
-    },
-    {
-      "title": "Freddie Mac launches new quality control platform",
-      "link": "https://www.housingwire.com/articles/freddie-mac-quality-control-advisor-plus/",
       "published": "Mon, 17 Nov 2025"
     },
     {
@@ -203,20 +203,29 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Despite economic uncertainty, weekly housing demand up double digits over 2024",
+        "url": "https://www.housingwire.com/articles/despite-economic-uncertainty-weekly-housing-demand-up-double-digits-over-2024/",
+        "what": "Weekly pending home sales rose 15.36% year over year with purchase applications up 31%, supported by mortgage rates below 6.64%.",
+        "numbers": "15.36, 31, 6.64",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/despite-economic-uncertainty-weekly-housing-demand-up-double-digits-over-2024/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "October new-home mortgage applications fall 2.6%",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-drop-october-2025/",
+        "what": "Mortgage applications for new-home purchases fell 2.6% in October, but new-home sales rose, driven by lower rates and increased use of ARMs.",
+        "numbers": "2.6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-drop-october-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "HomeLight: Lenders optimistic about 2026 originations growth",
         "url": "https://www.housingwire.com/articles/us-housing-market-2026-outlook/",
         "what": "Despite high rates and prices, lenders are optimistic about the U.S",
         "numbers": "2026.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/us-housing-market-2026-outlook/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "RE/MAX accelerates real estate innovation with AI and technology",
-        "url": "https://www.housingwire.com/articles/re-max-accelerates-real-estate-innovation-with-ai-and-technology/",
-        "what": "RE/MAX is accelerating the integration of AI and cutting-edge technology to transform how agents engage with clients, generate leads, and deliver results",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/re-max-accelerates-real-estate-innovation-with-ai-and-technology/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -241,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "NAR’s MLS cleanup shifts power locally. Here’s what you need to know",
+        "url": "https://www.housingwire.com/articles/mls-policy-changes/",
+        "what": "NAR repeals 18 MLS policies to reduce antitrust risk and give local MLSs control over listings, membership and enforcement.",
+        "numbers": "18",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-policy-changes/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Harrisonburg housing market trends test seller patience",
         "url": "https://www.housingwire.com/articles/harrisonburg-housing-market/",
         "what": "Harrisonburg housing market sees 73% inventory growth, 37% price cuts, and stable absorption at 20 homes weekly.",
@@ -257,24 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/illinois-bids-to-boost-housing-by-curbing-parking-mandates/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "‘A thunderclap unpacking UMH CEO Sam Landy’s statements defines the failure metric’ in ROAD to Housing Act",
-        "url": "https://www.housingwire.com/articles/a-thunderclap-unpacking-umh-ceo-sam-landys-statements-defines-the-failure-metric-in-road-to-housing-act-via-op-ed/",
-        "what": "UMH CEO Sam Landy should be thanked for sharing via HousingWire his recent op-ed which weaves together what is arguably a subtle call for the Manufactured Housing Institute (MHI) to do what the Manufactured Housing Association for Regulatory Reform (MHARR) called for amendments to the ROAD to Housing Act 2025",
-        "numbers": "2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/a-thunderclap-unpacking-umh-ceo-sam-landys-statements-defines-the-failure-metric-in-road-to-housing-act-via-op-ed/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "NAR’s next era starts with two women and a radical rethink of leadership",
-        "url": "https://www.housingwire.com/articles/women-real-estate-leadership/",
-        "what": "CEO Nykia Wright and president-elect Christine Hansen share how authenticity and preparation shaped their rise to the top.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/women-real-estate-leadership/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "How a 50-Year Mortgage Would Differ From a 30-Year Mortgage—and What It Would Mean for Homebuyers",
@@ -296,6 +296,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Kevin Sears concludes NAR presidency with praise, strategic plan focus",
+        "url": "https://www.housingwire.com/articles/nar-kevin-sears-leadership-transiti/",
+        "what": "Kevin Sears wraps up his nearly 680-day NAR presidency amid focus on strategic plan and industry challenges.",
+        "numbers": "680",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-kevin-sears-leadership-transiti/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Brown Harris Stevens names Christopher Halstead chief strategy officer",
         "url": "https://www.housingwire.com/articles/brown-harris-stevens-names-christopher-halstead-chief-strategy-officer/",
@@ -320,15 +329,6 @@
         "what": "Known as Quality Control Advisor Plus, the platform consolidates previously separate QC systems and uses technology to automate the review and remediation of delivered loans.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/freddie-mac-quality-control-advisor-plus/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NAR’s new 3-year plan is massive. Here’s what actually changes in 2026",
-        "url": "https://www.housingwire.com/articles/nar-strategic-plan-2026/",
-        "what": "NAR's executive committee approved it 2026-2028 strategic plan in a unanimous vote on Sunday during NAR NXT in Houston.",
-        "numbers": "2026, 2028",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-strategic-plan-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
