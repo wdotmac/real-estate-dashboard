@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-17 16:43 UTC",
+  "as_of": "2025-11-17 17:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "HomeLight: Lenders optimistic about 2026 originations growth",
+      "link": "https://www.housingwire.com/articles/us-housing-market-2026-outlook/",
+      "published": "Mon, 17 Nov 2025"
+    },
+    {
+      "title": "Harrisonburg housing market trends test seller patience",
+      "link": "https://www.housingwire.com/articles/harrisonburg-housing-market/",
+      "published": "Mon, 17 Nov 2025"
+    },
+    {
       "title": "Illinois moves to boost housing by curbing parking mandates",
       "link": "https://www.housingwire.com/articles/illinois-bids-to-boost-housing-by-curbing-parking-mandates/",
       "published": "Mon, 17 Nov 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Freddie Mac launches new quality control platform",
       "link": "https://www.housingwire.com/articles/freddie-mac-quality-control-advisor-plus/",
-      "published": "Mon, 17 Nov 2025"
-    },
-    {
-      "title": "RE/MAX accelerates real estate innovation with AI and technology",
-      "link": "https://www.housingwire.com/articles/re-max-accelerates-real-estate-innovation-with-ai-and-technology/",
-      "published": "Mon, 17 Nov 2025"
-    },
-    {
-      "title": "‘A thunderclap unpacking UMH CEO Sam Landy’s statements defines the failure metric’ in ROAD to Housing Act",
-      "link": "https://www.housingwire.com/articles/a-thunderclap-unpacking-umh-ceo-sam-landys-statements-defines-the-failure-metric-in-road-to-housing-act-via-op-ed/",
       "published": "Mon, 17 Nov 2025"
     },
     {
@@ -203,20 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "HomeLight: Lenders optimistic about 2026 originations growth",
+        "url": "https://www.housingwire.com/articles/us-housing-market-2026-outlook/",
+        "what": "Despite high rates and prices, lenders are optimistic about the U.S",
+        "numbers": "2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/us-housing-market-2026-outlook/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "RE/MAX accelerates real estate innovation with AI and technology",
         "url": "https://www.housingwire.com/articles/re-max-accelerates-real-estate-innovation-with-ai-and-technology/",
         "what": "RE/MAX is accelerating the integration of AI and cutting-edge technology to transform how agents engage with clients, generate leads, and deliver results",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/re-max-accelerates-real-estate-innovation-with-ai-and-technology/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NAR’s Lawrence Yun predicts rising home sales, stable prices in 2026",
-        "url": "https://www.housingwire.com/articles/nars-lawrence-yun-predicts-rising-home-sales-stable-prices-in-2026/",
-        "what": "NAR economist Lawrence Yun is forecasting a 14% rise in existing home sales and 4% price growth in 2026, due to lower mortgage rates.",
-        "numbers": "14, 4, 2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nars-lawrence-yun-predicts-rising-home-sales-stable-prices-in-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -240,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Harrisonburg housing market trends test seller patience",
+        "url": "https://www.housingwire.com/articles/harrisonburg-housing-market/",
+        "what": "Harrisonburg housing market sees 73% inventory growth, 37% price cuts, and stable absorption at 20 homes weekly.",
+        "numbers": "73, 37, 20",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/harrisonburg-housing-market/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Illinois moves to boost housing by curbing parking mandates",
         "url": "https://www.housingwire.com/articles/illinois-bids-to-boost-housing-by-curbing-parking-mandates/",
@@ -322,15 +331,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/nar-strategic-plan-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Fraud, lawsuits, AI missteps: what NAR says will put Realtors in the crosshairs next",
-        "url": "https://www.housingwire.com/articles/real-estate-risk/",
-        "what": "Realtors urged to proactively manage risks including fraud and technology compliance, as E&O insurance claims rise.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-risk/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
