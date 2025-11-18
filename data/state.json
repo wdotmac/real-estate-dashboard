@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-18 18:45 UTC",
+  "as_of": "2025-11-18 19:26 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Homebuilder confidence remains low amid economic uncertainty",
+      "link": "https://www.housingwire.com/articles/homebuilder-confidence-remains-low-amid-economic-uncertainty/",
+      "published": "Tue, 18 Nov 2025"
+    },
+    {
       "title": "IMBs post ‘healthier’ profit gains in Q3 2025",
       "link": "https://www.housingwire.com/articles/mortgage-banks-profits-q3-2025/",
       "published": "Tue, 18 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Despite the headlines, Canadians are flocking to the U.S.",
       "link": "https://www.housingwire.com/articles/despite-the-headlines-canadians-are-flocking-to-the-u-s/",
-      "published": "Tue, 18 Nov 2025"
-    },
-    {
-      "title": "Transparency? Not today. NAR delegates reject referral-fee disclosure rule",
-      "link": "https://www.housingwire.com/articles/transparency-not-today-nar-delegates-reject-referral-fee-disclosure-rule/",
       "published": "Tue, 18 Nov 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Homebuilder confidence remains low amid economic uncertainty",
+        "url": "https://www.housingwire.com/articles/homebuilder-confidence-remains-low-amid-economic-uncertainty/",
+        "what": "Homebuilder confidence stayed low in November, with 41% reporting price cuts and major builders seeing year-over-year margin declines",
+        "numbers": "41",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-confidence-remains-low-amid-economic-uncertainty/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "Mortgage rates are calm as the Fed rate cut debate intensifies",
         "url": "https://www.housingwire.com/articles/mortgage-rates-steady-pending-sales/",
@@ -338,15 +347,6 @@
         "what": "REX filed a petition last week asking the Supreme Court to reconsider its denial to hear REX’s writ of certiorari.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/rex-supreme-court-petition/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Acting FEMA Chief David Richardson resigns",
-        "url": "https://www.housingwire.com/articles/acting-fema-chief-david-richardson-resigns/",
-        "what": "Richardson was appointed in May after then–acting Administrator Cameron Hamilton was fired by Homeland Security Secretary Kristi Noem.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/acting-fema-chief-david-richardson-resigns/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
