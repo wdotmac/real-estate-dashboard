@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-18 13:01 UTC",
+  "as_of": "2025-11-18 13:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The U.S. Housing Market Is Stuck, With Sales and Listings Barely Budging",
+      "link": "https://www.redfin.com/news/housing-market-plateauing-october-2025/",
+      "published": "Tue, 18 Nov 2025"
+    },
+    {
+      "title": "U.S. Home Prices Rose 0.3% in October",
+      "link": "https://www.redfin.com/news/home-price-index-october-2025/",
+      "published": "Tue, 18 Nov 2025"
+    },
+    {
       "title": "Redfin Economists’ Weekly Take: Lack of Fresh Economic Data May Prevent December Rate Cut",
       "link": "https://www.redfin.com/news/weekly-economics-update-november-17/",
       "published": "Mon, 17 Nov 2025"
@@ -158,20 +168,19 @@
       "title": "Pending Home Sales Slip As Would-Be Buyers Wait For Lower Rates and Economic Clarity",
       "link": "https://www.redfin.com/news/housing-market-update-pending-sales-decline-buyers-waiting-for-lower-rates/",
       "published": "Thu, 13 Nov 2025"
-    },
-    {
-      "title": "Redfin Economists’ Weekly Take: Fresh Government Data Could Bring Mortgage Rate Volatility",
-      "link": "https://www.redfin.com/news/weekly-economics-update-november-10/",
-      "published": "Mon, 10 Nov 2025"
-    },
-    {
-      "title": "Affordability Improves Slightly For Veteran Homebuyers, But Most Homes Are Still Out of Reach",
-      "link": "https://www.redfin.com/news/veteran-homebuying-affordability-2025/",
-      "published": "Mon, 10 Nov 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "The U.S. Housing Market Is Stuck, With Sales and Listings Barely Budging",
+        "url": "https://www.redfin.com/news/housing-market-plateauing-october-2025/",
+        "what": "Home sales and new listings were little changed from a month and a year earlier in October, and prices have also shown signs of flattening",
+        "numbers": "1.5",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-plateauing-october-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Redfin Economists’ Weekly Take: Lack of Fresh Economic Data May Prevent December Rate Cut",
         "url": "https://www.redfin.com/news/weekly-economics-update-november-17/",
@@ -192,6 +201,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "U.S. Home Prices Rose 0.3% in October",
+        "url": "https://www.redfin.com/news/home-price-index-october-2025/",
+        "what": "U.S",
+        "numbers": "0.3, 2.9, 3.1, 2012., 14, 50",
+        "justified": "redfin.com — https://www.redfin.com/news/home-price-index-october-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "How a 50-Year Mortgage Would Differ From a 30-Year Mortgage—and What It Would Mean for Homebuyers",
         "url": "https://www.redfin.com/news/50-year-mortgage-explained/",
