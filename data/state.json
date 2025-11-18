@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-11-18 19:26 UTC",
+  "as_of": "2025-11-18 22:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.14,
-      "delta_bp_1d": 2.999999999999936
+      "yield_pct": 4.13,
+      "delta_bp_1d": -0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.24,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Homebuilder confidence remains low amid economic uncertainty",
-      "link": "https://www.housingwire.com/articles/homebuilder-confidence-remains-low-amid-economic-uncertainty/",
+      "title": "Beazer Homes shifts to move-up buyers, bets on energy efficiency",
+      "link": "https://www.housingwire.com/articles/beazer-homes-shifts-to-move-up-buyers-bets-on-energy-efficiency/",
       "published": "Tue, 18 Nov 2025"
     },
     {
-      "title": "IMBs post ‘healthier’ profit gains in Q3 2025",
-      "link": "https://www.housingwire.com/articles/mortgage-banks-profits-q3-2025/",
+      "title": "PHH Mortgage will halt reverse originations, sell MSRs to Finance of America",
+      "link": "https://www.housingwire.com/articles/phh-foa-msr-deal/",
       "published": "Tue, 18 Nov 2025"
     },
     {
-      "title": "Mortgage rates are calm as the Fed rate cut debate intensifies",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-steady-pending-sales/",
+      "title": "When land strategy meets AI: homebuilders gain a new edge",
+      "link": "https://www.housingwire.com/articles/when-land-strategy-meets-ai-homebuilders-gain-a-new-edge/",
       "published": "Tue, 18 Nov 2025"
     },
     {
-      "title": "Charlottesville settles lawsuit on missing middle housing code",
-      "link": "https://www.housingwire.com/articles/charlottesville-settles-lawsuit-on-missing-middle-housing-code/",
+      "title": "Bright MLS to integrate ICE’s Paragon Connect platform",
+      "link": "https://www.housingwire.com/articles/bright-mls-to-integrate-ices-paragon-connect-platform/",
       "published": "Tue, 18 Nov 2025"
     },
     {
-      "title": "Rocket Pro launches DSCR product in response to ‘market shift’",
-      "link": "https://www.housingwire.com/articles/rocket-pro-dscr-product/",
+      "title": "Foreclosure activity up nearly 20% in October",
+      "link": "https://www.housingwire.com/articles/foreclosure-activity-up-nearly-20-in-october/",
       "published": "Tue, 18 Nov 2025"
     },
     {
-      "title": "Despite the headlines, Canadians are flocking to the U.S.",
-      "link": "https://www.housingwire.com/articles/despite-the-headlines-canadians-are-flocking-to-the-u-s/",
+      "title": "Is NAR’s move to allow non-Realtors MLS access a nothing burger?",
+      "link": "https://www.housingwire.com/articles/local-mls-autonomy/",
       "published": "Tue, 18 Nov 2025"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Senate Democrats demand GAO investigation into Pulte",
+        "url": "https://www.housingwire.com/articles/gao-fhfa-pulte-investigation/",
+        "what": "A group of Senate Democrats has asked the Government Accountability Office (GAO) to investigate Federal Housing Finance Agency (FHFA) Director Bill Pulte and other employees over c",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gao-fhfa-pulte-investigation/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Homebuilder confidence remains low amid economic uncertainty",
         "url": "https://www.housingwire.com/articles/homebuilder-confidence-remains-low-amid-economic-uncertainty/",
         "what": "Homebuilder confidence stayed low in November, with 41% reporting price cuts and major builders seeing year-over-year margin declines",
@@ -210,24 +219,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-confidence-remains-low-amid-economic-uncertainty/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Mortgage rates are calm as the Fed rate cut debate intensifies",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-steady-pending-sales/",
-        "what": "Mortgage rates average 6.38% as pending home sales increase 15% year over year, with markets watching for another Fed rate cut.",
-        "numbers": "6.38, 15",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-steady-pending-sales/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Despite the headlines, Canadians are flocking to the U.S.",
-        "url": "https://www.housingwire.com/articles/despite-the-headlines-canadians-are-flocking-to-the-u-s/",
-        "what": "Canadians are investing in U.S",
-        "numbers": "2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/despite-the-headlines-canadians-are-flocking-to-the-u-s/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "The U.S. Housing Market Is Stuck, With Sales and Listings Barely Budging",
@@ -250,22 +241,40 @@
     ],
     "housing": [
       {
-        "title": "IMBs post ‘healthier’ profit gains in Q3 2025",
-        "url": "https://www.housingwire.com/articles/mortgage-banks-profits-q3-2025/",
-        "what": "Independent mortgage banks report increased profits in Q3 2025 as production revenue surpasses rising costs.",
-        "numbers": "3, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-banks-profits-q3-2025/",
+        "title": "PHH Mortgage will halt reverse originations, sell MSRs to Finance of America",
+        "url": "https://www.housingwire.com/articles/phh-foa-msr-deal/",
+        "what": "Onity Group will sell $9.6 billion in reverse mortgage servicing rights to Finance of America and exit the reverse origination business.",
+        "numbers": "$9.6 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/phh-foa-msr-deal/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Charlottesville settles lawsuit on missing middle housing code",
-        "url": "https://www.housingwire.com/articles/charlottesville-settles-lawsuit-on-missing-middle-housing-code/",
-        "what": "Charlottesville settles lawsuit over zoning code, enabling missing middle housing with new density and affordable housing requirements.",
+        "title": "When land strategy meets AI: homebuilders gain a new edge",
+        "url": "https://www.housingwire.com/articles/when-land-strategy-meets-ai-homebuilders-gain-a-new-edge/",
+        "what": "Acres’ AI-enhanced land intelligence synthesizes parcel-level data to help builders act with confidence in a wait-and-see market.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/charlottesville-settles-lawsuit-on-missing-middle-housing-code/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/when-land-strategy-meets-ai-homebuilders-gain-a-new-edge/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Bright MLS to integrate ICE’s Paragon Connect platform",
+        "url": "https://www.housingwire.com/articles/bright-mls-to-integrate-ices-paragon-connect-platform/",
+        "what": "Agents can manage listings and create comparative market analyses across desktop browsers and mobile devices.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bright-mls-to-integrate-ices-paragon-connect-platform/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Foreclosure activity up nearly 20% in October",
+        "url": "https://www.housingwire.com/articles/foreclosure-activity-up-nearly-20-in-october/",
+        "what": "Among metros with populations of at least 1 million, Tampa, Florida, posted the highest foreclosure rate at one in every 1,373 housing units.",
+        "numbers": "1 million, 1,373",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/foreclosure-activity-up-nearly-20-in-october/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "October’s Most Expensive Home Sales Include Adam Levine’s Former Montecito Compound",
@@ -306,47 +315,38 @@
     ],
     "notables": [
       {
-        "title": "Rocket Pro launches DSCR product in response to ‘market shift’",
-        "url": "https://www.housingwire.com/articles/rocket-pro-dscr-product/",
-        "what": "Rocket Pro introduced a DSCR loan product that bases eligibility on the property’s actual or projected income rather than personal income.",
+        "title": "Beazer Homes shifts to move-up buyers, bets on energy efficiency",
+        "url": "https://www.housingwire.com/articles/beazer-homes-shifts-to-move-up-buyers-bets-on-energy-efficiency/",
+        "what": "Facing lower margins, Beazer Homes is betting on move-up buyers, more favorable pricing with contractors, and zero-energy-ready homes to improve profitability over the next year.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-pro-dscr-product/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/beazer-homes-shifts-to-move-up-buyers-bets-on-energy-efficiency/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Transparency? Not today. NAR delegates reject referral-fee disclosure rule",
-        "url": "https://www.housingwire.com/articles/transparency-not-today-nar-delegates-reject-referral-fee-disclosure-rule/",
-        "what": "NAR’s Delegate Body rejected a code of ethics amendment requiring Realtors to disclose and get consent for referral fees.",
+        "title": "Is NAR’s move to allow non-Realtors MLS access a nothing burger?",
+        "url": "https://www.housingwire.com/articles/local-mls-autonomy/",
+        "what": "MLS executives appreciate NAR’s push for more local discretion, but don’t see how Handbook changes will have much of an impact.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/transparency-not-today-nar-delegates-reject-referral-fee-disclosure-rule/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/local-mls-autonomy/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Lisa Cook’s defense challenges fraud claim, denies any intent to defraud",
-        "url": "https://www.housingwire.com/articles/lisa-cook-mortgage-fraud-defense/",
-        "what": "Attorney said the criminal referrals were prepared with “no or minimal research into the actual facts.\"",
+        "title": "Jason Cao joins Tidalwave as COO",
+        "url": "https://www.housingwire.com/articles/tidalwave-jason-cao-coo/",
+        "what": "Cao, a former CertiK executive, will oversee operations and scaling efforts, aiming to grow Tidalwave into a unicorn.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lisa-cook-mortgage-fraud-defense/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tidalwave-jason-cao-coo/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "RealTrends Verified ranked Elsafy Team joins Keller Williams in Wisconsin",
-        "url": "https://www.housingwire.com/articles/realtrends-verified-elsafy-team-joins-keller-williams-in-wisconsin/",
-        "what": "So far in 2025, the team has closed 126 units totaling $80 million in sales volume",
-        "numbers": "2025,, 126, $80 million, 2024,, 132, $78 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realtrends-verified-elsafy-team-joins-keller-williams-in-wisconsin/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "REX wants the Supreme Court to reconsider hearing its case",
-        "url": "https://www.housingwire.com/articles/rex-supreme-court-petition/",
-        "what": "REX filed a petition last week asking the Supreme Court to reconsider its denial to hear REX’s writ of certiorari.",
+        "title": "Ackman calls GSE stock sale ‘not feasible,’ pitches alternative plan",
+        "url": "https://www.housingwire.com/articles/ackman-fannie-freddie-three-step-plan/",
+        "what": "Bill Ackman, the billionaire founder of Pershing Square Capital Management, proposed on Tuesday a three-step plan for Fannie Mae and Freddie Mac that could still be completed this",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rex-supreme-court-petition/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ackman-fannie-freddie-three-step-plan/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
