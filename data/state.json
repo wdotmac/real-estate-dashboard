@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-18 13:44 UTC",
+  "as_of": "2025-11-18 14:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "October’s Most Expensive Home Sales Include Adam Levine’s Former Montecito Compound",
+      "link": "https://www.redfin.com/news/most-expensive-home-sales-october-2025/",
+      "published": "Tue, 18 Nov 2025"
+    },
+    {
       "title": "The U.S. Housing Market Is Stuck, With Sales and Listings Barely Budging",
       "link": "https://www.redfin.com/news/housing-market-plateauing-october-2025/",
       "published": "Tue, 18 Nov 2025"
@@ -163,11 +168,6 @@
       "title": "Redfin Debuts Conversational Search to Reinvent How You Find Homes",
       "link": "https://www.redfin.com/news/redfin-debuts-conversational-search/",
       "published": "Thu, 13 Nov 2025"
-    },
-    {
-      "title": "Pending Home Sales Slip As Would-Be Buyers Wait For Lower Rates and Economic Clarity",
-      "link": "https://www.redfin.com/news/housing-market-update-pending-sales-decline-buyers-waiting-for-lower-rates/",
-      "published": "Thu, 13 Nov 2025"
     }
   ],
   "feed_101020": {
@@ -189,18 +189,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/weekly-economics-update-november-17/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Pending Home Sales Slip As Would-Be Buyers Wait For Lower Rates and Economic Clarity",
-        "url": "https://www.redfin.com/news/housing-market-update-pending-sales-decline-buyers-waiting-for-lower-rates/",
-        "what": "The homes that do sell are taking a long time to find buyers, who are wary of high housing costs and economic instability",
-        "numbers": "0.3, 9,",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-decline-buyers-waiting-for-lower-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "October’s Most Expensive Home Sales Include Adam Levine’s Former Montecito Compound",
+        "url": "https://www.redfin.com/news/most-expensive-home-sales-october-2025/",
+        "what": "California and Florida dominated October’s ultra-luxury housing market, with oceanfront estates and celebrity homes going for more than $30 million",
+        "numbers": "$30 million, $59 million, 5",
+        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-october-2025/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "U.S. Home Prices Rose 0.3% in October",
         "url": "https://www.redfin.com/news/home-price-index-october-2025/",
