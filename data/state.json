@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-19 18:44 UTC",
+  "as_of": "2025-11-19 19:27 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "CrossCountry Mortgage issues $600M in debt for MSR repayments",
+      "link": "https://www.housingwire.com/articles/crosscountry-mortgage-debt-issuance-msr/",
+      "published": "Wed, 19 Nov 2025"
+    },
+    {
       "title": "JPMorgan Chase pledges $40M to address affordable housing shortage",
       "link": "https://www.housingwire.com/articles/jpmorgan-chase-housing-pledge/",
       "published": "Wed, 19 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Trump nominates OMB’s Stuart Levenbach to lead CFPB",
       "link": "https://www.housingwire.com/articles/cfpb-director-nomination-levenbach/",
-      "published": "Wed, 19 Nov 2025"
-    },
-    {
-      "title": "Mortgage applications fall 5.2% after rates rise again",
-      "link": "https://www.housingwire.com/articles/mortgage-applications-decline-november-2025/",
       "published": "Wed, 19 Nov 2025"
     },
     {
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "CrossCountry Mortgage issues $600M in debt for MSR repayments",
+        "url": "https://www.housingwire.com/articles/crosscountry-mortgage-debt-issuance-msr/",
+        "what": "CrossCountry Mortgage (CCM) issued $600 million in debt, primarily to repay an outstanding mortgage servicing rights (MSR) line of credit.",
+        "numbers": "$600 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/crosscountry-mortgage-debt-issuance-msr/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "JPMorgan Chase pledges $40M to address affordable housing shortage",
         "url": "https://www.housingwire.com/articles/jpmorgan-chase-housing-pledge/",
         "what": "JPMorgan Chase pledged $40 million to address the housing shortage, focusing on innovative solutions and community-driven strategies.",
@@ -275,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/how-long-term-structural-shifts-are-reinforcing-build-to-rents-tailwinds/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Embracing innovation to thrive in shifting mortgage market",
-        "url": "https://www.housingwire.com/articles/embracing-innovation-to-thrive-in-shifting-mortgage-market/",
-        "what": "In today's market conditions, lenders who identify strategic opportunities and innovate their operations now stand to gain a competitive advantage",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/embracing-innovation-to-thrive-in-shifting-mortgage-market/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "October’s Most Expensive Home Sales Include Adam Levine’s Former Montecito Compound",
