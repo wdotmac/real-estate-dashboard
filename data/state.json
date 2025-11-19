@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-19 08:42 UTC",
+  "as_of": "2025-11-19 09:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "How long-term structural shifts are reinforcing build-to-rent’s tailwinds",
+      "link": "https://www.housingwire.com/articles/how-long-term-structural-shifts-are-reinforcing-build-to-rents-tailwinds/",
+      "published": "Wed, 19 Nov 2025"
+    },
+    {
+      "title": "Embracing innovation to thrive in shifting mortgage market",
+      "link": "https://www.housingwire.com/articles/embracing-innovation-to-thrive-in-shifting-mortgage-market/",
+      "published": "Wed, 19 Nov 2025"
+    },
+    {
       "title": "A rising threat to homeownership: How heirs’ property undermines affordable housing",
       "link": "https://www.housingwire.com/articles/a-rising-threat-to-homeownership-how-heirs-property-undermines-affordable-housing/",
       "published": "Wed, 19 Nov 2025"
@@ -157,16 +167,6 @@
     {
       "title": "PHH Mortgage will halt reverse originations, sell MSRs to Finance of America",
       "link": "https://www.housingwire.com/articles/phh-foa-msr-deal/",
-      "published": "Tue, 18 Nov 2025"
-    },
-    {
-      "title": "When land strategy meets AI: homebuilders gain a new edge",
-      "link": "https://www.housingwire.com/articles/when-land-strategy-meets-ai-homebuilders-gain-a-new-edge/",
-      "published": "Tue, 18 Nov 2025"
-    },
-    {
-      "title": "Bright MLS to integrate ICE’s Paragon Connect platform",
-      "link": "https://www.housingwire.com/articles/bright-mls-to-integrate-ices-paragon-connect-platform/",
       "published": "Tue, 18 Nov 2025"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Senate Democrats demand GAO investigation into Pulte",
-        "url": "https://www.housingwire.com/articles/gao-fhfa-pulte-investigation/",
-        "what": "A group of Senate Democrats has asked the Government Accountability Office (GAO) to investigate Federal Housing Finance Agency (FHFA) Director Bill Pulte and other employees over c",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/gao-fhfa-pulte-investigation/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "The U.S. Housing Market Is Stuck, With Sales and Listings Barely Budging",
         "url": "https://www.redfin.com/news/housing-market-plateauing-october-2025/",
         "what": "Home sales and new listings were little changed from a month and a year earlier in October, and prices have also shown signs of flattening",
@@ -231,6 +222,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "How long-term structural shifts are reinforcing build-to-rent’s tailwinds",
+        "url": "https://www.housingwire.com/articles/how-long-term-structural-shifts-are-reinforcing-build-to-rents-tailwinds/",
+        "what": "Affordability challenges, evolving demographics, and shifting internal migration are profoundly changing the U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/how-long-term-structural-shifts-are-reinforcing-build-to-rents-tailwinds/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Embracing innovation to thrive in shifting mortgage market",
+        "url": "https://www.housingwire.com/articles/embracing-innovation-to-thrive-in-shifting-mortgage-market/",
+        "what": "In today's market conditions, lenders who identify strategic opportunities and innovate their operations now stand to gain a competitive advantage",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/embracing-innovation-to-thrive-in-shifting-mortgage-market/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "A rising threat to homeownership: How heirs’ property undermines affordable housing",
         "url": "https://www.housingwire.com/articles/a-rising-threat-to-homeownership-how-heirs-property-undermines-affordable-housing/",
@@ -302,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/50-year-mortgage-explained/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Redfin Debuts Conversational Search to Reinvent How You Find Homes",
-        "url": "https://www.redfin.com/news/redfin-debuts-conversational-search/",
-        "what": "The AI feature allows you to have a back-and-forth dialogue with Redfin while you search, helping you discover homes that best suit your preferences For years, online real estate search has been limited by filters and map boundaries",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/redfin-debuts-conversational-search/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
@@ -338,15 +338,6 @@
         "what": "MLS executives appreciate NAR’s push for more local discretion, but don’t see how Handbook changes will have much of an impact.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/local-mls-autonomy/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Jason Cao joins Tidalwave as COO",
-        "url": "https://www.housingwire.com/articles/tidalwave-jason-cao-coo/",
-        "what": "Cao, a former CertiK executive, will oversee operations and scaling efforts, aiming to grow Tidalwave into a unicorn.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tidalwave-jason-cao-coo/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
