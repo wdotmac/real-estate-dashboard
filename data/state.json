@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-19 21:26 UTC",
+  "as_of": "2025-11-19 22:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Senate banking committee advances nominees to lead FHA, Ginnie Mae",
-      "link": "https://www.housingwire.com/articles/fha-ginnie-mae-nominees-senate/",
+      "title": "Wealthfront announces entrance into the mortgage business",
+      "link": "https://www.housingwire.com/articles/wealthfront-mortgage-launch/",
       "published": "Wed, 19 Nov 2025"
     },
     {
-      "title": "Half of Michigan City homes drop asking prices",
-      "link": "https://www.housingwire.com/articles/michigan-city-home-prices/",
+      "title": "Cape Coral housing market shifts toward buyer conditions as homes sit 119 days",
+      "link": "https://www.housingwire.com/articles/cape-coral-fort-myers-housing-market/",
       "published": "Wed, 19 Nov 2025"
     },
     {
-      "title": "Housing affordability, rising costs top concerns for real estate brokerage firms",
-      "link": "https://www.housingwire.com/articles/real-estate-brokeage-firm-challenges-2025/",
+      "title": "Can this immersive technology replace model homes?",
+      "link": "https://www.housingwire.com/articles/can-this-immersive-technology-replace-model-homes/",
       "published": "Wed, 19 Nov 2025"
     },
     {
-      "title": "Study: alley-loaded development can save money vs. front-loaded homes",
-      "link": "https://www.housingwire.com/articles/study-alley-loaded-development-costs-less/",
+      "title": "Bill Ackman’s GSE proposal faces hurdles on capital, Treasury forgiveness",
+      "link": "https://www.housingwire.com/articles/ackman-fannie-freddie-plan-skepticism/",
       "published": "Wed, 19 Nov 2025"
     },
     {
-      "title": "Compass and Zillow face off in court as new listing rule sparks industry debate",
-      "link": "https://www.housingwire.com/articles/compass-zillow-antitrust-hearing/",
+      "title": "Back to homebuilding’s basics of doing more with less … faster",
+      "link": "https://www.housingwire.com/articles/back-to-homebuildings-basics-of-doing-more-with-less-faster/",
       "published": "Wed, 19 Nov 2025"
     },
     {
-      "title": "CrossCountry Mortgage issues $600M in debt for MSR repayments",
-      "link": "https://www.housingwire.com/articles/crosscountry-mortgage-debt-issuance-msr/",
+      "title": "Unlock closes company record $303M HEA securitization",
+      "link": "https://www.housingwire.com/articles/unlock-technologies-securitization/",
       "published": "Wed, 19 Nov 2025"
     },
     {
@@ -203,11 +203,11 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Study: alley-loaded development can save money vs. front-loaded homes",
-        "url": "https://www.housingwire.com/articles/study-alley-loaded-development-costs-less/",
-        "what": "Alleys became a signature element of urban development as industrialism took hold, a time before the “missing middle” of housing affordability went missing",
+        "title": "Bill Ackman’s GSE proposal faces hurdles on capital, Treasury forgiveness",
+        "url": "https://www.housingwire.com/articles/ackman-fannie-freddie-plan-skepticism/",
+        "what": "Uncertainties around capital requirements would limit share value, according to Keefe, Bruyette and Woods (KBW) analysts.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/study-alley-loaded-development-costs-less/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ackman-fannie-freddie-plan-skepticism/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -241,6 +241,33 @@
     ],
     "housing": [
       {
+        "title": "Wealthfront announces entrance into the mortgage business",
+        "url": "https://www.housingwire.com/articles/wealthfront-mortgage-launch/",
+        "what": "Wealthfront announced early access to Wealthfront Home Lending and expects a full rollout to happen in early 2026.",
+        "numbers": "2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/wealthfront-mortgage-launch/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Cape Coral housing market shifts toward buyer conditions as homes sit 119 days",
+        "url": "https://www.housingwire.com/articles/cape-coral-fort-myers-housing-market/",
+        "what": "The Cape Coral–Fort Myers market sees 119 median days on market and 37% of homes reducing prices, signaling buyer-friendly conditions.",
+        "numbers": "119, 37",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cape-coral-fort-myers-housing-market/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Back to homebuilding’s basics of doing more with less … faster",
+        "url": "https://www.housingwire.com/articles/back-to-homebuildings-basics-of-doing-more-with-less-faster/",
+        "what": "TraceWalk 360° by TraceAir reduces rework, speeds inspections, and standardizes trade handoffs—helping builders protect margins and build faster.",
+        "numbers": "360",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/back-to-homebuildings-basics-of-doing-more-with-less-faster/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Half of Michigan City homes drop asking prices",
         "url": "https://www.housingwire.com/articles/michigan-city-home-prices/",
         "what": "Over half of Michigan City homes cut prices as inventory lingers 77 days and supply remains at 2.7 months.",
@@ -257,42 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-brokeage-firm-challenges-2025/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Compass and Zillow face off in court as new listing rule sparks industry debate",
-        "url": "https://www.housingwire.com/articles/compass-zillow-antitrust-hearing/",
-        "what": "Compass is looking to convince the court that Zillow’s listing policy is causing it irreparable harm, as it looks to pause enforcement.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-zillow-antitrust-hearing/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "CrossCountry Mortgage issues $600M in debt for MSR repayments",
-        "url": "https://www.housingwire.com/articles/crosscountry-mortgage-debt-issuance-msr/",
-        "what": "CrossCountry Mortgage (CCM) issued $600 million in debt, primarily to repay an outstanding mortgage servicing rights (MSR) line of credit.",
-        "numbers": "$600 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/crosscountry-mortgage-debt-issuance-msr/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "JPMorgan Chase pledges $40M to address affordable housing shortage",
-        "url": "https://www.housingwire.com/articles/jpmorgan-chase-housing-pledge/",
-        "what": "JPMorgan Chase pledged $40 million to address the housing shortage, focusing on innovative solutions and community-driven strategies.",
-        "numbers": "$40 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/jpmorgan-chase-housing-pledge/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Where manufactured homes are filling the housing affordability gap",
-        "url": "https://www.housingwire.com/articles/where-manufactured-homes-are-filling-the-housing-affordability-gap/",
-        "what": "States with small manufactured housing footprints",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/where-manufactured-homes-are-filling-the-housing-affordability-gap/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "October’s Most Expensive Home Sales Include Adam Levine’s Former Montecito Compound",
@@ -324,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "Can this immersive technology replace model homes?",
+        "url": "https://www.housingwire.com/articles/can-this-immersive-technology-replace-model-homes/",
+        "what": "AR Homes launched its first AR Theatre in Port St",
+        "numbers": "360",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/can-this-immersive-technology-replace-model-homes/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Unlock closes company record $303M HEA securitization",
+        "url": "https://www.housingwire.com/articles/unlock-technologies-securitization/",
+        "what": "The $303 million transaction marked Unlock Technologies’ first HEA securitization with a senior class rated A (low).",
+        "numbers": "$303 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/unlock-technologies-securitization/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Senate banking committee advances nominees to lead FHA, Ginnie Mae",
         "url": "https://www.housingwire.com/articles/fha-ginnie-mae-nominees-senate/",
         "what": "Senate committee advances Frank Cassidy and Joseph Gormley as FHA and Ginnie Mae leaders, with industry groups urging prompt confirmation.",
@@ -333,22 +342,13 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "When AI says ‘Turn Yourself In’: A real estate broker’s cautionary tale",
-        "url": "https://www.housingwire.com/articles/when-ai-says-turn-yourself-in-a-real-estate-brokers-cautionary-tale/",
-        "what": "Real estate compliance expert warns that AI guidance on trust account shortages may not align with DRE enforcement.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/when-ai-says-turn-yourself-in-a-real-estate-brokers-cautionary-tale/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Kevin Brown’s plan to get Realtors back to business",
-        "url": "https://www.housingwire.com/articles/kevin-brown-nar-leadership/",
-        "what": "With nearly five decades of industry experience, Kevin Brown is the latest Realtor tasked with leading the 100-year-old trade group.",
-        "numbers": "100",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kevin-brown-nar-leadership/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "Grand Rapids sellers reduce prices on 45% of homes, market moves faster than state",
+        "url": "https://www.housingwire.com/articles/grand-rapids-price-cuts/",
+        "what": "Nearly half of Grand Rapids sellers cut prices as homes sell 21 days faster than Michigan",
+        "numbers": "21",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/grand-rapids-price-cuts/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ]
   }
