@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-20 06:45 UTC",
+  "as_of": "2025-11-20 07:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "If we built the mortgage market from scratch, what would it look like?",
+      "link": "https://www.housingwire.com/articles/if-we-built-the-mortgage-market-from-scratch-what-would-it-look-like/",
+      "published": "Thu, 20 Nov 2025"
+    },
+    {
       "title": "Zillow faces new claims in amended RESPA suit",
       "link": "https://www.housingwire.com/articles/zillow-respa-lawsuit-amended/",
       "published": "Wed, 19 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Bill Ackman’s GSE proposal faces hurdles on capital, Treasury forgiveness",
       "link": "https://www.housingwire.com/articles/ackman-fannie-freddie-plan-skepticism/",
-      "published": "Wed, 19 Nov 2025"
-    },
-    {
-      "title": "Back to homebuilding’s basics of doing more with less … faster",
-      "link": "https://www.housingwire.com/articles/back-to-homebuildings-basics-of-doing-more-with-less-faster/",
       "published": "Wed, 19 Nov 2025"
     },
     {
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "If we built the mortgage market from scratch, what would it look like?",
+        "url": "https://www.housingwire.com/articles/if-we-built-the-mortgage-market-from-scratch-what-would-it-look-like/",
+        "what": "Every mortgage market is patchwork",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/if-we-built-the-mortgage-market-from-scratch-what-would-it-look-like/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Zillow faces new claims in amended RESPA suit",
         "url": "https://www.housingwire.com/articles/zillow-respa-lawsuit-amended/",
         "what": "Amended RESPA lawsuit adds testimony from 12 insiders alleging Zillow steered buyers and inflated home purchase costs through agent programs.",
@@ -275,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/back-to-homebuildings-basics-of-doing-more-with-less-faster/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Half of Michigan City homes drop asking prices",
-        "url": "https://www.housingwire.com/articles/michigan-city-home-prices/",
-        "what": "Over half of Michigan City homes cut prices as inventory lingers 77 days and supply remains at 2.7 months.",
-        "numbers": "77, 2.7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/michigan-city-home-prices/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "October’s Most Expensive Home Sales Include Adam Levine’s Former Montecito Compound",
