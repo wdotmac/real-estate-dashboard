@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-20 15:34 UTC",
+  "as_of": "2025-11-20 16:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Homebuyer affordability improves for fifth straight month",
+      "link": "https://www.housingwire.com/articles/homebuyer-affordability-improves/",
+      "published": "Thu, 20 Nov 2025"
+    },
+    {
+      "title": "FICO and Plaid partner on updated UltraFICO Score",
+      "link": "https://www.housingwire.com/articles/fico-plaid-ultrafico-score/",
+      "published": "Thu, 20 Nov 2025"
+    },
+    {
+      "title": "DocMagic adds in-person electronic notarization to Total eClose",
+      "link": "https://www.housingwire.com/articles/docmagic-adds-in-person-electronic-notarization-to-total-eclose/",
+      "published": "Thu, 20 Nov 2025"
+    },
+    {
       "title": "Homebuyer regret plummets as market conditions offer more ‘breathing room’",
       "link": "https://www.housingwire.com/articles/homebuyer-regret-2025/",
       "published": "Thu, 20 Nov 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Zillow faces new claims in amended RESPA suit",
       "link": "https://www.housingwire.com/articles/zillow-respa-lawsuit-amended/",
-      "published": "Wed, 19 Nov 2025"
-    },
-    {
-      "title": "Wealthfront announces entrance into the mortgage business",
-      "link": "https://www.housingwire.com/articles/wealthfront-mortgage-launch/",
-      "published": "Wed, 19 Nov 2025"
-    },
-    {
-      "title": "Cape Coral housing market shifts toward buyer conditions as homes sit 119 days",
-      "link": "https://www.housingwire.com/articles/cape-coral-fort-myers-housing-market/",
-      "published": "Wed, 19 Nov 2025"
-    },
-    {
-      "title": "Can this immersive technology replace model homes?",
-      "link": "https://www.housingwire.com/articles/can-this-immersive-technology-replace-model-homes/",
       "published": "Wed, 19 Nov 2025"
     },
     {
@@ -202,6 +202,24 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Homebuyer affordability improves for fifth straight month",
+        "url": "https://www.housingwire.com/articles/homebuyer-affordability-improves/",
+        "what": "Homebuyer affordability improved for the fifth month as mortgage rates fell and earnings rose, according to MBA's latest PAPI report.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuyer-affordability-improves/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "FICO and Plaid partner on updated UltraFICO Score",
+        "url": "https://www.housingwire.com/articles/fico-plaid-ultrafico-score/",
+        "what": "FICO and Plaid have partnered to launch an updated UltraFICO Score, which uses real-time cash flow data to enhance credit assessments.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fico-plaid-ultrafico-score/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Mortgage Rates to Hold Firm as Delayed Jobs Report Shows Unemployment at 4-Year High",
         "url": "https://www.redfin.com/news/delayed-september-jobs-report-analysis/",
@@ -295,15 +313,6 @@
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
-        "title": "Back to homebuilding’s basics of doing more with less … faster",
-        "url": "https://www.housingwire.com/articles/back-to-homebuildings-basics-of-doing-more-with-less-faster/",
-        "what": "TraceWalk 360° by TraceAir reduces rework, speeds inspections, and standardizes trade handoffs—helping builders protect margins and build faster.",
-        "numbers": "360",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/back-to-homebuildings-basics-of-doing-more-with-less-faster/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "October’s Most Expensive Home Sales Include Adam Levine’s Former Montecito Compound",
         "url": "https://www.redfin.com/news/most-expensive-home-sales-october-2025/",
         "what": "California and Florida dominated October’s ultra-luxury housing market, with oceanfront estates and celebrity homes going for more than $30 million",
@@ -314,6 +323,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "DocMagic adds in-person electronic notarization to Total eClose",
+        "url": "https://www.housingwire.com/articles/docmagic-adds-in-person-electronic-notarization-to-total-eclose/",
+        "what": "DocMagic’s in-person electronic notarization solution requires no specialized equipment and works on any connected device.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/docmagic-adds-in-person-electronic-notarization-to-total-eclose/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Homebuyer regret plummets as market conditions offer more ‘breathing room’",
         "url": "https://www.housingwire.com/articles/homebuyer-regret-2025/",
@@ -329,24 +347,6 @@
         "what": "AR Homes launched its first AR Theatre in Port St",
         "numbers": "360",
         "justified": "housingwire.com — https://www.housingwire.com/articles/can-this-immersive-technology-replace-model-homes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Unlock closes company record $303M HEA securitization",
-        "url": "https://www.housingwire.com/articles/unlock-technologies-securitization/",
-        "what": "The $303 million transaction marked Unlock Technologies’ first HEA securitization with a senior class rated A (low).",
-        "numbers": "$303 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/unlock-technologies-securitization/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Senate banking committee advances nominees to lead FHA, Ginnie Mae",
-        "url": "https://www.housingwire.com/articles/fha-ginnie-mae-nominees-senate/",
-        "what": "Senate committee advances Frank Cassidy and Joseph Gormley as FHA and Ginnie Mae leaders, with industry groups urging prompt confirmation.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-ginnie-mae-nominees-senate/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
