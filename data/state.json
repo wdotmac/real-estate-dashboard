@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-20 14:34 UTC",
+  "as_of": "2025-11-20 15:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Wed, 19 Nov 2025"
     },
     {
+      "title": "Mortgage Rates to Hold Firm as Delayed Jobs Report Shows Unemployment at 4-Year High",
+      "link": "https://www.redfin.com/news/delayed-september-jobs-report-analysis/",
+      "published": "Thu, 20 Nov 2025"
+    },
+    {
       "title": "Home Prices Post Biggest Gain in 7 Months Despite Slow Demand",
       "link": "https://www.redfin.com/news/housing-market-update-home-prices-grow-slow-demand/",
       "published": "Thu, 20 Nov 2025"
@@ -193,15 +198,19 @@
       "title": "The U.S. Housing Market Is Stuck, With Sales and Listings Barely Budging",
       "link": "https://www.redfin.com/news/housing-market-plateauing-october-2025/",
       "published": "Tue, 18 Nov 2025"
-    },
-    {
-      "title": "U.S. Home Prices Rose 0.3% in October",
-      "link": "https://www.redfin.com/news/home-price-index-october-2025/",
-      "published": "Tue, 18 Nov 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage Rates to Hold Firm as Delayed Jobs Report Shows Unemployment at 4-Year High",
+        "url": "https://www.redfin.com/news/delayed-september-jobs-report-analysis/",
+        "what": "Rates will stay mostly steady today after the delayed September jobs report showed both a rising unemployment rate, and strong but concentrated jobs growth in the private sector",
+        "numbers": "10, 16., 4",
+        "justified": "redfin.com — https://www.redfin.com/news/delayed-september-jobs-report-analysis/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Home Prices Post Biggest Gain in 7 Months Despite Slow Demand",
         "url": "https://www.redfin.com/news/housing-market-update-home-prices-grow-slow-demand/",
@@ -302,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-october-2025/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "U.S. Home Prices Rose 0.3% in October",
-        "url": "https://www.redfin.com/news/home-price-index-october-2025/",
-        "what": "U.S",
-        "numbers": "0.3, 2.9, 3.1, 2012., 14, 50",
-        "justified": "redfin.com — https://www.redfin.com/news/home-price-index-october-2025/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
