@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-20 19:27 UTC",
+  "as_of": "2025-11-20 20:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Cooling home prices, stable inventory as buyers gain leverage",
+      "link": "https://www.housingwire.com/articles/cooling-home-prices-stable-inventory-as-buyers-gain-leverage/",
+      "published": "Thu, 20 Nov 2025"
+    },
+    {
+      "title": "Existing home sales show 4 months of year-over-year growth",
+      "link": "https://www.housingwire.com/articles/existing-home-sales-show-4-months-of-year-over-year-growth/",
+      "published": "Thu, 20 Nov 2025"
+    },
+    {
+      "title": "DRB Homes launches for-sale housing at Charleston Navy Yard",
+      "link": "https://www.housingwire.com/articles/navy-yard-charleston-townhomes/",
+      "published": "Thu, 20 Nov 2025"
+    },
+    {
+      "title": "House bill seeks to streamline affordable housing development",
+      "link": "https://www.housingwire.com/articles/house-bill-affordable-housing/",
+      "published": "Thu, 20 Nov 2025"
+    },
+    {
       "title": "As AI stocks soar, retirement planning takes center stage",
       "link": "https://www.housingwire.com/articles/ai-stock-bubble-retirement-planning/",
       "published": "Thu, 20 Nov 2025"
@@ -147,26 +167,6 @@
     {
       "title": "Do Chicago homes in white neighborhoods see higher private listing rates?",
       "link": "https://www.housingwire.com/articles/chicago-private-listings-zillow/",
-      "published": "Thu, 20 Nov 2025"
-    },
-    {
-      "title": "Guaranteed Rate Affinity promotes Jaime Joyce to chief operations and strategy officer",
-      "link": "https://www.housingwire.com/articles/jaime-joyce-promotion/",
-      "published": "Thu, 20 Nov 2025"
-    },
-    {
-      "title": "September jobs beat estimates, but unemployment rises to 4.4%",
-      "link": "https://www.housingwire.com/articles/september-jobs-beat-estimates-but-unemployment-rises-to-4-4/",
-      "published": "Thu, 20 Nov 2025"
-    },
-    {
-      "title": "Existing home sales rise in October despite government shutdown",
-      "link": "https://www.housingwire.com/articles/existing-home-sales-rise-in-october-despite-government-shutdown/",
-      "published": "Thu, 20 Nov 2025"
-    },
-    {
-      "title": "Fairway to offer mortgage payment rewards through Made Card alliance",
-      "link": "https://www.housingwire.com/articles/fairway-mortgage-rewards-card-launch/",
       "published": "Thu, 20 Nov 2025"
     },
     {
@@ -230,24 +230,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Homebuyer affordability improves for fifth straight month",
-        "url": "https://www.housingwire.com/articles/homebuyer-affordability-improves/",
-        "what": "Homebuyer affordability improved for the fifth month as mortgage rates fell and earnings rose, according to MBA's latest PAPI report.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuyer-affordability-improves/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "FICO and Plaid partner on updated UltraFICO Score",
-        "url": "https://www.housingwire.com/articles/fico-plaid-ultrafico-score/",
-        "what": "FICO and Plaid have partnered to launch an updated UltraFICO Score, which uses real-time cash flow data to enhance credit assessments.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fico-plaid-ultrafico-score/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Mortgage Rates to Hold Firm as Delayed Jobs Report Shows Unemployment at 4-Year High",
         "url": "https://www.redfin.com/news/delayed-september-jobs-report-analysis/",
         "what": "Rates will stay mostly steady today after the delayed September jobs report showed both a rising unemployment rate, and strong but concentrated jobs growth in the private sector",
@@ -285,6 +267,42 @@
       }
     ],
     "housing": [
+      {
+        "title": "Cooling home prices, stable inventory as buyers gain leverage",
+        "url": "https://www.housingwire.com/articles/cooling-home-prices-stable-inventory-as-buyers-gain-leverage/",
+        "what": "About 42% of properties on the market have had a price reduction, while just 2% have seen price increases.",
+        "numbers": "42, 2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cooling-home-prices-stable-inventory-as-buyers-gain-leverage/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Existing home sales show 4 months of year-over-year growth",
+        "url": "https://www.housingwire.com/articles/existing-home-sales-show-4-months-of-year-over-year-growth/",
+        "what": "Existing home sales posted another positive year-over-year print, marking the 4th straight month of year-over-year growth.",
+        "numbers": "4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/existing-home-sales-show-4-months-of-year-over-year-growth/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "DRB Homes launches for-sale housing at Charleston Navy Yard",
+        "url": "https://www.housingwire.com/articles/navy-yard-charleston-townhomes/",
+        "what": "Navy Yard Charleston’s first for-sale homes are coming as DRB Homes plans 55 townhomes, advancing North Charleston’s redevelopment vision.",
+        "numbers": "55",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/navy-yard-charleston-townhomes/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "House bill seeks to streamline affordable housing development",
+        "url": "https://www.housingwire.com/articles/house-bill-affordable-housing/",
+        "what": "The HOME Reform Act of 2025 proposes exempting small housing projects from NEPA review, raising income eligibility to 100% of area median income, and increasing purchase price limits",
+        "numbers": "2025, 100",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/house-bill-affordable-housing/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Guaranteed Rate Affinity promotes Jaime Joyce to chief operations and strategy officer",
         "url": "https://www.housingwire.com/articles/jaime-joyce-promotion/",
@@ -329,24 +347,6 @@
         "what": "Experts say that concerned investors should instead focus on building a diversified portfolio that includes guaranteed income for retirement.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/ai-stock-bubble-retirement-planning/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "DocMagic adds in-person electronic notarization to Total eClose",
-        "url": "https://www.housingwire.com/articles/docmagic-adds-in-person-electronic-notarization-to-total-eclose/",
-        "what": "DocMagic’s in-person electronic notarization solution requires no specialized equipment and works on any connected device.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/docmagic-adds-in-person-electronic-notarization-to-total-eclose/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Homebuyer regret plummets as market conditions offer more ‘breathing room’",
-        "url": "https://www.housingwire.com/articles/homebuyer-regret-2025/",
-        "what": "The share of 2025 buyers who felt they overpaid has been nearly cut nearly in half, dropping to 8% compared to 15% two years ago.",
-        "numbers": "2025, 8, 15",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuyer-regret-2025/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
