@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-21 22:33 UTC",
+  "as_of": "2025-11-21 23:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The Goldilocks case for home sales in 2026",
+      "link": "https://www.housingwire.com/articles/the-goldilocks-case-for-home-sales-in-2026/",
+      "published": "Fri, 21 Nov 2025"
+    },
+    {
       "title": "Compass, Zillow debate irreparable harm at hearing",
       "link": "https://www.housingwire.com/articles/expert-testimony-compass-zillow/",
       "published": "Fri, 21 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Compass, Zillow: Who gets to set the rules of online real estate? A judge may soon decide",
       "link": "https://www.housingwire.com/articles/compass-zillow-listing-policy/",
-      "published": "Fri, 21 Nov 2025"
-    },
-    {
-      "title": "NYC landlords sue over rent law as vacant units climb",
-      "link": "https://www.housingwire.com/articles/new-york-rent-stabilization-lawsuit/",
       "published": "Fri, 21 Nov 2025"
     },
     {
@@ -240,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "The Goldilocks case for home sales in 2026",
+        "url": "https://www.housingwire.com/articles/the-goldilocks-case-for-home-sales-in-2026/",
+        "what": "The trends are consistent enough to inspire me to sketch a Goldilocks case that results in very significant home sales growth 2026.",
+        "numbers": "2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-goldilocks-case-for-home-sales-in-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Compass, Zillow debate irreparable harm at hearing",
         "url": "https://www.housingwire.com/articles/expert-testimony-compass-zillow/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/home-equity-help/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "PRMG names Kasia Stephenson as chief digital marketing officer",
-        "url": "https://www.housingwire.com/articles/prmg-kasia-stephenson-digital-marketing/",
-        "what": "PRMG appoints Kasia Stephenson as chief digital marketing officer to lead digital transformation and enhance marketing strategies.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/prmg-kasia-stephenson-digital-marketing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
