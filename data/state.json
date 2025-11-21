@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-11-21 20:34 UTC",
+  "as_of": "2025-11-21 21:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.13,
-      "delta_bp_1d": 0.9999999999999787
+      "yield_pct": 4.1,
+      "delta_bp_1d": -3.000000000000025
     },
     "mortgage_30y": {
       "rate_pct": 6.26,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Compass, Zillow: Who gets to set the rules of online real estate? A judge may soon decide",
+      "link": "https://www.housingwire.com/articles/compass-zillow-listing-policy/",
+      "published": "Fri, 21 Nov 2025"
+    },
+    {
+      "title": "NYC landlords sue over rent law as vacant units climb",
+      "link": "https://www.housingwire.com/articles/new-york-rent-stabilization-lawsuit/",
+      "published": "Fri, 21 Nov 2025"
+    },
+    {
       "title": "Greystar reaches $7M settlement in rent-setting lawsuit",
       "link": "https://www.housingwire.com/articles/greystar-reaches-7m-settlement-in-rent-setting-lawsuit/",
       "published": "Fri, 21 Nov 2025"
@@ -157,16 +167,6 @@
     {
       "title": "PRMG names Kasia Stephenson as chief digital marketing officer",
       "link": "https://www.housingwire.com/articles/prmg-kasia-stephenson-digital-marketing/",
-      "published": "Fri, 21 Nov 2025"
-    },
-    {
-      "title": "Six federal actions to address housing crisis advanced by bipartisan policy group",
-      "link": "https://www.housingwire.com/articles/federal-housing-supply/",
-      "published": "Fri, 21 Nov 2025"
-    },
-    {
-      "title": "Mortgage origination activity remains stuck in neutral",
-      "link": "https://www.housingwire.com/articles/mortgage-originations-q3-2025/",
       "published": "Fri, 21 Nov 2025"
     },
     {
@@ -241,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "Compass, Zillow: Who gets to set the rules of online real estate? A judge may soon decide",
+        "url": "https://www.housingwire.com/articles/compass-zillow-listing-policy/",
+        "what": "Compass and Zillow face off in New York court over listing access standards, with testimony on antitrust and market impact.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-zillow-listing-policy/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "NYC landlords sue over rent law as vacant units climb",
+        "url": "https://www.housingwire.com/articles/new-york-rent-stabilization-lawsuit/",
+        "what": "New York City Mayor-elect Zohran Mamdani won after campaigning on expanding rent stabilization to improve housing affordability",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-york-rent-stabilization-lawsuit/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Greystar reaches $7M settlement in rent-setting lawsuit",
         "url": "https://www.housingwire.com/articles/greystar-reaches-7m-settlement-in-rent-setting-lawsuit/",
         "what": "The settlement requires Greystar to stop using software that employs competitively sensitive information to align rents.",
@@ -284,24 +302,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/luxury-homes-market-october-2025/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "From the warming drawer to the freezer: Tariffs, the Supreme Court and housing",
-        "url": "https://www.housingwire.com/articles/from-the-warming-drawer-to-the-freezer-tariffs-the-supreme-court-and-housing/",
-        "what": "As someone who's spent decades in the mortgage trenches—and as one of the owners of a $1 billion independent mortgage banking company—I've seen a few sunrises and sunsets in this industry",
-        "numbers": "$1 billion, 2008",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/from-the-warming-drawer-to-the-freezer-tariffs-the-supreme-court-and-housing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Off-site housing: cure or political distraction? Our Denver correspondents weigh in",
-        "url": "https://www.housingwire.com/articles/off-site-solutions-market/",
-        "what": "Off-site housing faces cost and logistics challenges in Denver, with modular solutions limited by demand, regulation, and local redevelopment needs.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/off-site-solutions-market/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "The Housing Affordability Crisis Is Accelerating Fastest in Rural America",
