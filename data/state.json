@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-21 21:29 UTC",
+  "as_of": "2025-11-21 22:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Compass, Zillow debate irreparable harm at hearing",
+      "link": "https://www.housingwire.com/articles/expert-testimony-compass-zillow/",
+      "published": "Fri, 21 Nov 2025"
+    },
+    {
+      "title": "With Powell set to move on, who are the candidates for the next Fed chair?",
+      "link": "https://www.housingwire.com/articles/federal-reserve-chair-candidates/",
+      "published": "Fri, 21 Nov 2025"
+    },
+    {
+      "title": "Elsafy Team’s journey to $80M in sales and a new home at Keller Williams",
+      "link": "https://www.housingwire.com/articles/elsafy-teams-journey-to-80m-in-sales-and-a-new-home-at-keller-williams/",
+      "published": "Fri, 21 Nov 2025"
+    },
+    {
+      "title": "Mortgage credit report costs could jump 50% in 2026",
+      "link": "https://www.housingwire.com/articles/mortgage-credit-report-costs-2026/",
+      "published": "Fri, 21 Nov 2025"
+    },
+    {
       "title": "Compass, Zillow: Who gets to set the rules of online real estate? A judge may soon decide",
       "link": "https://www.housingwire.com/articles/compass-zillow-listing-policy/",
       "published": "Fri, 21 Nov 2025"
@@ -147,26 +167,6 @@
     {
       "title": "NYC landlords sue over rent law as vacant units climb",
       "link": "https://www.housingwire.com/articles/new-york-rent-stabilization-lawsuit/",
-      "published": "Fri, 21 Nov 2025"
-    },
-    {
-      "title": "Greystar reaches $7M settlement in rent-setting lawsuit",
-      "link": "https://www.housingwire.com/articles/greystar-reaches-7m-settlement-in-rent-setting-lawsuit/",
-      "published": "Fri, 21 Nov 2025"
-    },
-    {
-      "title": "Pittsburgh leads affordability, Austin inventory surges",
-      "link": "https://www.housingwire.com/articles/pittsburgh-leads-affordability-austin-inventory-surges/",
-      "published": "Fri, 21 Nov 2025"
-    },
-    {
-      "title": "Senior-held home equity can be a resource for the next generation",
-      "link": "https://www.housingwire.com/articles/home-equity-help/",
-      "published": "Fri, 21 Nov 2025"
-    },
-    {
-      "title": "PRMG names Kasia Stephenson as chief digital marketing officer",
-      "link": "https://www.housingwire.com/articles/prmg-kasia-stephenson-digital-marketing/",
       "published": "Fri, 21 Nov 2025"
     },
     {
@@ -203,11 +203,11 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Six federal actions to address housing crisis advanced by bipartisan policy group",
-        "url": "https://www.housingwire.com/articles/federal-housing-supply/",
-        "what": "The Terwilliger Center’s advisory committee sent six policy suggestions to the White House, focusing on streamlining regulations, reviewing wage laws, and increasing funding to add",
+        "title": "With Powell set to move on, who are the candidates for the next Fed chair?",
+        "url": "https://www.housingwire.com/articles/federal-reserve-chair-candidates/",
+        "what": "With Jerome Powell's term ending in May, several candidates are in the running to become the next Federal Reserve chair.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/federal-housing-supply/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/federal-reserve-chair-candidates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -240,6 +240,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Compass, Zillow debate irreparable harm at hearing",
+        "url": "https://www.housingwire.com/articles/expert-testimony-compass-zillow/",
+        "what": "Expert witnesses for Compass and Zillow debated competition and consumer effects in the ongoing antitrust hearing over Zillow’s policy.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/expert-testimony-compass-zillow/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Mortgage credit report costs could jump 50% in 2026",
+        "url": "https://www.housingwire.com/articles/mortgage-credit-report-costs-2026/",
+        "what": "Credit report prices for mortgage lenders will increase by up to 50% in 2026, despite regulatory efforts to boost competition.",
+        "numbers": "50, 2026,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-credit-report-costs-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Compass, Zillow: Who gets to set the rules of online real estate? A judge may soon decide",
         "url": "https://www.housingwire.com/articles/compass-zillow-listing-policy/",
@@ -277,24 +295,6 @@
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
-        "title": "Mortgage origination activity remains stuck in neutral",
-        "url": "https://www.housingwire.com/articles/mortgage-originations-q3-2025/",
-        "what": "Mortgage originations decreased by 1.6% in Q3 2025 but increased 1.9% year over year due to higher refinance and HELOC activity.",
-        "numbers": "1.6, 3, 2025, 1.9",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-originations-q3-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Tidalwave lands $22M Series A funding led by Permanent Capital, D.R. Horton",
-        "url": "https://www.housingwire.com/articles/tidalwave-ai-mortgage-funding/",
-        "what": "Mortgage technology startup Tidalwave has raised $22 million in a Series A founding round to expand the market share of its agentic artificial intelligence (AI)-powered point-of-sa",
-        "numbers": "$22 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tidalwave-ai-mortgage-funding/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "U.S. Luxury Home Prices Jump 5.5% in October, Triple the Pace of Non-Luxury Homes",
         "url": "https://www.redfin.com/news/luxury-homes-market-october-2025/",
         "what": "Luxury home sale prices rose 5.5% year over year to a median $1,278,950, a record high for October",
@@ -324,6 +324,15 @@
     ],
     "notables": [
       {
+        "title": "Elsafy Team’s journey to $80M in sales and a new home at Keller Williams",
+        "url": "https://www.housingwire.com/articles/elsafy-teams-journey-to-80m-in-sales-and-a-new-home-at-keller-williams/",
+        "what": "Essam Elsafy",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/elsafy-teams-journey-to-80m-in-sales-and-a-new-home-at-keller-williams/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Senior-held home equity can be a resource for the next generation",
         "url": "https://www.housingwire.com/articles/home-equity-help/",
         "what": "Older Americans hold $14 trillion in home equity, and 25% of first-time buyers get family help for down payment assistance.",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/prmg-kasia-stephenson-digital-marketing/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NAR’s MLS rule rewrite sparks new allegation: ‘This is proof they violated antitrust law’",
-        "url": "https://www.housingwire.com/articles/nar-mls-policy-changes-antitrust-lawsuit/",
-        "what": "NAR’s updated MLS policy, now allowing local discretion on membership, is highlighted by Hardy plaintiffs as admission of antitrust violation.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-mls-policy-changes-antitrust-lawsuit/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
