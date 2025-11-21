@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-21 16:37 UTC",
+  "as_of": "2025-11-21 17:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage origination activity remains stuck in neutral",
+      "link": "https://www.housingwire.com/articles/mortgage-originations-q3-2025/",
+      "published": "Fri, 21 Nov 2025"
+    },
+    {
       "title": "NAR’s MLS rule rewrite sparks new allegation: ‘This is proof they violated antitrust law’",
       "link": "https://www.housingwire.com/articles/nar-mls-policy-changes-antitrust-lawsuit/",
       "published": "Fri, 21 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Keller Williams Realty Atlanta partners with Southeast Mortgage of Georgia",
       "link": "https://www.housingwire.com/articles/keller-williams-realty-atlanta-partners-with-southeast-mortgage-of-georgia/",
-      "published": "Thu, 20 Nov 2025"
-    },
-    {
-      "title": "Real estate agents: throw away the scripts and speak from the heart",
-      "link": "https://www.housingwire.com/articles/real-estate-agents-throw-away-the-scripts-and-speak-from-the-heart/",
       "published": "Thu, 20 Nov 2025"
     },
     {
@@ -232,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "Mortgage origination activity remains stuck in neutral",
+        "url": "https://www.housingwire.com/articles/mortgage-originations-q3-2025/",
+        "what": "Mortgage originations decreased by 1.6% in Q3 2025 but increased 1.9% year over year due to higher refinance and HELOC activity.",
+        "numbers": "1.6, 3, 2025, 1.9",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-originations-q3-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Tidalwave lands $22M Series A funding led by Permanent Capital, D.R. Horton",
         "url": "https://www.housingwire.com/articles/tidalwave-ai-mortgage-funding/",
         "what": "Mortgage technology startup Tidalwave has raised $22 million in a Series A founding round to expand the market share of its agentic artificial intelligence (AI)-powered point-of-sa",
@@ -293,15 +302,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/unlisted-hopes-to-unlock-more-housing-inventory/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Cooling home prices, stable inventory as buyers gain leverage",
-        "url": "https://www.housingwire.com/articles/cooling-home-prices-stable-inventory-as-buyers-gain-leverage/",
-        "what": "About 42% of properties on the market have had a price reduction, while just 2% have seen price increases.",
-        "numbers": "42, 2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cooling-home-prices-stable-inventory-as-buyers-gain-leverage/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "The Housing Affordability Crisis Is Accelerating Fastest in Rural America",
