@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-21 15:29 UTC",
+  "as_of": "2025-11-21 16:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "NAR’s MLS rule rewrite sparks new allegation: ‘This is proof they violated antitrust law’",
+      "link": "https://www.housingwire.com/articles/nar-mls-policy-changes-antitrust-lawsuit/",
+      "published": "Fri, 21 Nov 2025"
+    },
+    {
+      "title": "Tidalwave lands $22M Series A funding led by Permanent Capital, D.R. Horton",
+      "link": "https://www.housingwire.com/articles/tidalwave-ai-mortgage-funding/",
+      "published": "Fri, 21 Nov 2025"
+    },
+    {
       "title": "From the warming drawer to the freezer: Tariffs, the Supreme Court and housing",
       "link": "https://www.housingwire.com/articles/from-the-warming-drawer-to-the-freezer-tariffs-the-supreme-court-and-housing/",
       "published": "Fri, 21 Nov 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Real estate agents: throw away the scripts and speak from the heart",
       "link": "https://www.housingwire.com/articles/real-estate-agents-throw-away-the-scripts-and-speak-from-the-heart/",
-      "published": "Thu, 20 Nov 2025"
-    },
-    {
-      "title": "FOA maps next steps after PHH reverse asset acquisition",
-      "link": "https://www.housingwire.com/articles/onity-sells-reverse-mortgage-business-foa/",
-      "published": "Thu, 20 Nov 2025"
-    },
-    {
-      "title": "Compass welcomes RealTrends Verified Van Volkenburg Virginia-based team",
-      "link": "https://www.housingwire.com/articles/compass-welcomes-realtrends-verified-virginia-team/",
       "published": "Thu, 20 Nov 2025"
     },
     {
@@ -232,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "Tidalwave lands $22M Series A funding led by Permanent Capital, D.R. Horton",
+        "url": "https://www.housingwire.com/articles/tidalwave-ai-mortgage-funding/",
+        "what": "Mortgage technology startup Tidalwave has raised $22 million in a Series A founding round to expand the market share of its agentic artificial intelligence (AI)-powered point-of-sa",
+        "numbers": "$22 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tidalwave-ai-mortgage-funding/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "U.S. Luxury Home Prices Jump 5.5% in October, Triple the Pace of Non-Luxury Homes",
         "url": "https://www.redfin.com/news/luxury-homes-market-october-2025/",
         "what": "Luxury home sale prices rose 5.5% year over year to a median $1,278,950, a record high for October",
@@ -295,24 +304,6 @@
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
-        "title": "Existing home sales show 4 months of year-over-year growth",
-        "url": "https://www.housingwire.com/articles/existing-home-sales-show-4-months-of-year-over-year-growth/",
-        "what": "Existing home sales posted another positive year-over-year print, marking the 4th straight month of year-over-year growth.",
-        "numbers": "4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/existing-home-sales-show-4-months-of-year-over-year-growth/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "DRB Homes launches for-sale housing at Charleston Navy Yard",
-        "url": "https://www.housingwire.com/articles/navy-yard-charleston-townhomes/",
-        "what": "Navy Yard Charleston’s first for-sale homes are coming as DRB Homes plans 55 townhomes, advancing North Charleston’s redevelopment vision.",
-        "numbers": "55",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/navy-yard-charleston-townhomes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "The Housing Affordability Crisis Is Accelerating Fastest in Rural America",
         "url": "https://www.redfin.com/news/suburban-urban-rural-q3-2025/",
         "what": "Rural homebuyers need to earn $75,000 to afford the typical home, up from $36,000 before the pandemic",
@@ -320,9 +311,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/suburban-urban-rural-q3-2025/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "October’s Most Expensive Home Sales Include Adam Levine’s Former Montecito Compound",
+        "url": "https://www.redfin.com/news/most-expensive-home-sales-october-2025/",
+        "what": "California and Florida dominated October’s ultra-luxury housing market, with oceanfront estates and celebrity homes going for more than $30 million",
+        "numbers": "$30 million, $59 million, 5",
+        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-october-2025/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
+      {
+        "title": "NAR’s MLS rule rewrite sparks new allegation: ‘This is proof they violated antitrust law’",
+        "url": "https://www.housingwire.com/articles/nar-mls-policy-changes-antitrust-lawsuit/",
+        "what": "NAR’s updated MLS policy, now allowing local discretion on membership, is highlighted by Hardy plaintiffs as admission of antitrust violation.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-mls-policy-changes-antitrust-lawsuit/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Real estate agents: throw away the scripts and speak from the heart",
         "url": "https://www.housingwire.com/articles/real-estate-agents-throw-away-the-scripts-and-speak-from-the-heart/",
