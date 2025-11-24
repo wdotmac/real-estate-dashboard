@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-24 14:37 UTC",
+  "as_of": "2025-11-24 15:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "CAR amends forms for increased referral fee transparency",
+      "link": "https://www.housingwire.com/articles/car-amends-forms-for-increased-referral-fee-transparency/",
+      "published": "Mon, 24 Nov 2025"
+    },
+    {
+      "title": "Washington state posts nation’s steepest inventory decline as sellers cut prices",
+      "link": "https://www.housingwire.com/articles/washington-housing-market/",
+      "published": "Mon, 24 Nov 2025"
+    },
+    {
       "title": "The FHFA should start working now to alleviate future cycles’ mortgage lock-in",
       "link": "https://www.housingwire.com/articles/the-fhfa-should-start-working-now-to-alleviate-future-cycles-mortgage-lock-in/",
       "published": "Mon, 24 Nov 2025"
@@ -157,16 +167,6 @@
     {
       "title": "The Goldilocks case for home sales in 2026",
       "link": "https://www.housingwire.com/articles/the-goldilocks-case-for-home-sales-in-2026/",
-      "published": "Fri, 21 Nov 2025"
-    },
-    {
-      "title": "Compass, Zillow debate irreparable harm at hearing",
-      "link": "https://www.housingwire.com/articles/expert-testimony-compass-zillow/",
-      "published": "Fri, 21 Nov 2025"
-    },
-    {
-      "title": "With Powell set to move on, who are the candidates for the next Fed chair?",
-      "link": "https://www.housingwire.com/articles/federal-reserve-chair-candidates/",
       "published": "Fri, 21 Nov 2025"
     },
     {
@@ -259,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "Washington state posts nation’s steepest inventory decline as sellers cut prices",
+        "url": "https://www.housingwire.com/articles/washington-housing-market/",
+        "what": "Washington’s home inventory fell 13% in four weeks while 31% of listings saw price cuts, signaling tight supply and ongoing pricing pressure.",
+        "numbers": "13, 31",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/washington-housing-market/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "The Goldilocks case for home sales in 2026",
         "url": "https://www.housingwire.com/articles/the-goldilocks-case-for-home-sales-in-2026/",
         "what": "The trends are consistent enough to inspire me to sketch a Goldilocks case that results in very significant home sales growth 2026.",
@@ -284,24 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-credit-report-costs-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Compass, Zillow: Who gets to set the rules of online real estate? A judge may soon decide",
-        "url": "https://www.housingwire.com/articles/compass-zillow-listing-policy/",
-        "what": "Compass and Zillow face off in New York court over listing access standards, with testimony on antitrust and market impact.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-zillow-listing-policy/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "NYC landlords sue over rent law as vacant units climb",
-        "url": "https://www.housingwire.com/articles/new-york-rent-stabilization-lawsuit/",
-        "what": "New York City Mayor-elect Zohran Mamdani won after campaigning on expanding rent stabilization to improve housing affordability",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-york-rent-stabilization-lawsuit/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "U.S. Luxury Home Prices Jump 5.5% in October, Triple the Pace of Non-Luxury Homes",
@@ -332,6 +323,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "CAR amends forms for increased referral fee transparency",
+        "url": "https://www.housingwire.com/articles/car-amends-forms-for-increased-referral-fee-transparency/",
+        "what": "Just days after NAR’s Delegate Body rejected rule changes surrounding referral fee disclosure, CAR announcement amendments to its forms.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/car-amends-forms-for-increased-referral-fee-transparency/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "From local to global: REMAX’s Chris Lim on the next era of real estate relationships",
         "url": "https://www.housingwire.com/articles/from-local-to-global-re-max-on-the-next-era-of-real-estate-relationships/",
