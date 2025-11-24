@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-24 19:26 UTC",
+  "as_of": "2025-11-24 20:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Compass, Zillow deliver closing arguments in antitrust hearing",
+      "link": "https://www.housingwire.com/articles/compass-zillow-closing-arguments/",
+      "published": "Mon, 24 Nov 2025"
+    },
+    {
+      "title": "Tech100 Spotlight: 2025 honorees drive innovation and growth in housing tech",
+      "link": "https://www.housingwire.com/articles/housing-tech-awards-2025/",
+      "published": "Mon, 24 Nov 2025"
+    },
+    {
+      "title": "50-year mortgage proposal could reshape U.S. housing costs",
+      "link": "https://www.housingwire.com/articles/50-year-mortgage-analysis/",
+      "published": "Mon, 24 Nov 2025"
+    },
+    {
+      "title": "DOGE may be dead, but its deregulatory housing agenda lives on",
+      "link": "https://www.housingwire.com/articles/doge-may-be-dead-but-its-deregulatory-housing-agenda-lives-on/",
+      "published": "Mon, 24 Nov 2025"
+    },
+    {
       "title": "Mortgage fraud charges against NY AG Letitia James dismissed by federal judge",
       "link": "https://www.housingwire.com/articles/letitia-james-case-dismissal/",
       "published": "Mon, 24 Nov 2025"
@@ -147,26 +167,6 @@
     {
       "title": "Medicare Part B premiums to rise nearly 10% in 2026, cutting into Social Security benefits",
       "link": "https://www.housingwire.com/articles/medicare-part-b-premium-2026/",
-      "published": "Mon, 24 Nov 2025"
-    },
-    {
-      "title": "The mortgage sales scripts toolkit: 13 scripts for every buyer stage",
-      "link": "https://www.housingwire.com/articles/mortgage-sales-scripts/",
-      "published": "Mon, 24 Nov 2025"
-    },
-    {
-      "title": "Florida, Ohio advance sweeping property tax reform plans",
-      "link": "https://www.housingwire.com/articles/florida-ohio-advance-sweeping-property-tax-reform-plans/",
-      "published": "Mon, 24 Nov 2025"
-    },
-    {
-      "title": "RMBS issuance of non-QM loans hits record $20.9B in Q3",
-      "link": "https://www.housingwire.com/articles/non-qm-rmbs-issuance-q3-2025/",
-      "published": "Mon, 24 Nov 2025"
-    },
-    {
-      "title": "MRED challenges Zillow report alleging bias in private listing network",
-      "link": "https://www.housingwire.com/articles/mred-zillow-private-listings/",
       "published": "Mon, 24 Nov 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "DOGE may be dead, but its deregulatory housing agenda lives on",
+        "url": "https://www.housingwire.com/articles/doge-may-be-dead-but-its-deregulatory-housing-agenda-lives-on/",
+        "what": "Launched in January upon Trump’s inauguration, DOGE was created to overhaul agencies, cut budgets and redirect federal work.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/doge-may-be-dead-but-its-deregulatory-housing-agenda-lives-on/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage fraud charges against NY AG Letitia James dismissed by federal judge",
         "url": "https://www.housingwire.com/articles/letitia-james-case-dismissal/",
@@ -241,6 +250,33 @@
     ],
     "housing": [
       {
+        "title": "Compass, Zillow deliver closing arguments in antitrust hearing",
+        "url": "https://www.housingwire.com/articles/compass-zillow-closing-arguments/",
+        "what": "Compass and Zillow delivered closing arguments in court over Zillow’s listing access policy, with Judge Vargas questioning both sides.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-zillow-closing-arguments/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Tech100 Spotlight: 2025 honorees drive innovation and growth in housing tech",
+        "url": "https://www.housingwire.com/articles/housing-tech-awards-2025/",
+        "what": "As nominations continue to roll in for the 2026 Tech100 awards, HousingWire is launching a new Tech100 Spotlight Series to showcase how past winners have continued to innovate, scale and shape the housing industry since receiving their award",
+        "numbers": "2026, 100",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-tech-awards-2025/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "50-year mortgage proposal could reshape U.S. housing costs",
+        "url": "https://www.housingwire.com/articles/50-year-mortgage-analysis/",
+        "what": "Proposed 50 year mortgages may cut monthly costs but raise interest paid and limit equity for buyers, with legal hurdles ahead.",
+        "numbers": "50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/50-year-mortgage-analysis/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "The mortgage sales scripts toolkit: 13 scripts for every buyer stage",
         "url": "https://www.housingwire.com/articles/mortgage-sales-scripts/",
         "what": "These mortgage sales scripts help you stay professional, proactive and effective",
@@ -257,15 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mred-zillow-private-listings/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Washington state posts nation’s steepest inventory decline as sellers cut prices",
-        "url": "https://www.housingwire.com/articles/washington-housing-market/",
-        "what": "Washington’s home inventory fell 13% in four weeks while 31% of listings saw price cuts, signaling tight supply and ongoing pricing pressure.",
-        "numbers": "13, 31",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/washington-housing-market/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "U.S. Luxury Home Prices Jump 5.5% in October, Triple the Pace of Non-Luxury Homes",
@@ -320,33 +347,6 @@
         "what": "U.S",
         "numbers": "$20.9 billion, 3, 2025,",
         "justified": "housingwire.com — https://www.housingwire.com/articles/non-qm-rmbs-issuance-q3-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "eLEND names Bobbi MacPherson as chief risk officer",
-        "url": "https://www.housingwire.com/articles/elend-bobbi-macpherson-chief-risk-officer/",
-        "what": "Bobbi MacPherson has been appointed as eLEND's new chief risk officer, tasked with leading risk management and process improvements.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/elend-bobbi-macpherson-chief-risk-officer/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Real estate vendor SitusAMC reports cyberattack, data breach",
-        "url": "https://www.housingwire.com/articles/situsamc-data-breach-2025/",
-        "what": "Real estate technology vendor SitusAMC was the target of a cyberattack that the company says is now contained.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/situsamc-data-breach-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CAR amends forms for increased referral fee transparency",
-        "url": "https://www.housingwire.com/articles/car-amends-forms-for-increased-referral-fee-transparency/",
-        "what": "Just days after NAR’s Delegate Body rejected rule changes surrounding referral fee disclosure, CAR announcement amendments to its forms.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/car-amends-forms-for-increased-referral-fee-transparency/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
