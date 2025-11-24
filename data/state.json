@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-24 21:30 UTC",
+  "as_of": "2025-11-24 22:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Massachusetts rent control initiative gains amid affordability push",
+      "link": "https://www.housingwire.com/articles/massachusetts-rent-control/",
+      "published": "Mon, 24 Nov 2025"
+    },
+    {
+      "title": "Root causes: housing shortage driven by policy, not big builder concentration",
+      "link": "https://www.housingwire.com/articles/housing-shortage-policy/",
+      "published": "Mon, 24 Nov 2025"
+    },
+    {
       "title": "Compass, Zillow deliver closing arguments in antitrust hearing",
       "link": "https://www.housingwire.com/articles/compass-zillow-closing-arguments/",
       "published": "Mon, 24 Nov 2025"
@@ -157,16 +167,6 @@
     {
       "title": "DOGE may be dead, but its deregulatory housing agenda lives on",
       "link": "https://www.housingwire.com/articles/doge-may-be-dead-but-its-deregulatory-housing-agenda-lives-on/",
-      "published": "Mon, 24 Nov 2025"
-    },
-    {
-      "title": "Mortgage fraud charges against NY AG Letitia James dismissed by federal judge",
-      "link": "https://www.housingwire.com/articles/letitia-james-case-dismissal/",
-      "published": "Mon, 24 Nov 2025"
-    },
-    {
-      "title": "Medicare Part B premiums to rise nearly 10% in 2026, cutting into Social Security benefits",
-      "link": "https://www.housingwire.com/articles/medicare-part-b-premium-2026/",
       "published": "Mon, 24 Nov 2025"
     },
     {
@@ -250,6 +250,24 @@
     ],
     "housing": [
       {
+        "title": "Massachusetts rent control initiative gains amid affordability push",
+        "url": "https://www.housingwire.com/articles/massachusetts-rent-control/",
+        "what": "With an eye on New York City voters who favored housing affordability in this month’s mayoral election, Massachusetts housing advocates are optimistic they can win at the ballot bo",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/massachusetts-rent-control/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Root causes: housing shortage driven by policy, not big builder concentration",
+        "url": "https://www.housingwire.com/articles/housing-shortage-policy/",
+        "what": "The real cause of the housing crisis is restrictive land use and slow approvals, not builder hoarding, with local solutions needed.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-shortage-policy/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Compass, Zillow deliver closing arguments in antitrust hearing",
         "url": "https://www.housingwire.com/articles/compass-zillow-closing-arguments/",
         "what": "Compass and Zillow delivered closing arguments in court over Zillow’s listing access policy, with Judge Vargas questioning both sides.",
@@ -282,15 +300,6 @@
         "what": "These mortgage sales scripts help you stay professional, proactive and effective",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-sales-scripts/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "MRED challenges Zillow report alleging bias in private listing network",
-        "url": "https://www.housingwire.com/articles/mred-zillow-private-listings/",
-        "what": "The MLS points toZillow strategy documents leaked by Compass as evidence of competitive motives behind the analysis.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mred-zillow-private-listings/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -338,15 +347,6 @@
         "what": "Lawmakers in Florida and Ohio are pushing varied degrees of reform as political pressure to cut homeowners' costs mounts.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/florida-ohio-advance-sweeping-property-tax-reform-plans/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "RMBS issuance of non-QM loans hits record $20.9B in Q3",
-        "url": "https://www.housingwire.com/articles/non-qm-rmbs-issuance-q3-2025/",
-        "what": "U.S",
-        "numbers": "$20.9 billion, 3, 2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/non-qm-rmbs-issuance-q3-2025/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
