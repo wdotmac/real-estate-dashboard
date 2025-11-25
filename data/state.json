@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-25 16:45 UTC",
+  "as_of": "2025-11-25 17:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Lawmakers urge HUD to rescind homelessness strategy changes",
+      "link": "https://www.housingwire.com/articles/lawmakers-urge-hud-to-rescind-homelessness-strategy-changes/",
+      "published": "Tue, 25 Nov 2025"
+    },
+    {
+      "title": "Will steady mortgage rates and another Fed cut boost home sales?",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-december-2025/",
+      "published": "Tue, 25 Nov 2025"
+    },
+    {
+      "title": "Suns minority owners allege mismanagement by Mat Ishbia",
+      "link": "https://www.housingwire.com/articles/ishbia-faces-counterclaim-suns/",
+      "published": "Tue, 25 Nov 2025"
+    },
+    {
       "title": "Pending home sales rise on lower mortgage rates, higher inventory",
       "link": "https://www.housingwire.com/articles/pending-home-sales-october-rise/",
       "published": "Tue, 25 Nov 2025"
@@ -153,21 +168,6 @@
       "title": "U.S. house prices up 2.2% in Q3 2025",
       "link": "https://www.housingwire.com/articles/us-house-prices-rise-q3-2025/",
       "published": "Tue, 25 Nov 2025"
-    },
-    {
-      "title": "Title insurance vital to reduce risk on refinances",
-      "link": "https://www.housingwire.com/articles/title-insurance-vital-to-reduce-risk-on-refinances/",
-      "published": "Tue, 25 Nov 2025"
-    },
-    {
-      "title": "The mega-lender myth: Why consolidation won’t deliver the holy grail",
-      "link": "https://www.housingwire.com/articles/the-mega-lender-myth-why-consolidation-wont-deliver-the-holy-grail/",
-      "published": "Tue, 25 Nov 2025"
-    },
-    {
-      "title": "Homebuyers hunt for Black Friday bargains as price cuts spread",
-      "link": "https://www.housingwire.com/articles/housing-market-price-reductions/",
-      "published": "Mon, 24 Nov 2025"
     },
     {
       "title": "West Palm Beach Tops 10-Year Luxury Home Price Growth as Traditional Giants Like New York Lag Behind",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Will steady mortgage rates and another Fed cut boost home sales?",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-december-2025/",
+        "what": "The trend of lower and less volatile mortgage rates has been a key storyline for the U.S",
+        "numbers": "2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-december-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Pending home sales rise on lower mortgage rates, higher inventory",
         "url": "https://www.housingwire.com/articles/pending-home-sales-october-rise/",
@@ -240,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Lawmakers urge HUD to rescind homelessness strategy changes",
+        "url": "https://www.housingwire.com/articles/lawmakers-urge-hud-to-rescind-homelessness-strategy-changes/",
+        "what": "House Democrats warn changes will dramatically reduce permanent supportive housing funding and disrupt services nationwide.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lawmakers-urge-hud-to-rescind-homelessness-strategy-changes/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Home price growth cools further in September",
         "url": "https://www.housingwire.com/articles/september-home-price-index/",
@@ -304,34 +322,25 @@
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
-        "title": "Root causes: housing shortage driven by policy, not big builder concentration",
-        "url": "https://www.housingwire.com/articles/housing-shortage-policy/",
-        "what": "The real cause of the housing crisis is restrictive land use and slow approvals, not builder hoarding, with local solutions needed.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-shortage-policy/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Compass, Zillow deliver closing arguments in antitrust hearing",
-        "url": "https://www.housingwire.com/articles/compass-zillow-closing-arguments/",
-        "what": "Compass and Zillow delivered closing arguments in court over Zillow’s listing access policy, with Judge Vargas questioning both sides.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-zillow-closing-arguments/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Tech100 Spotlight: 2025 honorees drive innovation and growth in housing tech",
-        "url": "https://www.housingwire.com/articles/housing-tech-awards-2025/",
-        "what": "Here’s a look at how several standout mortgage and real estate tech companies have advanced their technology, grown their footprint and delivered meaningful value to the housing in",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-tech-awards-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "title": "U.S. Luxury Home Prices Jump 5.5% in October, Triple the Pace of Non-Luxury Homes",
+        "url": "https://www.redfin.com/news/luxury-homes-market-october-2025/",
+        "what": "Luxury home sale prices rose 5.5% year over year to a median $1,278,950, a record high for October",
+        "numbers": "5.5, $1,278,950,, 1.8, $373,249., 2.9, 0.7",
+        "justified": "redfin.com — https://www.redfin.com/news/luxury-homes-market-october-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
+      {
+        "title": "Suns minority owners allege mismanagement by Mat Ishbia",
+        "url": "https://www.housingwire.com/articles/ishbia-faces-counterclaim-suns/",
+        "what": "Suns minority owners claim Mat Ishbia mismanaged the franchise, alleging financial misconduct and self-dealing.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ishbia-faces-counterclaim-suns/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "U.S. house prices up 2.2% in Q3 2025",
         "url": "https://www.housingwire.com/articles/us-house-prices-rise-q3-2025/",
