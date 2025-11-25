@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-25 11:29 UTC",
+  "as_of": "2025-11-25 13:02 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Mon, 24 Nov 2025"
     },
     {
+      "title": "Delistings Jump 28% as Sellers Pull Homes Off Market Rather Than Settle For Low Prices",
+      "link": "https://www.redfin.com/news/delistings-jump-sellers-pull-homes-off-market/",
+      "published": "Tue, 25 Nov 2025"
+    },
+    {
       "title": "Redfin Economists’ Weekly Take: Odds Firm for December Rate Cut Despite Limited Data",
       "link": "https://www.redfin.com/news/weekly-economics-update-november-24/",
       "published": "Tue, 25 Nov 2025"
@@ -192,11 +197,6 @@
     {
       "title": "Home Prices Post Biggest Gain in 7 Months Despite Slow Demand",
       "link": "https://www.redfin.com/news/housing-market-update-home-prices-grow-slow-demand/",
-      "published": "Thu, 20 Nov 2025"
-    },
-    {
-      "title": "The Housing Affordability Crisis Is Accelerating Fastest in Rural America",
-      "link": "https://www.redfin.com/news/suburban-urban-rural-q3-2025/",
       "published": "Thu, 20 Nov 2025"
     }
   ],
@@ -258,6 +258,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Delistings Jump 28% as Sellers Pull Homes Off Market Rather Than Settle For Low Prices",
+        "url": "https://www.redfin.com/news/delistings-jump-sellers-pull-homes-off-market/",
+        "what": "The number of home listings that were pulled off the market rose to a historically high level in September",
+        "numbers": "5.5, 28",
+        "justified": "redfin.com — https://www.redfin.com/news/delistings-jump-sellers-pull-homes-off-market/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "The mega-lender myth: Why consolidation won’t deliver the holy grail",
         "url": "https://www.housingwire.com/articles/the-mega-lender-myth-why-consolidation-wont-deliver-the-holy-grail/",
@@ -336,15 +345,6 @@
         "what": "Luxury home sale prices rose 5.5% year over year to a median $1,278,950, a record high for October",
         "numbers": "5.5, $1,278,950,, 1.8, $373,249., 2.9, 0.7",
         "justified": "redfin.com — https://www.redfin.com/news/luxury-homes-market-october-2025/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "The Housing Affordability Crisis Is Accelerating Fastest in Rural America",
-        "url": "https://www.redfin.com/news/suburban-urban-rural-q3-2025/",
-        "what": "Rural homebuyers need to earn $75,000 to afford the typical home, up from $36,000 before the pandemic",
-        "numbers": "$75,000, $36,000, 61, 49, 46",
-        "justified": "redfin.com — https://www.redfin.com/news/suburban-urban-rural-q3-2025/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
