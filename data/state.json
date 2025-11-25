@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-25 15:35 UTC",
+  "as_of": "2025-11-25 16:45 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Pending home sales rise on lower mortgage rates, higher inventory",
+      "link": "https://www.housingwire.com/articles/pending-home-sales-october-rise/",
+      "published": "Tue, 25 Nov 2025"
+    },
+    {
+      "title": "Home price growth cools further in September",
+      "link": "https://www.housingwire.com/articles/september-home-price-index/",
+      "published": "Tue, 25 Nov 2025"
+    },
+    {
       "title": "U.S. house prices up 2.2% in Q3 2025",
       "link": "https://www.housingwire.com/articles/us-house-prices-rise-q3-2025/",
       "published": "Tue, 25 Nov 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Homebuyers hunt for Black Friday bargains as price cuts spread",
       "link": "https://www.housingwire.com/articles/housing-market-price-reductions/",
-      "published": "Mon, 24 Nov 2025"
-    },
-    {
-      "title": "Massachusetts rent control initiative gains amid affordability push",
-      "link": "https://www.housingwire.com/articles/massachusetts-rent-control/",
-      "published": "Mon, 24 Nov 2025"
-    },
-    {
-      "title": "Root causes: housing shortage driven by policy, not big builder concentration",
-      "link": "https://www.housingwire.com/articles/housing-shortage-policy/",
       "published": "Mon, 24 Nov 2025"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Pending home sales rise on lower mortgage rates, higher inventory",
+        "url": "https://www.housingwire.com/articles/pending-home-sales-october-rise/",
+        "what": "NAR’s pending home sales index rose 1.9% month-over-month, as lower mortgage rates and more inventory coaxed buyers off the sidelines.",
+        "numbers": "1.9",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pending-home-sales-october-rise/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Title insurance vital to reduce risk on refinances",
         "url": "https://www.housingwire.com/articles/title-insurance-vital-to-reduce-risk-on-refinances/",
         "what": "Mortgage refinance demand is 111% higher than last year, a surge fueled by declining mortgage rates and renewed interest from homeowners looking to improve their financial position",
@@ -221,15 +230,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "DOGE may be dead, but its deregulatory housing agenda lives on",
-        "url": "https://www.housingwire.com/articles/doge-may-be-dead-but-its-deregulatory-housing-agenda-lives-on/",
-        "what": "Launched in January upon Trump’s inauguration, DOGE was created to overhaul agencies, cut budgets and redirect federal work.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/doge-may-be-dead-but-its-deregulatory-housing-agenda-lives-on/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Mortgage Rates to Hold Firm as Delayed Jobs Report Shows Unemployment at 4-Year High",
         "url": "https://www.redfin.com/news/delayed-september-jobs-report-analysis/",
         "what": "Rates will stay mostly steady today after the delayed September jobs report showed both a rising unemployment rate, and strong but concentrated jobs growth in the private sector",
@@ -240,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Home price growth cools further in September",
+        "url": "https://www.housingwire.com/articles/september-home-price-index/",
+        "what": "Home prices grew 1.3% annually in September according to the S&P Cotality Case Shiller Index, the lowest level since July 2023.",
+        "numbers": "1.3, 2023.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/september-home-price-index/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "West Palm Beach Tops 10-Year Luxury Home Price Growth as Traditional Giants Like New York Lag Behind",
         "url": "https://www.redfin.com/news/luxury-home-prices-decade/",
@@ -318,15 +327,6 @@
         "what": "Here’s a look at how several standout mortgage and real estate tech companies have advanced their technology, grown their footprint and delivered meaningful value to the housing in",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/housing-tech-awards-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "50-year mortgage proposal could reshape U.S. housing costs",
-        "url": "https://www.housingwire.com/articles/50-year-mortgage-analysis/",
-        "what": "Proposed 50 year mortgages may cut monthly costs but raise interest paid and limit equity for buyers, with legal hurdles ahead.",
-        "numbers": "50",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/50-year-mortgage-analysis/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
