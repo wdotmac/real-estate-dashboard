@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-25 13:02 UTC",
+  "as_of": "2025-11-25 13:45 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Mon, 24 Nov 2025"
     },
     {
+      "title": "West Palm Beach Tops 10-Year Luxury Home Price Growth as Traditional Giants Like New York Lag Behind",
+      "link": "https://www.redfin.com/news/luxury-home-prices-decade/",
+      "published": "Tue, 25 Nov 2025"
+    },
+    {
       "title": "Delistings Jump 28% as Sellers Pull Homes Off Market Rather Than Settle For Low Prices",
       "link": "https://www.redfin.com/news/delistings-jump-sellers-pull-homes-off-market/",
       "published": "Tue, 25 Nov 2025"
@@ -192,11 +197,6 @@
     {
       "title": "Mortgage Rates to Hold Firm as Delayed Jobs Report Shows Unemployment at 4-Year High",
       "link": "https://www.redfin.com/news/delayed-september-jobs-report-analysis/",
-      "published": "Thu, 20 Nov 2025"
-    },
-    {
-      "title": "Home Prices Post Biggest Gain in 7 Months Despite Slow Demand",
-      "link": "https://www.redfin.com/news/housing-market-update-home-prices-grow-slow-demand/",
       "published": "Thu, 20 Nov 2025"
     }
   ],
@@ -246,18 +246,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/delayed-september-jobs-report-analysis/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Home Prices Post Biggest Gain in 7 Months Despite Slow Demand",
-        "url": "https://www.redfin.com/news/housing-market-update-home-prices-grow-slow-demand/",
-        "what": "Would-be homebuyers are sitting on the sidelines, wary of economic uncertainty and still-high housing costs",
-        "numbers": "2.3, 16,, 7",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-home-prices-grow-slow-demand/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "housing": [
+      {
+        "title": "West Palm Beach Tops 10-Year Luxury Home Price Growth as Traditional Giants Like New York Lag Behind",
+        "url": "https://www.redfin.com/news/luxury-home-prices-decade/",
+        "what": "Luxury home sale prices in West Palm Beach, FL have jumped 187.3% to a median $4.04 million over the past decade—the fastest growth among major U.S",
+        "numbers": "187.3, $4.04 million, 8, 10, 2015.",
+        "justified": "redfin.com — https://www.redfin.com/news/luxury-home-prices-decade/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Delistings Jump 28% as Sellers Pull Homes Off Market Rather Than Settle For Low Prices",
         "url": "https://www.redfin.com/news/delistings-jump-sellers-pull-homes-off-market/",
@@ -338,15 +338,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/50-year-mortgage-analysis/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "U.S. Luxury Home Prices Jump 5.5% in October, Triple the Pace of Non-Luxury Homes",
-        "url": "https://www.redfin.com/news/luxury-homes-market-october-2025/",
-        "what": "Luxury home sale prices rose 5.5% year over year to a median $1,278,950, a record high for October",
-        "numbers": "5.5, $1,278,950,, 1.8, $373,249., 2.9, 0.7",
-        "justified": "redfin.com — https://www.redfin.com/news/luxury-homes-market-october-2025/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": []
