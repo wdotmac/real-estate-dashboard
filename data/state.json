@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-25 14:37 UTC",
+  "as_of": "2025-11-25 15:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "U.S. house prices up 2.2% in Q3 2025",
+      "link": "https://www.housingwire.com/articles/us-house-prices-rise-q3-2025/",
+      "published": "Tue, 25 Nov 2025"
+    },
+    {
       "title": "Title insurance vital to reduce risk on refinances",
       "link": "https://www.housingwire.com/articles/title-insurance-vital-to-reduce-risk-on-refinances/",
       "published": "Tue, 25 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Root causes: housing shortage driven by policy, not big builder concentration",
       "link": "https://www.housingwire.com/articles/housing-shortage-policy/",
-      "published": "Mon, 24 Nov 2025"
-    },
-    {
-      "title": "Compass, Zillow deliver closing arguments in antitrust hearing",
-      "link": "https://www.housingwire.com/articles/compass-zillow-closing-arguments/",
       "published": "Mon, 24 Nov 2025"
     },
     {
@@ -226,15 +226,6 @@
         "what": "Launched in January upon Trump’s inauguration, DOGE was created to overhaul agencies, cut budgets and redirect federal work.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/doge-may-be-dead-but-its-deregulatory-housing-agenda-lives-on/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage fraud charges against NY AG Letitia James dismissed by federal judge",
-        "url": "https://www.housingwire.com/articles/letitia-james-case-dismissal/",
-        "what": "A federal judge dismissed charges against New York Attorney General Letitia James, citing the unlawful appointment of the prosecutor.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/letitia-james-case-dismissal/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -340,6 +331,16 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
-    "notables": []
+    "notables": [
+      {
+        "title": "U.S. house prices up 2.2% in Q3 2025",
+        "url": "https://www.housingwire.com/articles/us-house-prices-rise-q3-2025/",
+        "what": "U.S",
+        "numbers": "2.2, 3, 2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/us-house-prices-rise-q3-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      }
+    ]
   }
 }
