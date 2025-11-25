@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-11-25 20:35 UTC",
+  "as_of": "2025-11-25 21:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.06,
-      "delta_bp_1d": -4.0000000000000036
+      "yield_pct": 4.04,
+      "delta_bp_1d": -1.9999999999999574
     },
     "mortgage_30y": {
       "rate_pct": 6.26,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "FirstClose names Adam Nicholson director of professional services",
+      "link": "https://www.housingwire.com/articles/adam-nicholson-firstclose-director/",
+      "published": "Tue, 25 Nov 2025"
+    },
+    {
       "title": "Kevin Hassett is the rumored lead for Fed chair position",
       "link": "https://www.housingwire.com/articles/kevin-hassett-fed-chair/",
       "published": "Tue, 25 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Lender Price integrates FOA’s reverse products into marketplace",
       "link": "https://www.housingwire.com/articles/reverse-mortgage-pricing-lender-price/",
-      "published": "Tue, 25 Nov 2025"
-    },
-    {
-      "title": "eXp takes a step toward increase referral fee transparency",
-      "link": "https://www.housingwire.com/articles/exp-realty-referral-fee-disclosure/",
       "published": "Tue, 25 Nov 2025"
     },
     {
@@ -235,15 +235,6 @@
         "what": "Mortgage prepayments climbed to their highest level in three and a half years in October as lower rates prompted more borrowers to refinance.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-prepayments-october-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Will steady mortgage rates and another Fed cut boost home sales?",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-december-2025/",
-        "what": "The trend of lower and less volatile mortgage rates has been a key storyline for the U.S",
-        "numbers": "2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-december-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -332,6 +323,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "FirstClose names Adam Nicholson director of professional services",
+        "url": "https://www.housingwire.com/articles/adam-nicholson-firstclose-director/",
+        "what": "FirstClose appointed Adam Nicholson as director of professional services to boost implementation and project delivery.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/adam-nicholson-firstclose-director/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Former local Realtor association CEO charged with grand theft",
         "url": "https://www.housingwire.com/articles/epcar-ceo-theft-arrest/",
