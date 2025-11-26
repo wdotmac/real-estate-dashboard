@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-26 16:43 UTC",
+  "as_of": "2025-11-26 17:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": -1.9999999999999574
     },
     "mortgage_30y": {
-      "rate_pct": 6.26,
-      "delta_bp_wow": 1.9999999999999574
+      "rate_pct": 6.23,
+      "delta_bp_wow": -2.999999999999936
     },
     "starts": {
       "level_saar": 1307.0,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Turkey Day treat: Purchase mortgage applications reach a 2025 peak",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-6-percent-demand/",
+      "published": "Wed, 26 Nov 2025"
+    },
+    {
       "title": "Benchmark Realty takes a stand for referral fee transparency",
       "link": "https://www.housingwire.com/articles/benchmark-realty-referral-fee-disclosure/",
       "published": "Wed, 26 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Will steep increases in health insurance premiums threaten U.S. homebuying?",
       "link": "https://www.housingwire.com/articles/will-steep-increases-in-health-insurance-premiums-threaten-u-s-homebuying/",
-      "published": "Wed, 26 Nov 2025"
-    },
-    {
-      "title": "Purchase apps drive small increase in mortgage demand",
-      "link": "https://www.housingwire.com/articles/mortgage-applications-rise-high-rates/",
       "published": "Wed, 26 Nov 2025"
     },
     {
@@ -249,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Turkey Day treat: Purchase mortgage applications reach a 2025 peak",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-6-percent-demand/",
+        "what": "Today marked one of the best purchase loan reports we've seen in years",
+        "numbers": "20, 8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-6-percent-demand/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Global luxury real estate market sees Q3 slowdown, New York remains resilient",
         "url": "https://www.housingwire.com/articles/global-luxury-housing-q3-2025/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/radian-is-setting-the-pace-modernizing-rtl-and-dscr-lending/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "FirstClose names Adam Nicholson director of professional services",
-        "url": "https://www.housingwire.com/articles/adam-nicholson-firstclose-director/",
-        "what": "FirstClose appointed Adam Nicholson as director of professional services to boost implementation and project delivery.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/adam-nicholson-firstclose-director/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
