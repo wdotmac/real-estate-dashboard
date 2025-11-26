@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-26 15:33 UTC",
+  "as_of": "2025-11-26 16:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Benchmark Realty takes a stand for referral fee transparency",
+      "link": "https://www.housingwire.com/articles/benchmark-realty-referral-fee-disclosure/",
+      "published": "Wed, 26 Nov 2025"
+    },
+    {
+      "title": "Global luxury real estate market sees Q3 slowdown, New York remains resilient",
+      "link": "https://www.housingwire.com/articles/global-luxury-housing-q3-2025/",
+      "published": "Wed, 26 Nov 2025"
+    },
+    {
+      "title": "Rep. Swalwell sues FHFA’s Bill Pulte, alleging misuse of mortgage records",
+      "link": "https://www.housingwire.com/articles/eric-swalwell-fhfa-lawsuit/",
+      "published": "Wed, 26 Nov 2025"
+    },
+    {
       "title": "RealPage, DOJ settle antitrust rental pricing lawsuit",
       "link": "https://www.housingwire.com/articles/realpage-doj-settlement/",
       "published": "Wed, 26 Nov 2025"
@@ -155,19 +170,9 @@
       "published": "Wed, 26 Nov 2025"
     },
     {
-      "title": "Radian is setting the pace: Modernizing RTL and DSCR lending",
-      "link": "https://www.housingwire.com/articles/radian-is-setting-the-pace-modernizing-rtl-and-dscr-lending/",
+      "title": "Rising Home Prices, Economic Volatility Curb Would-Be Buyers’ Appetites in Leadup to Thanksgiving",
+      "link": "https://www.redfin.com/news/housing-market-update-rising-home-prices-curb-sales/",
       "published": "Wed, 26 Nov 2025"
-    },
-    {
-      "title": "A slowdown in compliance? Don’t believe it!",
-      "link": "https://www.housingwire.com/articles/a-slowdown-in-compliance-dont-believe-it/",
-      "published": "Wed, 26 Nov 2025"
-    },
-    {
-      "title": "Hillwood backs new homebuilding fund as AD&C credit tightens",
-      "link": "https://www.housingwire.com/articles/hillwood-backs-new-homebuilding-fund-as-adc-credit-tightens/",
-      "published": "Tue, 25 Nov 2025"
     },
     {
       "title": "Typical Retail Worker Earns $37,000 Less Than Needed to Afford Typical Apartment",
@@ -193,15 +198,28 @@
       "title": "Say hello to our October Newfins!",
       "link": "https://www.redfin.com/news/october-2025-agent-hires/",
       "published": "Mon, 24 Nov 2025"
-    },
-    {
-      "title": "U.S. Luxury Home Prices Jump 5.5% in October, Triple the Pace of Non-Luxury Homes",
-      "link": "https://www.redfin.com/news/luxury-homes-market-october-2025/",
-      "published": "Fri, 21 Nov 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Rep. Swalwell sues FHFA’s Bill Pulte, alleging misuse of mortgage records",
+        "url": "https://www.housingwire.com/articles/eric-swalwell-fhfa-lawsuit/",
+        "what": "Rep",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/eric-swalwell-fhfa-lawsuit/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Rising Home Prices, Economic Volatility Curb Would-Be Buyers’ Appetites in Leadup to Thanksgiving",
+        "url": "https://www.redfin.com/news/housing-market-update-rising-home-prices-curb-sales/",
+        "what": "U.S",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-rising-home-prices-curb-sales/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Purchase apps drive small increase in mortgage demand",
         "url": "https://www.housingwire.com/articles/mortgage-applications-rise-high-rates/",
@@ -221,24 +239,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Kevin Hassett is the rumored lead for Fed chair position",
-        "url": "https://www.housingwire.com/articles/kevin-hassett-fed-chair/",
-        "what": "Kevin Hassett is the rumored frontrunner to become the next Federal Reserve chair as he aligns with Trump's interest rate agenda.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kevin-hassett-fed-chair/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "New home price premium hits record low",
-        "url": "https://www.housingwire.com/articles/new-home-prices/",
-        "what": "Monthly payments for new and existing homes are nearly equal due to builder incentives and stagnating prices",
-        "numbers": "3.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-prices/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Odds Firm for December Rate Cut Despite Limited Data",
         "url": "https://www.redfin.com/news/weekly-economics-update-november-24/",
         "what": "This Week In A Nutshell Rates are a little lower with investors more hopeful for a rate cut at the December 10 Fed meeting after a mixed jobs report and New York Fed President John",
@@ -249,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Global luxury real estate market sees Q3 slowdown, New York remains resilient",
+        "url": "https://www.housingwire.com/articles/global-luxury-housing-q3-2025/",
+        "what": "Global super-prime home sales dropped 21% in volume and 29% in value in Q3 2025, with New York and London showing divergent trends.",
+        "numbers": "21, 29, 3, 2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/global-luxury-housing-q3-2025/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "RealPage, DOJ settle antitrust rental pricing lawsuit",
         "url": "https://www.housingwire.com/articles/realpage-doj-settlement/",
@@ -311,18 +320,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/october-2025-agent-hires/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "U.S. Luxury Home Prices Jump 5.5% in October, Triple the Pace of Non-Luxury Homes",
-        "url": "https://www.redfin.com/news/luxury-homes-market-october-2025/",
-        "what": "Luxury home sale prices rose 5.5% year over year to a median $1,278,950, a record high for October",
-        "numbers": "5.5, $1,278,950,, 1.8, $373,249., 2.9, 0.7",
-        "justified": "redfin.com — https://www.redfin.com/news/luxury-homes-market-october-2025/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
+      {
+        "title": "Benchmark Realty takes a stand for referral fee transparency",
+        "url": "https://www.housingwire.com/articles/benchmark-realty-referral-fee-disclosure/",
+        "what": "The Tennessee-based brokerage announced a new policy requiring all agents to make a written disclosure to clients regarding referral fees.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/benchmark-realty-referral-fee-disclosure/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Radian is setting the pace: Modernizing RTL and DSCR lending",
         "url": "https://www.housingwire.com/articles/radian-is-setting-the-pace-modernizing-rtl-and-dscr-lending/",
@@ -338,15 +347,6 @@
         "what": "FirstClose appointed Adam Nicholson as director of professional services to boost implementation and project delivery.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/adam-nicholson-firstclose-director/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Former local Realtor association CEO charged with grand theft",
-        "url": "https://www.housingwire.com/articles/epcar-ceo-theft-arrest/",
-        "what": "Jennifer Garula-Mers, the former East Polk County Realtor Association CEO, allegedly stole over $81,000 from the trade group.",
-        "numbers": "$81,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/epcar-ceo-theft-arrest/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
