@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-26 18:41 UTC",
+  "as_of": "2025-11-26 19:25 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Voters reject housing reform in Colorado suburbs and resorts",
+      "link": "https://www.housingwire.com/articles/housing-reform-setbacks/",
+      "published": "Wed, 26 Nov 2025"
+    },
+    {
+      "title": "Jason Mitchell Group surpasses 1,300 agents, 36% increase in agent count",
+      "link": "https://www.housingwire.com/articles/jason-mitchell-group-agent-growth/",
+      "published": "Wed, 26 Nov 2025"
+    },
+    {
       "title": "Retirees face shortfalls despite 2026 Social Security COLA increase",
       "link": "https://www.housingwire.com/articles/social-security-cola-increase-2026/",
       "published": "Wed, 26 Nov 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Benchmark Realty takes a stand for referral fee transparency",
       "link": "https://www.housingwire.com/articles/benchmark-realty-referral-fee-disclosure/",
-      "published": "Wed, 26 Nov 2025"
-    },
-    {
-      "title": "Global luxury real estate market sees Q3 slowdown, New York remains resilient",
-      "link": "https://www.housingwire.com/articles/global-luxury-housing-q3-2025/",
-      "published": "Wed, 26 Nov 2025"
-    },
-    {
-      "title": "Rep. Swalwell sues FHFA’s Bill Pulte, alleging misuse of mortgage records",
-      "link": "https://www.housingwire.com/articles/eric-swalwell-fhfa-lawsuit/",
       "published": "Wed, 26 Nov 2025"
     },
     {
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Purchase apps drive small increase in mortgage demand",
-        "url": "https://www.housingwire.com/articles/mortgage-applications-rise-high-rates/",
-        "what": "Mortgage applications rose 0.2% last week despite elevated rates, driven by increased government purchase loan applications.",
-        "numbers": "0.2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-rise-high-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Odds Firm for December Rate Cut Despite Limited Data",
         "url": "https://www.redfin.com/news/weekly-economics-update-november-24/",
         "what": "This Week In A Nutshell Rates are a little lower with investors more hopeful for a rate cut at the December 10 Fed meeting after a mixed jobs report and New York Fed President John",
@@ -240,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Voters reject housing reform in Colorado suburbs and resorts",
+        "url": "https://www.housingwire.com/articles/housing-reform-setbacks/",
+        "what": "Housing reform in Colorado faces setbacks as voters in Telluride, Estes Park, and Littleton oppose new development measures.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-reform-setbacks/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Turkey Day treat: Purchase mortgage applications reach a 2025 peak",
         "url": "https://www.housingwire.com/articles/mortgage-rates-6-percent-demand/",
@@ -315,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "Jason Mitchell Group surpasses 1,300 agents, 36% increase in agent count",
+        "url": "https://www.housingwire.com/articles/jason-mitchell-group-agent-growth/",
+        "what": "The Jason Mitchell Group surpassed 1,300 agents",
+        "numbers": "1,300",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/jason-mitchell-group-agent-growth/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Retirees face shortfalls despite 2026 Social Security COLA increase",
         "url": "https://www.housingwire.com/articles/social-security-cola-increase-2026/",
         "what": "The upcoming 2.8% Social Security COLA increase in January may not cover rising costs for retirees, experts warn.",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/benchmark-realty-referral-fee-disclosure/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Radian is setting the pace: Modernizing RTL and DSCR lending",
-        "url": "https://www.housingwire.com/articles/radian-is-setting-the-pace-modernizing-rtl-and-dscr-lending/",
-        "what": "Business purpose lending is experiencing a period of accelerated change",
-        "numbers": "2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/radian-is-setting-the-pace-modernizing-rtl-and-dscr-lending/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
