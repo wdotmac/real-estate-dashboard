@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-26 13:46 UTC",
+  "as_of": "2025-11-26 14:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Will steep increases in health insurance premiums threaten U.S. homebuying?",
+      "link": "https://www.housingwire.com/articles/will-steep-increases-in-health-insurance-premiums-threaten-u-s-homebuying/",
+      "published": "Wed, 26 Nov 2025"
+    },
+    {
       "title": "Purchase apps drive small increase in mortgage demand",
       "link": "https://www.housingwire.com/articles/mortgage-applications-rise-high-rates/",
       "published": "Wed, 26 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "FirstClose names Adam Nicholson director of professional services",
       "link": "https://www.housingwire.com/articles/adam-nicholson-firstclose-director/",
-      "published": "Tue, 25 Nov 2025"
-    },
-    {
-      "title": "Kevin Hassett is the rumored lead for Fed chair position",
-      "link": "https://www.housingwire.com/articles/kevin-hassett-fed-chair/",
       "published": "Tue, 25 Nov 2025"
     },
     {
@@ -239,15 +239,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Lender Price integrates FOA’s reverse products into marketplace",
-        "url": "https://www.housingwire.com/articles/reverse-mortgage-pricing-lender-price/",
-        "what": "California-based Lender Price has added its first reverse mortgage partner to its mortgage pricing and product eligibility (PPE) platform through a new partnership with Finance of",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-pricing-lender-price/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Odds Firm for December Rate Cut Despite Limited Data",
         "url": "https://www.redfin.com/news/weekly-economics-update-november-24/",
         "what": "This Week In A Nutshell Rates are a little lower with investors more hopeful for a rate cut at the December 10 Fed meeting after a mixed jobs report and New York Fed President John",
@@ -258,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Will steep increases in health insurance premiums threaten U.S. homebuying?",
+        "url": "https://www.housingwire.com/articles/will-steep-increases-in-health-insurance-premiums-threaten-u-s-homebuying/",
+        "what": "Looming health insurance cost increases could directly threaten homebuying prospects and keep many current homeowners from staying afloat.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/will-steep-increases-in-health-insurance-premiums-threaten-u-s-homebuying/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
       {
         "title": "Typical Retail Worker Earns $37,000 Less Than Needed to Afford Typical Apartment",
         "url": "https://www.redfin.com/news/retail-worker-rental-affordability-2025/",
