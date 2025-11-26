@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-26 14:37 UTC",
+  "as_of": "2025-11-26 15:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "RealPage, DOJ settle antitrust rental pricing lawsuit",
+      "link": "https://www.housingwire.com/articles/realpage-doj-settlement/",
+      "published": "Wed, 26 Nov 2025"
+    },
+    {
       "title": "Will steep increases in health insurance premiums threaten U.S. homebuying?",
       "link": "https://www.housingwire.com/articles/will-steep-increases-in-health-insurance-premiums-threaten-u-s-homebuying/",
       "published": "Wed, 26 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Hillwood backs new homebuilding fund as AD&C credit tightens",
       "link": "https://www.housingwire.com/articles/hillwood-backs-new-homebuilding-fund-as-adc-credit-tightens/",
-      "published": "Tue, 25 Nov 2025"
-    },
-    {
-      "title": "FirstClose names Adam Nicholson director of professional services",
-      "link": "https://www.housingwire.com/articles/adam-nicholson-firstclose-director/",
       "published": "Tue, 25 Nov 2025"
     },
     {
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "RealPage, DOJ settle antitrust rental pricing lawsuit",
+        "url": "https://www.housingwire.com/articles/realpage-doj-settlement/",
+        "what": "RealPage is not facing a financial penalty, but it must stop using competitors’ nonpublic data to determine rental prices.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/realpage-doj-settlement/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Will steep increases in health insurance premiums threaten U.S. homebuying?",
         "url": "https://www.housingwire.com/articles/will-steep-increases-in-health-insurance-premiums-threaten-u-s-homebuying/",
         "what": "Looming health insurance cost increases could directly threaten homebuying prospects and keep many current homeowners from staying afloat.",
@@ -273,15 +282,6 @@
         "what": "Ross Perot Jr.'s Hillwood anchors AREC's debt fund, offering private builders new financing amid harder-to-secure AD&C loans.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/hillwood-backs-new-homebuilding-fund-as-adc-credit-tightens/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Local governments turn to AI to streamline housing development",
-        "url": "https://www.housingwire.com/articles/local-governments-turn-to-ai-to-streamline-housing-development/",
-        "what": "AI tools are helping cities and counties process housing permits more quickly, with automated reviews leading to faster feedback for developers and improved post-disaster response.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/local-governments-turn-to-ai-to-streamline-housing-development/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
