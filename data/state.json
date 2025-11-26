@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-26 21:29 UTC",
+  "as_of": "2025-11-26 22:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Toledo housing inventory jumps 46% as Midwest markets recalibrate",
+      "link": "https://www.housingwire.com/articles/toledo-housing-market/",
+      "published": "Wed, 26 Nov 2025"
+    },
+    {
+      "title": "Are mortgage buydowns a lifeline or a risk for new homebuyers?",
+      "link": "https://www.housingwire.com/articles/are-mortgage-buydowns-a-lifeline-or-a-risk-for-new-homebuyers/",
+      "published": "Wed, 26 Nov 2025"
+    },
+    {
+      "title": "Pine Bluff’s low prices are not speeding up home sales",
+      "link": "https://www.housingwire.com/articles/pine-bluff-home-prices/",
+      "published": "Wed, 26 Nov 2025"
+    },
+    {
       "title": "Connecticut governor signs bill to tackle affordable housing shortage",
       "link": "https://www.housingwire.com/articles/connecticut-housing-bill/",
       "published": "Wed, 26 Nov 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Center for American Progress offers blueprint to reduce housing costs",
       "link": "https://www.housingwire.com/articles/cap-housing-costs-plan/",
-      "published": "Wed, 26 Nov 2025"
-    },
-    {
-      "title": "Note to self: sell the lifestyle, not just the house, to boost sales",
-      "link": "https://www.housingwire.com/articles/selling-lifestyle-design-homes/",
-      "published": "Wed, 26 Nov 2025"
-    },
-    {
-      "title": "Voters reject housing reform in Colorado suburbs and resorts",
-      "link": "https://www.housingwire.com/articles/housing-reform-setbacks/",
-      "published": "Wed, 26 Nov 2025"
-    },
-    {
-      "title": "Jason Mitchell Group surpasses 1,300 agents, 36% increase in agent count",
-      "link": "https://www.housingwire.com/articles/jason-mitchell-group-agent-growth/",
       "published": "Wed, 26 Nov 2025"
     },
     {
@@ -232,6 +232,33 @@
     ],
     "housing": [
       {
+        "title": "Toledo housing inventory jumps 46% as Midwest markets recalibrate",
+        "url": "https://www.housingwire.com/articles/toledo-housing-market/",
+        "what": "Toledo’s housing market saw 46% more listings, 38.3% price reductions, and an 11.8% rise in weekly absorption compared to last year.",
+        "numbers": "46, 38.3, 11.8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/toledo-housing-market/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Are mortgage buydowns a lifeline or a risk for new homebuyers?",
+        "url": "https://www.housingwire.com/articles/are-mortgage-buydowns-a-lifeline-or-a-risk-for-new-homebuyers/",
+        "what": "Large builders’ mortgage buydowns make new homes more accessible but may artificially inflate prices",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/are-mortgage-buydowns-a-lifeline-or-a-risk-for-new-homebuyers/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Pine Bluff’s low prices are not speeding up home sales",
+        "url": "https://www.housingwire.com/articles/pine-bluff-home-prices/",
+        "what": "Pine Bluff homes remain unsold for 91 days, with 34.4% of listings cutting prices and inventory at 4.2 months.",
+        "numbers": "91, 34.4, 4.2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pine-bluff-home-prices/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Connecticut governor signs bill to tackle affordable housing shortage",
         "url": "https://www.housingwire.com/articles/connecticut-housing-bill/",
         "what": "Connecticut's new housing bill aims to address the affordable housing shortage, but faces criticism for limiting local control.",
@@ -268,15 +295,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Turkey Day treat: Purchase mortgage applications reach a 2025 peak",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-6-percent-demand/",
-        "what": "Today marked one of the best purchase loan reports we've seen in years",
-        "numbers": "20, 8",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-6-percent-demand/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Typical Retail Worker Earns $37,000 Less Than Needed to Afford Typical Apartment",
         "url": "https://www.redfin.com/news/retail-worker-rental-affordability-2025/",
         "what": "The typical retail worker earns $34,000 per year, or 52% less than they would need to afford the typical apartment",
@@ -302,15 +320,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/delistings-jump-sellers-pull-homes-off-market/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Say hello to our October Newfins!",
-        "url": "https://www.redfin.com/news/october-2025-agent-hires/",
-        "what": "With Thanksgiving around the corner, there’s a lot to be thankful for—including our growing team! Please join me in celebrating the agents who joined us in October and the fresh energy, talent and possibilities they bring this season",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/october-2025-agent-hires/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
@@ -329,24 +338,6 @@
         "what": "The upcoming 2.8% Social Security COLA increase in January may not cover rising costs for retirees, experts warn.",
         "numbers": "2.8",
         "justified": "housingwire.com — https://www.housingwire.com/articles/social-security-cola-increase-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "What real estate professionals need to know about agentic AI",
-        "url": "https://www.housingwire.com/articles/agentic-ai-real-estate-2025/",
-        "what": "Real estate agents increasingly rely on agentic AI for workflow automation, lead management and client communication in 2025.",
-        "numbers": "2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/agentic-ai-real-estate-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Benchmark Realty takes a stand for referral fee transparency",
-        "url": "https://www.housingwire.com/articles/benchmark-realty-referral-fee-disclosure/",
-        "what": "The Tennessee-based brokerage announced a new policy requiring all agents to make a written disclosure to clients regarding referral fees.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/benchmark-realty-referral-fee-disclosure/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
