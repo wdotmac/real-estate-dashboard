@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-11-26 20:32 UTC",
+  "as_of": "2025-11-26 21:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.04,
-      "delta_bp_1d": -1.9999999999999574
+      "yield_pct": 4.01,
+      "delta_bp_1d": -3.000000000000025
     },
     "mortgage_30y": {
       "rate_pct": 6.23,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Connecticut governor signs bill to tackle affordable housing shortage",
+      "link": "https://www.housingwire.com/articles/connecticut-housing-bill/",
+      "published": "Wed, 26 Nov 2025"
+    },
+    {
       "title": "High-end metros see price drops, longer selling times",
       "link": "https://www.housingwire.com/articles/high-end-metros-see-price-drops-longer-selling-times/",
       "published": "Wed, 26 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Jason Mitchell Group surpasses 1,300 agents, 36% increase in agent count",
       "link": "https://www.housingwire.com/articles/jason-mitchell-group-agent-growth/",
-      "published": "Wed, 26 Nov 2025"
-    },
-    {
-      "title": "Retirees face shortfalls despite 2026 Social Security COLA increase",
-      "link": "https://www.housingwire.com/articles/social-security-cola-increase-2026/",
       "published": "Wed, 26 Nov 2025"
     },
     {
@@ -232,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "Connecticut governor signs bill to tackle affordable housing shortage",
+        "url": "https://www.housingwire.com/articles/connecticut-housing-bill/",
+        "what": "Connecticut's new housing bill aims to address the affordable housing shortage, but faces criticism for limiting local control.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/connecticut-housing-bill/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "High-end metros see price drops, longer selling times",
         "url": "https://www.housingwire.com/articles/high-end-metros-see-price-drops-longer-selling-times/",
         "what": "Average home prices in these metros fell from $1.04 million to $1.01 million, a sharper correction than in the national housing market.",
@@ -266,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-6-percent-demand/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Global luxury real estate market sees Q3 slowdown, New York remains resilient",
-        "url": "https://www.housingwire.com/articles/global-luxury-housing-q3-2025/",
-        "what": "Global super-prime home sales dropped 21% in volume and 29% in value in Q3 2025, with New York and London showing divergent trends.",
-        "numbers": "21, 29, 3, 2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/global-luxury-housing-q3-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Typical Retail Worker Earns $37,000 Less Than Needed to Afford Typical Apartment",
