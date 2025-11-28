@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-11-28 15:32 UTC",
+  "as_of": "2025-11-28 16:39 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Bayview closes acquisition of Guild, taking lender private",
+      "link": "https://www.housingwire.com/articles/bayview-closes-acquisition-of-guild-taking-lender-private/",
+      "published": "Fri, 28 Nov 2025"
+    },
+    {
       "title": "Making the 7-day refi reality: Modernizing mortgage appraisals",
       "link": "https://www.housingwire.com/articles/making-the-7-day-refi-reality-modernizing-mortgage-appraisals/",
       "published": "Fri, 28 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Toledo housing inventory jumps 46% as Midwest markets recalibrate",
       "link": "https://www.housingwire.com/articles/toledo-housing-market/",
-      "published": "Wed, 26 Nov 2025"
-    },
-    {
-      "title": "Are mortgage buydowns a lifeline or a risk for new homebuyers?",
-      "link": "https://www.housingwire.com/articles/are-mortgage-buydowns-a-lifeline-or-a-risk-for-new-homebuyers/",
       "published": "Wed, 26 Nov 2025"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Center for American Progress offers blueprint to reduce housing costs",
-        "url": "https://www.housingwire.com/articles/cap-housing-costs-plan/",
-        "what": "CAP’s “Build, Baby, Build” proposal targets the U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cap-housing-costs-plan/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Rising Home Prices, Economic Volatility Curb Would-Be Buyers’ Appetites in Leadup to Thanksgiving",
         "url": "https://www.redfin.com/news/housing-market-update-rising-home-prices-curb-sales/",
         "what": "U.S",
@@ -231,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Bayview closes acquisition of Guild, taking lender private",
+        "url": "https://www.housingwire.com/articles/bayview-closes-acquisition-of-guild-taking-lender-private/",
+        "what": "Bayview Asset Management has closed its acquisition of Guild Holdings Company, the parent of Guild Mortgage, in a deal that takes the lender private and removes it from the New Yor",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bayview-closes-acquisition-of-guild-taking-lender-private/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Making the 7-day refi reality: Modernizing mortgage appraisals",
         "url": "https://www.housingwire.com/articles/making-the-7-day-refi-reality-modernizing-mortgage-appraisals/",
@@ -311,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/retail-worker-rental-affordability-2025/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "West Palm Beach Tops 10-Year Luxury Home Price Growth as Traditional Giants Like New York Lag Behind",
-        "url": "https://www.redfin.com/news/luxury-home-prices-decade/",
-        "what": "Luxury home sale prices in West Palm Beach, FL have jumped 187.3% to a median $4.04 million over the past decade—the fastest growth among major U.S",
-        "numbers": "187.3, $4.04 million, 8, 10, 2015.",
-        "justified": "redfin.com — https://www.redfin.com/news/luxury-home-prices-decade/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
