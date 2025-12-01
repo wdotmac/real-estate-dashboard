@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-01 04:19 UTC",
+  "as_of": "2025-12-01 05:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "eXp launches global property search platform",
+      "link": "https://www.housingwire.com/articles/exp-realty-lyvve-platform/",
+      "published": "Mon, 01 Dec 2025"
+    },
+    {
       "title": "December housing data provides early signals for 2026 market",
       "link": "https://www.housingwire.com/articles/december-housing-trends-2026/",
       "published": "Sat, 29 Nov 2025"
@@ -162,11 +167,6 @@
     {
       "title": "The new battlefront in lending: Payment intelligence, buyer retention, and the capital rails that will decide 2026 purchase winners",
       "link": "https://www.housingwire.com/articles/the-new-battlefront-in-lending-payment-intelligence-buyer-retention-and-the-capital-rails-that-will-decide-2026-purchase-winners/",
-      "published": "Thu, 27 Nov 2025"
-    },
-    {
-      "title": "What real estate can learn from LEGO’s reinvention",
-      "link": "https://www.housingwire.com/articles/what-real-estate-can-learn-from-legos-reinvention/",
       "published": "Thu, 27 Nov 2025"
     },
     {
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "eXp launches global property search platform",
+        "url": "https://www.housingwire.com/articles/exp-realty-lyvve-platform/",
+        "what": "eXp Realty debuts LYVVE, an international property search platform, connecting eXp listings and agents in nearly 30 countries.",
+        "numbers": "30",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-realty-lyvve-platform/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Bayview closes acquisition of Guild, taking lender private",
         "url": "https://www.housingwire.com/articles/bayview-closes-acquisition-of-guild-taking-lender-private/",
         "what": "Bayview Asset Management has closed its acquisition of Guild Holdings Company, the parent of Guild Mortgage, in a deal that takes the lender private and removes it from the New Yor",
@@ -293,15 +302,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/are-mortgage-buydowns-a-lifeline-or-a-risk-for-new-homebuyers/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Pine Bluff’s low prices are not speeding up home sales",
-        "url": "https://www.housingwire.com/articles/pine-bluff-home-prices/",
-        "what": "Pine Bluff homes remain unsold for 91 days, with 34.4% of listings cutting prices and inventory at 4.2 months.",
-        "numbers": "91, 34.4, 4.2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pine-bluff-home-prices/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "Typical Retail Worker Earns $37,000 Less Than Needed to Afford Typical Apartment",
