@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-01 17:40 UTC",
+  "as_of": "2025-12-01 18:50 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "MBA lays out proposed changes for federal reverse mortgage programs",
+      "link": "https://www.housingwire.com/articles/mba-reverse-mortgage-recommendations/",
+      "published": "Mon, 01 Dec 2025"
+    },
+    {
+      "title": "CMG promotes John-Robert Martinez to lead reverse business in the East",
+      "link": "https://www.housingwire.com/articles/john-martinez-cmg-financial-regional-manager/",
+      "published": "Mon, 01 Dec 2025"
+    },
+    {
+      "title": "Fathom Holdings sells LiveBy assets to Move Concierge for $3M",
+      "link": "https://www.housingwire.com/articles/fathom-holdings-sells-liveby-assets-to-move-concierge-for-3m/",
+      "published": "Mon, 01 Dec 2025"
+    },
+    {
+      "title": "Rising credit report costs may push mortgage industry toward upfront fees",
+      "link": "https://www.housingwire.com/articles/upfront-credit-report-fees-mortgage/",
+      "published": "Mon, 01 Dec 2025"
+    },
+    {
       "title": "What 2025 taught real estate agents, strategies for 2026 goal planning",
       "link": "https://www.housingwire.com/articles/real-estate-goals-2026/",
       "published": "Mon, 01 Dec 2025"
@@ -148,26 +168,6 @@
       "title": "Court merges lawsuits over Zillow, Redfin’s multifamily listing deal",
       "link": "https://www.housingwire.com/articles/zillow-redfin-antitrust-lawsuit/",
       "published": "Mon, 01 Dec 2025"
-    },
-    {
-      "title": "Chase offers Cyber Monday refinance rate discount",
-      "link": "https://www.housingwire.com/articles/chase-refinance-discount/",
-      "published": "Mon, 01 Dec 2025"
-    },
-    {
-      "title": "eXp launches global property search platform",
-      "link": "https://www.housingwire.com/articles/exp-realty-lyvve-platform/",
-      "published": "Mon, 01 Dec 2025"
-    },
-    {
-      "title": "December housing data provides early signals for 2026 market",
-      "link": "https://www.housingwire.com/articles/december-housing-trends-2026/",
-      "published": "Sat, 29 Nov 2025"
-    },
-    {
-      "title": "The originator’s playbook: Competing and growing in a shifting market",
-      "link": "https://www.housingwire.com/articles/the-originators-playbook-competing-and-growing-in-a-shifting-market/",
-      "published": "Sat, 29 Nov 2025"
     },
     {
       "title": "Redfin Economists’ Weekly Take: Mortgage Rates May Bounce Around Ahead of Fed Meeting",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "MBA lays out proposed changes for federal reverse mortgage programs",
+        "url": "https://www.housingwire.com/articles/mba-reverse-mortgage-recommendations/",
+        "what": "MBA proposes seven reforms for the HECM and HMBS programs, including new securitization options and changes to mortgage insurance premiums.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-reverse-mortgage-recommendations/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Redfin Economists’ Weekly Take: Mortgage Rates May Bounce Around Ahead of Fed Meeting",
         "url": "https://www.redfin.com/news/weekly-economics-update-december-1/",
@@ -250,6 +259,24 @@
     ],
     "housing": [
       {
+        "title": "CMG promotes John-Robert Martinez to lead reverse business in the East",
+        "url": "https://www.housingwire.com/articles/john-martinez-cmg-financial-regional-manager/",
+        "what": "John-Robert Martinez has been appointed as CMG Financial's regional manager for reverse mortgages in the eastern U.S.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/john-martinez-cmg-financial-regional-manager/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Rising credit report costs may push mortgage industry toward upfront fees",
+        "url": "https://www.housingwire.com/articles/upfront-credit-report-fees-mortgage/",
+        "what": "Mortgage originators are increasingly charging borrowers upfront for credit reports as costs rise, with prices expected to jump 50% in 2026.",
+        "numbers": "50, 2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/upfront-credit-report-fees-mortgage/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Court merges lawsuits over Zillow, Redfin’s multifamily listing deal",
         "url": "https://www.housingwire.com/articles/zillow-redfin-antitrust-lawsuit/",
         "what": "The FTC and five states have combined lawsuits alleging Zillow’s deal with Redfin restricts competition in multifamily rental listings",
@@ -275,33 +302,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/exp-realty-lyvve-platform/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Bayview closes acquisition of Guild, taking lender private",
-        "url": "https://www.housingwire.com/articles/bayview-closes-acquisition-of-guild-taking-lender-private/",
-        "what": "Bayview Asset Management has closed its acquisition of Guild Holdings Company, the parent of Guild Mortgage, in a deal that takes the lender private and removes it from the New Yor",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bayview-closes-acquisition-of-guild-taking-lender-private/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Making the 7-day refi reality: Modernizing mortgage appraisals",
-        "url": "https://www.housingwire.com/articles/making-the-7-day-refi-reality-modernizing-mortgage-appraisals/",
-        "what": "For many borrowers, the appraisal is the most stressful step in a refinance: part mystery, part high-stakes hurdle",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/making-the-7-day-refi-reality-modernizing-mortgage-appraisals/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The new battlefront in lending: Payment intelligence, buyer retention, and the capital rails that will decide 2026 purchase winners",
-        "url": "https://www.housingwire.com/articles/the-new-battlefront-in-lending-payment-intelligence-buyer-retention-and-the-capital-rails-that-will-decide-2026-purchase-winners/",
-        "what": "For the past decade, rate marketing has been the dominant gravitational force in mortgage acquisition",
-        "numbers": "30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-new-battlefront-in-lending-payment-intelligence-buyer-retention-and-the-capital-rails-that-will-decide-2026-purchase-winners/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Typical Retail Worker Earns $37,000 Less Than Needed to Afford Typical Apartment",
@@ -333,6 +333,15 @@
     ],
     "notables": [
       {
+        "title": "Fathom Holdings sells LiveBy assets to Move Concierge for $3M",
+        "url": "https://www.housingwire.com/articles/fathom-holdings-sells-liveby-assets-to-move-concierge-for-3m/",
+        "what": "Fathom will retain access to the LiveBy platform for five years while Move Concierge extends its services to all Fathom agents.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fathom-holdings-sells-liveby-assets-to-move-concierge-for-3m/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "What 2025 taught real estate agents, strategies for 2026 goal planning",
         "url": "https://www.housingwire.com/articles/real-estate-goals-2026/",
         "what": "Real estate agents who analyze 2025 client trends, marketing ROI, and referral patterns can create more effective 2026 business strategies.",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-goals-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "What real estate can learn from LEGO’s reinvention",
-        "url": "https://www.housingwire.com/articles/what-real-estate-can-learn-from-legos-reinvention/",
-        "what": "Just in time for the holidays, Troy Palmquist looks at how this legacy manufacturer bounced back from a market downturn and how agents can, too A few weeks ago, on a podcast, I was asked which brands I admire most",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/what-real-estate-can-learn-from-legos-reinvention/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
