@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-01 14:39 UTC",
+  "as_of": "2025-12-01 15:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Court merges lawsuits over Zillow, Redfin’s multifamily listing deal",
+      "link": "https://www.housingwire.com/articles/zillow-redfin-antitrust-lawsuit/",
+      "published": "Mon, 01 Dec 2025"
+    },
+    {
       "title": "Chase offers Cyber Monday refinance rate discount",
       "link": "https://www.housingwire.com/articles/chase-refinance-discount/",
       "published": "Mon, 01 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Bayview closes acquisition of Guild, taking lender private",
       "link": "https://www.housingwire.com/articles/bayview-closes-acquisition-of-guild-taking-lender-private/",
-      "published": "Fri, 28 Nov 2025"
-    },
-    {
-      "title": "Making the 7-day refi reality: Modernizing mortgage appraisals",
-      "link": "https://www.housingwire.com/articles/making-the-7-day-refi-reality-modernizing-mortgage-appraisals/",
       "published": "Fri, 28 Nov 2025"
     },
     {
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "Court merges lawsuits over Zillow, Redfin’s multifamily listing deal",
+        "url": "https://www.housingwire.com/articles/zillow-redfin-antitrust-lawsuit/",
+        "what": "The FTC and five states have combined lawsuits alleging Zillow’s deal with Redfin restricts competition in multifamily rental listings",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-redfin-antitrust-lawsuit/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Chase offers Cyber Monday refinance rate discount",
         "url": "https://www.housingwire.com/articles/chase-refinance-discount/",
         "what": "Chase Home Lending announced a limited-time rate discount for refinance mortgages that's available until Dec",
@@ -293,15 +302,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/lubbock-housing-market/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Toledo housing inventory jumps 46% as Midwest markets recalibrate",
-        "url": "https://www.housingwire.com/articles/toledo-housing-market/",
-        "what": "Toledo’s housing market saw 46% more listings, 38.3% price reductions, and an 11.8% rise in weekly absorption compared to last year.",
-        "numbers": "46, 38.3, 11.8",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/toledo-housing-market/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Typical Retail Worker Earns $37,000 Less Than Needed to Afford Typical Apartment",
