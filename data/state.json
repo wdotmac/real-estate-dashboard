@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-01 16:45 UTC",
+  "as_of": "2025-12-01 17:40 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "What 2025 taught real estate agents, strategies for 2026 goal planning",
+      "link": "https://www.housingwire.com/articles/real-estate-goals-2026/",
+      "published": "Mon, 01 Dec 2025"
+    },
+    {
       "title": "Court merges lawsuits over Zillow, Redfin’s multifamily listing deal",
       "link": "https://www.housingwire.com/articles/zillow-redfin-antitrust-lawsuit/",
       "published": "Mon, 01 Dec 2025"
@@ -165,9 +170,9 @@
       "published": "Sat, 29 Nov 2025"
     },
     {
-      "title": "Bayview closes acquisition of Guild, taking lender private",
-      "link": "https://www.housingwire.com/articles/bayview-closes-acquisition-of-guild-taking-lender-private/",
-      "published": "Fri, 28 Nov 2025"
+      "title": "Redfin Economists’ Weekly Take: Mortgage Rates May Bounce Around Ahead of Fed Meeting",
+      "link": "https://www.redfin.com/news/weekly-economics-update-december-1/",
+      "published": "Mon, 01 Dec 2025"
     },
     {
       "title": "Rising Home Prices, Economic Volatility Curb Would-Be Buyers’ Appetites in Leadup to Thanksgiving",
@@ -193,15 +198,19 @@
       "title": "Redfin Economists’ Weekly Take: Odds Firm for December Rate Cut Despite Limited Data",
       "link": "https://www.redfin.com/news/weekly-economics-update-november-24/",
       "published": "Tue, 25 Nov 2025"
-    },
-    {
-      "title": "Say hello to our October Newfins!",
-      "link": "https://www.redfin.com/news/october-2025-agent-hires/",
-      "published": "Mon, 24 Nov 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Redfin Economists’ Weekly Take: Mortgage Rates May Bounce Around Ahead of Fed Meeting",
+        "url": "https://www.redfin.com/news/weekly-economics-update-december-1/",
+        "what": "This Week In A Nutshell Rates fell last week as financial markets increasingly priced in a rate cut at next Wednesday’s Fed meeting, but an absence of recent jobs and inflation data makes this one particularly difficult to predict",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/weekly-economics-update-december-1/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "December housing data provides early signals for 2026 market",
         "url": "https://www.housingwire.com/articles/december-housing-trends-2026/",
@@ -295,15 +304,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Lubbock inventory climbs to 8.1 months, marking Texas’s deepest buyer market",
-        "url": "https://www.housingwire.com/articles/lubbock-housing-market/",
-        "what": "Lubbock housing market leads Texas in buyer market conditions as inventory climbs to 8.1 months and demand slows.",
-        "numbers": "8.1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lubbock-housing-market/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "Typical Retail Worker Earns $37,000 Less Than Needed to Afford Typical Apartment",
         "url": "https://www.redfin.com/news/retail-worker-rental-affordability-2025/",
         "what": "The typical retail worker earns $34,000 per year, or 52% less than they would need to afford the typical apartment",
@@ -332,6 +332,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "What 2025 taught real estate agents, strategies for 2026 goal planning",
+        "url": "https://www.housingwire.com/articles/real-estate-goals-2026/",
+        "what": "Real estate agents who analyze 2025 client trends, marketing ROI, and referral patterns can create more effective 2026 business strategies.",
+        "numbers": "2025, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-goals-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "What real estate can learn from LEGO’s reinvention",
         "url": "https://www.housingwire.com/articles/what-real-estate-can-learn-from-legos-reinvention/",
