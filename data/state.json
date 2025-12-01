@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-01 21:27 UTC",
+  "as_of": "2025-12-01 22:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "California infill builder turns idle lots into housing in land-constrained coastal markets",
+      "link": "https://www.housingwire.com/articles/california-infill-builder-turns-idle-lots-into-housing-in-land-constrained-coastal-markets/",
+      "published": "Mon, 01 Dec 2025"
+    },
+    {
       "title": "Connecticut rolls back zoning limits to target housing shortage",
       "link": "https://www.housingwire.com/articles/connecticut-zoning-reform/",
       "published": "Mon, 01 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "CMG promotes John-Robert Martinez to lead reverse business in the East",
       "link": "https://www.housingwire.com/articles/john-martinez-cmg-financial-regional-manager/",
-      "published": "Mon, 01 Dec 2025"
-    },
-    {
-      "title": "Fathom Holdings sells LiveBy assets to Move Concierge for $3M",
-      "link": "https://www.housingwire.com/articles/fathom-holdings-sells-liveby-assets-to-move-concierge-for-3m/",
       "published": "Mon, 01 Dec 2025"
     },
     {
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "California infill builder turns idle lots into housing in land-constrained coastal markets",
+        "url": "https://www.housingwire.com/articles/california-infill-builder-turns-idle-lots-into-housing-in-land-constrained-coastal-markets/",
+        "what": "City Ventures redevelops underused land in coastal California, adding new homes in markets with severe land constraints and housing shortages.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/california-infill-builder-turns-idle-lots-into-housing-in-land-constrained-coastal-markets/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Connecticut rolls back zoning limits to target housing shortage",
         "url": "https://www.housingwire.com/articles/connecticut-zoning-reform/",
         "what": "Connecticut’s zoning reform enables more housing, restricts algorithmic rents, and incentivizes towns to adopt growth plans.",
@@ -275,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-redfin-antitrust-lawsuit/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Chase offers Cyber Monday refinance rate discount",
-        "url": "https://www.housingwire.com/articles/chase-refinance-discount/",
-        "what": "Chase Home Lending announced a limited-time rate discount for refinance mortgages that's available until Dec",
-        "numbers": "14.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/chase-refinance-discount/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Typical Retail Worker Earns $37,000 Less Than Needed to Afford Typical Apartment",
