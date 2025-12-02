@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-02 17:37 UTC",
+  "as_of": "2025-12-02 18:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage rates expected to hold firm even with another Fed cut on the horizon",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-fed-cut/",
+      "published": "Tue, 02 Dec 2025"
+    },
+    {
+      "title": "Polunsky Beitel Green names Prasad Kodibagkar as CTO",
+      "link": "https://www.housingwire.com/articles/prasad-kodibagkar-joins-pbg-cto/",
+      "published": "Tue, 02 Dec 2025"
+    },
+    {
+      "title": "FHFA, FICO reach agreement to release historical FICO Score 10T data",
+      "link": "https://www.housingwire.com/articles/fhfa-fico-agreement/",
+      "published": "Tue, 02 Dec 2025"
+    },
+    {
       "title": "Rithm crosses $102B in investable assets with Crestline acquisition",
       "link": "https://www.housingwire.com/articles/rithm-capital-crestline-acquisition/",
       "published": "Tue, 02 Dec 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Idaho cancels MV Realty’s 40-year listing contracts, bans firm for five years",
       "link": "https://www.housingwire.com/articles/idaho-mv-realty-settlement/",
-      "published": "Tue, 02 Dec 2025"
-    },
-    {
-      "title": "Absolute Home Mortgage acquires assets of Fidelity Direct Mortgage",
-      "link": "https://www.housingwire.com/articles/absolute-home-mortgage-acquisition/",
-      "published": "Tue, 02 Dec 2025"
-    },
-    {
-      "title": "Rechat adds Follow Up Boss integration",
-      "link": "https://www.housingwire.com/articles/rechat-adds-follow-up-boss-integration/",
-      "published": "Tue, 02 Dec 2025"
-    },
-    {
-      "title": "Stop marketing like it’s 2008: You’re invisible",
-      "link": "https://www.housingwire.com/articles/stop-marketing-like-its-2008-youre-invisible/",
       "published": "Tue, 02 Dec 2025"
     },
     {
@@ -203,6 +203,24 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Mortgage rates expected to hold firm even with another Fed cut on the horizon",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-fed-cut/",
+        "what": "Mortgage rates remain near 6% as the Fed is expected to cut rates by 25 bps, with experts predicting minimal impact on home loans.",
+        "numbers": "6, 25",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-fed-cut/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "FHFA, FICO reach agreement to release historical FICO Score 10T data",
+        "url": "https://www.housingwire.com/articles/fhfa-fico-agreement/",
+        "what": "The FHFA and FICO have reached an agreement on the terms and conditions for the release of historical FICO Score 10T data.",
+        "numbers": "10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-fico-agreement/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Redfin Economists’ Weekly Take: Mortgage Rates May Bounce Around Ahead of Fed Meeting",
         "url": "https://www.redfin.com/news/weekly-economics-update-december-1/",
         "what": "This Week In A Nutshell Rates fell last week as financial markets increasingly priced in a rate cut at next Wednesday’s Fed meeting, but an absence of recent jobs and inflation data makes this one particularly difficult to predict",
@@ -222,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Polunsky Beitel Green names Prasad Kodibagkar as CTO",
+        "url": "https://www.housingwire.com/articles/prasad-kodibagkar-joins-pbg-cto/",
+        "what": "Polunsky Beitel Green appoints Prasad Kodibagkar as CTO to enhance AI, automation, and data strategies in mortgage lending.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/prasad-kodibagkar-joins-pbg-cto/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Rithm crosses $102B in investable assets with Crestline acquisition",
         "url": "https://www.housingwire.com/articles/rithm-capital-crestline-acquisition/",
@@ -257,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/california-infill-builder-turns-idle-lots-into-housing-in-land-constrained-coastal-markets/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Connecticut rolls back zoning limits to target housing shortage",
-        "url": "https://www.housingwire.com/articles/connecticut-zoning-reform/",
-        "what": "Connecticut’s zoning reform enables more housing, restricts algorithmic rents, and incentivizes towns to adopt growth plans.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/connecticut-zoning-reform/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "Typical Retail Worker Earns $37,000 Less Than Needed to Afford Typical Apartment",
@@ -311,24 +329,6 @@
         "what": "Not because the tactics are old",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/stop-marketing-like-its-2008-youre-invisible/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "eXp’s new framework signals a shift: Transparency isn’t optional anymore",
-        "url": "https://www.housingwire.com/articles/exp-realty-new-disclosure-forms/",
-        "what": "eXp Realty’s new forms mandate referral fee disclosure and highlight consumer choice for ancillary services in every deal.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-realty-new-disclosure-forms/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Kriss Law/Atlantic Closing & Escrow expands New England footprint with merger",
-        "url": "https://www.housingwire.com/articles/kriss-law-atlantic-closing-escrow-expands-new-england-footprint-with-merger/",
-        "what": "Kriss Law/Atlantic Closing & Escrow has merged with DaMore Law and its Vermont division, Green Mountain Lawyers.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kriss-law-atlantic-closing-escrow-expands-new-england-footprint-with-merger/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
