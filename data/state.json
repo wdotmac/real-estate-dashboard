@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-02 21:30 UTC",
+  "as_of": "2025-12-02 22:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Homebuilders turn to digital pre-sales to drive buyer confidence",
+      "link": "https://www.housingwire.com/articles/homebuilders-turn-to-digital-pre-sales-to-drive-buyer-confidence/",
+      "published": "Tue, 02 Dec 2025"
+    },
+    {
       "title": "Real estate veteran Steve Simonetti opens REMAX NEXUS",
       "link": "https://www.housingwire.com/articles/steve-simonetti-remax-franchise/",
       "published": "Tue, 02 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Nevada lawmakers kill bill to limit corporate home buys for rentals",
       "link": "https://www.housingwire.com/articles/nevada-corporate-homebuying-cap/",
-      "published": "Tue, 02 Dec 2025"
-    },
-    {
-      "title": "MetroList, Calaveras County Association of Realtors partner",
-      "link": "https://www.housingwire.com/articles/metrolist-ccar-partnership/",
       "published": "Tue, 02 Dec 2025"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "FHFA, FICO reach agreement to release historical FICO Score 10T data",
-        "url": "https://www.housingwire.com/articles/fhfa-fico-agreement/",
-        "what": "The FHFA and FICO have reached an agreement on the terms and conditions for the release of historical FICO Score 10T data.",
-        "numbers": "10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-fico-agreement/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Mortgage Rates May Bounce Around Ahead of Fed Meeting",
         "url": "https://www.redfin.com/news/weekly-economics-update-december-1/",
         "what": "This Week In A Nutshell Rates fell last week as financial markets increasingly priced in a rate cut at next Wednesday’s Fed meeting, but an absence of recent jobs and inflation data makes this one particularly difficult to predict",
@@ -240,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Homebuilders turn to digital pre-sales to drive buyer confidence",
+        "url": "https://www.housingwire.com/articles/homebuilders-turn-to-digital-pre-sales-to-drive-buyer-confidence/",
+        "what": "Homebuilders use digital pre-sales to increase buyer confidence, improve operational accuracy, and adapt to shifting market demands in 2026.",
+        "numbers": "2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilders-turn-to-digital-pre-sales-to-drive-buyer-confidence/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "Greystar to pay $24M, end hidden fee practices under FTC, Colorado settlement",
         "url": "https://www.housingwire.com/articles/greystar-ftc-colorado-settlement/",
