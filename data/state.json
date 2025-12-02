@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-02 16:46 UTC",
+  "as_of": "2025-12-02 17:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Rithm crosses $102B in investable assets with Crestline acquisition",
+      "link": "https://www.housingwire.com/articles/rithm-capital-crestline-acquisition/",
+      "published": "Tue, 02 Dec 2025"
+    },
+    {
+      "title": "Refinance deals carry higher risk of title fraud and forgery",
+      "link": "https://www.housingwire.com/articles/refinance-title-insurance-risks/",
+      "published": "Tue, 02 Dec 2025"
+    },
+    {
       "title": "Idaho cancels MV Realty’s 40-year listing contracts, bans firm for five years",
       "link": "https://www.housingwire.com/articles/idaho-mv-realty-settlement/",
       "published": "Tue, 02 Dec 2025"
@@ -158,16 +168,6 @@
       "title": "Stop marketing like it’s 2008: You’re invisible",
       "link": "https://www.housingwire.com/articles/stop-marketing-like-its-2008-youre-invisible/",
       "published": "Tue, 02 Dec 2025"
-    },
-    {
-      "title": "California infill builder turns idle lots into housing in land-constrained coastal markets",
-      "link": "https://www.housingwire.com/articles/california-infill-builder-turns-idle-lots-into-housing-in-land-constrained-coastal-markets/",
-      "published": "Mon, 01 Dec 2025"
-    },
-    {
-      "title": "Connecticut rolls back zoning limits to target housing shortage",
-      "link": "https://www.housingwire.com/articles/connecticut-zoning-reform/",
-      "published": "Mon, 01 Dec 2025"
     },
     {
       "title": "Redfin’s 2026 Predictions: Welcome to The Great Housing Reset",
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "MBA lays out proposed changes for federal reverse mortgage programs",
-        "url": "https://www.housingwire.com/articles/mba-reverse-mortgage-recommendations/",
-        "what": "MBA proposes seven reforms for the HECM and HMBS programs, including new securitization options and changes to mortgage insurance premiums.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-reverse-mortgage-recommendations/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Mortgage Rates May Bounce Around Ahead of Fed Meeting",
         "url": "https://www.redfin.com/news/weekly-economics-update-december-1/",
         "what": "This Week In A Nutshell Rates fell last week as financial markets increasingly priced in a rate cut at next Wednesday’s Fed meeting, but an absence of recent jobs and inflation data makes this one particularly difficult to predict",
@@ -231,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Rithm crosses $102B in investable assets with Crestline acquisition",
+        "url": "https://www.housingwire.com/articles/rithm-capital-crestline-acquisition/",
+        "what": "Rithm Capital Corp., the parent of multichannel lender Newrez, completed its acquisition of Crestline Management on Monday, pushing its investable assets past $102 billion.",
+        "numbers": "$102 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rithm-capital-crestline-acquisition/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
       {
         "title": "Absolute Home Mortgage acquires assets of Fidelity Direct Mortgage",
         "url": "https://www.housingwire.com/articles/absolute-home-mortgage-acquisition/",
@@ -268,15 +268,6 @@
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
-        "title": "CMG promotes John-Robert Martinez to lead reverse business in the East",
-        "url": "https://www.housingwire.com/articles/john-martinez-cmg-financial-regional-manager/",
-        "what": "John-Robert Martinez has been appointed as CMG Financial's regional manager for reverse mortgages in the eastern U.S.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/john-martinez-cmg-financial-regional-manager/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Typical Retail Worker Earns $37,000 Less Than Needed to Afford Typical Apartment",
         "url": "https://www.redfin.com/news/retail-worker-rental-affordability-2025/",
         "what": "The typical retail worker earns $34,000 per year, or 52% less than they would need to afford the typical apartment",
@@ -287,6 +278,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Refinance deals carry higher risk of title fraud and forgery",
+        "url": "https://www.housingwire.com/articles/refinance-title-insurance-risks/",
+        "what": "Refinance transactions pose greater title risks due to fraud and forgery, with claims often undetected by public records.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/refinance-title-insurance-risks/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Idaho cancels MV Realty’s 40-year listing contracts, bans firm for five years",
         "url": "https://www.housingwire.com/articles/idaho-mv-realty-settlement/",
