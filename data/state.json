@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-02 11:30 UTC",
+  "as_of": "2025-12-02 13:05 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Mon, 01 Dec 2025"
     },
     {
+      "title": "Redfin’s 2026 Predictions: Welcome to The Great Housing Reset",
+      "link": "https://www.redfin.com/news/housing-market-predictions-2026/",
+      "published": "Tue, 02 Dec 2025"
+    },
+    {
       "title": "Redfin Economists’ Weekly Take: Mortgage Rates May Bounce Around Ahead of Fed Meeting",
       "link": "https://www.redfin.com/news/weekly-economics-update-december-1/",
       "published": "Mon, 01 Dec 2025"
@@ -192,11 +197,6 @@
     {
       "title": "Delistings Jump 28% as Sellers Pull Homes Off Market Rather Than Settle For Low Prices",
       "link": "https://www.redfin.com/news/delistings-jump-sellers-pull-homes-off-market/",
-      "published": "Tue, 25 Nov 2025"
-    },
-    {
-      "title": "Redfin Economists’ Weekly Take: Odds Firm for December Rate Cut Despite Limited Data",
-      "link": "https://www.redfin.com/news/weekly-economics-update-november-24/",
       "published": "Tue, 25 Nov 2025"
     }
   ],
@@ -231,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Redfin’s 2026 Predictions: Welcome to The Great Housing Reset",
+        "url": "https://www.redfin.com/news/housing-market-predictions-2026/",
+        "what": "U.S",
+        "numbers": "2026,, 2026., 2026",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-predictions-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "California infill builder turns idle lots into housing in land-constrained coastal markets",
         "url": "https://www.housingwire.com/articles/california-infill-builder-turns-idle-lots-into-housing-in-land-constrained-coastal-markets/",
@@ -282,15 +291,6 @@
         "what": "Luxury home sale prices in West Palm Beach, FL have jumped 187.3% to a median $4.04 million over the past decade—the fastest growth among major U.S",
         "numbers": "187.3, $4.04 million, 8, 10, 2015.",
         "justified": "redfin.com — https://www.redfin.com/news/luxury-home-prices-decade/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Delistings Jump 28% as Sellers Pull Homes Off Market Rather Than Settle For Low Prices",
-        "url": "https://www.redfin.com/news/delistings-jump-sellers-pull-homes-off-market/",
-        "what": "The number of home listings that were pulled off the market rose to a historically high level in September",
-        "numbers": "5.5, 28",
-        "justified": "redfin.com — https://www.redfin.com/news/delistings-jump-sellers-pull-homes-off-market/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
