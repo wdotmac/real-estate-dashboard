@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-03 21:28 UTC",
+  "as_of": "2025-12-03 22:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Luxury home sellers offering more creative concessions",
+      "link": "https://www.housingwire.com/articles/luxury-home-sellers-offering-more-creative-concessions/",
+      "published": "Wed, 03 Dec 2025"
+    },
+    {
+      "title": "Louisiana again tops the chart for outbound moves",
+      "link": "https://www.housingwire.com/articles/atlas-van-lines-2025-migration/",
+      "published": "Wed, 03 Dec 2025"
+    },
+    {
+      "title": "Fannie Mae, Freddie Mac limit public housing data releases",
+      "link": "https://www.housingwire.com/articles/fannie-mae-freddie-mac-housing-market-data/",
+      "published": "Wed, 03 Dec 2025"
+    },
+    {
+      "title": "Redfin defends climate risk transparency after Zillow removes data",
+      "link": "https://www.housingwire.com/articles/redfin-climate-risk-transparency/",
+      "published": "Wed, 03 Dec 2025"
+    },
+    {
       "title": "Housing affordability dominates California gubernatorial race",
       "link": "https://www.housingwire.com/articles/california-housing-affordability/",
       "published": "Wed, 03 Dec 2025"
@@ -147,26 +167,6 @@
     {
       "title": "Senate Democrats warn CFPB shutdown could disrupt prime interest rates",
       "link": "https://www.housingwire.com/articles/cfpb-apor-disruption/",
-      "published": "Wed, 03 Dec 2025"
-    },
-    {
-      "title": "Former CFPB Director Rohit Chopra lands new consumer watchdog role",
-      "link": "https://www.housingwire.com/articles/rohit-chopra-joins-pslc/",
-      "published": "Wed, 03 Dec 2025"
-    },
-    {
-      "title": "Bright MLS projects 2026 as reset year, not a rebound",
-      "link": "https://www.housingwire.com/articles/bright-mls-projects-2026-as-reset-year-not-a-rebound/",
-      "published": "Wed, 03 Dec 2025"
-    },
-    {
-      "title": "Pennymac TPO offers temporary relief on credit report fees",
-      "link": "https://www.housingwire.com/articles/pennymac-tpo-credit-report-fee-waiver/",
-      "published": "Wed, 03 Dec 2025"
-    },
-    {
-      "title": "The trust gap: why agents lose listings early — and how to fix it",
-      "link": "https://www.housingwire.com/articles/real-estate-client-trust/",
       "published": "Wed, 03 Dec 2025"
     },
     {
@@ -232,6 +232,33 @@
     ],
     "housing": [
       {
+        "title": "Louisiana again tops the chart for outbound moves",
+        "url": "https://www.housingwire.com/articles/atlas-van-lines-2025-migration/",
+        "what": "Atlas Van Lines’ 2025 migration study shows US mobility remains low due to high housing costs, with Arkansas and Idaho leading inbound moves.",
+        "numbers": "2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/atlas-van-lines-2025-migration/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Fannie Mae, Freddie Mac limit public housing data releases",
+        "url": "https://www.housingwire.com/articles/fannie-mae-freddie-mac-housing-market-data/",
+        "what": "Fannie Mae and Freddie Mac have stopped publishing key housing surveys and forecasts, raising transparency concerns for the mortgage market.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-mae-freddie-mac-housing-market-data/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Redfin defends climate risk transparency after Zillow removes data",
+        "url": "https://www.housingwire.com/articles/redfin-climate-risk-transparency/",
+        "what": "Redfin will continue to display First Street climate risk data on listings, citing buyer value and transparency concerns.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/redfin-climate-risk-transparency/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Housing affordability dominates California gubernatorial race",
         "url": "https://www.housingwire.com/articles/california-housing-affordability/",
         "what": "California has made significant efforts to address housing affordability through numerous new laws under Gov",
@@ -259,33 +286,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Mat Ishbia predicts 2026 housing market surge",
-        "url": "https://www.housingwire.com/articles/housing-market-growth-2026/",
-        "what": "UWM's Mat Ishbia forecasts a strong 2026 housing market in his December 2025 3 Points video, highlighting potential new mortgage products.",
-        "numbers": "2026, 2025, 3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-growth-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NAR 2024 balance sheet shows revenue growth, higher public policy spending",
-        "url": "https://www.housingwire.com/articles/nar-form-990-2024/",
-        "what": "NAR’s 2024 Form 990 reveals $360 million revenue, $48 million in public policy spending, and $2.5 million paid to CEO Nykia Wright.",
-        "numbers": "2024, 990, $360 million, $48 million, $2.5 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-form-990-2024/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "RMBS performance to hold in 2026, but cracks are forming",
-        "url": "https://www.housingwire.com/articles/moodys-rmbs-outlook-2026/",
-        "what": "Moody’s Ratings analysts expect the performance of collateral in residential mortgage-backed securities (RMBS) to remain largely solid in 2026, although some deterioration is antic",
-        "numbers": "2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/moodys-rmbs-outlook-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin’s 2026 Predictions: Welcome to The Great Housing Reset",
         "url": "https://www.redfin.com/news/housing-market-predictions-2026/",
         "what": "U.S",
@@ -296,6 +296,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Luxury home sellers offering more creative concessions",
+        "url": "https://www.housingwire.com/articles/luxury-home-sellers-offering-more-creative-concessions/",
+        "what": "A survey of The Agency brokers saw more than 60% reporting to have seen more concessions this year compared to 2024.",
+        "numbers": "60, 2024.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/luxury-home-sellers-offering-more-creative-concessions/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Former CFPB Director Rohit Chopra lands new consumer watchdog role",
         "url": "https://www.housingwire.com/articles/rohit-chopra-joins-pslc/",
@@ -311,15 +320,6 @@
         "what": "Pennymac TPO is waiving a $99 credit report fee charged at closing for loans submitted through its POWER+ portal in December, the lender announced Wednesday.",
         "numbers": "$99",
         "justified": "housingwire.com — https://www.housingwire.com/articles/pennymac-tpo-credit-report-fee-waiver/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Trump considers Australian-modeled retirement plan",
-        "url": "https://www.housingwire.com/articles/trump-retirement-savings-program/",
-        "what": "The Trump administration is exploring a retirement program inspired by Australia's superannuation system as Social Security faces strain.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-retirement-savings-program/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
