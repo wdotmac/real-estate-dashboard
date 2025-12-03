@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-03 11:30 UTC",
+  "as_of": "2025-12-03 13:05 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Tue, 02 Dec 2025"
     },
     {
+      "title": "15% of Home Purchases Fell Through in October, Up Slightly From a Year Earlier",
+      "link": "https://www.redfin.com/news/home-purchase-cancellations-october-2025/",
+      "published": "Wed, 03 Dec 2025"
+    },
+    {
       "title": "Redfin’s 2026 Predictions: Welcome to The Great Housing Reset",
       "link": "https://www.redfin.com/news/housing-market-predictions-2026/",
       "published": "Tue, 02 Dec 2025"
@@ -193,15 +198,19 @@
       "title": "West Palm Beach Tops 10-Year Luxury Home Price Growth as Traditional Giants Like New York Lag Behind",
       "link": "https://www.redfin.com/news/luxury-home-prices-decade/",
       "published": "Tue, 25 Nov 2025"
-    },
-    {
-      "title": "Delistings Jump 28% as Sellers Pull Homes Off Market Rather Than Settle For Low Prices",
-      "link": "https://www.redfin.com/news/delistings-jump-sellers-pull-homes-off-market/",
-      "published": "Tue, 25 Nov 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "15% of Home Purchases Fell Through in October, Up Slightly From a Year Earlier",
+        "url": "https://www.redfin.com/news/home-purchase-cancellations-october-2025/",
+        "what": "Homebuyers are getting cold feet due to high housing costs and economic uncertainty",
+        "numbers": "15",
+        "justified": "redfin.com — https://www.redfin.com/news/home-purchase-cancellations-october-2025/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Realtor.com predicts gradual housing market recovery in 2026",
         "url": "https://www.housingwire.com/articles/realtor-com-predicts-gradual-housing-market-recovery-in-2026/",
@@ -302,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-predictions-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Typical Retail Worker Earns $37,000 Less Than Needed to Afford Typical Apartment",
-        "url": "https://www.redfin.com/news/retail-worker-rental-affordability-2025/",
-        "what": "The typical retail worker earns $34,000 per year, or 52% less than they would need to afford the typical apartment",
-        "numbers": "$34,000, 52, 57, $37,000",
-        "justified": "redfin.com — https://www.redfin.com/news/retail-worker-rental-affordability-2025/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       }
     ],
     "notables": [
