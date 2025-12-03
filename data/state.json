@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-03 16:46 UTC",
+  "as_of": "2025-12-03 17:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "RMBS performance to hold in 2026, but cracks are forming",
+      "link": "https://www.housingwire.com/articles/moodys-rmbs-outlook-2026/",
+      "published": "Wed, 03 Dec 2025"
+    },
+    {
       "title": "Coalition challenges HUD on changes to homelessness program",
       "link": "https://www.housingwire.com/articles/coalition-challenges-hud-on-changes-to-homelessness-program/",
       "published": "Wed, 03 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "CoStar no longer opposes moving Zillow copyright suit to Seattle",
       "link": "https://www.housingwire.com/articles/zillow-copyright-case-transfer/",
-      "published": "Wed, 03 Dec 2025"
-    },
-    {
-      "title": "Mortgage apps, refi activity drop during holiday week",
-      "link": "https://www.housingwire.com/articles/mortgage-applications-decrease-1-4-percent/",
       "published": "Wed, 03 Dec 2025"
     },
     {
@@ -232,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "RMBS performance to hold in 2026, but cracks are forming",
+        "url": "https://www.housingwire.com/articles/moodys-rmbs-outlook-2026/",
+        "what": "Moody’s Ratings analysts expect the performance of collateral in residential mortgage-backed securities (RMBS) to remain largely solid in 2026, although some deterioration is antic",
+        "numbers": "2026,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/moodys-rmbs-outlook-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Coalition challenges HUD on changes to homelessness program",
         "url": "https://www.housingwire.com/articles/coalition-challenges-hud-on-changes-to-homelessness-program/",
         "what": "The group includes the National Low Income Housing Coalition and local governments of San Francisco, Boston and Nashville, Tenn.",
@@ -275,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilders-turn-to-digital-pre-sales-to-drive-buyer-confidence/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Greystar to pay $24M, end hidden fee practices under FTC, Colorado settlement",
-        "url": "https://www.housingwire.com/articles/greystar-ftc-colorado-settlement/",
-        "what": "Greystar is settling allegations that it misled renters by advertising low monthly prices while adding undisclosed mandatory fees.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/greystar-ftc-colorado-settlement/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "Redfin’s 2026 Predictions: Welcome to The Great Housing Reset",
