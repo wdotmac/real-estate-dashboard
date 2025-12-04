@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-04 21:31 UTC",
+  "as_of": "2025-12-04 22:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Zillow expects calmer 2026 housing market, improved affordability",
+      "link": "https://www.housingwire.com/articles/zillow-expects-calmer-2026-housing-market-improved-affordability/",
+      "published": "Thu, 04 Dec 2025"
+    },
+    {
       "title": "Has homeownership become a luxury good?",
       "link": "https://www.housingwire.com/articles/first-time-home-buyers-decline/",
       "published": "Thu, 04 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "PulteGroup forecasts longer-lasting home design trends for 2026",
       "link": "https://www.housingwire.com/articles/pultegroup-home-design-trends/",
-      "published": "Thu, 04 Dec 2025"
-    },
-    {
-      "title": "Kind Lending appoints Brett Stubbs as CFO",
-      "link": "https://www.housingwire.com/articles/kind-lending-cfo-brett-stubbs/",
       "published": "Thu, 04 Dec 2025"
     },
     {
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "Zillow expects calmer 2026 housing market, improved affordability",
+        "url": "https://www.housingwire.com/articles/zillow-expects-calmer-2026-housing-market-improved-affordability/",
+        "what": "Home values declined in half of the largest markets analyzed by Zillow in 2025, as of October",
+        "numbers": "2025,, 12, 2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-expects-calmer-2026-housing-market-improved-affordability/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Ohio housing markets tighten as inventory drops 24% below national average",
         "url": "https://www.housingwire.com/articles/ohio-home-prices-inventory/",
         "what": "Ohio’s median home price reached $279,000, up 5.3%, as active inventory rose 22.1% and price cuts hit 45.1% in November.",
@@ -282,15 +291,6 @@
         "what": "The transaction is the 28th issued by the company that involves its own collateral, and it's the 19th offering to be rated by Fitch Ratings using collateral originated and serviced",
         "numbers": "28, 19",
         "justified": "housingwire.com — https://www.housingwire.com/articles/ad-mortgage-opens-417m-non-qm-securitization-to-investors/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "George Morales elected to NRMLA board",
-        "url": "https://www.housingwire.com/articles/george-morales-nrmla-board/",
-        "what": "George Morales, national sales director at Mortgage Cadence, joins NRMLA's board to shape policy and drive reverse mortgage innovation.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/george-morales-nrmla-board/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
