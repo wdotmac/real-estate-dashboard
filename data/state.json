@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-04 22:33 UTC",
+  "as_of": "2025-12-04 23:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Inventory, affordability take center stage in House hearing",
+      "link": "https://www.housingwire.com/articles/housing-inventory-affordability-house-hearing/",
+      "published": "Thu, 04 Dec 2025"
+    },
+    {
       "title": "Zillow expects calmer 2026 housing market, improved affordability",
       "link": "https://www.housingwire.com/articles/zillow-expects-calmer-2026-housing-market-improved-affordability/",
       "published": "Thu, 04 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Tech100 2025 winners drive AI innovation in mortgage and real estate",
       "link": "https://www.housingwire.com/articles/tech100-mortgage-innovation/",
-      "published": "Thu, 04 Dec 2025"
-    },
-    {
-      "title": "PulteGroup forecasts longer-lasting home design trends for 2026",
-      "link": "https://www.housingwire.com/articles/pultegroup-home-design-trends/",
       "published": "Thu, 04 Dec 2025"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "FHFA’s Bill Pulte is being investigated after mortgage fraud referrals",
-        "url": "https://www.housingwire.com/articles/gao-fhfa-director-investigation/",
-        "what": "The Government Accountability Office (GAO) has launched an investigation to determine whether Federal Housing Finance Agency (FHFA) Director Bill Pulte misused his authority and re",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/gao-fhfa-director-investigation/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Inventory Growth Loses Steam As Would-Be Sellers React to Lackluster Homebuying Demand",
         "url": "https://www.redfin.com/news/housing-market-update-inventory-growth-loses-steam/",
         "what": "Even though mortgage rates have come down from their peak, housing costs are still too high for many would-be buyers",
@@ -240,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Inventory, affordability take center stage in House hearing",
+        "url": "https://www.housingwire.com/articles/housing-inventory-affordability-house-hearing/",
+        "what": "The hearing focused heavily on interpretations of Build America, Buy America (BABA) requirements and their impacts on affordable housing development.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-inventory-affordability-house-hearing/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Zillow expects calmer 2026 housing market, improved affordability",
         "url": "https://www.housingwire.com/articles/zillow-expects-calmer-2026-housing-market-improved-affordability/",
