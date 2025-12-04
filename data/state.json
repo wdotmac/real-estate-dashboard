@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-04 13:06 UTC",
+  "as_of": "2025-12-04 13:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Deephaven Mortgage launches Equity Advantage HELOC",
+      "link": "https://www.housingwire.com/articles/deephaven-mortgage-heloc/",
+      "published": "Thu, 04 Dec 2025"
+    },
+    {
+      "title": "Student loan debt is taking a bite out of renters’ credit scores",
+      "link": "https://www.housingwire.com/articles/student-loan-delinquencies-rental-market/",
+      "published": "Thu, 04 Dec 2025"
+    },
+    {
       "title": "Culture is not a perk. It is the new engine of mortgage growth",
       "link": "https://www.housingwire.com/articles/culture-is-not-a-perk-it-is-the-new-engine-of-mortgage-growth/",
       "published": "Thu, 04 Dec 2025"
@@ -160,14 +170,9 @@
       "published": "Wed, 03 Dec 2025"
     },
     {
-      "title": "Fannie Mae, Freddie Mac limit public housing data releases",
-      "link": "https://www.housingwire.com/articles/fannie-mae-freddie-mac-housing-market-data/",
-      "published": "Wed, 03 Dec 2025"
-    },
-    {
-      "title": "Redfin defends climate risk transparency after Zillow removes data",
-      "link": "https://www.housingwire.com/articles/redfin-climate-risk-transparency/",
-      "published": "Wed, 03 Dec 2025"
+      "title": "Starter-Home Sales Climb 5%, But Prices Stay in Check as Inventory Hits 9-Year High",
+      "link": "https://www.redfin.com/news/starter-home-report-october-2025/",
+      "published": "Thu, 04 Dec 2025"
     },
     {
       "title": "Inventory Growth Loses Steam As Would-Be Sellers React to Lackluster Homebuying Demand",
@@ -193,15 +198,19 @@
       "title": "Rising Home Prices, Economic Volatility Curb Would-Be Buyers’ Appetites in Leadup to Thanksgiving",
       "link": "https://www.redfin.com/news/housing-market-update-rising-home-prices-curb-sales/",
       "published": "Wed, 26 Nov 2025"
-    },
-    {
-      "title": "Typical Retail Worker Earns $37,000 Less Than Needed to Afford Typical Apartment",
-      "link": "https://www.redfin.com/news/retail-worker-rental-affordability-2025/",
-      "published": "Wed, 26 Nov 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Student loan debt is taking a bite out of renters’ credit scores",
+        "url": "https://www.housingwire.com/articles/student-loan-delinquencies-rental-market/",
+        "what": "The end of student loan forgiveness has led to increased delinquencies, affecting rental applicants' credit scores and financial stability.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/student-loan-delinquencies-rental-market/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
       {
         "title": "Inventory Growth Loses Steam As Would-Be Sellers React to Lackluster Homebuying Demand",
         "url": "https://www.redfin.com/news/housing-market-update-inventory-growth-loses-steam/",
@@ -240,6 +249,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Starter-Home Sales Climb 5%, But Prices Stay in Check as Inventory Hits 9-Year High",
+        "url": "https://www.redfin.com/news/starter-home-report-october-2025/",
+        "what": "Starter-home sales rose 4.9% year over year, increasing for the 14th consecutive month",
+        "numbers": "4.9, 14, 0.7, 0.8, 2, $260,000",
+        "justified": "redfin.com — https://www.redfin.com/news/starter-home-report-october-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Deephaven Mortgage launches Equity Advantage HELOC",
+        "url": "https://www.housingwire.com/articles/deephaven-mortgage-heloc/",
+        "what": "Deephaven Mortgage introduces a HELOC with flexible qualification for self-employed borrowers, tapping into a growing second-lien market.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/deephaven-mortgage-heloc/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Culture is not a perk. It is the new engine of mortgage growth",
         "url": "https://www.housingwire.com/articles/culture-is-not-a-perk-it-is-the-new-engine-of-mortgage-growth/",
@@ -295,15 +322,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Bright MLS projects 2026 as reset year, not a rebound",
-        "url": "https://www.housingwire.com/articles/bright-mls-projects-2026-as-reset-year-not-a-rebound/",
-        "what": "Existing-home sales are forecast to climb 9% to 4.51 million",
-        "numbers": "9, 4.51 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bright-mls-projects-2026-as-reset-year-not-a-rebound/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Redfin’s 2026 Predictions: Welcome to The Great Housing Reset",
         "url": "https://www.redfin.com/news/housing-market-predictions-2026/",
         "what": "U.S",
@@ -320,15 +338,6 @@
         "what": "A survey of The Agency brokers saw more than 60% reporting to have seen more concessions this year compared to 2024.",
         "numbers": "60, 2024.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/luxury-home-sellers-offering-more-creative-concessions/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Former CFPB Director Rohit Chopra lands new consumer watchdog role",
-        "url": "https://www.housingwire.com/articles/rohit-chopra-joins-pslc/",
-        "what": "Former CFPB director Rohit Chopra joins the PSLC to lead its Consumer Protection and Affordability Working Group.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rohit-chopra-joins-pslc/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
