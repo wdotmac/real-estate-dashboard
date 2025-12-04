@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-04 11:30 UTC",
+  "as_of": "2025-12-04 13:06 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Wed, 03 Dec 2025"
     },
     {
+      "title": "Inventory Growth Loses Steam As Would-Be Sellers React to Lackluster Homebuying Demand",
+      "link": "https://www.redfin.com/news/housing-market-update-inventory-growth-loses-steam/",
+      "published": "Thu, 04 Dec 2025"
+    },
+    {
       "title": "15% of Home Purchases Fell Through in October, Up Slightly From a Year Earlier",
       "link": "https://www.redfin.com/news/home-purchase-cancellations-october-2025/",
       "published": "Wed, 03 Dec 2025"
@@ -193,15 +198,19 @@
       "title": "Typical Retail Worker Earns $37,000 Less Than Needed to Afford Typical Apartment",
       "link": "https://www.redfin.com/news/retail-worker-rental-affordability-2025/",
       "published": "Wed, 26 Nov 2025"
-    },
-    {
-      "title": "West Palm Beach Tops 10-Year Luxury Home Price Growth as Traditional Giants Like New York Lag Behind",
-      "link": "https://www.redfin.com/news/luxury-home-prices-decade/",
-      "published": "Tue, 25 Nov 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Inventory Growth Loses Steam As Would-Be Sellers React to Lackluster Homebuying Demand",
+        "url": "https://www.redfin.com/news/housing-market-update-inventory-growth-loses-steam/",
+        "what": "Even though mortgage rates have come down from their peak, housing costs are still too high for many would-be buyers",
+        "numbers": "5.1",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-inventory-growth-loses-steam/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Senate Democrats warn CFPB shutdown could disrupt prime interest rates",
         "url": "https://www.housingwire.com/articles/cfpb-apor-disruption/",
