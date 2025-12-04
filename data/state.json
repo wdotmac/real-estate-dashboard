@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-04 17:36 UTC",
+  "as_of": "2025-12-04 18:48 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "FHFA’s Bill Pulte is being investigated after mortgage fraud referrals",
+      "link": "https://www.housingwire.com/articles/gao-fhfa-director-investigation/",
+      "published": "Thu, 04 Dec 2025"
+    },
+    {
+      "title": "George Morales elected to NRMLA board",
+      "link": "https://www.housingwire.com/articles/george-morales-nrmla-board/",
+      "published": "Thu, 04 Dec 2025"
+    },
+    {
       "title": "GAO calls on FHFA to address fair lending risks in mortgage technology",
       "link": "https://www.housingwire.com/articles/gao-fhfa-fair-lending-guidance/",
       "published": "Thu, 04 Dec 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Boston real estate team launches own private listing platform",
       "link": "https://www.housingwire.com/articles/sarkis-team-private-listing-platform/",
-      "published": "Thu, 04 Dec 2025"
-    },
-    {
-      "title": "J.D. Power: Mortgage servicers lag in digital experience",
-      "link": "https://www.housingwire.com/articles/mortgage-servicers-digital-experience/",
-      "published": "Thu, 04 Dec 2025"
-    },
-    {
-      "title": "Exclusive: Lower hires Gino Fronti to lead West Coast mortgage sales",
-      "link": "https://www.housingwire.com/articles/lower-west-coast-mortgage/",
       "published": "Thu, 04 Dec 2025"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "FHFA’s Bill Pulte is being investigated after mortgage fraud referrals",
+        "url": "https://www.housingwire.com/articles/gao-fhfa-director-investigation/",
+        "what": "The Government Accountability Office (GAO) has launched an investigation to determine whether Federal Housing Finance Agency (FHFA) Director Bill Pulte misused his authority and re",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gao-fhfa-director-investigation/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "GAO calls on FHFA to address fair lending risks in mortgage technology",
         "url": "https://www.housingwire.com/articles/gao-fhfa-fair-lending-guidance/",
         "what": "The Government Accountability Office (GAO) called on the Federal Housing Finance Agency (FHFA) to provide guidance to Fannie Mae and Freddie Mac regarding fair lending requirements",
@@ -210,15 +219,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/gao-fhfa-fair-lending-guidance/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Student loan debt is taking a bite out of renters’ credit scores",
-        "url": "https://www.housingwire.com/articles/student-loan-delinquencies-rental-market/",
-        "what": "The end of student loan forgiveness has led to increased delinquencies, affecting rental applicants' credit scores and financial stability.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/student-loan-delinquencies-rental-market/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "Inventory Growth Loses Steam As Would-Be Sellers React to Lackluster Homebuying Demand",
@@ -249,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "George Morales elected to NRMLA board",
+        "url": "https://www.housingwire.com/articles/george-morales-nrmla-board/",
+        "what": "George Morales, national sales director at Mortgage Cadence, joins NRMLA's board to shape policy and drive reverse mortgage innovation.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/george-morales-nrmla-board/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Boston real estate team launches own private listing platform",
         "url": "https://www.housingwire.com/articles/sarkis-team-private-listing-platform/",
@@ -300,15 +309,6 @@
         "what": "Deephaven Mortgage introduces a HELOC with flexible qualification for self-employed borrowers, tapping into a growing second-lien market.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/deephaven-mortgage-heloc/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Culture is not a perk. It is the new engine of mortgage growth",
-        "url": "https://www.housingwire.com/articles/culture-is-not-a-perk-it-is-the-new-engine-of-mortgage-growth/",
-        "what": "In the mortgage industry, we love to talk about technology, market cycles, and rate movement, but there is one topic that still gets treated like a soft skill even though it determines almost every outcome — culture",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/culture-is-not-a-perk-it-is-the-new-engine-of-mortgage-growth/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
