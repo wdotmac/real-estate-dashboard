@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-04 15:37 UTC",
+  "as_of": "2025-12-04 16:46 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Baird & Warner launches AI assistant to support Chicago agents",
+      "link": "https://www.housingwire.com/articles/baird-warner-launches-ai-assistant-to-support-chicago-agents/",
+      "published": "Thu, 04 Dec 2025"
+    },
+    {
+      "title": "Boston real estate team launches own private listing platform",
+      "link": "https://www.housingwire.com/articles/sarkis-team-private-listing-platform/",
+      "published": "Thu, 04 Dec 2025"
+    },
+    {
+      "title": "J.D. Power: Mortgage servicers lag in digital experience",
+      "link": "https://www.housingwire.com/articles/mortgage-servicers-digital-experience/",
+      "published": "Thu, 04 Dec 2025"
+    },
+    {
       "title": "Exclusive: Lower hires Gino Fronti to lead West Coast mortgage sales",
       "link": "https://www.housingwire.com/articles/lower-west-coast-mortgage/",
       "published": "Thu, 04 Dec 2025"
@@ -153,21 +168,6 @@
       "title": "Deephaven Mortgage launches Equity Advantage HELOC",
       "link": "https://www.housingwire.com/articles/deephaven-mortgage-heloc/",
       "published": "Thu, 04 Dec 2025"
-    },
-    {
-      "title": "Student loan debt is taking a bite out of renters’ credit scores",
-      "link": "https://www.housingwire.com/articles/student-loan-delinquencies-rental-market/",
-      "published": "Thu, 04 Dec 2025"
-    },
-    {
-      "title": "Culture is not a perk. It is the new engine of mortgage growth",
-      "link": "https://www.housingwire.com/articles/culture-is-not-a-perk-it-is-the-new-engine-of-mortgage-growth/",
-      "published": "Thu, 04 Dec 2025"
-    },
-    {
-      "title": "Why it’s too easy to say ‘no’ to new-home development in America",
-      "link": "https://www.housingwire.com/articles/why-its-too-easy-to-say-no-to-new-home-development-in-america/",
-      "published": "Wed, 03 Dec 2025"
     },
     {
       "title": "Starter-Home Sales Climb 5%, But Prices Stay in Check as Inventory Hits 9-Year High",
@@ -241,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "Boston real estate team launches own private listing platform",
+        "url": "https://www.housingwire.com/articles/sarkis-team-private-listing-platform/",
+        "what": "Boston's top-ranked Sarkis Team has launched SARKIS SOON, an invite-only private exclusive listings marketplace.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/sarkis-team-private-listing-platform/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "J.D. Power: Mortgage servicers lag in digital experience",
+        "url": "https://www.housingwire.com/articles/mortgage-servicers-digital-experience/",
+        "what": "An inaugural J.D",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-servicers-digital-experience/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Exclusive: Lower hires Gino Fronti to lead West Coast mortgage sales",
         "url": "https://www.housingwire.com/articles/lower-west-coast-mortgage/",
         "what": "Roughly 25 members of Fronti’s team will be joining him at Lower, which has operated primarily in East Coast and Midwest states until this point.",
@@ -295,33 +313,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Louisiana again tops the chart for outbound moves",
-        "url": "https://www.housingwire.com/articles/atlas-van-lines-2025-migration/",
-        "what": "Atlas Van Lines’ 2025 migration study shows US mobility remains low due to high housing costs, with Arkansas and Idaho leading inbound moves.",
-        "numbers": "2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/atlas-van-lines-2025-migration/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Fannie Mae, Freddie Mac limit public housing data releases",
-        "url": "https://www.housingwire.com/articles/fannie-mae-freddie-mac-housing-market-data/",
-        "what": "Fannie Mae and Freddie Mac have stopped publishing key housing surveys and forecasts, raising transparency concerns for the mortgage market.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-mae-freddie-mac-housing-market-data/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Redfin defends climate risk transparency after Zillow removes data",
-        "url": "https://www.housingwire.com/articles/redfin-climate-risk-transparency/",
-        "what": "Redfin will continue to display First Street climate risk data on listings, citing buyer value and transparency concerns.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/redfin-climate-risk-transparency/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "Redfin’s 2026 Predictions: Welcome to The Great Housing Reset",
         "url": "https://www.redfin.com/news/housing-market-predictions-2026/",
         "what": "U.S",
@@ -332,6 +323,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Baird & Warner launches AI assistant to support Chicago agents",
+        "url": "https://www.housingwire.com/articles/baird-warner-launches-ai-assistant-to-support-chicago-agents/",
+        "what": "Developed exclusively for Baird & Warner, the assistant resolves about 90 percent of agent inquiries within minutes, according to the company.",
+        "numbers": "90",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/baird-warner-launches-ai-assistant-to-support-chicago-agents/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Luxury home sellers offering more creative concessions",
         "url": "https://www.housingwire.com/articles/luxury-home-sellers-offering-more-creative-concessions/",
