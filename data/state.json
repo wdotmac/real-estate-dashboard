@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-04 16:46 UTC",
+  "as_of": "2025-12-04 17:36 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": 0.0
     },
     "mortgage_30y": {
-      "rate_pct": 6.23,
-      "delta_bp_wow": -2.999999999999936
+      "rate_pct": 6.19,
+      "delta_bp_wow": -4.0000000000000036
     },
     "starts": {
       "level_saar": 1307.0,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "GAO calls on FHFA to address fair lending risks in mortgage technology",
+      "link": "https://www.housingwire.com/articles/gao-fhfa-fair-lending-guidance/",
+      "published": "Thu, 04 Dec 2025"
+    },
+    {
+      "title": "Backflip closes first securitization, backed by $95M in RTL loans",
+      "link": "https://www.housingwire.com/articles/backflip-securitization-95m/",
+      "published": "Thu, 04 Dec 2025"
+    },
+    {
       "title": "Baird & Warner launches AI assistant to support Chicago agents",
       "link": "https://www.housingwire.com/articles/baird-warner-launches-ai-assistant-to-support-chicago-agents/",
       "published": "Thu, 04 Dec 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Exclusive: Lower hires Gino Fronti to lead West Coast mortgage sales",
       "link": "https://www.housingwire.com/articles/lower-west-coast-mortgage/",
-      "published": "Thu, 04 Dec 2025"
-    },
-    {
-      "title": "Ridley bets big that real estate’s future belongs to consumers, not commissions",
-      "link": "https://www.housingwire.com/articles/ridley-bets-big-that-real-estates-future-belongs-to-consumers-not-commissions/",
-      "published": "Thu, 04 Dec 2025"
-    },
-    {
-      "title": "Deephaven Mortgage launches Equity Advantage HELOC",
-      "link": "https://www.housingwire.com/articles/deephaven-mortgage-heloc/",
       "published": "Thu, 04 Dec 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "GAO calls on FHFA to address fair lending risks in mortgage technology",
+        "url": "https://www.housingwire.com/articles/gao-fhfa-fair-lending-guidance/",
+        "what": "The Government Accountability Office (GAO) called on the Federal Housing Finance Agency (FHFA) to provide guidance to Fannie Mae and Freddie Mac regarding fair lending requirements",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gao-fhfa-fair-lending-guidance/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Student loan debt is taking a bite out of renters’ credit scores",
         "url": "https://www.housingwire.com/articles/student-loan-delinquencies-rental-market/",
@@ -304,15 +313,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Why it’s too easy to say ‘no’ to new-home development in America",
-        "url": "https://www.housingwire.com/articles/why-its-too-easy-to-say-no-to-new-home-development-in-america/",
-        "what": "It’s homebuilders’ last push, and their business and channel partners operate through friction on every front",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/why-its-too-easy-to-say-no-to-new-home-development-in-america/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin’s 2026 Predictions: Welcome to The Great Housing Reset",
         "url": "https://www.redfin.com/news/housing-market-predictions-2026/",
         "what": "U.S",
@@ -324,20 +324,20 @@
     ],
     "notables": [
       {
+        "title": "Backflip closes first securitization, backed by $95M in RTL loans",
+        "url": "https://www.housingwire.com/articles/backflip-securitization-95m/",
+        "what": "Backflip's $95 million securitization marks a key milestone, enhancing its lending capacity and diversifying funding sources.",
+        "numbers": "$95 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/backflip-securitization-95m/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Baird & Warner launches AI assistant to support Chicago agents",
         "url": "https://www.housingwire.com/articles/baird-warner-launches-ai-assistant-to-support-chicago-agents/",
         "what": "Developed exclusively for Baird & Warner, the assistant resolves about 90 percent of agent inquiries within minutes, according to the company.",
         "numbers": "90",
         "justified": "housingwire.com — https://www.housingwire.com/articles/baird-warner-launches-ai-assistant-to-support-chicago-agents/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Luxury home sellers offering more creative concessions",
-        "url": "https://www.housingwire.com/articles/luxury-home-sellers-offering-more-creative-concessions/",
-        "what": "A survey of The Agency brokers saw more than 60% reporting to have seen more concessions this year compared to 2024.",
-        "numbers": "60, 2024.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/luxury-home-sellers-offering-more-creative-concessions/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
