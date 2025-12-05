@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-05 15:35 UTC",
+  "as_of": "2025-12-05 16:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "NY court upholds foreclosure abuse law",
+      "link": "https://www.housingwire.com/articles/ny-foreclosure-abuse-law-upheld/",
+      "published": "Fri, 05 Dec 2025"
+    },
+    {
+      "title": "Lawyers weigh in on Compass, Zillow’s antitrust argument",
+      "link": "https://www.housingwire.com/articles/compass-zillow-antitrust-case/",
+      "published": "Fri, 05 Dec 2025"
+    },
+    {
+      "title": "Samara to add ADUs to five multifamily properties in the Bay Area",
+      "link": "https://www.housingwire.com/articles/california-adu-expansion/",
+      "published": "Fri, 05 Dec 2025"
+    },
+    {
       "title": "What does the future hold for the fix-and-flip market in 2026?",
       "link": "https://www.housingwire.com/articles/fix-and-flip-market-2025/",
       "published": "Fri, 05 Dec 2025"
@@ -153,21 +168,6 @@
       "title": "How UWM’s Newest Tech Additions Giving Brokers Unmatched Growth, Speed and Control",
       "link": "https://www.housingwire.com/articles/how-uwms-newest-tech-additions-giving-brokers-unmatched-growth-speed-and-control/",
       "published": "Fri, 05 Dec 2025"
-    },
-    {
-      "title": "Inventory, affordability take center stage in House hearing",
-      "link": "https://www.housingwire.com/articles/housing-inventory-affordability-house-hearing/",
-      "published": "Thu, 04 Dec 2025"
-    },
-    {
-      "title": "Zillow expects calmer 2026 housing market, improved affordability",
-      "link": "https://www.housingwire.com/articles/zillow-expects-calmer-2026-housing-market-improved-affordability/",
-      "published": "Thu, 04 Dec 2025"
-    },
-    {
-      "title": "Has homeownership become a luxury good?",
-      "link": "https://www.housingwire.com/articles/first-time-home-buyers-decline/",
-      "published": "Thu, 04 Dec 2025"
     },
     {
       "title": "Investor Activity Is Muted, With Home Purchases Up 1% and Market Share Holding Steady",
@@ -232,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "Lawyers weigh in on Compass, Zillow’s antitrust argument",
+        "url": "https://www.housingwire.com/articles/compass-zillow-antitrust-case/",
+        "what": "Compass seeks to block Zillow’s listing policy in its lawsuit, arguing harm to competition, while Zillow defends the rule as pro-consumer.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-zillow-antitrust-case/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Investor Activity Is Muted, With Home Purchases Up 1% and Market Share Holding Steady",
         "url": "https://www.redfin.com/news/investor-home-purchases-q3-2025/",
         "what": "U.S",
@@ -277,15 +286,6 @@
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
-        "title": "Tech100 2025 winners drive AI innovation in mortgage and real estate",
-        "url": "https://www.housingwire.com/articles/tech100-mortgage-innovation/",
-        "what": "Tech100 2025 winners advanced AI-driven appraisal, agent, servicing and location tools",
-        "numbers": "100, 2025, 2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tech100-mortgage-innovation/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Starter-Home Sales Climb 5%, But Prices Stay in Check as Inventory Hits 9-Year High",
         "url": "https://www.redfin.com/news/starter-home-report-october-2025/",
         "what": "Starter-home sales rose 4.9% year over year, increasing for the 14th consecutive month",
@@ -305,6 +305,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "NY court upholds foreclosure abuse law",
+        "url": "https://www.housingwire.com/articles/ny-foreclosure-abuse-law-upheld/",
+        "what": "The New York Court of Appeals upheld the Foreclosure Abuse Prevention Act, giving homeowners protection against repeated foreclosure attempts.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ny-foreclosure-abuse-law-upheld/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Samara to add ADUs to five multifamily properties in the Bay Area",
+        "url": "https://www.housingwire.com/articles/california-adu-expansion/",
+        "what": "Samara will deliver more than 50 modular ADUs to Prometheus Real Estate Group properties in the San Francisco Bay Area, enabled by California’s new law raising the ADU cap on multi",
+        "numbers": "50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/california-adu-expansion/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "What does the future hold for the fix-and-flip market in 2026?",
         "url": "https://www.housingwire.com/articles/fix-and-flip-market-2025/",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/first-time-home-buyers-decline/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Atlas VMS integrating AI review tool into AIM-Port platform",
-        "url": "https://www.housingwire.com/articles/atlas-vms-integrating-ai-review-tool-into-aim-port-platform/",
-        "what": "The move aims to reduce manual review work for lenders and appraisal management companies while improving consistency and appraisal quality.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/atlas-vms-integrating-ai-review-tool-into-aim-port-platform/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "PulteGroup forecasts longer-lasting home design trends for 2026",
-        "url": "https://www.housingwire.com/articles/pultegroup-home-design-trends/",
-        "what": "PulteGroup’s 2026 Design Trends Forecast predicts longer-lasting home design trends, with a focus on multigenerational living, wellness, and quality",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pultegroup-home-design-trends/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
