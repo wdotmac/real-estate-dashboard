@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-05 11:29 UTC",
+  "as_of": "2025-12-05 13:01 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Thu, 04 Dec 2025"
     },
     {
+      "title": "Investor Activity Is Muted, With Home Purchases Up 1% and Market Share Holding Steady",
+      "link": "https://www.redfin.com/news/investor-home-purchases-q3-2025/",
+      "published": "Fri, 05 Dec 2025"
+    },
+    {
       "title": "Starter-Home Sales Climb 5%, But Prices Stay in Check as Inventory Hits 9-Year High",
       "link": "https://www.redfin.com/news/starter-home-report-october-2025/",
       "published": "Thu, 04 Dec 2025"
@@ -193,11 +198,6 @@
       "title": "Redfin Economists’ Weekly Take: Mortgage Rates May Bounce Around Ahead of Fed Meeting",
       "link": "https://www.redfin.com/news/weekly-economics-update-december-1/",
       "published": "Mon, 01 Dec 2025"
-    },
-    {
-      "title": "Rising Home Prices, Economic Volatility Curb Would-Be Buyers’ Appetites in Leadup to Thanksgiving",
-      "link": "https://www.redfin.com/news/housing-market-update-rising-home-prices-curb-sales/",
-      "published": "Wed, 26 Nov 2025"
     }
   ],
   "feed_101020": {
@@ -231,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Investor Activity Is Muted, With Home Purchases Up 1% and Market Share Holding Steady",
+        "url": "https://www.redfin.com/news/investor-home-purchases-q3-2025/",
+        "what": "U.S",
+        "numbers": "1",
+        "justified": "redfin.com — https://www.redfin.com/news/investor-home-purchases-q3-2025/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "The 2025 Exhibit Awards: Celebrating the future of real estate and mortgage branding",
         "url": "https://www.housingwire.com/articles/the-2025-exhibit-awards-celebrating-the-future-of-real-estate-and-mortgage-branding/",
