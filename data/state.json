@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-06 13:36 UTC",
+  "as_of": "2025-12-06 14:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Atlanta housing supply grows, price reductions outpace U.S. average",
+      "link": "https://www.housingwire.com/articles/atlanta-housing-inventory/",
+      "published": "Sat, 06 Dec 2025"
+    },
+    {
       "title": "Indiana’s shifting housing market, price cuts are driving faster sales",
       "link": "https://www.housingwire.com/articles/indiana-housing-market-november/",
       "published": "Fri, 05 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Hovnanian seeks course correction as stock craters, earnings fall",
       "link": "https://www.housingwire.com/articles/hovnanian-quarterly-loss/",
-      "published": "Fri, 05 Dec 2025"
-    },
-    {
-      "title": "NWMLS, Compass ask court to push back June 2026 trial date",
-      "link": "https://www.housingwire.com/articles/compass-nwmls-trial-delay/",
       "published": "Fri, 05 Dec 2025"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage rates vs. Main Street: What will drive the housing market in 2026?",
-        "url": "https://www.housingwire.com/articles/2026-local-housing-trends/",
-        "what": "In 2026, the national housing market storyline may be less interesting than local tales",
-        "numbers": "2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-local-housing-trends/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Inventory Growth Loses Steam As Would-Be Sellers React to Lackluster Homebuying Demand",
         "url": "https://www.redfin.com/news/housing-market-update-inventory-growth-loses-steam/",
         "what": "Even though mortgage rates have come down from their peak, housing costs are still too high for many would-be buyers",
@@ -249,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Atlanta housing supply grows, price reductions outpace U.S. average",
+        "url": "https://www.housingwire.com/articles/atlanta-housing-inventory/",
+        "what": "Atlanta’s housing market enters December with 3.4 months supply and 39.9% of sellers reducing prices",
+        "numbers": "3.4, 39.9",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/atlanta-housing-inventory/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Indiana’s shifting housing market, price cuts are driving faster sales",
         "url": "https://www.housingwire.com/articles/indiana-housing-market-november/",
