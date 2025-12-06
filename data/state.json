@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-06 14:31 UTC",
+  "as_of": "2025-12-06 15:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Nashville housing market balances as inventory and price cuts rise",
+      "link": "https://www.housingwire.com/articles/nashville-housing-market/",
+      "published": "Sat, 06 Dec 2025"
+    },
+    {
+      "title": "Price reductions surge in Charlotte, but median list price remains firm",
+      "link": "https://www.housingwire.com/articles/charlotte-housing-market/",
+      "published": "Sat, 06 Dec 2025"
+    },
+    {
       "title": "Atlanta housing supply grows, price reductions outpace U.S. average",
       "link": "https://www.housingwire.com/articles/atlanta-housing-inventory/",
       "published": "Sat, 06 Dec 2025"
@@ -157,16 +167,6 @@
     {
       "title": "7 best real estate schools in Georgia (GA) for 2026",
       "link": "https://www.housingwire.com/articles/georgia-real-estate-schools/",
-      "published": "Fri, 05 Dec 2025"
-    },
-    {
-      "title": "Most prospective homebuyers want to seal the deal in 2026",
-      "link": "https://www.housingwire.com/articles/homeownership-affordability-survey-2025/",
-      "published": "Fri, 05 Dec 2025"
-    },
-    {
-      "title": "Hovnanian seeks course correction as stock craters, earnings fall",
-      "link": "https://www.housingwire.com/articles/hovnanian-quarterly-loss/",
       "published": "Fri, 05 Dec 2025"
     },
     {
@@ -241,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "Nashville housing market balances as inventory and price cuts rise",
+        "url": "https://www.housingwire.com/articles/nashville-housing-market/",
+        "what": "Nashville’s 3.4-month supply and 39.1% price-cut rate signal a neutral market with rising inventory and steady prices.",
+        "numbers": "3.4, 39.1",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nashville-housing-market/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Price reductions surge in Charlotte, but median list price remains firm",
+        "url": "https://www.housingwire.com/articles/charlotte-housing-market/",
+        "what": "Charlotte’s $475K median list price holds as 53.3% of homes reduce prices and inventory remains tight for this North Carolina housing market.",
+        "numbers": "$475K, 53.3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/charlotte-housing-market/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Atlanta housing supply grows, price reductions outpace U.S. average",
         "url": "https://www.housingwire.com/articles/atlanta-housing-inventory/",
         "what": "Atlanta’s housing market enters December with 3.4 months supply and 39.9% of sellers reducing prices",
@@ -275,15 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/private-listings-seniors-risk/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Could transferrable mortgages unfreeze housing? Real estate pros weigh in",
-        "url": "https://www.housingwire.com/articles/could-transferrable-mortgages-unfreeze-housing-real-estate-pros-weigh-in/",
-        "what": "The feature is widely used in Canada and the U.K",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/could-transferrable-mortgages-unfreeze-housing-real-estate-pros-weigh-in/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Investor Activity Is Muted, With Home Purchases Up 1% and Market Share Holding Steady",
@@ -338,15 +347,6 @@
         "what": "The parties asked the court to push back the trail date to October, and NWMLS indicated an intent to file counterclaims against Compass.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/compass-nwmls-trial-delay/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "5 best real estate classes in Ohio (OH) for 2026",
-        "url": "https://www.housingwire.com/articles/real-estate-classes-ohio/",
-        "what": "We'll help you find the best real estate schools in Ohio to complete your 120-hour prelicensing classes.",
-        "numbers": "120",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-classes-ohio/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
