@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-06 15:30 UTC",
+  "as_of": "2025-12-06 16:36 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Limited inventory and price cuts shape Cincinnati’s housing market",
+      "link": "https://www.housingwire.com/articles/cincinnati-housing-market/",
+      "published": "Sat, 06 Dec 2025"
+    },
+    {
       "title": "Nashville housing market balances as inventory and price cuts rise",
       "link": "https://www.housingwire.com/articles/nashville-housing-market/",
       "published": "Sat, 06 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "APEX Residential enters Arizona luxury market",
       "link": "https://www.housingwire.com/articles/apex-residential-enters-arizona-luxury-market/",
-      "published": "Fri, 05 Dec 2025"
-    },
-    {
-      "title": "7 best real estate schools in Georgia (GA) for 2026",
-      "link": "https://www.housingwire.com/articles/georgia-real-estate-schools/",
       "published": "Fri, 05 Dec 2025"
     },
     {
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "Limited inventory and price cuts shape Cincinnati’s housing market",
+        "url": "https://www.housingwire.com/articles/cincinnati-housing-market/",
+        "what": "Cincinnati’s median price hit $359,900 with 2.3 months of supply and 41.8% of homes reducing prices to drive sales.",
+        "numbers": "$359,900, 2.3, 41.8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cincinnati-housing-market/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Nashville housing market balances as inventory and price cuts rise",
         "url": "https://www.housingwire.com/articles/nashville-housing-market/",
         "what": "Nashville’s 3.4-month supply and 39.1% price-cut rate signal a neutral market with rising inventory and steady prices.",
@@ -282,15 +291,6 @@
         "what": "Together, the leadership team brings decades of high-end real estate experience and billions in closed sales across Arizona.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/apex-residential-enters-arizona-luxury-market/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Do private listings harm senior home sellers?",
-        "url": "https://www.housingwire.com/articles/private-listings-seniors-risk/",
-        "what": "Realtor Greg Alkema asks the court to consider how off-MLS marketing impacts seniors in Compass’s antitrust suit against Zillow",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/private-listings-seniors-risk/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
