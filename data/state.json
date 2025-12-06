@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-06 17:29 UTC",
+  "as_of": "2025-12-06 18:41 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Kansas City sellers reduce listing prices as inventory grows faster than buyer demand",
+      "link": "https://www.housingwire.com/articles/kansas-city-market-update/",
+      "published": "Sat, 06 Dec 2025"
+    },
+    {
       "title": "Limited inventory and price cuts shape Cincinnati’s housing market",
       "link": "https://www.housingwire.com/articles/cincinnati-housing-market/",
       "published": "Sat, 06 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Indiana’s shifting housing market, price cuts are driving faster sales",
       "link": "https://www.housingwire.com/articles/indiana-housing-market-november/",
-      "published": "Fri, 05 Dec 2025"
-    },
-    {
-      "title": "APEX Residential enters Arizona luxury market",
-      "link": "https://www.housingwire.com/articles/apex-residential-enters-arizona-luxury-market/",
       "published": "Fri, 05 Dec 2025"
     },
     {
@@ -240,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Kansas City sellers reduce listing prices as inventory grows faster than buyer demand",
+        "url": "https://www.housingwire.com/articles/kansas-city-market-update/",
+        "what": "Kansas City housing market sees sellers cut prices on 45% of listings as inventory reached 4,723 and supply hit 2.3 months.",
+        "numbers": "45, 4,723, 2.3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kansas-city-market-update/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Limited inventory and price cuts shape Cincinnati’s housing market",
         "url": "https://www.housingwire.com/articles/cincinnati-housing-market/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/hovnanian-quarterly-loss/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NWMLS, Compass ask court to push back June 2026 trial date",
-        "url": "https://www.housingwire.com/articles/compass-nwmls-trial-delay/",
-        "what": "The parties asked the court to push back the trail date to October, and NWMLS indicated an intent to file counterclaims against Compass.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-nwmls-trial-delay/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
