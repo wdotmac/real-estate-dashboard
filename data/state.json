@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-06 23:29 UTC",
+  "as_of": "2025-12-07 02:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "December housing demand near 3-year high as spreads improve",
+      "link": "https://www.housingwire.com/articles/mortgage-spreads-boost-demand/",
+      "published": "Sun, 07 Dec 2025"
+    },
+    {
       "title": "Kansas City sellers reduce listing prices as inventory grows faster than buyer demand",
       "link": "https://www.housingwire.com/articles/kansas-city-market-update/",
       "published": "Sat, 06 Dec 2025"
@@ -163,11 +168,6 @@
       "title": "Atlanta housing supply grows, price reductions outpace U.S. average",
       "link": "https://www.housingwire.com/articles/atlanta-housing-inventory/",
       "published": "Sat, 06 Dec 2025"
-    },
-    {
-      "title": "Indiana’s shifting housing market, price cuts are driving faster sales",
-      "link": "https://www.housingwire.com/articles/indiana-housing-market-november/",
-      "published": "Fri, 05 Dec 2025"
     },
     {
       "title": "Investor Activity Is Muted, With Home Purchases Up 1% and Market Share Holding Steady",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "December housing demand near 3-year high as spreads improve",
+        "url": "https://www.housingwire.com/articles/mortgage-spreads-boost-demand/",
+        "what": "Mortgage purchase applications hit a three-year high as improved spreads and lower rates drive 18 weeks of growth.",
+        "numbers": "18",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-spreads-boost-demand/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Most prospective homebuyers want to seal the deal in 2026",
         "url": "https://www.housingwire.com/articles/homeownership-affordability-survey-2025/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/georgia-real-estate-schools/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Hovnanian seeks course correction as stock craters, earnings fall",
-        "url": "https://www.housingwire.com/articles/hovnanian-quarterly-loss/",
-        "what": "Hovnanian Enterprises' stock fell 22.51% on Thursday after the company reported a Q4 net loss and declining margins, prompting a shift away from entry-level buyers and an increased emphasis on the active adult segement",
-        "numbers": "22.51, 4, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hovnanian-quarterly-loss/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
