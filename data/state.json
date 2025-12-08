@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-08 18:47 UTC",
+  "as_of": "2025-12-08 19:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "MBA voices support for proposed cut to community banks’ leverage ratio",
+      "link": "https://www.housingwire.com/articles/community-bank-leverage-ratio-reduction/",
+      "published": "Mon, 08 Dec 2025"
+    },
+    {
       "title": "Buyer owes $24K after breaching buyers broker agreement, arbitration finds",
       "link": "https://www.housingwire.com/articles/buyer-broker-agreement-arbitration/",
       "published": "Mon, 08 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Splitero closes $283M HEI securitization with strong investor appetite",
       "link": "https://www.housingwire.com/articles/splitero-home-equity-investment-securitization/",
-      "published": "Mon, 08 Dec 2025"
-    },
-    {
-      "title": "Judge to decide Compass’s injunction against Zillow listing policy",
-      "link": "https://www.housingwire.com/articles/compass-zillow-listing-lawsuit/",
       "published": "Mon, 08 Dec 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "MBA voices support for proposed cut to community banks’ leverage ratio",
+        "url": "https://www.housingwire.com/articles/community-bank-leverage-ratio-reduction/",
+        "what": "Federal regulators propose lowering the CBLR to 8% and extending compliance grace periods for community banks.",
+        "numbers": "8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/community-bank-leverage-ratio-reduction/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Falling mortgage rates boost refinance retention to 3.5-year high",
         "url": "https://www.housingwire.com/articles/falling-rates-boost-refinance-retention/",
@@ -282,15 +291,6 @@
         "what": "Kansas City housing market sees sellers cut prices on 45% of listings as inventory reached 4,723 and supply hit 2.3 months.",
         "numbers": "45, 4,723, 2.3",
         "justified": "housingwire.com — https://www.housingwire.com/articles/kansas-city-market-update/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Limited inventory and price cuts shape Cincinnati’s housing market",
-        "url": "https://www.housingwire.com/articles/cincinnati-housing-market/",
-        "what": "Cincinnati’s median price hit $359,900 with 2.3 months of supply and 41.8% of homes reducing prices to drive sales.",
-        "numbers": "$359,900, 2.3, 41.8",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cincinnati-housing-market/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
