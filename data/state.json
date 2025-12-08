@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-08 10:42 UTC",
+  "as_of": "2025-12-08 11:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Falling mortgage rates boost refinance retention to 3.5-year high",
+      "link": "https://www.housingwire.com/articles/falling-rates-boost-refinance-retention/",
+      "published": "Mon, 08 Dec 2025"
+    },
+    {
       "title": "December housing demand near 3-year high as spreads improve",
       "link": "https://www.housingwire.com/articles/mortgage-spreads-boost-demand/",
       "published": "Sun, 07 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Price reductions surge in Charlotte, but median list price remains firm",
       "link": "https://www.housingwire.com/articles/charlotte-housing-market/",
-      "published": "Sat, 06 Dec 2025"
-    },
-    {
-      "title": "Atlanta housing supply grows, price reductions outpace U.S. average",
-      "link": "https://www.housingwire.com/articles/atlanta-housing-inventory/",
       "published": "Sat, 06 Dec 2025"
     },
     {
@@ -203,20 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Falling mortgage rates boost refinance retention to 3.5-year high",
+        "url": "https://www.housingwire.com/articles/falling-rates-boost-refinance-retention/",
+        "what": "Falling interest rates have pushed servicer refinance retention to a 3.5-year high, per ICE Mortgage Technology's December Mortgage Monitor.",
+        "numbers": "3.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/falling-rates-boost-refinance-retention/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "December housing demand near 3-year high as spreads improve",
         "url": "https://www.housingwire.com/articles/mortgage-spreads-boost-demand/",
         "what": "Mortgage purchase applications hit a three-year high as improved spreads and lower rates drive 18 weeks of growth.",
         "numbers": "18",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-spreads-boost-demand/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Most prospective homebuyers want to seal the deal in 2026",
-        "url": "https://www.housingwire.com/articles/homeownership-affordability-survey-2025/",
-        "what": "About three-quarters said more affordable home prices would prompt buying within six months",
-        "numbers": "2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homeownership-affordability-survey-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
