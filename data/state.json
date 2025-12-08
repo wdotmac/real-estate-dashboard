@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-08 16:45 UTC",
+  "as_of": "2025-12-08 17:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Average buyer’s agent commission ticks up under settlement rules",
+      "link": "https://www.housingwire.com/articles/average-buyers-agent-commission-ticks-up-under-new-nar-rules/",
+      "published": "Mon, 08 Dec 2025"
+    },
+    {
+      "title": "Milliman acquires MorVest to boost MSR services",
+      "link": "https://www.housingwire.com/articles/milliman-acquires-morvest/",
+      "published": "Mon, 08 Dec 2025"
+    },
+    {
       "title": "Splitero closes $283M HEI securitization with strong investor appetite",
       "link": "https://www.housingwire.com/articles/splitero-home-equity-investment-securitization/",
       "published": "Mon, 08 Dec 2025"
@@ -158,16 +168,6 @@
       "title": "December housing demand near 3-year high as spreads improve",
       "link": "https://www.housingwire.com/articles/mortgage-spreads-boost-demand/",
       "published": "Sun, 07 Dec 2025"
-    },
-    {
-      "title": "Kansas City sellers reduce listing prices as inventory grows faster than buyer demand",
-      "link": "https://www.housingwire.com/articles/kansas-city-market-update/",
-      "published": "Sat, 06 Dec 2025"
-    },
-    {
-      "title": "Limited inventory and price cuts shape Cincinnati’s housing market",
-      "link": "https://www.housingwire.com/articles/cincinnati-housing-market/",
-      "published": "Sat, 06 Dec 2025"
     },
     {
       "title": "The Average Buyer’s Agent Commission has Risen Slightly Since New NAR Rules Went Into Effect",
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "Milliman acquires MorVest to boost MSR services",
+        "url": "https://www.housingwire.com/articles/milliman-acquires-morvest/",
+        "what": "Milliman's acquisition of MorVest Capital enhances its mortgage servicing rights capabilities, offering valuation and risk management.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/milliman-acquires-morvest/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Judge to decide Compass’s injunction against Zillow listing policy",
         "url": "https://www.housingwire.com/articles/compass-zillow-listing-lawsuit/",
         "what": "Judge Vargas will decide if Compass’s injunction against Zillow’s listing policy is granted after both sides filed conclusions of law.",
@@ -295,24 +304,6 @@
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
-        "title": "Atlanta housing supply grows, price reductions outpace U.S. average",
-        "url": "https://www.housingwire.com/articles/atlanta-housing-inventory/",
-        "what": "Atlanta’s housing market enters December with 3.4 months supply and 39.9% of sellers reducing prices",
-        "numbers": "3.4, 39.9",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/atlanta-housing-inventory/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Indiana’s shifting housing market, price cuts are driving faster sales",
-        "url": "https://www.housingwire.com/articles/indiana-housing-market-november/",
-        "what": "Indiana’s housing market saw faster sales, increased inventory, and nearly half of listings with price reductions in November.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/indiana-housing-market-november/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
         "title": "Investor Activity Is Muted, With Home Purchases Up 1% and Market Share Holding Steady",
         "url": "https://www.redfin.com/news/investor-home-purchases-q3-2025/",
         "what": "U.S",
@@ -329,9 +320,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/starter-home-report-october-2025/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Redfin’s 2026 Predictions: Welcome to The Great Housing Reset",
+        "url": "https://www.redfin.com/news/housing-market-predictions-2026/",
+        "what": "U.S",
+        "numbers": "2026,, 2026., 2026",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-predictions-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
+      {
+        "title": "Average buyer’s agent commission ticks up under settlement rules",
+        "url": "https://www.housingwire.com/articles/average-buyers-agent-commission-ticks-up-under-new-nar-rules/",
+        "what": "The slight increase comes roughly a year after new National Association of Realtors commission rules took effect.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/average-buyers-agent-commission-ticks-up-under-new-nar-rules/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Splitero closes $283M HEI securitization with strong investor appetite",
         "url": "https://www.housingwire.com/articles/splitero-home-equity-investment-securitization/",
