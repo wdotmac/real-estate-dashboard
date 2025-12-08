@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-08 21:28 UTC",
+  "as_of": "2025-12-08 22:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Summit Sotheby’s International Realty rides high in Utah while giving back",
+      "link": "https://www.housingwire.com/articles/summit-sothebys-international-realty-rides-high-in-utah-while-giving-back/",
+      "published": "Mon, 08 Dec 2025"
+    },
+    {
+      "title": "Optimal Blue announces new CFO and CRO",
+      "link": "https://www.housingwire.com/articles/optimal-blue-promotions/",
+      "published": "Mon, 08 Dec 2025"
+    },
+    {
+      "title": "Glut of new supply drags down BTR and multifamily rental rates in the Sun Belt",
+      "link": "https://www.housingwire.com/articles/sunbelt-rent-growth-slowdown/",
+      "published": "Mon, 08 Dec 2025"
+    },
+    {
       "title": "NRMLA speaks out on the future of federal reverse mortgage programs",
       "link": "https://www.housingwire.com/articles/nrmla-reverse-mortgage-reform/",
       "published": "Mon, 08 Dec 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Sweeping new zoning targets Nashville housing affordability",
       "link": "https://www.housingwire.com/articles/nashville-zoning-affordability/",
-      "published": "Mon, 08 Dec 2025"
-    },
-    {
-      "title": "ROAD to Housing Act dropped from NDAA, sparking trade group response",
-      "link": "https://www.housingwire.com/articles/road-to-housing-act-ndaa/",
-      "published": "Mon, 08 Dec 2025"
-    },
-    {
-      "title": "MBA voices support for proposed cut to community banks’ leverage ratio",
-      "link": "https://www.housingwire.com/articles/community-bank-leverage-ratio-reduction/",
-      "published": "Mon, 08 Dec 2025"
-    },
-    {
-      "title": "Buyer owes $24K after breaching buyers broker agreement, arbitration finds",
-      "link": "https://www.housingwire.com/articles/buyer-broker-agreement-arbitration/",
       "published": "Mon, 08 Dec 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Glut of new supply drags down BTR and multifamily rental rates in the Sun Belt",
+        "url": "https://www.housingwire.com/articles/sunbelt-rent-growth-slowdown/",
+        "what": "Rents for multifamily and built-to-rent homes declined in Sunbelt markets amid new supply, but Midwest and Northeast cities saw growth",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/sunbelt-rent-growth-slowdown/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "NRMLA speaks out on the future of federal reverse mortgage programs",
         "url": "https://www.housingwire.com/articles/nrmla-reverse-mortgage-reform/",
@@ -277,15 +286,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Milliman acquires MorVest to boost MSR services",
-        "url": "https://www.housingwire.com/articles/milliman-acquires-morvest/",
-        "what": "Milliman's acquisition of MorVest Capital enhances its mortgage servicing rights capabilities, offering valuation and risk management.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/milliman-acquires-morvest/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "The Average Buyer’s Agent Commission has Risen Slightly Since New NAR Rules Went Into Effect",
         "url": "https://www.redfin.com/news/commissions-q3-2025/",
         "what": "The average U.S",
@@ -324,29 +324,29 @@
     ],
     "notables": [
       {
+        "title": "Summit Sotheby’s International Realty rides high in Utah while giving back",
+        "url": "https://www.housingwire.com/articles/summit-sothebys-international-realty-rides-high-in-utah-while-giving-back/",
+        "what": "The agency has donated $2.3 million to Utah nonprofits supporting education, food security, mental health, first responders and more.",
+        "numbers": "$2.3 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/summit-sothebys-international-realty-rides-high-in-utah-while-giving-back/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Optimal Blue announces new CFO and CRO",
+        "url": "https://www.housingwire.com/articles/optimal-blue-promotions/",
+        "what": "Optimal Blue promotes Lanny Rogers III to chief financial officer and Jeremy Moreno to chief revenue officer, signaling strategic growth.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/optimal-blue-promotions/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Buyer owes $24K after breaching buyers broker agreement, arbitration finds",
         "url": "https://www.housingwire.com/articles/buyer-broker-agreement-arbitration/",
         "what": "Arbitration awarded $24,000 to a brokerage after a buyer breached an exclusive broker agreement under new NAR rules.",
         "numbers": "$24,000",
         "justified": "housingwire.com — https://www.housingwire.com/articles/buyer-broker-agreement-arbitration/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Average buyer’s agent commission ticks up under settlement rules",
-        "url": "https://www.housingwire.com/articles/average-buyers-agent-commission-ticks-up-under-new-nar-rules/",
-        "what": "The slight increase comes roughly a year after new National Association of Realtors commission rules took effect.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/average-buyers-agent-commission-ticks-up-under-new-nar-rules/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Splitero closes $283M HEI securitization with strong investor appetite",
-        "url": "https://www.housingwire.com/articles/splitero-home-equity-investment-securitization/",
-        "what": "Another home equity investment (HEI) securitization is hitting the market, this time issued by financial technology company Splitero in partnership with funds managed by Blue Owl C",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/splitero-home-equity-investment-securitization/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
