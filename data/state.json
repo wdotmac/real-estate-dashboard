@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-08 11:30 UTC",
+  "as_of": "2025-12-08 13:04 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Sat, 06 Dec 2025"
     },
     {
+      "title": "The Average Buyer’s Agent Commission has Risen Slightly Since New NAR Rules Went Into Effect",
+      "link": "https://www.redfin.com/news/commissions-q3-2025/",
+      "published": "Mon, 08 Dec 2025"
+    },
+    {
       "title": "Investor Activity Is Muted, With Home Purchases Up 1% and Market Share Holding Steady",
       "link": "https://www.redfin.com/news/investor-home-purchases-q3-2025/",
       "published": "Fri, 05 Dec 2025"
@@ -193,11 +198,6 @@
       "title": "Redfin’s 2026 Predictions: Welcome to The Great Housing Reset",
       "link": "https://www.redfin.com/news/housing-market-predictions-2026/",
       "published": "Tue, 02 Dec 2025"
-    },
-    {
-      "title": "Redfin Economists’ Weekly Take: Mortgage Rates May Bounce Around Ahead of Fed Meeting",
-      "link": "https://www.redfin.com/news/weekly-economics-update-december-1/",
-      "published": "Mon, 01 Dec 2025"
     }
   ],
   "feed_101020": {
@@ -237,18 +237,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/home-purchase-cancellations-october-2025/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Redfin Economists’ Weekly Take: Mortgage Rates May Bounce Around Ahead of Fed Meeting",
-        "url": "https://www.redfin.com/news/weekly-economics-update-december-1/",
-        "what": "This Week In A Nutshell Rates fell last week as financial markets increasingly priced in a rate cut at next Wednesday’s Fed meeting, but an absence of recent jobs and inflation data makes this one particularly difficult to predict",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/weekly-economics-update-december-1/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "The Average Buyer’s Agent Commission has Risen Slightly Since New NAR Rules Went Into Effect",
+        "url": "https://www.redfin.com/news/commissions-q3-2025/",
+        "what": "The average U.S",
+        "numbers": "2.42, 2.36, $500,000, 2023.",
+        "justified": "redfin.com — https://www.redfin.com/news/commissions-q3-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Kansas City sellers reduce listing prices as inventory grows faster than buyer demand",
         "url": "https://www.housingwire.com/articles/kansas-city-market-update/",
@@ -327,15 +327,6 @@
         "what": "Starter-home sales rose 4.9% year over year, increasing for the 14th consecutive month",
         "numbers": "4.9, 14, 0.7, 0.8, 2, $260,000",
         "justified": "redfin.com — https://www.redfin.com/news/starter-home-report-october-2025/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Redfin’s 2026 Predictions: Welcome to The Great Housing Reset",
-        "url": "https://www.redfin.com/news/housing-market-predictions-2026/",
-        "what": "U.S",
-        "numbers": "2026,, 2026., 2026",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-predictions-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
