@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-09 11:30 UTC",
+  "as_of": "2025-12-09 13:06 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Mon, 08 Dec 2025"
     },
     {
+      "title": "Homebuyers Are More Likely to Click on Climate-Risk Data After Major Disasters—But the Urgency Is Fleeting",
+      "link": "https://www.redfin.com/news/how-homebuyers-engage-with-climate-risk-data/",
+      "published": "Tue, 09 Dec 2025"
+    },
+    {
       "title": "Redfin Economists’ Weekly Take: Fed Poised to Make Expected Rate Cut, But 2026 Projections Could Jolt Mortgage Rates",
       "link": "https://www.redfin.com/news/weekly-economics-update-december-8/",
       "published": "Tue, 09 Dec 2025"
@@ -193,11 +198,6 @@
       "title": "Inventory Growth Loses Steam As Would-Be Sellers React to Lackluster Homebuying Demand",
       "link": "https://www.redfin.com/news/housing-market-update-inventory-growth-loses-steam/",
       "published": "Thu, 04 Dec 2025"
-    },
-    {
-      "title": "15% of Home Purchases Fell Through in October, Up Slightly From a Year Earlier",
-      "link": "https://www.redfin.com/news/home-purchase-cancellations-october-2025/",
-      "published": "Wed, 03 Dec 2025"
     }
   ],
   "feed_101020": {
@@ -255,18 +255,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-inventory-growth-loses-steam/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "15% of Home Purchases Fell Through in October, Up Slightly From a Year Earlier",
-        "url": "https://www.redfin.com/news/home-purchase-cancellations-october-2025/",
-        "what": "Homebuyers are getting cold feet due to high housing costs and economic uncertainty",
-        "numbers": "15",
-        "justified": "redfin.com — https://www.redfin.com/news/home-purchase-cancellations-october-2025/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "housing": [
+      {
+        "title": "Homebuyers Are More Likely to Click on Climate-Risk Data After Major Disasters—But the Urgency Is Fleeting",
+        "url": "https://www.redfin.com/news/how-homebuyers-engage-with-climate-risk-data/",
+        "what": "The share of Redfin users clicking into the climate-risk section of home listings nearly doubled after the 2025 Los Angeles wildfires started burning",
+        "numbers": "2025",
+        "justified": "redfin.com — https://www.redfin.com/news/how-homebuyers-engage-with-climate-risk-data/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "From resilience to antifragility: Rethinking cybersecurity for real estate and mortgage professionals",
         "url": "https://www.housingwire.com/articles/from-resilience-to-antifragility-rethinking-cybersecurity-for-real-estate-and-mortgage-professionals/",
