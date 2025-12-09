@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-09 17:35 UTC",
+  "as_of": "2025-12-09 18:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Blue Owl commits $2.5B in funds to Point’s home equity investment platform",
+      "link": "https://www.housingwire.com/articles/blue-owl-point-home-equity/",
+      "published": "Tue, 09 Dec 2025"
+    },
+    {
+      "title": "FTC issues warnings to rental software firms on price transparency",
+      "link": "https://www.housingwire.com/articles/ftc-rental-software-warning/",
+      "published": "Tue, 09 Dec 2025"
+    },
+    {
+      "title": "Mortgage credit availability rises in November",
+      "link": "https://www.housingwire.com/articles/mortgage-credit-availability-november/",
+      "published": "Tue, 09 Dec 2025"
+    },
+    {
       "title": "Mortgage rates could move higher despite a Fed cut",
       "link": "https://www.housingwire.com/articles/fed-rate-cut-mortgage-rates/",
       "published": "Tue, 09 Dec 2025"
@@ -152,21 +167,6 @@
     {
       "title": "HUD pauses changes to homelessness program amid lawsuits",
       "link": "https://www.housingwire.com/articles/hud-pauses-changes-to-homelessness-program-amid-lawsuits/",
-      "published": "Tue, 09 Dec 2025"
-    },
-    {
-      "title": "Hometap secures $50M to expand homeowner solutions",
-      "link": "https://www.housingwire.com/articles/hometap-50m-funding/",
-      "published": "Tue, 09 Dec 2025"
-    },
-    {
-      "title": "West Capital Lending hires Kyle Fleeger to lead growth initiative",
-      "link": "https://www.housingwire.com/articles/west-capital-lending-kyle-fleeger/",
-      "published": "Tue, 09 Dec 2025"
-    },
-    {
-      "title": "Portland metro sustains 50% home price premium over the rest of Maine",
-      "link": "https://www.housingwire.com/articles/portland-maine-housing-prices/",
       "published": "Tue, 09 Dec 2025"
     },
     {
@@ -232,6 +232,24 @@
     ],
     "housing": [
       {
+        "title": "FTC issues warnings to rental software firms on price transparency",
+        "url": "https://www.housingwire.com/articles/ftc-rental-software-warning/",
+        "what": "FTC targets rental software firms for failing to disclose all fees, citing consumer harm and possible legal action.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ftc-rental-software-warning/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Mortgage credit availability rises in November",
+        "url": "https://www.housingwire.com/articles/mortgage-credit-availability-november/",
+        "what": "Mortgage credit availability rose by 0.7% in November, reaching its highest level since 2022, driven by ARM and cash-out refinance loan programs.",
+        "numbers": "0.7, 2022,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-credit-availability-november/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Portland metro sustains 50% home price premium over the rest of Maine",
         "url": "https://www.housingwire.com/articles/portland-maine-housing-prices/",
         "what": "Portland’s housing market sees 33% more listings YoY, but prices remain 51% above Maine’s median at $639,900.",
@@ -257,15 +275,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/how-homebuyers-engage-with-climate-risk-data/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "From resilience to antifragility: Rethinking cybersecurity for real estate and mortgage professionals",
-        "url": "https://www.housingwire.com/articles/from-resilience-to-antifragility-rethinking-cybersecurity-for-real-estate-and-mortgage-professionals/",
-        "what": "In information security, we’ve long spoken about resilience",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/from-resilience-to-antifragility-rethinking-cybersecurity-for-real-estate-and-mortgage-professionals/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "The Average Buyer’s Agent Commission has Risen Slightly Since New NAR Rules Went Into Effect",
@@ -296,6 +305,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Blue Owl commits $2.5B in funds to Point’s home equity investment platform",
+        "url": "https://www.housingwire.com/articles/blue-owl-point-home-equity/",
+        "what": "The new capital will allow Palo Alto, California-based Point to originate about $10 billion in HEIs over the next three years.",
+        "numbers": "$10 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/blue-owl-point-home-equity/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Michael Burry predicts strong post-IPO growth for Fannie and Freddie",
         "url": "https://www.housingwire.com/articles/burry-fannie-freddie-ipo/",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/west-capital-lending-kyle-fleeger/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Compass, NWMLS antitrust trial delayed to October 2026",
-        "url": "https://www.housingwire.com/articles/compass-nwmls-trial-delayed/",
-        "what": "Compass and NWMLS will now go to trial in October 2026 as discovery disputes delay the antitrust case schedule.",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-nwmls-trial-delayed/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Corcoran affiliate announces major New Jersey acquisition",
-        "url": "https://www.housingwire.com/articles/corcoran-affiliate-announces-major-new-jersey-acquisition/",
-        "what": "Corcoran Sawyer Smith recorded just over $590 million in 2024 volume across 815 transactions, according to RealTrends Verified.",
-        "numbers": "$590 million, 2024, 815",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/corcoran-affiliate-announces-major-new-jersey-acquisition/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
