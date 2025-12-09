@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-09 19:25 UTC",
+  "as_of": "2025-12-09 20:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "New York raises senior property tax exemption to 65%",
+      "link": "https://www.housingwire.com/articles/new-york-senior-property-tax-exemption/",
+      "published": "Tue, 09 Dec 2025"
+    },
+    {
+      "title": "Zillow updates sites, apps after watchdog flags ad disclosure gaps",
+      "link": "https://www.housingwire.com/articles/zillow-updates-sites-apps-after-watchdog-flags-ad-disclosure-gaps/",
+      "published": "Tue, 09 Dec 2025"
+    },
+    {
+      "title": "CrossCountry challenges court order in Gallo mortgage fraud case",
+      "link": "https://www.housingwire.com/articles/crosscountry-mortgage-arbitration-gallo/",
+      "published": "Tue, 09 Dec 2025"
+    },
+    {
       "title": "Blue Owl commits $2.5B in funds to Point’s home equity investment platform",
       "link": "https://www.housingwire.com/articles/blue-owl-point-home-equity/",
       "published": "Tue, 09 Dec 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Mortgage credit availability rises in November",
       "link": "https://www.housingwire.com/articles/mortgage-credit-availability-november/",
-      "published": "Tue, 09 Dec 2025"
-    },
-    {
-      "title": "Mortgage rates could move higher despite a Fed cut",
-      "link": "https://www.housingwire.com/articles/fed-rate-cut-mortgage-rates/",
-      "published": "Tue, 09 Dec 2025"
-    },
-    {
-      "title": "Michael Burry predicts strong post-IPO growth for Fannie and Freddie",
-      "link": "https://www.housingwire.com/articles/burry-fannie-freddie-ipo/",
-      "published": "Tue, 09 Dec 2025"
-    },
-    {
-      "title": "HUD pauses changes to homelessness program amid lawsuits",
-      "link": "https://www.housingwire.com/articles/hud-pauses-changes-to-homelessness-program-amid-lawsuits/",
       "published": "Tue, 09 Dec 2025"
     },
     {
@@ -232,6 +232,24 @@
     ],
     "housing": [
       {
+        "title": "Zillow updates sites, apps after watchdog flags ad disclosure gaps",
+        "url": "https://www.housingwire.com/articles/zillow-updates-sites-apps-after-watchdog-flags-ad-disclosure-gaps/",
+        "what": "Zillow Group undertook an extensive assessment of its digital properties and coordinated with the watchdog on addressing each compliance gap.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-updates-sites-apps-after-watchdog-flags-ad-disclosure-gaps/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "CrossCountry challenges court order in Gallo mortgage fraud case",
+        "url": "https://www.housingwire.com/articles/crosscountry-mortgage-arbitration-gallo/",
+        "what": "CrossCountry Mortgage seeks to vacate a court order blocking its arbitration claim against Christopher Gallo as it aims to recover a $2.1M bonus.",
+        "numbers": "$2.1",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/crosscountry-mortgage-arbitration-gallo/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "FTC issues warnings to rental software firms on price transparency",
         "url": "https://www.housingwire.com/articles/ftc-rental-software-warning/",
         "what": "FTC targets rental software firms for failing to disclose all fees, citing consumer harm and possible legal action.",
@@ -248,24 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-credit-availability-november/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Portland metro sustains 50% home price premium over the rest of Maine",
-        "url": "https://www.housingwire.com/articles/portland-maine-housing-prices/",
-        "what": "Portland’s housing market sees 33% more listings YoY, but prices remain 51% above Maine’s median at $639,900.",
-        "numbers": "33, 51, $639,900.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/portland-maine-housing-prices/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Homebuilder buydowns bolster access, not higher home prices",
-        "url": "https://www.housingwire.com/articles/homebuilder-buydowns-housing-strategy/",
-        "what": "Forward commitments aren’t a loophole",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-buydowns-housing-strategy/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Homebuyers Are More Likely to Click on Climate-Risk Data After Major Disasters—But the Urgency Is Fleeting",
@@ -306,6 +306,15 @@
     ],
     "notables": [
       {
+        "title": "New York raises senior property tax exemption to 65%",
+        "url": "https://www.housingwire.com/articles/new-york-senior-property-tax-exemption/",
+        "what": "Under the new law, localities now have the option to offer exemptions of up to 65% of a home's value for seniors who fall below the maximum income eligibility thresholds set at the",
+        "numbers": "65",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-york-senior-property-tax-exemption/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Blue Owl commits $2.5B in funds to Point’s home equity investment platform",
         "url": "https://www.housingwire.com/articles/blue-owl-point-home-equity/",
         "what": "The new capital will allow Palo Alto, California-based Point to originate about $10 billion in HEIs over the next three years.",
@@ -338,15 +347,6 @@
         "what": "Hometap raises $50M to enhance its homeowner-first products, aiming to ease financial challenges without increasing monthly expenses.",
         "numbers": "$50",
         "justified": "housingwire.com — https://www.housingwire.com/articles/hometap-50m-funding/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "West Capital Lending hires Kyle Fleeger to lead growth initiative",
-        "url": "https://www.housingwire.com/articles/west-capital-lending-kyle-fleeger/",
-        "what": "West Cap hires Kyle Fleeger to lead a new career growth platform, aiming to support bankers and future leaders.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/west-capital-lending-kyle-fleeger/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
