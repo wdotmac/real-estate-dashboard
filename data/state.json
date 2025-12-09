@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-09 08:45 UTC",
+  "as_of": "2025-12-09 09:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Why U.S. home insurance costs have leapt in the past decade",
+      "link": "https://www.housingwire.com/articles/why-u-s-home-insurance-costs-have-leapt-in-the-past-decade/",
+      "published": "Tue, 09 Dec 2025"
+    },
+    {
+      "title": "From resilience to antifragility: Rethinking cybersecurity for real estate and mortgage professionals",
+      "link": "https://www.housingwire.com/articles/from-resilience-to-antifragility-rethinking-cybersecurity-for-real-estate-and-mortgage-professionals/",
+      "published": "Tue, 09 Dec 2025"
+    },
+    {
       "title": "Summit Sotheby’s International Realty rides high in Utah while giving back",
       "link": "https://www.housingwire.com/articles/summit-sothebys-international-realty-rides-high-in-utah-while-giving-back/",
       "published": "Mon, 08 Dec 2025"
@@ -157,16 +167,6 @@
     {
       "title": "NRMLA speaks out on the future of federal reverse mortgage programs",
       "link": "https://www.housingwire.com/articles/nrmla-reverse-mortgage-reform/",
-      "published": "Mon, 08 Dec 2025"
-    },
-    {
-      "title": "House committee is set to review Senate-approved housing bill",
-      "link": "https://www.housingwire.com/articles/house-committee-is-set-to-review-senate-approved-housing-bill/",
-      "published": "Mon, 08 Dec 2025"
-    },
-    {
-      "title": "Sweeping new zoning targets Nashville housing affordability",
-      "link": "https://www.housingwire.com/articles/nashville-zoning-affordability/",
       "published": "Mon, 08 Dec 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Why U.S. home insurance costs have leapt in the past decade",
+        "url": "https://www.housingwire.com/articles/why-u-s-home-insurance-costs-have-leapt-in-the-past-decade/",
+        "what": "The cost of home insurance in the United States rose by ~89% between 2014 and 2025, as rapidly climbing home prices, more frequent extreme weather events and inflation impacted insurers and homeowners",
+        "numbers": "89, 2014, 2025,, 10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-u-s-home-insurance-costs-have-leapt-in-the-past-decade/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Redfin Economists’ Weekly Take: Fed Poised to Make Expected Rate Cut, But 2026 Projections Could Jolt Mortgage Rates",
         "url": "https://www.redfin.com/news/weekly-economics-update-december-8/",
@@ -259,6 +268,15 @@
     ],
     "housing": [
       {
+        "title": "From resilience to antifragility: Rethinking cybersecurity for real estate and mortgage professionals",
+        "url": "https://www.housingwire.com/articles/from-resilience-to-antifragility-rethinking-cybersecurity-for-real-estate-and-mortgage-professionals/",
+        "what": "In information security, we’ve long spoken about resilience",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/from-resilience-to-antifragility-rethinking-cybersecurity-for-real-estate-and-mortgage-professionals/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "House committee is set to review Senate-approved housing bill",
         "url": "https://www.housingwire.com/articles/house-committee-is-set-to-review-senate-approved-housing-bill/",
         "what": "The ROAD to Housing Act was not included in the NDAA, but bipartisan support remains strong",
@@ -282,15 +300,6 @@
         "what": "The ROAD to Housing Act was left out of the 2026 National Defense Authorization Act (NDAA) in the final House text released on Sunday.",
         "numbers": "2026",
         "justified": "housingwire.com — https://www.housingwire.com/articles/road-to-housing-act-ndaa/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "After another lapse in coverage, trade groups urge Congress to pass long-term NFIP bill",
-        "url": "https://www.housingwire.com/articles/nfip-reauthorization-congress/",
-        "what": "Housing trade groups urged Congress to reauthorize the NFIP, highlighting its importance for millions of homeowners facing flood risks.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nfip-reauthorization-congress/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/optimal-blue-promotions/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Buyer owes $24K after breaching buyers broker agreement, arbitration finds",
-        "url": "https://www.housingwire.com/articles/buyer-broker-agreement-arbitration/",
-        "what": "Arbitration awarded $24,000 to a brokerage after a buyer breached an exclusive broker agreement under new NAR rules.",
-        "numbers": "$24,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/buyer-broker-agreement-arbitration/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
