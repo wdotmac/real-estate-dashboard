@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-08 23:31 UTC",
+  "as_of": "2025-12-09 02:19 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Mon, 08 Dec 2025"
     },
     {
+      "title": "Redfin Economists’ Weekly Take: Fed Poised to Make Expected Rate Cut, But 2026 Projections Could Jolt Mortgage Rates",
+      "link": "https://www.redfin.com/news/weekly-economics-update-december-8/",
+      "published": "Tue, 09 Dec 2025"
+    },
+    {
       "title": "The Average Buyer’s Agent Commission has Risen Slightly Since New NAR Rules Went Into Effect",
       "link": "https://www.redfin.com/news/commissions-q3-2025/",
       "published": "Mon, 08 Dec 2025"
@@ -193,15 +198,19 @@
       "title": "15% of Home Purchases Fell Through in October, Up Slightly From a Year Earlier",
       "link": "https://www.redfin.com/news/home-purchase-cancellations-october-2025/",
       "published": "Wed, 03 Dec 2025"
-    },
-    {
-      "title": "Redfin’s 2026 Predictions: Welcome to The Great Housing Reset",
-      "link": "https://www.redfin.com/news/housing-market-predictions-2026/",
-      "published": "Tue, 02 Dec 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Redfin Economists’ Weekly Take: Fed Poised to Make Expected Rate Cut, But 2026 Projections Could Jolt Mortgage Rates",
+        "url": "https://www.redfin.com/news/weekly-economics-update-december-8/",
+        "what": "This Week In A Nutshell Markets expect the Fed to cut interest rates by 25 bps when they meet on Wednesday, meaning the cut itself will have little effect on rates",
+        "numbers": "25, 2026., 2026",
+        "justified": "redfin.com — https://www.redfin.com/news/weekly-economics-update-december-8/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Glut of new supply drags down BTR and multifamily rental rates in the Sun Belt",
         "url": "https://www.housingwire.com/articles/sunbelt-rent-growth-slowdown/",
@@ -309,15 +318,6 @@
         "what": "Starter-home sales rose 4.9% year over year, increasing for the 14th consecutive month",
         "numbers": "4.9, 14, 0.7, 0.8, 2, $260,000",
         "justified": "redfin.com — https://www.redfin.com/news/starter-home-report-october-2025/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Redfin’s 2026 Predictions: Welcome to The Great Housing Reset",
-        "url": "https://www.redfin.com/news/housing-market-predictions-2026/",
-        "what": "U.S",
-        "numbers": "2026,, 2026., 2026",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-predictions-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
