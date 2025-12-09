@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-09 15:36 UTC",
+  "as_of": "2025-12-09 16:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "West Capital Lending hires Kyle Fleeger to lead growth initiative",
+      "link": "https://www.housingwire.com/articles/west-capital-lending-kyle-fleeger/",
+      "published": "Tue, 09 Dec 2025"
+    },
+    {
+      "title": "Portland metro sustains 50% home price premium over the rest of Maine",
+      "link": "https://www.housingwire.com/articles/portland-maine-housing-prices/",
+      "published": "Tue, 09 Dec 2025"
+    },
+    {
+      "title": "Homebuilder buydowns bolster access, not higher home prices",
+      "link": "https://www.housingwire.com/articles/homebuilder-buydowns-housing-strategy/",
+      "published": "Tue, 09 Dec 2025"
+    },
+    {
       "title": "Compass, NWMLS antitrust trial delayed to October 2026",
       "link": "https://www.housingwire.com/articles/compass-nwmls-trial-delayed/",
       "published": "Tue, 09 Dec 2025"
@@ -153,21 +168,6 @@
       "title": "Why U.S. home insurance costs have leapt in the past decade",
       "link": "https://www.housingwire.com/articles/why-u-s-home-insurance-costs-have-leapt-in-the-past-decade/",
       "published": "Tue, 09 Dec 2025"
-    },
-    {
-      "title": "From resilience to antifragility: Rethinking cybersecurity for real estate and mortgage professionals",
-      "link": "https://www.housingwire.com/articles/from-resilience-to-antifragility-rethinking-cybersecurity-for-real-estate-and-mortgage-professionals/",
-      "published": "Tue, 09 Dec 2025"
-    },
-    {
-      "title": "Summit Sotheby’s International Realty rides high in Utah while giving back",
-      "link": "https://www.housingwire.com/articles/summit-sothebys-international-realty-rides-high-in-utah-while-giving-back/",
-      "published": "Mon, 08 Dec 2025"
-    },
-    {
-      "title": "Optimal Blue announces new CFO and CRO",
-      "link": "https://www.housingwire.com/articles/optimal-blue-promotions/",
-      "published": "Mon, 08 Dec 2025"
     },
     {
       "title": "Homebuyers Are More Likely to Click on Climate-Risk Data After Major Disasters—But the Urgency Is Fleeting",
@@ -230,15 +230,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "NRMLA speaks out on the future of federal reverse mortgage programs",
-        "url": "https://www.housingwire.com/articles/nrmla-reverse-mortgage-reform/",
-        "what": "After federal housing leaders issued a request for information in October about the future of two key reverse mortgage programs, the National Reverse Mortgage Lenders Association (",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nrmla-reverse-mortgage-reform/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Inventory Growth Loses Steam As Would-Be Sellers React to Lackluster Homebuying Demand",
         "url": "https://www.redfin.com/news/housing-market-update-inventory-growth-loses-steam/",
         "what": "Even though mortgage rates have come down from their peak, housing costs are still too high for many would-be buyers",
@@ -249,6 +240,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Portland metro sustains 50% home price premium over the rest of Maine",
+        "url": "https://www.housingwire.com/articles/portland-maine-housing-prices/",
+        "what": "Portland’s housing market sees 33% more listings YoY, but prices remain 51% above Maine’s median at $639,900.",
+        "numbers": "33, 51, $639,900.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/portland-maine-housing-prices/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Homebuilder buydowns bolster access, not higher home prices",
+        "url": "https://www.housingwire.com/articles/homebuilder-buydowns-housing-strategy/",
+        "what": "Forward commitments aren’t a loophole",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-buydowns-housing-strategy/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "Homebuyers Are More Likely to Click on Climate-Risk Data After Major Disasters—But the Urgency Is Fleeting",
         "url": "https://www.redfin.com/news/how-homebuyers-engage-with-climate-risk-data/",
@@ -266,24 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/from-resilience-to-antifragility-rethinking-cybersecurity-for-real-estate-and-mortgage-professionals/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "House committee is set to review Senate-approved housing bill",
-        "url": "https://www.housingwire.com/articles/house-committee-is-set-to-review-senate-approved-housing-bill/",
-        "what": "The ROAD to Housing Act was not included in the NDAA, but bipartisan support remains strong",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/house-committee-is-set-to-review-senate-approved-housing-bill/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Sweeping new zoning targets Nashville housing affordability",
-        "url": "https://www.housingwire.com/articles/nashville-zoning-affordability/",
-        "what": "Nashville’s new zoning laws enable townhomes, triplexes and accessory units to expand housing options and affordability citywide.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nashville-zoning-affordability/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "The Average Buyer’s Agent Commission has Risen Slightly Since New NAR Rules Went Into Effect",
@@ -314,6 +305,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "West Capital Lending hires Kyle Fleeger to lead growth initiative",
+        "url": "https://www.housingwire.com/articles/west-capital-lending-kyle-fleeger/",
+        "what": "West Cap hires Kyle Fleeger to lead a new career growth platform, aiming to support bankers and future leaders.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/west-capital-lending-kyle-fleeger/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Compass, NWMLS antitrust trial delayed to October 2026",
         "url": "https://www.housingwire.com/articles/compass-nwmls-trial-delayed/",
