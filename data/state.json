@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-09 16:43 UTC",
+  "as_of": "2025-12-09 17:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage rates could move higher despite a Fed cut",
+      "link": "https://www.housingwire.com/articles/fed-rate-cut-mortgage-rates/",
+      "published": "Tue, 09 Dec 2025"
+    },
+    {
+      "title": "Michael Burry predicts strong post-IPO growth for Fannie and Freddie",
+      "link": "https://www.housingwire.com/articles/burry-fannie-freddie-ipo/",
+      "published": "Tue, 09 Dec 2025"
+    },
+    {
+      "title": "HUD pauses changes to homelessness program amid lawsuits",
+      "link": "https://www.housingwire.com/articles/hud-pauses-changes-to-homelessness-program-amid-lawsuits/",
+      "published": "Tue, 09 Dec 2025"
+    },
+    {
+      "title": "Hometap secures $50M to expand homeowner solutions",
+      "link": "https://www.housingwire.com/articles/hometap-50m-funding/",
+      "published": "Tue, 09 Dec 2025"
+    },
+    {
       "title": "West Capital Lending hires Kyle Fleeger to lead growth initiative",
       "link": "https://www.housingwire.com/articles/west-capital-lending-kyle-fleeger/",
       "published": "Tue, 09 Dec 2025"
@@ -147,26 +167,6 @@
     {
       "title": "Portland metro sustains 50% home price premium over the rest of Maine",
       "link": "https://www.housingwire.com/articles/portland-maine-housing-prices/",
-      "published": "Tue, 09 Dec 2025"
-    },
-    {
-      "title": "Homebuilder buydowns bolster access, not higher home prices",
-      "link": "https://www.housingwire.com/articles/homebuilder-buydowns-housing-strategy/",
-      "published": "Tue, 09 Dec 2025"
-    },
-    {
-      "title": "Compass, NWMLS antitrust trial delayed to October 2026",
-      "link": "https://www.housingwire.com/articles/compass-nwmls-trial-delayed/",
-      "published": "Tue, 09 Dec 2025"
-    },
-    {
-      "title": "Corcoran affiliate announces major New Jersey acquisition",
-      "link": "https://www.housingwire.com/articles/corcoran-affiliate-announces-major-new-jersey-acquisition/",
-      "published": "Tue, 09 Dec 2025"
-    },
-    {
-      "title": "Why U.S. home insurance costs have leapt in the past decade",
-      "link": "https://www.housingwire.com/articles/why-u-s-home-insurance-costs-have-leapt-in-the-past-decade/",
       "published": "Tue, 09 Dec 2025"
     },
     {
@@ -203,11 +203,11 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Why U.S. home insurance costs have leapt in the past decade",
-        "url": "https://www.housingwire.com/articles/why-u-s-home-insurance-costs-have-leapt-in-the-past-decade/",
-        "what": "The cost of home insurance in the United States rose by ~89% between 2014 and 2025, as rapidly climbing home prices, more frequent extreme weather events and inflation impacted insurers and homeowners",
-        "numbers": "89, 2014, 2025,, 10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/why-u-s-home-insurance-costs-have-leapt-in-the-past-decade/",
+        "title": "Mortgage rates could move higher despite a Fed cut",
+        "url": "https://www.housingwire.com/articles/fed-rate-cut-mortgage-rates/",
+        "what": "While the Federal Reserve is expected to deliver another interest rate cut on Wednesday, mortgage rates aren’t likely to move much lower",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-rate-cut-mortgage-rates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -217,15 +217,6 @@
         "what": "This Week In A Nutshell Markets expect the Fed to cut interest rates by 25 bps when they meet on Wednesday, meaning the cut itself will have little effect on rates",
         "numbers": "25, 2026., 2026",
         "justified": "redfin.com — https://www.redfin.com/news/weekly-economics-update-december-8/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Glut of new supply drags down BTR and multifamily rental rates in the Sun Belt",
-        "url": "https://www.housingwire.com/articles/sunbelt-rent-growth-slowdown/",
-        "what": "Rents for multifamily and built-to-rent homes declined in Sunbelt markets amid new supply, but Midwest and Northeast cities saw growth",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sunbelt-rent-growth-slowdown/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -306,6 +297,33 @@
     ],
     "notables": [
       {
+        "title": "Michael Burry predicts strong post-IPO growth for Fannie and Freddie",
+        "url": "https://www.housingwire.com/articles/burry-fannie-freddie-ipo/",
+        "what": "Michael Burry, the investor best known for predicting the 2008 financial crisis, revealed on Monday that he holds a sizable position in the “Toxic Twins”",
+        "numbers": "2008",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/burry-fannie-freddie-ipo/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "HUD pauses changes to homelessness program amid lawsuits",
+        "url": "https://www.housingwire.com/articles/hud-pauses-changes-to-homelessness-program-amid-lawsuits/",
+        "what": "For decades, the program has supported services for unhoused people including childcare, job training, counseling and transportation.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-pauses-changes-to-homelessness-program-amid-lawsuits/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Hometap secures $50M to expand homeowner solutions",
+        "url": "https://www.housingwire.com/articles/hometap-50m-funding/",
+        "what": "Hometap raises $50M to enhance its homeowner-first products, aiming to ease financial challenges without increasing monthly expenses.",
+        "numbers": "$50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hometap-50m-funding/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "West Capital Lending hires Kyle Fleeger to lead growth initiative",
         "url": "https://www.housingwire.com/articles/west-capital-lending-kyle-fleeger/",
         "what": "West Cap hires Kyle Fleeger to lead a new career growth platform, aiming to support bankers and future leaders.",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/corcoran-affiliate-announces-major-new-jersey-acquisition/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Summit Sotheby’s International Realty rides high in Utah while giving back",
-        "url": "https://www.housingwire.com/articles/summit-sothebys-international-realty-rides-high-in-utah-while-giving-back/",
-        "what": "The agency has donated $2.3 million to Utah nonprofits supporting education, food security, mental health, first responders and more.",
-        "numbers": "$2.3 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/summit-sothebys-international-realty-rides-high-in-utah-while-giving-back/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Optimal Blue announces new CFO and CRO",
-        "url": "https://www.housingwire.com/articles/optimal-blue-promotions/",
-        "what": "Optimal Blue promotes Lanny Rogers III to chief financial officer and Jeremy Moreno to chief revenue officer, signaling strategic growth.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/optimal-blue-promotions/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
