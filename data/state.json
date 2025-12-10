@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-10 13:50 UTC",
+  "as_of": "2025-12-10 14:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Refinance surge boosts mortgage application activity",
+      "link": "https://www.housingwire.com/articles/mortgage-applications-rise-december/",
+      "published": "Wed, 10 Dec 2025"
+    },
+    {
       "title": "Better Homes and Gardens Real Estate details 2026 homebuyer trends",
       "link": "https://www.housingwire.com/articles/better-homes-and-gardens-real-estate-details-2026-homebuyer-trends/",
       "published": "Tue, 09 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Mortgage delinquencies steady in September, but there’s ‘signs of stress beneath the surface’",
       "link": "https://www.housingwire.com/articles/us-mortgage-delinquencies-september-2025/",
-      "published": "Tue, 09 Dec 2025"
-    },
-    {
-      "title": "New York raises senior property tax exemption to 65%",
-      "link": "https://www.housingwire.com/articles/new-york-senior-property-tax-exemption/",
       "published": "Tue, 09 Dec 2025"
     },
     {
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Refinance surge boosts mortgage application activity",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-rise-december/",
+        "what": "Mortgage applications increased 4.8% in early December, driven by a significant rise in refinance activity.",
+        "numbers": "4.8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-rise-december/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Better Homes and Gardens Real Estate details 2026 homebuyer trends",
         "url": "https://www.housingwire.com/articles/better-homes-and-gardens-real-estate-details-2026-homebuyer-trends/",
         "what": "The brand will also release an Agent Playbook designed to show how to use these trends to better position listings and guide clients.",
@@ -284,15 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/crosscountry-mortgage-arbitration-gallo/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "FTC issues warnings to rental software firms on price transparency",
-        "url": "https://www.housingwire.com/articles/ftc-rental-software-warning/",
-        "what": "FTC targets rental software firms for failing to disclose all fees, citing consumer harm and possible legal action.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ftc-rental-software-warning/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "Homebuyers Are More Likely to Click on Climate-Risk Data After Major Disasters—But the Urgency Is Fleeting",
