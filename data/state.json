@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-12-11 20:35 UTC",
+  "as_of": "2025-12-11 21:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.18,
-      "delta_bp_1d": 0.9999999999999787
+      "yield_pct": 4.13,
+      "delta_bp_1d": -4.999999999999982
     },
     "mortgage_30y": {
       "rate_pct": 6.22,
@@ -140,13 +140,18 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Beazer Homes taps Howard Heckes for board, Danny Shepherd retires",
-      "link": "https://www.housingwire.com/articles/beazer-homes-board-update/",
+      "title": "Prescott, AZ home prices decline as inventory and days on market rise",
+      "link": "https://www.housingwire.com/articles/prescott-home-prices/",
       "published": "Thu, 11 Dec 2025"
     },
     {
-      "title": "Senate confirms Gormley to lead Ginnie Mae, Cassidy to lead FHA",
-      "link": "https://www.housingwire.com/articles/fha-ginnie-mae-leadership-confirmation/",
+      "title": "Boston emerges as hottest large metro market entering 2026",
+      "link": "https://www.housingwire.com/articles/boston-emerges-as-hottest-large-metro-market-entering-2026/",
+      "published": "Thu, 11 Dec 2025"
+    },
+    {
+      "title": "Beazer taps Howard Heckes for board; Danny Shepherd retires",
+      "link": "https://www.housingwire.com/articles/beazer-homes-board-update/",
       "published": "Thu, 11 Dec 2025"
     },
     {
@@ -162,11 +167,6 @@
     {
       "title": "FHA increases HECM limit to $1.25M in 2026",
       "link": "https://www.housingwire.com/articles/fha-2026-hecm-limit-increase/",
-      "published": "Thu, 11 Dec 2025"
-    },
-    {
-      "title": "Buyer broker contract enforcement: Legal win, reputational risk",
-      "link": "https://www.housingwire.com/articles/buyer-broker-agreement-debate/",
       "published": "Thu, 11 Dec 2025"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Boston emerges as hottest large metro market entering 2026",
+        "url": "https://www.housingwire.com/articles/boston-emerges-as-hottest-large-metro-market-entering-2026/",
+        "what": "Local experts say the metro’s long-standing economic strength and global pull are driving competition even as economic uncertainty persists.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/boston-emerges-as-hottest-large-metro-market-entering-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Buyer angst puts home insurance at the center of the purchase",
         "url": "https://www.housingwire.com/articles/builders-insurance-buyer-trust/",
         "what": "In today’s market, the buyer standing in your model home isn’t just asking, “Can I afford this?” They’re questioning: “Will anyone insure it",
@@ -232,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "Prescott, AZ home prices decline as inventory and days on market rise",
+        "url": "https://www.housingwire.com/articles/prescott-home-prices/",
+        "what": "Inventory in Prescott's housing market grew 31% year-over-year, driving median home prices down and price cuts up 43%.",
+        "numbers": "31, 43",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/prescott-home-prices/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "For mortgage borrowers, shopping around pays off",
         "url": "https://www.housingwire.com/articles/mortgage-rate-shopping-savings/",
         "what": "An analysis released Thursday by Zillow found that the majority of U.S",
@@ -246,15 +264,6 @@
         "what": "As we head into the final weeks of the year, we’re excited to welcome the newest agents who joined Redfin in November",
         "numbers": "2026.",
         "justified": "redfin.com — https://www.redfin.com/news/november-2025-agent-hires/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Judge consolidates RESPA lawsuits against Zillow in Seattle court",
-        "url": "https://www.housingwire.com/articles/zillow-respa-lawsuits-consolidated/",
-        "what": "A Seattle judge consolidated two RESPA lawsuits against Zillow, alleging illegal kickbacks and steering in Flex and Home Loans programs.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-respa-lawsuits-consolidated/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
@@ -288,20 +297,11 @@
     ],
     "notables": [
       {
-        "title": "Beazer Homes taps Howard Heckes for board, Danny Shepherd retires",
+        "title": "Beazer taps Howard Heckes for board; Danny Shepherd retires",
         "url": "https://www.housingwire.com/articles/beazer-homes-board-update/",
         "what": "Beazer Homes’ board transition coincides with its push for zero-energy-ready homes and improved profitability by 2026.",
         "numbers": "2026.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/beazer-homes-board-update/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Senate confirms Gormley to lead Ginnie Mae, Cassidy to lead FHA",
-        "url": "https://www.housingwire.com/articles/fha-ginnie-mae-leadership-confirmation/",
-        "what": "The Senate confirmed Frank Cassidy as FHA commissioner, Joe Gormley as Ginnie Mae president and Travis Hill as FDIC chair.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-ginnie-mae-leadership-confirmation/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
