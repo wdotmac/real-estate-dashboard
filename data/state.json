@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-11 19:31 UTC",
+  "as_of": "2025-12-11 20:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Beazer Homes taps Howard Heckes for board, Danny Shepherd retires",
+      "link": "https://www.housingwire.com/articles/beazer-homes-board-update/",
+      "published": "Thu, 11 Dec 2025"
+    },
+    {
+      "title": "Senate confirms Gormley to lead Ginnie Mae, Cassidy to lead FHA",
+      "link": "https://www.housingwire.com/articles/fha-ginnie-mae-leadership-confirmation/",
+      "published": "Thu, 11 Dec 2025"
+    },
+    {
+      "title": "Buyer angst puts home insurance at the center of the purchase",
+      "link": "https://www.housingwire.com/articles/builders-insurance-buyer-trust/",
+      "published": "Thu, 11 Dec 2025"
+    },
+    {
+      "title": "For mortgage borrowers, shopping around pays off",
+      "link": "https://www.housingwire.com/articles/mortgage-rate-shopping-savings/",
+      "published": "Thu, 11 Dec 2025"
+    },
+    {
       "title": "FHA increases HECM limit to $1.25M in 2026",
       "link": "https://www.housingwire.com/articles/fha-2026-hecm-limit-increase/",
       "published": "Thu, 11 Dec 2025"
@@ -147,26 +167,6 @@
     {
       "title": "Buyer broker contract enforcement: Legal win, reputational risk",
       "link": "https://www.housingwire.com/articles/buyer-broker-agreement-debate/",
-      "published": "Thu, 11 Dec 2025"
-    },
-    {
-      "title": "Why simplicity and transparency will define the next era of real estate",
-      "link": "https://www.housingwire.com/articles/real-estate-simplicity-transparency/",
-      "published": "Thu, 11 Dec 2025"
-    },
-    {
-      "title": "RESO fills 2026 board seats, taps new executive committee",
-      "link": "https://www.housingwire.com/articles/reso-fills-2026-board-seats-taps-new-executive-committee/",
-      "published": "Thu, 11 Dec 2025"
-    },
-    {
-      "title": "Stewart secures $130M through stock sale",
-      "link": "https://www.housingwire.com/articles/stewart-stock-offering-mcs/",
-      "published": "Thu, 11 Dec 2025"
-    },
-    {
-      "title": "Judge consolidates RESPA lawsuits against Zillow in Seattle court",
-      "link": "https://www.housingwire.com/articles/zillow-respa-lawsuits-consolidated/",
       "published": "Thu, 11 Dec 2025"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Buyer angst puts home insurance at the center of the purchase",
+        "url": "https://www.housingwire.com/articles/builders-insurance-buyer-trust/",
+        "what": "In today’s market, the buyer standing in your model home isn’t just asking, “Can I afford this?” They’re questioning: “Will anyone insure it",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/builders-insurance-buyer-trust/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage Rates to Hold Steady in Wake of Fed’s Interest-Rate Cut",
         "url": "https://www.redfin.com/news/fed-interest-rate-cut-mortgage-rates-unchanged/",
         "what": "The Fed’s December interest-rate cut won’t move mortgage rates because markets have already priced it in",
@@ -223,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "For mortgage borrowers, shopping around pays off",
+        "url": "https://www.housingwire.com/articles/mortgage-rate-shopping-savings/",
+        "what": "An analysis released Thursday by Zillow found that the majority of U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rate-shopping-savings/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Meet the agents who joined Redfin in November!",
         "url": "https://www.redfin.com/news/november-2025-agent-hires/",
         "what": "As we head into the final weeks of the year, we’re excited to welcome the newest agents who joined Redfin in November",
@@ -237,24 +255,6 @@
         "what": "A Seattle judge consolidated two RESPA lawsuits against Zillow, alleging illegal kickbacks and steering in Flex and Home Loans programs.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-respa-lawsuits-consolidated/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Fannie Mae expands renovation, ADU financing in major policy update",
-        "url": "https://www.housingwire.com/articles/fannie-mae-adu-renovation-update/",
-        "what": "Fannie Mae has announced several new policies in its latest Selling Guide update that are aimed at improving liquidity and expanding access to affordable housing.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-mae-adu-renovation-update/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Berkeley office to residential conversion joins national trend",
-        "url": "https://www.housingwire.com/articles/berkeley-office-conversion-us-trend/",
-        "what": "A seven-story, circa 1980s office building in downtown Berkeley, CA, is poised to trade cubicles for bedrooms.​ A developer applied to convert 2001 Center St",
-        "numbers": "1980, 2001, 58",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/berkeley-office-conversion-us-trend/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
@@ -287,6 +287,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "Beazer Homes taps Howard Heckes for board, Danny Shepherd retires",
+        "url": "https://www.housingwire.com/articles/beazer-homes-board-update/",
+        "what": "Beazer Homes’ board transition coincides with its push for zero-energy-ready homes and improved profitability by 2026.",
+        "numbers": "2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/beazer-homes-board-update/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Senate confirms Gormley to lead Ginnie Mae, Cassidy to lead FHA",
+        "url": "https://www.housingwire.com/articles/fha-ginnie-mae-leadership-confirmation/",
+        "what": "The Senate confirmed Frank Cassidy as FHA commissioner, Joe Gormley as Ginnie Mae president and Travis Hill as FDIC chair.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-ginnie-mae-leadership-confirmation/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "FHA increases HECM limit to $1.25M in 2026",
         "url": "https://www.housingwire.com/articles/fha-2026-hecm-limit-increase/",
@@ -329,24 +347,6 @@
         "what": "Title and real estate services provider Stewart Information Services Corp",
         "numbers": "$130 million",
         "justified": "housingwire.com — https://www.housingwire.com/articles/stewart-stock-offering-mcs/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Guaranteed Rate Affinity promotes Lacey Sullivan to regional manager",
-        "url": "https://www.housingwire.com/articles/lacey-sullivan-regional-manager/",
-        "what": "Lacey Sullivan steps into her new role as regional manager for Northern California, focusing on growth and partnerships.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lacey-sullivan-regional-manager/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NewDay USA appoints Michael Gaines as EVP, capital markets",
-        "url": "https://www.housingwire.com/articles/michael-gaines-newday-usa-evp/",
-        "what": "Michael Gaines joins NewDay USA as executive vice president of capital markets, bringing experience from Cardinal Financial.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/michael-gaines-newday-usa-evp/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
