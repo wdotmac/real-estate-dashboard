@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-11 21:33 UTC",
+  "as_of": "2025-12-11 22:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "FirstHome IQ highlights financial literacy gaps among young homebuyers",
+      "link": "https://www.housingwire.com/articles/firsthome-iq-financial-literacy-gaps-young-homebuyers/",
+      "published": "Thu, 11 Dec 2025"
+    },
+    {
+      "title": "Housing affordability challenges steepen in Q3",
+      "link": "https://www.housingwire.com/articles/housing-affordability-challenges-steepen-in-q3/",
+      "published": "Thu, 11 Dec 2025"
+    },
+    {
+      "title": "Pathway Lending launches $30M housing fund",
+      "link": "https://www.housingwire.com/articles/pathway-lending-affordable-housing-tennessee/",
+      "published": "Thu, 11 Dec 2025"
+    },
+    {
+      "title": "Advocacy groups see erosion of fair lending oversight, move to fill the gap",
+      "link": "https://www.housingwire.com/articles/nonprofit-fair-lending-response/",
+      "published": "Thu, 11 Dec 2025"
+    },
+    {
+      "title": "YIMBY group sues Newsom over SB 9 pause in L.A. wildfire zones",
+      "link": "https://www.housingwire.com/articles/yimby-lawsuit-newsom-sb9/",
+      "published": "Thu, 11 Dec 2025"
+    },
+    {
       "title": "Prescott, AZ home prices decline as inventory and days on market rise",
       "link": "https://www.housingwire.com/articles/prescott-home-prices/",
-      "published": "Thu, 11 Dec 2025"
-    },
-    {
-      "title": "Boston emerges as hottest large metro market entering 2026",
-      "link": "https://www.housingwire.com/articles/boston-emerges-as-hottest-large-metro-market-entering-2026/",
-      "published": "Thu, 11 Dec 2025"
-    },
-    {
-      "title": "Beazer taps Howard Heckes for board; Danny Shepherd retires",
-      "link": "https://www.housingwire.com/articles/beazer-homes-board-update/",
-      "published": "Thu, 11 Dec 2025"
-    },
-    {
-      "title": "Buyer angst puts home insurance at the center of the purchase",
-      "link": "https://www.housingwire.com/articles/builders-insurance-buyer-trust/",
-      "published": "Thu, 11 Dec 2025"
-    },
-    {
-      "title": "For mortgage borrowers, shopping around pays off",
-      "link": "https://www.housingwire.com/articles/mortgage-rate-shopping-savings/",
-      "published": "Thu, 11 Dec 2025"
-    },
-    {
-      "title": "FHA increases HECM limit to $1.25M in 2026",
-      "link": "https://www.housingwire.com/articles/fha-2026-hecm-limit-increase/",
       "published": "Thu, 11 Dec 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Advocacy groups see erosion of fair lending oversight, move to fill the gap",
+        "url": "https://www.housingwire.com/articles/nonprofit-fair-lending-response/",
+        "what": "In its latest move, the Department of Justice (DOJ) this week announced the rescission of disparate-impact liability from its Title VI regulations, while other parts of the federal",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nonprofit-fair-lending-response/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Boston emerges as hottest large metro market entering 2026",
         "url": "https://www.housingwire.com/articles/boston-emerges-as-hottest-large-metro-market-entering-2026/",
@@ -240,6 +249,33 @@
       }
     ],
     "housing": [
+      {
+        "title": "Housing affordability challenges steepen in Q3",
+        "url": "https://www.housingwire.com/articles/housing-affordability-challenges-steepen-in-q3/",
+        "what": "In Q3 2025, a household needed to earn $110,100 to afford to own a single-family home, nearly double the income required five years ago.",
+        "numbers": "3, 2025,, $110,100",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-affordability-challenges-steepen-in-q3/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Pathway Lending launches $30M housing fund",
+        "url": "https://www.housingwire.com/articles/pathway-lending-affordable-housing-tennessee/",
+        "what": "Pathway Lending launches a $30M fund to acquire and preserve affordable housing in Tennessee, addressing the state's growing housing crisis.",
+        "numbers": "$30",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pathway-lending-affordable-housing-tennessee/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "YIMBY group sues Newsom over SB 9 pause in L.A. wildfire zones",
+        "url": "https://www.housingwire.com/articles/yimby-lawsuit-newsom-sb9/",
+        "what": "California Gov",
+        "numbers": "2021, 9",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/yimby-lawsuit-newsom-sb9/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Prescott, AZ home prices decline as inventory and days on market rise",
         "url": "https://www.housingwire.com/articles/prescott-home-prices/",
@@ -297,56 +333,20 @@
     ],
     "notables": [
       {
+        "title": "FirstHome IQ highlights financial literacy gaps among young homebuyers",
+        "url": "https://www.housingwire.com/articles/firsthome-iq-financial-literacy-gaps-young-homebuyers/",
+        "what": "More than half of respondents indicated they are delaying major financial milestones because of confusion or distrust.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/firsthome-iq-financial-literacy-gaps-young-homebuyers/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Beazer taps Howard Heckes for board; Danny Shepherd retires",
         "url": "https://www.housingwire.com/articles/beazer-homes-board-update/",
         "what": "Beazer Homes’ board transition coincides with its push for zero-energy-ready homes and improved profitability by 2026.",
         "numbers": "2026.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/beazer-homes-board-update/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "FHA increases HECM limit to $1.25M in 2026",
-        "url": "https://www.housingwire.com/articles/fha-2026-hecm-limit-increase/",
-        "what": "FHA raises the 2026 HECM limit to $1,249,125, which is a $39,375 increase from last year and marks the 10th straight year of increases.",
-        "numbers": "2026, $1,249,125,, $39,375, 10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-2026-hecm-limit-increase/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Buyer broker contract enforcement: Legal win, reputational risk",
-        "url": "https://www.housingwire.com/articles/buyer-broker-agreement-debate/",
-        "what": "A $24,000 arbitration award for a breached buyer broker agreement raises concerns about agent reputation and contract clarity.",
-        "numbers": "$24,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/buyer-broker-agreement-debate/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Why simplicity and transparency will define the next era of real estate",
-        "url": "https://www.housingwire.com/articles/real-estate-simplicity-transparency/",
-        "what": "Real estate’s complexity adds hidden costs for buyers and sellers",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-simplicity-transparency/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "RESO fills 2026 board seats, taps new executive committee",
-        "url": "https://www.housingwire.com/articles/reso-fills-2026-board-seats-taps-new-executive-committee/",
-        "what": "RESO Board Chair Rebecca Jensen said this year’s election drew strong competition among technology candidates.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reso-fills-2026-board-seats-taps-new-executive-committee/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Stewart secures $130M through stock sale",
-        "url": "https://www.housingwire.com/articles/stewart-stock-offering-mcs/",
-        "what": "Title and real estate services provider Stewart Information Services Corp",
-        "numbers": "$130 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/stewart-stock-offering-mcs/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
