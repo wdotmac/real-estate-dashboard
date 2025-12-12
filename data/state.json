@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-12-12 20:35 UTC",
+  "as_of": "2025-12-12 21:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.13,
-      "delta_bp_1d": -4.999999999999982
+      "yield_pct": 4.14,
+      "delta_bp_1d": 0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.22,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "HUD investigating Boston housing policies, alleging discrimination against white residents",
+      "link": "https://www.housingwire.com/articles/hud-investigating-boston-housing-policies-alleging-discrimination-against-white-residents/",
+      "published": "Fri, 12 Dec 2025"
+    },
+    {
+      "title": "Don Goettling goes all in with Momentum Builder",
+      "link": "https://www.housingwire.com/articles/don-goettling-momentum-builder/",
+      "published": "Fri, 12 Dec 2025"
+    },
+    {
+      "title": "CMLS unveils new 2026 board, names Nicole Jensen chair",
+      "link": "https://www.housingwire.com/articles/cmls-2026-board-announcement/",
+      "published": "Fri, 12 Dec 2025"
+    },
+    {
       "title": "REMAX Results acquires REMAX Unlimited in Florida expansion",
       "link": "https://www.housingwire.com/articles/remax-results-unlimited-acquisition/",
       "published": "Fri, 12 Dec 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Why invisible risk will define homebuilding’s 2026 reality",
       "link": "https://www.housingwire.com/articles/homebuilding-operational-risk-2026/",
-      "published": "Fri, 12 Dec 2025"
-    },
-    {
-      "title": "U.S. House unveils Housing for the 21st Century Act",
-      "link": "https://www.housingwire.com/articles/u-s-house-unveils-housing-for-the-21st-century-act/",
-      "published": "Fri, 12 Dec 2025"
-    },
-    {
-      "title": "Top mortgage lenders gain market share, but rising MSR leverage clouds outlook",
-      "link": "https://www.housingwire.com/articles/mortgage-companies-market-share-2025/",
-      "published": "Fri, 12 Dec 2025"
-    },
-    {
-      "title": "Trump’s past mortgages mirror those now labeled as ‘fraud’",
-      "link": "https://www.housingwire.com/articles/trump-primary-residence-mortgages/",
       "published": "Fri, 12 Dec 2025"
     },
     {
@@ -232,6 +232,24 @@
     ],
     "housing": [
       {
+        "title": "HUD investigating Boston housing policies, alleging discrimination against white residents",
+        "url": "https://www.housingwire.com/articles/hud-investigating-boston-housing-policies-alleging-discrimination-against-white-residents/",
+        "what": "Accusations include encouraging banks and real estate developers to focus on communities occupied by people of color.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-investigating-boston-housing-policies-alleging-discrimination-against-white-residents/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Don Goettling goes all in with Momentum Builder",
+        "url": "https://www.housingwire.com/articles/don-goettling-momentum-builder/",
+        "what": "Don Goettling, a 39-year mortgage veteran, shifts his focus at Momentum Builder as he aims to provide vital resources and community support.",
+        "numbers": "39",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/don-goettling-momentum-builder/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Sitewire launches AI tools to streamline pre-construction risk review",
         "url": "https://www.housingwire.com/articles/sitewire-ai-preconstruction-tools/",
         "what": "Sitewire’s BudgetIQ and PermitIQ use AI to automate budget checks and permit research, reducing manual work for small residential builders.",
@@ -277,24 +295,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Why housing affordability will improve in 2026",
-        "url": "https://www.housingwire.com/articles/housing-affordability-2026/",
-        "what": "Affordability is set to improve in 2026 as home prices flatten and incomes rise, easing the lock-in effect.",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-affordability-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "2026 Tech100 nominations closing soon as housing tech leaders accelerate innovation",
-        "url": "https://www.housingwire.com/articles/tech100-nominations-housingwire-2026/",
-        "what": "Nominations for the 2026 Tech100 awards are closing soon",
-        "numbers": "2026, 100",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tech100-nominations-housingwire-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Meet the agents who joined Redfin in November!",
         "url": "https://www.redfin.com/news/november-2025-agent-hires/",
         "what": "As we head into the final weeks of the year, we’re excited to welcome the newest agents who joined Redfin in November",
@@ -324,20 +324,20 @@
     ],
     "notables": [
       {
+        "title": "CMLS unveils new 2026 board, names Nicole Jensen chair",
+        "url": "https://www.housingwire.com/articles/cmls-2026-board-announcement/",
+        "what": "The 2026 board contains many returning directors, plus newly elected directors Shayne Fairley and Jerry Legrand.",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cmls-2026-board-announcement/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "REMAX Results acquires REMAX Unlimited in Florida expansion",
         "url": "https://www.housingwire.com/articles/remax-results-unlimited-acquisition/",
         "what": "REMAX Results acquired REMAX Unlimited, adding two Florida offices and 49 agents as part of its Southeast expansion.",
         "numbers": "49",
         "justified": "housingwire.com — https://www.housingwire.com/articles/remax-results-unlimited-acquisition/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Trump signs executive order targeting unified AI regulations",
-        "url": "https://www.housingwire.com/articles/trump-ai-regulatory-framework/",
-        "what": "Trump's executive order centralizes AI regulation, overriding individual state laws in an effort to boost U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-ai-regulatory-framework/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
