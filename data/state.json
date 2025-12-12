@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-12 21:31 UTC",
+  "as_of": "2025-12-12 22:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Settlor integrates with DataTrace to streamline title searches",
+      "link": "https://www.housingwire.com/articles/settlor-integrates-with-datatrace-to-streamline-title-searches/",
+      "published": "Fri, 12 Dec 2025"
+    },
+    {
       "title": "HUD investigating Boston housing policies, alleging discrimination against white residents",
       "link": "https://www.housingwire.com/articles/hud-investigating-boston-housing-policies-alleging-discrimination-against-white-residents/",
       "published": "Fri, 12 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Sitewire launches AI tools to streamline pre-construction risk review",
       "link": "https://www.housingwire.com/articles/sitewire-ai-preconstruction-tools/",
-      "published": "Fri, 12 Dec 2025"
-    },
-    {
-      "title": "Why invisible risk will define homebuilding’s 2026 reality",
-      "link": "https://www.housingwire.com/articles/homebuilding-operational-risk-2026/",
       "published": "Fri, 12 Dec 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Settlor integrates with DataTrace to streamline title searches",
+        "url": "https://www.housingwire.com/articles/settlor-integrates-with-datatrace-to-streamline-title-searches/",
+        "what": "Settlor users can access DataTrace tools directly within Settlor’s title production system",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/settlor-integrates-with-datatrace-to-streamline-title-searches/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Why invisible risk will define homebuilding’s 2026 reality",
         "url": "https://www.housingwire.com/articles/homebuilding-operational-risk-2026/",
@@ -286,15 +295,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "3 forces shaping the housing market in 2026",
-        "url": "https://www.housingwire.com/articles/housing-market-2026-trends/",
-        "what": "As 2026 approaches, the housing market is not on the cusp of a dramatic turning point",
-        "numbers": "2026, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-2026-trends/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Meet the agents who joined Redfin in November!",
         "url": "https://www.redfin.com/news/november-2025-agent-hires/",
         "what": "As we head into the final weeks of the year, we’re excited to welcome the newest agents who joined Redfin in November",
@@ -320,6 +320,15 @@
         "justified": "redfin.com — https://www.redfin.com/news/how-homebuyers-engage-with-climate-risk-data/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "The Average Buyer’s Agent Commission has Risen Slightly Since New NAR Rules Went Into Effect",
+        "url": "https://www.redfin.com/news/commissions-q3-2025/",
+        "what": "The average U.S",
+        "numbers": "2.42, 2.36, $500,000, 2023.",
+        "justified": "redfin.com — https://www.redfin.com/news/commissions-q3-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
