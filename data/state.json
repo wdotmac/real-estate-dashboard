@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-12 16:41 UTC",
+  "as_of": "2025-12-12 17:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "3 forces shaping the housing market in 2026",
+      "link": "https://www.housingwire.com/articles/housing-market-2026-trends/",
+      "published": "Fri, 12 Dec 2025"
+    },
+    {
+      "title": "Trump signs executive order targeting unified AI regulations",
+      "link": "https://www.housingwire.com/articles/trump-ai-regulatory-framework/",
+      "published": "Fri, 12 Dec 2025"
+    },
+    {
+      "title": "Why housing affordability will improve in 2026",
+      "link": "https://www.housingwire.com/articles/housing-affordability-2026/",
+      "published": "Fri, 12 Dec 2025"
+    },
+    {
       "title": "2026 Tech100 nominations closing soon as housing tech leaders accelerate innovation",
       "link": "https://www.housingwire.com/articles/tech100-nominations-housingwire-2026/",
       "published": "Fri, 12 Dec 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Blue Owl commits $2.5B to FoA, invests $50M in equity",
       "link": "https://www.housingwire.com/articles/blue-owl-foa-home-equity/",
-      "published": "Fri, 12 Dec 2025"
-    },
-    {
-      "title": "Biggest stories of 2025: Zillow’s terrible, horrible, no good, very bad legal storm",
-      "link": "https://www.housingwire.com/articles/compass-costar-ftc-zillow-cases/",
-      "published": "Fri, 12 Dec 2025"
-    },
-    {
-      "title": "Making the 7-day refi reality: Closing without the wait",
-      "link": "https://www.housingwire.com/articles/making-the-7-day-refi-reality-closing-without-the-wait/",
-      "published": "Fri, 12 Dec 2025"
-    },
-    {
-      "title": "PLACE names new leaders for growth, legal, and title strategy",
-      "link": "https://www.housingwire.com/articles/place-executive-leadership-expansion/",
       "published": "Fri, 12 Dec 2025"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
-        "title": "Advocacy groups see erosion of fair lending oversight, move to fill the gap",
-        "url": "https://www.housingwire.com/articles/nonprofit-fair-lending-response/",
-        "what": "In its latest move, the Department of Justice (DOJ) this week announced the rescission of disparate-impact liability from its Title VI regulations, while other parts of the federal",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nonprofit-fair-lending-response/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Mortgage Rates to Hold Steady in Wake of Fed’s Interest-Rate Cut",
         "url": "https://www.redfin.com/news/fed-interest-rate-cut-mortgage-rates-unchanged/",
         "what": "The Fed’s December interest-rate cut won’t move mortgage rates because markets have already priced it in",
@@ -240,6 +231,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "3 forces shaping the housing market in 2026",
+        "url": "https://www.housingwire.com/articles/housing-market-2026-trends/",
+        "what": "As 2026 approaches, the housing market is not on the cusp of a dramatic turning point",
+        "numbers": "2026, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-2026-trends/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Why housing affordability will improve in 2026",
+        "url": "https://www.housingwire.com/articles/housing-affordability-2026/",
+        "what": "Affordability is set to improve in 2026 as home prices flatten and incomes rise, easing the lock-in effect.",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-affordability-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "2026 Tech100 nominations closing soon as housing tech leaders accelerate innovation",
         "url": "https://www.housingwire.com/articles/tech100-nominations-housingwire-2026/",
@@ -275,24 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/making-the-7-day-refi-reality-closing-without-the-wait/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Housing affordability challenges steepen in Q3",
-        "url": "https://www.housingwire.com/articles/housing-affordability-challenges-steepen-in-q3/",
-        "what": "In Q3 2025, a household needed to earn $110,100 to afford to own a single-family home, nearly double the income required five years ago.",
-        "numbers": "3, 2025,, $110,100",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-affordability-challenges-steepen-in-q3/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Pathway Lending launches $30M housing fund",
-        "url": "https://www.housingwire.com/articles/pathway-lending-affordable-housing-tennessee/",
-        "what": "Pathway Lending launches a $30M fund to acquire and preserve affordable housing in Tennessee, addressing the state's growing housing crisis.",
-        "numbers": "$30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pathway-lending-affordable-housing-tennessee/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Meet the agents who joined Redfin in November!",
@@ -332,6 +323,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Trump signs executive order targeting unified AI regulations",
+        "url": "https://www.housingwire.com/articles/trump-ai-regulatory-framework/",
+        "what": "Trump's executive order centralizes AI regulation, overriding individual state laws in an effort to boost U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-ai-regulatory-framework/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "PLACE names new leaders for growth, legal, and title strategy",
         "url": "https://www.housingwire.com/articles/place-executive-leadership-expansion/",
