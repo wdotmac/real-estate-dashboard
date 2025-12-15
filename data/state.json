@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-15 22:36 UTC",
+  "as_of": "2025-12-15 23:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "PadSplit expands co-living services to 4 new cities",
+      "link": "https://www.housingwire.com/articles/padsplit-expands-co-living-services-to-4-new-cities/",
+      "published": "Mon, 15 Dec 2025"
+    },
+    {
       "title": "Study finds Zillow home estimates improve buyer, seller outcomes",
       "link": "https://www.housingwire.com/articles/study-finds-zillow-home-estimates-improves-buyer-seller-outcomes/",
       "published": "Mon, 15 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Inside Pennymac’s Texas expansion and its push for top mortgage talent",
       "link": "https://www.housingwire.com/articles/pennymac-texas-hiring-growth/",
-      "published": "Mon, 15 Dec 2025"
-    },
-    {
-      "title": "MRED challenges Zillow’s claims of imminent listing feed disruptions",
-      "link": "https://www.housingwire.com/articles/zillow-mred-listing-dispute/",
       "published": "Mon, 15 Dec 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "PadSplit expands co-living services to 4 new cities",
+        "url": "https://www.housingwire.com/articles/padsplit-expands-co-living-services-to-4-new-cities/",
+        "what": "Founded in 2017, PadSplit operates in more than 35 markets and has listed more than 28,000 rooms, housing 65,000-plus people.",
+        "numbers": "2017,, 35, 28,000, 65,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/padsplit-expands-co-living-services-to-4-new-cities/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Redfin Economists’ Weekly Take: Mortgage Rates Flat After Fed Cut, All Eyes on Incoming Jobs and Inflation Data",
         "url": "https://www.redfin.com/news/weekly-economic-update-december-15/",
@@ -275,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/google-home-listings-search/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "How data discipline reshaped homebuilding in 2025",
-        "url": "https://www.housingwire.com/articles/data-discipline-homebuilding-2025/",
-        "what": "Clean, simple, real-time data—not jargon or software hype—is emerging as the most decisive advantage for builders and developers navigating cost pressure, capital scrutiny, and shi",
-        "numbers": "2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/data-discipline-homebuilding-2025/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Meet the agents who joined Redfin in November!",
