@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-15 19:31 UTC",
+  "as_of": "2025-12-15 20:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "MRED challenges Zillow’s claims of imminent listing feed disruptions",
+      "link": "https://www.housingwire.com/articles/zillow-mred-listing-dispute/",
+      "published": "Mon, 15 Dec 2025"
+    },
+    {
+      "title": "Google enters portal wars with MLS listings in select cities",
+      "link": "https://www.housingwire.com/articles/google-home-listings-search/",
+      "published": "Mon, 15 Dec 2025"
+    },
+    {
       "title": "Sweeney amends lawsuit against AIME, names UWM",
       "link": "https://www.housingwire.com/articles/sweeney-amends-lawsuit-against-aime-names-uwm/",
       "published": "Mon, 15 Dec 2025"
@@ -157,16 +167,6 @@
     {
       "title": "CoStar, Zillow copyright infringement case makes the move out West",
       "link": "https://www.housingwire.com/articles/costar-zillow-lawsuit-seattle/",
-      "published": "Mon, 15 Dec 2025"
-    },
-    {
-      "title": "Innovation, loss and legal battles: The year in title and escrow",
-      "link": "https://www.housingwire.com/articles/innovation-loss-and-legal-battles-the-year-in-title-and-escrow/",
-      "published": "Mon, 15 Dec 2025"
-    },
-    {
-      "title": "5 ways agents can lead with optimism",
-      "link": "https://www.housingwire.com/articles/real-estate-leadership-optimism/",
       "published": "Mon, 15 Dec 2025"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Weekly housing demand reaches multiyear high",
-        "url": "https://www.housingwire.com/articles/weekly-housing-demand-reaches-multiyear-high/",
-        "what": "Weekly pending home sales reach multiyear highs as mortgage rates stay near 6% and inventory growth slows.",
-        "numbers": "6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/weekly-housing-demand-reaches-multiyear-high/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Mortgage Rates to Hold Steady in Wake of Fed’s Interest-Rate Cut",
         "url": "https://www.redfin.com/news/fed-interest-rate-cut-mortgage-rates-unchanged/",
         "what": "The Fed’s December interest-rate cut won’t move mortgage rates because markets have already priced it in",
@@ -241,6 +232,24 @@
     ],
     "housing": [
       {
+        "title": "MRED challenges Zillow’s claims of imminent listing feed disruptions",
+        "url": "https://www.housingwire.com/articles/zillow-mred-listing-dispute/",
+        "what": "MRED disputes Zillow’s warnings of listings disruptions come January, citing no policy violations as of mid-December.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-mred-listing-dispute/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Google enters portal wars with MLS listings in select cities",
+        "url": "https://www.housingwire.com/articles/google-home-listings-search/",
+        "what": "Google is testing embedded home listings in mobile search, impacting portal stocks and raising industry questions.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/google-home-listings-search/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "How data discipline reshaped homebuilding in 2025",
         "url": "https://www.housingwire.com/articles/data-discipline-homebuilding-2025/",
         "what": "Clean, simple, real-time data—not jargon or software hype—is emerging as the most decisive advantage for builders and developers navigating cost pressure, capital scrutiny, and shi",
@@ -248,15 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/data-discipline-homebuilding-2025/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "CFPB’s ECOA proposal raises alarms over women’s ability to get a mortgage",
-        "url": "https://www.housingwire.com/articles/cfpb-ecoa-proposal/",
-        "what": "The CFPB's proposed changes to ECOA rules could limit credit access for women, communities of color and rural residents.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-ecoa-proposal/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Meet the agents who joined Redfin in November!",
