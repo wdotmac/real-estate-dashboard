@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-15 14:45 UTC",
+  "as_of": "2025-12-15 15:39 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "How data discipline reshaped homebuilding in 2025",
+      "link": "https://www.housingwire.com/articles/data-discipline-homebuilding-2025/",
+      "published": "Mon, 15 Dec 2025"
+    },
+    {
+      "title": "CoStar, Zillow copyright infringement case makes the move out West",
+      "link": "https://www.housingwire.com/articles/costar-zillow-lawsuit-seattle/",
+      "published": "Mon, 15 Dec 2025"
+    },
+    {
+      "title": "Innovation, loss and legal battles: The year in title and escrow",
+      "link": "https://www.housingwire.com/articles/innovation-loss-and-legal-battles-the-year-in-title-and-escrow/",
+      "published": "Mon, 15 Dec 2025"
+    },
+    {
       "title": "5 ways agents can lead with optimism",
       "link": "https://www.housingwire.com/articles/real-estate-leadership-optimism/",
       "published": "Mon, 15 Dec 2025"
@@ -153,21 +168,6 @@
       "title": "10 biggest myths about bridge loans (and what the market misunderstands)",
       "link": "https://www.housingwire.com/articles/10-biggest-myths-about-bridge-loans-and-what-the-market-misunderstands/",
       "published": "Mon, 15 Dec 2025"
-    },
-    {
-      "title": "Weekly housing demand reaches multiyear high",
-      "link": "https://www.housingwire.com/articles/weekly-housing-demand-reaches-multiyear-high/",
-      "published": "Sun, 14 Dec 2025"
-    },
-    {
-      "title": "CFPB’s ECOA proposal raises alarms over women’s ability to get a mortgage",
-      "link": "https://www.housingwire.com/articles/cfpb-ecoa-proposal/",
-      "published": "Fri, 12 Dec 2025"
-    },
-    {
-      "title": "New View Advisors floats sweeping changes to HECM, HMBS programs",
-      "link": "https://www.housingwire.com/articles/reverse-mortgage-hecm-reforms-hud/",
-      "published": "Fri, 12 Dec 2025"
     },
     {
       "title": "Meet the agents who joined Redfin in November!",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "CoStar, Zillow copyright infringement case makes the move out West",
+        "url": "https://www.housingwire.com/articles/costar-zillow-lawsuit-seattle/",
+        "what": "A federal judge moved the CoStar copyright lawsuit against Zillow to Seattle, citing witness convenience and related cases.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-zillow-lawsuit-seattle/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Weekly housing demand reaches multiyear high",
         "url": "https://www.housingwire.com/articles/weekly-housing-demand-reaches-multiyear-high/",
@@ -241,29 +250,20 @@
     ],
     "housing": [
       {
+        "title": "How data discipline reshaped homebuilding in 2025",
+        "url": "https://www.housingwire.com/articles/data-discipline-homebuilding-2025/",
+        "what": "Clean, simple, real-time data—not jargon or software hype—is emerging as the most decisive advantage for builders and developers navigating cost pressure, capital scrutiny, and shi",
+        "numbers": "2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/data-discipline-homebuilding-2025/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "CFPB’s ECOA proposal raises alarms over women’s ability to get a mortgage",
         "url": "https://www.housingwire.com/articles/cfpb-ecoa-proposal/",
         "what": "The CFPB's proposed changes to ECOA rules could limit credit access for women, communities of color and rural residents.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-ecoa-proposal/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "HUD investigating Boston housing policies, alleging discrimination against white residents",
-        "url": "https://www.housingwire.com/articles/hud-investigating-boston-housing-policies-alleging-discrimination-against-white-residents/",
-        "what": "Accusations include encouraging banks and real estate developers to focus on communities occupied by people of color.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-investigating-boston-housing-policies-alleging-discrimination-against-white-residents/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Don Goettling goes all in with Momentum Builder",
-        "url": "https://www.housingwire.com/articles/don-goettling-momentum-builder/",
-        "what": "Don Goettling, a 39-year mortgage veteran, shifts his focus at Momentum Builder as he aims to provide vital resources and community support.",
-        "numbers": "39",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/don-goettling-momentum-builder/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -297,6 +297,15 @@
     ],
     "notables": [
       {
+        "title": "Innovation, loss and legal battles: The year in title and escrow",
+        "url": "https://www.housingwire.com/articles/innovation-loss-and-legal-battles-the-year-in-title-and-escrow/",
+        "what": "FinCEN legal battles, the loss of industry leaders, and title waiver feedback were among our top title and escrow stories in 2025.",
+        "numbers": "2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/innovation-loss-and-legal-battles-the-year-in-title-and-escrow/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "5 ways agents can lead with optimism",
         "url": "https://www.housingwire.com/articles/real-estate-leadership-optimism/",
         "what": "Real estate leaders use optimism to build resilient teams, inspire clients, and drive results in volatile markets.",
@@ -329,15 +338,6 @@
         "what": "New View Advisors urges HUD to cut upfront MIP and simplify HECM products, citing rising private-label share and MMI Fund strength.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-hecm-reforms-hud/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CMLS unveils new 2026 board, names Nicole Jensen chair",
-        "url": "https://www.housingwire.com/articles/cmls-2026-board-announcement/",
-        "what": "The 2026 board contains many returning directors, plus newly elected directors Shayne Fairley and Jerry Legrand.",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cmls-2026-board-announcement/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
