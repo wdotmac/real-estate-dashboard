@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-15 21:33 UTC",
+  "as_of": "2025-12-15 22:36 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Study finds Zillow home estimates improve buyer, seller outcomes",
+      "link": "https://www.housingwire.com/articles/study-finds-zillow-home-estimates-improves-buyer-seller-outcomes/",
+      "published": "Mon, 15 Dec 2025"
+    },
+    {
+      "title": "Florida property insurance market is rebounding from 2022 low point",
+      "link": "https://www.housingwire.com/articles/florida-property-insurance-market-is-rebounding-from-2022-low-point/",
+      "published": "Mon, 15 Dec 2025"
+    },
+    {
       "title": "Opendoor names Lucas Matheson president, Christy Schwartz CFO",
       "link": "https://www.housingwire.com/articles/opendoor-names-president-cfo/",
       "published": "Mon, 15 Dec 2025"
@@ -160,13 +170,8 @@
       "published": "Mon, 15 Dec 2025"
     },
     {
-      "title": "Google enters portal wars with MLS listings in select cities",
-      "link": "https://www.housingwire.com/articles/google-home-listings-search/",
-      "published": "Mon, 15 Dec 2025"
-    },
-    {
-      "title": "Sweeney amends lawsuit against AIME, names UWM",
-      "link": "https://www.housingwire.com/articles/sweeney-amends-lawsuit-against-aime-names-uwm/",
+      "title": "Redfin Economists’ Weekly Take: Mortgage Rates Flat After Fed Cut, All Eyes on Incoming Jobs and Inflation Data",
+      "link": "https://www.redfin.com/news/weekly-economic-update-december-15/",
       "published": "Mon, 15 Dec 2025"
     },
     {
@@ -193,21 +198,16 @@
       "title": "Redfin Economists’ Weekly Take: Fed Poised to Make Expected Rate Cut, But 2026 Projections Could Jolt Mortgage Rates",
       "link": "https://www.redfin.com/news/weekly-economics-update-december-8/",
       "published": "Tue, 09 Dec 2025"
-    },
-    {
-      "title": "The Average Buyer’s Agent Commission has Risen Slightly Since New NAR Rules Went Into Effect",
-      "link": "https://www.redfin.com/news/commissions-q3-2025/",
-      "published": "Mon, 08 Dec 2025"
     }
   ],
   "feed_101020": {
     "macro": [
       {
-        "title": "CoStar, Zillow copyright infringement case makes the move out West",
-        "url": "https://www.housingwire.com/articles/costar-zillow-lawsuit-seattle/",
-        "what": "A federal judge moved the CoStar copyright lawsuit against Zillow to Seattle, citing witness convenience and related cases.",
+        "title": "Redfin Economists’ Weekly Take: Mortgage Rates Flat After Fed Cut, All Eyes on Incoming Jobs and Inflation Data",
+        "url": "https://www.redfin.com/news/weekly-economic-update-december-15/",
+        "what": "This Week In A Nutshell Mortgage rates are flat after the Fed cut rates last week, as expected, while also communicating that it’ll likely be the last cut for a while",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-zillow-lawsuit-seattle/",
+        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-december-15/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -231,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Study finds Zillow home estimates improve buyer, seller outcomes",
+        "url": "https://www.housingwire.com/articles/study-finds-zillow-home-estimates-improves-buyer-seller-outcomes/",
+        "what": "The availability of a Zestimate increased buyer surplus by nearly 6% on average and raised seller profits by more than 4%.",
+        "numbers": "6, 4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/study-finds-zillow-home-estimates-improves-buyer-seller-outcomes/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Homebuilder confidence ticks up but remains low",
         "url": "https://www.housingwire.com/articles/homebuilder-confidence-ticks-up-but-remains-low/",
@@ -306,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "Florida property insurance market is rebounding from 2022 low point",
+        "url": "https://www.housingwire.com/articles/florida-property-insurance-market-is-rebounding-from-2022-low-point/",
+        "what": "The market has rebounded from 2022, when litigation costs, rising losses and multiple insurer failures pushed the system close to collapse.",
+        "numbers": "2022,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/florida-property-insurance-market-is-rebounding-from-2022-low-point/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Opendoor names Lucas Matheson president, Christy Schwartz CFO",
         "url": "https://www.housingwire.com/articles/opendoor-names-president-cfo/",
         "what": "Opendoor names Lucas Matheson as president and Christy Schwartz as CFO, aiming to accelerate growth and innovation.",
@@ -329,15 +347,6 @@
         "what": "Most Americans hold a favorable view of Social Security, but about one-third are skeptical the program will still exist when they retire, according to a new survey from the Cato In",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/social-security-insolvency-risk/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Innovation, loss and legal battles: The year in title and escrow",
-        "url": "https://www.housingwire.com/articles/innovation-loss-and-legal-battles-the-year-in-title-and-escrow/",
-        "what": "FinCEN legal battles, the loss of industry leaders, and title waiver feedback were among our top title and escrow stories in 2025.",
-        "numbers": "2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/innovation-loss-and-legal-battles-the-year-in-title-and-escrow/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
