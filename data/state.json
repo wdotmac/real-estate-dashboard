@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-12-15 20:37 UTC",
+  "as_of": "2025-12-15 21:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.14,
-      "delta_bp_1d": 0.9999999999999787
+      "yield_pct": 4.19,
+      "delta_bp_1d": 5.000000000000071
     },
     "mortgage_30y": {
       "rate_pct": 6.22,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Opendoor names Lucas Matheson president, Christy Schwartz CFO",
+      "link": "https://www.housingwire.com/articles/opendoor-names-president-cfo/",
+      "published": "Mon, 15 Dec 2025"
+    },
+    {
+      "title": "Homebuilder confidence ticks up but remains low",
+      "link": "https://www.housingwire.com/articles/homebuilder-confidence-ticks-up-but-remains-low/",
+      "published": "Mon, 15 Dec 2025"
+    },
+    {
+      "title": "Inside Pennymac’s Texas expansion and its push for top mortgage talent",
+      "link": "https://www.housingwire.com/articles/pennymac-texas-hiring-growth/",
+      "published": "Mon, 15 Dec 2025"
+    },
+    {
       "title": "MRED challenges Zillow’s claims of imminent listing feed disruptions",
       "link": "https://www.housingwire.com/articles/zillow-mred-listing-dispute/",
       "published": "Mon, 15 Dec 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Sweeney amends lawsuit against AIME, names UWM",
       "link": "https://www.housingwire.com/articles/sweeney-amends-lawsuit-against-aime-names-uwm/",
-      "published": "Mon, 15 Dec 2025"
-    },
-    {
-      "title": "Americans back Social Security, but one-third fear it won’t last",
-      "link": "https://www.housingwire.com/articles/social-security-insolvency-risk/",
-      "published": "Mon, 15 Dec 2025"
-    },
-    {
-      "title": "How data discipline reshaped homebuilding in 2025",
-      "link": "https://www.housingwire.com/articles/data-discipline-homebuilding-2025/",
-      "published": "Mon, 15 Dec 2025"
-    },
-    {
-      "title": "CoStar, Zillow copyright infringement case makes the move out West",
-      "link": "https://www.housingwire.com/articles/costar-zillow-lawsuit-seattle/",
       "published": "Mon, 15 Dec 2025"
     },
     {
@@ -232,6 +232,24 @@
     ],
     "housing": [
       {
+        "title": "Homebuilder confidence ticks up but remains low",
+        "url": "https://www.housingwire.com/articles/homebuilder-confidence-ticks-up-but-remains-low/",
+        "what": "Builder confidence rose slightly in December but remains low, with 40% of builders cutting prices and 67% offering incentives",
+        "numbers": "40, 67",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-confidence-ticks-up-but-remains-low/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Inside Pennymac’s Texas expansion and its push for top mortgage talent",
+        "url": "https://www.housingwire.com/articles/pennymac-texas-hiring-growth/",
+        "what": "Pennymac CEO David Spector talks about the company's new Texas office, AI investment and Team USA partnership in this Q&A.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pennymac-texas-hiring-growth/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "MRED challenges Zillow’s claims of imminent listing feed disruptions",
         "url": "https://www.housingwire.com/articles/zillow-mred-listing-dispute/",
         "what": "MRED disputes Zillow’s warnings of listings disruptions come January, citing no policy violations as of mid-December.",
@@ -288,6 +306,15 @@
     ],
     "notables": [
       {
+        "title": "Opendoor names Lucas Matheson president, Christy Schwartz CFO",
+        "url": "https://www.housingwire.com/articles/opendoor-names-president-cfo/",
+        "what": "Opendoor names Lucas Matheson as president and Christy Schwartz as CFO, aiming to accelerate growth and innovation.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-names-president-cfo/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Sweeney amends lawsuit against AIME, names UWM",
         "url": "https://www.housingwire.com/articles/sweeney-amends-lawsuit-against-aime-names-uwm/",
         "what": "Katie Sweeney's amended lawsuit against AIME and UWM alleges financial misconduct and contract interference.",
@@ -313,33 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/innovation-loss-and-legal-battles-the-year-in-title-and-escrow/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "5 ways agents can lead with optimism",
-        "url": "https://www.housingwire.com/articles/real-estate-leadership-optimism/",
-        "what": "Real estate leaders use optimism to build resilient teams, inspire clients, and drive results in volatile markets.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-leadership-optimism/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Biggest stories of 2025: Compass and Anywhere make waves",
-        "url": "https://www.housingwire.com/articles/compass-anywhere-merger-2025/",
-        "what": "Compass announced its all-stock acquisition of Anywhere in September, but the deal is not expected to close until the second half of 2026",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-anywhere-merger-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "10 biggest myths about bridge loans (and what the market misunderstands)",
-        "url": "https://www.housingwire.com/articles/10-biggest-myths-about-bridge-loans-and-what-the-market-misunderstands/",
-        "what": "Bridge loan expert Sofia Nadjibi looks at consumers’ biggest objections and misconceptions about bridge loans, so you can help steer them in the right direction Loans for short-ter",
-        "numbers": "20",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/10-biggest-myths-about-bridge-loans-and-what-the-market-misunderstands/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
