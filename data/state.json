@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-16 21:32 UTC",
+  "as_of": "2025-12-16 22:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "ERA Real Estate affiliate announces North Texas acquisition",
+      "link": "https://www.housingwire.com/articles/era-real-estate-affiliate-dallas-fort-worth-acquisition/",
+      "published": "Tue, 16 Dec 2025"
+    },
+    {
+      "title": "Why Texas builders are betting on backup batteries for new homes",
+      "link": "https://www.housingwire.com/articles/builder-backup-power-trend/",
+      "published": "Tue, 16 Dec 2025"
+    },
+    {
       "title": "Supreme Court denies REX’s request to rehear petition",
       "link": "https://www.housingwire.com/articles/supreme-court-rex-antitrust/",
       "published": "Tue, 16 Dec 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Why the Fed isn’t worried about the jobs data",
       "link": "https://www.housingwire.com/articles/why-the-fed-isnt-worried-about-the-jobs-data/",
-      "published": "Tue, 16 Dec 2025"
-    },
-    {
-      "title": "Freddie Mac appoints Kenny Smith as new CEO",
-      "link": "https://www.housingwire.com/articles/kenny-smith-freddie-mac-ceo/",
-      "published": "Tue, 16 Dec 2025"
-    },
-    {
-      "title": "Home improvement contractors remain cautiously optimistic",
-      "link": "https://www.housingwire.com/articles/contractor-revenue-labor-challenges/",
       "published": "Tue, 16 Dec 2025"
     },
     {
@@ -230,15 +230,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage trade groups back CFPB plan to revise ECOA. Consumer groups push back",
-        "url": "https://www.housingwire.com/articles/ecoa-disparate-impact-limits/",
-        "what": "The CFPB’s proposal, published on Nov",
-        "numbers": "13",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ecoa-disparate-impact-limits/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Mortgage Rates Likely to Remain Unchanged Following Mixed October, November Jobs Data",
         "url": "https://www.redfin.com/news/economist-take-november-jobs-data/",
         "what": "October and November jobs data came in cooler than expected, but the long government shutdown muddies the waters",
@@ -268,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "Why Texas builders are betting on backup batteries for new homes",
+        "url": "https://www.housingwire.com/articles/builder-backup-power-trend/",
+        "what": "Texas builders see 70% adoption of backup batteries among buyers as grid outages and climate risks reshape home demand heading into 2026.",
+        "numbers": "70, 2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/builder-backup-power-trend/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Supreme Court denies REX’s request to rehear petition",
         "url": "https://www.housingwire.com/articles/supreme-court-rex-antitrust/",
         "what": "The Supreme Court refused REX's second request to hear an appeal of its antitrust suit against NAR and Zillow.",
@@ -293,15 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/midwest-zillow-most-popular-2025-housing-markets/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Compass sees housing market stabilization in 2026",
-        "url": "https://www.housingwire.com/articles/compass-housing-market-2026/",
-        "what": "The U.S",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-housing-market-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "Aspen Dominates November’s Priciest Home Sales",
@@ -332,6 +323,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "ERA Real Estate affiliate announces North Texas acquisition",
+        "url": "https://www.housingwire.com/articles/era-real-estate-affiliate-dallas-fort-worth-acquisition/",
+        "what": "The acquisition includes two offices and nearly 100 agents",
+        "numbers": "100, 24",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/era-real-estate-affiliate-dallas-fort-worth-acquisition/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Freddie Mac appoints Kenny Smith as new CEO",
         "url": "https://www.housingwire.com/articles/kenny-smith-freddie-mac-ceo/",
