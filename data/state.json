@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-16 18:48 UTC",
+  "as_of": "2025-12-16 19:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Shared housing reforms gain traction as cities address affordability",
+      "link": "https://www.housingwire.com/articles/sro-housing-zoning/",
+      "published": "Tue, 16 Dec 2025"
+    },
+    {
+      "title": "Mortgage rates in limbo as Fed officials debate inflation, jobs data",
+      "link": "https://www.housingwire.com/articles/fed-rate-cuts-mortgage-steady/",
+      "published": "Tue, 16 Dec 2025"
+    },
+    {
       "title": "Compass sees housing market stabilization in 2026",
       "link": "https://www.housingwire.com/articles/compass-housing-market-2026/",
       "published": "Tue, 16 Dec 2025"
@@ -157,16 +167,6 @@
     {
       "title": "LenderLogix launches LiteSpeed eSign for eSignatures",
       "link": "https://www.housingwire.com/articles/litespeed-esign-launch/",
-      "published": "Tue, 16 Dec 2025"
-    },
-    {
-      "title": "Judge backs FinCEN real estate AML rule in FNF lawsuit",
-      "link": "https://www.housingwire.com/articles/fincen-aml-rule-court/",
-      "published": "Tue, 16 Dec 2025"
-    },
-    {
-      "title": "2026 mortgage appraisal threshold set at $34,200",
-      "link": "https://www.housingwire.com/articles/2026-mortgage-appraisal-threshold/",
       "published": "Tue, 16 Dec 2025"
     },
     {
@@ -202,6 +202,24 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Shared housing reforms gain traction as cities address affordability",
+        "url": "https://www.housingwire.com/articles/sro-housing-zoning/",
+        "what": "Boarding and lodging houses played an important role during American industrialization.​ Could they make a come-back? Rural people and immigrants relied on them when they sought jobs in rapidly urbanizing cities and affordable housing was scarce",
+        "numbers": "75",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/sro-housing-zoning/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Mortgage rates in limbo as Fed officials debate inflation, jobs data",
+        "url": "https://www.housingwire.com/articles/fed-rate-cuts-mortgage-steady/",
+        "what": "Mortgage rates stayed near 6.3% after the Fed’s December cut, as officials weigh further moves amid persistent housing shortages.",
+        "numbers": "6.3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-rate-cuts-mortgage-steady/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage trade groups back CFPB plan to revise ECOA. Consumer groups push back",
         "url": "https://www.housingwire.com/articles/ecoa-disparate-impact-limits/",
@@ -284,24 +302,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/sandwich-generation-financial-strain/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Chandler Robbins joins Premier Plus Lending as senior mortgage advisor",
-        "url": "https://www.housingwire.com/articles/chandler-robbins-premier-plus-lending/",
-        "what": "Chandler Robbins joins Premier Plus Lending as Senior Mortgage Advisor to support its growth in Southern California.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/chandler-robbins-premier-plus-lending/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "New home mortgage applications dip 7% from October",
-        "url": "https://www.housingwire.com/articles/new-home-mortgage-applications-november-2025/",
-        "what": "New home mortgage applications rose 3.1% annually in November but fell 7% from October, revealing shifting buyer trends.",
-        "numbers": "3.1, 7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-mortgage-applications-november-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Aspen Dominates November’s Priciest Home Sales",
