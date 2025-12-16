@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-16 13:06 UTC",
+  "as_of": "2025-12-16 13:50 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Mon, 15 Dec 2025"
     },
     {
+      "title": "Aspen Dominates November’s Priciest Home Sales",
+      "link": "https://www.redfin.com/news/most-expensive-home-sales-november-2025/",
+      "published": "Tue, 16 Dec 2025"
+    },
+    {
       "title": "Washington Flooding: Redfin’s Latest Flood-Risk and Housing Data as Atmospheric River Sweeps State",
       "link": "https://www.redfin.com/news/washington-state-flooding-2025/",
       "published": "Tue, 16 Dec 2025"
@@ -193,11 +198,6 @@
       "title": "Mortgage Rates to Hold Steady in Wake of Fed’s Interest-Rate Cut",
       "link": "https://www.redfin.com/news/fed-interest-rate-cut-mortgage-rates-unchanged/",
       "published": "Wed, 10 Dec 2025"
-    },
-    {
-      "title": "Homebuyers Are More Likely to Click on Climate-Risk Data After Major Disasters—But the Urgency Is Fleeting",
-      "link": "https://www.redfin.com/news/how-homebuyers-engage-with-climate-risk-data/",
-      "published": "Tue, 09 Dec 2025"
     }
   ],
   "feed_101020": {
@@ -240,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Aspen Dominates November’s Priciest Home Sales",
+        "url": "https://www.redfin.com/news/most-expensive-home-sales-november-2025/",
+        "what": "America’s ultra-wealthy homebuyers are hitting the slopes this ski season",
+        "numbers": "$56 million",
+        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-november-2025/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "The will to solve problems",
         "url": "https://www.housingwire.com/articles/the-will-to-solve-problems/",
