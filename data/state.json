@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-12-16 20:37 UTC",
+  "as_of": "2025-12-16 21:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.19,
-      "delta_bp_1d": 5.000000000000071
+      "yield_pct": 4.18,
+      "delta_bp_1d": -1.0000000000000675
     },
     "mortgage_30y": {
       "rate_pct": 6.22,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Supreme Court denies REX’s request to rehear petition",
+      "link": "https://www.housingwire.com/articles/supreme-court-rex-antitrust/",
+      "published": "Tue, 16 Dec 2025"
+    },
+    {
+      "title": "ICE taps Bob Hart to lead mortgage technology division",
+      "link": "https://www.housingwire.com/articles/ice-mortgage-technology-bob-hart/",
+      "published": "Tue, 16 Dec 2025"
+    },
+    {
+      "title": "Midwest dominates Zillow’s most popular housing markets of 2025",
+      "link": "https://www.housingwire.com/articles/midwest-zillow-most-popular-2025-housing-markets/",
+      "published": "Tue, 16 Dec 2025"
+    },
+    {
+      "title": "Why the Fed isn’t worried about the jobs data",
+      "link": "https://www.housingwire.com/articles/why-the-fed-isnt-worried-about-the-jobs-data/",
+      "published": "Tue, 16 Dec 2025"
+    },
+    {
       "title": "Freddie Mac appoints Kenny Smith as new CEO",
       "link": "https://www.housingwire.com/articles/kenny-smith-freddie-mac-ceo/",
       "published": "Tue, 16 Dec 2025"
@@ -147,26 +167,6 @@
     {
       "title": "Home improvement contractors remain cautiously optimistic",
       "link": "https://www.housingwire.com/articles/contractor-revenue-labor-challenges/",
-      "published": "Tue, 16 Dec 2025"
-    },
-    {
-      "title": "Shared housing reforms gain traction as cities address affordability",
-      "link": "https://www.housingwire.com/articles/sro-housing-zoning/",
-      "published": "Tue, 16 Dec 2025"
-    },
-    {
-      "title": "Mortgage rates in limbo as Fed officials debate inflation, jobs data",
-      "link": "https://www.housingwire.com/articles/fed-rate-cuts-mortgage-steady/",
-      "published": "Tue, 16 Dec 2025"
-    },
-    {
-      "title": "Compass sees housing market stabilization in 2026",
-      "link": "https://www.housingwire.com/articles/compass-housing-market-2026/",
-      "published": "Tue, 16 Dec 2025"
-    },
-    {
-      "title": "Mortgage trade groups back CFPB plan to revise ECOA. Consumer groups push back",
-      "link": "https://www.housingwire.com/articles/ecoa-disparate-impact-limits/",
       "published": "Tue, 16 Dec 2025"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Why the Fed isn’t worried about the jobs data",
+        "url": "https://www.housingwire.com/articles/why-the-fed-isnt-worried-about-the-jobs-data/",
+        "what": "Despite a 4.6% unemployment rate and minimal job growth, the Fed maintains a restrictive stance as jobless claims stay low.",
+        "numbers": "4.6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-the-fed-isnt-worried-about-the-jobs-data/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Shared housing reforms gain traction as cities address affordability",
         "url": "https://www.housingwire.com/articles/sro-housing-zoning/",
         "what": "Boarding and lodging houses played an important role during American industrialization.​ Could they make a come-back? Rural people and immigrants relied on them when they sought jobs in rapidly urbanizing cities and affordable housing was scarce",
@@ -226,24 +235,6 @@
         "what": "The CFPB’s proposal, published on Nov",
         "numbers": "13",
         "justified": "housingwire.com — https://www.housingwire.com/articles/ecoa-disparate-impact-limits/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "LenderLogix launches LiteSpeed eSign for eSignatures",
-        "url": "https://www.housingwire.com/articles/litespeed-esign-launch/",
-        "what": "LenderLogix's LiteSpeed eSign integrates eSignatures into the mortgage workflow, enhancing efficiency and security.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/litespeed-esign-launch/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "2026 mortgage appraisal threshold set at $34,200",
-        "url": "https://www.housingwire.com/articles/2026-mortgage-appraisal-threshold/",
-        "what": "The 2026 threshold for higher-priced mortgage loans will increase to $34,200, reflecting a 2.1% CPI-W increase.",
-        "numbers": "2026, $34,200,, 2.1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-mortgage-appraisal-threshold/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -277,6 +268,33 @@
     ],
     "housing": [
       {
+        "title": "Supreme Court denies REX’s request to rehear petition",
+        "url": "https://www.housingwire.com/articles/supreme-court-rex-antitrust/",
+        "what": "The Supreme Court refused REX's second request to hear an appeal of its antitrust suit against NAR and Zillow.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/supreme-court-rex-antitrust/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "ICE taps Bob Hart to lead mortgage technology division",
+        "url": "https://www.housingwire.com/articles/ice-mortgage-technology-bob-hart/",
+        "what": "Hart will succeed Tim Bowler, who will transition to ICE’s fixed income and data services division, where he will focus on index development and financial institution infrastructur",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-mortgage-technology-bob-hart/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Midwest dominates Zillow’s most popular housing markets of 2025",
+        "url": "https://www.housingwire.com/articles/midwest-zillow-most-popular-2025-housing-markets/",
+        "what": "Most of the top-ranked cities feature median home values below $350,000, access to growing job markets and relatively fast home sales.",
+        "numbers": "$350,000,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/midwest-zillow-most-popular-2025-housing-markets/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Compass sees housing market stabilization in 2026",
         "url": "https://www.housingwire.com/articles/compass-housing-market-2026/",
         "what": "The U.S",
@@ -284,15 +302,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/compass-housing-market-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "More ‘sandwich generation’ Americans feel financially strained by caring for parents",
-        "url": "https://www.housingwire.com/articles/sandwich-generation-financial-strain/",
-        "what": "The share of Americans who identify as part of the “sandwich generation”—adults ages 40 to 60 caring for both aging parents and children—who say they are financially exhausted by p",
-        "numbers": "40, 60",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sandwich-generation-financial-strain/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "Aspen Dominates November’s Priciest Home Sales",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/contractor-revenue-labor-challenges/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Judge backs FinCEN real estate AML rule in FNF lawsuit",
-        "url": "https://www.housingwire.com/articles/fincen-aml-rule-court/",
-        "what": "A magistrate judge recommends upholding FinCEN’s anti-money laundering rule for real estate, signaling likely win over FNF.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fincen-aml-rule-court/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
