@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-16 16:47 UTC",
+  "as_of": "2025-12-16 17:39 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "2026 mortgage appraisal threshold set at $34,200",
+      "link": "https://www.housingwire.com/articles/2026-mortgage-appraisal-threshold/",
+      "published": "Tue, 16 Dec 2025"
+    },
+    {
+      "title": "November jobs data indicates softening economy",
+      "link": "https://www.housingwire.com/articles/labor-market-softens-november/",
+      "published": "Tue, 16 Dec 2025"
+    },
+    {
+      "title": "Informed.IQ raises $63M from Invictus to expand AI loan verification",
+      "link": "https://www.housingwire.com/articles/informed-iq-63m-funding-expansion/",
+      "published": "Tue, 16 Dec 2025"
+    },
+    {
       "title": "Chandler Robbins joins Premier Plus Lending as senior mortgage advisor",
       "link": "https://www.housingwire.com/articles/chandler-robbins-premier-plus-lending/",
       "published": "Tue, 16 Dec 2025"
@@ -155,19 +170,9 @@
       "published": "Tue, 16 Dec 2025"
     },
     {
-      "title": "The will to solve problems",
-      "link": "https://www.housingwire.com/articles/the-will-to-solve-problems/",
+      "title": "Mortgage Rates Likely to Remain Unchanged Following Mixed October, November Jobs Data",
+      "link": "https://www.redfin.com/news/economist-take-november-jobs-data/",
       "published": "Tue, 16 Dec 2025"
-    },
-    {
-      "title": "PadSplit expands co-living services to 4 new cities",
-      "link": "https://www.housingwire.com/articles/padsplit-expands-co-living-services-to-4-new-cities/",
-      "published": "Mon, 15 Dec 2025"
-    },
-    {
-      "title": "Study finds Zillow home estimates improve buyer, seller outcomes",
-      "link": "https://www.housingwire.com/articles/study-finds-zillow-home-estimates-improves-buyer-seller-outcomes/",
-      "published": "Mon, 15 Dec 2025"
     },
     {
       "title": "Aspen Dominates November’s Priciest Home Sales",
@@ -193,15 +198,37 @@
       "title": "New Listings Post Sharpest Drop in 2 Years, Tightening Housing Supply",
       "link": "https://www.redfin.com/news/housing-market-update-housing-supply-tightens-new-listings-decline/",
       "published": "Thu, 11 Dec 2025"
-    },
-    {
-      "title": "Mortgage Rates to Hold Steady in Wake of Fed’s Interest-Rate Cut",
-      "link": "https://www.redfin.com/news/fed-interest-rate-cut-mortgage-rates-unchanged/",
-      "published": "Wed, 10 Dec 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "2026 mortgage appraisal threshold set at $34,200",
+        "url": "https://www.housingwire.com/articles/2026-mortgage-appraisal-threshold/",
+        "what": "The 2026 threshold for higher-priced mortgage loans will increase to $34,200, reflecting a 2.1% CPI-W increase.",
+        "numbers": "2026, $34,200,, 2.1",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-mortgage-appraisal-threshold/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "November jobs data indicates softening economy",
+        "url": "https://www.housingwire.com/articles/labor-market-softens-november/",
+        "what": "Negative revisions for August and September, and a 100,000+ jobs loss in October were slightly offset by a +64,000 job gain in November.",
+        "numbers": "100,000, 64,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/labor-market-softens-november/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Mortgage Rates Likely to Remain Unchanged Following Mixed October, November Jobs Data",
+        "url": "https://www.redfin.com/news/economist-take-november-jobs-data/",
+        "what": "October and November jobs data came in cooler than expected, but the long government shutdown muddies the waters",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/economist-take-november-jobs-data/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Washington Flooding: Redfin’s Latest Flood-Risk and Housing Data as Atmospheric River Sweeps State",
         "url": "https://www.redfin.com/news/washington-state-flooding-2025/",
@@ -226,15 +253,6 @@
         "what": "This Week In A Nutshell Mortgage rates are flat after the Fed cut rates last week, as expected, while also communicating that it’ll likely be the last cut for a while",
         "numbers": "",
         "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-december-15/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage Rates to Hold Steady in Wake of Fed’s Interest-Rate Cut",
-        "url": "https://www.redfin.com/news/fed-interest-rate-cut-mortgage-rates-unchanged/",
-        "what": "The Fed’s December interest-rate cut won’t move mortgage rates because markets have already priced it in",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/fed-interest-rate-cut-mortgage-rates-unchanged/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
@@ -286,24 +304,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Homebuilder confidence ticks up but remains low",
-        "url": "https://www.housingwire.com/articles/homebuilder-confidence-ticks-up-but-remains-low/",
-        "what": "Builder confidence rose slightly in December but remains low, with 40% of builders cutting prices and 67% offering incentives",
-        "numbers": "40, 67",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-confidence-ticks-up-but-remains-low/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Inside Pennymac’s Texas expansion and its push for top mortgage talent",
-        "url": "https://www.housingwire.com/articles/pennymac-texas-hiring-growth/",
-        "what": "Pennymac CEO David Spector talks about the company's new Texas office, AI investment and Team USA partnership in this Q&A.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pennymac-texas-hiring-growth/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Meet the agents who joined Redfin in November!",
         "url": "https://www.redfin.com/news/november-2025-agent-hires/",
         "what": "As we head into the final weeks of the year, we’re excited to welcome the newest agents who joined Redfin in November",
@@ -324,6 +324,15 @@
     ],
     "notables": [
       {
+        "title": "Informed.IQ raises $63M from Invictus to expand AI loan verification",
+        "url": "https://www.housingwire.com/articles/informed-iq-63m-funding-expansion/",
+        "what": "Informed.IQ raises $63M from Invictus to expand its AI-powered loan verification platform, aiming to reduce fraud and enhance efficiency.",
+        "numbers": "$63",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/informed-iq-63m-funding-expansion/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Biggest stories of 2025: NAR’s Clear Cooperation Policy battle",
         "url": "https://www.housingwire.com/articles/compass-zillow-private-listings-2025-rewind/",
         "what": "Compass lawsuits and NAR’s new delayed listing policy fuel debate over private networks, transparency, and MLS rules in 2025.",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/florida-property-insurance-market-is-rebounding-from-2022-low-point/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Opendoor names Lucas Matheson president, Christy Schwartz CFO",
-        "url": "https://www.housingwire.com/articles/opendoor-names-president-cfo/",
-        "what": "Opendoor names Lucas Matheson as president and Christy Schwartz as CFO, aiming to accelerate growth and innovation.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-names-president-cfo/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
