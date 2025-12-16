@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-16 11:31 UTC",
+  "as_of": "2025-12-16 13:06 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Biggest stories of 2025: NAR’s Clear Cooperation Policy battle",
+      "link": "https://www.housingwire.com/articles/compass-zillow-private-listings-2025-rewind/",
+      "published": "Tue, 16 Dec 2025"
+    },
+    {
       "title": "The will to solve problems",
       "link": "https://www.housingwire.com/articles/the-will-to-solve-problems/",
       "published": "Tue, 16 Dec 2025"
@@ -165,9 +170,9 @@
       "published": "Mon, 15 Dec 2025"
     },
     {
-      "title": "Homebuilder confidence ticks up but remains low",
-      "link": "https://www.housingwire.com/articles/homebuilder-confidence-ticks-up-but-remains-low/",
-      "published": "Mon, 15 Dec 2025"
+      "title": "Washington Flooding: Redfin’s Latest Flood-Risk and Housing Data as Atmospheric River Sweeps State",
+      "link": "https://www.redfin.com/news/washington-state-flooding-2025/",
+      "published": "Tue, 16 Dec 2025"
     },
     {
       "title": "Redfin Economists’ Weekly Take: Mortgage Rates Flat After Fed Cut, All Eyes on Incoming Jobs and Inflation Data",
@@ -193,15 +198,19 @@
       "title": "Homebuyers Are More Likely to Click on Climate-Risk Data After Major Disasters—But the Urgency Is Fleeting",
       "link": "https://www.redfin.com/news/how-homebuyers-engage-with-climate-risk-data/",
       "published": "Tue, 09 Dec 2025"
-    },
-    {
-      "title": "Redfin Economists’ Weekly Take: Fed Poised to Make Expected Rate Cut, But 2026 Projections Could Jolt Mortgage Rates",
-      "link": "https://www.redfin.com/news/weekly-economics-update-december-8/",
-      "published": "Tue, 09 Dec 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Washington Flooding: Redfin’s Latest Flood-Risk and Housing Data as Atmospheric River Sweeps State",
+        "url": "https://www.redfin.com/news/washington-state-flooding-2025/",
+        "what": "This report outlines county-level flood-risk data and housing statistics for Washington State in light of this month’s devastating flooding",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/washington-state-flooding-2025/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
       {
         "title": "PadSplit expands co-living services to 4 new cities",
         "url": "https://www.housingwire.com/articles/padsplit-expands-co-living-services-to-4-new-cities/",
@@ -302,18 +311,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-housing-supply-tightens-new-listings-decline/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Homebuyers Are More Likely to Click on Climate-Risk Data After Major Disasters—But the Urgency Is Fleeting",
-        "url": "https://www.redfin.com/news/how-homebuyers-engage-with-climate-risk-data/",
-        "what": "The share of Redfin users clicking into the climate-risk section of home listings nearly doubled after the 2025 Los Angeles wildfires started burning",
-        "numbers": "2025",
-        "justified": "redfin.com — https://www.redfin.com/news/how-homebuyers-engage-with-climate-risk-data/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
+      {
+        "title": "Biggest stories of 2025: NAR’s Clear Cooperation Policy battle",
+        "url": "https://www.housingwire.com/articles/compass-zillow-private-listings-2025-rewind/",
+        "what": "Compass lawsuits and NAR’s new delayed listing policy fuel debate over private networks, transparency, and MLS rules in 2025.",
+        "numbers": "2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-zillow-private-listings-2025-rewind/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Florida property insurance market is rebounding from 2022 low point",
         "url": "https://www.housingwire.com/articles/florida-property-insurance-market-is-rebounding-from-2022-low-point/",
@@ -331,15 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-names-president-cfo/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Sweeney amends lawsuit against AIME, names UWM",
-        "url": "https://www.housingwire.com/articles/sweeney-amends-lawsuit-against-aime-names-uwm/",
-        "what": "Katie Sweeney's amended lawsuit against AIME and UWM alleges financial misconduct and contract interference.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sweeney-amends-lawsuit-against-aime-names-uwm/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
