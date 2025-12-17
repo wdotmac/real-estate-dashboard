@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-12-17 20:38 UTC",
+  "as_of": "2025-12-17 21:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.18,
-      "delta_bp_1d": -1.0000000000000675
+      "yield_pct": 4.15,
+      "delta_bp_1d": -2.999999999999936
     },
     "mortgage_30y": {
       "rate_pct": 6.22,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "CrossCountry Mortgage picks up top VA loan producer Patton Gade",
+      "link": "https://www.housingwire.com/articles/crosscountry-mortgage-victor-alpha-group-patton-gade/",
+      "published": "Wed, 17 Dec 2025"
+    },
+    {
+      "title": "Mutual of Omaha issues $243.3M proprietary reverse securitization",
+      "link": "https://www.housingwire.com/articles/mutual-of-omaha-reverse-mortgage-securitization/",
+      "published": "Wed, 17 Dec 2025"
+    },
+    {
       "title": "Harvard study: how low immigration could impact housing demand",
       "link": "https://www.housingwire.com/articles/low-immigration-household-growth/",
       "published": "Wed, 17 Dec 2025"
@@ -157,16 +167,6 @@
     {
       "title": "Justin Caplan joins Movement Mortgage as growth director",
       "link": "https://www.housingwire.com/articles/movement-mortgage-growth-director/",
-      "published": "Wed, 17 Dec 2025"
-    },
-    {
-      "title": "Consumer coalition challenges CFPB funding cuts in court",
-      "link": "https://www.housingwire.com/articles/cfpb-funding-lawsuit-trump/",
-      "published": "Wed, 17 Dec 2025"
-    },
-    {
-      "title": "Patrick Ferry departs family firm to join KW MAPS Coaching",
-      "link": "https://www.housingwire.com/articles/patrick-ferry-kw-maps/",
       "published": "Wed, 17 Dec 2025"
     },
     {
@@ -232,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "CrossCountry Mortgage picks up top VA loan producer Patton Gade",
+        "url": "https://www.housingwire.com/articles/crosscountry-mortgage-victor-alpha-group-patton-gade/",
+        "what": "CrossCountry Mortgage welcomes the Victor Alpha Group, enhancing support for veterans and military families.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/crosscountry-mortgage-victor-alpha-group-patton-gade/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Harvard study: how low immigration could impact housing demand",
         "url": "https://www.housingwire.com/articles/low-immigration-household-growth/",
         "what": "A new Harvard analysis finds that low immigration over the next decade would hinder both renting and homeowning household growth",
@@ -278,6 +287,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Mutual of Omaha issues $243.3M proprietary reverse securitization",
+        "url": "https://www.housingwire.com/articles/mutual-of-omaha-reverse-mortgage-securitization/",
+        "what": "The $243.3M securitization, rated by Morningstar DBRS, involves 318 loans with $200.1 million in unpaid principal, primarily in California.",
+        "numbers": "$243.3, 318, $200.1 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mutual-of-omaha-reverse-mortgage-securitization/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Equity Union Real Estate expands in California",
         "url": "https://www.housingwire.com/articles/equity-union-real-estate-expands-in-california/",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/raveis-nar-tech-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "MidOcean, Point ink $600M HEI purchase deal",
-        "url": "https://www.housingwire.com/articles/midocean-partners-point-digital-600m-deal/",
-        "what": "MidOcean Partners enters a $600 million deal with Point to acquire home equity assets, marking a significant growth milestone.",
-        "numbers": "$600 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/midocean-partners-point-digital-600m-deal/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "MISMO appoints Amy Moses as VP of strategic growth",
-        "url": "https://www.housingwire.com/articles/mismo-amy-moses-strategic-growth/",
-        "what": "MISMO announced that Amy Moses is taking on the role of vice president of strategic growth to lead revenue strategy and partnerships.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mismo-amy-moses-strategic-growth/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
