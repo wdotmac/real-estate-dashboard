@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-17 13:45 UTC",
+  "as_of": "2025-12-17 14:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "UWM to acquire Two Harbors, nearly doubling servicing portfolio",
+      "link": "https://www.housingwire.com/articles/uwm-two-harbors-acquisition/",
+      "published": "Wed, 17 Dec 2025"
+    },
+    {
       "title": "Biggest stories in 2025: Rocket, Redfin enters the portal wars",
       "link": "https://www.housingwire.com/articles/zillow-rocket-redfin-portal-wars/",
       "published": "Wed, 17 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Century 21 expands presence in Idaho",
       "link": "https://www.housingwire.com/articles/century-21-expands-presence-in-idaho/",
-      "published": "Tue, 16 Dec 2025"
-    },
-    {
-      "title": "ERA Real Estate affiliate announces North Texas acquisition",
-      "link": "https://www.housingwire.com/articles/era-real-estate-affiliate-dallas-fort-worth-acquisition/",
       "published": "Tue, 16 Dec 2025"
     },
     {
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "UWM to acquire Two Harbors, nearly doubling servicing portfolio",
+        "url": "https://www.housingwire.com/articles/uwm-two-harbors-acquisition/",
+        "what": "United Holding Corp., the parent company of United Wholesale Mortgage (UWM), has struck an all-stock deal to acquire real estate investment trust Two Harbors Investment Corp",
+        "numbers": "$1.3 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-two-harbors-acquisition/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "The Suburbs of St. Louis Are the Most Affordable Place in the U.S. to Buy a Home",
         "url": "https://www.redfin.com/news/most-affordable-cities-november-2025/",
         "what": "The Midwest and South are home to a majority of the country’s most affordable cities",
@@ -302,15 +311,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/ice-mortgage-technology-bob-hart/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Midwest dominates Zillow’s most popular housing markets of 2025",
-        "url": "https://www.housingwire.com/articles/midwest-zillow-most-popular-2025-housing-markets/",
-        "what": "Most of the top-ranked cities feature median home values below $350,000, access to growing job markets and relatively fast home sales.",
-        "numbers": "$350,000,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/midwest-zillow-most-popular-2025-housing-markets/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Aspen Dominates November’s Priciest Home Sales",
