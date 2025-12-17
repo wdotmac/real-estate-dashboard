@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-17 11:31 UTC",
+  "as_of": "2025-12-17 13:06 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Biggest stories in 2025: Rocket, Redfin enters the portal wars",
+      "link": "https://www.housingwire.com/articles/zillow-rocket-redfin-portal-wars/",
+      "published": "Wed, 17 Dec 2025"
+    },
+    {
+      "title": "Mortgage demand drops, but refi share reaches highest level since September",
+      "link": "https://www.housingwire.com/articles/mortgage-applications-fall-interest-rates-rise/",
+      "published": "Wed, 17 Dec 2025"
+    },
+    {
       "title": "Bridging the affordable housing gap: Why smarter data is the foundation for lasting solutions",
       "link": "https://www.housingwire.com/articles/bridging-the-affordable-housing-gap-why-smarter-data-is-the-foundation-for-lasting-solutions/",
       "published": "Wed, 17 Dec 2025"
@@ -160,14 +170,9 @@
       "published": "Tue, 16 Dec 2025"
     },
     {
-      "title": "Why Texas builders are betting on backup batteries for new homes",
-      "link": "https://www.housingwire.com/articles/builder-backup-power-trend/",
-      "published": "Tue, 16 Dec 2025"
-    },
-    {
-      "title": "Supreme Court denies REX’s request to rehear petition",
-      "link": "https://www.housingwire.com/articles/supreme-court-rex-antitrust/",
-      "published": "Tue, 16 Dec 2025"
+      "title": "The Suburbs of St. Louis Are the Most Affordable Place in the U.S. to Buy a Home",
+      "link": "https://www.redfin.com/news/most-affordable-cities-november-2025/",
+      "published": "Wed, 17 Dec 2025"
     },
     {
       "title": "Mortgage Rates Likely to Remain Unchanged Following Mixed October, November Jobs Data",
@@ -193,21 +198,16 @@
       "title": "Meet the agents who joined Redfin in November!",
       "link": "https://www.redfin.com/news/november-2025-agent-hires/",
       "published": "Thu, 11 Dec 2025"
-    },
-    {
-      "title": "New Listings Post Sharpest Drop in 2 Years, Tightening Housing Supply",
-      "link": "https://www.redfin.com/news/housing-market-update-housing-supply-tightens-new-listings-decline/",
-      "published": "Thu, 11 Dec 2025"
     }
   ],
   "feed_101020": {
     "macro": [
       {
-        "title": "Why the Fed isn’t worried about the jobs data",
-        "url": "https://www.housingwire.com/articles/why-the-fed-isnt-worried-about-the-jobs-data/",
-        "what": "Despite a 4.6% unemployment rate and minimal job growth, the Fed maintains a restrictive stance as jobless claims stay low.",
-        "numbers": "4.6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/why-the-fed-isnt-worried-about-the-jobs-data/",
+        "title": "Mortgage demand drops, but refi share reaches highest level since September",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-fall-interest-rates-rise/",
+        "what": "Mortgage applications decreased 3.8% last week as interest rates rose slightly, shifting the refinance share to its highest since September.",
+        "numbers": "3.8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-fall-interest-rates-rise/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -240,6 +240,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "The Suburbs of St. Louis Are the Most Affordable Place in the U.S. to Buy a Home",
+        "url": "https://www.redfin.com/news/most-affordable-cities-november-2025/",
+        "what": "The Midwest and South are home to a majority of the country’s most affordable cities",
+        "numbers": "16, 17.6",
+        "justified": "redfin.com — https://www.redfin.com/news/most-affordable-cities-november-2025/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Biggest stories in 2025: Rocket, Redfin enters the portal wars",
+        "url": "https://www.housingwire.com/articles/zillow-rocket-redfin-portal-wars/",
+        "what": "Rocket’s Redfin acquisition and Lower’s Movoto deal signal a new phase in real estate portal competition, challenging Zillow’s position.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-rocket-redfin-portal-wars/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Bridging the affordable housing gap: Why smarter data is the foundation for lasting solutions",
         "url": "https://www.housingwire.com/articles/bridging-the-affordable-housing-gap-why-smarter-data-is-the-foundation-for-lasting-solutions/",
@@ -311,15 +329,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/november-2025-agent-hires/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "New Listings Post Sharpest Drop in 2 Years, Tightening Housing Supply",
-        "url": "https://www.redfin.com/news/housing-market-update-housing-supply-tightens-new-listings-decline/",
-        "what": "Would-be home sellers and buyers are retreating as we enter the holiday season, with both new listings and pending sales falling",
-        "numbers": "1.7, 7,, 2",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-housing-supply-tightens-new-listings-decline/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/era-real-estate-affiliate-dallas-fort-worth-acquisition/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Freddie Mac appoints Kenny Smith as new CEO",
-        "url": "https://www.housingwire.com/articles/kenny-smith-freddie-mac-ceo/",
-        "what": "Kenny M",
-        "numbers": "17.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kenny-smith-freddie-mac-ceo/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
