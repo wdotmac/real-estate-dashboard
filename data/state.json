@@ -1,10 +1,10 @@
 {
-  "as_of": "2025-12-18 20:32 UTC",
+  "as_of": "2025-12-18 21:28 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.15,
-      "delta_bp_1d": -2.999999999999936
+      "yield_pct": 4.16,
+      "delta_bp_1d": 0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.21,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "J.P. Morgan: Credit card debt a retirement hurdle for many",
+      "link": "https://www.housingwire.com/articles/credit-card-debt-retirement/",
+      "published": "Thu, 18 Dec 2025"
+    },
+    {
+      "title": "Will federal AI regulations override state housing efforts?",
+      "link": "https://www.housingwire.com/articles/federal-ai-regulations-state-housing-efforts/",
+      "published": "Thu, 18 Dec 2025"
+    },
+    {
+      "title": "Exclusive: UWM’s Blake Kolo breaks down the strategy behind the Two Harbors deal",
+      "link": "https://www.housingwire.com/articles/uwm-two-harbors-acquisition-2/",
+      "published": "Thu, 18 Dec 2025"
+    },
+    {
       "title": "Matic says home insurance market stabilized in 2025",
       "link": "https://www.housingwire.com/articles/home-insurance-market-2025/",
       "published": "Thu, 18 Dec 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Senators urge DOJ, FTC to review Compass-Anywhere merger for antitrust risk",
       "link": "https://www.housingwire.com/articles/compass-anywhere-merger-antitrust/",
-      "published": "Thu, 18 Dec 2025"
-    },
-    {
-      "title": "Natalie Passerini returns as Douglas Elliman CMO to lead brand evolution",
-      "link": "https://www.housingwire.com/articles/douglas-elliman-new-cmo/",
-      "published": "Thu, 18 Dec 2025"
-    },
-    {
-      "title": "Twin Cities real estate experts on how policy reforms have impacted inventory, affordability",
-      "link": "https://www.housingwire.com/articles/twin-cities-housing-affordability/",
-      "published": "Thu, 18 Dec 2025"
-    },
-    {
-      "title": "OCC proposes simplified CRA plans for community banks",
-      "link": "https://www.housingwire.com/articles/occ-cra-guidance-community-banks/",
       "published": "Thu, 18 Dec 2025"
     },
     {
@@ -203,20 +203,29 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "J.P. Morgan: Credit card debt a retirement hurdle for many",
+        "url": "https://www.housingwire.com/articles/credit-card-debt-retirement/",
+        "what": "A recent study found that high credit card balances are linked to lower retirement account contribution rates and smaller account balances.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/credit-card-debt-retirement/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Will federal AI regulations override state housing efforts?",
+        "url": "https://www.housingwire.com/articles/federal-ai-regulations-state-housing-efforts/",
+        "what": "A new Trump executive order creating a single federal framework for artificial intelligence is reverberating through the housing industry.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/federal-ai-regulations-state-housing-efforts/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage Rates Stay Relatively Flat After Noisy Inflation Data",
         "url": "https://www.redfin.com/news/mortgage-rates-steady-noisy-inflation-data/",
         "what": "Takeaway: Core CPI inflation came in at 2.6% year over year, much lower than consensus expectations of 3.0%",
         "numbers": "2.6, 3.0",
         "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-steady-noisy-inflation-data/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Inflation cooled in November after September peak",
-        "url": "https://www.housingwire.com/articles/november-inflation-slows-2025/",
-        "what": "Inflation cooled to an annual increase of 2.7% in November as energy prices rise after posting a 3.0% increase in September",
-        "numbers": "2.7, 3.0",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/november-inflation-slows-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -259,24 +268,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "What’s new from Tech100 honoree CLARIFIRE? Security, AI transcription and automation for mortgage servicers",
-        "url": "https://www.housingwire.com/articles/clarifire-ai-automation-2025/",
-        "what": "CLARIFIRE achieved CSA STAR Level Two certification and introduced new AI, automation and document processing tools to help servicers enhance security, borrower support and workflo",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/clarifire-ai-automation-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage payments decrease slightly in November",
-        "url": "https://www.housingwire.com/articles/homebuyer-affordability-improves-november/",
-        "what": "Homebuyer affordability improved for the sixth consecutive month in November as median mortgage payments decreased slightly.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuyer-affordability-improves-november/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Pending Home Sales Fall 6%, the Biggest Drop in Nearly a Year",
         "url": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-holiday/",
         "what": "House hunters are retreating amid high housing costs and a seasonal slowdown, leading prospective sellers to pull back, too",
@@ -305,6 +296,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Exclusive: UWM’s Blake Kolo breaks down the strategy behind the Two Harbors deal",
+        "url": "https://www.housingwire.com/articles/uwm-two-harbors-acquisition-2/",
+        "what": "UWM’s $1.3B Two Harbors deal adds $176B in servicing rights, targets $150M in synergies and boosts public float by 93%.",
+        "numbers": "$1.3, $176, $150, 93",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-two-harbors-acquisition-2/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Matic says home insurance market stabilized in 2025",
         "url": "https://www.housingwire.com/articles/home-insurance-market-2025/",
