@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-18 19:27 UTC",
+  "as_of": "2025-12-18 20:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Matic says home insurance market stabilized in 2025",
+      "link": "https://www.housingwire.com/articles/home-insurance-market-2025/",
+      "published": "Thu, 18 Dec 2025"
+    },
+    {
+      "title": "AD Mortgage survey reveals positive 2026 outlook from brokers",
+      "link": "https://www.housingwire.com/articles/mortgage-brokers-2026-outlook/",
+      "published": "Thu, 18 Dec 2025"
+    },
+    {
       "title": "Senators urge DOJ, FTC to review Compass-Anywhere merger for antitrust risk",
       "link": "https://www.housingwire.com/articles/compass-anywhere-merger-antitrust/",
       "published": "Thu, 18 Dec 2025"
@@ -160,16 +170,6 @@
       "published": "Thu, 18 Dec 2025"
     },
     {
-      "title": "New executives named at @properties Christie’s International Real Estate",
-      "link": "https://www.housingwire.com/articles/christies-leadership-changes-2025/",
-      "published": "Thu, 18 Dec 2025"
-    },
-    {
-      "title": "What’s new from Tech100 honoree CLARIFIRE? Security, AI transcription and automation for mortgage servicers",
-      "link": "https://www.housingwire.com/articles/clarifire-ai-automation-2025/",
-      "published": "Thu, 18 Dec 2025"
-    },
-    {
       "title": "Mortgage Rates Stay Relatively Flat After Noisy Inflation Data",
       "link": "https://www.redfin.com/news/mortgage-rates-steady-noisy-inflation-data/",
       "published": "Thu, 18 Dec 2025"
@@ -181,7 +181,7 @@
     },
     {
       "title": "The Suburbs of St. Louis Are the Most Affordable Place in the U.S. to Buy a Home",
-      "link": "https://www.redfin.com/news/most-affordable-cities-november-2025/",
+      "link": "https://www.redfin.com/news/most-affordable-cities-for-homebuyers-2025/",
       "published": "Wed, 17 Dec 2025"
     },
     {
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "AD Mortgage survey reveals positive 2026 outlook from brokers",
+        "url": "https://www.housingwire.com/articles/mortgage-brokers-2026-outlook/",
+        "what": "AD Mortgage's 2026 outlook reveals brokers' optimism for growth, citing stronger referral networks and more non-QM offerings as key drivers.",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-brokers-2026-outlook/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Twin Cities real estate experts on how policy reforms have impacted inventory, affordability",
         "url": "https://www.housingwire.com/articles/twin-cities-housing-affordability/",
         "what": "Minneapolis and St",
@@ -268,15 +277,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Homebuilders have new competition for lots. Data centers",
-        "url": "https://www.housingwire.com/articles/ai-data-center-land-impact/",
-        "what": "On the outskirts of Dallas/Fort Worth, where pastureland once stretched uninterrupted to the horizon, thousands of new structures are rising",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-data-center-land-impact/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Pending Home Sales Fall 6%, the Biggest Drop in Nearly a Year",
         "url": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-holiday/",
         "what": "House hunters are retreating amid high housing costs and a seasonal slowdown, leading prospective sellers to pull back, too",
@@ -287,10 +287,10 @@
       },
       {
         "title": "The Suburbs of St. Louis Are the Most Affordable Place in the U.S. to Buy a Home",
-        "url": "https://www.redfin.com/news/most-affordable-cities-november-2025/",
+        "url": "https://www.redfin.com/news/most-affordable-cities-for-homebuyers-2025/",
         "what": "The Midwest and South are home to a majority of the country’s most affordable cities",
         "numbers": "16, 17.6",
-        "justified": "redfin.com — https://www.redfin.com/news/most-affordable-cities-november-2025/",
+        "justified": "redfin.com — https://www.redfin.com/news/most-affordable-cities-for-homebuyers-2025/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
@@ -305,6 +305,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Matic says home insurance market stabilized in 2025",
+        "url": "https://www.housingwire.com/articles/home-insurance-market-2025/",
+        "what": "Matic's 2025 report shows home insurance stabilizing with tech-driven risk assessment, but premiums remain high.",
+        "numbers": "2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/home-insurance-market-2025/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Senators urge DOJ, FTC to review Compass-Anywhere merger for antitrust risk",
         "url": "https://www.housingwire.com/articles/compass-anywhere-merger-antitrust/",
@@ -338,15 +347,6 @@
         "what": "@properties appoints Paul Blackburn, Rachel Scheid and Rick Sobin to new executive roles as part of a 2025 leadership shakeup.",
         "numbers": "2025",
         "justified": "housingwire.com — https://www.housingwire.com/articles/christies-leadership-changes-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "8 best Massachusetts real estate schools for 2026",
-        "url": "https://www.housingwire.com/articles/real-estate-schools-massachusetts/",
-        "what": "We share our expertise and research on the best real estate schools in MA to help you launch your new career.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-schools-massachusetts/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
