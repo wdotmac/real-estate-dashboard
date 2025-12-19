@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-19 21:30 UTC",
+  "as_of": "2025-12-19 22:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "TD Bank expresses cautious optimism for affordable housing in 2026",
+      "link": "https://www.housingwire.com/articles/td-bank-affordable-housing-2026/",
+      "published": "Fri, 19 Dec 2025"
+    },
+    {
+      "title": "Sonic Fire Tech launches infrasound wildfire defense system in California",
+      "link": "https://www.housingwire.com/articles/infrasound-wildfire-defense-california/",
+      "published": "Fri, 19 Dec 2025"
+    },
+    {
+      "title": "Keller Williams sharpens focus on agent teams for 2026",
+      "link": "https://www.housingwire.com/articles/keller-williams-team-growth-2026/",
+      "published": "Fri, 19 Dec 2025"
+    },
+    {
       "title": "CertifID’s Tyler Adams on deepfakes, fraud and protecting homebuyers",
       "link": "https://www.housingwire.com/articles/real-estate-wire-fraud-ai/",
       "published": "Fri, 19 Dec 2025"
@@ -152,21 +167,6 @@
     {
       "title": "Top agent Heather Domi rejoins Douglas Elliman in Manhattan",
       "link": "https://www.housingwire.com/articles/heather-domi-returns-elliman/",
-      "published": "Fri, 19 Dec 2025"
-    },
-    {
-      "title": "Better names Barry Feierstein as new COO",
-      "link": "https://www.housingwire.com/articles/barry-feierstein-better-coo/",
-      "published": "Fri, 19 Dec 2025"
-    },
-    {
-      "title": "November existing home sales edge up while inventory falls",
-      "link": "https://www.housingwire.com/articles/november-home-sales-rise/",
-      "published": "Fri, 19 Dec 2025"
-    },
-    {
-      "title": "Tariffs could inflate housing costs, but the full impact remains uncertain",
-      "link": "https://www.housingwire.com/articles/tariffs-home-cost-impact/",
       "published": "Fri, 19 Dec 2025"
     },
     {
@@ -232,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "TD Bank expresses cautious optimism for affordable housing in 2026",
+        "url": "https://www.housingwire.com/articles/td-bank-affordable-housing-2026/",
+        "what": "A TD Bank survey shows that half of affordable housing professionals believe market challenges will affect their deal pipelines next year.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/td-bank-affordable-housing-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Reverse mortgage vet says an end to HUD counseling risks senior protections",
         "url": "https://www.housingwire.com/articles/hud-counseling-removal-risks/",
         "what": "A proposal to remove HUD-required counseling for reverse mortgages could strip key senior protections, warns NatEquity CEO Peter Mazonas.",
@@ -277,24 +286,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Senate confirms top leaders for HUD, Ginnie Mae and FDIC",
-        "url": "https://www.housingwire.com/articles/senate-confirms-housing-leaders/",
-        "what": "The Senate confirmed Frank Cassidy as FHA commissioner and the assistant secretary for housing and Joe Gormley as Ginnie Mae's new president.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/senate-confirms-housing-leaders/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How can builders turn land constraints into long-term value?",
-        "url": "https://www.housingwire.com/articles/special-purpose-districts-land-value/",
-        "what": "Special-purpose taxing districts help builders fund infrastructure, reduce capital needs, and align costs with future value.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/special-purpose-districts-land-value/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Pending Home Sales Fall 6%, the Biggest Drop in Nearly a Year",
         "url": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-holiday/",
         "what": "House hunters are retreating amid high housing costs and a seasonal slowdown, leading prospective sellers to pull back, too",
@@ -324,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "Sonic Fire Tech launches infrasound wildfire defense system in California",
+        "url": "https://www.housingwire.com/articles/infrasound-wildfire-defense-california/",
+        "what": "Sonic Fire Tech has launched a wildfire defense system using infrasound to extinguish fires without water or chemicals",
+        "numbers": "1,500",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/infrasound-wildfire-defense-california/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Keller Williams sharpens focus on agent teams for 2026",
+        "url": "https://www.housingwire.com/articles/keller-williams-team-growth-2026/",
+        "what": "Keller Williams is rolling out updated training, mastermind groups and leadership to support agent teams in 2026.",
+        "numbers": "2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/keller-williams-team-growth-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "CertifID’s Tyler Adams on deepfakes, fraud and protecting homebuyers",
         "url": "https://www.housingwire.com/articles/real-estate-wire-fraud-ai/",
         "what": "Fraudsters are combining AI with patience, timing and realism to exploit real estate transactions in increasingly convincing ways.",
@@ -338,15 +347,6 @@
         "what": "Feierstein brings more than 30 years of experience and most recently served as chief operating officer at Hamilton Insurance Agency.",
         "numbers": "30",
         "justified": "housingwire.com — https://www.housingwire.com/articles/barry-feierstein-better-coo/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Biggest stories of 2025: Referral fees — to disclose or not to disclose?",
-        "url": "https://www.housingwire.com/articles/referral-fee-transparency-2025/",
-        "what": "An increased push for consumer transparency in 2025 forced the real estate industry to examine how it handles referral fees.",
-        "numbers": "2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/referral-fee-transparency-2025/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
