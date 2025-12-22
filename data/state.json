@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-22 19:28 UTC",
+  "as_of": "2025-12-22 20:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "KB Home bets on built-to-order strategy amid a spec-heavy market",
+      "link": "https://www.housingwire.com/articles/kb-home-built-to-order-strategy/",
+      "published": "Mon, 22 Dec 2025"
+    },
+    {
+      "title": "Financial firms face rising cyber risks, data challenges",
+      "link": "https://www.housingwire.com/articles/financial-services-cyber-threats/",
+      "published": "Mon, 22 Dec 2025"
+    },
+    {
       "title": "United Real Estate CEO Dan Duffy on the roadmap for competitive advantage",
       "link": "https://www.housingwire.com/articles/real-estate-data-strategy-2026-duffy/",
       "published": "Mon, 22 Dec 2025"
@@ -160,13 +170,8 @@
       "published": "Mon, 22 Dec 2025"
     },
     {
-      "title": "The long game: How Florida Realtors® created a sustainable real estate tech ecosystem",
-      "link": "https://www.housingwire.com/articles/the-long-game-how-florida-realtors-created-a-sustainable-real-estate-tech-ecosystem/",
-      "published": "Mon, 22 Dec 2025"
-    },
-    {
-      "title": "The evolution of mortgage marketing: From rates to relationships",
-      "link": "https://www.housingwire.com/articles/the-evolution-of-mortgage-marketing-from-rates-to-relationships/",
+      "title": "Redfin Economists’ Weekly Take: Mortgage Rates Remain Steady Despite Problematic Inflation, Jobs Reports",
+      "link": "https://www.redfin.com/news/mortgage-rates-steady-economic-data-issues/",
       "published": "Mon, 22 Dec 2025"
     },
     {
@@ -193,15 +198,19 @@
       "title": "Mortgage Rates Likely to Remain Unchanged Following Mixed October, November Jobs Data",
       "link": "https://www.redfin.com/news/economist-take-november-jobs-data/",
       "published": "Tue, 16 Dec 2025"
-    },
-    {
-      "title": "Aspen Dominates November’s Priciest Home Sales",
-      "link": "https://www.redfin.com/news/most-expensive-home-sales-november-2025/",
-      "published": "Tue, 16 Dec 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Redfin Economists’ Weekly Take: Mortgage Rates Remain Steady Despite Problematic Inflation, Jobs Reports",
+        "url": "https://www.redfin.com/news/mortgage-rates-steady-economic-data-issues/",
+        "what": "This Week In A Nutshell Mortgage rates are flat despite a much lower than expected inflation report and slightly weak jobs report last week due to serious data issues caused by the government shutdown",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-steady-economic-data-issues/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "The evolution of mortgage marketing: From rates to relationships",
         "url": "https://www.housingwire.com/articles/the-evolution-of-mortgage-marketing-from-rates-to-relationships/",
@@ -295,15 +304,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Spanberger unveils Virginia housing affordability plan",
-        "url": "https://www.housingwire.com/articles/virginia-housing-affordability-plan/",
-        "what": "Virginia Gov.-elect Abigail Spanberger (D) focused on improving affordability during her campaign",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/virginia-housing-affordability-plan/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Pending Home Sales Fall 6%, the Biggest Drop in Nearly a Year",
         "url": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-holiday/",
         "what": "House hunters are retreating amid high housing costs and a seasonal slowdown, leading prospective sellers to pull back, too",
@@ -320,33 +320,33 @@
         "justified": "redfin.com — https://www.redfin.com/news/most-affordable-cities-for-homebuyers-2025/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Aspen Dominates November’s Priciest Home Sales",
-        "url": "https://www.redfin.com/news/most-expensive-home-sales-november-2025/",
-        "what": "America’s ultra-wealthy homebuyers are hitting the slopes this ski season",
-        "numbers": "$56 million",
-        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-november-2025/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
+      {
+        "title": "KB Home bets on built-to-order strategy amid a spec-heavy market",
+        "url": "https://www.housingwire.com/articles/kb-home-built-to-order-strategy/",
+        "what": "KB Home’s focus on built-to-order homes seeks higher margins but may reduce sales volume as market conditions remain volatile.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kb-home-built-to-order-strategy/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Financial firms face rising cyber risks, data challenges",
+        "url": "https://www.housingwire.com/articles/financial-services-cyber-threats/",
+        "what": "Financial services firms face rising cyber threats and data quality issues, impacting AI adoption and decision-making, according to a new survey.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/financial-services-cyber-threats/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "The long game: How Florida Realtors® created a sustainable real estate tech ecosystem",
         "url": "https://www.housingwire.com/articles/the-long-game-how-florida-realtors-created-a-sustainable-real-estate-tech-ecosystem/",
         "what": "Florida Realtors has spent decades building a member-first real estate tech ecosystem",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/the-long-game-how-florida-realtors-created-a-sustainable-real-estate-tech-ecosystem/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "AOL provider Voxtur files for Chapter 15 bankruptcy",
-        "url": "https://www.housingwire.com/articles/voxtur-bankruptcy-lender-risk/",
-        "what": "Voxtur filed for Chapter 15 bankruptcy in Delaware, citing $77.7 million in liabilities and ongoing litigation.",
-        "numbers": "15, $77.7 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/voxtur-bankruptcy-lender-risk/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
