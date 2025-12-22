@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-22 11:29 UTC",
+  "as_of": "2025-12-22 13:03 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Fri, 19 Dec 2025"
     },
     {
+      "title": "Home Sellers Retreat, With Supply Posting Biggest Decline Since 2023",
+      "link": "https://www.redfin.com/news/housing-supply-falls-november-2025/",
+      "published": "Mon, 22 Dec 2025"
+    },
+    {
       "title": "Mortgage Rates Stay Relatively Flat After Noisy Inflation Data",
       "link": "https://www.redfin.com/news/mortgage-rates-steady-noisy-inflation-data/",
       "published": "Thu, 18 Dec 2025"
@@ -192,11 +197,6 @@
     {
       "title": "Aspen Dominates November’s Priciest Home Sales",
       "link": "https://www.redfin.com/news/most-expensive-home-sales-november-2025/",
-      "published": "Tue, 16 Dec 2025"
-    },
-    {
-      "title": "Washington Flooding: Redfin’s Latest Flood-Risk and Housing Data as Atmospheric River Sweeps State",
-      "link": "https://www.redfin.com/news/washington-state-flooding-2025/",
       "published": "Tue, 16 Dec 2025"
     }
   ],
@@ -237,18 +237,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/economist-take-november-jobs-data/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Washington Flooding: Redfin’s Latest Flood-Risk and Housing Data as Atmospheric River Sweeps State",
-        "url": "https://www.redfin.com/news/washington-state-flooding-2025/",
-        "what": "This report outlines county-level flood-risk data and housing statistics for Washington State in light of this month’s devastating flooding",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/washington-state-flooding-2025/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       }
     ],
     "housing": [
+      {
+        "title": "Home Sellers Retreat, With Supply Posting Biggest Decline Since 2023",
+        "url": "https://www.redfin.com/news/housing-supply-falls-november-2025/",
+        "what": "Active listings fell 1.4% month over month in November as sellers backed off due to sluggish homebuyer demand",
+        "numbers": "1.4, 53, 2023",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-supply-falls-november-2025/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Why did the growth rate of housing inventory drop by half this year?",
         "url": "https://www.housingwire.com/articles/housing-inventory-growth-2025/",
