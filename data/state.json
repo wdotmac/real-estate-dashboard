@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-22 15:34 UTC",
+  "as_of": "2025-12-22 16:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "NRMLA urges CFPB not to restrict age-based programs like reverse mortgages",
+      "link": "https://www.housingwire.com/articles/nrmla-opposes-cfpb-lending-rule-changes/",
+      "published": "Mon, 22 Dec 2025"
+    },
+    {
       "title": "Under pressure, public homebuilders rebrand or mute DEI stance",
       "link": "https://www.housingwire.com/articles/homebuilders-dei-policies/",
       "published": "Mon, 22 Dec 2025"
@@ -163,11 +168,6 @@
       "title": "Why did the growth rate of housing inventory drop by half this year?",
       "link": "https://www.housingwire.com/articles/housing-inventory-growth-2025/",
       "published": "Sun, 21 Dec 2025"
-    },
-    {
-      "title": "Existing home sales hit 9-month high with inventory at 1.43M units",
-      "link": "https://www.housingwire.com/articles/existing-home-sales-hit-9-month-high-with-inventory-at-1-43m-units/",
-      "published": "Sat, 20 Dec 2025"
     },
     {
       "title": "Home Sellers Retreat, With Supply Posting Biggest Decline Since 2023",
@@ -240,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "NRMLA urges CFPB not to restrict age-based programs like reverse mortgages",
+        "url": "https://www.housingwire.com/articles/nrmla-opposes-cfpb-lending-rule-changes/",
+        "what": "NRMLA urges CFPB to reconsider proposed lending rule changes, warning they could impair reverse mortgages by restricting age-based programs.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nrmla-opposes-cfpb-lending-rule-changes/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Under pressure, public homebuilders rebrand or mute DEI stance",
         "url": "https://www.housingwire.com/articles/homebuilders-dei-policies/",
@@ -338,15 +347,6 @@
         "what": "Voxtur filed for Chapter 15 bankruptcy in Delaware, citing $77.7 million in liabilities and ongoing litigation.",
         "numbers": "15, $77.7 million",
         "justified": "housingwire.com — https://www.housingwire.com/articles/voxtur-bankruptcy-lender-risk/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Sonic Fire Tech launches infrasound wildfire defense system in California",
-        "url": "https://www.housingwire.com/articles/infrasound-wildfire-defense-california/",
-        "what": "Sonic Fire Tech has launched a wildfire defense system using infrasound to extinguish fires without water or chemicals",
-        "numbers": "1,500",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/infrasound-wildfire-defense-california/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
