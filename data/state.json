@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-23 17:35 UTC",
+  "as_of": "2025-12-23 18:47 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage rates cool in 2025, but 2026 relief likely limited",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-2026-outlook/",
+      "published": "Tue, 23 Dec 2025"
+    },
+    {
       "title": "MBA 2026 forecast: Slow growth amid inflation, rate hikes",
       "link": "https://www.housingwire.com/articles/us-economic-growth-2025-mba-forecast/",
       "published": "Tue, 23 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Opinion: Easing GSE credit score requirements raises risk concerns",
       "link": "https://www.housingwire.com/articles/gse-credit-score-risk/",
-      "published": "Tue, 23 Dec 2025"
-    },
-    {
-      "title": "FHFA sets 2026-2028 housing goals for GSEs",
-      "link": "https://www.housingwire.com/articles/fhfa-housing-goals-2026-2028/",
       "published": "Tue, 23 Dec 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage rates cool in 2025, but 2026 relief likely limited",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-2026-outlook/",
+        "what": "Mortgage rates started the year slightly above 7% but are heading into the holiday season near 6.2%",
+        "numbers": "7, 6.2, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-2026-outlook/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "MBA 2026 forecast: Slow growth amid inflation, rate hikes",
         "url": "https://www.housingwire.com/articles/us-economic-growth-2025-mba-forecast/",
@@ -302,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/most-competitive-housing-markets-2025/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Suzy Lindblom joins Acra Lending as managing director",
-        "url": "https://www.housingwire.com/articles/suzy-lindblom-acra-lending/",
-        "what": "Suzy Lindblom joins Acra Lending as managing director after Sierra Pacific Mortgage's acquisition by Union Home Mortgage.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/suzy-lindblom-acra-lending/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Home Sellers Retreat, With Supply Posting Biggest Decline Since 2023",
