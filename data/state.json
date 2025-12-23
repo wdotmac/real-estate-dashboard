@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-23 13:48 UTC",
+  "as_of": "2025-12-23 14:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "FHFA sets 2026-2028 housing goals for GSEs",
+      "link": "https://www.housingwire.com/articles/fhfa-housing-goals-2026-2028/",
+      "published": "Tue, 23 Dec 2025"
+    },
+    {
       "title": "No IPO, no apologies: Kuba Jewgieniew on building a global brand without going corporate",
       "link": "https://www.housingwire.com/articles/realty-one-group-20-years/",
       "published": "Tue, 23 Dec 2025"
@@ -165,9 +170,9 @@
       "published": "Mon, 22 Dec 2025"
     },
     {
-      "title": "KB Home bets on built-to-order strategy amid a spec-heavy market",
-      "link": "https://www.housingwire.com/articles/kb-home-built-to-order-strategy/",
-      "published": "Mon, 22 Dec 2025"
+      "title": "The U.S. Housing Market Has 37% More Sellers Than Buyers—More Than Double Last Year’s Gap",
+      "link": "https://www.redfin.com/news/buyers-vs-sellers-november-2025/",
+      "published": "Tue, 23 Dec 2025"
     },
     {
       "title": "U.S. Home Prices Ticked Up 0.2% in November",
@@ -192,11 +197,6 @@
     {
       "title": "Mortgage Rates Stay Relatively Flat After Noisy Inflation Data",
       "link": "https://www.redfin.com/news/mortgage-rates-steady-noisy-inflation-data/",
-      "published": "Thu, 18 Dec 2025"
-    },
-    {
-      "title": "Pending Home Sales Fall 6%, the Biggest Drop in Nearly a Year",
-      "link": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-holiday/",
       "published": "Thu, 18 Dec 2025"
     }
   ],
@@ -231,6 +231,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "FHFA sets 2026-2028 housing goals for GSEs",
+        "url": "https://www.housingwire.com/articles/fhfa-housing-goals-2026-2028/",
+        "what": "The FHFA has issued new housing goals for the GSEs, lowering benchmarks for single-family and multifamily mortgages for 2026-2028.",
+        "numbers": "2026, 2028.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-housing-goals-2026-2028/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "The U.S. Housing Market Has 37% More Sellers Than Buyers—More Than Double Last Year’s Gap",
+        "url": "https://www.redfin.com/news/buyers-vs-sellers-november-2025/",
+        "what": "Summer 2025 was the only time in records dating back to 2013 that sellers outnumbered buyers by a larger percentage",
+        "numbers": "2025, 2013, 37",
+        "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-november-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "U.S. Home Prices Ticked Up 0.2% in November",
         "url": "https://www.redfin.com/news/home-price-index-november-2025/",
@@ -286,29 +304,11 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Under pressure, public homebuilders rebrand or mute DEI stance",
-        "url": "https://www.housingwire.com/articles/homebuilders-dei-policies/",
-        "what": "Public homebuilders are changing how they reference DEI, with some rebranding or reducing mentions in reports",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilders-dei-policies/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Home Sellers Retreat, With Supply Posting Biggest Decline Since 2023",
         "url": "https://www.redfin.com/news/housing-supply-falls-november-2025/",
         "what": "Active listings fell 1.4% month over month in November as sellers backed off due to sluggish homebuyer demand",
         "numbers": "1.4, 53, 2023",
         "justified": "redfin.com — https://www.redfin.com/news/housing-supply-falls-november-2025/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Pending Home Sales Fall 6%, the Biggest Drop in Nearly a Year",
-        "url": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-holiday/",
-        "what": "House hunters are retreating amid high housing costs and a seasonal slowdown, leading prospective sellers to pull back, too",
-        "numbers": "5.8, 14,, 2025., 6",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-fall-holiday/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
