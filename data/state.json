@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-23 15:35 UTC",
+  "as_of": "2025-12-23 16:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "MBA 2026 forecast: Slow growth amid inflation, rate hikes",
+      "link": "https://www.housingwire.com/articles/us-economic-growth-2025-mba-forecast/",
+      "published": "Tue, 23 Dec 2025"
+    },
+    {
+      "title": "November sees sharp rise in U.S. mortgage delinquencies",
+      "link": "https://www.housingwire.com/articles/november-sees-sharp-rise-in-u-s-mortgage-delinquencies/",
+      "published": "Tue, 23 Dec 2025"
+    },
+    {
       "title": "How The Loan Store doubled volume in a crowded wholesale market",
       "link": "https://www.housingwire.com/articles/loan-store-wholesale-growth/",
       "published": "Tue, 23 Dec 2025"
@@ -157,16 +167,6 @@
     {
       "title": "FHFA sets 2026-2028 housing goals for GSEs",
       "link": "https://www.housingwire.com/articles/fhfa-housing-goals-2026-2028/",
-      "published": "Tue, 23 Dec 2025"
-    },
-    {
-      "title": "No IPO, no apologies: Kuba Jewgieniew on building a global brand without going corporate",
-      "link": "https://www.housingwire.com/articles/realty-one-group-20-years/",
-      "published": "Tue, 23 Dec 2025"
-    },
-    {
-      "title": "The rise of credit solutions in lending: Why loan officers with credit tools find more success",
-      "link": "https://www.housingwire.com/articles/the-rise-of-credit-solutions-in-lending-why-loan-officers-with-credit-tools-find-more-success/",
       "published": "Tue, 23 Dec 2025"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "MBA 2026 forecast: Slow growth amid inflation, rate hikes",
+        "url": "https://www.housingwire.com/articles/us-economic-growth-2025-mba-forecast/",
+        "what": "MBA’s December forecast projects economic growth of 1.6% in 2025 and puts the chance of a recession over the next 12 months at 35%.",
+        "numbers": "1.6, 2025, 12, 35",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/us-economic-growth-2025-mba-forecast/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Opinion: Easing GSE credit score requirements raises risk concerns",
         "url": "https://www.housingwire.com/articles/gse-credit-score-risk/",
@@ -240,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "November sees sharp rise in U.S. mortgage delinquencies",
+        "url": "https://www.housingwire.com/articles/november-sees-sharp-rise-in-u-s-mortgage-delinquencies/",
+        "what": "U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/november-sees-sharp-rise-in-u-s-mortgage-delinquencies/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "reAlpha to buy InstaMortgage for $8.5M to expand direct lending",
         "url": "https://www.housingwire.com/articles/realpha-instamortgage-acquisition/",
@@ -295,15 +313,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "The 6 best mortgage loan originator (MLO) license courses for 2026",
-        "url": "https://www.housingwire.com/articles/mortgage-loan-originator-license-courses/",
-        "what": "We’ve scoured dozens of mortgage loan originator license courses and reviewed them based on pricing, features and learning style to deliver the best mortgage classes for you.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-loan-originator-license-courses/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Home Sellers Retreat, With Supply Posting Biggest Decline Since 2023",
         "url": "https://www.redfin.com/news/housing-supply-falls-november-2025/",
         "what": "Active listings fell 1.4% month over month in November as sellers backed off due to sluggish homebuyer demand",
@@ -338,15 +347,6 @@
         "what": "HomeServices of America CEO Chris Kelly discusses leadership changes, digital integration, and a full-service strategy for 2026 growth.",
         "numbers": "2026",
         "justified": "housingwire.com — https://www.housingwire.com/articles/homeservices-chris-kelly-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "KB Home bets on built-to-order strategy amid a spec-heavy market",
-        "url": "https://www.housingwire.com/articles/kb-home-built-to-order-strategy/",
-        "what": "KB Home’s focus on built-to-order homes seeks higher margins but may reduce sales volume as market conditions remain volatile.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kb-home-built-to-order-strategy/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
