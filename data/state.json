@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-23 14:37 UTC",
+  "as_of": "2025-12-23 15:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "How The Loan Store doubled volume in a crowded wholesale market",
+      "link": "https://www.housingwire.com/articles/loan-store-wholesale-growth/",
+      "published": "Tue, 23 Dec 2025"
+    },
+    {
+      "title": "reAlpha to buy InstaMortgage for $8.5M to expand direct lending",
+      "link": "https://www.housingwire.com/articles/realpha-instamortgage-acquisition/",
+      "published": "Tue, 23 Dec 2025"
+    },
+    {
+      "title": "Opinion: Easing GSE credit score requirements raises risk concerns",
+      "link": "https://www.housingwire.com/articles/gse-credit-score-risk/",
+      "published": "Tue, 23 Dec 2025"
+    },
+    {
       "title": "FHFA sets 2026-2028 housing goals for GSEs",
       "link": "https://www.housingwire.com/articles/fhfa-housing-goals-2026-2028/",
       "published": "Tue, 23 Dec 2025"
@@ -153,21 +168,6 @@
       "title": "The rise of credit solutions in lending: Why loan officers with credit tools find more success",
       "link": "https://www.housingwire.com/articles/the-rise-of-credit-solutions-in-lending-why-loan-officers-with-credit-tools-find-more-success/",
       "published": "Tue, 23 Dec 2025"
-    },
-    {
-      "title": "HomeServices of America CEO Chris Kelly charts new strategy for 2026",
-      "link": "https://www.housingwire.com/articles/homeservices-chris-kelly-2026/",
-      "published": "Tue, 23 Dec 2025"
-    },
-    {
-      "title": "Suzy Lindblom joins Acra Lending as managing director",
-      "link": "https://www.housingwire.com/articles/suzy-lindblom-acra-lending/",
-      "published": "Mon, 22 Dec 2025"
-    },
-    {
-      "title": "The 6 best mortgage loan originator (MLO) license courses for 2026",
-      "link": "https://www.housingwire.com/articles/mortgage-loan-originator-license-courses/",
-      "published": "Mon, 22 Dec 2025"
     },
     {
       "title": "The U.S. Housing Market Has 37% More Sellers Than Buyers—More Than Double Last Year’s Gap",
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Opinion: Easing GSE credit score requirements raises risk concerns",
+        "url": "https://www.housingwire.com/articles/gse-credit-score-risk/",
+        "what": "Removing minimum credit score requirements could increase risk for GSEs as new models and scores are adopted, raising concerns for investors.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gse-credit-score-risk/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "The rise of credit solutions in lending: Why loan officers with credit tools find more success",
         "url": "https://www.housingwire.com/articles/the-rise-of-credit-solutions-in-lending-why-loan-officers-with-credit-tools-find-more-success/",
         "what": "A credit report shows a score and a list of tradelines",
@@ -231,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "reAlpha to buy InstaMortgage for $8.5M to expand direct lending",
+        "url": "https://www.housingwire.com/articles/realpha-instamortgage-acquisition/",
+        "what": "Real estate technology company reAlpha Tech Corp",
+        "numbers": "$8.5 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/realpha-instamortgage-acquisition/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "FHFA sets 2026-2028 housing goals for GSEs",
         "url": "https://www.housingwire.com/articles/fhfa-housing-goals-2026-2028/",
@@ -286,24 +304,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "United Real Estate CEO Dan Duffy on the roadmap for competitive advantage",
-        "url": "https://www.housingwire.com/articles/real-estate-data-strategy-2026-duffy/",
-        "what": "Reading housings forecasts online is only one part of the equation; the real strategy is how you apply them to stay nimble.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-data-strategy-2026-duffy/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NRMLA urges CFPB not to restrict age-based programs like reverse mortgages",
-        "url": "https://www.housingwire.com/articles/nrmla-opposes-cfpb-lending-rule-changes/",
-        "what": "NRMLA urges CFPB to reconsider proposed lending rule changes, warning they could impair reverse mortgages by restricting age-based programs.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nrmla-opposes-cfpb-lending-rule-changes/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Home Sellers Retreat, With Supply Posting Biggest Decline Since 2023",
         "url": "https://www.redfin.com/news/housing-supply-falls-november-2025/",
         "what": "Active listings fell 1.4% month over month in November as sellers backed off due to sluggish homebuyer demand",
@@ -314,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "How The Loan Store doubled volume in a crowded wholesale market",
+        "url": "https://www.housingwire.com/articles/loan-store-wholesale-growth/",
+        "what": "In the first nine months of 2025, the company doubled its origination volume to $8.2 billion, ranking as the fourth-largest U.S",
+        "numbers": "2025,, $8.2 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/loan-store-wholesale-growth/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "No IPO, no apologies: Kuba Jewgieniew on building a global brand without going corporate",
         "url": "https://www.housingwire.com/articles/realty-one-group-20-years/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/kb-home-built-to-order-strategy/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Financial firms face rising cyber risks, data challenges",
-        "url": "https://www.housingwire.com/articles/financial-services-cyber-threats/",
-        "what": "Financial services firms face rising cyber threats and data quality issues, impacting AI adoption and decision-making, according to a new survey.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/financial-services-cyber-threats/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
