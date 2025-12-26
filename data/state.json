@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-26 17:32 UTC",
+  "as_of": "2025-12-26 18:45 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The U.S. housing market in 2025: A year of normalization",
+      "link": "https://www.housingwire.com/articles/the-u-s-housing-market-in-2025/",
+      "published": "Fri, 26 Dec 2025"
+    },
+    {
+      "title": "Compass-Anywhere deal may exceed DOJ market-share limits in some cities",
+      "link": "https://www.housingwire.com/articles/compass-market-share-analysis/",
+      "published": "Fri, 26 Dec 2025"
+    },
+    {
       "title": "DOJ wants antitrust review of real estate commissions in Davis suit",
       "link": "https://www.housingwire.com/articles/doj-howard-hanna-commission-lawsuit/",
       "published": "Fri, 26 Dec 2025"
@@ -158,16 +168,6 @@
       "title": "Mortgage applications fall 5% despite rate decline",
       "link": "https://www.housingwire.com/articles/mortgage-applications-decrease-december-2025/",
       "published": "Wed, 24 Dec 2025"
-    },
-    {
-      "title": "Texas proposes property tax cuts for homeowners 55+",
-      "link": "https://www.housingwire.com/articles/texas-property-tax-proposal-55/",
-      "published": "Tue, 23 Dec 2025"
-    },
-    {
-      "title": "Mortgage rates cool in 2025, but 2026 relief likely limited",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-2026-outlook/",
-      "published": "Tue, 23 Dec 2025"
     },
     {
       "title": "The U.S. Housing Market Has 37% More Sellers Than Buyers—More Than Double Last Year’s Gap",
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "The U.S. housing market in 2025: A year of normalization",
+        "url": "https://www.housingwire.com/articles/the-u-s-housing-market-in-2025/",
+        "what": "U.S",
+        "numbers": "16.4, 2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-u-s-housing-market-in-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "NAR legislative priorities for 2026 focus on housing supply, affordability",
         "url": "https://www.housingwire.com/articles/nar-legislative-priorities-2026/",
         "what": "NAR’s 2026 priorities focus on bipartisan solutions to expand housing inventory and address affordability challenges.",
@@ -255,15 +264,6 @@
         "what": "U.S",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/november-sees-sharp-rise-in-u-s-mortgage-delinquencies/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "reAlpha to buy InstaMortgage for $8.5M to expand direct lending",
-        "url": "https://www.housingwire.com/articles/realpha-instamortgage-acquisition/",
-        "what": "Real estate technology company reAlpha Tech Corp",
-        "numbers": "$8.5 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realpha-instamortgage-acquisition/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -306,6 +306,15 @@
     ],
     "notables": [
       {
+        "title": "Compass-Anywhere deal may exceed DOJ market-share limits in some cities",
+        "url": "https://www.housingwire.com/articles/compass-market-share-analysis/",
+        "what": "The Compass-Anywhere merger may give one firm over 30% market share in key cities, raising antitrust concerns.",
+        "numbers": "30",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-market-share-analysis/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "DOJ wants antitrust review of real estate commissions in Davis suit",
         "url": "https://www.housingwire.com/articles/doj-howard-hanna-commission-lawsuit/",
         "what": "The DOJ filed a statement in the Davis lawsuit, arguing real estate agent commissions remain inflated due to trade group rules.",
@@ -329,15 +338,6 @@
         "what": "Texas Lt",
         "numbers": "55",
         "justified": "housingwire.com — https://www.housingwire.com/articles/texas-property-tax-proposal-55/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How The Loan Store doubled volume in a crowded wholesale market",
-        "url": "https://www.housingwire.com/articles/loan-store-wholesale-growth/",
-        "what": "In the first nine months of 2025, the company doubled its origination volume to $8.2 billion, ranking as the fourth-largest U.S",
-        "numbers": "2025,, $8.2 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/loan-store-wholesale-growth/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
