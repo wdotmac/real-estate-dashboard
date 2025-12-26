@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-26 14:35 UTC",
+  "as_of": "2025-12-26 15:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "NAR legislative priorities for 2026 focus on housing supply, affordability",
+      "link": "https://www.housingwire.com/articles/nar-legislative-priorities-2026/",
+      "published": "Fri, 26 Dec 2025"
+    },
+    {
       "title": "Why the DSCR loan became the investor darling of 2025",
       "link": "https://www.housingwire.com/articles/dscr-loans-gain-traction-2025/",
       "published": "Fri, 26 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "MBA 2026 forecast: Slow growth amid inflation, rate hikes",
       "link": "https://www.housingwire.com/articles/us-economic-growth-2025-mba-forecast/",
-      "published": "Tue, 23 Dec 2025"
-    },
-    {
-      "title": "November sees sharp rise in U.S. mortgage delinquencies",
-      "link": "https://www.housingwire.com/articles/november-sees-sharp-rise-in-u-s-mortgage-delinquencies/",
       "published": "Tue, 23 Dec 2025"
     },
     {
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "NAR legislative priorities for 2026 focus on housing supply, affordability",
+        "url": "https://www.housingwire.com/articles/nar-legislative-priorities-2026/",
+        "what": "NAR’s 2026 priorities focus on bipartisan solutions to expand housing inventory and address affordability challenges.",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-legislative-priorities-2026/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "November sees sharp rise in U.S. mortgage delinquencies",
         "url": "https://www.housingwire.com/articles/november-sees-sharp-rise-in-u-s-mortgage-delinquencies/",
         "what": "U.S",
@@ -264,15 +273,6 @@
         "what": "Real estate technology company reAlpha Tech Corp",
         "numbers": "$8.5 million",
         "justified": "housingwire.com — https://www.housingwire.com/articles/realpha-instamortgage-acquisition/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "FHFA sets 2026-2028 housing goals for GSEs",
-        "url": "https://www.housingwire.com/articles/fhfa-housing-goals-2026-2028/",
-        "what": "The FHFA has issued new housing goals for the GSEs, lowering benchmarks for single-family and multifamily mortgages for 2026-2028.",
-        "numbers": "2026, 2028.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-housing-goals-2026-2028/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
