@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-28 17:32 UTC",
+  "as_of": "2025-12-28 18:45 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Why didn’t double-digit growth in purchase apps lead to more home sales in 2025?",
+      "link": "https://www.housingwire.com/articles/why-didnt-double-digit-growth-in-purchase-apps-lead-to-more-home-sales-in-2025/",
+      "published": "Sun, 28 Dec 2025"
+    },
+    {
       "title": "Compass, NWMLS clash over document production in antitrust suit",
       "link": "https://www.housingwire.com/articles/nwmls-compass-legal-discovery/",
       "published": "Fri, 26 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "NAR legislative priorities for 2026 focus on housing supply, affordability",
       "link": "https://www.housingwire.com/articles/nar-legislative-priorities-2026/",
-      "published": "Fri, 26 Dec 2025"
-    },
-    {
-      "title": "Why the DSCR loan became the investor darling of 2025",
-      "link": "https://www.housingwire.com/articles/dscr-loans-gain-traction-2025/",
       "published": "Fri, 26 Dec 2025"
     },
     {
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "MBA 2026 forecast: Slow growth amid inflation, rate hikes",
-        "url": "https://www.housingwire.com/articles/us-economic-growth-2025-mba-forecast/",
-        "what": "MBA’s December forecast projects economic growth of 1.6% in 2025 and puts the chance of a recession over the next 12 months at 35%.",
-        "numbers": "1.6, 2025, 12, 35",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/us-economic-growth-2025-mba-forecast/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Mortgage Rates Remain Steady Despite Problematic Inflation, Jobs Reports",
         "url": "https://www.redfin.com/news/mortgage-rates-steady-economic-data-issues/",
         "what": "This Week In A Nutshell Mortgage rates are flat despite a much lower than expected inflation report and slightly weak jobs report last week due to serious data issues caused by the government shutdown",
@@ -240,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Why didn’t double-digit growth in purchase apps lead to more home sales in 2025?",
+        "url": "https://www.housingwire.com/articles/why-didnt-double-digit-growth-in-purchase-apps-lead-to-more-home-sales-in-2025/",
+        "what": "Despite double-digit growth in purchase applications for much of 2025, existing home sales increased only modestly from 2024.",
+        "numbers": "2025,, 2024.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-didnt-double-digit-growth-in-purchase-apps-lead-to-more-home-sales-in-2025/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "The U.S. housing market in 2025: A year of normalization",
         "url": "https://www.housingwire.com/articles/the-u-s-housing-market-in-2025/",
