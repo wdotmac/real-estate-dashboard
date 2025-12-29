@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-29 19:28 UTC",
+  "as_of": "2025-12-29 20:36 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Realtor.com urges action on US housing supply shortage",
+      "link": "https://www.housingwire.com/articles/let-america-build-housing-supply/",
+      "published": "Mon, 29 Dec 2025"
+    },
+    {
       "title": "Rechat partners with SkySlope to add forms, e-signatures to platform",
       "link": "https://www.housingwire.com/articles/rechat-skyslope-integration/",
       "published": "Mon, 29 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "Innovations in reverse mortgage lending will drive growth in 2026",
       "link": "https://www.housingwire.com/articles/reverse-mortgage-growth-2026/",
-      "published": "Mon, 29 Dec 2025"
-    },
-    {
-      "title": "WFG’s Don O’Neill on FinCEN, rate scrutiny and title compliance",
-      "link": "https://www.housingwire.com/articles/fincen-title-insurance-2025/",
       "published": "Mon, 29 Dec 2025"
     },
     {
@@ -219,18 +219,18 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/bank-statement-loans-more-mortgage-options-for-self-employed-buyers-and-homeowners-as-rates-ease/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Redfin Economists’ Weekly Take: Mortgage Rates Remain Steady Despite Problematic Inflation, Jobs Reports",
-        "url": "https://www.redfin.com/news/mortgage-rates-steady-economic-data-issues/",
-        "what": "This Week In A Nutshell Mortgage rates are flat despite a much lower than expected inflation report and slightly weak jobs report last week due to serious data issues caused by the government shutdown",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-steady-economic-data-issues/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Realtor.com urges action on US housing supply shortage",
+        "url": "https://www.housingwire.com/articles/let-america-build-housing-supply/",
+        "what": "Realtor.com’s Let America Build campaign urges lawmakers to address housing supply as U.S",
+        "numbers": "4 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/let-america-build-housing-supply/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "RMLS Alliance becomes Broker Public Portal shareholder, expands reach via Cribio",
         "url": "https://www.housingwire.com/articles/rmls-alliance-bpp-cribio-listings/",
@@ -257,15 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/why-didnt-double-digit-growth-in-purchase-apps-lead-to-more-home-sales-in-2025/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The U.S. housing market in 2025: A year of normalization",
-        "url": "https://www.housingwire.com/articles/the-u-s-housing-market-in-2025/",
-        "what": "U.S",
-        "numbers": "16.4, 2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-u-s-housing-market-in-2025/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "The U.S. Housing Market Has 37% More Sellers Than Buyers—More Than Double Last Year’s Gap",
