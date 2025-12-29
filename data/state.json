@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-29 13:49 UTC",
+  "as_of": "2025-12-29 14:38 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Innovations in reverse mortgage lending will drive growth in 2026",
+      "link": "https://www.housingwire.com/articles/reverse-mortgage-growth-2026/",
+      "published": "Mon, 29 Dec 2025"
+    },
+    {
       "title": "WFG’s Don O’Neill on FinCEN, rate scrutiny and title compliance",
       "link": "https://www.housingwire.com/articles/fincen-title-insurance-2025/",
       "published": "Mon, 29 Dec 2025"
@@ -162,11 +167,6 @@
     {
       "title": "The U.S. housing market in 2025: A year of normalization",
       "link": "https://www.housingwire.com/articles/the-u-s-housing-market-in-2025/",
-      "published": "Fri, 26 Dec 2025"
-    },
-    {
-      "title": "Compass-Anywhere deal may exceed DOJ market-share limits in some cities",
-      "link": "https://www.housingwire.com/articles/compass-market-share-analysis/",
       "published": "Fri, 26 Dec 2025"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage applications fall 5% despite rate decline",
-        "url": "https://www.housingwire.com/articles/mortgage-applications-decrease-december-2025/",
-        "what": "Despite steady mortgage rates, market trends like a softening job market and elevated inventories continue to impact application volumes.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-decrease-december-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Mortgage Rates Remain Steady Despite Problematic Inflation, Jobs Reports",
         "url": "https://www.redfin.com/news/mortgage-rates-steady-economic-data-issues/",
         "what": "This Week In A Nutshell Mortgage rates are flat despite a much lower than expected inflation report and slightly weak jobs report last week due to serious data issues caused by the government shutdown",
@@ -231,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Innovations in reverse mortgage lending will drive growth in 2026",
+        "url": "https://www.housingwire.com/articles/reverse-mortgage-growth-2026/",
+        "what": "The reverse mortgage market is expected to grow in 2026 as lenders innovate with new offerings and adapt to the interest rate environment.",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-growth-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Why didn’t double-digit growth in purchase apps lead to more home sales in 2025?",
         "url": "https://www.housingwire.com/articles/why-didnt-double-digit-growth-in-purchase-apps-lead-to-more-home-sales-in-2025/",
