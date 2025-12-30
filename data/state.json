@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-30 16:44 UTC",
+  "as_of": "2025-12-30 17:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Loan officer mental health: How to recognize & prevent burnout",
+      "link": "https://www.housingwire.com/articles/loan-officer-mental-health/",
+      "published": "Tue, 30 Dec 2025"
+    },
+    {
+      "title": "Will stable mortgage rates and home prices set the table for a strong 2026?",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-home-sales-2025/",
+      "published": "Tue, 30 Dec 2025"
+    },
+    {
+      "title": "Better Homes & Gardens Real Estate affiliate expands in Nebraska",
+      "link": "https://www.housingwire.com/articles/better-homes-gardens-real-estate-affiliate-expands-in-nebraska/",
+      "published": "Tue, 30 Dec 2025"
+    },
+    {
       "title": "The 6 best real estate schools in Texas for 2026",
       "link": "https://www.housingwire.com/articles/online-real-estate-schools-texas/",
       "published": "Tue, 30 Dec 2025"
@@ -155,19 +170,9 @@
       "published": "Tue, 30 Dec 2025"
     },
     {
-      "title": "Private lending in 2025: A market in transition",
-      "link": "https://www.housingwire.com/articles/private-lending-in-2025-a-market-in-transition/",
+      "title": "The Real Estate: 2025 Year in Review",
+      "link": "https://www.redfin.com/news/the-real-estate-2025-year-in-review/",
       "published": "Tue, 30 Dec 2025"
-    },
-    {
-      "title": "The debt crisis among younger Americans: How it is shaping homeownership — and what lenders can do",
-      "link": "https://www.housingwire.com/articles/the-debt-crisis-among-younger-americans-how-it-is-shaping-homeownership-and-what-lenders-can-do/",
-      "published": "Tue, 30 Dec 2025"
-    },
-    {
-      "title": "Realtor.com urges action on US housing supply shortage",
-      "link": "https://www.housingwire.com/articles/let-america-build-housing-supply/",
-      "published": "Mon, 29 Dec 2025"
     },
     {
       "title": "Vacant Lots for Sale Are Piling Up After the L.A. Fires; Investors Are Buying 40% of Those That Sell",
@@ -193,26 +198,30 @@
       "title": "Redfin Economists’ Weekly Take: Mortgage Rates Remain Steady Despite Problematic Inflation, Jobs Reports",
       "link": "https://www.redfin.com/news/mortgage-rates-steady-economic-data-issues/",
       "published": "Mon, 22 Dec 2025"
-    },
-    {
-      "title": "Home Sellers Retreat, With Supply Posting Biggest Decline Since 2023",
-      "link": "https://www.redfin.com/news/housing-supply-falls-november-2025/",
-      "published": "Mon, 22 Dec 2025"
     }
   ],
   "feed_101020": {
     "macro": [
       {
-        "title": "Pending home sales rise in November as lower rates spur buyers",
-        "url": "https://www.housingwire.com/articles/pending-home-sales-november/",
-        "what": "Pending home sales rose 3.3% in November, with NAR’s index hitting a reading of 79.2, and all regions posting monthly and annual gains.",
-        "numbers": "3.3, 79.2,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pending-home-sales-november/",
+        "title": "Will stable mortgage rates and home prices set the table for a strong 2026?",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-home-sales-2025/",
+        "what": "The impact of stable mortgage rates was evident in November’s pending home sales data from the National Association of Realtors",
+        "numbers": "3.3, 2.6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-home-sales-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "The Real Estate: 2025 Year in Review",
+        "url": "https://www.redfin.com/news/the-real-estate-2025-year-in-review/",
+        "what": "This article was originally published on Inman.com",
+        "numbers": "2026,, 2025, 1., 2008,",
+        "justified": "redfin.com — https://www.redfin.com/news/the-real-estate-2025-year-in-review/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Vacant Lots for Sale Are Piling Up After the L.A. Fires; Investors Are Buying 40% of Those That Sell",
         "url": "https://www.redfin.com/news/los-angeles-wildfires-anniversary/",
@@ -230,18 +239,27 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/let-america-build-housing-supply/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "RMLS Alliance becomes Broker Public Portal shareholder, expands reach via Cribio",
-        "url": "https://www.housingwire.com/articles/rmls-alliance-bpp-cribio-listings/",
-        "what": "RMLS Alliance joins Broker Public Portal as a shareholder, making the listings for 1,600 agents available on Cribio in Illinois.",
-        "numbers": "1,600",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rmls-alliance-bpp-cribio-listings/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
+      {
+        "title": "Loan officer mental health: How to recognize & prevent burnout",
+        "url": "https://www.housingwire.com/articles/loan-officer-mental-health/",
+        "what": "We’ll explore what burnout looks like for loan officer mental health and how it can be prevented through lifestyle shifts, smarter business practices and support systems.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/loan-officer-mental-health/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Better Homes & Gardens Real Estate affiliate expands in Nebraska",
+        "url": "https://www.housingwire.com/articles/better-homes-gardens-real-estate-affiliate-expands-in-nebraska/",
+        "what": "The transaction expands the affiliate's footprint in the greater Omaha metropolitan area and results in a combined operation of 10 offices.",
+        "numbers": "10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-homes-gardens-real-estate-affiliate-expands-in-nebraska/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "The 6 best real estate schools in Texas for 2026",
         "url": "https://www.housingwire.com/articles/online-real-estate-schools-texas/",
@@ -293,15 +311,6 @@
         "what": "Rechat’s partnership with SkySlope adds digital forms, MLS data synchronization and e-signatures to its platform, centralizing agent workflows.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/rechat-skyslope-integration/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How long does it take to save for a down payment in 2025?",
-        "url": "https://www.housingwire.com/articles/down-payment-savings-timeline-2025/",
-        "what": "Homebuyers now need seven years to save for a down payment, down from 12 years in 2022, but high-cost metros remain further out of reach.",
-        "numbers": "12, 2022,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/down-payment-savings-timeline-2025/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
