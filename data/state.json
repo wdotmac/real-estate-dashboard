@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-02 07:35 UTC",
+  "as_of": "2026-01-02 08:45 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The spreadsheet trap: Why investor reporting still operates like it’s 2005",
+      "link": "https://www.housingwire.com/articles/the-spreadsheet-trap-why-investor-reporting-still-operates-like-its-2005/",
+      "published": "Fri, 02 Jan 2026"
+    },
+    {
       "title": "Federal judge orders Trump administration to seek money for CFPB",
       "link": "https://www.housingwire.com/articles/judge-orders-cfpb-funding/",
       "published": "Wed, 31 Dec 2025"
@@ -163,11 +168,6 @@
       "title": "REMAX accelerates real estate innovation with AI and technology",
       "link": "https://www.housingwire.com/articles/re-max-accelerates-real-estate-innovation-with-ai-and-technology/",
       "published": "Wed, 31 Dec 2025"
-    },
-    {
-      "title": "Out-of-state investors keep sizable stake in single-family homes",
-      "link": "https://www.housingwire.com/articles/out-of-state-home-investment-2025/",
-      "published": "Tue, 30 Dec 2025"
     },
     {
       "title": "The Real Estate: 2025 Year in Review",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "The spreadsheet trap: Why investor reporting still operates like it’s 2005",
+        "url": "https://www.housingwire.com/articles/the-spreadsheet-trap-why-investor-reporting-still-operates-like-its-2005/",
+        "what": "Manually updating spreadsheets",
+        "numbers": "2005",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-spreadsheet-trap-why-investor-reporting-still-operates-like-its-2005/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Federal judge orders Trump administration to seek money for CFPB",
         "url": "https://www.housingwire.com/articles/judge-orders-cfpb-funding/",
@@ -302,15 +311,6 @@
         "what": "AI supports home renovation planning, but expert guidance is key for budgeting, ROI, and navigating emotional decisions.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/ai-home-renovation-experts/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Loan officer mental health: How to recognize & prevent burnout",
-        "url": "https://www.housingwire.com/articles/loan-officer-mental-health/",
-        "what": "We’ll explore what burnout looks like for loan officer mental health and how it can be prevented through lifestyle shifts, smarter business practices and support systems.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/loan-officer-mental-health/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
