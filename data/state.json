@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-05 11:32 UTC",
+  "as_of": "2026-01-05 13:09 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "New homeowner data challenges mortgage rate lockdown theory",
+      "link": "https://www.housingwire.com/articles/mortgage-rate-lockdown-myth/",
+      "published": "Mon, 05 Jan 2026"
+    },
+    {
       "title": "From military service to the built world: Why construction still struggles with accountability and visibility",
       "link": "https://www.housingwire.com/articles/from-military-service-to-the-built-world-why-construction-still-struggles-with-accountability-and-visibility/",
       "published": "Mon, 05 Jan 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Judge Valderrama’s ‘roadmap’ for successful antitrust litigation in affordable housing crisis",
       "link": "https://www.housingwire.com/articles/judge-valderramas-roadmap-for-successful-antitrust-litigation-in-affordable-housing-crisis/",
-      "published": "Fri, 02 Jan 2026"
-    },
-    {
-      "title": "The spreadsheet trap: Why investor reporting still operates like it’s 2005",
-      "link": "https://www.housingwire.com/articles/the-spreadsheet-trap-why-investor-reporting-still-operates-like-its-2005/",
       "published": "Fri, 02 Jan 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "New homeowner data challenges mortgage rate lockdown theory",
+        "url": "https://www.housingwire.com/articles/mortgage-rate-lockdown-myth/",
+        "what": "New data shows more homeowners now have mortgage rates above 6% than below 3%, challenging the mortgage rate lockdown theory.",
+        "numbers": "6, 3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rate-lockdown-myth/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Judge Valderrama’s ‘roadmap’ for successful antitrust litigation in affordable housing crisis",
         "url": "https://www.housingwire.com/articles/judge-valderramas-roadmap-for-successful-antitrust-litigation-in-affordable-housing-crisis/",
         "what": "A federal judge’s dismissal of a manufactured housing antitrust case offers a clear roadmap for future litigation—and raises broader questions about consolidation and affordability",
@@ -226,15 +235,6 @@
         "what": "A federal judge on Tuesday ruled against the Trump administration as it seeks to shut down the CFPB by refusing to fund it.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/judge-orders-cfpb-funding/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "HousingWire 2026 housing market forecast: A more balanced market comes into view",
-        "url": "https://www.housingwire.com/articles/housingwire-2026-housing-forecast/",
-        "what": "Inventory is back to normal and mortgage rates are forecast between 5.75% and 6.75%, shaping a steadier housing market in 2026.",
-        "numbers": "5.75, 6.75, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housingwire-2026-housing-forecast/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
