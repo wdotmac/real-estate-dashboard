@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-01-06 20:37 UTC",
+  "as_of": "2026-01-06 21:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.19,
-      "delta_bp_1d": 1.0000000000000675
+      "yield_pct": 4.17,
+      "delta_bp_1d": -2.000000000000046
     },
     "mortgage_30y": {
       "rate_pct": 6.15,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Rising insurance costs shape homeowner decisions in 2026",
+      "link": "https://www.housingwire.com/articles/rising-insurance-costs-shape-homeowner-decisions-in-2026/",
+      "published": "Tue, 06 Jan 2026"
+    },
+    {
+      "title": "‘Inviting a lot of scrutiny’: FHFA’s Pulte criticizes credit bureau pricing",
+      "link": "https://www.housingwire.com/articles/fhfa-pulte-credit-bureaus-pricing/",
+      "published": "Tue, 06 Jan 2026"
+    },
+    {
       "title": "Apollo’s $1.2B bet on QXO tests data limits in building materials",
       "link": "https://www.housingwire.com/articles/apollo-qxo-building-materials/",
       "published": "Tue, 06 Jan 2026"
@@ -157,16 +167,6 @@
     {
       "title": "20 must-have real estate marketing tools for 2026",
       "link": "https://www.housingwire.com/articles/real-estate-marketing-tools/",
-      "published": "Tue, 06 Jan 2026"
-    },
-    {
-      "title": "DOJ is still keeping a close eye on agent commission rules",
-      "link": "https://www.housingwire.com/articles/antitrust-real-estate-commissions/",
-      "published": "Tue, 06 Jan 2026"
-    },
-    {
-      "title": "UWM challenges RESPA class-action case in Michigan court",
-      "link": "https://www.housingwire.com/articles/uwm-class-action-dismissal-michigan/",
       "published": "Tue, 06 Jan 2026"
     },
     {
@@ -203,6 +203,24 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Rising insurance costs shape homeowner decisions in 2026",
+        "url": "https://www.housingwire.com/articles/rising-insurance-costs-shape-homeowner-decisions-in-2026/",
+        "what": "The average U.S",
+        "numbers": "24, 2021, 2024,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rising-insurance-costs-shape-homeowner-decisions-in-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "‘Inviting a lot of scrutiny’: FHFA’s Pulte criticizes credit bureau pricing",
+        "url": "https://www.housingwire.com/articles/fhfa-pulte-credit-bureaus-pricing/",
+        "what": "Bill Pulte, the director of the Federal Housing Finance Agency (FHFA), took to the social media platform X on Monday to seemingly call out credit bureaus for their pricing.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-pulte-credit-bureaus-pricing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage rates steady as 2026 housing outlook brightens",
         "url": "https://www.housingwire.com/articles/mortgage-rates-2026-outlook-2/",
         "what": "Mortgage rate movements remained calm in the opening days of the new year, and there’s little on the horizon to suggest that the pattern will change anytime soon.",
@@ -237,15 +255,6 @@
         "what": "FNF argues that FinCEN’s AML rule for cash home sales is arbitrary and costly, objecting to a magistrate’s favorable report for FinCEN.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/fnf-objects-fincen-aml/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Rich Swerbinsky rejoins The Mortgage Collaborative team as strategic advisor",
-        "url": "https://www.housingwire.com/articles/rich-swerbinsky-tmc-strategic-advisor/",
-        "what": "Rich Swerbinsky returns to TMC as strategic advisor, joining forces with Heidi Belnay to drive growth and expansion in 2026.",
-        "numbers": "2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rich-swerbinsky-tmc-strategic-advisor/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
@@ -293,15 +302,6 @@
         "what": "We've reviewed the best online real estate schools in California to help you launch a new career with confidence in 2025.",
         "numbers": "2025.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/best-online-real-estate-schools-california/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "FOA hires former Bloomberg Media exec Angela Tribelli as CMO",
-        "url": "https://www.housingwire.com/articles/finance-america-angela-tribelli-cmo/",
-        "what": "Angela Tribelli, most recently global head of consumer marketing and growth at Bloomberg Media, began the role on Jan",
-        "numbers": "2.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/finance-america-angela-tribelli-cmo/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
