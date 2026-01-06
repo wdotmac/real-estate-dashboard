@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-06 21:33 UTC",
+  "as_of": "2026-01-06 22:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "California real estate trainer fined, banned for license exam violations",
+      "link": "https://www.housingwire.com/articles/california-dre-exam-settlement/",
+      "published": "Tue, 06 Jan 2026"
+    },
+    {
+      "title": "Producing LOs grow their ranks in 2025: RETR",
+      "link": "https://www.housingwire.com/articles/loan-officer-growth-2025/",
+      "published": "Tue, 06 Jan 2026"
+    },
+    {
+      "title": "Tennessee official floats full property tax reimbursement for seniors",
+      "link": "https://www.housingwire.com/articles/tennessee-senior-property-tax-reimbursement/",
+      "published": "Tue, 06 Jan 2026"
+    },
+    {
+      "title": "What QXO’s $1.2 billion investment means for the fragmented building materials industry",
+      "link": "https://www.housingwire.com/articles/qxo-investment-acqusition/",
+      "published": "Tue, 06 Jan 2026"
+    },
+    {
       "title": "Rising insurance costs shape homeowner decisions in 2026",
       "link": "https://www.housingwire.com/articles/rising-insurance-costs-shape-homeowner-decisions-in-2026/",
       "published": "Tue, 06 Jan 2026"
@@ -147,26 +167,6 @@
     {
       "title": "‘Inviting a lot of scrutiny’: FHFA’s Pulte criticizes credit bureau pricing",
       "link": "https://www.housingwire.com/articles/fhfa-pulte-credit-bureaus-pricing/",
-      "published": "Tue, 06 Jan 2026"
-    },
-    {
-      "title": "Apollo’s $1.2B bet on QXO tests data limits in building materials",
-      "link": "https://www.housingwire.com/articles/apollo-qxo-building-materials/",
-      "published": "Tue, 06 Jan 2026"
-    },
-    {
-      "title": "Williston Financial Group launches title joint venture",
-      "link": "https://www.housingwire.com/articles/williston-financial-group-launches-title-joint-venture/",
-      "published": "Tue, 06 Jan 2026"
-    },
-    {
-      "title": "FNF disputes magistrate judge’s support for FinCEN’s AML rule",
-      "link": "https://www.housingwire.com/articles/fnf-objects-fincen-aml/",
-      "published": "Tue, 06 Jan 2026"
-    },
-    {
-      "title": "20 must-have real estate marketing tools for 2026",
-      "link": "https://www.housingwire.com/articles/real-estate-marketing-tools/",
       "published": "Tue, 06 Jan 2026"
     },
     {
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage rates steady as 2026 housing outlook brightens",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-2026-outlook-2/",
-        "what": "Mortgage rate movements remained calm in the opening days of the new year, and there’s little on the horizon to suggest that the pattern will change anytime soon.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-2026-outlook-2/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: First Jobs Report of 2026 Could Impact Mortgage Rates",
         "url": "https://www.redfin.com/news/weekly-economic-update-january-5/",
         "what": "This Week In A Nutshell The first jobs report of 2026—and the first “normal” report post-government shutdown—will be published on Friday",
@@ -240,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Producing LOs grow their ranks in 2025: RETR",
+        "url": "https://www.housingwire.com/articles/loan-officer-growth-2025/",
+        "what": "The mortgage industry recorded a modest increase in the number of producing loan officers in 2025",
+        "numbers": "2025, 19",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/loan-officer-growth-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Apollo’s $1.2B bet on QXO tests data limits in building materials",
         "url": "https://www.housingwire.com/articles/apollo-qxo-building-materials/",
@@ -261,6 +261,33 @@
     ],
     "notables": [
       {
+        "title": "California real estate trainer fined, banned for license exam violations",
+        "url": "https://www.housingwire.com/articles/california-dre-exam-settlement/",
+        "what": "A California real estate education firm and its former president face $60,000 in penalties and a three-year ban for exam violations.",
+        "numbers": "$60,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/california-dre-exam-settlement/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Tennessee official floats full property tax reimbursement for seniors",
+        "url": "https://www.housingwire.com/articles/tennessee-senior-property-tax-reimbursement/",
+        "what": "Rob Mitchell, the property assessor for Rutherford County, said the Tennessee Golden Homeowners Tax Relief Program would cover the full amount of property taxes assessed on the pri",
+        "numbers": "65",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tennessee-senior-property-tax-reimbursement/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "What QXO’s $1.2 billion investment means for the fragmented building materials industry",
+        "url": "https://www.housingwire.com/articles/qxo-investment-acqusition/",
+        "what": "QXO landed a $1.2B Apollo investment to fund acquisitions, with a July 15 deadline to close a deal",
+        "numbers": "$1.2, 15, $50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/qxo-investment-acqusition/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Williston Financial Group launches title joint venture",
         "url": "https://www.housingwire.com/articles/williston-financial-group-launches-title-joint-venture/",
         "what": "Williston Financial Group president and CEO Steve Ozonian said the venture represents a broader strategy for the company.",
@@ -275,33 +302,6 @@
         "what": "Save time, scale faster and attract more clients with these savvy real estate marketing tools.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-marketing-tools/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "DOJ is still keeping a close eye on agent commission rules",
-        "url": "https://www.housingwire.com/articles/antitrust-real-estate-commissions/",
-        "what": "DOJ’s statement in the Davis lawsuit questions NAR and MLS protections for real estate agents and brokerages in 2026.",
-        "numbers": "2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/antitrust-real-estate-commissions/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "UWM challenges RESPA class-action case in Michigan court",
-        "url": "https://www.housingwire.com/articles/uwm-class-action-dismissal-michigan/",
-        "what": "In a Dec",
-        "numbers": "16",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-class-action-dismissal-michigan/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "7 best online real estate schools in California for 2026",
-        "url": "https://www.housingwire.com/articles/best-online-real-estate-schools-california/",
-        "what": "We've reviewed the best online real estate schools in California to help you launch a new career with confidence in 2025.",
-        "numbers": "2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/best-online-real-estate-schools-california/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
