@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-07 14:43 UTC",
+  "as_of": "2026-01-07 15:41 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Newrez invests in HomeVision, partners on AI underwriting platform",
+      "link": "https://www.housingwire.com/articles/newrez-homevision-ai-underwriting-partnership/",
+      "published": "Wed, 07 Jan 2026"
+    },
+    {
+      "title": "Mortgage applications drop 9.7% despite lower rates",
+      "link": "https://www.housingwire.com/articles/mortgage-applications-fall-despite-lower-rates-3/",
+      "published": "Wed, 07 Jan 2026"
+    },
+    {
       "title": "Why 2026 might finally be the year homeowners let go of their 2–3 percent rates",
       "link": "https://www.housingwire.com/articles/why-2026-might-finally-be-the-year-homeowners-let-go-of-their-2-3-percent-rates/",
       "published": "Wed, 07 Jan 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Tennessee official floats full property tax reimbursement for seniors",
       "link": "https://www.housingwire.com/articles/tennessee-senior-property-tax-reimbursement/",
-      "published": "Tue, 06 Jan 2026"
-    },
-    {
-      "title": "What QXO’s $1.2 billion investment means for the fragmented building materials industry",
-      "link": "https://www.housingwire.com/articles/qxo-investment-acqusition/",
-      "published": "Tue, 06 Jan 2026"
-    },
-    {
-      "title": "Rising insurance costs shape homeowner decisions in 2026",
-      "link": "https://www.housingwire.com/articles/rising-insurance-costs-shape-homeowner-decisions-in-2026/",
       "published": "Tue, 06 Jan 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage applications drop 9.7% despite lower rates",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-fall-despite-lower-rates-3/",
+        "what": "Mortgage applications decreased by 9.7% from two weeks ago, even as interest rates fell to their lowest since September 2024.",
+        "numbers": "9.7, 2024.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-fall-despite-lower-rates-3/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Why 2026 might finally be the year homeowners let go of their 2–3 percent rates",
         "url": "https://www.housingwire.com/articles/why-2026-might-finally-be-the-year-homeowners-let-go-of-their-2-3-percent-rates/",
@@ -241,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Newrez invests in HomeVision, partners on AI underwriting platform",
+        "url": "https://www.housingwire.com/articles/newrez-homevision-ai-underwriting-partnership/",
+        "what": "Newrez has invested in mortgage technology firm HomeVision and is partnering with the company to develop an artificial intelligence (AI)-powered underwriting platform for the mortg",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/newrez-homevision-ai-underwriting-partnership/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Producing LOs grow their ranks in 2025: RETR",
         "url": "https://www.housingwire.com/articles/loan-officer-growth-2025/",
         "what": "The mortgage industry recorded a modest increase in the number of producing loan officers in 2025",
@@ -257,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/apollo-qxo-building-materials/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "FNF disputes magistrate judge’s support for FinCEN’s AML rule",
-        "url": "https://www.housingwire.com/articles/fnf-objects-fincen-aml/",
-        "what": "FNF argues that FinCEN’s AML rule for cash home sales is arbitrary and costly, objecting to a magistrate’s favorable report for FinCEN.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fnf-objects-fincen-aml/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
@@ -295,15 +304,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/qxo-investment-acqusition/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Williston Financial Group launches title joint venture",
-        "url": "https://www.housingwire.com/articles/williston-financial-group-launches-title-joint-venture/",
-        "what": "Williston Financial Group president and CEO Steve Ozonian said the venture represents a broader strategy for the company.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/williston-financial-group-launches-title-joint-venture/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
