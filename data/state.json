@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-07 19:31 UTC",
+  "as_of": "2026-01-07 20:39 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Maryland bids for deeper reforms to address housing affordability",
+      "link": "https://www.housingwire.com/articles/maryland-housing-affordability-reform/",
+      "published": "Wed, 07 Jan 2026"
+    },
+    {
+      "title": "Creative strategies help first-time buyers enter 2026 housing market",
+      "link": "https://www.housingwire.com/articles/2026-first-time-homebuyers/",
+      "published": "Wed, 07 Jan 2026"
+    },
+    {
+      "title": "Trump wants ban on large investor home purchases",
+      "link": "https://www.housingwire.com/articles/trump-institutional-home-ban/",
+      "published": "Wed, 07 Jan 2026"
+    },
+    {
       "title": "Why absorption rate matters more than market size for spotting housing pressure",
       "link": "https://www.housingwire.com/articles/housing-efficiency-signals/",
       "published": "Wed, 07 Jan 2026"
@@ -152,21 +167,6 @@
     {
       "title": "6 best places to buy real estate leads in 2026",
       "link": "https://www.housingwire.com/articles/buy-real-estate-leads/",
-      "published": "Wed, 07 Jan 2026"
-    },
-    {
-      "title": "Proposed Compass, Anywhere merger clears major antitrust hurdle",
-      "link": "https://www.housingwire.com/articles/compass-anywhere-merger-hsr/",
-      "published": "Wed, 07 Jan 2026"
-    },
-    {
-      "title": "Texas Triangle drives future of single-family homebuilding",
-      "link": "https://www.housingwire.com/articles/texas-homebuilding-growth-future/",
-      "published": "Wed, 07 Jan 2026"
-    },
-    {
-      "title": "UWM celebrates 40th anniversary with 40-bps broker incentive",
-      "link": "https://www.housingwire.com/articles/uwm-40-bps-pricing-incentive/",
       "published": "Wed, 07 Jan 2026"
     },
     {
@@ -223,20 +223,38 @@
     ],
     "housing": [
       {
+        "title": "Maryland bids for deeper reforms to address housing affordability",
+        "url": "https://www.housingwire.com/articles/maryland-housing-affordability-reform/",
+        "what": "Three new bills would legalize smaller homes, speed up approvals, and promote building near transit stations.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/maryland-housing-affordability-reform/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Creative strategies help first-time buyers enter 2026 housing market",
+        "url": "https://www.housingwire.com/articles/2026-first-time-homebuyers/",
+        "what": "First-time buyers in 2026 are leveraging grants, ARMs, and resource pooling as NAR sees affordability improvements.",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-first-time-homebuyers/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Trump wants ban on large investor home purchases",
+        "url": "https://www.housingwire.com/articles/trump-institutional-home-ban/",
+        "what": "Donald Trump announced plans to ban institutional investors from buying single-family homes, sparking a sharp selloff in rental REIT stocks.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-institutional-home-ban/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
         "title": "Why absorption rate matters more than market size for spotting housing pressure",
         "url": "https://www.housingwire.com/articles/housing-efficiency-signals/",
         "what": "Compare absorption rate to volume to identify near-term housing market pressure and shifts in buyer leverage.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/housing-efficiency-signals/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Newrez invests in HomeVision, partners on AI underwriting platform",
-        "url": "https://www.housingwire.com/articles/newrez-homevision-ai-underwriting-partnership/",
-        "what": "Newrez has invested in mortgage technology firm HomeVision and is partnering with the company to develop an artificial intelligence (AI)-powered underwriting platform for the mortg",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/newrez-homevision-ai-underwriting-partnership/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
@@ -284,24 +302,6 @@
         "what": "Matt Thomson, who has more than 25 years of fintech sales experience, joins Blend Labs as head of revenue, an SEC filing confirmed.",
         "numbers": "25",
         "justified": "housingwire.com — https://www.housingwire.com/articles/matt-thomson-joins-blend/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "New York broker Lindsay Barton Barrett returns to Compass",
-        "url": "https://www.housingwire.com/articles/new-york-broker-lindsay-barton-barrett-returns-to-compass/",
-        "what": "The Lindsay Barton Barrett Team recorded 47 transaction sides and $162.17 million in sales volume in 2024, according to RealTrends Verified.",
-        "numbers": "47, $162.17 million, 2024,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-york-broker-lindsay-barton-barrett-returns-to-compass/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Real Brokerage settles Cwynar home buyer commission lawsuit",
-        "url": "https://www.housingwire.com/articles/real-brokerage-cwynar-settlement/",
-        "what": "Real Brokerage has settled the Cwynar home buyer commission lawsuit, joining other firms in resolving claims over past NAR policies.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-brokerage-cwynar-settlement/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
