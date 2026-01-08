@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-08 22:37 UTC",
+  "as_of": "2026-01-08 23:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Compass-Anywhere merger closing imminent, brokers share plans to compete",
+      "link": "https://www.housingwire.com/articles/compass-anywhere-merger-broker-strategy/",
+      "published": "Thu, 08 Jan 2026"
+    },
+    {
+      "title": "Trump directs GSEs to buy $200B in MBS to push mortgage rates lower",
+      "link": "https://www.housingwire.com/articles/trump-gse-mbs-purchase/",
+      "published": "Thu, 08 Jan 2026"
+    },
+    {
       "title": "Unexpected retirement expenses can strain senior homeowners",
       "link": "https://www.housingwire.com/articles/retirement-surprise-expenses-risk/",
       "published": "Thu, 08 Jan 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Taylor Morrison leads most-trusted rankings for 11th year in 2026",
       "link": "https://www.housingwire.com/articles/homebuilder-trust-rankings-2026/",
-      "published": "Thu, 08 Jan 2026"
-    },
-    {
-      "title": "MeridianLink, Optimal Blue strike integration deal",
-      "link": "https://www.housingwire.com/articles/real-time-mortgage-pricing/",
-      "published": "Thu, 08 Jan 2026"
-    },
-    {
-      "title": "New York program helps gig workers qualify for mortgages",
-      "link": "https://www.housingwire.com/articles/new-york-program-helps-gig-workers-qualify-for-mortgages/",
       "published": "Thu, 08 Jan 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Trump directs GSEs to buy $200B in MBS to push mortgage rates lower",
+        "url": "https://www.housingwire.com/articles/trump-gse-mbs-purchase/",
+        "what": "President Donald Trump said Thursday that he is directing representatives at the government-sponsored enterprises (GSEs) to purchase $200 billion in mortgage-backed securities (MBS",
+        "numbers": "$200 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-gse-mbs-purchase/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Housing Payments Drop to Lowest Level in 2 Years As Mortgage Rates Decline",
         "url": "https://www.redfin.com/news/housing-market-update-housing-payments-lowest-level-2-years/",
@@ -241,15 +250,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Google appears to pull embedded home listings from mobile search results",
-        "url": "https://www.housingwire.com/articles/google-mls-listing-pilot/",
-        "what": "Sources say MLS pushback and data licensing issues forced Google to end its mobile home listing experiment in several U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/google-mls-listing-pilot/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "Banning Corporate Landlords Won’t Fix the Housing Affordability Crisis. Building More Homes Just Might.",
         "url": "https://www.redfin.com/news/banning-investors-pros-cons/",
         "what": "This piece was originally published to Forbes on March 4, 2024",
@@ -260,6 +260,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Compass-Anywhere merger closing imminent, brokers share plans to compete",
+        "url": "https://www.housingwire.com/articles/compass-anywhere-merger-broker-strategy/",
+        "what": "The Compass-Anywhere merger could close Friday, giving the new firm over 50% market share in major metros and reshaping competition.",
+        "numbers": "50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-anywhere-merger-broker-strategy/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Unexpected retirement expenses can strain senior homeowners",
         "url": "https://www.housingwire.com/articles/retirement-surprise-expenses-risk/",
@@ -313,15 +322,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/laura-brandao-mlb-residential-lending/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Trump’s plan to ban institutional homebuyers faces high hurdles, limited impact",
-        "url": "https://www.housingwire.com/articles/trump-investor-ban-housing-market/",
-        "what": "President Donald Trump’s social media post suggesting that he could move to ban large institutional investors from buying homes has been met with skepticism from analysts.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-investor-ban-housing-market/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
