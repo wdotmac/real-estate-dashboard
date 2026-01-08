@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-08 11:32 UTC",
+  "as_of": "2026-01-08 13:08 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Wed, 07 Jan 2026"
     },
     {
+      "title": "Housing Payments Drop to Lowest Level in 2 Years As Mortgage Rates Decline",
+      "link": "https://www.redfin.com/news/housing-market-update-housing-payments-lowest-level-2-years/",
+      "published": "Thu, 08 Jan 2026"
+    },
+    {
       "title": "Banning Corporate Landlords Won’t Fix the Housing Affordability Crisis. Building More Homes Just Might.",
       "link": "https://www.redfin.com/news/banning-investors-pros-cons/",
       "published": "Wed, 07 Jan 2026"
@@ -193,15 +198,19 @@
       "title": "The U.S. Housing Market Has 37% More Sellers Than Buyers—More Than Double Last Year’s Gap",
       "link": "https://www.redfin.com/news/buyers-vs-sellers-november-2025/",
       "published": "Tue, 23 Dec 2025"
-    },
-    {
-      "title": "U.S. Home Prices Ticked Up 0.2% in November",
-      "link": "https://www.redfin.com/news/home-price-index-november-2025/",
-      "published": "Tue, 23 Dec 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Housing Payments Drop to Lowest Level in 2 Years As Mortgage Rates Decline",
+        "url": "https://www.redfin.com/news/housing-market-update-housing-payments-lowest-level-2-years/",
+        "what": "Despite lower monthly mortgage payments, a holiday hangover is muting homebuying demand",
+        "numbers": "$2,365, 4,, 4.7, 2024., 2",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-housing-payments-lowest-level-2-years/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Lennar sells majority stake in multifamily business, signaling strategic shift",
         "url": "https://www.housingwire.com/articles/lennar-sells-majority-stake-quarterra/",
