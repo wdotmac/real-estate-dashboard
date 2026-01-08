@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-01-08 20:38 UTC",
+  "as_of": "2026-01-08 21:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.18,
-      "delta_bp_1d": 0.9999999999999787
+      "yield_pct": 4.15,
+      "delta_bp_1d": -2.999999999999936
     },
     "mortgage_30y": {
       "rate_pct": 6.16,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Taylor Morrison leads most-trusted rankings for 11th year in 2026",
+      "link": "https://www.housingwire.com/articles/homebuilder-trust-rankings-2026/",
+      "published": "Thu, 08 Jan 2026"
+    },
+    {
+      "title": "MeridianLink, Optimal Blue strike integration deal",
+      "link": "https://www.housingwire.com/articles/real-time-mortgage-pricing/",
+      "published": "Thu, 08 Jan 2026"
+    },
+    {
       "title": "New York program helps gig workers qualify for mortgages",
       "link": "https://www.housingwire.com/articles/new-york-program-helps-gig-workers-qualify-for-mortgages/",
       "published": "Thu, 08 Jan 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Google appears to pull embedded home listings from mobile search results",
       "link": "https://www.housingwire.com/articles/google-mls-listing-pilot/",
-      "published": "Thu, 08 Jan 2026"
-    },
-    {
-      "title": "Trump’s plan to ban institutional homebuyers faces high hurdles, limited impact",
-      "link": "https://www.housingwire.com/articles/trump-investor-ban-housing-market/",
-      "published": "Thu, 08 Jan 2026"
-    },
-    {
-      "title": "Western Pennsylvania, small metros surge in home price growth",
-      "link": "https://www.housingwire.com/articles/western-pennsylvania-small-metros-surge-in-home-price-growth/",
       "published": "Thu, 08 Jan 2026"
     },
     {
@@ -223,6 +223,15 @@
     ],
     "housing": [
       {
+        "title": "MeridianLink, Optimal Blue strike integration deal",
+        "url": "https://www.housingwire.com/articles/real-time-mortgage-pricing/",
+        "what": "Under the partnership, mortgage users of MeridianLink’s loan origination system will gain access to Optimal Blue’s real-time product, pricing and eligibility (PPE) engine.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-time-mortgage-pricing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "New York program helps gig workers qualify for mortgages",
         "url": "https://www.housingwire.com/articles/new-york-program-helps-gig-workers-qualify-for-mortgages/",
         "what": "According to the New York City Housing Partnership, the program is expected to support approximately 1,000 workers each year.",
@@ -259,15 +268,6 @@
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
-        "title": "The architecture of ambition: Kind Lending and CANDID partner to redefine the mortgage enterprise",
-        "url": "https://www.housingwire.com/articles/the-architecture-of-ambition-kind-lending-and-candid-partner-to-redefine-the-mortgage-enterprise/",
-        "what": "Kind Lending partners with CANDID to modernize its mortgage operations, eliminate tech debt, and build a unified platform designed for scale and adoption.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-architecture-of-ambition-kind-lending-and-candid-partner-to-redefine-the-mortgage-enterprise/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Banning Corporate Landlords Won’t Fix the Housing Affordability Crisis. Building More Homes Just Might.",
         "url": "https://www.redfin.com/news/banning-investors-pros-cons/",
         "what": "This piece was originally published to Forbes on March 4, 2024",
@@ -278,6 +278,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Taylor Morrison leads most-trusted rankings for 11th year in 2026",
+        "url": "https://www.housingwire.com/articles/homebuilder-trust-rankings-2026/",
+        "what": "For the past five-plus years up to this very day, an 800-lb gorilla takes a seat at the table at every meeting in every Taylor Morrison conference room in every one of the organization’s offices",
+        "numbers": "800, 20, 12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-trust-rankings-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Roc360 REIT receives $150M investment to target renovation loans",
         "url": "https://www.housingwire.com/articles/temasek-roc360-home-renovation-loans/",
@@ -311,15 +320,6 @@
         "what": "We rigorously reviewed the best online real estate schools in Florida to help you launch a new career with ease and confidence.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/best-real-estate-schools-florida/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Corcoran affiliate launches in central Virginia",
-        "url": "https://www.housingwire.com/articles/corcoran-affiliate-launches-in-central-virginia/",
-        "what": "The firm is led by Justin Wiley and Peter Wiley and will serve clients across central Virginia, including greater Charlottesville.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/corcoran-affiliate-launches-in-central-virginia/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
