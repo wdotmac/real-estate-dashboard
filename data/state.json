@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-09 16:46 UTC",
+  "as_of": "2026-01-09 17:38 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Cotality’s Thom Malone on Trump’s proposed institutional investor ban",
+      "link": "https://www.housingwire.com/articles/trump-housing-investor-policy/",
+      "published": "Fri, 09 Jan 2026"
+    },
+    {
       "title": "Modest jobs gain in December signals even cooler labor market",
       "link": "https://www.housingwire.com/articles/jobs-unemployment-housing-market-2026/",
       "published": "Fri, 09 Jan 2026"
@@ -165,12 +170,7 @@
       "published": "Thu, 08 Jan 2026"
     },
     {
-      "title": "Trump directs GSEs to buy $200B in MBS to push mortgage rates lower",
-      "link": "https://www.housingwire.com/articles/trump-gse-mbs-purchase/",
-      "published": "Thu, 08 Jan 2026"
-    },
-    {
-      "title": "Mixed Jobs Report Unlikely to Move Mortgage Rates",
+      "title": "Mixed Jobs Report Unlikely to Move Mortgage Rates Further",
       "link": "https://www.redfin.com/news/mixed-jobs-report-unlikely-to-move-mortgage-rates/",
       "published": "Fri, 09 Jan 2026"
     },
@@ -212,7 +212,7 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mixed Jobs Report Unlikely to Move Mortgage Rates",
+        "title": "Mixed Jobs Report Unlikely to Move Mortgage Rates Further",
         "url": "https://www.redfin.com/news/mixed-jobs-report-unlikely-to-move-mortgage-rates/",
         "what": "Takeaway: Another low hire-low fire jobs report leaves the Fed on track to leave rates alone for the next couple of meetings as expected, implying mortgage rates will stay where they are",
         "numbers": "$200, 4.6, 4.4",
@@ -258,6 +258,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Cotality’s Thom Malone on Trump’s proposed institutional investor ban",
+        "url": "https://www.housingwire.com/articles/trump-housing-investor-policy/",
+        "what": "Banning large investors could raise rents and limit rental options while having minimal impact on home prices, Cotality's Thom Malone said.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-housing-investor-policy/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "AIME-Sweeney lawsuit moves to Michigan court",
         "url": "https://www.housingwire.com/articles/aime-sweeney-lawsuit-michigan/",
@@ -329,15 +338,6 @@
         "what": "Group founder Kasey Jorgenson speaks on the process of going independent and transitioning into a brokerage.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/jorgenson-group-launches-independent-brokerage-after-16-years-with-keller-williams/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Taylor Morrison leads most-trusted rankings for 11th year in 2026",
-        "url": "https://www.housingwire.com/articles/homebuilder-trust-rankings-2026/",
-        "what": "For the past five-plus years up to this very day, an 800-lb gorilla takes a seat at the table at every meeting in every Taylor Morrison conference room in every one of the organization’s offices",
-        "numbers": "800, 20, 12",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-trust-rankings-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
