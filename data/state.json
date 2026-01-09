@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-09 19:30 UTC",
+  "as_of": "2026-01-09 20:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Housing starts fall to lowest point since 2020, led by a stall in the Sun Belt",
+      "link": "https://www.housingwire.com/articles/housing-starts-fall-to-lowest-point-since-2020-led-by-a-stall-in-the-sun-belt/",
+      "published": "Fri, 09 Jan 2026"
+    },
+    {
+      "title": "Mortgage rates drop below 6% following Trump’s MBS announcement",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-under-6-2026/",
+      "published": "Fri, 09 Jan 2026"
+    },
+    {
       "title": "ATTOM: Home affordability stays strained across the country",
       "link": "https://www.housingwire.com/articles/us-home-affordability-2025/",
       "published": "Fri, 09 Jan 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Modest jobs gain in December signals even cooler labor market",
       "link": "https://www.housingwire.com/articles/jobs-unemployment-housing-market-2026/",
-      "published": "Fri, 09 Jan 2026"
-    },
-    {
-      "title": "AIME-Sweeney lawsuit moves to Michigan court",
-      "link": "https://www.housingwire.com/articles/aime-sweeney-lawsuit-michigan/",
-      "published": "Fri, 09 Jan 2026"
-    },
-    {
-      "title": "Compass closes $1.6B Anywhere merger, forms industry giant",
-      "link": "https://www.housingwire.com/articles/compass-closes-1-6b-anywhere-merger-forms-industry-giant/",
       "published": "Fri, 09 Jan 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage rates drop below 6% following Trump’s MBS announcement",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-under-6-2026/",
+        "what": "Mortgage rates fell below 6% Friday as spreads tightened, aided by Trump’s MBS directive and steady 10-year yields.",
+        "numbers": "6, 10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-under-6-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Trump’s Mortgage Bond Order Pushes Rates Below 6% For First Time in Nearly 3 Years, Boosting Purchasing Power",
         "url": "https://www.redfin.com/news/purchasing-power-improves-rates-drop-january-2026/",
@@ -248,15 +257,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Trump directs GSEs to buy $200B in MBS to push mortgage rates lower",
-        "url": "https://www.housingwire.com/articles/trump-gse-mbs-purchase/",
-        "what": "President Donald Trump said Thursday that he is directing representatives at the government-sponsored enterprises (GSEs) to purchase $200 billion in mortgage-backed securities (MBS",
-        "numbers": "$200 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-gse-mbs-purchase/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Housing Payments Drop to Lowest Level in 2 Years As Mortgage Rates Decline",
         "url": "https://www.redfin.com/news/housing-market-update-housing-payments-lowest-level-2-years/",
         "what": "Despite lower monthly mortgage payments, a holiday hangover is muting homebuying demand",
@@ -276,6 +276,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Housing starts fall to lowest point since 2020, led by a stall in the Sun Belt",
+        "url": "https://www.housingwire.com/articles/housing-starts-fall-to-lowest-point-since-2020-led-by-a-stall-in-the-sun-belt/",
+        "what": "Housing starts fell 7.8% year-over-year in October, led by steep declines in the Sunbelt and Mountain West regions.",
+        "numbers": "7.8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-starts-fall-to-lowest-point-since-2020-led-by-a-stall-in-the-sun-belt/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "Cotality’s Thom Malone on Trump’s proposed institutional investor ban",
         "url": "https://www.housingwire.com/articles/trump-housing-investor-policy/",
@@ -338,15 +347,6 @@
         "what": "The Compass-Anywhere merger could close Friday, giving the new firm over 50% market share in major metros and reshaping competition.",
         "numbers": "50",
         "justified": "housingwire.com — https://www.housingwire.com/articles/compass-anywhere-merger-broker-strategy/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Unexpected retirement expenses can strain senior homeowners",
-        "url": "https://www.housingwire.com/articles/retirement-surprise-expenses-risk/",
-        "what": "Researchers found that unexpected costs are the norm, not the exception",
-        "numbers": "83",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/retirement-surprise-expenses-risk/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
