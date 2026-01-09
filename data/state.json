@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-09 15:39 UTC",
+  "as_of": "2026-01-09 16:46 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Modest jobs gain in December signals even cooler labor market",
+      "link": "https://www.housingwire.com/articles/jobs-unemployment-housing-market-2026/",
+      "published": "Fri, 09 Jan 2026"
+    },
+    {
+      "title": "AIME-Sweeney lawsuit moves to Michigan court",
+      "link": "https://www.housingwire.com/articles/aime-sweeney-lawsuit-michigan/",
+      "published": "Fri, 09 Jan 2026"
+    },
+    {
       "title": "Compass closes $1.6B Anywhere merger, forms industry giant",
       "link": "https://www.housingwire.com/articles/compass-closes-1-6b-anywhere-merger-forms-industry-giant/",
       "published": "Fri, 09 Jan 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Trump directs GSEs to buy $200B in MBS to push mortgage rates lower",
       "link": "https://www.housingwire.com/articles/trump-gse-mbs-purchase/",
-      "published": "Thu, 08 Jan 2026"
-    },
-    {
-      "title": "Unexpected retirement expenses can strain senior homeowners",
-      "link": "https://www.housingwire.com/articles/retirement-surprise-expenses-risk/",
-      "published": "Thu, 08 Jan 2026"
-    },
-    {
-      "title": "Toll Brothers announces Karl Mistry as new CEO, Doug Yearley to become Executive Chairman",
-      "link": "https://www.housingwire.com/articles/toll-brothers-announces-karl-mistry-as-new-ceo-doug-yearley-to-become-executive-chairman/",
       "published": "Thu, 08 Jan 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Modest jobs gain in December signals even cooler labor market",
+        "url": "https://www.housingwire.com/articles/jobs-unemployment-housing-market-2026/",
+        "what": "December’s jobs report shows modest growth and a slight drop in unemployment, raising questions for the Fed and housing market.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/jobs-unemployment-housing-market-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mixed Jobs Report Unlikely to Move Mortgage Rates",
         "url": "https://www.redfin.com/news/mixed-jobs-report-unlikely-to-move-mortgage-rates/",
@@ -250,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "AIME-Sweeney lawsuit moves to Michigan court",
+        "url": "https://www.housingwire.com/articles/aime-sweeney-lawsuit-michigan/",
+        "what": "The court found that the venue is justified to be in Michigan because defendants United Wholesale Mortgage and Sarah DeCiantis reside there.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/aime-sweeney-lawsuit-michigan/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Why the fix-and-flip sector is poised for a breakout in 2026",
         "url": "https://www.housingwire.com/articles/why-the-fix-and-flip-sector-is-poised-for-a-breakout-in-2026/",
         "what": "Improving capital availability, easing inventory constraints, and structural cost advantages are setting the stage for a fix-and-flip resurgence as the housing market moves into 20",
@@ -257,24 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/why-the-fix-and-flip-sector-is-poised-for-a-breakout-in-2026/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "MeridianLink, Optimal Blue strike integration deal",
-        "url": "https://www.housingwire.com/articles/real-time-mortgage-pricing/",
-        "what": "Under the partnership, mortgage users of MeridianLink’s loan origination system will gain access to Optimal Blue’s real-time product, pricing and eligibility (PPE) engine.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-time-mortgage-pricing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "New York program helps gig workers qualify for mortgages",
-        "url": "https://www.housingwire.com/articles/new-york-program-helps-gig-workers-qualify-for-mortgages/",
-        "what": "According to the New York City Housing Partnership, the program is expected to support approximately 1,000 workers each year.",
-        "numbers": "1,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-york-program-helps-gig-workers-qualify-for-mortgages/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Banning Corporate Landlords Won’t Fix the Housing Affordability Crisis. Building More Homes Just Might.",
