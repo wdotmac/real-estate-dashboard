@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-08 23:29 UTC",
+  "as_of": "2026-01-09 02:28 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Thu, 08 Jan 2026"
     },
     {
+      "title": "Trump Orders $200B Mortgage Bond Buy, Which Will Likely Nudge Rates Down Slightly to 6%",
+      "link": "https://www.redfin.com/news/federal-government-mortgage-bonds/",
+      "published": "Thu, 08 Jan 2026"
+    },
+    {
       "title": "Housing Payments Drop to Lowest Level in 2 Years As Mortgage Rates Decline",
       "link": "https://www.redfin.com/news/housing-market-update-housing-payments-lowest-level-2-years/",
       "published": "Thu, 08 Jan 2026"
@@ -193,15 +198,19 @@
       "title": "Vacant Lots for Sale Are Piling Up After the L.A. Fires; Investors Are Buying 40% of Those That Sell",
       "link": "https://www.redfin.com/news/los-angeles-wildfires-anniversary/",
       "published": "Tue, 30 Dec 2025"
-    },
-    {
-      "title": "The U.S. Housing Market Has 37% More Sellers Than Buyers—More Than Double Last Year’s Gap",
-      "link": "https://www.redfin.com/news/buyers-vs-sellers-november-2025/",
-      "published": "Tue, 23 Dec 2025"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Trump Orders $200B Mortgage Bond Buy, Which Will Likely Nudge Rates Down Slightly to 6%",
+        "url": "https://www.redfin.com/news/federal-government-mortgage-bonds/",
+        "what": "The ultimate impact of such a move would likely be limited because this would be a relatively small asset purchase program, by historical standards",
+        "numbers": "$200 billion, $200, 6",
+        "justified": "redfin.com — https://www.redfin.com/news/federal-government-mortgage-bonds/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Trump directs GSEs to buy $200B in MBS to push mortgage rates lower",
         "url": "https://www.housingwire.com/articles/trump-gse-mbs-purchase/",
