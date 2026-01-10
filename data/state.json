@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-10 20:34 UTC",
+  "as_of": "2026-01-10 21:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "December jobs data continues to support lower mortgage rates",
+      "link": "https://www.housingwire.com/articles/jobs-report-mortgage-rates-2026/",
+      "published": "Sat, 10 Jan 2026"
+    },
+    {
       "title": "WSJ: DOJ leadership halted antitrust review of Compass–Anywhere deal",
       "link": "https://www.housingwire.com/articles/compass-anywhere-merger-doj/",
       "published": "Fri, 09 Jan 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Housing starts fall to lowest point since 2020, led by a stall in the Sun Belt",
       "link": "https://www.housingwire.com/articles/housing-starts-fall-to-lowest-point-since-2020-led-by-a-stall-in-the-sun-belt/",
-      "published": "Fri, 09 Jan 2026"
-    },
-    {
-      "title": "Mortgage rates drop below 6% following Trump’s MBS announcement",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-under-6-2026/",
       "published": "Fri, 09 Jan 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "December jobs data continues to support lower mortgage rates",
+        "url": "https://www.housingwire.com/articles/jobs-report-mortgage-rates-2026/",
+        "what": "December jobs growth slowed to 50,000, keeping mortgage rates near 6% with steady and Trump’s MBS move supporting better spreads.",
+        "numbers": "50,000, k, 6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/jobs-report-mortgage-rates-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Elon Musk says retirement savings could become ‘irrelevant’",
         "url": "https://www.housingwire.com/articles/elon-musk-retirement-saving-could-become-irrelevant/",
@@ -244,15 +253,6 @@
         "what": "Trump’s $200 billion GSE directive narrows mortgage spreads, with analysts projecting up to 30 bps in tightening.",
         "numbers": "$200 billion, 30",
         "justified": "housingwire.com — https://www.housingwire.com/articles/trump-gse-mortgage-bonds/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Modest jobs gain in December signals even cooler labor market",
-        "url": "https://www.housingwire.com/articles/jobs-unemployment-housing-market-2026/",
-        "what": "December’s jobs report shows modest growth and a slight drop in unemployment, raising questions for the Fed and housing market.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/jobs-unemployment-housing-market-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
