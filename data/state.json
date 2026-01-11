@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-11 20:35 UTC",
+  "as_of": "2026-01-11 21:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The impact of lower mortgage rates on housing inventory",
+      "link": "https://www.housingwire.com/articles/housing-inventory-growth-2026/",
+      "published": "Sun, 11 Jan 2026"
+    },
+    {
       "title": "December jobs data continues to support lower mortgage rates",
       "link": "https://www.housingwire.com/articles/jobs-report-mortgage-rates-2026/",
       "published": "Sat, 10 Jan 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Sharp decline in mortgage rates revives hopes of a refi surge, LOs say",
       "link": "https://www.housingwire.com/articles/mortgage-rates-refi-surge/",
-      "published": "Fri, 09 Jan 2026"
-    },
-    {
-      "title": "Housing starts fall to lowest point since 2020, led by a stall in the Sun Belt",
-      "link": "https://www.housingwire.com/articles/housing-starts-fall-to-lowest-point-since-2020-led-by-a-stall-in-the-sun-belt/",
       "published": "Fri, 09 Jan 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "The impact of lower mortgage rates on housing inventory",
+        "url": "https://www.housingwire.com/articles/housing-inventory-growth-2026/",
+        "what": "U.S",
+        "numbers": "9.99, 6, 34.7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-inventory-growth-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "December jobs data continues to support lower mortgage rates",
         "url": "https://www.housingwire.com/articles/jobs-report-mortgage-rates-2026/",
@@ -282,15 +291,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-housing-payments-lowest-level-2-years/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Redfin Economists’ Weekly Take: First Jobs Report of 2026 Could Impact Mortgage Rates",
-        "url": "https://www.redfin.com/news/weekly-economic-update-january-5/",
-        "what": "This Week In A Nutshell The first jobs report of 2026—and the first “normal” report post-government shutdown—will be published on Friday",
-        "numbers": "2026",
-        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-january-5/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
@@ -302,15 +302,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/housing-starts-fall-to-lowest-point-since-2020-led-by-a-stall-in-the-sun-belt/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Cotality’s Thom Malone on Trump’s proposed institutional investor ban",
-        "url": "https://www.housingwire.com/articles/trump-housing-investor-policy/",
-        "what": "Banning large investors could raise rents and limit rental options while having minimal impact on home prices, Cotality's Thom Malone said.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-housing-investor-policy/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "Banning Corporate Landlords Won’t Fix the Housing Affordability Crisis. Building More Homes Just Might.",
