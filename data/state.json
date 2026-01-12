@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-12 02:34 UTC",
+  "as_of": "2026-01-12 04:19 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "DOJ opens criminal investigation into Federal Reserve and Powell",
+      "link": "https://www.housingwire.com/articles/doj-subpoenas-fed-powell/",
+      "published": "Mon, 12 Jan 2026"
+    },
+    {
       "title": "The impact of lower mortgage rates on housing inventory",
       "link": "https://www.housingwire.com/articles/housing-inventory-growth-2026/",
       "published": "Sun, 11 Jan 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Elon Musk says retirement savings could become ‘irrelevant’",
       "link": "https://www.housingwire.com/articles/elon-musk-retirement-saving-could-become-irrelevant/",
-      "published": "Fri, 09 Jan 2026"
-    },
-    {
-      "title": "Sharp decline in mortgage rates revives hopes of a refi surge, LOs say",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-refi-surge/",
       "published": "Fri, 09 Jan 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "DOJ opens criminal investigation into Federal Reserve and Powell",
+        "url": "https://www.housingwire.com/articles/doj-subpoenas-fed-powell/",
+        "what": "DOJ serves grand jury subpoenas to the Federal Reserve, escalating Trump’s campaign to pressure Powell on interest rates.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/doj-subpoenas-fed-powell/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "The impact of lower mortgage rates on housing inventory",
         "url": "https://www.housingwire.com/articles/housing-inventory-growth-2026/",
@@ -253,15 +262,6 @@
         "what": "Purchasing power has increased $30,000 in the last six months, with rates falling below 6% the day after President Trump ordered a $200 billion mortgage bond purchase",
         "numbers": "$30,000, 6, $200 billion, 5.99, 9,, 3",
         "justified": "redfin.com — https://www.redfin.com/news/purchasing-power-improves-rates-drop-january-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "What Trump’s $200B MBS proposal means for mortgage spreads, rates",
-        "url": "https://www.housingwire.com/articles/trump-gse-mortgage-bonds/",
-        "what": "Trump’s $200 billion GSE directive narrows mortgage spreads, with analysts projecting up to 30 bps in tightening.",
-        "numbers": "$200 billion, 30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-gse-mortgage-bonds/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
