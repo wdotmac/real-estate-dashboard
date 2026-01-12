@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-12 16:45 UTC",
+  "as_of": "2026-01-12 17:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Appeal hearing threatens NAR settlement, raising industry uncertainty",
+      "link": "https://www.housingwire.com/articles/appeal-hearing-threatens-nar-settlement-raising-industry-uncertainty/",
+      "published": "Mon, 12 Jan 2026"
+    },
+    {
+      "title": "Figure’s origination platform tops $2.7B in Q4",
+      "link": "https://www.housingwire.com/articles/figure-q4-2025-origination-blockchain/",
+      "published": "Mon, 12 Jan 2026"
+    },
+    {
+      "title": "CFPB, DOJ withdraw 2023 warning on immigration status in credit decisions",
+      "link": "https://www.housingwire.com/articles/ecoa-immigration-guidance-update/",
+      "published": "Mon, 12 Jan 2026"
+    },
+    {
       "title": "When giants like Compass and Anywhere merge, the agile brokers and agents win",
       "link": "https://www.housingwire.com/articles/when-giants-like-compass-and-anywhere-merge-the-agile-brokers-and-agents-win/",
       "published": "Mon, 12 Jan 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Neighbors Bank ranks best cities for first-time homebuyers in 2026",
       "link": "https://www.housingwire.com/articles/top-cities-first-time-homebuyers-2026/",
-      "published": "Mon, 12 Jan 2026"
-    },
-    {
-      "title": "The 2–4% mortgage trap is freezing housing: Defeasance may be the way out",
-      "link": "https://www.housingwire.com/articles/the-2-4-mortgage-trap-is-freezing-housing-defeasance-may-be-the-way-out/",
-      "published": "Mon, 12 Jan 2026"
-    },
-    {
-      "title": "Why U.S. home insurance costs have leapt in the past decade",
-      "link": "https://www.housingwire.com/articles/why-u-s-home-insurance-costs-have-leapt-in-the-past-decade/",
-      "published": "Mon, 12 Jan 2026"
-    },
-    {
-      "title": "DOJ opens criminal investigation into Federal Reserve and Powell",
-      "link": "https://www.housingwire.com/articles/doj-subpoenas-fed-powell/",
       "published": "Mon, 12 Jan 2026"
     },
     {
@@ -239,15 +239,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "December jobs data continues to support lower mortgage rates",
-        "url": "https://www.housingwire.com/articles/jobs-report-mortgage-rates-2026/",
-        "what": "December jobs growth slowed to 50,000, keeping mortgage rates near 6% with steady and Trump’s MBS move supporting better spreads.",
-        "numbers": "50,000, k, 6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/jobs-report-mortgage-rates-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Trump’s Mortgage Bond Order Pushes Rates Below 6% For First Time in Nearly 3 Years, Boosting Purchasing Power",
         "url": "https://www.redfin.com/news/purchasing-power-improves-rates-drop-january-2026/",
         "what": "Purchasing power has increased $30,000 in the last six months, with rates falling below 6% the day after President Trump ordered a $200 billion mortgage bond purchase",
@@ -295,6 +286,15 @@
     ],
     "housing": [
       {
+        "title": "CFPB, DOJ withdraw 2023 warning on immigration status in credit decisions",
+        "url": "https://www.housingwire.com/articles/ecoa-immigration-guidance-update/",
+        "what": "New guidance from CFPB and DOJ aims to ease mortgage lender concerns over ECOA and immigration status in credit policies.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ecoa-immigration-guidance-update/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Philadelphia rezoning bid would further stifle SRO development",
         "url": "https://www.housingwire.com/articles/philadelphia-sro-zoning-restrictions-northeast-overlay/",
         "what": "Single-room occupancy housing has made somewhat of a comeback among policymakers nationwide who’ve revived such dwellings as a low-cost safety net",
@@ -324,6 +324,24 @@
     ],
     "notables": [
       {
+        "title": "Appeal hearing threatens NAR settlement, raising industry uncertainty",
+        "url": "https://www.housingwire.com/articles/appeal-hearing-threatens-nar-settlement-raising-industry-uncertainty/",
+        "what": "Appeals to the NAR commission settlement could force new negotiations and impact real estate business practices.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/appeal-hearing-threatens-nar-settlement-raising-industry-uncertainty/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Figure’s origination platform tops $2.7B in Q4",
+        "url": "https://www.housingwire.com/articles/figure-q4-2025-origination-blockchain/",
+        "what": "Figure Technology Solutions reported that its loan origination system produced $2.705 billion in volume during the fourth quarter of 2025, up 131% from the same period a year earli",
+        "numbers": "$2.705 billion, 2025,, 131",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/figure-q4-2025-origination-blockchain/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "When giants like Compass and Anywhere merge, the agile brokers and agents win",
         "url": "https://www.housingwire.com/articles/when-giants-like-compass-and-anywhere-merge-the-agile-brokers-and-agents-win/",
         "what": "Independent agents can compete with major brokerages by building local expertise, referral networks and a strong personal brand.",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/when-giants-like-compass-and-anywhere-merge-the-agile-brokers-and-agents-win/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "WSJ: DOJ leadership halted antitrust review of Compass–Anywhere deal",
-        "url": "https://www.housingwire.com/articles/compass-anywhere-merger-doj/",
-        "what": "Compass closed its acquisition of Anywhere Friday, with the Wall Street Journal and Bloomberg reporting that DOJ leaders blocked a deeper antitrust review.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-anywhere-merger-doj/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Real estate leaders weigh in on potential ban on large investors",
-        "url": "https://www.housingwire.com/articles/real-estate-leaders-weigh-in-on-potential-ban-on-large-investors/",
-        "what": "The proposal has sparked debate over the role of Wall Street-backed landlords",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-leaders-weigh-in-on-potential-ban-on-large-investors/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ]
   }
