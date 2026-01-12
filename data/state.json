@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-12 19:31 UTC",
+  "as_of": "2026-01-12 20:38 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Meet MVRK Real Estate, the latest brokerage launched by a mortgage executive",
+      "link": "https://www.housingwire.com/articles/mvrk-real-estate-florida-launch/",
+      "published": "Mon, 12 Jan 2026"
+    },
+    {
       "title": "DOJ probe into Powell prompts bipartisan backlash",
       "link": "https://www.housingwire.com/articles/federal-reserve-investigation-powell/",
       "published": "Mon, 12 Jan 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Figure’s origination platform tops $2.7B in Q4",
       "link": "https://www.housingwire.com/articles/figure-q4-2025-origination-blockchain/",
-      "published": "Mon, 12 Jan 2026"
-    },
-    {
-      "title": "CFPB, DOJ withdraw 2023 warning on immigration status in credit decisions",
-      "link": "https://www.housingwire.com/articles/ecoa-immigration-guidance-update/",
       "published": "Mon, 12 Jan 2026"
     },
     {
@@ -208,15 +208,6 @@
         "what": "The DOJ's investigation into Fed Chair Jerome Powell over renovation costs has sparked political backlash about the Fed's independence.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/federal-reserve-investigation-powell/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The 2–4% mortgage trap is freezing housing: Defeasance may be the way out",
-        "url": "https://www.housingwire.com/articles/the-2-4-mortgage-trap-is-freezing-housing-defeasance-may-be-the-way-out/",
-        "what": "For the past several years, the U.S",
-        "numbers": "2020, 2022, 2, 4, 6, 7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-2-4-mortgage-trap-is-freezing-housing-defeasance-may-be-the-way-out/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -267,6 +258,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Meet MVRK Real Estate, the latest brokerage launched by a mortgage executive",
+        "url": "https://www.housingwire.com/articles/mvrk-real-estate-florida-launch/",
+        "what": "MVRK Real Estate opens in Orlando offering mentorship and a dual license program to recruit agents, with national expansion planned.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mvrk-real-estate-florida-launch/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Affordable HOMES Act passes House",
         "url": "https://www.housingwire.com/articles/affordable-homes-act-house-passes/",
