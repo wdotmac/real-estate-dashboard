@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-01-12 20:38 UTC",
+  "as_of": "2026-01-12 21:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.19,
-      "delta_bp_1d": 4.0000000000000036
+      "yield_pct": 4.18,
+      "delta_bp_1d": -1.0000000000000675
     },
     "mortgage_30y": {
       "rate_pct": 6.16,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Merger forms largest Arizona REMAX brokerage",
+      "link": "https://www.housingwire.com/articles/merger-forms-largest-arizona-remax-brokerage/",
+      "published": "Mon, 12 Jan 2026"
+    },
+    {
+      "title": "Justin Demola joins Equifax as SVP of mortgage and housing",
+      "link": "https://www.housingwire.com/articles/demola-joins-equifax-mortgage/",
+      "published": "Mon, 12 Jan 2026"
+    },
+    {
+      "title": "Midwest housing markets coming in hot for 2026",
+      "link": "https://www.housingwire.com/articles/midwest-housing-markets-coming-in-hot-for-2026/",
+      "published": "Mon, 12 Jan 2026"
+    },
+    {
+      "title": "Mamdani notches a loss in opening gambit to take on NYC landlords",
+      "link": "https://www.housingwire.com/articles/nyc-rent-stabilized-sale-court/",
+      "published": "Mon, 12 Jan 2026"
+    },
+    {
+      "title": "Shake it off! NAR looks to dismiss Taylor Swift copyright claim",
+      "link": "https://www.housingwire.com/articles/nar-kelce-estate-copyright-lawsuit/",
+      "published": "Mon, 12 Jan 2026"
+    },
+    {
       "title": "Meet MVRK Real Estate, the latest brokerage launched by a mortgage executive",
       "link": "https://www.housingwire.com/articles/mvrk-real-estate-florida-launch/",
-      "published": "Mon, 12 Jan 2026"
-    },
-    {
-      "title": "DOJ probe into Powell prompts bipartisan backlash",
-      "link": "https://www.housingwire.com/articles/federal-reserve-investigation-powell/",
-      "published": "Mon, 12 Jan 2026"
-    },
-    {
-      "title": "SERHANT. appoints Greg Chan as chief technology officer",
-      "link": "https://www.housingwire.com/articles/serhant-appoints-greg-chan-as-chief-technology-officer/",
-      "published": "Mon, 12 Jan 2026"
-    },
-    {
-      "title": "Affordable HOMES Act passes House",
-      "link": "https://www.housingwire.com/articles/affordable-homes-act-house-passes/",
-      "published": "Mon, 12 Jan 2026"
-    },
-    {
-      "title": "Appeal hearing threatens NAR settlement, raising industry uncertainty",
-      "link": "https://www.housingwire.com/articles/appeal-hearing-threatens-nar-settlement-raising-industry-uncertainty/",
-      "published": "Mon, 12 Jan 2026"
-    },
-    {
-      "title": "Figure’s origination platform tops $2.7B in Q4",
-      "link": "https://www.housingwire.com/articles/figure-q4-2025-origination-blockchain/",
       "published": "Mon, 12 Jan 2026"
     },
     {
@@ -246,18 +246,45 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-housing-payments-lowest-level-2-years/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Redfin Economists’ Weekly Take: First Jobs Report of 2026 Could Impact Mortgage Rates",
-        "url": "https://www.redfin.com/news/weekly-economic-update-january-5/",
-        "what": "This Week In A Nutshell The first jobs report of 2026—and the first “normal” report post-government shutdown—will be published on Friday",
-        "numbers": "2026",
-        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-january-5/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Justin Demola joins Equifax as SVP of mortgage and housing",
+        "url": "https://www.housingwire.com/articles/demola-joins-equifax-mortgage/",
+        "what": "Justin Demola, the former president of Lenders One Mortgage Cooperative, announced he has joined Equifax as SVP of mortgage and housing.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/demola-joins-equifax-mortgage/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Midwest housing markets coming in hot for 2026",
+        "url": "https://www.housingwire.com/articles/midwest-housing-markets-coming-in-hot-for-2026/",
+        "what": "Across the hottest markets, a defining feature stands out",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/midwest-housing-markets-coming-in-hot-for-2026/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Mamdani notches a loss in opening gambit to take on NYC landlords",
+        "url": "https://www.housingwire.com/articles/nyc-rent-stabilized-sale-court/",
+        "what": "New York City Mayor Zohran Mamdani suffered defeat in his first skirmish with multifamily property owners as part of a strategic war to remake the city’s rent-stabilized housing.​ On Friday, Summit Properties USA became the winning bidder for more than 5,000 rent-regulated units owned by bankrupt Pinnacle Development Group",
+        "numbers": "5,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-rent-stabilized-sale-court/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Shake it off! NAR looks to dismiss Taylor Swift copyright claim",
+        "url": "https://www.housingwire.com/articles/nar-kelce-estate-copyright-lawsuit/",
+        "what": "NAR seeks dismissal of a copyright lawsuit over Kelce estate photos, citing lack of jurisdiction and no Realtor.com ties.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-kelce-estate-copyright-lawsuit/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Meet MVRK Real Estate, the latest brokerage launched by a mortgage executive",
         "url": "https://www.housingwire.com/articles/mvrk-real-estate-florida-launch/",
@@ -277,33 +304,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "CFPB, DOJ withdraw 2023 warning on immigration status in credit decisions",
-        "url": "https://www.housingwire.com/articles/ecoa-immigration-guidance-update/",
-        "what": "New guidance from CFPB and DOJ aims to ease mortgage lender concerns over ECOA and immigration status in credit policies.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ecoa-immigration-guidance-update/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Philadelphia rezoning bid would further stifle SRO development",
-        "url": "https://www.housingwire.com/articles/philadelphia-sro-zoning-restrictions-northeast-overlay/",
-        "what": "Single-room occupancy housing has made somewhat of a comeback among policymakers nationwide who’ve revived such dwellings as a low-cost safety net",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/philadelphia-sro-zoning-restrictions-northeast-overlay/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Neighbors Bank ranks best cities for first-time homebuyers in 2026",
-        "url": "https://www.housingwire.com/articles/top-cities-first-time-homebuyers-2026/",
-        "what": "The report analyzed cities with populations above 115,000 where monthly housing costs did not exceed 35% of median household income.",
-        "numbers": "115,000, 35",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/top-cities-first-time-homebuyers-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Banning Corporate Landlords Won’t Fix the Housing Affordability Crisis. Building More Homes Just Might.",
         "url": "https://www.redfin.com/news/banning-investors-pros-cons/",
         "what": "This piece was originally published to Forbes on March 4, 2024",
@@ -314,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Merger forms largest Arizona REMAX brokerage",
+        "url": "https://www.housingwire.com/articles/merger-forms-largest-arizona-remax-brokerage/",
+        "what": "Combined operations will work under the RE/MAX Fine Properties name and maintain nine offices across the state.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/merger-forms-largest-arizona-remax-brokerage/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "SERHANT. appoints Greg Chan as chief technology officer",
         "url": "https://www.housingwire.com/articles/serhant-appoints-greg-chan-as-chief-technology-officer/",
@@ -329,24 +338,6 @@
         "what": "Appeals to the NAR commission settlement could force new negotiations and impact real estate business practices.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/appeal-hearing-threatens-nar-settlement-raising-industry-uncertainty/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Figure’s origination platform tops $2.7B in Q4",
-        "url": "https://www.housingwire.com/articles/figure-q4-2025-origination-blockchain/",
-        "what": "Figure Technology Solutions reported that its loan origination system produced $2.705 billion in volume during the fourth quarter of 2025, up 131% from the same period a year earli",
-        "numbers": "$2.705 billion, 2025,, 131",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/figure-q4-2025-origination-blockchain/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "When giants like Compass and Anywhere merge, the agile brokers and agents win",
-        "url": "https://www.housingwire.com/articles/when-giants-like-compass-and-anywhere-merge-the-agile-brokers-and-agents-win/",
-        "what": "Independent agents can compete with major brokerages by building local expertise, referral networks and a strong personal brand.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/when-giants-like-compass-and-anywhere-merge-the-agile-brokers-and-agents-win/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
