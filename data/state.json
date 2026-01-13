@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-13 21:34 UTC",
+  "as_of": "2026-01-13 22:39 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Cost of retirement comfort soars, leaving most far short",
+      "link": "https://www.housingwire.com/articles/cost-of-retirement-comfort-soars-leaving-most-far-short/",
+      "published": "Tue, 13 Jan 2026"
+    },
+    {
+      "title": "Builders greet 2026 squeezed by policy flux and margin erosion",
+      "link": "https://www.housingwire.com/articles/homebuilders-2026-margin-pressure-policy-uncertainty/",
+      "published": "Tue, 13 Jan 2026"
+    },
+    {
+      "title": "NAMB urges FHA to end lifetime mortgage insurance rule",
+      "link": "https://www.housingwire.com/articles/namb-urges-fha-end-lifetime-mip/",
+      "published": "Tue, 13 Jan 2026"
+    },
+    {
+      "title": "Luxury Presence raises $37M to push CRM platform development",
+      "link": "https://www.housingwire.com/articles/luxury-presence-raises-37m-to-push-crm-platform-development/",
+      "published": "Tue, 13 Jan 2026"
+    },
+    {
       "title": "Top Houston agent leaves Compass for Douglas Elliman",
       "link": "https://www.housingwire.com/articles/douglas-elliman-houston-dana-johnson/",
       "published": "Tue, 13 Jan 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Max Stokes splits from Fox & Stokes to launch N.J. Compass team",
       "link": "https://www.housingwire.com/articles/max-stokes-splits-from-fox-stokes-to-launch-n-j-compass-team/",
-      "published": "Tue, 13 Jan 2026"
-    },
-    {
-      "title": "Engel & Völkers gains top California team from Sotheby’s",
-      "link": "https://www.housingwire.com/articles/sothebys-team-joins-engel-voelkers/",
-      "published": "Tue, 13 Jan 2026"
-    },
-    {
-      "title": "Lawmakers move to restrict private listings in Washington",
-      "link": "https://www.housingwire.com/articles/washington-private-listing-bill/",
-      "published": "Tue, 13 Jan 2026"
-    },
-    {
-      "title": "House bill seeks higher VA loan fees to fund veterans’ benefits",
-      "link": "https://www.housingwire.com/articles/va-mortgage-fee-hike-bill/",
-      "published": "Tue, 13 Jan 2026"
-    },
-    {
-      "title": "New home sales surge; margin pressure on homebuilders mounts",
-      "link": "https://www.housingwire.com/articles/new-home-sales/",
       "published": "Tue, 13 Jan 2026"
     },
     {
@@ -202,15 +202,6 @@
   ],
   "feed_101020": {
     "macro": [
-      {
-        "title": "Mortgage rates fall near 6% with GSEs set to boost MBS purchases",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-gse-mbs-drop/",
-        "what": "Last week, the market responded to President Donald Trump’s directive for Fannie Mae and Freddie Mac to purchase $200 billion in mortgage-backed securities (MBS).",
-        "numbers": "$200 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-gse-mbs-drop/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
       {
         "title": "Mortgage Rates Expected to Stay Put After Today’s Mild Inflation Report",
         "url": "https://www.redfin.com/news/mortgage-rates-expected-to-stay-put-after-todays-mild-inflation-report/",
@@ -268,6 +259,24 @@
     ],
     "housing": [
       {
+        "title": "Builders greet 2026 squeezed by policy flux and margin erosion",
+        "url": "https://www.housingwire.com/articles/homebuilders-2026-margin-pressure-policy-uncertainty/",
+        "what": "By the time the homebuilding industry reaches Super Bowl LX on Sunday, Feb",
+        "numbers": "8,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilders-2026-margin-pressure-policy-uncertainty/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "NAMB urges FHA to end lifetime mortgage insurance rule",
+        "url": "https://www.housingwire.com/articles/namb-urges-fha-end-lifetime-mip/",
+        "what": "NAMB urges FHA to end its lifetime mortgage insurance rule, citing outdated policies and improved financial conditions for the MMI Fund.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/namb-urges-fha-end-lifetime-mip/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Top Houston agent leaves Compass for Douglas Elliman",
         "url": "https://www.housingwire.com/articles/douglas-elliman-houston-dana-johnson/",
         "what": "With $100 million in closed sales in 2025, Dana Johnson is a top-10 agent in Houston and is taking her talents to Douglas Elliman.",
@@ -302,18 +311,27 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-sales/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Glenn Kelman steps down as Redfin CEO",
-        "url": "https://www.housingwire.com/articles/glenn-kelman-steps-down-as-redfin-ceo/",
-        "what": "Glenn Kelman leaves Redfin after 20 years as CEO, following Rocket Companies’ acquisition",
-        "numbers": "20",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/glenn-kelman-steps-down-as-redfin-ceo/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
+      {
+        "title": "Cost of retirement comfort soars, leaving most far short",
+        "url": "https://www.housingwire.com/articles/cost-of-retirement-comfort-soars-leaving-most-far-short/",
+        "what": "Survey insights point to a widening gap between what retirees believe is required to retire comfortably and what most actually have.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cost-of-retirement-comfort-soars-leaving-most-far-short/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Luxury Presence raises $37M to push CRM platform development",
+        "url": "https://www.housingwire.com/articles/luxury-presence-raises-37m-to-push-crm-platform-development/",
+        "what": "Luxury Presence’s new artificial intelligence–driven Presence CRM platform is scheduled to roll out in February.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/luxury-presence-raises-37m-to-push-crm-platform-development/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Max Stokes splits from Fox & Stokes to launch N.J. Compass team",
         "url": "https://www.housingwire.com/articles/max-stokes-splits-from-fox-stokes-to-launch-n-j-compass-team/",
@@ -329,24 +347,6 @@
         "what": "Engel & Völkers welcomes Truszkowski Freedman & Associates, a $1B luxury team formerly brokered with Sotheby's with $45.13M in 2024 sales.",
         "numbers": "$1, $45.13, 2024",
         "justified": "housingwire.com — https://www.housingwire.com/articles/sothebys-team-joins-engel-voelkers/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Setpoint acquires inTENT Fulfillment, expands secondary market approval capacities",
-        "url": "https://www.housingwire.com/articles/setpoint-loan-diligence-expansion/",
-        "what": "Setpoint will acquire inTENT Fulfillment, gaining ratings agency approvals for multiple asset classes and expanding diligence capabilities.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/setpoint-loan-diligence-expansion/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "APB Wholesale expands construction loan options for entrepreneurs",
-        "url": "https://www.housingwire.com/articles/american-pride-bank-construction-loans/",
-        "what": "American Pride Bank’s wholesale division expands one-time-close construction loans with new options for self-employed workers and real estate investors.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/american-pride-bank-construction-loans/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
