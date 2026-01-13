@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-13 17:43 UTC",
+  "as_of": "2026-01-13 18:48 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Glenn Kelman steps down as Redfin CEO",
+      "link": "https://www.housingwire.com/articles/glenn-kelman-steps-down-as-redfin-ceo/",
+      "published": "Tue, 13 Jan 2026"
+    },
+    {
+      "title": "APB Wholesale expands construction loan options for entrepreneurs",
+      "link": "https://www.housingwire.com/articles/american-pride-bank-construction-loans/",
+      "published": "Tue, 13 Jan 2026"
+    },
+    {
+      "title": "Mortgage rates fall near 6% with GSEs set to boost MBS purchases",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-gse-mbs-drop/",
+      "published": "Tue, 13 Jan 2026"
+    },
+    {
       "title": "Top producing Michigan firm joins The Real Brokerage",
       "link": "https://www.housingwire.com/articles/top-producing-michigan-firm-joins-the-real-brokerage/",
       "published": "Tue, 13 Jan 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Trump pauses 50-year mortgage plan, eyes 401(k)s for down payments",
       "link": "https://www.housingwire.com/articles/trump-mortgage-retirement-downpayment/",
-      "published": "Tue, 13 Jan 2026"
-    },
-    {
-      "title": "Bill Ackman proposes prepayment penalties to lower mortgage rates",
-      "link": "https://www.housingwire.com/articles/ackman-mortgage-prepay-penalties/",
-      "published": "Tue, 13 Jan 2026"
-    },
-    {
-      "title": "JPMorgan kicks off mortgage earnings season with higher origination volume",
-      "link": "https://www.housingwire.com/articles/jpmorgan-mortgage-originations-2025/",
-      "published": "Tue, 13 Jan 2026"
-    },
-    {
-      "title": "December inflation flat as Fed eyes interest rate decision",
-      "link": "https://www.housingwire.com/articles/december-inflation-fed-rates/",
       "published": "Tue, 13 Jan 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Mortgage rates fall near 6% with GSEs set to boost MBS purchases",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-gse-mbs-drop/",
+        "what": "Last week, the market responded to President Donald Trump’s directive for Fannie Mae and Freddie Mac to purchase $200 billion in mortgage-backed securities (MBS).",
+        "numbers": "$200 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-gse-mbs-drop/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Bill Ackman proposes prepayment penalties to lower mortgage rates",
         "url": "https://www.housingwire.com/articles/ackman-mortgage-prepay-penalties/",
         "what": "Bill Ackman has proposed prepayment penalties on new mortgages, estimating a 65 bps rate reduction for Fannie and Freddie loans.",
@@ -226,24 +235,6 @@
         "what": "Takeaway: Mortgage rates are unlikely to move after a mild inflation report still marred by government shutdown-related distortions",
         "numbers": "",
         "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-expected-to-stay-put-after-todays-mild-inflation-report/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Snapdocs integrates with MeridianLink’s LOS for home equity loans",
-        "url": "https://www.housingwire.com/articles/digital-home-equity-closings/",
-        "what": "Snapdocs and MeridianLink launch integration for digital home equity closings, enabling mortgage lenders to complete digital closings.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/digital-home-equity-closings/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Reducing risk: The importance of administrative access responsibilities",
-        "url": "https://www.housingwire.com/articles/reducing-risk-the-importance-of-administrative-access-responsibilities/",
-        "what": "In today’s digital-first environment, administrative access is essential to keeping real estate, title insurance, and mortgage operations running smoothly",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reducing-risk-the-importance-of-administrative-access-responsibilities/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -295,6 +286,15 @@
     ],
     "housing": [
       {
+        "title": "Glenn Kelman steps down as Redfin CEO",
+        "url": "https://www.housingwire.com/articles/glenn-kelman-steps-down-as-redfin-ceo/",
+        "what": "Glenn Kelman leaves Redfin after 20 years as CEO, following Rocket Companies’ acquisition",
+        "numbers": "20",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/glenn-kelman-steps-down-as-redfin-ceo/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Top producing Michigan firm joins The Real Brokerage",
         "url": "https://www.housingwire.com/articles/top-producing-michigan-firm-joins-the-real-brokerage/",
         "what": "According to leaders, Good Company closed roughly 1,900 home sales in 2025 with total volume of roughly $500 million.",
@@ -338,17 +338,18 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/nc-statewide-housing-reform/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Newrez to allow crypto assets in mortgage qualification without liquidation",
-        "url": "https://www.housingwire.com/articles/newrez-crypto-underwriting-policy/",
-        "what": "Newrez plans to recognize cryptocurrency assets in the mortgage qualification process without requiring borrowers to liquidate their holdings, the company announced Tuesday.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/newrez-crypto-underwriting-policy/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
-    "notables": []
+    "notables": [
+      {
+        "title": "APB Wholesale expands construction loan options for entrepreneurs",
+        "url": "https://www.housingwire.com/articles/american-pride-bank-construction-loans/",
+        "what": "American Pride Bank’s wholesale division expands one-time-close construction loans with new options for self-employed workers and real estate investors.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/american-pride-bank-construction-loans/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      }
+    ]
   }
 }
