@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-13 22:39 UTC",
+  "as_of": "2026-01-13 23:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Lower mortgage rates support steady new home sales",
+      "link": "https://www.housingwire.com/articles/new-home-sales-mortgage-rates/",
+      "published": "Tue, 13 Jan 2026"
+    },
+    {
       "title": "Cost of retirement comfort soars, leaving most far short",
       "link": "https://www.housingwire.com/articles/cost-of-retirement-comfort-soars-leaving-most-far-short/",
       "published": "Tue, 13 Jan 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Top Houston agent leaves Compass for Douglas Elliman",
       "link": "https://www.housingwire.com/articles/douglas-elliman-houston-dana-johnson/",
-      "published": "Tue, 13 Jan 2026"
-    },
-    {
-      "title": "Max Stokes splits from Fox & Stokes to launch N.J. Compass team",
-      "link": "https://www.housingwire.com/articles/max-stokes-splits-from-fox-stokes-to-launch-n-j-compass-team/",
       "published": "Tue, 13 Jan 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Lower mortgage rates support steady new home sales",
+        "url": "https://www.housingwire.com/articles/new-home-sales-mortgage-rates/",
+        "what": "The long-delayed report shows new home sales reached 737,000 in October 2025, up 18.7% from last year, as mortgage rates fall near 6%",
+        "numbers": "737,000, 2025,, 18.7, 6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-sales-mortgage-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage Rates Expected to Stay Put After Today’s Mild Inflation Report",
         "url": "https://www.redfin.com/news/mortgage-rates-expected-to-stay-put-after-todays-mild-inflation-report/",
@@ -302,15 +311,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/va-mortgage-fee-hike-bill/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "New home sales surge; margin pressure on homebuilders mounts",
-        "url": "https://www.housingwire.com/articles/new-home-sales/",
-        "what": "New home sales rose 18.7% year-over-year in October, but median prices fell 8% as builders increased incentives.",
-        "numbers": "18.7, 8",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-sales/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       }
     ],
     "notables": [
