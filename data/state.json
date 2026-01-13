@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-13 14:44 UTC",
+  "as_of": "2026-01-13 15:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Newrez to allow crypto assets in mortgage qualification without liquidation",
+      "link": "https://www.housingwire.com/articles/newrez-crypto-underwriting-policy/",
+      "published": "Tue, 13 Jan 2026"
+    },
+    {
       "title": "Snapdocs integrates with MeridianLink’s LOS for home equity loans",
       "link": "https://www.housingwire.com/articles/digital-home-equity-closings/",
       "published": "Tue, 13 Jan 2026"
@@ -165,9 +170,9 @@
       "published": "Mon, 12 Jan 2026"
     },
     {
-      "title": "Merger forms largest Arizona REMAX brokerage",
-      "link": "https://www.housingwire.com/articles/merger-forms-largest-arizona-remax-brokerage/",
-      "published": "Mon, 12 Jan 2026"
+      "title": "Mortgage Rates Expected to Stay Put After Today’s Mild Inflation Report",
+      "link": "https://www.redfin.com/news/mortgage-rates-expected-to-stay-put-after-todays-mild-inflation-report/",
+      "published": "Tue, 13 Jan 2026"
     },
     {
       "title": "Redfin Economists’ Weekly Take: Mortgage Rates Dipped After Trump’s Mortgage-Bond Move, Fed Turmoil and Inflation Data Loom",
@@ -193,15 +198,19 @@
       "title": "Housing Payments Drop to Lowest Level in 2 Years As Mortgage Rates Decline",
       "link": "https://www.redfin.com/news/housing-market-update-housing-payments-lowest-level-2-years/",
       "published": "Thu, 08 Jan 2026"
-    },
-    {
-      "title": "Banning Corporate Landlords Won’t Fix the Housing Affordability Crisis. Building More Homes Just Might.",
-      "link": "https://www.redfin.com/news/banning-investors-pros-cons/",
-      "published": "Wed, 07 Jan 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage Rates Expected to Stay Put After Today’s Mild Inflation Report",
+        "url": "https://www.redfin.com/news/mortgage-rates-expected-to-stay-put-after-todays-mild-inflation-report/",
+        "what": "Takeaway: Mortgage rates are unlikely to move after a mild inflation report still marred by government shutdown-related distortions",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-expected-to-stay-put-after-todays-mild-inflation-report/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Snapdocs integrates with MeridianLink’s LOS for home equity loans",
         "url": "https://www.housingwire.com/articles/digital-home-equity-closings/",
@@ -268,6 +277,15 @@
     ],
     "housing": [
       {
+        "title": "Newrez to allow crypto assets in mortgage qualification without liquidation",
+        "url": "https://www.housingwire.com/articles/newrez-crypto-underwriting-policy/",
+        "what": "Newrez plans to recognize cryptocurrency assets in the mortgage qualification process without requiring borrowers to liquidate their holdings, the company announced Tuesday.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/newrez-crypto-underwriting-policy/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "U.S. housing inventory growth slows to 10% as demand reshapes the 2026 market",
         "url": "https://www.housingwire.com/articles/us-housing-inventory-growth-10-percent-2026/",
         "what": "Inventory growth has slowed to 10% year over year as demand drives a more balanced and seasonal 2026 housing market, according to HousingWire data.",
@@ -300,24 +318,6 @@
         "what": "New York City Mayor Zohran Mamdani suffered defeat in his first skirmish with multifamily property owners as part of a strategic war to remake the city’s rent-stabilized housing.​ On Friday, Summit Properties USA became the winning bidder for more than 5,000 rent-regulated units owned by bankrupt Pinnacle Development Group",
         "numbers": "5,000",
         "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-rent-stabilized-sale-court/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Shake it off! NAR looks to dismiss Taylor Swift copyright claim",
-        "url": "https://www.housingwire.com/articles/nar-kelce-estate-copyright-lawsuit/",
-        "what": "NAR seeks dismissal of a copyright lawsuit over Kelce estate photos, citing lack of jurisdiction and no Realtor.com ties.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-kelce-estate-copyright-lawsuit/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Banning Corporate Landlords Won’t Fix the Housing Affordability Crisis. Building More Homes Just Might.",
-        "url": "https://www.redfin.com/news/banning-investors-pros-cons/",
-        "what": "This piece was originally published to Forbes on March 4, 2024",
-        "numbers": "4,, 2024.",
-        "justified": "redfin.com — https://www.redfin.com/news/banning-investors-pros-cons/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
