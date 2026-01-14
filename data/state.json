@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-14 16:49 UTC",
+  "as_of": "2026-01-14 17:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The storyteller: The Agency’s Lesley Shea on marketing that matters",
+      "link": "https://www.housingwire.com/articles/real-estate-storytelling-lesley-shea/",
+      "published": "Wed, 14 Jan 2026"
+    },
+    {
+      "title": "Rithm Capital announces $250M preferred stock offering",
+      "link": "https://www.housingwire.com/articles/rithm-capital-preferred-stock-offering/",
+      "published": "Wed, 14 Jan 2026"
+    },
+    {
+      "title": "NWMLS’s longtime COO Monica Beck to retire",
+      "link": "https://www.housingwire.com/articles/nwmls-monica-beck-retirement/",
+      "published": "Wed, 14 Jan 2026"
+    },
+    {
+      "title": "December existing home sales hit three year high",
+      "link": "https://www.housingwire.com/articles/december-existing-home-sales-hit-three-year-high/",
+      "published": "Wed, 14 Jan 2026"
+    },
+    {
       "title": "Lower acquires Acopia Home Loans, expands in the Southeast",
       "link": "https://www.housingwire.com/articles/lower-acopia-home-loans-acquisition/",
       "published": "Wed, 14 Jan 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Arizona Sen. Gallego unveils new housing affordability blueprint",
       "link": "https://www.housingwire.com/articles/federal-housing-affordability-plan/",
-      "published": "Wed, 14 Jan 2026"
-    },
-    {
-      "title": "United Real Estate launches investment program for agents",
-      "link": "https://www.housingwire.com/articles/united-real-estate-uresi-program/",
-      "published": "Wed, 14 Jan 2026"
-    },
-    {
-      "title": "Mortgage applications rise 28.5% after GSE $200B bond directive",
-      "link": "https://www.housingwire.com/articles/mba-mortgage-applications-rise/",
-      "published": "Wed, 14 Jan 2026"
-    },
-    {
-      "title": "NEXA Lending hires Todd Bitter as national sales director",
-      "link": "https://www.housingwire.com/articles/nexa-lending-todd-bitter-sales-director/",
-      "published": "Wed, 14 Jan 2026"
-    },
-    {
-      "title": "SERHANT. launches in Boston, marking first expansion into Massachusetts",
-      "link": "https://www.housingwire.com/articles/serhant-boston-expansion/",
       "published": "Wed, 14 Jan 2026"
     },
     {
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Lower mortgage rates support steady new home sales",
-        "url": "https://www.housingwire.com/articles/new-home-sales-mortgage-rates/",
-        "what": "The long-delayed report shows new home sales reached 737,000 in October 2025, up 18.7% from last year, as mortgage rates fall near 6%",
-        "numbers": "737,000, 2025,, 18.7, 6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-sales-mortgage-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Mortgage Rates Expected to Stay Put After Today’s Mild Inflation Report",
         "url": "https://www.redfin.com/news/mortgage-rates-expected-to-stay-put-after-todays-mild-inflation-report/",
         "what": "Takeaway: Mortgage rates are unlikely to move after a mild inflation report still marred by government shutdown-related distortions",
@@ -277,6 +268,15 @@
     ],
     "housing": [
       {
+        "title": "December existing home sales hit three year high",
+        "url": "https://www.housingwire.com/articles/december-existing-home-sales-hit-three-year-high/",
+        "what": "U.S",
+        "numbers": "5.1, 2025, 4.35 million, 18.1",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/december-existing-home-sales-hit-three-year-high/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Lower acquires Acopia Home Loans, expands in the Southeast",
         "url": "https://www.housingwire.com/articles/lower-acopia-home-loans-acquisition/",
         "what": "Lower acquires Acopia Home Loans, adding 14 branches, 36 originators and $425 million in annual mortgage volume across the Southeast.",
@@ -293,27 +293,36 @@
         "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-december-2025/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Builders greet 2026 squeezed by policy flux and margin erosion",
-        "url": "https://www.housingwire.com/articles/homebuilders-2026-margin-pressure-policy-uncertainty/",
-        "what": "By the time the homebuilding industry reaches Super Bowl LX on Sunday, Feb",
-        "numbers": "8,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilders-2026-margin-pressure-policy-uncertainty/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "NAMB urges FHA to end lifetime mortgage insurance rule",
-        "url": "https://www.housingwire.com/articles/namb-urges-fha-end-lifetime-mip/",
-        "what": "NAMB urges FHA to end its lifetime mortgage insurance rule, citing outdated policies and improved financial conditions for the MMI Fund.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/namb-urges-fha-end-lifetime-mip/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
+      {
+        "title": "The storyteller: The Agency’s Lesley Shea on marketing that matters",
+        "url": "https://www.housingwire.com/articles/real-estate-storytelling-lesley-shea/",
+        "what": "How a former C-suite marketing executive applies $100M listing strategies to selling everyday homes as a Realtor.",
+        "numbers": "$100",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-storytelling-lesley-shea/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Rithm Capital announces $250M preferred stock offering",
+        "url": "https://www.housingwire.com/articles/rithm-capital-preferred-stock-offering/",
+        "what": "Rithm Capital offers $250 million in Series F preferred stock at 8.75% to fund investments and corporate needs after major 2025 acquisitions.",
+        "numbers": "$250 million, 8.75, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rithm-capital-preferred-stock-offering/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "NWMLS’s longtime COO Monica Beck to retire",
+        "url": "https://www.housingwire.com/articles/nwmls-monica-beck-retirement/",
+        "what": "Beck is leaving NWMLS after 45 years with the organization",
+        "numbers": "45",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nwmls-monica-beck-retirement/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "United Real Estate launches investment program for agents",
         "url": "https://www.housingwire.com/articles/united-real-estate-uresi-program/",
@@ -338,15 +347,6 @@
         "what": "SERHANT",
         "numbers": "15",
         "justified": "housingwire.com — https://www.housingwire.com/articles/serhant-boston-expansion/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Cost of retirement comfort soars, leaving most far short",
-        "url": "https://www.housingwire.com/articles/cost-of-retirement-comfort-soars-leaving-most-far-short/",
-        "what": "Survey insights point to a widening gap between what retirees believe is required to retire comfortably and what most actually have.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cost-of-retirement-comfort-soars-leaving-most-far-short/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
