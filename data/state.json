@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-14 15:37 UTC",
+  "as_of": "2026-01-14 16:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Lower acquires Acopia Home Loans, expands in the Southeast",
+      "link": "https://www.housingwire.com/articles/lower-acopia-home-loans-acquisition/",
+      "published": "Wed, 14 Jan 2026"
+    },
+    {
+      "title": "Arizona Sen. Gallego unveils new housing affordability blueprint",
+      "link": "https://www.housingwire.com/articles/federal-housing-affordability-plan/",
+      "published": "Wed, 14 Jan 2026"
+    },
+    {
       "title": "United Real Estate launches investment program for agents",
       "link": "https://www.housingwire.com/articles/united-real-estate-uresi-program/",
       "published": "Wed, 14 Jan 2026"
@@ -158,16 +168,6 @@
       "title": "SERHANT. launches in Boston, marking first expansion into Massachusetts",
       "link": "https://www.housingwire.com/articles/serhant-boston-expansion/",
       "published": "Wed, 14 Jan 2026"
-    },
-    {
-      "title": "Lower mortgage rates support steady new home sales",
-      "link": "https://www.housingwire.com/articles/new-home-sales-mortgage-rates/",
-      "published": "Tue, 13 Jan 2026"
-    },
-    {
-      "title": "Cost of retirement comfort soars, leaving most far short",
-      "link": "https://www.housingwire.com/articles/cost-of-retirement-comfort-soars-leaving-most-far-short/",
-      "published": "Tue, 13 Jan 2026"
     },
     {
       "title": "Coastal Florida Dominates December’s Priciest Home Sales, Led By a $101M Miami Estate",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Arizona Sen. Gallego unveils new housing affordability blueprint",
+        "url": "https://www.housingwire.com/articles/federal-housing-affordability-plan/",
+        "what": "Housing affordability is poised to dominate the 2026 midterm election campaigns, and Sen",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/federal-housing-affordability-plan/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage applications rise 28.5% after GSE $200B bond directive",
         "url": "https://www.housingwire.com/articles/mba-mortgage-applications-rise/",
@@ -268,6 +277,15 @@
     ],
     "housing": [
       {
+        "title": "Lower acquires Acopia Home Loans, expands in the Southeast",
+        "url": "https://www.housingwire.com/articles/lower-acopia-home-loans-acquisition/",
+        "what": "Lower acquires Acopia Home Loans, adding 14 branches, 36 originators and $425 million in annual mortgage volume across the Southeast.",
+        "numbers": "14, 36, $425 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lower-acopia-home-loans-acquisition/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Coastal Florida Dominates December’s Priciest Home Sales, Led By a $101M Miami Estate",
         "url": "https://www.redfin.com/news/most-expensive-home-sales-december-2025/",
         "what": "Three beachfront Florida homes made it onto Redfin’s ranking of the 10 most expensive sales of the whole year",
@@ -293,15 +311,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/namb-urges-fha-end-lifetime-mip/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Top Houston agent leaves Compass for Douglas Elliman",
-        "url": "https://www.housingwire.com/articles/douglas-elliman-houston-dana-johnson/",
-        "what": "With $100 million in closed sales in 2025, Dana Johnson is a top-10 agent in Houston and is taking her talents to Douglas Elliman.",
-        "numbers": "$100 million, 2025,, 10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/douglas-elliman-houston-dana-johnson/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
@@ -338,15 +347,6 @@
         "what": "Survey insights point to a widening gap between what retirees believe is required to retire comfortably and what most actually have.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/cost-of-retirement-comfort-soars-leaving-most-far-short/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Luxury Presence raises $37M to push CRM platform development",
-        "url": "https://www.housingwire.com/articles/luxury-presence-raises-37m-to-push-crm-platform-development/",
-        "what": "Luxury Presence’s new artificial intelligence–driven Presence CRM platform is scheduled to roll out in February.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/luxury-presence-raises-37m-to-push-crm-platform-development/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
