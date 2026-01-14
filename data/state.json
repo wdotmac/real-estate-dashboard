@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-14 14:44 UTC",
+  "as_of": "2026-01-14 15:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "United Real Estate launches investment program for agents",
+      "link": "https://www.housingwire.com/articles/united-real-estate-uresi-program/",
+      "published": "Wed, 14 Jan 2026"
+    },
+    {
+      "title": "Mortgage applications rise 28.5% after GSE $200B bond directive",
+      "link": "https://www.housingwire.com/articles/mba-mortgage-applications-rise/",
+      "published": "Wed, 14 Jan 2026"
+    },
+    {
       "title": "NEXA Lending hires Todd Bitter as national sales director",
       "link": "https://www.housingwire.com/articles/nexa-lending-todd-bitter-sales-director/",
       "published": "Wed, 14 Jan 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Cost of retirement comfort soars, leaving most far short",
       "link": "https://www.housingwire.com/articles/cost-of-retirement-comfort-soars-leaving-most-far-short/",
-      "published": "Tue, 13 Jan 2026"
-    },
-    {
-      "title": "Builders greet 2026 squeezed by policy flux and margin erosion",
-      "link": "https://www.housingwire.com/articles/homebuilders-2026-margin-pressure-policy-uncertainty/",
-      "published": "Tue, 13 Jan 2026"
-    },
-    {
-      "title": "NAMB urges FHA to end lifetime mortgage insurance rule",
-      "link": "https://www.housingwire.com/articles/namb-urges-fha-end-lifetime-mip/",
       "published": "Tue, 13 Jan 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage applications rise 28.5% after GSE $200B bond directive",
+        "url": "https://www.housingwire.com/articles/mba-mortgage-applications-rise/",
+        "what": "Mortgage applications rose 28.5% after Trump directed the GSES to buy $200B in bonds, with refis up 40% and rates down to 6.18%.",
+        "numbers": "28.5, $200, 40, 6.18",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-mortgage-applications-rise/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Lower mortgage rates support steady new home sales",
         "url": "https://www.housingwire.com/articles/new-home-sales-mortgage-rates/",
@@ -297,6 +306,15 @@
     ],
     "notables": [
       {
+        "title": "United Real Estate launches investment program for agents",
+        "url": "https://www.housingwire.com/articles/united-real-estate-uresi-program/",
+        "what": "United Real Estate’s URESI program offers agents mentorship, courses and tools to build investment property portfolios.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/united-real-estate-uresi-program/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "NEXA Lending hires Todd Bitter as national sales director",
         "url": "https://www.housingwire.com/articles/nexa-lending-todd-bitter-sales-director/",
         "what": "NEXA Lending appoints Todd Bitter as national director of sales, aiming to enhance national sales strategy and leadership development.",
@@ -329,24 +347,6 @@
         "what": "Luxury Presence’s new artificial intelligence–driven Presence CRM platform is scheduled to roll out in February.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/luxury-presence-raises-37m-to-push-crm-platform-development/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Max Stokes splits from Fox & Stokes to launch N.J. Compass team",
-        "url": "https://www.housingwire.com/articles/max-stokes-splits-from-fox-stokes-to-launch-n-j-compass-team/",
-        "what": "Stokes is launching a new specialist team under his own name while remaining at Compass, moving away from the mega-team model.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/max-stokes-splits-from-fox-stokes-to-launch-n-j-compass-team/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Engel & Völkers gains top California team from Sotheby’s",
-        "url": "https://www.housingwire.com/articles/sothebys-team-joins-engel-voelkers/",
-        "what": "Engel & Völkers welcomes Truszkowski Freedman & Associates, a $1B luxury team formerly brokered with Sotheby's with $45.13M in 2024 sales.",
-        "numbers": "$1, $45.13, 2024",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sothebys-team-joins-engel-voelkers/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
