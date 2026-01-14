@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-14 11:34 UTC",
+  "as_of": "2026-01-14 13:09 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Tue, 13 Jan 2026"
     },
     {
+      "title": "Coastal Florida Dominates December’s Priciest Home Sales, Led By a $101M Miami Estate",
+      "link": "https://www.redfin.com/news/most-expensive-home-sales-december-2025/",
+      "published": "Wed, 14 Jan 2026"
+    },
+    {
       "title": "Mortgage Rates Expected to Stay Put After Today’s Mild Inflation Report",
       "link": "https://www.redfin.com/news/mortgage-rates-expected-to-stay-put-after-todays-mild-inflation-report/",
       "published": "Tue, 13 Jan 2026"
@@ -192,11 +197,6 @@
     {
       "title": "Trump Orders $200B Mortgage Bond Buy, Which Will Likely Nudge Rates Down Slightly to 6%",
       "link": "https://www.redfin.com/news/federal-government-mortgage-bonds/",
-      "published": "Thu, 08 Jan 2026"
-    },
-    {
-      "title": "Housing Payments Drop to Lowest Level in 2 Years As Mortgage Rates Decline",
-      "link": "https://www.redfin.com/news/housing-market-update-housing-payments-lowest-level-2-years/",
       "published": "Thu, 08 Jan 2026"
     }
   ],
@@ -255,18 +255,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/federal-government-mortgage-bonds/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Housing Payments Drop to Lowest Level in 2 Years As Mortgage Rates Decline",
-        "url": "https://www.redfin.com/news/housing-market-update-housing-payments-lowest-level-2-years/",
-        "what": "Despite lower monthly mortgage payments, a holiday hangover is muting homebuying demand",
-        "numbers": "$2,365, 4,, 4.7, 2024., 2",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-housing-payments-lowest-level-2-years/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Coastal Florida Dominates December’s Priciest Home Sales, Led By a $101M Miami Estate",
+        "url": "https://www.redfin.com/news/most-expensive-home-sales-december-2025/",
+        "what": "Three beachfront Florida homes made it onto Redfin’s ranking of the 10 most expensive sales of the whole year",
+        "numbers": "10, 5, $101.5 million, 2025., $101",
+        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-december-2025/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Builders greet 2026 squeezed by policy flux and margin erosion",
         "url": "https://www.housingwire.com/articles/homebuilders-2026-margin-pressure-policy-uncertainty/",
