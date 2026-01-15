@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-15 13:08 UTC",
+  "as_of": "2026-01-15 13:51 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Wed, 14 Jan 2026"
     },
     {
+      "title": "Pending Home Sales Drop to Lowest Level on Record Aside From Start of Pandemic",
+      "link": "https://www.redfin.com/news/home-sales-fall-december-2025/",
+      "published": "Thu, 15 Jan 2026"
+    },
+    {
       "title": "Monthly Housing Costs Start the Year Down 5%, the Biggest Decline in Over a Year",
       "link": "https://www.redfin.com/news/housing-market-update-monthly-payments-big-decline/",
       "published": "Thu, 15 Jan 2026"
@@ -193,15 +198,19 @@
       "title": "Trump’s Mortgage Bond Order Pushes Rates Below 6% For First Time in Nearly 3 Years, Boosting Purchasing Power",
       "link": "https://www.redfin.com/news/purchasing-power-improves-rates-drop-january-2026/",
       "published": "Fri, 09 Jan 2026"
-    },
-    {
-      "title": "Mixed Jobs Report Unlikely to Move Mortgage Rates Further",
-      "link": "https://www.redfin.com/news/mixed-jobs-report-unlikely-to-move-mortgage-rates/",
-      "published": "Fri, 09 Jan 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Pending Home Sales Drop to Lowest Level on Record Aside From Start of Pandemic",
+        "url": "https://www.redfin.com/news/home-sales-fall-december-2025/",
+        "what": "Pending sales fell 6% in December—the largest seasonally adjusted decline since 2022—amid stubbornly high housing costs and economic uncertainty",
+        "numbers": "6, 2022, 60, 2023",
+        "justified": "redfin.com — https://www.redfin.com/news/home-sales-fall-december-2025/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Monthly Housing Costs Start the Year Down 5%, the Biggest Decline in Over a Year",
         "url": "https://www.redfin.com/news/housing-market-update-monthly-payments-big-decline/",
@@ -253,15 +262,6 @@
         "what": "Purchasing power has increased $30,000 in the last six months, with rates falling below 6% the day after President Trump ordered a $200 billion mortgage bond purchase",
         "numbers": "$30,000, 6, $200 billion, 5.99, 9,, 3",
         "justified": "redfin.com — https://www.redfin.com/news/purchasing-power-improves-rates-drop-january-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mixed Jobs Report Unlikely to Move Mortgage Rates Further",
-        "url": "https://www.redfin.com/news/mixed-jobs-report-unlikely-to-move-mortgage-rates/",
-        "what": "Takeaway: Another low hire-low fire jobs report leaves the Fed on track to leave rates alone for the next couple of meetings as expected, implying mortgage rates will stay where they are",
-        "numbers": "$200, 4.6, 4.4",
-        "justified": "redfin.com — https://www.redfin.com/news/mixed-jobs-report-unlikely-to-move-mortgage-rates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
