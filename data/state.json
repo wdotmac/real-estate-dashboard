@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-01-15 20:40 UTC",
+  "as_of": "2026-01-15 21:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.18,
-      "delta_bp_1d": -1.0000000000000675
+      "yield_pct": 4.15,
+      "delta_bp_1d": -2.999999999999936
     },
     "mortgage_30y": {
       "rate_pct": 6.06,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Ohio lawmakers push for senior foreclosure protection",
+      "link": "https://www.housingwire.com/articles/ohio-lawmakers-push-for-senior-foreclosure-protection/",
+      "published": "Thu, 15 Jan 2026"
+    },
+    {
+      "title": "REMAX adds two major Toronto brokerages from Royal LePage",
+      "link": "https://www.housingwire.com/articles/remax-royal-lepage-gta-switch/",
+      "published": "Thu, 15 Jan 2026"
+    },
+    {
+      "title": "US foreclosure filings rise 14% in 2025 as FHA borrowers face greater risk",
+      "link": "https://www.housingwire.com/articles/foreclosure-filings-2025-rise/",
+      "published": "Thu, 15 Jan 2026"
+    },
+    {
+      "title": "California weighs single-stair multifamily to ignite housing supply",
+      "link": "https://www.housingwire.com/articles/california-single-stair-housing/",
+      "published": "Thu, 15 Jan 2026"
+    },
+    {
       "title": "HomeAdvantage, Affinity Federal Credit Union relaunch partnership",
       "link": "https://www.housingwire.com/articles/homeadvantage-affinity-federal-credit-union-relaunch-partnership/",
       "published": "Thu, 15 Jan 2026"
@@ -147,26 +167,6 @@
     {
       "title": "One year later, insurance hurdles and red tape slow Los Angeles wildfire recovery",
       "link": "https://www.housingwire.com/articles/los-angeles-wildfire-rebuilding/",
-      "published": "Thu, 15 Jan 2026"
-    },
-    {
-      "title": "Court advised to reject legal bid to compel NAR rule enforcement",
-      "link": "https://www.housingwire.com/articles/nar-mls-zea-lawsuit-update/",
-      "published": "Thu, 15 Jan 2026"
-    },
-    {
-      "title": "Housing activity weakens in latest Fed Beige Book report",
-      "link": "https://www.housingwire.com/articles/housing-activity-weakens-in-latest-fed-beige-book-report/",
-      "published": "Thu, 15 Jan 2026"
-    },
-    {
-      "title": "CHLA pushes back against single-bureau credit pull",
-      "link": "https://www.housingwire.com/articles/chla-single-bureau-credit/",
-      "published": "Thu, 15 Jan 2026"
-    },
-    {
-      "title": "Real estate investors account for 34% of home sales in Q3 2025",
-      "link": "https://www.housingwire.com/articles/investor-homeownership-2025/",
       "published": "Thu, 15 Jan 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Ohio lawmakers push for senior foreclosure protection",
+        "url": "https://www.housingwire.com/articles/ohio-lawmakers-push-for-senior-foreclosure-protection/",
+        "what": "Ohio ranked No",
+        "numbers": "6, 2025,, 3,079",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ohio-lawmakers-push-for-senior-foreclosure-protection/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "HomeAdvantage, Affinity Federal Credit Union relaunch partnership",
         "url": "https://www.housingwire.com/articles/homeadvantage-affinity-federal-credit-union-relaunch-partnership/",
         "what": "Through HomeAdvantage, members can access home search tools, local market insights and connections to experienced real estate professionals.",
@@ -226,24 +235,6 @@
         "what": "The Community Home Lenders of America (CHLA) is pushing back against proposals to allow a single-bureau credit pull in mortgage underwriting, as Federal Housing Finance Agency (FHF",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/chla-single-bureau-credit/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Boulder high schoolers are powering the city’s affordable housing push",
-        "url": "https://www.housingwire.com/articles/boulder-modular-housing/",
-        "what": "BoulderMOD’s school-based factory model accelerates affordable housing and prepares students for skilled construction jobs.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/boulder-modular-housing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage rate-lock volume rises in December as refinances surge",
-        "url": "https://www.housingwire.com/articles/refinance-mortgage-locks-2025/",
-        "what": "Refinances accounted for 37% of December 2025 mortgage locks, with total volume up 30% year over year, per Optimal Blue.",
-        "numbers": "37, 2025, 30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/refinance-mortgage-locks-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -295,6 +286,15 @@
     ],
     "housing": [
       {
+        "title": "California weighs single-stair multifamily to ignite housing supply",
+        "url": "https://www.housingwire.com/articles/california-single-stair-housing/",
+        "what": "California’s emerging housing fracas over a single stairwell may become a lightning rod, affecting both building codes and capital investment in more multifamily projects in more places",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/california-single-stair-housing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Real estate investors account for 34% of home sales in Q3 2025",
         "url": "https://www.housingwire.com/articles/investor-homeownership-2025/",
         "what": "Small investors now control 92% of investor-owned homes, with institutional owners holding just 2% of the market.",
@@ -315,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "REMAX adds two major Toronto brokerages from Royal LePage",
+        "url": "https://www.housingwire.com/articles/remax-royal-lepage-gta-switch/",
+        "what": "REMAX gains 1,200 agents and 17 offices in Toronto as two Risi-led Royal LePage firms convert.",
+        "numbers": "1,200, 17",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/remax-royal-lepage-gta-switch/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "US foreclosure filings rise 14% in 2025 as FHA borrowers face greater risk",
+        "url": "https://www.housingwire.com/articles/foreclosure-filings-2025-rise/",
+        "what": "U.S",
+        "numbers": "14, 2025, 367,460, 87, 2010",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/foreclosure-filings-2025-rise/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "One year later, insurance hurdles and red tape slow Los Angeles wildfire recovery",
         "url": "https://www.housingwire.com/articles/los-angeles-wildfire-rebuilding/",
         "what": "Insurance, regulation and high costs are slowing wildfire recovery in Los Angeles, leaving most displaced residents still waiting.",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/nar-mls-zea-lawsuit-update/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Freddie Mac multifamily volume grows 17%, reaches $77.6B in 2025",
-        "url": "https://www.housingwire.com/articles/freddie-mac-multifamily-2025/",
-        "what": "Freddie Mac’s multifamily division funded $77.6 billion in 2025, supporting 577,000 affordable units and surpassing FHFA goals.",
-        "numbers": "$77.6 billion, 2025,, 577,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/freddie-mac-multifamily-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Coldwell Banker expands in Southern California",
-        "url": "https://www.housingwire.com/articles/coldwell-banker-expands-in-southern-california/",
-        "what": "New affiliate owners Jessie Rodriguez and Aaron Juarez together have more than 50 years of experience in real estate.",
-        "numbers": "50",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/coldwell-banker-expands-in-southern-california/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
