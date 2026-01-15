@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-15 15:41 UTC",
+  "as_of": "2026-01-15 16:53 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Home seller impersonation fraud case stamped out in Nevada",
+      "link": "https://www.housingwire.com/articles/home-seller-impersonation-fraud-nevada/",
+      "published": "Thu, 15 Jan 2026"
+    },
+    {
+      "title": "HUD proposes eliminating disparate impact rule",
+      "link": "https://www.housingwire.com/articles/hud-fair-housing-liability/",
+      "published": "Thu, 15 Jan 2026"
+    },
+    {
+      "title": "New home purchase mortgage demand rises 2.5% in December",
+      "link": "https://www.housingwire.com/articles/mortgage-applications-rise-december-2025/",
+      "published": "Thu, 15 Jan 2026"
+    },
+    {
+      "title": "FinCEN defends anti-money laundering rule in Fidelity National lawsuit",
+      "link": "https://www.housingwire.com/articles/fincen-fnf-aml-rule-lawsuit/",
+      "published": "Thu, 15 Jan 2026"
+    },
+    {
       "title": "Are 50-year mortgages, portable mortgages and assumable loans the future of U.S. housing?",
       "link": "https://www.housingwire.com/articles/are-50-year-mortgages-portable-mortgages-and-assumable-loans-the-future-of-u-s-housing/",
       "published": "Thu, 15 Jan 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Proprietary reverse mortgage market share continues to climb",
       "link": "https://www.housingwire.com/articles/reverse-mortgage-market-share-2025/",
-      "published": "Wed, 14 Jan 2026"
-    },
-    {
-      "title": "Home care crisis drives innovation for aging in place",
-      "link": "https://www.housingwire.com/articles/home-care-crisis-drives-innovation-for-aging-in-place/",
-      "published": "Wed, 14 Jan 2026"
-    },
-    {
-      "title": "WFG National Title Insurance introduces financial planning tool for homebuyers, sellers",
-      "link": "https://www.housingwire.com/articles/wfg-national-title-insurance-introduces-financial-planning-tool-for-homebuyers-sellers/",
-      "published": "Wed, 14 Jan 2026"
-    },
-    {
-      "title": "Kind Lending restructures leadership team with new president and COO",
-      "link": "https://www.housingwire.com/articles/kind-lending-leadership-changes/",
-      "published": "Wed, 14 Jan 2026"
-    },
-    {
-      "title": "Is the lock-in effect loosening its grip on housing? Realtor.com thinks so",
-      "link": "https://www.housingwire.com/articles/six-percent-mortgage-share/",
       "published": "Wed, 14 Jan 2026"
     },
     {
@@ -268,6 +268,24 @@
     ],
     "housing": [
       {
+        "title": "HUD proposes eliminating disparate impact rule",
+        "url": "https://www.housingwire.com/articles/hud-fair-housing-liability/",
+        "what": "The Department of Housing and Urban Development (HUD) on Wednesday proposed eliminating its discriminatory effects regulations under the Fair Housing Act.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-fair-housing-liability/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "New home purchase mortgage demand rises 2.5% in December",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-rise-december-2025/",
+        "what": "Mortgage applications for new home purchases rose 2.5% in December 2025 from a year earlier, according to data released Thursday in the Mortgage Bankers Association (MBA)'s Builder",
+        "numbers": "2.5, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-rise-december-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Proprietary reverse mortgage market share continues to climb",
         "url": "https://www.housingwire.com/articles/reverse-mortgage-market-share-2025/",
         "what": "New View Advisors, which released its initial quarterly index at the end of October, estimated that private-label loans started 2025 with a market share of about 30%",
@@ -287,6 +305,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "Home seller impersonation fraud case stamped out in Nevada",
+        "url": "https://www.housingwire.com/articles/home-seller-impersonation-fraud-nevada/",
+        "what": "A recent report from the National Association of Realtors said that most title fraud cases reported in the past year involved vacant land.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/home-seller-impersonation-fraud-nevada/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "FinCEN defends anti-money laundering rule in Fidelity National lawsuit",
+        "url": "https://www.housingwire.com/articles/fincen-fnf-aml-rule-lawsuit/",
+        "what": "Defendants say FinCEN’s AML reporting rule is authorized and necessary, countering Fidelity National’s legal challenge.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fincen-fnf-aml-rule-lawsuit/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Home care crisis drives innovation for aging in place",
         "url": "https://www.housingwire.com/articles/home-care-crisis-drives-innovation-for-aging-in-place/",
@@ -311,42 +347,6 @@
         "what": "Kind Lending promotes Jennifer Folk to president and Stephanie Gibbons to COO as co-founder Yvonne Ketchum moves to an advisory role.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/kind-lending-leadership-changes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The 11 best real estate podcasts in 2026",
-        "url": "https://www.housingwire.com/articles/best-real-estate-podcasts/",
-        "what": "Listen to the best real estate podcasts to motivate, inspire, entertain and enlighten you this year.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/best-real-estate-podcasts/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Titl raises $2.5M to expand title automation technology",
-        "url": "https://www.housingwire.com/articles/titl-raises-2-5m-to-expand-title-automation-technology/",
-        "what": "The round was led by Cofounders Capital and FIT Ventures",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/titl-raises-2-5m-to-expand-title-automation-technology/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Real estate public speaking help offered in new platform founded by real estate team leader",
-        "url": "https://www.housingwire.com/articles/real-estate-public-speaking-help-offered-in-new-platform-founded-by-real-estate-team-leader/",
-        "what": "The Industry Speaks Academy was created to help real estate professionals develop skills needed to speak effectively on conference stages.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-public-speaking-help-offered-in-new-platform-founded-by-real-estate-team-leader/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Top New Jersey team launches boutique firm at Side",
-        "url": "https://www.housingwire.com/articles/freeman-group-side-launch/",
-        "what": "Ed Freeman and his team are leaving REMAX and joining forces with the Guarino Group to launch Freeman & Company at Side.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/freeman-group-side-launch/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
