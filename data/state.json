@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-15 18:54 UTC",
+  "as_of": "2026-01-15 19:36 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Court advised to reject legal bid to compel NAR rule enforcement",
+      "link": "https://www.housingwire.com/articles/nar-mls-zea-lawsuit-update/",
+      "published": "Thu, 15 Jan 2026"
+    },
+    {
+      "title": "Housing activity weakens in latest Fed Beige Book report",
+      "link": "https://www.housingwire.com/articles/housing-activity-weakens-in-latest-fed-beige-book-report/",
+      "published": "Thu, 15 Jan 2026"
+    },
+    {
       "title": "CHLA pushes back against single-bureau credit pull",
       "link": "https://www.housingwire.com/articles/chla-single-bureau-credit/",
       "published": "Thu, 15 Jan 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Boulder high schoolers are powering the city’s affordable housing push",
       "link": "https://www.housingwire.com/articles/boulder-modular-housing/",
-      "published": "Thu, 15 Jan 2026"
-    },
-    {
-      "title": "Mortgage rate-lock volume rises in December as refinances surge",
-      "link": "https://www.housingwire.com/articles/refinance-mortgage-locks-2025/",
-      "published": "Thu, 15 Jan 2026"
-    },
-    {
-      "title": "Coldwell Banker expands in Southern California",
-      "link": "https://www.housingwire.com/articles/coldwell-banker-expands-in-southern-california/",
       "published": "Thu, 15 Jan 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Housing activity weakens in latest Fed Beige Book report",
+        "url": "https://www.housingwire.com/articles/housing-activity-weakens-in-latest-fed-beige-book-report/",
+        "what": "Most Federal Reserve districts reporting on residential real estate cited softer home sales, slower construction and reduced lending.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-activity-weakens-in-latest-fed-beige-book-report/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "CHLA pushes back against single-bureau credit pull",
         "url": "https://www.housingwire.com/articles/chla-single-bureau-credit/",
@@ -295,15 +304,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "New home purchase mortgage demand rises 2.5% in December",
-        "url": "https://www.housingwire.com/articles/mortgage-applications-rise-december-2025/",
-        "what": "Mortgage applications for new home purchases rose 2.5% in December 2025 from a year earlier, according to data released Thursday in the Mortgage Bankers Association (MBA)'s Builder",
-        "numbers": "2.5, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-rise-december-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Coastal Florida Dominates December’s Priciest Home Sales, Led By a $101M Miami Estate",
         "url": "https://www.redfin.com/news/most-expensive-home-sales-december-2025/",
         "what": "Three beachfront Florida homes made it onto Redfin’s ranking of the 10 most expensive sales of the whole year",
@@ -314,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Court advised to reject legal bid to compel NAR rule enforcement",
+        "url": "https://www.housingwire.com/articles/nar-mls-zea-lawsuit-update/",
+        "what": "A magistrate judge recommends denying Zea’s injunction against NAR and MLSs, citing delay and lack of harm evidence.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-mls-zea-lawsuit-update/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Freddie Mac multifamily volume grows 17%, reaches $77.6B in 2025",
         "url": "https://www.housingwire.com/articles/freddie-mac-multifamily-2025/",
@@ -338,15 +347,6 @@
         "what": "A recent report from the National Association of Realtors said that most title fraud cases reported in the past year involved vacant land.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/home-seller-impersonation-fraud-nevada/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "FinCEN defends anti-money laundering rule in Fidelity National lawsuit",
-        "url": "https://www.housingwire.com/articles/fincen-fnf-aml-rule-lawsuit/",
-        "what": "Defendants say FinCEN’s AML reporting rule is authorized and necessary, countering Fidelity National’s legal challenge.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fincen-fnf-aml-rule-lawsuit/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
