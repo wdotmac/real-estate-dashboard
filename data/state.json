@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-15 11:32 UTC",
+  "as_of": "2026-01-15 13:08 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Wed, 14 Jan 2026"
     },
     {
+      "title": "Monthly Housing Costs Start the Year Down 5%, the Biggest Decline in Over a Year",
+      "link": "https://www.redfin.com/news/housing-market-update-monthly-payments-big-decline/",
+      "published": "Thu, 15 Jan 2026"
+    },
+    {
       "title": "Coastal Florida Dominates December’s Priciest Home Sales, Led By a $101M Miami Estate",
       "link": "https://www.redfin.com/news/most-expensive-home-sales-december-2025/",
       "published": "Wed, 14 Jan 2026"
@@ -193,15 +198,19 @@
       "title": "Mixed Jobs Report Unlikely to Move Mortgage Rates Further",
       "link": "https://www.redfin.com/news/mixed-jobs-report-unlikely-to-move-mortgage-rates/",
       "published": "Fri, 09 Jan 2026"
-    },
-    {
-      "title": "Trump Orders $200B Mortgage Bond Buy, Which Will Likely Nudge Rates Down Slightly to 6%",
-      "link": "https://www.redfin.com/news/federal-government-mortgage-bonds/",
-      "published": "Thu, 08 Jan 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Monthly Housing Costs Start the Year Down 5%, the Biggest Decline in Over a Year",
+        "url": "https://www.redfin.com/news/housing-market-update-monthly-payments-big-decline/",
+        "what": "House hunters are getting some relief as mortgage rates dip",
+        "numbers": "$2,413, 11,, 5.5, 2024., 5",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-monthly-payments-big-decline/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Are 50-year mortgages, portable mortgages and assumable loans the future of U.S. housing?",
         "url": "https://www.housingwire.com/articles/are-50-year-mortgages-portable-mortgages-and-assumable-loans-the-future-of-u-s-housing/",
@@ -253,15 +262,6 @@
         "what": "Takeaway: Another low hire-low fire jobs report leaves the Fed on track to leave rates alone for the next couple of meetings as expected, implying mortgage rates will stay where they are",
         "numbers": "$200, 4.6, 4.4",
         "justified": "redfin.com — https://www.redfin.com/news/mixed-jobs-report-unlikely-to-move-mortgage-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Trump Orders $200B Mortgage Bond Buy, Which Will Likely Nudge Rates Down Slightly to 6%",
-        "url": "https://www.redfin.com/news/federal-government-mortgage-bonds/",
-        "what": "The ultimate impact of such a move would likely be limited because this would be a relatively small asset purchase program, by historical standards",
-        "numbers": "$200 billion, $200, 6",
-        "justified": "redfin.com — https://www.redfin.com/news/federal-government-mortgage-bonds/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
