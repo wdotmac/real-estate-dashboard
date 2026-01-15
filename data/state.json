@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-15 07:36 UTC",
+  "as_of": "2026-01-15 08:47 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Are 50-year mortgages, portable mortgages and assumable loans the future of U.S. housing?",
+      "link": "https://www.housingwire.com/articles/are-50-year-mortgages-portable-mortgages-and-assumable-loans-the-future-of-u-s-housing/",
+      "published": "Thu, 15 Jan 2026"
+    },
+    {
       "title": "Proprietary reverse mortgage market share continues to climb",
       "link": "https://www.housingwire.com/articles/reverse-mortgage-market-share-2025/",
       "published": "Wed, 14 Jan 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Is the lock-in effect loosening its grip on housing? Realtor.com thinks so",
       "link": "https://www.housingwire.com/articles/six-percent-mortgage-share/",
-      "published": "Wed, 14 Jan 2026"
-    },
-    {
-      "title": "The 11 best real estate podcasts in 2026",
-      "link": "https://www.housingwire.com/articles/best-real-estate-podcasts/",
       "published": "Wed, 14 Jan 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Are 50-year mortgages, portable mortgages and assumable loans the future of U.S. housing?",
+        "url": "https://www.housingwire.com/articles/are-50-year-mortgages-portable-mortgages-and-assumable-loans-the-future-of-u-s-housing/",
+        "what": "Affordability pressures, elevated mortgage rates, and homeowner rate lock-in have pushed once-fringe mortgage ideas back into the spotlight",
+        "numbers": "50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/are-50-year-mortgages-portable-mortgages-and-assumable-loans-the-future-of-u-s-housing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Is the lock-in effect loosening its grip on housing? Realtor.com thinks so",
         "url": "https://www.housingwire.com/articles/six-percent-mortgage-share/",
@@ -264,15 +273,6 @@
         "what": "New View Advisors, which released its initial quarterly index at the end of October, estimated that private-label loans started 2025 with a market share of about 30%",
         "numbers": "2025, 30, 45",
         "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-market-share-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Potential cuts to FHA premiums weigh on mortgage insurers",
-        "url": "https://www.housingwire.com/articles/fha-premium-cut-mortgage-insurers/",
-        "what": "Mortgage insurer shares have dropped by up to 12% as analysts warn FHA premium cuts could shift some loans, but the impact may be limited.",
-        "numbers": "12",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-premium-cut-mortgage-insurers/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
