@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-16 14:42 UTC",
+  "as_of": "2026-01-16 15:38 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -145,7 +145,7 @@
       "published": "Fri, 16 Jan 2026"
     },
     {
-      "title": "Early Alexander Brothers accuser found dead in Australia",
+      "title": "Early Alexander brothers’ accuser found dead in Australia",
       "link": "https://www.housingwire.com/articles/early-alexander-brothers-accuser-found-dead-in-australia/",
       "published": "Thu, 15 Jan 2026"
     },
@@ -168,6 +168,11 @@
       "title": "US foreclosure filings rise 14% in 2025 as FHA borrowers face greater risk",
       "link": "https://www.housingwire.com/articles/foreclosure-filings-2025-rise/",
       "published": "Thu, 15 Jan 2026"
+    },
+    {
+      "title": "This Was 2025’s Most Popular Home on Redfin—And It Sold $740K Over Asking",
+      "link": "https://www.redfin.com/news/most-popular-homes-2025/",
+      "published": "Fri, 16 Jan 2026"
     },
     {
       "title": "Pending Home Sales Drop to Lowest Level on Record Aside From Start of Pandemic",
@@ -193,11 +198,6 @@
       "title": "Redfin Economists’ Weekly Take: Mortgage Rates Dipped After Trump’s Mortgage-Bond Move, Fed Turmoil and Inflation Data Loom",
       "link": "https://www.redfin.com/news/weekly-economic-update-fed-investigation-inflation/",
       "published": "Mon, 12 Jan 2026"
-    },
-    {
-      "title": "Trump’s Mortgage Bond Order Pushes Rates Below 6% For First Time in Nearly 3 Years, Boosting Purchasing Power",
-      "link": "https://www.redfin.com/news/purchasing-power-improves-rates-drop-january-2026/",
-      "published": "Fri, 09 Jan 2026"
     }
   ],
   "feed_101020": {
@@ -264,18 +264,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-fed-investigation-inflation/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Trump’s Mortgage Bond Order Pushes Rates Below 6% For First Time in Nearly 3 Years, Boosting Purchasing Power",
-        "url": "https://www.redfin.com/news/purchasing-power-improves-rates-drop-january-2026/",
-        "what": "Purchasing power has increased $30,000 in the last six months, with rates falling below 6% the day after President Trump ordered a $200 billion mortgage bond purchase",
-        "numbers": "$30,000, 6, $200 billion, 5.99, 9,, 3",
-        "justified": "redfin.com — https://www.redfin.com/news/purchasing-power-improves-rates-drop-january-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "This Was 2025’s Most Popular Home on Redfin—And It Sold $740K Over Asking",
+        "url": "https://www.redfin.com/news/most-popular-homes-2025/",
+        "what": "Competitively priced houses in desirable neighborhoods topped the most popular homes on Redfin last year A remodeled 5-bedroom, 3.5-bathroom Spanish-style house in Silicon Valley was the most popular home on Redfin.com in 2025",
+        "numbers": "5, 3.5, 2025., 35,000, $5.6 million, $740,000",
+        "justified": "redfin.com — https://www.redfin.com/news/most-popular-homes-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "California weighs single-stair multifamily to ignite housing supply",
         "url": "https://www.housingwire.com/articles/california-single-stair-housing/",
@@ -297,7 +297,7 @@
     ],
     "notables": [
       {
-        "title": "Early Alexander Brothers accuser found dead in Australia",
+        "title": "Early Alexander brothers’ accuser found dead in Australia",
         "url": "https://www.housingwire.com/articles/early-alexander-brothers-accuser-found-dead-in-australia/",
         "what": "The woman filed a civil lawsuit in March 2024 accusing the Alexander brothers of sexually assaulting her more than a decade earlier.",
         "numbers": "2024",
