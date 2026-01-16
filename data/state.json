@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-16 16:46 UTC",
+  "as_of": "2026-01-16 17:39 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "MBA hires Jeremy Green as VP of legislative affairs",
+      "link": "https://www.housingwire.com/articles/mba-jeremy-green-appointment/",
+      "published": "Fri, 16 Jan 2026"
+    },
+    {
+      "title": "Does the Compass-Anywhere merger spark new phase in portal wars?",
+      "link": "https://www.housingwire.com/articles/compass-portal-merger-impact/",
+      "published": "Fri, 16 Jan 2026"
+    },
+    {
+      "title": "Judge consolidates SitusAMC class actions after November data breach",
+      "link": "https://www.housingwire.com/articles/situsamc-class-action-breach/",
+      "published": "Fri, 16 Jan 2026"
+    },
+    {
       "title": "4 trends that will help mortgage lenders reach new borrowers in 2026",
       "link": "https://www.housingwire.com/articles/4-trends-that-will-help-mortgage-lenders-reach-new-borrowers-in-2026/",
       "published": "Fri, 16 Jan 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Kim Harris Campbell named CEO of Century 21 New Millennium, Hetherington moves to board",
       "link": "https://www.housingwire.com/articles/kim-harris-campbell-ceo-of-century-21-new-millennium/",
-      "published": "Thu, 15 Jan 2026"
-    },
-    {
-      "title": "Ohio lawmakers push for senior foreclosure protection",
-      "link": "https://www.housingwire.com/articles/ohio-lawmakers-push-for-senior-foreclosure-protection/",
-      "published": "Thu, 15 Jan 2026"
-    },
-    {
-      "title": "REMAX adds two major Toronto brokerages from Royal LePage",
-      "link": "https://www.housingwire.com/articles/remax-royal-lepage-gta-switch/",
-      "published": "Thu, 15 Jan 2026"
-    },
-    {
-      "title": "US foreclosure filings rise 14% in 2025 as FHA borrowers face greater risk",
-      "link": "https://www.housingwire.com/articles/foreclosure-filings-2025-rise/",
       "published": "Thu, 15 Jan 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Judge consolidates SitusAMC class actions after November data breach",
+        "url": "https://www.housingwire.com/articles/situsamc-class-action-breach/",
+        "what": "Multiple class actions over the SitusAMC data breach have been merged in federal court, with claims of exposed client data.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/situsamc-class-action-breach/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "4 trends that will help mortgage lenders reach new borrowers in 2026",
         "url": "https://www.housingwire.com/articles/4-trends-that-will-help-mortgage-lenders-reach-new-borrowers-in-2026/",
         "what": "With mortgage rates expected to remain flat for the foreseeable future, lenders of all sizes are looking for creative ways to attract creditworthy borrowers who may not fit into th",
@@ -217,15 +226,6 @@
         "what": "Ohio ranked No",
         "numbers": "6, 2025,, 3,079",
         "justified": "housingwire.com — https://www.housingwire.com/articles/ohio-lawmakers-push-for-senior-foreclosure-protection/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "HomeAdvantage, Affinity Federal Credit Union relaunch partnership",
-        "url": "https://www.housingwire.com/articles/homeadvantage-affinity-federal-credit-union-relaunch-partnership/",
-        "what": "Through HomeAdvantage, members can access home search tools, local market insights and connections to experienced real estate professionals.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homeadvantage-affinity-federal-credit-union-relaunch-partnership/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -268,6 +268,15 @@
     ],
     "housing": [
       {
+        "title": "Does the Compass-Anywhere merger spark new phase in portal wars?",
+        "url": "https://www.housingwire.com/articles/compass-portal-merger-impact/",
+        "what": "Compass’s merger with Anywhere Real Estate may fragment inventory and intensify competition among real estate portals.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-portal-merger-impact/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "This Was 2025’s Most Popular Home on Redfin—And It Sold $740K Over Asking",
         "url": "https://www.redfin.com/news/most-popular-homes-2025/",
         "what": "Competitively priced houses in desirable neighborhoods topped the most popular homes on Redfin last year A remodeled 5-bedroom, 3.5-bathroom Spanish-style house in Silicon Valley was the most popular home on Redfin.com in 2025",
@@ -296,6 +305,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "MBA hires Jeremy Green as VP of legislative affairs",
+        "url": "https://www.housingwire.com/articles/mba-jeremy-green-appointment/",
+        "what": "In his new role, Green will focus on advocating for MBA's policy priorities in Washington, D.C., with a primary focus on Democratic lawmakers in the U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-jeremy-green-appointment/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Early Alexander brothers’ accuser found dead in Australia",
         "url": "https://www.housingwire.com/articles/early-alexander-brothers-accuser-found-dead-in-australia/",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/foreclosure-filings-2025-rise/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "One year later, insurance hurdles and red tape slow Los Angeles wildfire recovery",
-        "url": "https://www.housingwire.com/articles/los-angeles-wildfire-rebuilding/",
-        "what": "Insurance, regulation and high costs are slowing wildfire recovery in Los Angeles, leaving most displaced residents still waiting.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/los-angeles-wildfire-rebuilding/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Court advised to reject legal bid to compel NAR rule enforcement",
-        "url": "https://www.housingwire.com/articles/nar-mls-zea-lawsuit-update/",
-        "what": "A magistrate judge recommends denying Zea’s injunction against NAR and MLSs, citing delay and lack of harm evidence.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-mls-zea-lawsuit-update/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
