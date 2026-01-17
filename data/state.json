@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-16 23:32 UTC",
+  "as_of": "2026-01-17 02:21 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -17,36 +17,36 @@
   },
   "permits": {
     "florida": {
-      "latest": 13594,
-      "latest_date": "2025-08",
-      "mom": -0.0727781188186345,
-      "yoy": -0.13226094727435211,
-      "ytd": -0.026868417713488135,
-      "ytd_count": 122708,
+      "latest": 13353,
+      "latest_date": "2025-09",
+      "mom": -0.017728409592467242,
+      "yoy": 0.07859450726979,
+      "ytd": -0.017439845171726476,
+      "ytd_count": 136061,
       "latest_year": 2025,
-      "latest_month_name": "Aug"
+      "latest_month_name": "Sep"
     },
     "msa": {
       "Orlando–Kissimmee–Sanford": {
         "total": {
-          "latest": 1649,
+          "latest": 2024,
           "latest_year": 2025,
-          "latest_month": 8,
-          "latest_month_name": "Aug",
-          "mom": -0.20797310278578285,
-          "yoy": -0.16336884830035514,
-          "ytd_yoy": 0.20390428982314424,
-          "ytd_count": 19673
+          "latest_month": 9,
+          "latest_month_name": "Sep",
+          "mom": 0.2274105518496059,
+          "yoy": 0.015045135406218657,
+          "ytd_yoy": 0.18336514862285247,
+          "ytd_count": 21697
         },
         "one_unit": {
-          "latest": 927,
+          "latest": 856,
           "latest_year": 2025,
-          "latest_month": 8,
-          "latest_month_name": "Aug",
-          "mom": -0.12793979303857006,
-          "yoy": -0.382,
-          "ytd_yoy": 0.008284136354979932,
-          "ytd_count": 10589
+          "latest_month": 9,
+          "latest_month_name": "Sep",
+          "mom": -0.07659115426105723,
+          "yoy": -0.3440613026819923,
+          "ytd_yoy": -0.030659778097738677,
+          "ytd_count": 11445
         },
         "dom": {
           "days": 83,
@@ -56,24 +56,24 @@
       },
       "Tampa–St. Petersburg–Clearwater": {
         "total": {
-          "latest": 2908,
+          "latest": 1580,
           "latest_year": 2025,
-          "latest_month": 8,
-          "latest_month_name": "Aug",
-          "mom": 0.6645678305666858,
-          "yoy": 0.465725806451613,
-          "ytd_yoy": -0.06499153020892157,
-          "ytd_count": 16559
+          "latest_month": 9,
+          "latest_month_name": "Sep",
+          "mom": -0.4566712517193948,
+          "yoy": 0.5911379657603222,
+          "ytd_yoy": -0.030155590012297506,
+          "ytd_count": 18139
         },
         "one_unit": {
-          "latest": 1324,
+          "latest": 1061,
           "latest_year": 2025,
-          "latest_month": 8,
-          "latest_month_name": "Aug",
-          "mom": 0.16140350877192988,
-          "yoy": 0.2526017029328287,
-          "ytd_yoy": -0.09323079844298865,
-          "ytd_count": 9551
+          "latest_month": 9,
+          "latest_month_name": "Sep",
+          "mom": -0.19864048338368578,
+          "yoy": 0.5135520684736092,
+          "ytd_yoy": -0.05536763396831046,
+          "ytd_count": 10612
         },
         "dom": {
           "days": 80,
@@ -83,24 +83,24 @@
       },
       "Ocala": {
         "total": {
-          "latest": 461,
+          "latest": 429,
           "latest_year": 2025,
-          "latest_month": 8,
-          "latest_month_name": "Aug",
-          "mom": 0.0453514739229024,
-          "yoy": 0.0453514739229024,
-          "ytd_yoy": -0.1361718450326045,
-          "ytd_count": 4504
+          "latest_month": 9,
+          "latest_month_name": "Sep",
+          "mom": -0.06941431670281994,
+          "yoy": -0.27164685908319186,
+          "ytd_yoy": -0.1499224539031535,
+          "ytd_count": 4933
         },
         "one_unit": {
-          "latest": 451,
+          "latest": 365,
           "latest_year": 2025,
-          "latest_month": 8,
-          "latest_month_name": "Aug",
-          "mom": 0.09200968523002429,
-          "yoy": 0.0562060889929743,
-          "ytd_yoy": -0.12195652173913041,
-          "ytd_count": 4039
+          "latest_month": 9,
+          "latest_month_name": "Sep",
+          "mom": -0.19068736141906872,
+          "yoy": -0.3717728055077453,
+          "ytd_yoy": -0.14997104806022,
+          "ytd_count": 4404
         },
         "dom": {
           "days": 87,
@@ -110,24 +110,24 @@
       },
       "Palm Bay–Melbourne–Titusville": {
         "total": {
-          "latest": 391,
+          "latest": 640,
           "latest_year": 2025,
-          "latest_month": 8,
-          "latest_month_name": "Aug",
-          "mom": -0.28519195612431447,
-          "yoy": 0.3076923076923077,
-          "ytd_yoy": 0.03214156735283491,
-          "ytd_count": 2858
+          "latest_month": 9,
+          "latest_month_name": "Sep",
+          "mom": 0.6368286445012787,
+          "yoy": 0.6452442159383034,
+          "ytd_yoy": 0.10766307789740348,
+          "ytd_count": 3498
         },
         "one_unit": {
-          "latest": 239,
+          "latest": 272,
           "latest_year": 2025,
-          "latest_month": 8,
-          "latest_month_name": "Aug",
-          "mom": -0.13090909090909086,
-          "yoy": -0.2006688963210702,
-          "ytd_yoy": -0.10545165141265422,
-          "ytd_count": 2248
+          "latest_month": 9,
+          "latest_month_name": "Sep",
+          "mom": 0.13807531380753146,
+          "yoy": -0.28608923884514437,
+          "ytd_yoy": -0.12923289564616447,
+          "ytd_count": 2520
         },
         "dom": {
           "days": 78,
