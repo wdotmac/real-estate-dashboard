@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-18 21:30 UTC",
+  "as_of": "2026-01-18 22:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Housing demand is off to a solid start in 2026",
+      "link": "https://www.housingwire.com/articles/2026-housing-market-growth/",
+      "published": "Sun, 18 Jan 2026"
+    },
+    {
       "title": "Existing home sales outlook improves as mortgage rates stabilize",
       "link": "https://www.housingwire.com/articles/existing-home-sales-2026-outlook/",
       "published": "Sat, 17 Jan 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Invitation Homes’ $89 million ResiBuilt buy brings building in-house",
       "link": "https://www.housingwire.com/articles/invitation-homes-resibuilt-acquisition-btr-strategy/",
-      "published": "Fri, 16 Jan 2026"
-    },
-    {
-      "title": "MetroList broadens California MLS footprint",
-      "link": "https://www.housingwire.com/articles/metrolist-broadens-california-mls-footprint/",
       "published": "Fri, 16 Jan 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Housing demand is off to a solid start in 2026",
+        "url": "https://www.housingwire.com/articles/2026-housing-market-growth/",
+        "what": "Mortgage rates and spreads stabilize, driving growth in home sales and inventory for the 2026 housing market.",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-housing-market-growth/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Existing home sales outlook improves as mortgage rates stabilize",
         "url": "https://www.housingwire.com/articles/existing-home-sales-2026-outlook/",
@@ -244,15 +253,6 @@
         "what": "The new location will be staffed by escrow officers Marcine Kline and Carmen Alvarado, two longtime professionals in the Los Angeles area.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/new-venture-escrow-los-angeles-expansion/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "DOJ investigation clouds future of Fed chair nomination",
-        "url": "https://www.housingwire.com/articles/fed-leadership-uncertainty/",
-        "what": "The future of the Federal Reserve's leadership is in limbo due to an investigation into current Fed Chair Jerome Powell that has prompted bipartisan backlash.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-leadership-uncertainty/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
