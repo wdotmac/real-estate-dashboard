@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-19 15:42 UTC",
+  "as_of": "2026-01-19 16:48 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Trump heads to Davos with housing ideas as industry looks for concrete fixes",
+      "link": "https://www.housingwire.com/articles/trump-davos-housing-affordability/",
+      "published": "Mon, 19 Jan 2026"
+    },
+    {
+      "title": "Judge approves sale of 5,100 contested rent-stabilized NYC apartments",
+      "link": "https://www.housingwire.com/articles/nyc-rent-stabilized-sale/",
+      "published": "Mon, 19 Jan 2026"
+    },
+    {
       "title": "Why the next cycle will belong to real estate agents who have systems, not excuses",
       "link": "https://www.housingwire.com/articles/agent-confidence-2026-trends/",
       "published": "Mon, 19 Jan 2026"
@@ -158,16 +168,6 @@
       "title": "Housing demand is off to a solid start in 2026",
       "link": "https://www.housingwire.com/articles/2026-housing-market-growth/",
       "published": "Sun, 18 Jan 2026"
-    },
-    {
-      "title": "Existing home sales outlook improves as mortgage rates stabilize",
-      "link": "https://www.housingwire.com/articles/existing-home-sales-2026-outlook/",
-      "published": "Sat, 17 Jan 2026"
-    },
-    {
-      "title": "Megatel Homes will launch crypto rewards for renters and buyers",
-      "link": "https://www.housingwire.com/articles/megprime-mp-token-rewards/",
-      "published": "Fri, 16 Jan 2026"
     },
     {
       "title": "This Was 2025’s Most Popular Home on Redfin—And It Sold $740K Over Asking",
@@ -202,6 +202,24 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Trump heads to Davos with housing ideas as industry looks for concrete fixes",
+        "url": "https://www.housingwire.com/articles/trump-davos-housing-affordability/",
+        "what": "Trade groups broadly welcome the administration’s focus on affordability at a time when mortgage rates remain above 6%, while stressing the need for additional detail and complemen",
+        "numbers": "6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-davos-housing-affordability/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Judge approves sale of 5,100 contested rent-stabilized NYC apartments",
+        "url": "https://www.housingwire.com/articles/nyc-rent-stabilized-sale/",
+        "what": "A federal bankruptcy judge ruled to authorize the sale of 5,100 mostly rent-stabilized units in New York City in a deal that Zohran Mamdani tried to stall on the day he swore in as",
+        "numbers": "5,100, 93",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-rent-stabilized-sale/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Housing demand is off to a solid start in 2026",
         "url": "https://www.housingwire.com/articles/2026-housing-market-growth/",
@@ -295,15 +313,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Invitation Homes’ $89 million ResiBuilt buy brings building in-house",
-        "url": "https://www.housingwire.com/articles/invitation-homes-resibuilt-acquisition-btr-strategy/",
-        "what": "Invitation Homes’ $89 million acquisition of ResiBuilt – one of homebuilding mergers and acquisitions’ 2026 table-setters – is a “small” deal that can change the rules of engagement and shift the balance of competitive power for two adjacent ecosystems",
-        "numbers": "$89 million, 2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/invitation-homes-resibuilt-acquisition-btr-strategy/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
         "title": "This Was 2025’s Most Popular Home on Redfin—And It Sold $740K Over Asking",
         "url": "https://www.redfin.com/news/most-popular-homes-2025/",
         "what": "Competitively priced houses in desirable neighborhoods topped the most popular homes on Redfin last year A remodeled 5-bedroom, 3.5-bathroom Spanish-style house in Silicon Valley was the most popular home on Redfin.com in 2025",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/logan-finance-chuck-vaughn/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "MetroList broadens California MLS footprint",
-        "url": "https://www.housingwire.com/articles/metrolist-broadens-california-mls-footprint/",
-        "what": "The platform provides listing management, data distribution and technology tools used by participating Realtor associations.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/metrolist-broadens-california-mls-footprint/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
