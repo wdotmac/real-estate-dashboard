@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-19 17:37 UTC",
+  "as_of": "2026-01-19 18:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Manufactured housing gains traction, but negative stigma persists",
+      "link": "https://www.housingwire.com/articles/manufactured-housing-affordable-alternative/",
+      "published": "Mon, 19 Jan 2026"
+    },
+    {
       "title": "Trump heads to Davos with housing ideas as industry looks for concrete fixes",
       "link": "https://www.housingwire.com/articles/trump-davos-housing-affordability/",
       "published": "Mon, 19 Jan 2026"
@@ -163,11 +168,6 @@
       "title": "From Chicago’s housing projects to a home: How MLK’s fight for homeownership equality changed my life",
       "link": "https://www.housingwire.com/articles/mlk-fight-homeownership-equality/",
       "published": "Mon, 19 Jan 2026"
-    },
-    {
-      "title": "Housing demand is off to a solid start in 2026",
-      "link": "https://www.housingwire.com/articles/2026-housing-market-growth/",
-      "published": "Sun, 18 Jan 2026"
     },
     {
       "title": "This Was 2025’s Most Popular Home on Redfin—And It Sold $740K Over Asking",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Manufactured housing gains traction, but negative stigma persists",
+        "url": "https://www.housingwire.com/articles/manufactured-housing-affordable-alternative/",
+        "what": "Manufactured housing is part of federal efforts to improve affordability, but negative stigmas continue to impact the industry.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/manufactured-housing-affordable-alternative/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Trump heads to Davos with housing ideas as industry looks for concrete fixes",
         "url": "https://www.housingwire.com/articles/trump-davos-housing-affordability/",
@@ -282,15 +291,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-expected-to-stay-put-after-todays-mild-inflation-report/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Redfin Economists’ Weekly Take: Mortgage Rates Dipped After Trump’s Mortgage-Bond Move, Fed Turmoil and Inflation Data Loom",
-        "url": "https://www.redfin.com/news/weekly-economic-update-fed-investigation-inflation/",
-        "what": "This Week In A Nutshell: Mortgage rates dropped last week after President Trump announced $200B of MBS purchases",
-        "numbers": "$200",
-        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-fed-investigation-inflation/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
@@ -340,15 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/welcome-to-the-age-of-the-ai-agent/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Logan Finance taps Chuck Vaughn for correspondent lending leadership role",
-        "url": "https://www.housingwire.com/articles/logan-finance-chuck-vaughn/",
-        "what": "Logan Finance appoints Chuck Vaughn as managing director to lead correspondent lending and launch a delegated channel.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/logan-finance-chuck-vaughn/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
