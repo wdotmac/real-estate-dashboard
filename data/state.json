@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-20 17:46 UTC",
+  "as_of": "2026-01-20 19:13 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage rate volatility returns ahead of Trump’s Davos speech",
+      "link": "https://www.housingwire.com/articles/mortgage-rate-volatility-davos/",
+      "published": "Tue, 20 Jan 2026"
+    },
+    {
+      "title": "Do Trump’s policies make housing more affordable? Morgan Stanley weighs in",
+      "link": "https://www.housingwire.com/articles/morgan-stanley-trump-housing/",
+      "published": "Tue, 20 Jan 2026"
+    },
+    {
       "title": "Land Gorilla expands Encompass integration for construction loans",
       "link": "https://www.housingwire.com/articles/land-gorilla-encompass-epc-integration/",
       "published": "Tue, 20 Jan 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Partial settlement reached in eXp sexual assault suit",
       "link": "https://www.housingwire.com/articles/brent-gove-exp-lawsuit/",
-      "published": "Tue, 20 Jan 2026"
-    },
-    {
-      "title": "Balance Homes relaunches with $30M investment",
-      "link": "https://www.housingwire.com/articles/balance-homes-relaunch-equity/",
-      "published": "Tue, 20 Jan 2026"
-    },
-    {
-      "title": "Homes.com outlines digital branding strategies agents need to win in a rebounding market",
-      "link": "https://www.housingwire.com/articles/homes-com-outlines-digital-branding-strategies-agents-need-to-win-in-a-rebounding-market/",
       "published": "Tue, 20 Jan 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Mortgage rate volatility returns ahead of Trump’s Davos speech",
+        "url": "https://www.housingwire.com/articles/mortgage-rate-volatility-davos/",
+        "what": "President Donald Trump is set to speak Wednesday at the World Economic Forum in Davos, Switzerland, and it’s already proving to be a catalyst for mortgage rates.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rate-volatility-davos/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Home Sellers Outnumber Buyers By a Record Margin, Upping Buyers’ Bargaining Power",
         "url": "https://www.redfin.com/news/buyers-vs-sellers-december-2025/",
         "what": "There were a record 47% more home sellers than buyers in December, giving the buyers who were in the market negotiating power",
@@ -230,15 +239,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Judge approves sale of 5,100 contested rent-stabilized NYC apartments",
-        "url": "https://www.housingwire.com/articles/nyc-rent-stabilized-sale/",
-        "what": "A federal bankruptcy judge ruled to authorize the sale of 5,100 mostly rent-stabilized units in New York City in a deal that Zohran Mamdani tried to stall on the day he swore in as",
-        "numbers": "5,100, 93",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-rent-stabilized-sale/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Pending Home Sales Drop to Lowest Level on Record Aside From Start of Pandemic",
         "url": "https://www.redfin.com/news/home-sales-fall-december-2025/",
         "what": "Pending sales fell 6% in December—the largest seasonally adjusted decline since 2022—amid stubbornly high housing costs and economic uncertainty",
@@ -258,6 +258,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Do Trump’s policies make housing more affordable? Morgan Stanley weighs in",
+        "url": "https://www.housingwire.com/articles/morgan-stanley-trump-housing/",
+        "what": "President Donald Trump’s housing-related announcements would be only “modestly helpful” in improving housing affordability, according to Morgan Stanley strategists",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/morgan-stanley-trump-housing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Partial settlement reached in eXp sexual assault suit",
         "url": "https://www.housingwire.com/articles/brent-gove-exp-lawsuit/",
@@ -284,15 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/homes-com-outlines-digital-branding-strategies-agents-need-to-win-in-a-rebounding-market/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Why the next cycle will belong to real estate agents who have systems, not excuses",
-        "url": "https://www.housingwire.com/articles/agent-confidence-2026-trends/",
-        "what": "Despite slow sales and low inventory, 65% of agents remain confident about their business outlook, survey data shows.",
-        "numbers": "65",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/agent-confidence-2026-trends/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "This Was 2025’s Most Popular Home on Redfin—And It Sold $740K Over Asking",
