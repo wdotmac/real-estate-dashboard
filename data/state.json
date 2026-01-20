@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-20 13:13 UTC",
+  "as_of": "2026-01-20 13:56 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Mon, 19 Jan 2026"
     },
     {
+      "title": "Home Sellers Outnumber Buyers By a Record Margin, Upping Buyers’ Bargaining Power",
+      "link": "https://www.redfin.com/news/buyers-vs-sellers-december-2025/",
+      "published": "Tue, 20 Jan 2026"
+    },
+    {
       "title": "U.S. Home Prices Inched Up 0.1% in December",
       "link": "https://www.redfin.com/news/home-price-index-december-2025/",
       "published": "Tue, 20 Jan 2026"
@@ -193,15 +198,19 @@
       "title": "Coastal Florida Dominates December’s Priciest Home Sales, Led By a $101M Miami Estate",
       "link": "https://www.redfin.com/news/most-expensive-home-sales-december-2025/",
       "published": "Wed, 14 Jan 2026"
-    },
-    {
-      "title": "Mortgage Rates Expected to Stay Put After Today’s Mild Inflation Report",
-      "link": "https://www.redfin.com/news/mortgage-rates-expected-to-stay-put-after-todays-mild-inflation-report/",
-      "published": "Tue, 13 Jan 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Home Sellers Outnumber Buyers By a Record Margin, Upping Buyers’ Bargaining Power",
+        "url": "https://www.redfin.com/news/buyers-vs-sellers-december-2025/",
+        "what": "There were a record 47% more home sellers than buyers in December, giving the buyers who were in the market negotiating power",
+        "numbers": "47",
+        "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-december-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Manufactured housing gains traction, but negative stigma persists",
         "url": "https://www.housingwire.com/articles/manufactured-housing-affordable-alternative/",
@@ -262,15 +271,6 @@
         "what": "House hunters are getting some relief as mortgage rates dip",
         "numbers": "$2,413, 11,, 5.5, 2024., 5",
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-monthly-payments-big-decline/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage Rates Expected to Stay Put After Today’s Mild Inflation Report",
-        "url": "https://www.redfin.com/news/mortgage-rates-expected-to-stay-put-after-todays-mild-inflation-report/",
-        "what": "Takeaway: Mortgage rates are unlikely to move after a mild inflation report still marred by government shutdown-related distortions",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-expected-to-stay-put-after-todays-mild-inflation-report/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
