@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-20 14:51 UTC",
+  "as_of": "2026-01-20 15:46 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Partial settlement reached in eXp sexual assault suit",
+      "link": "https://www.housingwire.com/articles/brent-gove-exp-lawsuit/",
+      "published": "Tue, 20 Jan 2026"
+    },
+    {
       "title": "Balance Homes relaunches with $30M investment",
       "link": "https://www.housingwire.com/articles/balance-homes-relaunch-equity/",
       "published": "Tue, 20 Jan 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Judge approves sale of 5,100 contested rent-stabilized NYC apartments",
       "link": "https://www.housingwire.com/articles/nyc-rent-stabilized-sale/",
-      "published": "Mon, 19 Jan 2026"
-    },
-    {
-      "title": "Why the next cycle will belong to real estate agents who have systems, not excuses",
-      "link": "https://www.housingwire.com/articles/agent-confidence-2026-trends/",
       "published": "Mon, 19 Jan 2026"
     },
     {
@@ -248,15 +248,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Existing home sales outlook improves as mortgage rates stabilize",
-        "url": "https://www.housingwire.com/articles/existing-home-sales-2026-outlook/",
-        "what": "Normalized mortgage spreads and steady rates may drive the first real year of home sales growth since 2021.",
-        "numbers": "2021.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/existing-home-sales-2026-outlook/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Pending Home Sales Drop to Lowest Level on Record Aside From Start of Pandemic",
         "url": "https://www.redfin.com/news/home-sales-fall-december-2025/",
         "what": "Pending sales fell 6% in December—the largest seasonally adjusted decline since 2022—amid stubbornly high housing costs and economic uncertainty",
@@ -276,6 +267,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Partial settlement reached in eXp sexual assault suit",
+        "url": "https://www.housingwire.com/articles/brent-gove-exp-lawsuit/",
+        "what": "Brent Gove has settled with Anya Roberts, removing him from the eXp Realty lawsuit, while other defendants remain.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/brent-gove-exp-lawsuit/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
       {
         "title": "U.S. Home Prices Inched Up 0.1% in December",
         "url": "https://www.redfin.com/news/home-price-index-december-2025/",
