@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-21 13:56 UTC",
+  "as_of": "2026-01-21 14:51 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "How Compass grew so quickly and why its playbook is shifting again",
+      "link": "https://www.housingwire.com/articles/compass-acquisitions-listing-strategy-growth-playbook/",
+      "published": "Wed, 21 Jan 2026"
+    },
+    {
+      "title": "Refinance demand soars 20% after rates dropped last week",
+      "link": "https://www.housingwire.com/articles/refinance-activity-rate-drop/",
+      "published": "Wed, 21 Jan 2026"
+    },
+    {
+      "title": "New playbook maps the choices facing MLS and association leaders",
+      "link": "https://www.housingwire.com/articles/mls-policy-playbook-launch/",
+      "published": "Wed, 21 Jan 2026"
+    },
+    {
       "title": "Trump signs executive order targeting institutional investors",
       "link": "https://www.housingwire.com/articles/trump-signs-executive-order-targeting-institutional-investors/",
       "published": "Wed, 21 Jan 2026"
@@ -153,21 +168,6 @@
       "title": "Beyond the database: Why 1:1 AI is the new benchmark for authority and market share",
       "link": "https://www.housingwire.com/articles/beyond-the-database-why-11-ai-is-the-new-benchmark-for-authority-and-market-share/",
       "published": "Wed, 21 Jan 2026"
-    },
-    {
-      "title": "Fair housing is more than a compliance issue: It’s an opportunity to modernize the process.",
-      "link": "https://www.housingwire.com/articles/fair-housing-is-more-than-a-compliance-issue-its-an-opportunity-to-modernize-the-process/",
-      "published": "Wed, 21 Jan 2026"
-    },
-    {
-      "title": "Florida-based modular builder launches expandable housing model",
-      "link": "https://www.housingwire.com/articles/modular-homes-expandable-florida/",
-      "published": "Tue, 20 Jan 2026"
-    },
-    {
-      "title": "Senior home sellers take a hit on profits",
-      "link": "https://www.housingwire.com/articles/senior-home-sellers-take-a-hit-on-profits/",
-      "published": "Tue, 20 Jan 2026"
     },
     {
       "title": "Redfin Economists’ Weekly Take: Rates Climb, All Eyes On Trump’s Davos Housing Agenda",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Refinance demand soars 20% after rates dropped last week",
+        "url": "https://www.housingwire.com/articles/refinance-activity-rate-drop/",
+        "what": "Refinance applications jumped 20% last week as 30-year fixed rates fell to 6.16%, boosting total mortgage demand by 14.1%.",
+        "numbers": "20, 30, 6.16, 14.1",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/refinance-activity-rate-drop/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Trump signs executive order targeting institutional investors",
         "url": "https://www.housingwire.com/articles/trump-signs-executive-order-targeting-institutional-investors/",
@@ -268,6 +277,15 @@
     ],
     "housing": [
       {
+        "title": "How Compass grew so quickly and why its playbook is shifting again",
+        "url": "https://www.housingwire.com/articles/compass-acquisitions-listing-strategy-growth-playbook/",
+        "what": "Compass’s aggressive M&A strategy and inventory focus reshape its brokerage model, adding 340,000 agents and new mortgage scale.",
+        "numbers": "340,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-acquisitions-listing-strategy-growth-playbook/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "HUD suspends FHA loan approval for Equity Prime Mortgage, RAC in several markets",
         "url": "https://www.housingwire.com/articles/fha-loan-approval-revoked/",
         "what": "FHA loan approval was revoked for two lenders in several markets after defaults spiked, with possible reinstatement after six months.",
@@ -295,24 +313,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Florida lawmakers muscle up on a raft of new housing reforms",
-        "url": "https://www.housingwire.com/articles/florida-housing-reform-2026/",
-        "what": "One of the nation’s most aggressive housing policy reform agendas of the post-pandemic era greets Florida lawmakers as they enter their 2026 legislative session bent on improving housing affordability.​ With a coordinated set of “fix” bills, Sunshine State lawmakers want to add more muscle to the state’s workforce housing program",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/florida-housing-reform-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Kate Gurevich is the new CEO at One Real Mortgage",
-        "url": "https://www.housingwire.com/articles/kate-gurevich-ceo-one-real-mortgage/",
-        "what": "Kate Gurevich posted on LinkedIn on Tuesday that she's starting a new position as CEO of One Real Mortgage.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kate-gurevich-ceo-one-real-mortgage/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "U.S. Home Prices Inched Up 0.1% in December",
         "url": "https://www.redfin.com/news/home-price-index-december-2025/",
         "what": "U.S",
@@ -333,20 +333,20 @@
     ],
     "notables": [
       {
+        "title": "New playbook maps the choices facing MLS and association leaders",
+        "url": "https://www.housingwire.com/articles/mls-policy-playbook-launch/",
+        "what": "The Non-Realtor MLS Playbook offers legal, governance and communication strategies for MLSs as NAR steps back from policy enforcement.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-policy-playbook-launch/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Senior home sellers take a hit on profits",
         "url": "https://www.housingwire.com/articles/senior-home-sellers-take-a-hit-on-profits/",
         "what": "Researchers found that sellers in their 70s and beyond consistently earn lower sales proceeds than younger homeowners.",
         "numbers": "70",
         "justified": "housingwire.com — https://www.housingwire.com/articles/senior-home-sellers-take-a-hit-on-profits/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "ONE Sotheby’s International Realty appoints Daniel de la Vega as CEO",
-        "url": "https://www.housingwire.com/articles/one-sothebys-international-realty-appoints-daniel-de-la-vega-as-ceo/",
-        "what": "ONE Sotheby’s International Realty ranks among the highest-producing affiliates within the Sotheby’s International Realty network.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/one-sothebys-international-realty-appoints-daniel-de-la-vega-as-ceo/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
