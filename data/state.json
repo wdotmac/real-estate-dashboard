@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-20 23:35 UTC",
+  "as_of": "2026-01-21 02:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Tue, 20 Jan 2026"
     },
     {
+      "title": "Redfin Economists’ Weekly Take: Rates Climb, All Eyes On Trump’s Davos Housing Agenda",
+      "link": "https://www.redfin.com/news/weekly-economic-update-davos-housing/",
+      "published": "Tue, 20 Jan 2026"
+    },
+    {
       "title": "Home Sellers Outnumber Buyers By a Record Margin, Upping Buyers’ Bargaining Power",
       "link": "https://www.redfin.com/news/buyers-vs-sellers-december-2025/",
       "published": "Tue, 20 Jan 2026"
@@ -193,15 +198,19 @@
       "title": "Monthly Housing Costs Start the Year Down 5%, the Biggest Decline in Over a Year",
       "link": "https://www.redfin.com/news/housing-market-update-monthly-payments-big-decline/",
       "published": "Thu, 15 Jan 2026"
-    },
-    {
-      "title": "Coastal Florida Dominates December’s Priciest Home Sales, Led By a $101M Miami Estate",
-      "link": "https://www.redfin.com/news/most-expensive-home-sales-december-2025/",
-      "published": "Wed, 14 Jan 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Redfin Economists’ Weekly Take: Rates Climb, All Eyes On Trump’s Davos Housing Agenda",
+        "url": "https://www.redfin.com/news/weekly-economic-update-davos-housing/",
+        "what": "This Week In A Nutshell: Rates are climbing to kick off the week after turmoil in the Japanese bond market and President Trump’s intensified rhetoric on Greenland",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-davos-housing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Florida-based modular builder launches expandable housing model",
         "url": "https://www.housingwire.com/articles/modular-homes-expandable-florida/",
@@ -293,15 +302,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/most-popular-homes-2025/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Coastal Florida Dominates December’s Priciest Home Sales, Led By a $101M Miami Estate",
-        "url": "https://www.redfin.com/news/most-expensive-home-sales-december-2025/",
-        "what": "Three beachfront Florida homes made it onto Redfin’s ranking of the 10 most expensive sales of the whole year",
-        "numbers": "10, 5, $101.5 million, 2025., $101",
-        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-december-2025/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
