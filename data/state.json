@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-21 17:17 UTC",
+  "as_of": "2026-01-21 19:00 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Supreme Court appears skeptical of Trump’s bid to remove Fed’s Lisa Cook",
+      "link": "https://www.housingwire.com/articles/supreme-court-fed-cook-trump/",
+      "published": "Wed, 21 Jan 2026"
+    },
+    {
+      "title": "Agent lawsuit accuses Zillow of illegal tying with mortgage platform",
+      "link": "https://www.housingwire.com/articles/zillow-lawsuit-preferred-agent/",
+      "published": "Wed, 21 Jan 2026"
+    },
+    {
       "title": "Pending home sales fell sharply in December",
       "link": "https://www.housingwire.com/articles/pending-home-sales-december-2025/",
       "published": "Wed, 21 Jan 2026"
@@ -150,7 +160,7 @@
       "published": "Wed, 21 Jan 2026"
     },
     {
-      "title": "Trump announces investor ban, MBS purchases and credit card rate cap in Davos",
+      "title": "Trump announces investor ‘ban,’ MBS purchases and credit card rate cap in Davos",
       "link": "https://www.housingwire.com/articles/trump-housing-ban-mbs-credit/",
       "published": "Wed, 21 Jan 2026"
     },
@@ -160,17 +170,7 @@
       "published": "Wed, 21 Jan 2026"
     },
     {
-      "title": "2026 housing market sees more balance as inventory rises and price growth slows",
-      "link": "https://www.housingwire.com/articles/2026-housing-inventory-trends/",
-      "published": "Wed, 21 Jan 2026"
-    },
-    {
-      "title": "Realtor.com launches platform to boost MLS value, collaboration",
-      "link": "https://www.housingwire.com/articles/realtor-com-plus-mls-launch/",
-      "published": "Wed, 21 Jan 2026"
-    },
-    {
-      "title": "Trump Showcases Housing Affordability Proposals at Davos: Banning Corporate Landlords, $200 Mortgage-Bond Purchase",
+      "title": "Trump Showcases Housing Affordability Proposals at Davos: Banning Corporate Landlords, $200B Mortgage-Bond Purchase",
       "link": "https://www.redfin.com/news/trump-davos-housing-reforms/",
       "published": "Wed, 21 Jan 2026"
     },
@@ -203,20 +203,20 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Trump Showcases Housing Affordability Proposals at Davos: Banning Corporate Landlords, $200 Mortgage-Bond Purchase",
-        "url": "https://www.redfin.com/news/trump-davos-housing-reforms/",
-        "what": "President Trump called for a ban on Wall Street investors purchasing single-family homes, and reiterated an order for Fannie Mae and Freddie Mac to buy billions in mortgage bonds",
-        "numbers": "$200",
-        "justified": "redfin.com — https://www.redfin.com/news/trump-davos-housing-reforms/",
+        "title": "Supreme Court appears skeptical of Trump’s bid to remove Fed’s Lisa Cook",
+        "url": "https://www.housingwire.com/articles/supreme-court-fed-cook-trump/",
+        "what": "Supreme Court justices questioned the basis for removing Lisa Cook from the Fed Board of Governors, focusing on due process and intent.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/supreme-court-fed-cook-trump/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Refinance demand soars 20% after rates dropped last week",
-        "url": "https://www.housingwire.com/articles/refinance-activity-rate-drop/",
-        "what": "Refinance applications jumped 20% last week as 30-year fixed rates fell to 6.16%, boosting total mortgage demand by 14.1%.",
-        "numbers": "20, 30, 6.16, 14.1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/refinance-activity-rate-drop/",
+        "title": "Trump Showcases Housing Affordability Proposals at Davos: Banning Corporate Landlords, $200B Mortgage-Bond Purchase",
+        "url": "https://www.redfin.com/news/trump-davos-housing-reforms/",
+        "what": "President Trump called for a ban on Wall Street investors purchasing single-family homes, and reiterated an order for Fannie Mae and Freddie Mac to buy billions in mortgage bonds",
+        "numbers": "$200",
+        "justified": "redfin.com — https://www.redfin.com/news/trump-davos-housing-reforms/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Agent lawsuit accuses Zillow of illegal tying with mortgage platform",
+        "url": "https://www.housingwire.com/articles/zillow-lawsuit-preferred-agent/",
+        "what": "Agent lawsuit claims that Zillow’s Preferred Agent program illegally ties lead access to mortgage referrals, alleging antitrust violations.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-lawsuit-preferred-agent/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Pending home sales fell sharply in December",
         "url": "https://www.housingwire.com/articles/pending-home-sales-december-2025/",
         "what": "Pending home sales fell 9.3% in December 2025, with all regions posting declines and the index at 71.8, signaling a slower market.",
@@ -268,7 +277,7 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Trump announces investor ban, MBS purchases and credit card rate cap in Davos",
+        "title": "Trump announces investor ‘ban,’ MBS purchases and credit card rate cap in Davos",
         "url": "https://www.housingwire.com/articles/trump-housing-ban-mbs-credit/",
         "what": "President Donald Trump said the U.S",
         "numbers": "",
@@ -300,15 +309,6 @@
         "what": "Class Valuation named Tanya Wright EVP to lead third-party origination and retail, bringing fintech and mortgage expertise.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/tanya-wright-evp-appointment/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "How Compass grew so quickly and why its playbook is shifting again",
-        "url": "https://www.housingwire.com/articles/compass-acquisitions-listing-strategy-growth-playbook/",
-        "what": "Compass’s aggressive M&A strategy and inventory focus reshape its brokerage model, adding 340,000 agents and new mortgage scale.",
-        "numbers": "340,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-acquisitions-listing-strategy-growth-playbook/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
