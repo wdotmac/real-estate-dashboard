@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-01-21 20:48 UTC",
+  "as_of": "2026-01-21 21:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.24,
-      "delta_bp_1d": 7.000000000000028
+      "yield_pct": 4.3,
+      "delta_bp_1d": 5.999999999999961
     },
     "mortgage_30y": {
       "rate_pct": 6.06,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Real estate leaders applaud Trump’s focus on housing, but question the impact",
+      "link": "https://www.housingwire.com/articles/trump-housing-affordability-plan/",
+      "published": "Wed, 21 Jan 2026"
+    },
+    {
+      "title": "Pennsylvania bill targets local curbs on shared housing",
+      "link": "https://www.housingwire.com/articles/pennsylvania-shared-housing-reform/",
+      "published": "Wed, 21 Jan 2026"
+    },
+    {
       "title": "Trump’s 401(k) proposal could help homebuyers, hurt retirement funds",
       "link": "https://www.housingwire.com/articles/trump-401k-down-payment/",
       "published": "Wed, 21 Jan 2026"
@@ -157,16 +167,6 @@
     {
       "title": "The AI future of real estate runs straight through the MLS",
       "link": "https://www.housingwire.com/articles/the-ai-future-of-real-estate-runs-straight-through-the-mls/",
-      "published": "Wed, 21 Jan 2026"
-    },
-    {
-      "title": "Prudent AI launches same-day income calculator for all loan types",
-      "link": "https://www.housingwire.com/articles/same-day-income-lending/",
-      "published": "Wed, 21 Jan 2026"
-    },
-    {
-      "title": "Supreme Court appears skeptical of Trump’s bid to remove Fed’s Lisa Cook",
-      "link": "https://www.housingwire.com/articles/supreme-court-fed-cook-trump/",
       "published": "Wed, 21 Jan 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Real estate leaders applaud Trump’s focus on housing, but question the impact",
+        "url": "https://www.housingwire.com/articles/trump-housing-affordability-plan/",
+        "what": "Trump’s housing plan includes a 'ban' on institutional buyers and capping credit card rates, but industry leaders question the impact.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-housing-affordability-plan/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Supreme Court appears skeptical of Trump’s bid to remove Fed’s Lisa Cook",
         "url": "https://www.housingwire.com/articles/supreme-court-fed-cook-trump/",
@@ -250,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "Pennsylvania bill targets local curbs on shared housing",
+        "url": "https://www.housingwire.com/articles/pennsylvania-shared-housing-reform/",
+        "what": "A group of Pennsylvania lawmakers wants to scrap local limits on shared living in a move that could reopen the door to boarding houses, single-room occupancy buildings, and other shared housing statewide.​ House Bill 2109",
+        "numbers": "2109",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pennsylvania-shared-housing-reform/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Trade groups urge White House to lower FHA premiums, ease loan fees",
         "url": "https://www.housingwire.com/articles/fha-premiums-loan-fees/",
         "what": "Mortgage trade groups urge the White House to end tri-merge credit reporting and cut FHA premiums to ease home loan costs.",
@@ -275,24 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/pending-home-sales-december-2025/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Survey shows distrust of real estate investors in housing market",
-        "url": "https://www.housingwire.com/articles/housing-investor-distrust-survey/",
-        "what": "A Clever Offers survey finds 73% of Americans blame investors for the housing shortage, with 79% supporting regulation.",
-        "numbers": "73, 79",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-investor-distrust-survey/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Trump announces investor ‘ban,’ MBS purchases and credit card rate cap in Davos",
-        "url": "https://www.housingwire.com/articles/trump-housing-ban-mbs-credit/",
-        "what": "President Donald Trump said the U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-housing-ban-mbs-credit/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "U.S. Home Prices Inched Up 0.1% in December",
