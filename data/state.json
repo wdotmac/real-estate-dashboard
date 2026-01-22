@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-22 07:41 UTC",
+  "as_of": "2026-01-22 08:50 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The rental market is normalizing, but “normal” still depends on where you live",
+      "link": "https://www.housingwire.com/articles/the-rental-market-is-normalizing-but-normal-still-depends-on-where-you-live/",
+      "published": "Thu, 22 Jan 2026"
+    },
+    {
       "title": "What D.R. Horton’s dominance means for every U.S. homebuilder",
       "link": "https://www.housingwire.com/articles/dr-horton-q1-2026-market-dominance/",
       "published": "Wed, 21 Jan 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Pennsylvania bill targets local curbs on shared housing",
       "link": "https://www.housingwire.com/articles/pennsylvania-shared-housing-reform/",
-      "published": "Wed, 21 Jan 2026"
-    },
-    {
-      "title": "Trump’s 401(k) proposal could help homebuyers, hurt retirement funds",
-      "link": "https://www.housingwire.com/articles/trump-401k-down-payment/",
       "published": "Wed, 21 Jan 2026"
     },
     {
@@ -259,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "The rental market is normalizing, but “normal” still depends on where you live",
+        "url": "https://www.housingwire.com/articles/the-rental-market-is-normalizing-but-normal-still-depends-on-where-you-live/",
+        "what": "After years of volatility, the U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-rental-market-is-normalizing-but-normal-still-depends-on-where-you-live/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
         "title": "Pennsylvania bill targets local curbs on shared housing",
         "url": "https://www.housingwire.com/articles/pennsylvania-shared-housing-reform/",
         "what": "A group of Pennsylvania lawmakers wants to scrap local limits on shared living in a move that could reopen the door to boarding houses, single-room occupancy buildings, and other shared housing statewide.​ House Bill 2109",
@@ -338,15 +347,6 @@
         "what": "A new white paper shows how autonomous systems capable of planning, reasoning and executing multi-step workflows will reshape the industry.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/the-ai-future-of-real-estate-runs-straight-through-the-mls/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Prudent AI launches same-day income calculator for all loan types",
-        "url": "https://www.housingwire.com/articles/same-day-income-lending/",
-        "what": "Prudent AI Upfront Income calculates qualified income instantly for any loan, giving lenders same-day certainty and reducing errors.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/same-day-income-lending/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
