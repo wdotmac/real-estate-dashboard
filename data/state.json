@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-01-23 20:40 UTC",
+  "as_of": "2026-01-23 21:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
       "yield_pct": 4.26,
-      "delta_bp_1d": -4.0000000000000036
+      "delta_bp_1d": 0.0
     },
     "mortgage_30y": {
       "rate_pct": 6.09,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "CrossCountry Mortgage hires Sam Sharp as regional EVP in Chicago",
+      "link": "https://www.housingwire.com/articles/sam-sharp-crosscountry-mortgage/",
+      "published": "Fri, 23 Jan 2026"
+    },
+    {
       "title": "Post-holiday pending sales rebound exposes regional divides",
       "link": "https://www.housingwire.com/articles/pending-sales-post-holiday-regional-divides/",
       "published": "Fri, 23 Jan 2026"
@@ -162,11 +167,6 @@
     {
       "title": "ServiceLink partners with Grid-ML on guidance for key appraisal update",
       "link": "https://www.housingwire.com/articles/servicelink-uad-36-guide/",
-      "published": "Fri, 23 Jan 2026"
-    },
-    {
-      "title": "Generate real estate seller leads: 14 proven strategies + tools",
-      "link": "https://www.housingwire.com/articles/real-estate-seller-leads/",
       "published": "Fri, 23 Jan 2026"
     },
     {
@@ -249,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "CrossCountry Mortgage hires Sam Sharp as regional EVP in Chicago",
+        "url": "https://www.housingwire.com/articles/sam-sharp-crosscountry-mortgage/",
+        "what": "CrossCountry Mortgage named Sam Sharp as regional EVP in Chicago, aiming to grow its Midwest presence and originations.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/sam-sharp-crosscountry-mortgage/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Post-holiday pending sales rebound exposes regional divides",
         "url": "https://www.housingwire.com/articles/pending-sales-post-holiday-regional-divides/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/the-agency-announces-integration-with-rechat-across-global-network/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Jay Promisco on his first week at Go Companies",
-        "url": "https://www.housingwire.com/articles/go-companies-ceo-jay-promisco/",
-        "what": "Go Companies welcomes new CEO Jay Promisco, who has a strategy centered on automation, company culture and construction loans.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/go-companies-ceo-jay-promisco/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
