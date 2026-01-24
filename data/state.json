@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-24 22:34 UTC",
+  "as_of": "2026-01-24 23:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Lower mortgage rates boosting demand early in 2026",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-housing-demand-2026/",
+      "published": "Sat, 24 Jan 2026"
+    },
+    {
       "title": "Don’t count on the ‘silver tsunami’ for housing inventory surge",
       "link": "https://www.housingwire.com/articles/silver-tsunami-housing-inventory/",
       "published": "Fri, 23 Jan 2026"
@@ -162,11 +167,6 @@
     {
       "title": "California housing reform faces new test as LA Metro resists transit zoning law",
       "link": "https://www.housingwire.com/articles/la-transit-housing-reform/",
-      "published": "Fri, 23 Jan 2026"
-    },
-    {
-      "title": "CrossCountry Mortgage hires Sam Sharp as regional EVP in Chicago",
-      "link": "https://www.housingwire.com/articles/sam-sharp-crosscountry-mortgage/",
       "published": "Fri, 23 Jan 2026"
     },
     {
@@ -203,11 +203,11 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "FHFA reports clean GAO audit for fiscal year 2025",
-        "url": "https://www.housingwire.com/articles/fhfa-2025-audit-results/",
-        "what": "The Federal Housing Finance Agency’s 2025 report shows $518.4 million in assets, a $199.2 million net position and a clean GAO audit.",
-        "numbers": "2025, $518.4 million, $199.2 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-2025-audit-results/",
+        "title": "Lower mortgage rates boosting demand early in 2026",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-housing-demand-2026/",
+        "what": "Mortgage rates near 6% are driving higher home sales and applications, with inventory and new listings also rising in 2026.",
+        "numbers": "6, 2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-housing-demand-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
