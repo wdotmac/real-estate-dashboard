@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-01-27 20:37 UTC",
+  "as_of": "2026-01-27 21:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.24,
-      "delta_bp_1d": -1.9999999999999574
+      "yield_pct": 4.22,
+      "delta_bp_1d": -2.000000000000046
     },
     "mortgage_30y": {
       "rate_pct": 6.09,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Trump executive order overrides Los Angeles wildfire rebuilding plan",
+      "link": "https://www.housingwire.com/articles/trump-california-wildfire-order/",
+      "published": "Tue, 27 Jan 2026"
+    },
+    {
+      "title": "Rocket CFO touts ‘all-weather’ model as mortgage market improves",
+      "link": "https://www.housingwire.com/articles/rocket-2026-mortgage-growth/",
+      "published": "Tue, 27 Jan 2026"
+    },
+    {
       "title": "21 must-have real estate marketing tools for 2026",
       "link": "https://www.housingwire.com/articles/real-estate-marketing-tools/",
       "published": "Tue, 27 Jan 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Smith Douglas Homes promotes Scott Bowles to Regional President",
       "link": "https://www.housingwire.com/articles/smith-douglas-southeast-expansion/",
-      "published": "Tue, 27 Jan 2026"
-    },
-    {
-      "title": "Mortgage rates steady ahead of Fed meeting as eyes turn to spring housing market",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-fed-spring/",
-      "published": "Tue, 27 Jan 2026"
-    },
-    {
-      "title": "Case-Shiller: Home prices up 1.4% in November, Midwest leads gains",
-      "link": "https://www.housingwire.com/articles/case-shiller-home-price-midwest/",
       "published": "Tue, 27 Jan 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Trump executive order overrides Los Angeles wildfire rebuilding plan",
+        "url": "https://www.housingwire.com/articles/trump-california-wildfire-order/",
+        "what": "Trump’s executive order lets federal agencies bypass California rules for wildfire recovery, citing delays in rebuilding efforts.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-california-wildfire-order/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage rates steady ahead of Fed meeting as eyes turn to spring housing market",
         "url": "https://www.housingwire.com/articles/mortgage-rates-fed-spring/",
         "what": "Federal Reserve policymakers are set to wrap up what’s expected to be an uneventful two-day meeting on Wednesday",
@@ -232,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "Rocket CFO touts ‘all-weather’ model as mortgage market improves",
+        "url": "https://www.housingwire.com/articles/rocket-2026-mortgage-growth/",
+        "what": "Brian Brown, chief financial officer and treasurer for Rocket Companies, expects continued improvement in the mortgage market in 2026, building on momentum that emerged in the seco",
+        "numbers": "2026,, 2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-2026-mortgage-growth/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Case-Shiller: Home prices up 1.4% in November, Midwest leads gains",
         "url": "https://www.housingwire.com/articles/case-shiller-home-price-midwest/",
         "what": "Case-Shiller reports 1.4% U.S",
@@ -248,15 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-redfin-super-bowl/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Home Depot launches AI tool to automate contractor material lists",
-        "url": "https://www.housingwire.com/articles/ai-tools-construction-efficiency/",
-        "what": "Home Depot’s Material List Builder AI automates materials lists, saving time and supporting contractor margins as costs rise.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-tools-construction-efficiency/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Meet the Newfins Starting 2026 Strong!",
@@ -338,15 +347,6 @@
         "what": "Want a shortcut to the closing table",
         "numbers": "2025.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/buy-real-estate-leads/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Investors blast CoStar’s ‘feckless board,’ and ‘quixotic quest’ over Homes.com",
-        "url": "https://www.housingwire.com/articles/costar-third-point-activist-board/",
-        "what": "Third Point urges CoStar to replace directors and reconsider Homes.com after $3 billion in losses and 27% stock decline.",
-        "numbers": "$3 billion, 27",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-third-point-activist-board/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
