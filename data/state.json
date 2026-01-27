@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-27 15:44 UTC",
+  "as_of": "2026-01-27 16:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Home Depot launches AI tool to automate contractor material lists",
+      "link": "https://www.housingwire.com/articles/ai-tools-construction-efficiency/",
+      "published": "Tue, 27 Jan 2026"
+    },
+    {
+      "title": "RealTrends Verified Houston Properties Team joins The Real Brokerage",
+      "link": "https://www.housingwire.com/articles/realtrends-verified-houston-properties-team-joins-the-real-brokerage/",
+      "published": "Tue, 27 Jan 2026"
+    },
+    {
+      "title": "Better renews $175M warehouse credit facility",
+      "link": "https://www.housingwire.com/articles/better-warehouse-facility-renewal/",
+      "published": "Tue, 27 Jan 2026"
+    },
+    {
       "title": "U.S. home prices rose 0.6% in November, FHFA reports",
       "link": "https://www.housingwire.com/articles/us-home-prices-november-fhfa/",
       "published": "Tue, 27 Jan 2026"
@@ -153,21 +168,6 @@
       "title": "ACES Quality Management acquires BaseCap Analytics",
       "link": "https://www.housingwire.com/articles/aces-basecap-data-quality/",
       "published": "Tue, 27 Jan 2026"
-    },
-    {
-      "title": "Rocket Companies hit with class-action lawsuit alleging steering, home-price inflation",
-      "link": "https://www.housingwire.com/articles/rocket-mortgage-steering-lawsuit/",
-      "published": "Mon, 26 Jan 2026"
-    },
-    {
-      "title": "Policy clash: how two housing policies blend to price out millions",
-      "link": "https://www.housingwire.com/articles/manufactured-housing-policy-costs/",
-      "published": "Mon, 26 Jan 2026"
-    },
-    {
-      "title": "Jason Mitchell Group adds LitFinancial to referral network",
-      "link": "https://www.housingwire.com/articles/jason-mitchell-group-adds-litfinancial-to-referral-network/",
-      "published": "Mon, 26 Jan 2026"
     },
     {
       "title": "Redfin Economists’ Weekly Take: There’s a Fed Meeting on Deck, But White House Policy Is Biggest Driver of Mortgage Rates",
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "Home Depot launches AI tool to automate contractor material lists",
+        "url": "https://www.housingwire.com/articles/ai-tools-construction-efficiency/",
+        "what": "Home Depot’s Material List Builder AI automates materials lists, saving time and supporting contractor margins as costs rise.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-tools-construction-efficiency/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "U.S. home prices rose 0.6% in November, FHFA reports",
         "url": "https://www.housingwire.com/articles/us-home-prices-november-fhfa/",
         "what": "U.S",
@@ -277,33 +286,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "New real estate certification spotlights agents committed to consumer protection",
-        "url": "https://www.housingwire.com/articles/transparent-agent-certification-launch/",
-        "what": "Housing Rebel by Selling Later's new Transparent Agent Certification highlights agents who avoid referral fees and dual agency.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/transparent-agent-certification-launch/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Onity targets $150M debt raise via PHH subsidiaries",
-        "url": "https://www.housingwire.com/articles/phh-onity-senior-notes-2029/",
-        "what": "Onity Group — the parent company of PHH Mortgage Corp",
-        "numbers": "$150 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/phh-onity-senior-notes-2029/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Samara installs its first modular home for Altadena wildfire victims",
-        "url": "https://www.housingwire.com/articles/samara-modular-adu-altadena/",
-        "what": "Samara and Steadfast LA are donating modular ADUs to Altadena wildfire victims, with homes ready in 90–120 days after permits.",
-        "numbers": "90, 120",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/samara-modular-adu-altadena/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Meet the Newfins Starting 2026 Strong!",
         "url": "https://www.redfin.com/news/meet-the-newfins-starting-2026-strong/",
         "what": "As we settle into the new year and look ahead to what’s next, we’re excited to welcome the agents who joined Redfin in December",
@@ -329,9 +311,36 @@
         "justified": "redfin.com — https://www.redfin.com/news/home-purchase-cancellations-december-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Conversational Search is Now Available on the Redfin iPhone App",
+        "url": "https://www.redfin.com/news/conversational-search-is-now-available-on-the-redfin-iphone-app/",
+        "what": "iOS users in the U.S",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/conversational-search-is-now-available-on-the-redfin-iphone-app/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
+      {
+        "title": "RealTrends Verified Houston Properties Team joins The Real Brokerage",
+        "url": "https://www.housingwire.com/articles/realtrends-verified-houston-properties-team-joins-the-real-brokerage/",
+        "what": "Houston Properties Team earned a No",
+        "numbers": "1, $143.6 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/realtrends-verified-houston-properties-team-joins-the-real-brokerage/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Better renews $175M warehouse credit facility",
+        "url": "https://www.housingwire.com/articles/better-warehouse-facility-renewal/",
+        "what": "Better renews $175M warehouse credit, lowering equity needs and targeting $1B monthly originations by May 2026.",
+        "numbers": "$175, $1, 2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-warehouse-facility-renewal/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "ACES Quality Management acquires BaseCap Analytics",
         "url": "https://www.housingwire.com/articles/aces-basecap-data-quality/",
