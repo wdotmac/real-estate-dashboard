@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-27 13:58 UTC",
+  "as_of": "2026-01-27 14:51 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "U.S. home prices rose 0.6% in November, FHFA reports",
+      "link": "https://www.housingwire.com/articles/us-home-prices-november-fhfa/",
+      "published": "Tue, 27 Jan 2026"
+    },
+    {
+      "title": "HighTechLending introduces credit card–style second-lien loan to tap home equity",
+      "link": "https://www.housingwire.com/articles/hightechlending-second-lien-equityselect/",
+      "published": "Tue, 27 Jan 2026"
+    },
+    {
       "title": "ACES Quality Management acquires BaseCap Analytics",
       "link": "https://www.housingwire.com/articles/aces-basecap-data-quality/",
       "published": "Tue, 27 Jan 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Jason Mitchell Group adds LitFinancial to referral network",
       "link": "https://www.housingwire.com/articles/jason-mitchell-group-adds-litfinancial-to-referral-network/",
-      "published": "Mon, 26 Jan 2026"
-    },
-    {
-      "title": "HUD orders housing agencies to verify tenant eligibility",
-      "link": "https://www.housingwire.com/articles/hud-orders-housing-agencies-to-verify-tenant-eligibility/",
-      "published": "Mon, 26 Jan 2026"
-    },
-    {
-      "title": "New real estate certification spotlights agents committed to consumer protection",
-      "link": "https://www.housingwire.com/articles/transparent-agent-certification-launch/",
       "published": "Mon, 26 Jan 2026"
     },
     {
@@ -241,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "U.S. home prices rose 0.6% in November, FHFA reports",
+        "url": "https://www.housingwire.com/articles/us-home-prices-november-fhfa/",
+        "what": "U.S",
+        "numbers": "0.6, 1.9",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/us-home-prices-november-fhfa/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "HighTechLending introduces credit card–style second-lien loan to tap home equity",
+        "url": "https://www.housingwire.com/articles/hightechlending-second-lien-equityselect/",
+        "what": "National mortgage lender HighTechLending has launched a second-lien version of a home equity product designed to function more like a credit card, the company announced Tuesday.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hightechlending-second-lien-equityselect/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Jason Mitchell Group adds LitFinancial to referral network",
         "url": "https://www.housingwire.com/articles/jason-mitchell-group-adds-litfinancial-to-referral-network/",
         "what": "The Jason Mitchell Group facilitated more than 140,000 referrals in 2024",
@@ -311,15 +329,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/home-purchase-cancellations-december-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Conversational Search is Now Available on the Redfin iPhone App",
-        "url": "https://www.redfin.com/news/conversational-search-is-now-available-on-the-redfin-iphone-app/",
-        "what": "iOS users in the U.S",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/conversational-search-is-now-available-on-the-redfin-iphone-app/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
@@ -329,24 +338,6 @@
         "what": "ACES Quality Management acquires BaseCap Analytics, adding data quality automation and validation to its enterprise software.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/aces-basecap-data-quality/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How to become a luxury real estate agent",
-        "url": "https://www.housingwire.com/articles/how-to-become-a-luxury-real-estate-agent/",
-        "what": "If selling luxury homes is your goal, follow our tips to learn how to do it successfully in your market.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/how-to-become-a-luxury-real-estate-agent/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Down payment assistance availability continues to grow in Q4 2025",
-        "url": "https://www.housingwire.com/articles/down-payment-assistance-2025/",
-        "what": "DPR’s Q4 2025 report finds 2,619 down payment programs, with 62% offering income limits above $100,000 and expanded buyer eligibility.",
-        "numbers": "4, 2025, 2,619, 62, $100,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/down-payment-assistance-2025/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
