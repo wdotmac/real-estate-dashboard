@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-27 21:32 UTC",
+  "as_of": "2026-01-27 22:36 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "How a state bar filing could derail a California upzoning plan",
+      "link": "https://www.housingwire.com/articles/bar-complaint-yimby-zoning-dispute/",
+      "published": "Tue, 27 Jan 2026"
+    },
+    {
+      "title": "Onity Group raises $200M in debt, reports strong estimated Q4 earnings",
+      "link": "https://www.housingwire.com/articles/onity-group-debt-earnings/",
+      "published": "Tue, 27 Jan 2026"
+    },
+    {
+      "title": "White House proposal would keep Medicare Advantage rates stable in 2027",
+      "link": "https://www.housingwire.com/articles/white-house-medicare-advantage-rates-2027/",
+      "published": "Tue, 27 Jan 2026"
+    },
+    {
       "title": "Trump executive order overrides Los Angeles wildfire rebuilding plan",
       "link": "https://www.housingwire.com/articles/trump-california-wildfire-order/",
       "published": "Tue, 27 Jan 2026"
@@ -152,21 +167,6 @@
     {
       "title": "21 must-have real estate marketing tools for 2026",
       "link": "https://www.housingwire.com/articles/real-estate-marketing-tools/",
-      "published": "Tue, 27 Jan 2026"
-    },
-    {
-      "title": "Vertyx adds AI-powered borrower retention tools to servicing platform",
-      "link": "https://www.housingwire.com/articles/ai-borrower-retention-vertyx/",
-      "published": "Tue, 27 Jan 2026"
-    },
-    {
-      "title": "RealTrends Verified agent Kevin Stewart joins The Resident Group as partner",
-      "link": "https://www.housingwire.com/articles/kevin-stewart-resident-group-partner/",
-      "published": "Tue, 27 Jan 2026"
-    },
-    {
-      "title": "Smith Douglas Homes promotes Scott Bowles to Regional President",
-      "link": "https://www.housingwire.com/articles/smith-douglas-southeast-expansion/",
       "published": "Tue, 27 Jan 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "White House proposal would keep Medicare Advantage rates stable in 2027",
+        "url": "https://www.housingwire.com/articles/white-house-medicare-advantage-rates-2027/",
+        "what": "The Centers for Medicare and Medicaid Services (CMS) said payments to Medicare Advantage plans would rise by an estimated 0.09% on average in 2027",
+        "numbers": "0.09, 2027",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/white-house-medicare-advantage-rates-2027/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Trump executive order overrides Los Angeles wildfire rebuilding plan",
         "url": "https://www.housingwire.com/articles/trump-california-wildfire-order/",
@@ -241,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "How a state bar filing could derail a California upzoning plan",
+        "url": "https://www.housingwire.com/articles/bar-complaint-yimby-zoning-dispute/",
+        "what": "The latest “not in my backyard” tactic in California’s local zoning disputes and state housing law battles? Filing a complaint with the state bar association",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bar-complaint-yimby-zoning-dispute/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Rocket CFO touts ‘all-weather’ model as mortgage market improves",
         "url": "https://www.housingwire.com/articles/rocket-2026-mortgage-growth/",
         "what": "Brian Brown, chief financial officer and treasurer for Rocket Companies, expects continued improvement in the mortgage market in 2026, building on momentum that emerged in the seco",
@@ -248,24 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-2026-mortgage-growth/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Case-Shiller: Home prices up 1.4% in November, Midwest leads gains",
-        "url": "https://www.housingwire.com/articles/case-shiller-home-price-midwest/",
-        "what": "Case-Shiller reports 1.4% U.S",
-        "numbers": "1.4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/case-shiller-home-price-midwest/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Rocket Companies, Redfin tease Super Bowl ad with Lady Gaga",
-        "url": "https://www.housingwire.com/articles/rocket-redfin-super-bowl/",
-        "what": "Rocket and Redfin’s Super Bowl ad features Lady Gaga singing Mister Rogers’ theme, focusing on home and community.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-redfin-super-bowl/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Meet the Newfins Starting 2026 Strong!",
@@ -306,6 +306,15 @@
     ],
     "notables": [
       {
+        "title": "Onity Group raises $200M in debt, reports strong estimated Q4 earnings",
+        "url": "https://www.housingwire.com/articles/onity-group-debt-earnings/",
+        "what": "Onity Group raised $200 million in debt, surpassing its $150 million target, and estimates Q4 net income of $107 million to $131 million.",
+        "numbers": "$200 million, $150 million, 4, $107 million, $131 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/onity-group-debt-earnings/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "21 must-have real estate marketing tools for 2026",
         "url": "https://www.housingwire.com/articles/real-estate-marketing-tools/",
         "what": "Save time, scale faster and attract more clients with these savvy real estate marketing tools.",
@@ -338,15 +347,6 @@
         "what": "Smith Douglas Homes named Scott Bowles as Southeast regional president as it expands into new markets and targets operational scale.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/smith-douglas-southeast-expansion/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "7 best places to buy real estate leads in 2026",
-        "url": "https://www.housingwire.com/articles/buy-real-estate-leads/",
-        "what": "Want a shortcut to the closing table",
-        "numbers": "2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/buy-real-estate-leads/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
