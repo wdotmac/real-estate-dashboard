@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-26 23:35 UTC",
+  "as_of": "2026-01-27 02:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Mon, 26 Jan 2026"
     },
     {
+      "title": "Redfin Economists’ Weekly Take: There’s a Fed Meeting on Deck, But White House Policy Is Biggest Driver of Mortgage Rates",
+      "link": "https://www.redfin.com/news/weekly-economic-update-fed-meeting-white-house-rates/",
+      "published": "Mon, 26 Jan 2026"
+    },
+    {
       "title": "Meet the Newfins Starting 2026 Strong!",
       "link": "https://www.redfin.com/news/meet-the-newfins-starting-2026-strong/",
       "published": "Mon, 26 Jan 2026"
@@ -193,15 +198,19 @@
       "title": "Conversational Search is Now Available on the Redfin iPhone App",
       "link": "https://www.redfin.com/news/conversational-search-is-now-available-on-the-redfin-iphone-app/",
       "published": "Thu, 22 Jan 2026"
-    },
-    {
-      "title": "Trump Showcases Housing Affordability Proposals at Davos: Banning Corporate Landlords, $200B Mortgage-Bond Purchase",
-      "link": "https://www.redfin.com/news/trump-davos-housing-reforms/",
-      "published": "Wed, 21 Jan 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Redfin Economists’ Weekly Take: There’s a Fed Meeting on Deck, But White House Policy Is Biggest Driver of Mortgage Rates",
+        "url": "https://www.redfin.com/news/weekly-economic-update-fed-meeting-white-house-rates/",
+        "what": "This Week In A Nutshell: There’s a Fed meeting on Wednesday, but it’s unlikely to move mortgage rates",
+        "numbers": "$200",
+        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-fed-meeting-white-house-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Rocket Companies hit with class-action lawsuit alleging steering, home-price inflation",
         "url": "https://www.housingwire.com/articles/rocket-mortgage-steering-lawsuit/",
@@ -226,15 +235,6 @@
         "what": "The weekly average mortgage rate fell to a 3-year low, nudging some house hunters and sellers off the sidelines",
         "numbers": "3, 2.9, 18,, 5",
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-homebuying-selling-improves-slightly/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Trump Showcases Housing Affordability Proposals at Davos: Banning Corporate Landlords, $200B Mortgage-Bond Purchase",
-        "url": "https://www.redfin.com/news/trump-davos-housing-reforms/",
-        "what": "President Trump called for a ban on Wall Street investors purchasing single-family homes, and reiterated an order for Fannie Mae and Freddie Mac to buy billions in mortgage bonds",
-        "numbers": "$200",
-        "justified": "redfin.com — https://www.redfin.com/news/trump-davos-housing-reforms/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
