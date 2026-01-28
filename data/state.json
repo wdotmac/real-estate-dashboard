@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-01-28 20:49 UTC",
+  "as_of": "2026-01-28 21:45 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.22,
-      "delta_bp_1d": -2.000000000000046
+      "yield_pct": 4.24,
+      "delta_bp_1d": 2.000000000000046
     },
     "mortgage_30y": {
       "rate_pct": 6.09,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Jim Park on appraisal workforce shortage and regulatory shifts",
+      "link": "https://www.housingwire.com/articles/appraisal-industry-challenges/",
+      "published": "Wed, 28 Jan 2026"
+    },
+    {
+      "title": "Indiana bill targets housing affordability with state zoning changes",
+      "link": "https://www.housingwire.com/articles/indiana-housing-zoning-bill/",
+      "published": "Wed, 28 Jan 2026"
+    },
+    {
       "title": "NAR, .RealEstate helping Realtors build online presence",
       "link": "https://www.housingwire.com/articles/nar-realestate-helping-realtors-build-online-presence/",
       "published": "Wed, 28 Jan 2026"
@@ -160,13 +170,8 @@
       "published": "Wed, 28 Jan 2026"
     },
     {
-      "title": "Fed holds rates steady as political pressure overshadows policy decisions",
-      "link": "https://www.housingwire.com/articles/fed-holds-rates-steady/",
-      "published": "Wed, 28 Jan 2026"
-    },
-    {
-      "title": "What D.R. Horton’s strategy reveals now about new-home demand",
-      "link": "https://www.housingwire.com/articles/dr-horton-affordability-strategy/",
+      "title": "With Fed Rate Cuts on Ice, Mortgage Rates Are Unlikely to Move",
+      "link": "https://www.redfin.com/news/fed-meeting-rates-unchanged-january/",
       "published": "Wed, 28 Jan 2026"
     },
     {
@@ -193,15 +198,19 @@
       "title": "Homebuyers Are Canceling Deals at the Highest Rate on Record",
       "link": "https://www.redfin.com/news/home-purchase-cancellations-december-2025/",
       "published": "Mon, 26 Jan 2026"
-    },
-    {
-      "title": "Homebuying and Selling Activity Show Signs of Life Amid Lower Mortgage Rates",
-      "link": "https://www.redfin.com/news/housing-market-update-homebuying-selling-improves-slightly/",
-      "published": "Thu, 22 Jan 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "With Fed Rate Cuts on Ice, Mortgage Rates Are Unlikely to Move",
+        "url": "https://www.redfin.com/news/fed-meeting-rates-unchanged-january/",
+        "what": "The Fed held interest rates steady in its meeting on Wednesday, as expected",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/fed-meeting-rates-unchanged-january/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Fed holds rates steady as political pressure overshadows policy decisions",
         "url": "https://www.housingwire.com/articles/fed-holds-rates-steady/",
@@ -228,18 +237,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-fed-meeting-white-house-rates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Homebuying and Selling Activity Show Signs of Life Amid Lower Mortgage Rates",
-        "url": "https://www.redfin.com/news/housing-market-update-homebuying-selling-improves-slightly/",
-        "what": "The weekly average mortgage rate fell to a 3-year low, nudging some house hunters and sellers off the sidelines",
-        "numbers": "3, 2.9, 18,, 5",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-homebuying-selling-improves-slightly/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Jim Park on appraisal workforce shortage and regulatory shifts",
+        "url": "https://www.housingwire.com/articles/appraisal-industry-challenges/",
+        "what": "The U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/appraisal-industry-challenges/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Indiana bill targets housing affordability with state zoning changes",
+        "url": "https://www.housingwire.com/articles/indiana-housing-zoning-bill/",
+        "what": "Another state vs",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/indiana-housing-zoning-bill/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Redfin’s Most Neighborly Cities of 2026: Salt Lake City, Portland and Kansas City Top the List",
         "url": "https://www.redfin.com/news/most-neighborly-cities-2026/",
@@ -329,24 +347,6 @@
         "what": "Leading brokerages use structured culture systems to boost agent performance, client service and business alignment.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/brokerage-culture-agent-success/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CoStar stands firm on Homes.com amid investor pressure",
-        "url": "https://www.housingwire.com/articles/costar-rejects-investor-demands/",
-        "what": "CoStar rejects Third Point’s call to divest Homes.com, citing 337% subscriber growth and new profitability targets.",
-        "numbers": "337",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-rejects-investor-demands/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Northeast ERA Real Estate agencies merge across state lines",
-        "url": "https://www.housingwire.com/articles/northeast-era-real-estate-agencies-merge-across-state-lines/",
-        "what": "The merger creates a brokerage with nine offices and nearly 200 agents across New York and Connecticut, with further expansion possible.",
-        "numbers": "200",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/northeast-era-real-estate-agencies-merge-across-state-lines/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
