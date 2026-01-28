@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-28 18:54 UTC",
+  "as_of": "2026-01-28 19:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Cardinal Financial launches nondelegated correspondent program",
+      "link": "https://www.housingwire.com/articles/cardinal-non-delegated-program/",
+      "published": "Wed, 28 Jan 2026"
+    },
+    {
+      "title": "Long & Foster taps Lacey Conway as new president",
+      "link": "https://www.housingwire.com/articles/long-foster-lacey-conway-president/",
+      "published": "Wed, 28 Jan 2026"
+    },
+    {
+      "title": "Fed holds rates steady as political pressure overshadows policy decisions",
+      "link": "https://www.housingwire.com/articles/fed-holds-rates-steady/",
+      "published": "Wed, 28 Jan 2026"
+    },
+    {
       "title": "What D.R. Horton’s strategy reveals now about new-home demand",
       "link": "https://www.housingwire.com/articles/dr-horton-affordability-strategy/",
       "published": "Wed, 28 Jan 2026"
@@ -152,21 +167,6 @@
     {
       "title": "5 ways brokerages use systems to make culture real for agents",
       "link": "https://www.housingwire.com/articles/brokerage-culture-agent-success/",
-      "published": "Wed, 28 Jan 2026"
-    },
-    {
-      "title": "CoStar stands firm on Homes.com amid investor pressure",
-      "link": "https://www.housingwire.com/articles/costar-rejects-investor-demands/",
-      "published": "Wed, 28 Jan 2026"
-    },
-    {
-      "title": "Northeast ERA Real Estate agencies merge across state lines",
-      "link": "https://www.housingwire.com/articles/northeast-era-real-estate-agencies-merge-across-state-lines/",
-      "published": "Wed, 28 Jan 2026"
-    },
-    {
-      "title": "Planet Home Lending grows its western US team with Kris Kehl hire",
-      "link": "https://www.housingwire.com/articles/planet-home-lending-california-expansion/",
       "published": "Wed, 28 Jan 2026"
     },
     {
@@ -203,20 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Fed holds rates steady as political pressure overshadows policy decisions",
+        "url": "https://www.housingwire.com/articles/fed-holds-rates-steady/",
+        "what": "The Fed held benchmark rates at a range of 3.5% to 3.75% as inflation stays at 2.7% and job growth slows, with politics in focus.",
+        "numbers": "3.5, 3.75, 2.7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-holds-rates-steady/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "What D.R. Horton’s strategy reveals now about new-home demand",
         "url": "https://www.housingwire.com/articles/dr-horton-affordability-strategy/",
         "what": "Everybody’s got an opinion on why housing “sucks” right now",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/dr-horton-affordability-strategy/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage applications drop 8.5% after slight rate increase",
-        "url": "https://www.housingwire.com/articles/mortgage-applications-drop-rates/",
-        "what": "Mortgage applications fell 8.5% as 30-year rates hit 6.24%",
-        "numbers": "8.5, 30, 6.24, 16, 156",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-drop-rates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -279,6 +279,24 @@
     ],
     "notables": [
       {
+        "title": "Cardinal Financial launches nondelegated correspondent program",
+        "url": "https://www.housingwire.com/articles/cardinal-non-delegated-program/",
+        "what": "Cardinal Financial’s new nondelegated correspondent program gives independent lenders access to Octane tech and expanded loan products.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cardinal-non-delegated-program/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Long & Foster taps Lacey Conway as new president",
+        "url": "https://www.housingwire.com/articles/long-foster-lacey-conway-president/",
+        "what": "Long & Foster appoints Lacey Conway as president, leveraging her Compass and Latter & Blum experience to boost brokerage strategy.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/long-foster-lacey-conway-president/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "New View Advisors: FHA report reveals HECM program is no longer a financial risk",
         "url": "https://www.housingwire.com/articles/hecm-fha-fund-2025/",
         "what": "The FHA-insured HECM program posted a net gain in 2025, with insurance-in-force falling to $64 billion and the capital ratio at 24.06%.",
@@ -329,24 +347,6 @@
         "what": "Brokerages have invested in training, compliance and dispute resolution",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/how-real-estate-brokerages-are-reducing-risk-in-buyer-representation/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Bright MLS appoints first chief artificial intelligence officer to lead AI strategy",
-        "url": "https://www.housingwire.com/articles/bright-mls-chief-ai-officer/",
-        "what": "Bright MLS appoints Rajeev Sajja as its first chief AI officer, aiming to build an AI-native MLS and advance data-driven real estate tools.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bright-mls-chief-ai-officer/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Howard Hanna enters Philadelphia market, partners with Art Herling Team",
-        "url": "https://www.housingwire.com/articles/howard-hanna-philadelphia-expansion/",
-        "what": "Howard Hanna Real Estate Services enters Philadelphia, adding 139 agents and $289.71M in 2024 sales through Art Herling partnership.",
-        "numbers": "139, $289.71, 2024",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/howard-hanna-philadelphia-expansion/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
