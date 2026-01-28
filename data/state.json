@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-28 08:50 UTC",
+  "as_of": "2026-01-28 09:48 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "A blueprint for making housing more affordable",
+      "link": "https://www.housingwire.com/articles/a-blueprint-for-making-housing-more-affordable/",
+      "published": "Wed, 28 Jan 2026"
+    },
+    {
       "title": "How a state bar filing could derail a California upzoning plan",
       "link": "https://www.housingwire.com/articles/bar-complaint-yimby-zoning-dispute/",
       "published": "Tue, 27 Jan 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Rocket CFO touts ‘all-weather’ model as mortgage market improves",
       "link": "https://www.housingwire.com/articles/rocket-2026-mortgage-growth/",
-      "published": "Tue, 27 Jan 2026"
-    },
-    {
-      "title": "21 must-have real estate marketing tools for 2026",
-      "link": "https://www.housingwire.com/articles/real-estate-marketing-tools/",
       "published": "Tue, 27 Jan 2026"
     },
     {
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage rates steady ahead of Fed meeting as eyes turn to spring housing market",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-fed-spring/",
-        "what": "Federal Reserve policymakers are set to wrap up what’s expected to be an uneventful two-day meeting on Wednesday",
-        "numbers": "6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-fed-spring/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: There’s a Fed Meeting on Deck, But White House Policy Is Biggest Driver of Mortgage Rates",
         "url": "https://www.redfin.com/news/weekly-economic-update-fed-meeting-white-house-rates/",
         "what": "This Week In A Nutshell: There’s a Fed meeting on Wednesday, but it’s unlikely to move mortgage rates",
@@ -249,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "A blueprint for making housing more affordable",
+        "url": "https://www.housingwire.com/articles/a-blueprint-for-making-housing-more-affordable/",
+        "what": "As we kick off the New Year, affordability remains one of the biggest challenges facing the mortgage industry and the broader housing market",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/a-blueprint-for-making-housing-more-affordable/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "How a state bar filing could derail a California upzoning plan",
         "url": "https://www.housingwire.com/articles/bar-complaint-yimby-zoning-dispute/",
