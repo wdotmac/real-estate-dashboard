@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-28 15:49 UTC",
+  "as_of": "2026-01-28 16:57 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Northeast ERA Real Estate agencies merge across state lines",
+      "link": "https://www.housingwire.com/articles/northeast-era-real-estate-agencies-merge-across-state-lines/",
+      "published": "Wed, 28 Jan 2026"
+    },
+    {
+      "title": "Planet Home Lending grows its western US team with Kris Kehl hire",
+      "link": "https://www.housingwire.com/articles/planet-home-lending-california-expansion/",
+      "published": "Wed, 28 Jan 2026"
+    },
+    {
+      "title": "How real estate brokerages are reducing risk in buyer representation",
+      "link": "https://www.housingwire.com/articles/how-real-estate-brokerages-are-reducing-risk-in-buyer-representation/",
+      "published": "Wed, 28 Jan 2026"
+    },
+    {
       "title": "Bright MLS appoints first chief artificial intelligence officer to lead AI strategy",
       "link": "https://www.housingwire.com/articles/bright-mls-chief-ai-officer/",
       "published": "Wed, 28 Jan 2026"
@@ -153,21 +168,6 @@
       "title": "Howard Hanna enters Philadelphia market, partners with Art Herling Team",
       "link": "https://www.housingwire.com/articles/howard-hanna-philadelphia-expansion/",
       "published": "Wed, 28 Jan 2026"
-    },
-    {
-      "title": "A blueprint for making housing more affordable",
-      "link": "https://www.housingwire.com/articles/a-blueprint-for-making-housing-more-affordable/",
-      "published": "Wed, 28 Jan 2026"
-    },
-    {
-      "title": "How a state bar filing could derail a California upzoning plan",
-      "link": "https://www.housingwire.com/articles/bar-complaint-yimby-zoning-dispute/",
-      "published": "Tue, 27 Jan 2026"
-    },
-    {
-      "title": "Onity Group raises $200M in debt, reports strong estimated Q4 earnings",
-      "link": "https://www.housingwire.com/articles/onity-group-debt-earnings/",
-      "published": "Tue, 27 Jan 2026"
     },
     {
       "title": "Redfin’s Most Neighborly Cities of 2026: Salt Lake City, Portland and Kansas City Top the List",
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Trump executive order overrides Los Angeles wildfire rebuilding plan",
-        "url": "https://www.housingwire.com/articles/trump-california-wildfire-order/",
-        "what": "Trump’s executive order lets federal agencies bypass California rules for wildfire recovery, citing delays in rebuilding efforts.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-california-wildfire-order/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: There’s a Fed Meeting on Deck, But White House Policy Is Biggest Driver of Mortgage Rates",
         "url": "https://www.redfin.com/news/weekly-economic-update-fed-meeting-white-house-rates/",
         "what": "This Week In A Nutshell: There’s a Fed meeting on Wednesday, but it’s unlikely to move mortgage rates",
@@ -277,15 +268,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Rocket CFO touts ‘all-weather’ model as mortgage market improves",
-        "url": "https://www.housingwire.com/articles/rocket-2026-mortgage-growth/",
-        "what": "Brian Brown, chief financial officer and treasurer for Rocket Companies, expects continued improvement in the mortgage market in 2026, building on momentum that emerged in the seco",
-        "numbers": "2026,, 2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-2026-mortgage-growth/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Meet the Newfins Starting 2026 Strong!",
         "url": "https://www.redfin.com/news/meet-the-newfins-starting-2026-strong/",
         "what": "As we settle into the new year and look ahead to what’s next, we’re excited to welcome the agents who joined Redfin in December",
@@ -315,6 +297,33 @@
     ],
     "notables": [
       {
+        "title": "Northeast ERA Real Estate agencies merge across state lines",
+        "url": "https://www.housingwire.com/articles/northeast-era-real-estate-agencies-merge-across-state-lines/",
+        "what": "The merger creates a brokerage with nine offices and nearly 200 agents across New York and Connecticut, with further expansion possible.",
+        "numbers": "200",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/northeast-era-real-estate-agencies-merge-across-state-lines/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Planet Home Lending grows its western US team with Kris Kehl hire",
+        "url": "https://www.housingwire.com/articles/planet-home-lending-california-expansion/",
+        "what": "Planet Home Lending hires Kris Kehl as a senior loan officer in California, expanding its retail operations in the western U.S.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/planet-home-lending-california-expansion/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "How real estate brokerages are reducing risk in buyer representation",
+        "url": "https://www.housingwire.com/articles/how-real-estate-brokerages-are-reducing-risk-in-buyer-representation/",
+        "what": "Brokerages have invested in training, compliance and dispute resolution",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/how-real-estate-brokerages-are-reducing-risk-in-buyer-representation/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Bright MLS appoints first chief artificial intelligence officer to lead AI strategy",
         "url": "https://www.housingwire.com/articles/bright-mls-chief-ai-officer/",
         "what": "Bright MLS appoints Rajeev Sajja as its first chief AI officer, aiming to build an AI-native MLS and advance data-driven real estate tools.",
@@ -338,15 +347,6 @@
         "what": "Onity Group raised $200 million in debt, surpassing its $150 million target, and estimates Q4 net income of $107 million to $131 million.",
         "numbers": "$200 million, $150 million, 4, $107 million, $131 million",
         "justified": "housingwire.com — https://www.housingwire.com/articles/onity-group-debt-earnings/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "21 must-have real estate marketing tools for 2026",
-        "url": "https://www.housingwire.com/articles/real-estate-marketing-tools/",
-        "what": "Save time, scale faster and attract more clients with these savvy real estate marketing tools.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-marketing-tools/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
