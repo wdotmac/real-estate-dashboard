@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-29 11:45 UTC",
+  "as_of": "2026-01-29 13:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,16 @@
       "published": "Wed, 28 Jan 2026"
     },
     {
+      "title": "The Single-Family Rental Is On the Decline",
+      "link": "https://www.redfin.com/news/rental-housing-multifamily-vs-single-family/",
+      "published": "Thu, 29 Jan 2026"
+    },
+    {
+      "title": "New Listings Rise For First Time in 2 Months As Lower Mortgage Rates Perk Up Homebuyers",
+      "link": "https://www.redfin.com/news/housing-market-update-new-listings-increase-january/",
+      "published": "Thu, 29 Jan 2026"
+    },
+    {
       "title": "With Fed Rate Cuts on Ice, Mortgage Rates Are Unlikely to Move",
       "link": "https://www.redfin.com/news/fed-meeting-rates-unchanged-january/",
       "published": "Wed, 28 Jan 2026"
@@ -188,20 +198,19 @@
       "title": "Meet the Newfins Starting 2026 Strong!",
       "link": "https://www.redfin.com/news/meet-the-newfins-starting-2026-strong/",
       "published": "Mon, 26 Jan 2026"
-    },
-    {
-      "title": "More Gen Zers are Buying Homes. But It’s a Trickle, Not a Flood.",
-      "link": "https://www.redfin.com/news/homeownership-rate-by-generation-2025/",
-      "published": "Mon, 26 Jan 2026"
-    },
-    {
-      "title": "Homebuyers Are Canceling Deals at the Highest Rate on Record",
-      "link": "https://www.redfin.com/news/home-purchase-cancellations-december-2025/",
-      "published": "Mon, 26 Jan 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "New Listings Rise For First Time in 2 Months As Lower Mortgage Rates Perk Up Homebuyers",
+        "url": "https://www.redfin.com/news/housing-market-update-new-listings-increase-january/",
+        "what": "New listings and pending home sales are improving",
+        "numbers": "1, 25,, 2",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-new-listings-increase-january/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Foreclosure auction volume reaches highest level since Q2 2020",
         "url": "https://www.housingwire.com/articles/q4-2025-foreclosure-auctions/",
@@ -231,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "The Single-Family Rental Is On the Decline",
+        "url": "https://www.redfin.com/news/rental-housing-multifamily-vs-single-family/",
+        "what": "A record 33% of U.S",
+        "numbers": "33, 31, 2021,, 14, 2011.",
+        "justified": "redfin.com — https://www.redfin.com/news/rental-housing-multifamily-vs-single-family/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
       {
         "title": "Zillow to launch new marketing campaign during Grammy awards",
         "url": "https://www.housingwire.com/articles/zillow-someday-starts-today-campaign/",
@@ -284,24 +302,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/meet-the-newfins-starting-2026-strong/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "More Gen Zers are Buying Homes. But It’s a Trickle, Not a Flood.",
-        "url": "https://www.redfin.com/news/homeownership-rate-by-generation-2025/",
-        "what": "Homeownership for young Americans is a mixed bag",
-        "numbers": "2024, 2025",
-        "justified": "redfin.com — https://www.redfin.com/news/homeownership-rate-by-generation-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Homebuyers Are Canceling Deals at the Highest Rate on Record",
-        "url": "https://www.redfin.com/news/home-purchase-cancellations-december-2025/",
-        "what": "Over 40,000 U.S",
-        "numbers": "40,000, 16.3, 2017, 22.5, 20.6, 3.8",
-        "justified": "redfin.com — https://www.redfin.com/news/home-purchase-cancellations-december-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
