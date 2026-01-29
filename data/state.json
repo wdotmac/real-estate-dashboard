@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-29 19:04 UTC",
+  "as_of": "2026-01-29 19:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Atlantic Bay Mortgage Group names Robyn Zacharias as CMO",
+      "link": "https://www.housingwire.com/articles/atlantic-bay-zacharias-cmo/",
+      "published": "Thu, 29 Jan 2026"
+    },
+    {
+      "title": "IMBs originate 84% of residential mortgages in 2025",
+      "link": "https://www.housingwire.com/articles/imb-dominance-2025-chla-report/",
+      "published": "Thu, 29 Jan 2026"
+    },
+    {
       "title": "Study shows real estate brokerages are more profitable — and fewer are losing money",
       "link": "https://www.housingwire.com/articles/brokerage-profitability-nar-commission-data/",
       "published": "Thu, 29 Jan 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Reverse mortgage firms accused of charging illegal borrower fees",
       "link": "https://www.housingwire.com/articles/reverse-mortgage-lawsuit-fees/",
-      "published": "Thu, 29 Jan 2026"
-    },
-    {
-      "title": "AI use moves from ‘curiosity’ to ‘capability’ for real estate industry",
-      "link": "https://www.housingwire.com/articles/ai-use-moves-from-curiosity-to-capability-for-real-estate-industry/",
-      "published": "Thu, 29 Jan 2026"
-    },
-    {
-      "title": "Mortgage payments fall in December as affordability improves",
-      "link": "https://www.housingwire.com/articles/mortgage-payments-affordability-december/",
       "published": "Thu, 29 Jan 2026"
     },
     {
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Foreclosure auction volume reaches highest level since Q2 2020",
-        "url": "https://www.housingwire.com/articles/q4-2025-foreclosure-auctions/",
-        "what": "Foreclosure auction volume rose 48% in Q4 2025, led by Florida, but sales rates fell to a 23-quarter low, Auction.com reported.",
-        "numbers": "48, 4, 2025,, 23",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/q4-2025-foreclosure-auctions/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "With Fed Rate Cuts on Ice, Mortgage Rates Are Unlikely to Move",
         "url": "https://www.redfin.com/news/fed-meeting-rates-unchanged-january/",
         "what": "The Fed held interest rates steady in its meeting on Wednesday, as expected",
@@ -249,6 +240,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Atlantic Bay Mortgage Group names Robyn Zacharias as CMO",
+        "url": "https://www.housingwire.com/articles/atlantic-bay-zacharias-cmo/",
+        "what": "Atlantic Bay Mortgage Group appoints Robyn Zacharias as CMO, leveraging her 30 years of marketing expertise to boost brand visibility.",
+        "numbers": "30",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/atlantic-bay-zacharias-cmo/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "IMBs originate 84% of residential mortgages in 2025",
+        "url": "https://www.housingwire.com/articles/imb-dominance-2025-chla-report/",
+        "what": "CHLA’s 2025 report finds IMBs originated 84.1% of single-family loans, with a 90% share of FHA loans and 94.6% of Ginnie Mae issuance.",
+        "numbers": "2025, 84.1, 90, 94.6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/imb-dominance-2025-chla-report/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Victoria DeLuce on capital markets and the path to affordable housing",
         "url": "https://www.housingwire.com/articles/victoria-deluce-rate-capital-markets-affordable-housing/",
@@ -338,15 +347,6 @@
         "what": "Reports before Davos suggested that President Trump would announce an initiative to spur homeownership by allowing individuals to withdraw funds from their 401(k) accounts to make",
         "numbers": "401, 10",
         "justified": "housingwire.com — https://www.housingwire.com/articles/tapping-investments-for-homeownership-down-payments/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Gen X investors are confident, but they often lack formal retirement plans",
-        "url": "https://www.housingwire.com/articles/gen-x-investors-retirement-plans/",
-        "what": "Forty percent of Gen Xers said they do not have a formal written financial plan",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/gen-x-investors-retirement-plans/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
