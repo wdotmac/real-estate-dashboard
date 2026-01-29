@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-29 07:54 UTC",
+  "as_of": "2026-01-29 08:58 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Tapping investments for homeownership down payments",
+      "link": "https://www.housingwire.com/articles/tapping-investments-for-homeownership-down-payments/",
+      "published": "Thu, 29 Jan 2026"
+    },
+    {
       "title": "Foreclosure auction volume reaches highest level since Q2 2020",
       "link": "https://www.housingwire.com/articles/q4-2025-foreclosure-auctions/",
       "published": "Thu, 29 Jan 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Indiana bill targets housing affordability with state zoning changes",
       "link": "https://www.housingwire.com/articles/indiana-housing-zoning-bill/",
-      "published": "Wed, 28 Jan 2026"
-    },
-    {
-      "title": "NAR, .RealEstate helping Realtors build online presence",
-      "link": "https://www.housingwire.com/articles/nar-realestate-helping-realtors-build-online-presence/",
       "published": "Wed, 28 Jan 2026"
     },
     {
@@ -217,15 +217,6 @@
         "what": "The Fed held interest rates steady in its meeting on Wednesday, as expected",
         "numbers": "",
         "justified": "redfin.com — https://www.redfin.com/news/fed-meeting-rates-unchanged-january/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Fed holds rates steady as political pressure overshadows policy decisions",
-        "url": "https://www.housingwire.com/articles/fed-holds-rates-steady/",
-        "what": "The Fed held benchmark rates at a range of 3.5% to 3.75% as inflation stays at 2.7% and job growth slows, with politics in focus.",
-        "numbers": "3.5, 3.75, 2.7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-holds-rates-steady/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -305,6 +296,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Tapping investments for homeownership down payments",
+        "url": "https://www.housingwire.com/articles/tapping-investments-for-homeownership-down-payments/",
+        "what": "Reports before Davos suggested that President Trump would announce an initiative to spur homeownership by allowing individuals to withdraw funds from their 401(k) accounts to make",
+        "numbers": "401, 10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tapping-investments-for-homeownership-down-payments/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Gen X investors are confident, but they often lack formal retirement plans",
         "url": "https://www.housingwire.com/articles/gen-x-investors-retirement-plans/",
