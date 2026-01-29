@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-29 17:54 UTC",
+  "as_of": "2026-01-29 19:04 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,7 +140,22 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Reverse mortgage firms accused of charging ‘illegal’ borrower fees",
+      "title": "Study shows real estate brokerages are more profitable — and fewer are losing money",
+      "link": "https://www.housingwire.com/articles/brokerage-profitability-nar-commission-data/",
+      "published": "Thu, 29 Jan 2026"
+    },
+    {
+      "title": "Would CoStar really sell Homes.com? Here’s what analysts say",
+      "link": "https://www.housingwire.com/articles/homes-com-analyst-outlook/",
+      "published": "Thu, 29 Jan 2026"
+    },
+    {
+      "title": "Victoria DeLuce on capital markets and the path to affordable housing",
+      "link": "https://www.housingwire.com/articles/victoria-deluce-rate-capital-markets-affordable-housing/",
+      "published": "Thu, 29 Jan 2026"
+    },
+    {
+      "title": "Reverse mortgage firms accused of charging illegal borrower fees",
       "link": "https://www.housingwire.com/articles/reverse-mortgage-lawsuit-fees/",
       "published": "Thu, 29 Jan 2026"
     },
@@ -152,21 +167,6 @@
     {
       "title": "Mortgage payments fall in December as affordability improves",
       "link": "https://www.housingwire.com/articles/mortgage-payments-affordability-december/",
-      "published": "Thu, 29 Jan 2026"
-    },
-    {
-      "title": "Zillow to launch new marketing campaign during Grammy awards",
-      "link": "https://www.housingwire.com/articles/zillow-someday-starts-today-campaign/",
-      "published": "Thu, 29 Jan 2026"
-    },
-    {
-      "title": "Tapping investments for homeownership down payments",
-      "link": "https://www.housingwire.com/articles/tapping-investments-for-homeownership-down-payments/",
-      "published": "Thu, 29 Jan 2026"
-    },
-    {
-      "title": "Foreclosure auction volume reaches highest level since Q2 2020",
-      "link": "https://www.housingwire.com/articles/q4-2025-foreclosure-auctions/",
       "published": "Thu, 29 Jan 2026"
     },
     {
@@ -203,7 +203,7 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Reverse mortgage firms accused of charging ‘illegal’ borrower fees",
+        "title": "Reverse mortgage firms accused of charging illegal borrower fees",
         "url": "https://www.housingwire.com/articles/reverse-mortgage-lawsuit-fees/",
         "what": "Plaintiffs claim reverse mortgage companies added prohibited costs to HECM loans, violating federal rules and HUD fee limits.",
         "numbers": "",
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Victoria DeLuce on capital markets and the path to affordable housing",
+        "url": "https://www.housingwire.com/articles/victoria-deluce-rate-capital-markets-affordable-housing/",
+        "what": "DeLuce says the Trump administration is paying attention to the housing affordability crisis and the industry is also ready to step in to address it.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/victoria-deluce-rate-capital-markets-affordable-housing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Mortgage payments fall in December as affordability improves",
         "url": "https://www.housingwire.com/articles/mortgage-payments-affordability-december/",
         "what": "MBA reports the median mortgage payment fell to $2,025 in December, with a 7.5% annual rise in homebuyer affordability.",
@@ -277,33 +286,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Louisville, Ky., joins municipalities piloting AI to fast-track permits",
-        "url": "https://www.housingwire.com/articles/ai-cities-permitting-housing/",
-        "what": "AI pilot programs in cities like Louisville aim to cut permitting delays, saving time for builders and supporting housing supply growth.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-cities-permitting-housing/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Jim Park on appraisal workforce shortage and regulatory shifts",
-        "url": "https://www.housingwire.com/articles/appraisal-industry-challenges/",
-        "what": "The U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/appraisal-industry-challenges/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Indiana bill targets housing affordability with state zoning changes",
-        "url": "https://www.housingwire.com/articles/indiana-housing-zoning-bill/",
-        "what": "Another state vs",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/indiana-housing-zoning-bill/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Redfin’s Most Neighborly Cities of 2026: Salt Lake City, Portland and Kansas City Top the List",
         "url": "https://www.redfin.com/news/most-neighborly-cities-2026/",
         "what": "From Utah to California to North Carolina, Redfin ranked the 10 most neighborly places in the U.S",
@@ -323,6 +305,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "Study shows real estate brokerages are more profitable — and fewer are losing money",
+        "url": "https://www.housingwire.com/articles/brokerage-profitability-nar-commission-data/",
+        "what": "AccountTECH data shows 69.4% of brokerages had positive EBITDA in 2025, up from 55.8% in 2023, defying profit fears.",
+        "numbers": "69.4, 2025,, 55.8, 2023,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/brokerage-profitability-nar-commission-data/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Would CoStar really sell Homes.com? Here’s what analysts say",
+        "url": "https://www.housingwire.com/articles/homes-com-analyst-outlook/",
+        "what": "CoStar rejects calls to divest Homes.com, with analysts citing integration challenges and recent growth momentum.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homes-com-analyst-outlook/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "AI use moves from ‘curiosity’ to ‘capability’ for real estate industry",
         "url": "https://www.housingwire.com/articles/ai-use-moves-from-curiosity-to-capability-for-real-estate-industry/",
