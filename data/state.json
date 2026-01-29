@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-29 10:58 UTC",
+  "as_of": "2026-01-29 11:45 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Zillow to launch new marketing campaign during Grammy awards",
+      "link": "https://www.housingwire.com/articles/zillow-someday-starts-today-campaign/",
+      "published": "Thu, 29 Jan 2026"
+    },
+    {
       "title": "Tapping investments for homeownership down payments",
       "link": "https://www.housingwire.com/articles/tapping-investments-for-homeownership-down-payments/",
       "published": "Thu, 29 Jan 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Jim Park on appraisal workforce shortage and regulatory shifts",
       "link": "https://www.housingwire.com/articles/appraisal-industry-challenges/",
-      "published": "Wed, 28 Jan 2026"
-    },
-    {
-      "title": "Indiana bill targets housing affordability with state zoning changes",
-      "link": "https://www.housingwire.com/articles/indiana-housing-zoning-bill/",
       "published": "Wed, 28 Jan 2026"
     },
     {
@@ -231,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Zillow to launch new marketing campaign during Grammy awards",
+        "url": "https://www.housingwire.com/articles/zillow-someday-starts-today-campaign/",
+        "what": "Zillow’s “Someday Starts Today” campaign debuts at Grammys, aiming to engage consumers at every stage of the home journey.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-someday-starts-today-campaign/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "Louisville, Ky., joins municipalities piloting AI to fast-track permits",
         "url": "https://www.housingwire.com/articles/ai-cities-permitting-housing/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/cardinal-non-delegated-program/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Long & Foster taps Lacey Conway as new president",
-        "url": "https://www.housingwire.com/articles/long-foster-lacey-conway-president/",
-        "what": "Long & Foster appoints Lacey Conway as president, leveraging her Compass and Latter & Blum experience to boost brokerage strategy.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/long-foster-lacey-conway-president/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
