@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-29 04:48 UTC",
+  "as_of": "2026-01-29 05:59 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Foreclosure auction volume reaches highest level since Q2 2020",
+      "link": "https://www.housingwire.com/articles/q4-2025-foreclosure-auctions/",
+      "published": "Thu, 29 Jan 2026"
+    },
+    {
       "title": "Gen X investors are confident, but they often lack formal retirement plans",
       "link": "https://www.housingwire.com/articles/gen-x-investors-retirement-plans/",
       "published": "Wed, 28 Jan 2026"
@@ -162,11 +167,6 @@
     {
       "title": "NAR, .RealEstate helping Realtors build online presence",
       "link": "https://www.housingwire.com/articles/nar-realestate-helping-realtors-build-online-presence/",
-      "published": "Wed, 28 Jan 2026"
-    },
-    {
-      "title": "SoftPro releases FinCEN anti-money laundering data solutions",
-      "link": "https://www.housingwire.com/articles/softpro-releases-fincen-anti-money-laundering-data-solutions/",
       "published": "Wed, 28 Jan 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Foreclosure auction volume reaches highest level since Q2 2020",
+        "url": "https://www.housingwire.com/articles/q4-2025-foreclosure-auctions/",
+        "what": "Foreclosure auction volume rose 48% in Q4 2025, led by Florida, but sales rates fell to a 23-quarter low, Auction.com reported.",
+        "numbers": "48, 4, 2025,, 23",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/q4-2025-foreclosure-auctions/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "With Fed Rate Cuts on Ice, Mortgage Rates Are Unlikely to Move",
         "url": "https://www.redfin.com/news/fed-meeting-rates-unchanged-january/",
         "what": "The Fed held interest rates steady in its meeting on Wednesday, as expected",
@@ -217,15 +226,6 @@
         "what": "The Fed held benchmark rates at a range of 3.5% to 3.75% as inflation stays at 2.7% and job growth slows, with politics in focus.",
         "numbers": "3.5, 3.75, 2.7",
         "justified": "housingwire.com — https://www.housingwire.com/articles/fed-holds-rates-steady/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "What D.R. Horton’s strategy reveals now about new-home demand",
-        "url": "https://www.housingwire.com/articles/dr-horton-affordability-strategy/",
-        "what": "Everybody’s got an opinion on why housing “sucks” right now",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/dr-horton-affordability-strategy/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
