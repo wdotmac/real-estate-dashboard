@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-30 19:01 UTC",
+  "as_of": "2026-01-30 19:46 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "State regulators, consumer groups push back on OCC’s escrow account proposals",
+      "link": "https://www.housingwire.com/articles/occ-escrow-state-pushback/",
+      "published": "Fri, 30 Jan 2026"
+    },
+    {
       "title": "Mortgage defects stabilize as lenders face new quality control challenges",
       "link": "https://www.housingwire.com/articles/mortgage-loan-defects-qc/",
       "published": "Fri, 30 Jan 2026"
@@ -162,11 +167,6 @@
     {
       "title": "President Trump says he wants to keep home prices high, lower borrowing costs",
       "link": "https://www.housingwire.com/articles/president-trump-says-he-wants-to-keep-home-prices-high-lower-borrowing-costs/",
-      "published": "Fri, 30 Jan 2026"
-    },
-    {
-      "title": "Florida judge denies broker’s bid to force NAR, MLSs to enforce their own rules",
-      "link": "https://www.housingwire.com/articles/nar-mls-rule-enforce-lawsuit/",
       "published": "Fri, 30 Jan 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "State regulators, consumer groups push back on OCC’s escrow account proposals",
+        "url": "https://www.housingwire.com/articles/occ-escrow-state-pushback/",
+        "what": "Proposals would expand banks’ authority over escrow accounts and assert that federal law preempts state rules that govern these accounts.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/occ-escrow-state-pushback/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage rate relief under Warsh may prove elusive, experts say",
         "url": "https://www.housingwire.com/articles/warsh-fed-housing-market/",
@@ -293,15 +302,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/pennymac-q4-2025-earnings/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NVR’s Q4 and the value of staying land-light in a headwinds market",
-        "url": "https://www.housingwire.com/articles/nvr-q4-earnings-operational-excellence-headwinds/",
-        "what": "A headwinds-meets-crosswinds housing market buffets homebuilding business leaders as 2026’s spring selling stretch lies just ahead",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nvr-q4-earnings-operational-excellence-headwinds/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "The Single-Family Rental Is On the Decline",
