@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-01-30 19:46 UTC",
+  "as_of": "2026-01-30 20:47 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Christie’s International Real Estate launches Charleston affiliate",
+      "link": "https://www.housingwire.com/articles/christies-charleston-indigooak-launch/",
+      "published": "Fri, 30 Jan 2026"
+    },
+    {
+      "title": "Utah lawmakers target starter homes with lot size reform",
+      "link": "https://www.housingwire.com/articles/utah-housing-affordability-bill/",
+      "published": "Fri, 30 Jan 2026"
+    },
+    {
       "title": "State regulators, consumer groups push back on OCC’s escrow account proposals",
       "link": "https://www.housingwire.com/articles/occ-escrow-state-pushback/",
       "published": "Fri, 30 Jan 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Inside Alex Akel’s strategic bet on a new South Florida master plan",
       "link": "https://www.housingwire.com/articles/luxury-active-adult-port-st-lucie/",
-      "published": "Fri, 30 Jan 2026"
-    },
-    {
-      "title": "Mortgage rate relief under Warsh may prove elusive, experts say",
-      "link": "https://www.housingwire.com/articles/warsh-fed-housing-market/",
-      "published": "Fri, 30 Jan 2026"
-    },
-    {
-      "title": "President Trump says he wants to keep home prices high, lower borrowing costs",
-      "link": "https://www.housingwire.com/articles/president-trump-says-he-wants-to-keep-home-prices-high-lower-borrowing-costs/",
       "published": "Fri, 30 Jan 2026"
     },
     {
@@ -248,15 +248,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Trump to announce new Fed chair Friday, sending the 10-year yield higher",
-        "url": "https://www.housingwire.com/articles/trump-fed-chair-pick/",
-        "what": "The 10-year yield headed higher after Trump said he will name his Federal Reserve chair nominee Friday morning.",
-        "numbers": "10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-fed-chair-pick/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "New Listings Rise For First Time in 2 Months As Lower Mortgage Rates Perk Up Homebuyers",
         "url": "https://www.redfin.com/news/housing-market-update-new-listings-increase-january/",
         "what": "New listings and pending home sales are improving",
@@ -286,20 +277,20 @@
     ],
     "housing": [
       {
+        "title": "Utah lawmakers target starter homes with lot size reform",
+        "url": "https://www.housingwire.com/articles/utah-housing-affordability-bill/",
+        "what": "Utah lawmakers opened their 2026 legislative agenda with a proposal to revive a once-bedrock fixture of the American Dream of homeownership: starter homes",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/utah-housing-affordability-bill/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Mortgage defects stabilize as lenders face new quality control challenges",
         "url": "https://www.housingwire.com/articles/mortgage-loan-defects-qc/",
         "what": "Mortgage defects have stabilized, but staffing changes and tech gaps keep QC and buyback risk high for lenders in 2026.",
         "numbers": "2026.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-loan-defects-qc/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "PennyMac reports Q4 profit of $107M as origination growth offsets MSR runoff",
-        "url": "https://www.housingwire.com/articles/pennymac-q4-2025-earnings/",
-        "what": "PennyMac’s Q4 2025 net income reached $106.8M as higher mortgage production offset servicing income declines from prepayments.",
-        "numbers": "4, 2025, $106.8",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pennymac-q4-2025-earnings/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -323,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Christie’s International Real Estate launches Charleston affiliate",
+        "url": "https://www.housingwire.com/articles/christies-charleston-indigooak-launch/",
+        "what": "Christie’s International Real Estate debuts IndigoOak in Charleston, expanding its South Carolina luxury presence with a new affiliate.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/christies-charleston-indigooak-launch/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "The 8 best real estate CRMs for every budget in 2026",
         "url": "https://www.housingwire.com/articles/best-real-estate-crm/",
