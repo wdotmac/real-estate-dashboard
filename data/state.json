@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-02 11:50 UTC",
+  "as_of": "2026-02-02 13:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Rithm Capital expands partnership with Valon to deploy operating system",
+      "link": "https://www.housingwire.com/articles/rithm-valon-mortgage-servicing/",
+      "published": "Mon, 02 Feb 2026"
+    },
+    {
+      "title": "Flat turnover, high stakes: What real estate agent movement data reveals about brokerage risk",
+      "link": "https://www.housingwire.com/articles/agent-migration-2025-trends/",
+      "published": "Mon, 02 Feb 2026"
+    },
+    {
+      "title": "Canva launches MLS-integrated real estate marketing tools",
+      "link": "https://www.housingwire.com/articles/canva-mls-marketing-tools/",
+      "published": "Mon, 02 Feb 2026"
+    },
+    {
+      "title": "High energy performance lowers mortgage costs for buyers",
+      "link": "https://www.housingwire.com/articles/energy-savings-mortgage-affordability/",
+      "published": "Mon, 02 Feb 2026"
+    },
+    {
       "title": "Comparing RV and manufactured housing data sheds critical light on U.S. affordable housing crisis",
       "link": "https://www.housingwire.com/articles/comparing-rv-and-manufactured-housing-data-sheds-critical-light-on-u-s-affordable-housing-crisis/",
       "published": "Mon, 02 Feb 2026"
@@ -148,26 +168,6 @@
       "title": "Housing demand is still positive even with epic snowstorm",
       "link": "https://www.housingwire.com/articles/housing-market-resilient-2026/",
       "published": "Sun, 01 Feb 2026"
-    },
-    {
-      "title": "WalletHub says these are the best states for retirees in 2026",
-      "link": "https://www.housingwire.com/articles/wallethub-best-states-for-retirees-2026/",
-      "published": "Fri, 30 Jan 2026"
-    },
-    {
-      "title": "House approves funding boost for Social Security Administration",
-      "link": "https://www.housingwire.com/articles/house-funding-boost-social-security/",
-      "published": "Fri, 30 Jan 2026"
-    },
-    {
-      "title": "Austin Niemiec to lead Rocket Pro as Dan Sogorka departs",
-      "link": "https://www.housingwire.com/articles/rocket-pro-mortgage-broker-niemiec-sogorka/",
-      "published": "Fri, 30 Jan 2026"
-    },
-    {
-      "title": "Meritage holds its line as new-home demand turns inelastic",
-      "link": "https://www.housingwire.com/articles/meritage-q4-2025-operational-discipline-analysis/",
-      "published": "Fri, 30 Jan 2026"
     },
     {
       "title": "Homebuyers Are Scoring the Biggest Discounts in 13 Years",
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Flat turnover, high stakes: What real estate agent movement data reveals about brokerage risk",
+        "url": "https://www.housingwire.com/articles/agent-migration-2025-trends/",
+        "what": "Agent turnover reached 6.8% in 2025, with internal transfers showing 24% higher productivity and 89% retention rates.",
+        "numbers": "6.8, 2025,, 24, 89",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/agent-migration-2025-trends/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Homebuyers Are Scoring the Biggest Discounts in 13 Years",
         "url": "https://www.redfin.com/news/homebuyer-discounts-below-list-price-2025/",
         "what": "The typical buyer who scored a home for below the list price in 2025 got a 7.9% discount—the largest since 2012",
@@ -217,15 +226,6 @@
         "what": "Despite a major snowstorm and Fed news, housing data stayed positive as mortgage rates held near 6% and purchase apps rose 18% year over year.",
         "numbers": "6, 18",
         "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-resilient-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "State regulators, consumer groups push back on OCC’s escrow account proposals",
-        "url": "https://www.housingwire.com/articles/occ-escrow-state-pushback/",
-        "what": "Proposals would expand banks’ authority over escrow accounts and assert that federal law preempts state rules that govern these accounts.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/occ-escrow-state-pushback/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -249,6 +249,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Canva launches MLS-integrated real estate marketing tools",
+        "url": "https://www.housingwire.com/articles/canva-mls-marketing-tools/",
+        "what": "Canva’s new Listings feature lets real estate agents pull MLS data into marketing templates and order print materials in one platform.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/canva-mls-marketing-tools/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "High energy performance lowers mortgage costs for buyers",
+        "url": "https://www.housingwire.com/articles/energy-savings-mortgage-affordability/",
+        "what": "When President Donald Trump floated the idea of a 50-year mortgage last November, it ignited a debate over housing affordability",
+        "numbers": "50, $500,000, $165, 30",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/energy-savings-mortgage-affordability/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Comparing RV and manufactured housing data sheds critical light on U.S. affordable housing crisis",
         "url": "https://www.housingwire.com/articles/comparing-rv-and-manufactured-housing-data-sheds-critical-light-on-u-s-affordable-housing-crisis/",
@@ -286,24 +304,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Zillow workforce reduced by 3% amid annual performance reviews",
-        "url": "https://www.housingwire.com/articles/zillow-workforce-cuts/",
-        "what": "Zillow cut roughly 200 employees, or 3% of its workforce, during annual reviews while keeping job postings steady and growing revenue 16%.",
-        "numbers": "200, 3, 16",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-workforce-cuts/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Utah lawmakers target starter homes with lot size reform",
-        "url": "https://www.housingwire.com/articles/utah-housing-affordability-bill/",
-        "what": "Utah lawmakers opened their 2026 legislative agenda with a proposal to revive a once-bedrock fixture of the American Dream of homeownership: starter homes",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/utah-housing-affordability-bill/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "The Single-Family Rental Is On the Decline",
         "url": "https://www.redfin.com/news/rental-housing-multifamily-vs-single-family/",
         "what": "A record 33% of U.S",
@@ -314,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Rithm Capital expands partnership with Valon to deploy operating system",
+        "url": "https://www.housingwire.com/articles/rithm-valon-mortgage-servicing/",
+        "what": "Rithm Capital will use Valon’s AI-native platform to service 4 million loans through Newrez, aiming for lower costs.",
+        "numbers": "4 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rithm-valon-mortgage-servicing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "WalletHub says these are the best states for retirees in 2026",
         "url": "https://www.housingwire.com/articles/wallethub-best-states-for-retirees-2026/",
@@ -338,15 +347,6 @@
         "what": "There’s a version of this market where “buying sales” becomes the default operating system for nearly everyone",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/meritage-q4-2025-operational-discipline-analysis/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Christie’s International Real Estate launches Charleston affiliate",
-        "url": "https://www.housingwire.com/articles/christies-charleston-indigooak-launch/",
-        "what": "Christie’s International Real Estate debuts IndigoOak in Charleston, expanding its South Carolina luxury presence with a new affiliate.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/christies-charleston-indigooak-launch/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
