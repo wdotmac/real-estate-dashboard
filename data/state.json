@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-02-02 17:58 UTC",
+  "as_of": "2026-02-02 23:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.24,
-      "delta_bp_1d": -1.9999999999999574
+      "yield_pct": 4.26,
+      "delta_bp_1d": 1.9999999999999574
     },
     "mortgage_30y": {
       "rate_pct": 6.1,
@@ -140,33 +140,43 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Homebuying power improves as prices cool, inventory expands",
-      "link": "https://www.housingwire.com/articles/homebuying-power-improves-as-prices-cool-inventory-expands/",
+      "title": "MBA’s Broeksmit says credit bureau trade group “gaslit” mortgage industry",
+      "link": "https://www.housingwire.com/articles/mba-single-bureau-credit-pull/",
       "published": "Mon, 02 Feb 2026"
     },
     {
-      "title": "Alanna, Settlor partner on FinCEN compliance options",
-      "link": "https://www.housingwire.com/articles/alanna-settlor-partner-on-fincen-compliance-options/",
+      "title": "Retirement accounts become emergency funds as financial stress rises",
+      "link": "https://www.housingwire.com/articles/retirement-accounts-emergency-funds-financial-stress/",
       "published": "Mon, 02 Feb 2026"
     },
     {
-      "title": "Fifth Third completes Comerica merger, forms ninth-largest U.S. bank",
-      "link": "https://www.housingwire.com/articles/fifth-third-comerica-merger/",
+      "title": "Fewer Medicare Advantage plans could create tough choices for senior homeowners",
+      "link": "https://www.housingwire.com/articles/medicare-advantage-insurer-exits/",
       "published": "Mon, 02 Feb 2026"
     },
     {
-      "title": "Who’s buying real estate brokerages post Compass-Anywhere merger?",
-      "link": "https://www.housingwire.com/articles/real-estate-ma-trends-2026/",
+      "title": "BLS jobs report for January delayed by partial government shutdown",
+      "link": "https://www.housingwire.com/articles/bls-jobs-report-delay/",
       "published": "Mon, 02 Feb 2026"
     },
     {
-      "title": "Better taps Loveen Advani as CFO",
-      "link": "https://www.housingwire.com/articles/better-hires-loveen-advani-cfo/",
+      "title": "Builders FirstSource acquires Pleasant Valley Homes",
+      "link": "https://www.housingwire.com/articles/bfs-modular-homes-acquisition/",
       "published": "Mon, 02 Feb 2026"
     },
     {
-      "title": "Radian completes $1.67B Inigo acquisition",
-      "link": "https://www.housingwire.com/articles/radian-inigo-acquisition/",
+      "title": "Sasha Jackson joins Housing Policy Council as SVP for market structure",
+      "link": "https://www.housingwire.com/articles/housing-policy-council-sasha-jackson/",
+      "published": "Mon, 02 Feb 2026"
+    },
+    {
+      "title": "Redfin Economists’ Weekly Take: Mortgage Rates Tick Up After Strong Manufacturing Report, Key Jobs Data Delayed",
+      "link": "https://www.redfin.com/news/weekly-economic-update-manufacturing-report/",
+      "published": "Mon, 02 Feb 2026"
+    },
+    {
+      "title": "How Climate Disasters Turn Homeowners Into Renters",
+      "link": "https://www.redfin.com/news/climate-disasters-homeowners-renters/",
       "published": "Mon, 02 Feb 2026"
     },
     {
@@ -188,20 +198,46 @@
       "title": "Trump Taps Kevin Warsh to Lead Fed; Mortgage Rates Expected to Stay Steady",
       "link": "https://www.redfin.com/news/trump-taps-kevin-warsh-fed-rates/",
       "published": "Fri, 30 Jan 2026"
-    },
-    {
-      "title": "The Single-Family Rental Is On the Decline",
-      "link": "https://www.redfin.com/news/rental-housing-multifamily-vs-single-family/",
-      "published": "Thu, 29 Jan 2026"
-    },
-    {
-      "title": "New Listings Rise For First Time in 2 Months As Lower Mortgage Rates Perk Up Homebuyers",
-      "link": "https://www.redfin.com/news/housing-market-update-new-listings-increase-january/",
-      "published": "Thu, 29 Jan 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "MBA’s Broeksmit says credit bureau trade group “gaslit” mortgage industry",
+        "url": "https://www.housingwire.com/articles/mba-single-bureau-credit-pull/",
+        "what": "“From a risk management perspective, continuing to require three in-files and three scores on every borrower has long been an anachronism,\" Broeksmit said",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-single-bureau-credit-pull/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "BLS jobs report for January delayed by partial government shutdown",
+        "url": "https://www.housingwire.com/articles/bls-jobs-report-delay/",
+        "what": "The BLS January jobs report is postponed due to a government shutdown, delaying the release of key labor data and economic indicators.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bls-jobs-report-delay/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Sasha Jackson joins Housing Policy Council as SVP for market structure",
+        "url": "https://www.housingwire.com/articles/housing-policy-council-sasha-jackson/",
+        "what": "Sasha Jackson, a former Treasury official, joins the Housing Policy Council as SVP to advance housing finance policy and market transparency.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-policy-council-sasha-jackson/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Redfin Economists’ Weekly Take: Mortgage Rates Tick Up After Strong Manufacturing Report, Key Jobs Data Delayed",
+        "url": "https://www.redfin.com/news/weekly-economic-update-manufacturing-report/",
+        "what": "This Week In A Nutshell: Rates have drifted slightly higher today after a surprisingly strong ISM (Institute for Supply Management) report suggesting more robust manufacturing activity",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-manufacturing-report/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Homebuyers Are Scoring the Biggest Discounts in 13 Years",
         "url": "https://www.redfin.com/news/homebuyer-discounts-below-list-price-2025/",
@@ -219,18 +255,45 @@
         "justified": "redfin.com — https://www.redfin.com/news/trump-taps-kevin-warsh-fed-rates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "New Listings Rise For First Time in 2 Months As Lower Mortgage Rates Perk Up Homebuyers",
-        "url": "https://www.redfin.com/news/housing-market-update-new-listings-increase-january/",
-        "what": "New listings and pending home sales are improving",
-        "numbers": "1, 25,, 2",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-new-listings-increase-january/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Builders FirstSource acquires Pleasant Valley Homes",
+        "url": "https://www.housingwire.com/articles/bfs-modular-homes-acquisition/",
+        "what": "Builders FirstSource continues to expand its offerings with a large volume of small deals over the last few years.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bfs-modular-homes-acquisition/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "How Climate Disasters Turn Homeowners Into Renters",
+        "url": "https://www.redfin.com/news/climate-disasters-homeowners-renters/",
+        "what": "This piece was originally published on Forbes on January 7, 2026",
+        "numbers": "7,, 2026.",
+        "justified": "redfin.com — https://www.redfin.com/news/climate-disasters-homeowners-renters/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Announcing the 2026 TECH100 Real Estate Winners",
+        "url": "https://www.housingwire.com/articles/announcing-the-2026-tech100-real-estate-winners/",
+        "what": "The Tech100 Real Estate Award recognizes the 100 technology companies that are changing the home sales process forever",
+        "numbers": "100",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/announcing-the-2026-tech100-real-estate-winners/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Announcing the 2026 TECH100 Mortgage Winners",
+        "url": "https://www.housingwire.com/articles/announcing-the-2026-tech100-mortgage-winners/",
+        "what": "Tech100 Mortgage recognizes the most innovative and impactful mortgage tech companies in housing.",
+        "numbers": "100",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/announcing-the-2026-tech100-mortgage-winners/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Homebuying power improves as prices cool, inventory expands",
         "url": "https://www.housingwire.com/articles/homebuying-power-improves-as-prices-cool-inventory-expands/",
@@ -239,15 +302,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/homebuying-power-improves-as-prices-cool-inventory-expands/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Xactus acquires Baleen Solutions, expanding mortgage income analysis capabilities",
-        "url": "https://www.housingwire.com/articles/xactus-baleen-income-analysis/",
-        "what": "Xactus acquires Baleen Solutions, adding automated income analysis to Xactus360 for faster, more consistent lender workflows.",
-        "numbers": "360",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/xactus-baleen-income-analysis/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "My Friday Tour of Santa Barbara Listings: A Beach-Access Fixer and a Backyard Pool",
@@ -266,87 +320,33 @@
         "justified": "redfin.com — https://www.redfin.com/news/catherine-ohara-famous-fictional-homes/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The Single-Family Rental Is On the Decline",
-        "url": "https://www.redfin.com/news/rental-housing-multifamily-vs-single-family/",
-        "what": "A record 33% of U.S",
-        "numbers": "33, 31, 2021,, 14, 2011.",
-        "justified": "redfin.com — https://www.redfin.com/news/rental-housing-multifamily-vs-single-family/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       }
     ],
     "notables": [
+      {
+        "title": "Retirement accounts become emergency funds as financial stress rises",
+        "url": "https://www.housingwire.com/articles/retirement-accounts-emergency-funds-financial-stress/",
+        "what": "Surveys show Americans tapping savings accounts meant for later life to cover immediate needs, even as markets reached record highs in 2025.",
+        "numbers": "2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/retirement-accounts-emergency-funds-financial-stress/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Fewer Medicare Advantage plans could create tough choices for senior homeowners",
+        "url": "https://www.housingwire.com/articles/medicare-advantage-insurer-exits/",
+        "what": "Rising health care costs, paired with minimal rate growth for Medicare Advantage plans, could accelerate insurer withdrawals from states and counties nationwide, potentially disrup",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/medicare-advantage-insurer-exits/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Alanna, Settlor partner on FinCEN compliance options",
         "url": "https://www.housingwire.com/articles/alanna-settlor-partner-on-fincen-compliance-options/",
         "what": "Settlor users can directly access Alanna.ai’s communication, digital signing and data collection tools to support new reporting requirements.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/alanna-settlor-partner-on-fincen-compliance-options/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Fifth Third completes Comerica merger, forms ninth-largest U.S. bank",
-        "url": "https://www.housingwire.com/articles/fifth-third-comerica-merger/",
-        "what": "Fifth Third and Comerica have merged, creating the ninth-largest U.S",
-        "numbers": "$294 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fifth-third-comerica-merger/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Who’s buying real estate brokerages post Compass-Anywhere merger?",
-        "url": "https://www.housingwire.com/articles/real-estate-ma-trends-2026/",
-        "what": "In 2026, real estate M&A is marked by increased local deals and cautious national activity, with focus on integration and strategic fit.",
-        "numbers": "2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-ma-trends-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Better taps Loveen Advani as CFO",
-        "url": "https://www.housingwire.com/articles/better-hires-loveen-advani-cfo/",
-        "what": "Better Home & Finance named Loveen Advani as CFO, bringing IPO and capital markets expertise to guide its next growth phase.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-hires-loveen-advani-cfo/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Radian completes $1.67B Inigo acquisition",
-        "url": "https://www.housingwire.com/articles/radian-inigo-acquisition/",
-        "what": "Radian acquired Inigo for $1.67 billion, expanding into global specialty insurance and projecting mid-teens EPS growth in 2026.",
-        "numbers": "$1.67 billion, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/radian-inigo-acquisition/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "René Galvan named CEO of Houston Association of Realtors after Bob Hale retires",
-        "url": "https://www.housingwire.com/articles/houston-realtors-new-ceo-galvan/",
-        "what": "René Galvan becomes CEO of the Houston Association of Realtors, succeeding Bob Hale and focusing on member services amid industry change.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/houston-realtors-new-ceo-galvan/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Pulte sharpens its segmentation focus in a push to resecure margins",
-        "url": "https://www.housingwire.com/articles/pulte-sharpens-its-segmentation-focus-in-a-push-to-resecure-margins/",
-        "what": "PulteGroup reported mixed Q4 2025 results, with revenue and margins down but new orders up 4% year-over-year.",
-        "numbers": "4, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pulte-sharpens-its-segmentation-focus-in-a-push-to-resecure-margins/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "9 warning signs your real estate business is quietly slipping off track",
-        "url": "https://www.housingwire.com/articles/fix-drifting-real-estate-business/",
-        "what": "Nine warning signs can help agents identify when their real estate business is drifting and take corrective action before losses mount.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fix-drifting-real-estate-business/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
