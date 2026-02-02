@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-02 03:19 UTC",
+  "as_of": "2026-02-02 05:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Fri, 30 Jan 2026"
     },
     {
+      "title": "Homebuyers Are Scoring the Biggest Discounts in 13 Years",
+      "link": "https://www.redfin.com/news/homebuyer-discounts-below-list-price-2025/",
+      "published": "Mon, 02 Feb 2026"
+    },
+    {
       "title": "My Friday Tour of Santa Barbara Listings: A Beach-Access Fixer and a Backyard Pool",
       "link": "https://www.redfin.com/news/santa-barbara-listings/",
       "published": "Sat, 31 Jan 2026"
@@ -193,15 +198,19 @@
       "title": "New Listings Rise For First Time in 2 Months As Lower Mortgage Rates Perk Up Homebuyers",
       "link": "https://www.redfin.com/news/housing-market-update-new-listings-increase-january/",
       "published": "Thu, 29 Jan 2026"
-    },
-    {
-      "title": "With Fed Rate Cuts on Ice, Mortgage Rates Are Unlikely to Move",
-      "link": "https://www.redfin.com/news/fed-meeting-rates-unchanged-january/",
-      "published": "Wed, 28 Jan 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Homebuyers Are Scoring the Biggest Discounts in 13 Years",
+        "url": "https://www.redfin.com/news/homebuyer-discounts-below-list-price-2025/",
+        "what": "The typical buyer who scored a home for below the list price in 2025 got a 7.9% discount—the largest since 2012",
+        "numbers": "2025, 7.9, 2012., 1, 4, 10",
+        "justified": "redfin.com — https://www.redfin.com/news/homebuyer-discounts-below-list-price-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Housing demand is still positive even with epic snowstorm",
         "url": "https://www.housingwire.com/articles/housing-market-resilient-2026/",
@@ -235,15 +244,6 @@
         "what": "New listings and pending home sales are improving",
         "numbers": "1, 25,, 2",
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-new-listings-increase-january/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "With Fed Rate Cuts on Ice, Mortgage Rates Are Unlikely to Move",
-        "url": "https://www.redfin.com/news/fed-meeting-rates-unchanged-january/",
-        "what": "The Fed held interest rates steady in its meeting on Wednesday, as expected",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/fed-meeting-rates-unchanged-january/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
