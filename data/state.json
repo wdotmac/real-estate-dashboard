@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-02 17:01 UTC",
+  "as_of": "2026-02-02 17:58 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Homebuying power improves as prices cool, inventory expands",
+      "link": "https://www.housingwire.com/articles/homebuying-power-improves-as-prices-cool-inventory-expands/",
+      "published": "Mon, 02 Feb 2026"
+    },
+    {
+      "title": "Alanna, Settlor partner on FinCEN compliance options",
+      "link": "https://www.housingwire.com/articles/alanna-settlor-partner-on-fincen-compliance-options/",
+      "published": "Mon, 02 Feb 2026"
+    },
+    {
+      "title": "Fifth Third completes Comerica merger, forms ninth-largest U.S. bank",
+      "link": "https://www.housingwire.com/articles/fifth-third-comerica-merger/",
+      "published": "Mon, 02 Feb 2026"
+    },
+    {
+      "title": "Who’s buying real estate brokerages post Compass-Anywhere merger?",
+      "link": "https://www.housingwire.com/articles/real-estate-ma-trends-2026/",
+      "published": "Mon, 02 Feb 2026"
+    },
+    {
       "title": "Better taps Loveen Advani as CFO",
       "link": "https://www.housingwire.com/articles/better-hires-loveen-advani-cfo/",
       "published": "Mon, 02 Feb 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Radian completes $1.67B Inigo acquisition",
       "link": "https://www.housingwire.com/articles/radian-inigo-acquisition/",
-      "published": "Mon, 02 Feb 2026"
-    },
-    {
-      "title": "Xactus acquires Baleen Solutions, expanding mortgage income analysis capabilities",
-      "link": "https://www.housingwire.com/articles/xactus-baleen-income-analysis/",
-      "published": "Mon, 02 Feb 2026"
-    },
-    {
-      "title": "René Galvan named CEO of Houston Association of Realtors after Bob Hale retires",
-      "link": "https://www.housingwire.com/articles/houston-realtors-new-ceo-galvan/",
-      "published": "Mon, 02 Feb 2026"
-    },
-    {
-      "title": "Pulte sharpens its segmentation focus in a push to resecure margins",
-      "link": "https://www.housingwire.com/articles/pulte-sharpens-its-segmentation-focus-in-a-push-to-resecure-margins/",
-      "published": "Mon, 02 Feb 2026"
-    },
-    {
-      "title": "9 warning signs your real estate business is quietly slipping off track",
-      "link": "https://www.housingwire.com/articles/fix-drifting-real-estate-business/",
       "published": "Mon, 02 Feb 2026"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Flat turnover, high stakes: What real estate agent movement data reveals about brokerage risk",
-        "url": "https://www.housingwire.com/articles/agent-migration-2025-trends/",
-        "what": "Agent turnover reached 6.8% in 2025, with internal transfers showing 24% higher productivity and 89% retention rates.",
-        "numbers": "6.8, 2025,, 24, 89",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/agent-migration-2025-trends/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Homebuyers Are Scoring the Biggest Discounts in 13 Years",
         "url": "https://www.redfin.com/news/homebuyer-discounts-below-list-price-2025/",
         "what": "The typical buyer who scored a home for below the list price in 2025 got a 7.9% discount—the largest since 2012",
@@ -241,29 +232,20 @@
     ],
     "housing": [
       {
+        "title": "Homebuying power improves as prices cool, inventory expands",
+        "url": "https://www.housingwire.com/articles/homebuying-power-improves-as-prices-cool-inventory-expands/",
+        "what": "Nationwide, inventory is up nearly 10% year-over-year, and similar gains are emerging in many local markets.",
+        "numbers": "10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuying-power-improves-as-prices-cool-inventory-expands/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Xactus acquires Baleen Solutions, expanding mortgage income analysis capabilities",
         "url": "https://www.housingwire.com/articles/xactus-baleen-income-analysis/",
         "what": "Xactus acquires Baleen Solutions, adding automated income analysis to Xactus360 for faster, more consistent lender workflows.",
         "numbers": "360",
         "justified": "housingwire.com — https://www.housingwire.com/articles/xactus-baleen-income-analysis/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Canva launches MLS-integrated real estate marketing tools",
-        "url": "https://www.housingwire.com/articles/canva-mls-marketing-tools/",
-        "what": "Canva’s new Listings feature lets real estate agents pull MLS data into marketing templates and order print materials in one platform.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/canva-mls-marketing-tools/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "High energy performance lowers mortgage costs for buyers",
-        "url": "https://www.housingwire.com/articles/energy-savings-mortgage-affordability/",
-        "what": "When President Donald Trump floated the idea of a 50-year mortgage last November, it ignited a debate over housing affordability",
-        "numbers": "50, $500,000, $165, 30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/energy-savings-mortgage-affordability/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -296,6 +278,33 @@
       }
     ],
     "notables": [
+      {
+        "title": "Alanna, Settlor partner on FinCEN compliance options",
+        "url": "https://www.housingwire.com/articles/alanna-settlor-partner-on-fincen-compliance-options/",
+        "what": "Settlor users can directly access Alanna.ai’s communication, digital signing and data collection tools to support new reporting requirements.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/alanna-settlor-partner-on-fincen-compliance-options/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Fifth Third completes Comerica merger, forms ninth-largest U.S. bank",
+        "url": "https://www.housingwire.com/articles/fifth-third-comerica-merger/",
+        "what": "Fifth Third and Comerica have merged, creating the ninth-largest U.S",
+        "numbers": "$294 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fifth-third-comerica-merger/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Who’s buying real estate brokerages post Compass-Anywhere merger?",
+        "url": "https://www.housingwire.com/articles/real-estate-ma-trends-2026/",
+        "what": "In 2026, real estate M&A is marked by increased local deals and cautious national activity, with focus on integration and strategic fit.",
+        "numbers": "2026,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-ma-trends-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Better taps Loveen Advani as CFO",
         "url": "https://www.housingwire.com/articles/better-hires-loveen-advani-cfo/",
@@ -338,15 +347,6 @@
         "what": "Nine warning signs can help agents identify when their real estate business is drifting and take corrective action before losses mount.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/fix-drifting-real-estate-business/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Rithm Capital expands partnership with Valon to deploy operating system",
-        "url": "https://www.housingwire.com/articles/rithm-valon-mortgage-servicing/",
-        "what": "Rithm Capital will use Valon’s AI-native platform to service 4 million loans through Newrez, aiming for lower costs.",
-        "numbers": "4 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rithm-valon-mortgage-servicing/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
