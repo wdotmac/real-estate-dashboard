@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-03 22:50 UTC",
+  "as_of": "2026-02-03 23:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "New app blurs the social media, MLS line",
+      "link": "https://www.housingwire.com/articles/crmls-app-tuesday/",
+      "published": "Tue, 03 Feb 2026"
+    },
+    {
+      "title": "Home equity is still strong despite dipping in Q4 2025",
+      "link": "https://www.housingwire.com/articles/us-home-equity-trends/",
+      "published": "Tue, 03 Feb 2026"
+    },
+    {
       "title": "Bed Bath & Beyond parent eyes mortgages through deals with Figure, Tokens.com",
       "link": "https://www.housingwire.com/articles/bed-bath-beyond-home-loans/",
       "published": "Tue, 03 Feb 2026"
@@ -157,16 +167,6 @@
     {
       "title": "BPC Action presses Congress to advance bipartisan housing bills",
       "link": "https://www.housingwire.com/articles/bipartisan-housing-bills-congress/",
-      "published": "Tue, 03 Feb 2026"
-    },
-    {
-      "title": "Purlin and Final Offer merge to launch unified AI real estate platform",
-      "link": "https://www.housingwire.com/articles/purlin-final-offer-merger/",
-      "published": "Tue, 03 Feb 2026"
-    },
-    {
-      "title": "Will steady mortgage rates calm buyers and sellers this spring?",
-      "link": "https://www.housingwire.com/articles/spring-housing-mortgage-rates/",
       "published": "Tue, 03 Feb 2026"
     },
     {
@@ -232,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "New app blurs the social media, MLS line",
+        "url": "https://www.housingwire.com/articles/crmls-app-tuesday/",
+        "what": "The Tuesday app is intended to simplify how users interact with MLS information",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/crmls-app-tuesday/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Bed Bath & Beyond parent eyes mortgages through deals with Figure, Tokens.com",
         "url": "https://www.housingwire.com/articles/bed-bath-beyond-home-loans/",
         "what": "Bed Bath & Beyond’s parent company has reached an agreement to acquire Tokens.com as part of its plan to launch an investment and personal finance platform, which will also offer h",
@@ -277,15 +286,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Union Home Mortgage names new VP of manufactured, new construction lending",
-        "url": "https://www.housingwire.com/articles/uhm-george-dover-lending/",
-        "what": "George Dover, former Cascade Financial Services president, joins UHM as VP to expand C2P and manufactured housing lending.",
-        "numbers": "2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uhm-george-dover-lending/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Minneapolis Pending Home Sales Dropped Nearly 20% in January, New Listings Fell 5%",
         "url": "https://www.redfin.com/news/minneapolis-housing-market-update/",
         "what": "Local Redfin agents say high costs and frigid weather are the primary reason fewer people are buying and selling homes in Minneapolis",
@@ -324,6 +324,15 @@
     ],
     "notables": [
       {
+        "title": "Home equity is still strong despite dipping in Q4 2025",
+        "url": "https://www.housingwire.com/articles/us-home-equity-trends/",
+        "what": "ATTOM reports U.S",
+        "numbers": "2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/us-home-equity-trends/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Beazer pivots to a mix-shift into higher-margin homes after a Q1 loss",
         "url": "https://www.housingwire.com/articles/beazer-homes-earnings/",
         "what": "Beazer Homes reported a $32.6M loss and 14% gross margin as it pivots to higher-priced, energy-efficient homes for 2026.",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/compass-anywhere-agent-strategies/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Realtor associations add health insurance benefits for members",
-        "url": "https://www.housingwire.com/articles/realtor-health-insurance-benefits/",
-        "what": "Austin and Orlando Realtor associations are partnering with health platforms to offer members new insurance benefits amid industry changes.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realtor-health-insurance-benefits/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
