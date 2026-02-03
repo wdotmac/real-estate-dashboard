@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-03 15:02 UTC",
+  "as_of": "2026-02-03 16:05 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Newrez fuels Rithm Capital’s 2025 profit and servicing growth",
+      "link": "https://www.housingwire.com/articles/rithm-capital-2025-newrez-growth/",
+      "published": "Tue, 03 Feb 2026"
+    },
+    {
+      "title": "Longbridge launches AI voice agents for reverse mortgage servicing",
+      "link": "https://www.housingwire.com/articles/longbridge-ai-reverse-mortgage/",
+      "published": "Tue, 03 Feb 2026"
+    },
+    {
       "title": "Real estate broker trust account violations, DRE enforcement and compliance best practices",
       "link": "https://www.housingwire.com/articles/broker-dre-trust-violations/",
       "published": "Tue, 03 Feb 2026"
@@ -158,16 +168,6 @@
       "title": "SERHANT. names founding agents for Boston expansion",
       "link": "https://www.housingwire.com/articles/serhant-names-founding-agents-for-boston-expansion/",
       "published": "Tue, 03 Feb 2026"
-    },
-    {
-      "title": "Keller Williams settles Batton homebuyer commission lawsuit for $20 million",
-      "link": "https://www.housingwire.com/articles/keller-williams-batton-settlement/",
-      "published": "Tue, 03 Feb 2026"
-    },
-    {
-      "title": "MBA’s Broeksmit says credit bureau trade group “gaslit” mortgage industry",
-      "link": "https://www.housingwire.com/articles/mba-single-bureau-credit-pull/",
-      "published": "Mon, 02 Feb 2026"
     },
     {
       "title": "Luxury Home Prices Keep Climbing Despite Sluggish Demand",
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "BLS jobs report for January delayed by partial government shutdown",
-        "url": "https://www.housingwire.com/articles/bls-jobs-report-delay/",
-        "what": "The BLS January jobs report is postponed due to a government shutdown, delaying the release of key labor data and economic indicators.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bls-jobs-report-delay/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Mortgage Rates Tick Up After Strong Manufacturing Report, Key Jobs Data Delayed",
         "url": "https://www.redfin.com/news/weekly-economic-update-manufacturing-report/",
         "what": "This Week In A Nutshell: Rates have drifted slightly higher today after a surprisingly strong ISM (Institute for Supply Management) report suggesting more robust manufacturing activity",
@@ -240,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Longbridge launches AI voice agents for reverse mortgage servicing",
+        "url": "https://www.housingwire.com/articles/longbridge-ai-reverse-mortgage/",
+        "what": "Longbridge Financial introduces AI voice agents for reverse mortgage servicing, expanding 24-7 support and streamlining borrower interactions.",
+        "numbers": "24, 7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/longbridge-ai-reverse-mortgage/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "LPT Realty parent company acquires Humaniz, Reside",
         "url": "https://www.housingwire.com/articles/lpt-realty-humaniz-reside-acquisition/",
@@ -286,15 +286,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Builders FirstSource acquires Pleasant Valley Homes",
-        "url": "https://www.housingwire.com/articles/bfs-modular-homes-acquisition/",
-        "what": "Builders FirstSource continues to expand its offerings with a large volume of small deals over the last few years.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bfs-modular-homes-acquisition/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "How Climate Disasters Turn Homeowners Into Renters",
         "url": "https://www.redfin.com/news/climate-disasters-homeowners-renters/",
         "what": "This piece was originally published on Forbes on January 7, 2026",
@@ -314,6 +305,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Newrez fuels Rithm Capital’s 2025 profit and servicing growth",
+        "url": "https://www.housingwire.com/articles/rithm-capital-2025-newrez-growth/",
+        "what": "Rithm Capital’s 2025 earnings rose to $567.2M as Newrez boosted originations, servicing and non-QM production.",
+        "numbers": "2025, $567.2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rithm-capital-2025-newrez-growth/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Real estate broker trust account violations, DRE enforcement and compliance best practices",
         "url": "https://www.housingwire.com/articles/broker-dre-trust-violations/",
