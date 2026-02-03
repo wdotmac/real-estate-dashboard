@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-03 17:11 UTC",
+  "as_of": "2026-02-03 18:07 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Union Home Mortgage names new VP of manufactured, new construction lending",
+      "link": "https://www.housingwire.com/articles/uhm-george-dover-lending/",
+      "published": "Tue, 03 Feb 2026"
+    },
+    {
+      "title": "HECM issuance rises to $563M in January as endorsements lag",
+      "link": "https://www.housingwire.com/articles/hmbs-issuance-january-2026/",
+      "published": "Tue, 03 Feb 2026"
+    },
+    {
+      "title": "PennyMac under scrutiny as stock drops 33% post-earnings",
+      "link": "https://www.housingwire.com/articles/pennymac-shareholder-investigation-earnings/",
+      "published": "Tue, 03 Feb 2026"
+    },
+    {
       "title": "Housing Policy Council: FHFA pushed new credit model despite GSE resistance",
       "link": "https://www.housingwire.com/articles/gse-vantagescore-bi-merge/",
       "published": "Tue, 03 Feb 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Emigrant Bank’s 15-year dispute against jury award ends at the Supreme Court",
       "link": "https://www.housingwire.com/articles/emigrant-banks-15-year-dispute-against-jury-award-ends-at-the-supreme-court/",
-      "published": "Tue, 03 Feb 2026"
-    },
-    {
-      "title": "How to host a virtual open house in today’s real estate market",
-      "link": "https://www.housingwire.com/articles/virtual-open-house/",
-      "published": "Tue, 03 Feb 2026"
-    },
-    {
-      "title": "Newrez fuels Rithm Capital’s 2025 profit and servicing growth",
-      "link": "https://www.housingwire.com/articles/rithm-capital-2025-newrez-growth/",
-      "published": "Tue, 03 Feb 2026"
-    },
-    {
-      "title": "Longbridge launches AI voice agents for reverse mortgage servicing",
-      "link": "https://www.housingwire.com/articles/longbridge-ai-reverse-mortgage/",
       "published": "Tue, 03 Feb 2026"
     },
     {
@@ -232,6 +232,24 @@
     ],
     "housing": [
       {
+        "title": "Union Home Mortgage names new VP of manufactured, new construction lending",
+        "url": "https://www.housingwire.com/articles/uhm-george-dover-lending/",
+        "what": "George Dover, former Cascade Financial Services president, joins UHM as VP to expand C2P and manufactured housing lending.",
+        "numbers": "2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uhm-george-dover-lending/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "HECM issuance rises to $563M in January as endorsements lag",
+        "url": "https://www.housingwire.com/articles/hmbs-issuance-january-2026/",
+        "what": "HECM mortgage-backed securities issuance hit $563M in January, up from December, but HECM endorsements fell 13.1% year over year.",
+        "numbers": "$563, 13.1",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hmbs-issuance-january-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "NAVICA, Restb.ai partner on AI-powered MLS listings",
         "url": "https://www.housingwire.com/articles/navica-restb-ai-partner-on-ai-powered-mls-listings/",
         "what": "Restb.ai’s solutions are embedded into NAVICA’s listings",
@@ -268,24 +286,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "LPT Realty parent company acquires Humaniz, Reside",
-        "url": "https://www.housingwire.com/articles/lpt-realty-humaniz-reside-acquisition/",
-        "what": "LPT Aperture Holdings acquired Humaniz.io and Reside, expanding its tech offerings while keeping both platforms brokerage agnostic.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lpt-realty-humaniz-reside-acquisition/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "PulteGroup to divest ICG as factory costs challenge builders",
-        "url": "https://www.housingwire.com/articles/pulte-factory-exit/",
-        "what": "It’s a classic, almost predictable homebuilding “I-told-you-so” moment",
-        "numbers": "4, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pulte-factory-exit/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Luxury Home Prices Keep Climbing Despite Sluggish Demand",
         "url": "https://www.redfin.com/news/luxury-homes-market-q4-2025/",
         "what": "Luxury home prices rose 4.6% in December—more than triple the gain in non luxury prices",
@@ -304,15 +304,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "SERHANT. names founding agents for Boston expansion",
-        "url": "https://www.housingwire.com/articles/serhant-names-founding-agents-for-boston-expansion/",
-        "what": "Founding agents have collective closed sales exceeding $600 million over the past year, according to the company.",
-        "numbers": "$600 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/serhant-names-founding-agents-for-boston-expansion/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "How Climate Disasters Turn Homeowners Into Renters",
         "url": "https://www.redfin.com/news/climate-disasters-homeowners-renters/",
         "what": "This piece was originally published on Forbes on January 7, 2026",
@@ -323,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "PennyMac under scrutiny as stock drops 33% post-earnings",
+        "url": "https://www.housingwire.com/articles/pennymac-shareholder-investigation-earnings/",
+        "what": "PennyMac’s Q4 2025 earnings results missed forecasts, prompting a 33% drop in stock price and a shareholder rights law firm investigation.",
+        "numbers": "4, 2025, 33",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pennymac-shareholder-investigation-earnings/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "How to host a virtual open house in today’s real estate market",
         "url": "https://www.housingwire.com/articles/virtual-open-house/",
