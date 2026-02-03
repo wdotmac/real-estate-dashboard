@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-03 19:13 UTC",
+  "as_of": "2026-02-03 19:53 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mega real estate brokerages raise the stakes in the war for agents",
+      "link": "https://www.housingwire.com/articles/compass-anywhere-agent-strategies/",
+      "published": "Tue, 03 Feb 2026"
+    },
+    {
       "title": "Realtor associations add health insurance benefits for members",
       "link": "https://www.housingwire.com/articles/realtor-health-insurance-benefits/",
       "published": "Tue, 03 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Housing Policy Council: FHFA pushed new credit model despite GSE resistance",
       "link": "https://www.housingwire.com/articles/gse-vantagescore-bi-merge/",
-      "published": "Tue, 03 Feb 2026"
-    },
-    {
-      "title": "NAVICA, Restb.ai partner on AI-powered MLS listings",
-      "link": "https://www.housingwire.com/articles/navica-restb-ai-partner-on-ai-powered-mls-listings/",
       "published": "Tue, 03 Feb 2026"
     },
     {
@@ -277,15 +277,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Longbridge launches AI voice agents for reverse mortgage servicing",
-        "url": "https://www.housingwire.com/articles/longbridge-ai-reverse-mortgage/",
-        "what": "Longbridge Financial introduces AI voice agents for reverse mortgage servicing, expanding 24-7 support and streamlining borrower interactions.",
-        "numbers": "24, 7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/longbridge-ai-reverse-mortgage/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Luxury Home Prices Keep Climbing Despite Sluggish Demand",
         "url": "https://www.redfin.com/news/luxury-homes-market-q4-2025/",
         "what": "Luxury home prices rose 4.6% in December—more than triple the gain in non luxury prices",
@@ -314,6 +305,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Mega real estate brokerages raise the stakes in the war for agents",
+        "url": "https://www.housingwire.com/articles/compass-anywhere-agent-strategies/",
+        "what": "The Compass-Anywhere merger has led to new recruitment and retention strategies among independent brokerages as market share consolidates.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-anywhere-agent-strategies/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Realtor associations add health insurance benefits for members",
         "url": "https://www.housingwire.com/articles/realtor-health-insurance-benefits/",
