@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-03 18:07 UTC",
+  "as_of": "2026-02-03 19:13 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,12 +140,17 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Realtor associations add health insurance benefits for members",
+      "link": "https://www.housingwire.com/articles/realtor-health-insurance-benefits/",
+      "published": "Tue, 03 Feb 2026"
+    },
+    {
       "title": "Union Home Mortgage names new VP of manufactured, new construction lending",
       "link": "https://www.housingwire.com/articles/uhm-george-dover-lending/",
       "published": "Tue, 03 Feb 2026"
     },
     {
-      "title": "HECM issuance rises to $563M in January as endorsements lag",
+      "title": "HMBS issuance rises to $563M in January as HECM endorsements lag",
       "link": "https://www.housingwire.com/articles/hmbs-issuance-january-2026/",
       "published": "Tue, 03 Feb 2026"
     },
@@ -162,11 +167,6 @@
     {
       "title": "NAVICA, Restb.ai partner on AI-powered MLS listings",
       "link": "https://www.housingwire.com/articles/navica-restb-ai-partner-on-ai-powered-mls-listings/",
-      "published": "Tue, 03 Feb 2026"
-    },
-    {
-      "title": "Emigrant Bank’s 15-year dispute against jury award ends at the Supreme Court",
-      "link": "https://www.housingwire.com/articles/emigrant-banks-15-year-dispute-against-jury-award-ends-at-the-supreme-court/",
       "published": "Tue, 03 Feb 2026"
     },
     {
@@ -241,7 +241,7 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "HECM issuance rises to $563M in January as endorsements lag",
+        "title": "HMBS issuance rises to $563M in January as HECM endorsements lag",
         "url": "https://www.housingwire.com/articles/hmbs-issuance-january-2026/",
         "what": "HECM mortgage-backed securities issuance hit $563M in January, up from December, but HECM endorsements fell 13.1% year over year.",
         "numbers": "$563, 13.1",
@@ -315,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "Realtor associations add health insurance benefits for members",
+        "url": "https://www.housingwire.com/articles/realtor-health-insurance-benefits/",
+        "what": "Austin and Orlando Realtor associations are partnering with health platforms to offer members new insurance benefits amid industry changes.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/realtor-health-insurance-benefits/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "PennyMac under scrutiny as stock drops 33% post-earnings",
         "url": "https://www.housingwire.com/articles/pennymac-shareholder-investigation-earnings/",
         "what": "PennyMac’s Q4 2025 earnings results missed forecasts, prompting a 33% drop in stock price and a shareholder rights law firm investigation.",
@@ -338,15 +347,6 @@
         "what": "Rithm Capital’s 2025 earnings rose to $567.2M as Newrez boosted originations, servicing and non-QM production.",
         "numbers": "2025, $567.2",
         "justified": "housingwire.com — https://www.housingwire.com/articles/rithm-capital-2025-newrez-growth/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Real estate broker trust account violations, DRE enforcement and compliance best practices",
-        "url": "https://www.housingwire.com/articles/broker-dre-trust-violations/",
-        "what": "California DRE enforces trust account rules strictly, requiring brokers to document compliance regardless of intent or consumer harm.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/broker-dre-trust-violations/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
