@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-03 11:49 UTC",
+  "as_of": "2026-02-03 13:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "PulteGroup to divest ICG as factory costs challenge builders",
+      "link": "https://www.housingwire.com/articles/pulte-factory-exit/",
+      "published": "Tue, 03 Feb 2026"
+    },
+    {
+      "title": "SERHANT. names founding agents for Boston expansion",
+      "link": "https://www.housingwire.com/articles/serhant-names-founding-agents-for-boston-expansion/",
+      "published": "Tue, 03 Feb 2026"
+    },
+    {
       "title": "Keller Williams settles Batton homebuyer commission lawsuit for $20 million",
       "link": "https://www.housingwire.com/articles/keller-williams-batton-settlement/",
       "published": "Tue, 03 Feb 2026"
@@ -160,14 +170,14 @@
       "published": "Mon, 02 Feb 2026"
     },
     {
-      "title": "BLS jobs report for January delayed by partial government shutdown",
-      "link": "https://www.housingwire.com/articles/bls-jobs-report-delay/",
-      "published": "Mon, 02 Feb 2026"
+      "title": "Luxury Home Prices Keep Climbing Despite Sluggish Demand",
+      "link": "https://www.redfin.com/news/luxury-homes-market-q4-2025/",
+      "published": "Tue, 03 Feb 2026"
     },
     {
-      "title": "Builders FirstSource acquires Pleasant Valley Homes",
-      "link": "https://www.housingwire.com/articles/bfs-modular-homes-acquisition/",
-      "published": "Mon, 02 Feb 2026"
+      "title": "Black Gen Zers and Millennials Are Half As Likely to Own Their Home As White Counterparts",
+      "link": "https://www.redfin.com/news/homeownership-rate-by-race-2025/",
+      "published": "Tue, 03 Feb 2026"
     },
     {
       "title": "Redfin Economists’ Weekly Take: Mortgage Rates Tick Up After Strong Manufacturing Report, Key Jobs Data Delayed",
@@ -188,16 +198,6 @@
       "title": "My Friday Tour of Santa Barbara Listings: A Beach-Access Fixer and a Backyard Pool",
       "link": "https://www.redfin.com/news/santa-barbara-listings/",
       "published": "Sat, 31 Jan 2026"
-    },
-    {
-      "title": "Catherine O’Hara’s Most Famous Fictional Homes",
-      "link": "https://www.redfin.com/news/catherine-ohara-famous-fictional-homes/",
-      "published": "Sat, 31 Jan 2026"
-    },
-    {
-      "title": "Trump Taps Kevin Warsh to Lead Fed; Mortgage Rates Expected to Stay Steady",
-      "link": "https://www.redfin.com/news/trump-taps-kevin-warsh-fed-rates/",
-      "published": "Fri, 30 Jan 2026"
     }
   ],
   "feed_101020": {
@@ -246,18 +246,45 @@
         "justified": "redfin.com — https://www.redfin.com/news/homebuyer-discounts-below-list-price-2025/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Trump Taps Kevin Warsh to Lead Fed; Mortgage Rates Expected to Stay Steady",
-        "url": "https://www.redfin.com/news/trump-taps-kevin-warsh-fed-rates/",
-        "what": "President Trump announced Friday that Kevin Warsh is his choice to succeed Jerome Powell as Fed chair",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/trump-taps-kevin-warsh-fed-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "PulteGroup to divest ICG as factory costs challenge builders",
+        "url": "https://www.housingwire.com/articles/pulte-factory-exit/",
+        "what": "It’s a classic, almost predictable homebuilding “I-told-you-so” moment",
+        "numbers": "4, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pulte-factory-exit/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Luxury Home Prices Keep Climbing Despite Sluggish Demand",
+        "url": "https://www.redfin.com/news/luxury-homes-market-q4-2025/",
+        "what": "Luxury home prices rose 4.6% in December—more than triple the gain in non luxury prices",
+        "numbers": "4.6, 1.1",
+        "justified": "redfin.com — https://www.redfin.com/news/luxury-homes-market-q4-2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Black Gen Zers and Millennials Are Half As Likely to Own Their Home As White Counterparts",
+        "url": "https://www.redfin.com/news/homeownership-rate-by-race-2025/",
+        "what": "Just 14% of Black Gen Zers and 32% of Black millennials own their home, roughly half the rate of white Gen Zers and millennials",
+        "numbers": "14, 32",
+        "justified": "redfin.com — https://www.redfin.com/news/homeownership-rate-by-race-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "SERHANT. names founding agents for Boston expansion",
+        "url": "https://www.housingwire.com/articles/serhant-names-founding-agents-for-boston-expansion/",
+        "what": "Founding agents have collective closed sales exceeding $600 million over the past year, according to the company.",
+        "numbers": "$600 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/serhant-names-founding-agents-for-boston-expansion/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Builders FirstSource acquires Pleasant Valley Homes",
         "url": "https://www.housingwire.com/articles/bfs-modular-homes-acquisition/",
@@ -286,24 +313,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Announcing the 2026 TECH100 Mortgage Winners",
-        "url": "https://www.housingwire.com/articles/announcing-the-2026-tech100-mortgage-winners/",
-        "what": "Tech100 Mortgage recognizes the most innovative and impactful mortgage tech companies in housing.",
-        "numbers": "100",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/announcing-the-2026-tech100-mortgage-winners/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Homebuying power improves as prices cool, inventory expands",
-        "url": "https://www.housingwire.com/articles/homebuying-power-improves-as-prices-cool-inventory-expands/",
-        "what": "Nationwide, inventory is up nearly 10% year-over-year, and similar gains are emerging in many local markets.",
-        "numbers": "10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuying-power-improves-as-prices-cool-inventory-expands/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
         "title": "My Friday Tour of Santa Barbara Listings: A Beach-Access Fixer and a Backyard Pool",
         "url": "https://www.redfin.com/news/santa-barbara-listings/",
         "what": "I spent part of this sunny Santa Barbara Friday touring two new listings: One in my neighborhood, and one 10 minutes down the road–which, as locals know, is just about the maximum distance we’re willing to drive to do anything",
@@ -311,15 +320,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/santa-barbara-listings/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Catherine O’Hara’s Most Famous Fictional Homes",
-        "url": "https://www.redfin.com/news/catherine-ohara-famous-fictional-homes/",
-        "what": "The legendary “Schitt’s Creek” actress passed away on Friday, leaving behind a legacy of wit, sincerity, and deep sense of home",
-        "numbers": "71,",
-        "justified": "redfin.com — https://www.redfin.com/news/catherine-ohara-famous-fictional-homes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
