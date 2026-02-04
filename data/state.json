@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-04 19:08 UTC",
+  "as_of": "2026-02-04 19:51 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "What’s fueling the mortgage M&A wave creating mega-lenders?",
+      "link": "https://www.housingwire.com/articles/mortgage-mergers-and-acquisitions-mega-lenders/",
+      "published": "Wed, 04 Feb 2026"
+    },
+    {
       "title": "National housing market steady as regional gaps widen",
       "link": "https://www.housingwire.com/articles/national-housing-market-steady-as-regional-gaps-widen/",
       "published": "Wed, 04 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "7 phases to boost real estate referrals through client experience",
       "link": "https://www.housingwire.com/articles/seven-phases-real-estate-referrals/",
-      "published": "Wed, 04 Feb 2026"
-    },
-    {
-      "title": "Miami home on Billionaire’s Row looks to set record with 50% daily price hikes",
-      "link": "https://www.housingwire.com/articles/miami-home-50-percent-price-hikes/",
       "published": "Wed, 04 Feb 2026"
     },
     {
@@ -213,6 +213,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "What’s fueling the mortgage M&A wave creating mega-lenders?",
+        "url": "https://www.housingwire.com/articles/mortgage-mergers-and-acquisitions-mega-lenders/",
+        "what": "Bayview Asset Management has acquired Guild Mortgage, highlighting a trend of consolidation among mortgage lenders and servicers.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-mergers-and-acquisitions-mega-lenders/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "National housing market steady as regional gaps widen",
         "url": "https://www.housingwire.com/articles/national-housing-market-steady-as-regional-gaps-widen/",
@@ -266,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/short-term-rentals-are-breaking-the-appraisal-playbook-lenders-cant-afford-to-ignore-it/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "New app blurs the social media, MLS line",
-        "url": "https://www.housingwire.com/articles/crmls-app-tuesday/",
-        "what": "The Tuesday app is intended to simplify how users interact with MLS information",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/crmls-app-tuesday/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Minneapolis Pending Home Sales Dropped Nearly 20% in January, New Listings Fell 5%",
