@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-04 15:00 UTC",
+  "as_of": "2026-02-04 16:00 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Miami home on Billionaire’s Row looks to set record with 50% daily price hikes",
+      "link": "https://www.housingwire.com/articles/miami-home-50-percent-price-hikes/",
+      "published": "Wed, 04 Feb 2026"
+    },
+    {
       "title": "America’s fragmented land registries are fueling fraud — and the costs are rising",
       "link": "https://www.housingwire.com/articles/americas-fragmented-land-registries-are-fueling-fraud-and-the-costs-are-rising/",
       "published": "Wed, 04 Feb 2026"
@@ -165,9 +170,9 @@
       "published": "Tue, 03 Feb 2026"
     },
     {
-      "title": "Bed Bath & Beyond parent eyes mortgages through deals with Figure, Tokens.com",
-      "link": "https://www.housingwire.com/articles/bed-bath-beyond-home-loans/",
-      "published": "Tue, 03 Feb 2026"
+      "title": "The Great American Home Search: Redfin’s Big Game Debut Kicks Off a Scavenger Hunt for $1 Million Home",
+      "link": "https://www.redfin.com/news/announcing-great-american-home-search/",
+      "published": "Wed, 04 Feb 2026"
     },
     {
       "title": "Minneapolis Pending Home Sales Dropped Nearly 20% in January, New Listings Fell 5%",
@@ -193,11 +198,6 @@
       "title": "How Climate Disasters Turn Homeowners Into Renters",
       "link": "https://www.redfin.com/news/climate-disasters-homeowners-renters/",
       "published": "Mon, 02 Feb 2026"
-    },
-    {
-      "title": "Homebuyers Are Scoring the Biggest Discounts in 13 Years",
-      "link": "https://www.redfin.com/news/homebuyer-discounts-below-list-price-2025/",
-      "published": "Mon, 02 Feb 2026"
     }
   ],
   "feed_101020": {
@@ -210,18 +210,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-manufacturing-report/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Homebuyers Are Scoring the Biggest Discounts in 13 Years",
-        "url": "https://www.redfin.com/news/homebuyer-discounts-below-list-price-2025/",
-        "what": "The typical buyer who scored a home for below the list price in 2025 got a 7.9% discount—the largest since 2012",
-        "numbers": "2025, 7.9, 2012., 1, 4, 10",
-        "justified": "redfin.com — https://www.redfin.com/news/homebuyer-discounts-below-list-price-2025/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "housing": [
+      {
+        "title": "The Great American Home Search: Redfin’s Big Game Debut Kicks Off a Scavenger Hunt for $1 Million Home",
+        "url": "https://www.redfin.com/news/announcing-great-american-home-search/",
+        "what": "Download the Redfin app now to prepare for a search that starts at the Big Game and spans the country to win a million-dollar home Redfin today announced The Great American Home Search",
+        "numbers": "$1 Million",
+        "justified": "redfin.com — https://www.redfin.com/news/announcing-great-american-home-search/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "Tim Reilly on twelve years of SFR: Building the infrastructure behind institutional housing",
         "url": "https://www.housingwire.com/articles/tim-reilly-on-twelve-years-of-sfr-building-the-infrastructure-behind-institutional-housing/",
@@ -277,15 +277,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Purlin and Final Offer merge to launch unified AI real estate platform",
-        "url": "https://www.housingwire.com/articles/purlin-final-offer-merger/",
-        "what": "Purlin and Final Offer merged to form an AI platform uniting real estate, mortgage and title, serving 35,000 agents and 15 million consumers.",
-        "numbers": "35,000, 15 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/purlin-final-offer-merger/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Minneapolis Pending Home Sales Dropped Nearly 20% in January, New Listings Fell 5%",
         "url": "https://www.redfin.com/news/minneapolis-housing-market-update/",
         "what": "Local Redfin agents say high costs and frigid weather are the primary reason fewer people are buying and selling homes in Minneapolis",
@@ -314,6 +305,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Miami home on Billionaire’s Row looks to set record with 50% daily price hikes",
+        "url": "https://www.housingwire.com/articles/miami-home-50-percent-price-hikes/",
+        "what": "A Miami luxury home’s price is raised 50% each business day, reaching $288 million and setting a new U.S",
+        "numbers": "50, $288 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/miami-home-50-percent-price-hikes/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "America’s fragmented land registries are fueling fraud — and the costs are rising",
         "url": "https://www.housingwire.com/articles/americas-fragmented-land-registries-are-fueling-fraud-and-the-costs-are-rising/",
