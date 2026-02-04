@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-04 19:51 UTC",
+  "as_of": "2026-02-04 20:51 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Out-of-pocket health care costs eat up retirees’ income",
+      "link": "https://www.housingwire.com/articles/out-of-pocket-health-care-costs-retirement/",
+      "published": "Wed, 04 Feb 2026"
+    },
+    {
       "title": "What’s fueling the mortgage M&A wave creating mega-lenders?",
       "link": "https://www.housingwire.com/articles/mortgage-mergers-and-acquisitions-mega-lenders/",
       "published": "Wed, 04 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Mortgage applications drop 8.9% as snowstorm freezes homebuyer demand",
       "link": "https://www.housingwire.com/articles/mortgage-applications-drop/",
-      "published": "Wed, 04 Feb 2026"
-    },
-    {
-      "title": "7 phases to boost real estate referrals through client experience",
-      "link": "https://www.housingwire.com/articles/seven-phases-real-estate-referrals/",
       "published": "Wed, 04 Feb 2026"
     },
     {
@@ -268,15 +268,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Short-term rentals are breaking the appraisal playbook. Lenders can’t afford to ignore it",
-        "url": "https://www.housingwire.com/articles/short-term-rentals-are-breaking-the-appraisal-playbook-lenders-cant-afford-to-ignore-it/",
-        "what": "Short-term rentals behave like operating businesses, not long-term rentals",
-        "numbers": "1007",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/short-term-rentals-are-breaking-the-appraisal-playbook-lenders-cant-afford-to-ignore-it/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
         "title": "Minneapolis Pending Home Sales Dropped Nearly 20% in January, New Listings Fell 5%",
         "url": "https://www.redfin.com/news/minneapolis-housing-market-update/",
         "what": "Local Redfin agents say high costs and frigid weather are the primary reason fewer people are buying and selling homes in Minneapolis",
@@ -302,9 +293,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/homeownership-rate-by-race-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "How Climate Disasters Turn Homeowners Into Renters",
+        "url": "https://www.redfin.com/news/climate-disasters-homeowners-renters/",
+        "what": "This piece was originally published on Forbes on January 7, 2026",
+        "numbers": "7,, 2026.",
+        "justified": "redfin.com — https://www.redfin.com/news/climate-disasters-homeowners-renters/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       }
     ],
     "notables": [
+      {
+        "title": "Out-of-pocket health care costs eat up retirees’ income",
+        "url": "https://www.housingwire.com/articles/out-of-pocket-health-care-costs-retirement/",
+        "what": "Out-of-pocket health care costs continue to take a sizable bite out of retirees’ finances",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/out-of-pocket-health-care-costs-retirement/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "CEO Ryan Schneider exits as Compass finalizes Anywhere Real Estate deal",
         "url": "https://www.housingwire.com/articles/compass-anywhere-ceo-exit/",
