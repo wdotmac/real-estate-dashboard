@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-04 18:02 UTC",
+  "as_of": "2026-02-04 19:08 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "National housing market steady as regional gaps widen",
+      "link": "https://www.housingwire.com/articles/national-housing-market-steady-as-regional-gaps-widen/",
+      "published": "Wed, 04 Feb 2026"
+    },
+    {
+      "title": "Atlas Real Estate Partners unveils small-balance lending platform to serve RTL market",
+      "link": "https://www.housingwire.com/articles/atlas-a4-credit-partners-launch/",
+      "published": "Wed, 04 Feb 2026"
+    },
+    {
       "title": "CEO Ryan Schneider exits as Compass finalizes Anywhere Real Estate deal",
       "link": "https://www.housingwire.com/articles/compass-anywhere-ceo-exit/",
       "published": "Wed, 04 Feb 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Miami home on Billionaire’s Row looks to set record with 50% daily price hikes",
       "link": "https://www.housingwire.com/articles/miami-home-50-percent-price-hikes/",
-      "published": "Wed, 04 Feb 2026"
-    },
-    {
-      "title": "America’s fragmented land registries are fueling fraud — and the costs are rising",
-      "link": "https://www.housingwire.com/articles/americas-fragmented-land-registries-are-fueling-fraud-and-the-costs-are-rising/",
-      "published": "Wed, 04 Feb 2026"
-    },
-    {
-      "title": "Tim Reilly on twelve years of SFR: Building the infrastructure behind institutional housing",
-      "link": "https://www.housingwire.com/articles/tim-reilly-on-twelve-years-of-sfr-building-the-infrastructure-behind-institutional-housing/",
       "published": "Wed, 04 Feb 2026"
     },
     {
@@ -214,6 +214,24 @@
     ],
     "housing": [
       {
+        "title": "National housing market steady as regional gaps widen",
+        "url": "https://www.housingwire.com/articles/national-housing-market-steady-as-regional-gaps-widen/",
+        "what": "National housing market stable in January 2026, with median price at $419,999 and regional seller leverage diverging.",
+        "numbers": "2026,, $419,999",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/national-housing-market-steady-as-regional-gaps-widen/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Atlas Real Estate Partners unveils small-balance lending platform to serve RTL market",
+        "url": "https://www.housingwire.com/articles/atlas-a4-credit-partners-launch/",
+        "what": "New York-based Atlas Real Estate Partners this week announced the launch of A4 Credit Partners, a small-balance mortgage lending platform targeting credit opportunities within the",
+        "numbers": "4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/atlas-a4-credit-partners-launch/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage applications drop 8.9% as snowstorm freezes homebuyer demand",
         "url": "https://www.housingwire.com/articles/mortgage-applications-drop/",
         "what": "Mortgage applications fell 8.9% last week, with purchase activity down 14% and the refinance share rising to 57.1% of total applications.",
@@ -259,15 +277,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Bed Bath & Beyond parent eyes mortgages through deals with Figure, Tokens.com",
-        "url": "https://www.housingwire.com/articles/bed-bath-beyond-home-loans/",
-        "what": "Bed Bath & Beyond’s parent company has reached an agreement to acquire Tokens.com as part of its plan to launch an investment and personal finance platform, which will also offer h",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bed-bath-beyond-home-loans/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Minneapolis Pending Home Sales Dropped Nearly 20% in January, New Listings Fell 5%",
         "url": "https://www.redfin.com/news/minneapolis-housing-market-update/",
         "what": "Local Redfin agents say high costs and frigid weather are the primary reason fewer people are buying and selling homes in Minneapolis",
@@ -293,15 +302,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/homeownership-rate-by-race-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "How Climate Disasters Turn Homeowners Into Renters",
-        "url": "https://www.redfin.com/news/climate-disasters-homeowners-renters/",
-        "what": "This piece was originally published on Forbes on January 7, 2026",
-        "numbers": "7,, 2026.",
-        "justified": "redfin.com — https://www.redfin.com/news/climate-disasters-homeowners-renters/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       }
     ],
     "notables": [
@@ -338,15 +338,6 @@
         "what": "The American real estate ecosystem remains a patchwork",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/americas-fragmented-land-registries-are-fueling-fraud-and-the-costs-are-rising/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Home equity is still strong despite dipping in Q4 2025",
-        "url": "https://www.housingwire.com/articles/us-home-equity-trends/",
-        "what": "ATTOM reports U.S",
-        "numbers": "2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/us-home-equity-trends/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
