@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-05 07:16 UTC",
+  "as_of": "2026-02-05 09:02 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Are you selling the rate or building relationships?",
+      "link": "https://www.housingwire.com/articles/are-you-selling-the-rate-or-building-relationships/",
+      "published": "Thu, 05 Feb 2026"
+    },
+    {
       "title": "Washington seeks to reset ground-floor retail rules for residential buildings",
       "link": "https://www.housingwire.com/articles/washington-ground-floor-mandates/",
       "published": "Wed, 04 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "More activist investors push CoStar to exit Homes.com business",
       "link": "https://www.housingwire.com/articles/costar-divest-shutdown-homes/",
-      "published": "Wed, 04 Feb 2026"
-    },
-    {
-      "title": "Out-of-pocket health care costs eat up retirees’ income",
-      "link": "https://www.housingwire.com/articles/out-of-pocket-health-care-costs-retirement/",
       "published": "Wed, 04 Feb 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Are you selling the rate or building relationships?",
+        "url": "https://www.housingwire.com/articles/are-you-selling-the-rate-or-building-relationships/",
+        "what": "For more than 25 years, I’ve heard loan officers complain that their rates aren’t competitive",
+        "numbers": "25",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/are-you-selling-the-rate-or-building-relationships/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Redfin Economists’ Weekly Take: Mortgage Rates Tick Up After Strong Manufacturing Report, Key Jobs Data Delayed",
         "url": "https://www.redfin.com/news/weekly-economic-update-manufacturing-report/",
@@ -338,15 +347,6 @@
         "what": "Out-of-pocket health care costs continue to take a sizable bite out of retirees’ finances",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/out-of-pocket-health-care-costs-retirement/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CEO Ryan Schneider exits as Compass finalizes Anywhere Real Estate deal",
-        "url": "https://www.housingwire.com/articles/compass-anywhere-ceo-exit/",
-        "what": "Compass finalized its $1.6B acquisition of Anywhere, with CEO Ryan Schneider and CTO Rudy Wolfs departing per merger terms.",
-        "numbers": "$1.6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-anywhere-ceo-exit/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
