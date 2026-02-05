@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-05 13:39 UTC",
+  "as_of": "2026-02-05 15:03 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "HighTechLending hires two industry veterans to expand home equity platform",
+      "link": "https://www.housingwire.com/articles/hightechlending-home-equity-hires-growth/",
+      "published": "Thu, 05 Feb 2026"
+    },
+    {
+      "title": "For BHGRE Gary Greene’s CEO Mark Woodroof, Compass acquisition reinforces an agile growth model",
+      "link": "https://www.housingwire.com/articles/for-bhgre-gary-greenes-ceo-mark-woodroof-compass-acquisition-reinforces-an-agile-growth-model/",
+      "published": "Thu, 05 Feb 2026"
+    },
+    {
+      "title": "Planet, Goosehead launch home insurance partnership",
+      "link": "https://www.housingwire.com/articles/planet-goosehead-insurance-partnership/",
+      "published": "Thu, 05 Feb 2026"
+    },
+    {
+      "title": "Prosperity Home Mortgage teams with Foyer on homebuyer savings platform",
+      "link": "https://www.housingwire.com/articles/foyer-prosperity-homebuyer-savings/",
+      "published": "Thu, 05 Feb 2026"
+    },
+    {
       "title": "Are you selling the rate or building relationships?",
       "link": "https://www.housingwire.com/articles/are-you-selling-the-rate-or-building-relationships/",
       "published": "Thu, 05 Feb 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Washington seeks to reset ground-floor retail rules for residential buildings",
       "link": "https://www.housingwire.com/articles/washington-ground-floor-mandates/",
-      "published": "Wed, 04 Feb 2026"
-    },
-    {
-      "title": "Long & Foster’s next chapter: Lacey Conway eyes growth, capture and consolidation",
-      "link": "https://www.housingwire.com/articles/lacey-conway-long-foster/",
-      "published": "Wed, 04 Feb 2026"
-    },
-    {
-      "title": "The best offense is a leaner, meaner next drive: Century’s playbook",
-      "link": "https://www.housingwire.com/articles/century-defense-playbook-q4-2025/",
-      "published": "Wed, 04 Feb 2026"
-    },
-    {
-      "title": "Georgia legislation would curb HOA foreclosures as senior fights loss of his house",
-      "link": "https://www.housingwire.com/articles/georgia-lawmakers-hoa-foreclosures/",
-      "published": "Wed, 04 Feb 2026"
-    },
-    {
-      "title": "More activist investors push CoStar to exit Homes.com business",
-      "link": "https://www.housingwire.com/articles/costar-divest-shutdown-homes/",
       "published": "Wed, 04 Feb 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "HighTechLending hires two industry veterans to expand home equity platform",
+        "url": "https://www.housingwire.com/articles/hightechlending-home-equity-hires-growth/",
+        "what": "HighTechLending has hired Gina Donaldson and David Yslas as account executives from First Tech Federal Credit Union to grow its home equity line of credit (HELOC) platform.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hightechlending-home-equity-hires-growth/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Are you selling the rate or building relationships?",
         "url": "https://www.housingwire.com/articles/are-you-selling-the-rate-or-building-relationships/",
         "what": "For more than 25 years, I’ve heard loan officers complain that their rates aren’t competitive",
@@ -213,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Prosperity Home Mortgage teams with Foyer on homebuyer savings platform",
+        "url": "https://www.housingwire.com/articles/foyer-prosperity-homebuyer-savings/",
+        "what": "Foyer and Prosperity Home Mortgage announced a national partnership to provide savings and credit tools for early-stage homebuyers",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/foyer-prosperity-homebuyer-savings/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Austin, TX—Once Among the Nation’s Hottest Housing Markets—Is Now the Slowest",
         "url": "https://www.redfin.com/news/austin-texas-slowest-housing-market/",
@@ -250,33 +268,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "What’s fueling the mortgage M&A wave creating mega-lenders?",
-        "url": "https://www.housingwire.com/articles/mortgage-mergers-and-acquisitions-mega-lenders/",
-        "what": "Bayview Asset Management has acquired Guild Mortgage, highlighting a trend of consolidation among mortgage lenders and servicers.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-mergers-and-acquisitions-mega-lenders/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "National housing market steady as regional gaps widen",
-        "url": "https://www.housingwire.com/articles/national-housing-market-steady-as-regional-gaps-widen/",
-        "what": "National housing market stable in January 2026, with median price at $419,999 and regional seller leverage diverging.",
-        "numbers": "2026,, $419,999",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/national-housing-market-steady-as-regional-gaps-widen/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Atlas Real Estate Partners unveils small-balance lending platform to serve RTL market",
-        "url": "https://www.housingwire.com/articles/atlas-a4-credit-partners-launch/",
-        "what": "New York-based Atlas Real Estate Partners this week announced the launch of A4 Credit Partners, a small-balance mortgage lending platform targeting credit opportunities within the",
-        "numbers": "4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/atlas-a4-credit-partners-launch/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "The Great American Home Search: Redfin’s Big Game Debut Kicks Off a Scavenger Hunt for $1 Million Home",
         "url": "https://www.redfin.com/news/announcing-great-american-home-search/",
         "what": "Download the Redfin app now to prepare for a search that starts at the Big Game and spans the country to win a million-dollar home Redfin today announced The Great American Home Search",
@@ -302,9 +293,36 @@
         "justified": "redfin.com — https://www.redfin.com/news/luxury-homes-market-q4-2025/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Black Gen Zers and Millennials Are Half As Likely to Own Their Home As White Counterparts",
+        "url": "https://www.redfin.com/news/homeownership-rate-by-race-2025/",
+        "what": "Just 14% of Black Gen Zers and 32% of Black millennials own their home, roughly half the rate of white Gen Zers and millennials",
+        "numbers": "14, 32",
+        "justified": "redfin.com — https://www.redfin.com/news/homeownership-rate-by-race-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
+      {
+        "title": "For BHGRE Gary Greene’s CEO Mark Woodroof, Compass acquisition reinforces an agile growth model",
+        "url": "https://www.housingwire.com/articles/for-bhgre-gary-greenes-ceo-mark-woodroof-compass-acquisition-reinforces-an-agile-growth-model/",
+        "what": "While the Compass name carries significant weight, BHGRE's CEO says the acquisition has not immediately changed recruiting dynamics.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/for-bhgre-gary-greenes-ceo-mark-woodroof-compass-acquisition-reinforces-an-agile-growth-model/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Planet, Goosehead launch home insurance partnership",
+        "url": "https://www.housingwire.com/articles/planet-goosehead-insurance-partnership/",
+        "what": "The partnership will allow Planet customers who are preparing to close on a home or reviewing existing coverage to connect with licensed insurance agents to compare policy options",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/planet-goosehead-insurance-partnership/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Long & Foster’s next chapter: Lacey Conway eyes growth, capture and consolidation",
         "url": "https://www.housingwire.com/articles/lacey-conway-long-foster/",
@@ -329,15 +347,6 @@
         "what": "Activist investors call for CoStar to sell or close Homes.com, citing $11B in value destruction and weak results.",
         "numbers": "$11",
         "justified": "housingwire.com — https://www.housingwire.com/articles/costar-divest-shutdown-homes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Out-of-pocket health care costs eat up retirees’ income",
-        "url": "https://www.housingwire.com/articles/out-of-pocket-health-care-costs-retirement/",
-        "what": "Out-of-pocket health care costs continue to take a sizable bite out of retirees’ finances",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/out-of-pocket-health-care-costs-retirement/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
