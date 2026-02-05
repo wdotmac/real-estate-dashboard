@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-05 11:50 UTC",
+  "as_of": "2026-02-05 13:39 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,16 @@
       "published": "Wed, 04 Feb 2026"
     },
     {
+      "title": "Austin, TX—Once Among the Nation’s Hottest Housing Markets—Is Now the Slowest",
+      "link": "https://www.redfin.com/news/austin-texas-slowest-housing-market/",
+      "published": "Thu, 05 Feb 2026"
+    },
+    {
+      "title": "2026 Housing Market Mood: Buyers Are Cautious, Sellers Are Showing Up, and Agents See Signs of Busier Spring Ahead",
+      "link": "https://www.redfin.com/news/housing-market-update-2026-housing-market-mood/",
+      "published": "Thu, 05 Feb 2026"
+    },
+    {
       "title": "The Great American Home Search: Redfin’s Big Game Debut Kicks Off a Scavenger Hunt for $1 Million Home",
       "link": "https://www.redfin.com/news/announcing-great-american-home-search/",
       "published": "Wed, 04 Feb 2026"
@@ -188,16 +198,6 @@
       "title": "Black Gen Zers and Millennials Are Half As Likely to Own Their Home As White Counterparts",
       "link": "https://www.redfin.com/news/homeownership-rate-by-race-2025/",
       "published": "Tue, 03 Feb 2026"
-    },
-    {
-      "title": "Redfin Economists’ Weekly Take: Mortgage Rates Tick Up After Strong Manufacturing Report, Key Jobs Data Delayed",
-      "link": "https://www.redfin.com/news/weekly-economic-update-manufacturing-report/",
-      "published": "Mon, 02 Feb 2026"
-    },
-    {
-      "title": "How Climate Disasters Turn Homeowners Into Renters",
-      "link": "https://www.redfin.com/news/climate-disasters-homeowners-renters/",
-      "published": "Mon, 02 Feb 2026"
     }
   ],
   "feed_101020": {
@@ -210,18 +210,27 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/are-you-selling-the-rate-or-building-relationships/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Redfin Economists’ Weekly Take: Mortgage Rates Tick Up After Strong Manufacturing Report, Key Jobs Data Delayed",
-        "url": "https://www.redfin.com/news/weekly-economic-update-manufacturing-report/",
-        "what": "This Week In A Nutshell: Rates have drifted slightly higher today after a surprisingly strong ISM (Institute for Supply Management) report suggesting more robust manufacturing activity",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-manufacturing-report/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Austin, TX—Once Among the Nation’s Hottest Housing Markets—Is Now the Slowest",
+        "url": "https://www.redfin.com/news/austin-texas-slowest-housing-market/",
+        "what": "The typical Austin home that went under contract in December spent a record 106 days on the market, compared with 60 days nationwide",
+        "numbers": "106, 60",
+        "justified": "redfin.com — https://www.redfin.com/news/austin-texas-slowest-housing-market/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "2026 Housing Market Mood: Buyers Are Cautious, Sellers Are Showing Up, and Agents See Signs of Busier Spring Ahead",
+        "url": "https://www.redfin.com/news/housing-market-update-2026-housing-market-mood/",
+        "what": "Pending home sales are declining, and the homes that are selling are taking more than two months to find a buyer",
+        "numbers": "2026",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-2026-housing-market-mood/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Washington seeks to reset ground-floor retail rules for residential buildings",
         "url": "https://www.housingwire.com/articles/washington-ground-floor-mandates/",
@@ -293,24 +302,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/luxury-homes-market-q4-2025/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Black Gen Zers and Millennials Are Half As Likely to Own Their Home As White Counterparts",
-        "url": "https://www.redfin.com/news/homeownership-rate-by-race-2025/",
-        "what": "Just 14% of Black Gen Zers and 32% of Black millennials own their home, roughly half the rate of white Gen Zers and millennials",
-        "numbers": "14, 32",
-        "justified": "redfin.com — https://www.redfin.com/news/homeownership-rate-by-race-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "How Climate Disasters Turn Homeowners Into Renters",
-        "url": "https://www.redfin.com/news/climate-disasters-homeowners-renters/",
-        "what": "This piece was originally published on Forbes on January 7, 2026",
-        "numbers": "7,, 2026.",
-        "justified": "redfin.com — https://www.redfin.com/news/climate-disasters-homeowners-renters/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       }
     ],
     "notables": [
