@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-05 15:57 UTC",
+  "as_of": "2026-02-05 17:08 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": -0.9999999999999787
     },
     "mortgage_30y": {
-      "rate_pct": 6.1,
-      "delta_bp_wow": 0.9999999999999787
+      "rate_pct": 6.11,
+      "delta_bp_wow": 1.0000000000000675
     },
     "starts": {
       "level_saar": 1246.0,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Investment, multifamily loans drove mortgage fraud risk in Q4 2025",
+      "link": "https://www.housingwire.com/articles/mortgage-fraud-risk-q4-2025/",
+      "published": "Thu, 05 Feb 2026"
+    },
+    {
+      "title": "Embrace Home Loans expands partnerships with Amalgamated Bank deal",
+      "link": "https://www.housingwire.com/articles/embrace-amalgamated-mortgage-partnership/",
+      "published": "Thu, 05 Feb 2026"
+    },
+    {
       "title": "HighTechLending hires two industry veterans to expand home equity platform",
       "link": "https://www.housingwire.com/articles/hightechlending-home-equity-hires-growth/",
       "published": "Thu, 05 Feb 2026"
@@ -158,16 +168,6 @@
       "title": "Prosperity Home Mortgage teams with Foyer on homebuyer savings platform",
       "link": "https://www.housingwire.com/articles/foyer-prosperity-homebuyer-savings/",
       "published": "Thu, 05 Feb 2026"
-    },
-    {
-      "title": "Are you selling the rate or building relationships?",
-      "link": "https://www.housingwire.com/articles/are-you-selling-the-rate-or-building-relationships/",
-      "published": "Thu, 05 Feb 2026"
-    },
-    {
-      "title": "Washington seeks to reset ground-floor retail rules for residential buildings",
-      "link": "https://www.housingwire.com/articles/washington-ground-floor-mandates/",
-      "published": "Wed, 04 Feb 2026"
     },
     {
       "title": "Austin, TX—Once Among the Nation’s Hottest Housing Markets—Is Now the Slowest",
@@ -222,6 +222,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Investment, multifamily loans drove mortgage fraud risk in Q4 2025",
+        "url": "https://www.housingwire.com/articles/mortgage-fraud-risk-q4-2025/",
+        "what": "Investment and multifamily loans pushed Cotality’s fraud risk index up 1.5% in Q4 2025, with real estate alerts up 8.6% year over year.",
+        "numbers": "1.5, 4, 2025,, 8.6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-fraud-risk-q4-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Embrace Home Loans expands partnerships with Amalgamated Bank deal",
+        "url": "https://www.housingwire.com/articles/embrace-amalgamated-mortgage-partnership/",
+        "what": "Rhode Island–based mortgage lender Embrace Home Loans has struck a deal to provide residential mortgage financing to customers of Amalgamated Bank.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/embrace-amalgamated-mortgage-partnership/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Prosperity Home Mortgage teams with Foyer on homebuyer savings platform",
         "url": "https://www.housingwire.com/articles/foyer-prosperity-homebuyer-savings/",
@@ -293,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/luxury-homes-market-q4-2025/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Black Gen Zers and Millennials Are Half As Likely to Own Their Home As White Counterparts",
-        "url": "https://www.redfin.com/news/homeownership-rate-by-race-2025/",
-        "what": "Just 14% of Black Gen Zers and 32% of Black millennials own their home, roughly half the rate of white Gen Zers and millennials",
-        "numbers": "14, 32",
-        "justified": "redfin.com — https://www.redfin.com/news/homeownership-rate-by-race-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
@@ -329,24 +338,6 @@
         "what": "Lacey Conway joins Long & Foster as president, focusing on growth, partnerships and full-service brokerage.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/lacey-conway-long-foster/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Georgia legislation would curb HOA foreclosures as senior fights loss of his house",
-        "url": "https://www.housingwire.com/articles/georgia-lawmakers-hoa-foreclosures/",
-        "what": "The proposals come amid mounting complaints that say fines and legal fees imposed by HOAs have spiraled into liens and foreclosure threats.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/georgia-lawmakers-hoa-foreclosures/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "More activist investors push CoStar to exit Homes.com business",
-        "url": "https://www.housingwire.com/articles/costar-divest-shutdown-homes/",
-        "what": "Activist investors call for CoStar to sell or close Homes.com, citing $11B in value destruction and weak results.",
-        "numbers": "$11",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-divest-shutdown-homes/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
