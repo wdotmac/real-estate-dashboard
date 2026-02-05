@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-02-05 20:50 UTC",
+  "as_of": "2026-02-05 21:45 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.28,
-      "delta_bp_1d": -0.9999999999999787
+      "yield_pct": 4.29,
+      "delta_bp_1d": 0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.11,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Reverse mortgage line of credit remains underused — but advisers may be receptive",
+      "link": "https://www.housingwire.com/articles/financial-adviser-skepticism-reverse-mortgage/",
+      "published": "Thu, 05 Feb 2026"
+    },
+    {
       "title": "Estimates for insured losses from Winter Storm Fern top $4 billion",
       "link": "https://www.housingwire.com/articles/winter-storm-fern-losses/",
       "published": "Thu, 05 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Advocus National Title expands leadership team",
       "link": "https://www.housingwire.com/articles/advocus-national-title-expands-leadership-team/",
-      "published": "Thu, 05 Feb 2026"
-    },
-    {
-      "title": "Divesting Homes.com would cause ‘irreparable harm’: CoStar",
-      "link": "https://www.housingwire.com/articles/costar-defends-homes-strategy/",
       "published": "Thu, 05 Feb 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [],
     "housing": [
+      {
+        "title": "Reverse mortgage line of credit remains underused — but advisers may be receptive",
+        "url": "https://www.housingwire.com/articles/financial-adviser-skepticism-reverse-mortgage/",
+        "what": "Reverse mortgage lines of credit remain underused in retirement planning as advisers cite risk and perception challenges.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/financial-adviser-skepticism-reverse-mortgage/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Estimates for insured losses from Winter Storm Fern top $4 billion",
         "url": "https://www.housingwire.com/articles/winter-storm-fern-losses/",
@@ -247,15 +256,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/how-builders-are-turning-technology-into-an-adaptability-advantage/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "ICE posts strongest mortgage tech quarter in three years, adds UWM to MSP",
-        "url": "https://www.housingwire.com/articles/ice-mortgage-q4-2025-results/",
-        "what": "ICE Mortgage Technology reported $532 million in Q4 revenue, its best quarter since 2022, driven by Encompass and MERS.",
-        "numbers": "$532 million, 4, 2022,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-mortgage-q4-2025-results/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Austin, TX—Once Among the Nation’s Hottest Housing Markets—Is Now the Slowest",
