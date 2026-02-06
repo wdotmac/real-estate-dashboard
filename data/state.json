@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-02-06 20:50 UTC",
+  "as_of": "2026-02-06 21:45 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.29,
-      "delta_bp_1d": 0.9999999999999787
+      "yield_pct": 4.21,
+      "delta_bp_1d": -8.000000000000007
     },
     "mortgage_30y": {
       "rate_pct": 6.11,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Realtor.com Q2 revenue rises 10% as visitor traffic outpaces rivals",
+      "link": "https://www.housingwire.com/articles/realtor-q2-traffic-revenue-growth/",
+      "published": "Fri, 06 Feb 2026"
+    },
+    {
       "title": "Hanna, Windermere and three more brokerages settle home seller commission lawsuits",
       "link": "https://www.housingwire.com/articles/commission-settlement-final-approval/",
       "published": "Fri, 06 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Redfin rolls out ChatGPT app for real estate searches",
       "link": "https://www.housingwire.com/articles/redfin-chatgpt-home-search/",
-      "published": "Fri, 06 Feb 2026"
-    },
-    {
-      "title": "Foreign investors keep U.S. real estate moving",
-      "link": "https://www.housingwire.com/articles/foreign-investors-us-real-estate/",
       "published": "Fri, 06 Feb 2026"
     },
     {
@@ -222,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Realtor.com Q2 revenue rises 10% as visitor traffic outpaces rivals",
+        "url": "https://www.housingwire.com/articles/realtor-q2-traffic-revenue-growth/",
+        "what": "Realtor.com’s Q2 revenue rose 10% to $143 million as site traffic surged and the firm expanded AI and agent tools.",
+        "numbers": "2, 10, $143 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/realtor-q2-traffic-revenue-growth/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "House scales back proposed VA mortgage fee hike",
         "url": "https://www.housingwire.com/articles/va-mortgage-fee-bill-update/",
@@ -302,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/announcing-great-american-home-search/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Minneapolis Pending Home Sales Dropped Nearly 20% in January, New Listings Fell 5%",
-        "url": "https://www.redfin.com/news/minneapolis-housing-market-update/",
-        "what": "Local Redfin agents say high costs and frigid weather are the primary reason fewer people are buying and selling homes in Minneapolis",
-        "numbers": "19.2, 25,, 50, 20, 5",
-        "justified": "redfin.com — https://www.redfin.com/news/minneapolis-housing-market-update/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
@@ -331,15 +331,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/your-listing-your-lead-accountability/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Brown Harris Stevens names Maggie Ross to lead Brooklyn sales",
-        "url": "https://www.housingwire.com/articles/bhs-maggie-ross-brooklyn/",
-        "what": "Maggie Ross, former Compass broker, will lead Brown Harris Stevens’ four Brooklyn offices as managing director of sales.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bhs-maggie-ross-brooklyn/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
