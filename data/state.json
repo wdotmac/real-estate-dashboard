@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-06 19:07 UTC",
+  "as_of": "2026-02-06 19:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "House scales back proposed VA mortgage fee hike",
+      "link": "https://www.housingwire.com/articles/va-mortgage-fee-bill-update/",
+      "published": "Fri, 06 Feb 2026"
+    },
+    {
       "title": "Restitution checks possible for some reverse mortgage borrowers after CFPB action",
       "link": "https://www.housingwire.com/articles/cfpb-novad-restitution/",
       "published": "Fri, 06 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "‘Your listing, your lead’ isn’t the problem — professionalism is",
       "link": "https://www.housingwire.com/articles/your-listing-your-lead-accountability/",
-      "published": "Fri, 06 Feb 2026"
-    },
-    {
-      "title": "Rocket, Redfin air first joint Super Bowl ad focused on community",
-      "link": "https://www.housingwire.com/articles/rocket-redfin-community-ad/",
       "published": "Fri, 06 Feb 2026"
     },
     {
@@ -219,18 +219,18 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/foreign-investors-us-real-estate/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Shapiro unveils a $1B plan to ‘go big’ on housing and zoning reform",
-        "url": "https://www.housingwire.com/articles/shapiro-unveils-a-1b-plan-to-go-big-on-housing-and-zoning-reform/",
-        "what": "With housing affordability front and center nationally, Democratic Pennsylvania Gov",
-        "numbers": "$1 billion, $53.26 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/shapiro-unveils-a-1b-plan-to-go-big-on-housing-and-zoning-reform/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "housing": [
+      {
+        "title": "House scales back proposed VA mortgage fee hike",
+        "url": "https://www.housingwire.com/articles/va-mortgage-fee-bill-update/",
+        "what": "House lawmakers amend a veterans-related bill to avoid higher VA purchase loan fees while targeting refinance and assumption charges instead.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/va-mortgage-fee-bill-update/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Restitution checks possible for some reverse mortgage borrowers after CFPB action",
         "url": "https://www.housingwire.com/articles/cfpb-novad-restitution/",
@@ -311,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/minneapolis-housing-market-update/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Luxury Home Prices Keep Climbing Despite Sluggish Demand",
-        "url": "https://www.redfin.com/news/luxury-homes-market-q4-2025/",
-        "what": "Luxury home prices rose 4.6% in December—more than triple the gain in non luxury prices",
-        "numbers": "4.6, 1.1",
-        "justified": "redfin.com — https://www.redfin.com/news/luxury-homes-market-q4-2025/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
