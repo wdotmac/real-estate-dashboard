@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-06 23:41 UTC",
+  "as_of": "2026-02-07 02:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Fri, 06 Feb 2026"
     },
     {
+      "title": "Redfin Debuts Its Home Search App in ChatGPT",
+      "link": "https://www.redfin.com/news/redfin-debuts-its-home-search-app-in-chatgpt/",
+      "published": "Fri, 06 Feb 2026"
+    },
+    {
       "title": "Going to the Big Game Could Cost Seattle and Boston Fans the Equivalent of 3 Monthly Mortgage Payments",
       "link": "https://www.redfin.com/news/comparing-costs-big-game-housing/",
       "published": "Fri, 06 Feb 2026"
@@ -193,11 +198,6 @@
       "title": "Minneapolis Pending Home Sales Dropped Nearly 20% in January, New Listings Fell 5%",
       "link": "https://www.redfin.com/news/minneapolis-housing-market-update/",
       "published": "Tue, 03 Feb 2026"
-    },
-    {
-      "title": "Luxury Home Prices Keep Climbing Despite Sluggish Demand",
-      "link": "https://www.redfin.com/news/luxury-homes-market-q4-2025/",
-      "published": "Tue, 03 Feb 2026"
     }
   ],
   "feed_101020": {
@@ -219,9 +219,27 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/foreign-investors-us-real-estate/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Shapiro unveils a $1B plan to ‘go big’ on housing and zoning reform",
+        "url": "https://www.housingwire.com/articles/shapiro-unveils-a-1b-plan-to-go-big-on-housing-and-zoning-reform/",
+        "what": "With housing affordability front and center nationally, Democratic Pennsylvania Gov",
+        "numbers": "$1 billion, $53.26 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/shapiro-unveils-a-1b-plan-to-go-big-on-housing-and-zoning-reform/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "housing": [
+      {
+        "title": "Redfin Debuts Its Home Search App in ChatGPT",
+        "url": "https://www.redfin.com/news/redfin-debuts-its-home-search-app-in-chatgpt/",
+        "what": "Redfin now has an app in ChatGPT that lets users explore home listings, neighborhood information and housing market trends through the widely-used AI product",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/redfin-debuts-its-home-search-app-in-chatgpt/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "A spring selling eve – pre-game – note to homebuilding leaders",
         "url": "https://www.housingwire.com/articles/demand-uncertainty-vs-buyer-confidence-super-bowl-lx/",
@@ -268,6 +286,24 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
+        "title": "Rocket, Redfin air first joint Super Bowl ad focused on community",
+        "url": "https://www.housingwire.com/articles/rocket-redfin-community-ad/",
+        "what": "Rocket and Redfin’s Super Bowl ad explores the impact of moving on families and the importance of neighborly support.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-redfin-community-ad/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Will New York’s manufactured housing law reshape home financing?",
+        "url": "https://www.housingwire.com/articles/ny-manufactured-housing-law/",
+        "what": "New York Gov",
+        "numbers": "11",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ny-manufactured-housing-law/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Going to the Big Game Could Cost Seattle and Boston Fans the Equivalent of 3 Monthly Mortgage Payments",
         "url": "https://www.redfin.com/news/comparing-costs-big-game-housing/",
         "what": "Seattle and Boston fans traveling to this weekend’s football game would spend the equivalent of three months’ worth of mortgage payments",
@@ -284,33 +320,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/austin-texas-slowest-housing-market/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "2026 Housing Market Mood: Buyers Are Cautious, Sellers Are Showing Up, and Agents See Signs of Busier Spring Ahead",
-        "url": "https://www.redfin.com/news/housing-market-update-2026-housing-market-mood/",
-        "what": "Pending home sales are declining, and the homes that are selling are taking more than two months to find a buyer",
-        "numbers": "2026",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-2026-housing-market-mood/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "The Great American Home Search: Redfin’s Big Game Debut Kicks Off a Scavenger Hunt for $1 Million Home",
-        "url": "https://www.redfin.com/news/announcing-great-american-home-search/",
-        "what": "Download the Redfin app now to prepare for a search that starts at the Big Game and spans the country to win a million-dollar home Redfin today announced The Great American Home Search",
-        "numbers": "$1 Million",
-        "justified": "redfin.com — https://www.redfin.com/news/announcing-great-american-home-search/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Minneapolis Pending Home Sales Dropped Nearly 20% in January, New Listings Fell 5%",
-        "url": "https://www.redfin.com/news/minneapolis-housing-market-update/",
-        "what": "Local Redfin agents say high costs and frigid weather are the primary reason fewer people are buying and selling homes in Minneapolis",
-        "numbers": "19.2, 25,, 50, 20, 5",
-        "justified": "redfin.com — https://www.redfin.com/news/minneapolis-housing-market-update/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
@@ -340,6 +349,24 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/your-listing-your-lead-accountability/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Brown Harris Stevens names Maggie Ross to lead Brooklyn sales",
+        "url": "https://www.housingwire.com/articles/bhs-maggie-ross-brooklyn/",
+        "what": "Maggie Ross, former Compass broker, will lead Brown Harris Stevens’ four Brooklyn offices as managing director of sales.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bhs-maggie-ross-brooklyn/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Atlanta’s No. 3 RealTrends Verified small team launches DOSSIER with Side",
+        "url": "https://www.housingwire.com/articles/atlanta-dossier-side-launch/",
+        "what": "Harvin Greene’s team leaves Dorsey Alston to launch DOSSIER with Side, closing $88.8M in 2024 sales volume.",
+        "numbers": "$88.8, 2024",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/atlanta-dossier-side-launch/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
