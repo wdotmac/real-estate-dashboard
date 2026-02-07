@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-07 19:36 UTC",
+  "as_of": "2026-02-07 20:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Why antitrust talk may be a pressure tactic — not a probe —against homebuilders",
+      "link": "https://www.housingwire.com/articles/trump-antitrust-homebuilders-balance-sheets-land-pipelines/",
+      "published": "Sat, 07 Feb 2026"
+    },
+    {
       "title": "Lofty details new agentic AI operating system for real estate agents, brokers",
       "link": "https://www.housingwire.com/articles/lofty-details-new-agentic-ai-operating-system-for-real-estate-agents-brokers/",
       "published": "Fri, 06 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "House scales back proposed VA mortgage fee hike",
       "link": "https://www.housingwire.com/articles/va-mortgage-fee-bill-update/",
-      "published": "Fri, 06 Feb 2026"
-    },
-    {
-      "title": "Restitution checks possible for some reverse mortgage borrowers after CFPB action",
-      "link": "https://www.housingwire.com/articles/cfpb-novad-restitution/",
       "published": "Fri, 06 Feb 2026"
     },
     {
@@ -219,18 +219,18 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/foreign-investors-us-real-estate/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Shapiro unveils a $1B plan to ‘go big’ on housing and zoning reform",
-        "url": "https://www.housingwire.com/articles/shapiro-unveils-a-1b-plan-to-go-big-on-housing-and-zoning-reform/",
-        "what": "With housing affordability front and center nationally, Democratic Pennsylvania Gov",
-        "numbers": "$1 billion, $53.26 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/shapiro-unveils-a-1b-plan-to-go-big-on-housing-and-zoning-reform/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "housing": [
+      {
+        "title": "Why antitrust talk may be a pressure tactic — not a probe —against homebuilders",
+        "url": "https://www.housingwire.com/articles/trump-antitrust-homebuilders-balance-sheets-land-pipelines/",
+        "what": "A Friday-morning news report suggesting that the Trump administration is exploring an antitrust probe into U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-antitrust-homebuilders-balance-sheets-land-pipelines/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Redfin Debuts Its Home Search App in ChatGPT",
         "url": "https://www.redfin.com/news/redfin-debuts-its-home-search-app-in-chatgpt/",
@@ -311,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/comparing-costs-big-game-housing/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Austin, TX—Once Among the Nation’s Hottest Housing Markets—Is Now the Slowest",
-        "url": "https://www.redfin.com/news/austin-texas-slowest-housing-market/",
-        "what": "The typical Austin home that went under contract in December spent a record 106 days on the market, compared with 60 days nationwide",
-        "numbers": "106, 60",
-        "justified": "redfin.com — https://www.redfin.com/news/austin-texas-slowest-housing-market/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
