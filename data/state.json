@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-07 20:44 UTC",
+  "as_of": "2026-02-07 21:41 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Housing inventory and new listings show impact of winter weather",
+      "link": "https://www.housingwire.com/articles/housing-market-snowstorm-impact/",
+      "published": "Sat, 07 Feb 2026"
+    },
+    {
       "title": "Why antitrust talk may be a pressure tactic — not a probe —against homebuilders",
       "link": "https://www.housingwire.com/articles/trump-antitrust-homebuilders-balance-sheets-land-pipelines/",
       "published": "Sat, 07 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Hanna, Windermere and three more brokerages settle home seller commission lawsuits",
       "link": "https://www.housingwire.com/articles/commission-settlement-final-approval/",
-      "published": "Fri, 06 Feb 2026"
-    },
-    {
-      "title": "House scales back proposed VA mortgage fee hike",
-      "link": "https://www.housingwire.com/articles/va-mortgage-fee-bill-update/",
       "published": "Fri, 06 Feb 2026"
     },
     {
@@ -222,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Housing inventory and new listings show impact of winter weather",
+        "url": "https://www.housingwire.com/articles/housing-market-snowstorm-impact/",
+        "what": "Severe winter weather led to a week-over-week decline in housing inventory and new listings, with purchase applications also down.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-snowstorm-impact/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Why antitrust talk may be a pressure tactic — not a probe —against homebuilders",
         "url": "https://www.housingwire.com/articles/trump-antitrust-homebuilders-balance-sheets-land-pipelines/",
@@ -302,15 +311,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/ny-manufactured-housing-law/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Going to the Big Game Could Cost Seattle and Boston Fans the Equivalent of 3 Monthly Mortgage Payments",
-        "url": "https://www.redfin.com/news/comparing-costs-big-game-housing/",
-        "what": "Seattle and Boston fans traveling to this weekend’s football game would spend the equivalent of three months’ worth of mortgage payments",
-        "numbers": "3",
-        "justified": "redfin.com — https://www.redfin.com/news/comparing-costs-big-game-housing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
@@ -347,15 +347,6 @@
         "what": "Maggie Ross, former Compass broker, will lead Brown Harris Stevens’ four Brooklyn offices as managing director of sales.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/bhs-maggie-ross-brooklyn/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Atlanta’s No. 3 RealTrends Verified small team launches DOSSIER with Side",
-        "url": "https://www.housingwire.com/articles/atlanta-dossier-side-launch/",
-        "what": "Harvin Greene’s team leaves Dorsey Alston to launch DOSSIER with Side, closing $88.8M in 2024 sales volume.",
-        "numbers": "$88.8, 2024",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/atlanta-dossier-side-launch/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
