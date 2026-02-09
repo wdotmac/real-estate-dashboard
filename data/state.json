@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-09 16:13 UTC",
+  "as_of": "2026-02-09 17:13 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Zillow and Redfin ordered to produce documents in $100M rental syndication antitrust case",
+      "link": "https://www.housingwire.com/articles/zillow-redfin-antitrust-documents/",
+      "published": "Mon, 09 Feb 2026"
+    },
+    {
+      "title": "The Mortgage Collaborative, MBA partner to expand advocacy efforts",
+      "link": "https://www.housingwire.com/articles/tmc-mba-lender-partnership/",
+      "published": "Mon, 09 Feb 2026"
+    },
+    {
       "title": "Here’s why Camden will exit California as it bets big on the Sun Belt",
       "link": "https://www.housingwire.com/articles/camden-exits-california-markets/",
       "published": "Mon, 09 Feb 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Compass, Assurant partner on home warranty solutions",
       "link": "https://www.housingwire.com/articles/compass-assurant-partner-on-home-warranty-solutions/",
-      "published": "Mon, 09 Feb 2026"
-    },
-    {
-      "title": "ICE: Mortgage affordability at four-year high after rates fell in January",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-refinance-2026/",
-      "published": "Mon, 09 Feb 2026"
-    },
-    {
-      "title": "Smart servicing: Why purpose-built software pays off",
-      "link": "https://www.housingwire.com/articles/smart-servicing-why-purpose-built-software-pays-off/",
       "published": "Mon, 09 Feb 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Zillow and Redfin ordered to produce documents in $100M rental syndication antitrust case",
+        "url": "https://www.housingwire.com/articles/zillow-redfin-antitrust-documents/",
+        "what": "A federal judge ordered Zillow and Redfin to provide internal documents and executive notes in the $100M rental syndication antitrust lawsuit.",
+        "numbers": "$100",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-redfin-antitrust-documents/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "ICE: Mortgage affordability at four-year high after rates fell in January",
         "url": "https://www.housingwire.com/articles/mortgage-rates-refinance-2026/",
         "what": "Mortgage rate declines in early January allowed for refinance opportunities for nearly 5 million borrowers and pushed housing affordability to a four-year high, according to ICE Mo",
@@ -222,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "The Mortgage Collaborative, MBA partner to expand advocacy efforts",
+        "url": "https://www.housingwire.com/articles/tmc-mba-lender-partnership/",
+        "what": "The Mortgage Collaborative and MBA announced a partnership to expand advocacy, education and resources for independent mortgage lenders.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tmc-mba-lender-partnership/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Here’s why Camden will exit California as it bets big on the Sun Belt",
         "url": "https://www.housingwire.com/articles/camden-exits-california-markets/",
@@ -295,20 +313,11 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "House scales back proposed VA mortgage fee hike",
-        "url": "https://www.housingwire.com/articles/va-mortgage-fee-bill-update/",
-        "what": "House lawmakers amend a veterans-related bill to avoid higher VA purchase loan fees while targeting refinance and assumption charges instead.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/va-mortgage-fee-bill-update/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Restitution checks possible for some reverse mortgage borrowers after CFPB action",
-        "url": "https://www.housingwire.com/articles/cfpb-novad-restitution/",
-        "what": "Reverse mortgage borrowers to receive $11.5 million after CFPB found illegal servicing practices by NOVAD and Sutherland.",
-        "numbers": "$11.5 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-novad-restitution/",
+        "title": "Going to the Big Game Could Cost Seattle and Boston Fans the Equivalent of 3 Monthly Mortgage Payments",
+        "url": "https://www.redfin.com/news/comparing-costs-big-game-housing/",
+        "what": "Seattle and Boston fans traveling to this weekend’s football game would spend the equivalent of three months’ worth of mortgage payments",
+        "numbers": "3",
+        "justified": "redfin.com — https://www.redfin.com/news/comparing-costs-big-game-housing/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
