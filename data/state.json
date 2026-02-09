@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-09 18:05 UTC",
+  "as_of": "2026-02-09 19:40 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "NEXA Lending CEO Mike Kortas explains why he’s buying shell companies",
+      "link": "https://www.housingwire.com/articles/nexa-lending-jv-shells/",
+      "published": "Mon, 09 Feb 2026"
+    },
+    {
       "title": "February Demo Day: Blend",
       "link": "https://www.housingwire.com/articles/february-demo-day-blend/",
       "published": "Mon, 09 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Zillow and Redfin ordered to produce documents in $100M rental syndication antitrust case",
       "link": "https://www.housingwire.com/articles/zillow-redfin-antitrust-documents/",
-      "published": "Mon, 09 Feb 2026"
-    },
-    {
-      "title": "The Mortgage Collaborative, MBA partner to expand advocacy efforts",
-      "link": "https://www.housingwire.com/articles/tmc-mba-lender-partnership/",
       "published": "Mon, 09 Feb 2026"
     },
     {
@@ -210,27 +210,18 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-redfin-antitrust-documents/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "ICE: Mortgage affordability at four-year high after rates fell in January",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-refinance-2026/",
-        "what": "Mortgage rate declines in early January allowed for refinance opportunities for nearly 5 million borrowers and pushed housing affordability to a four-year high, according to ICE Mo",
-        "numbers": "5 million, 2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-refinance-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Looming risk for mortgage credit and MBS investors from “Lender Choice”",
-        "url": "https://www.housingwire.com/articles/looming-risk-for-mortgage-credit-and-mbs-investors-from-lender-choice/",
-        "what": "Since 1996 when Freddie Mac introduced the industry to the first automated underwriting system (AUS) for GSE-eligible mortgages, a borrower’s credit score has served as one of the most important predictors of mortgage delinquency",
-        "numbers": "1996",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/looming-risk-for-mortgage-credit-and-mbs-investors-from-lender-choice/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "NEXA Lending CEO Mike Kortas explains why he’s buying shell companies",
+        "url": "https://www.housingwire.com/articles/nexa-lending-jv-shells/",
+        "what": "NEXA Lending CEO Mike Kortas says the acquisition of shell entities is to form JVs with builders, agencies and strategic partners.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nexa-lending-jv-shells/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "February Demo Day: Insellerate’s Aithena",
         "url": "https://www.housingwire.com/articles/february-demo-day-insellerates-aithena/",
@@ -268,33 +259,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Smart servicing: Why purpose-built software pays off",
-        "url": "https://www.housingwire.com/articles/smart-servicing-why-purpose-built-software-pays-off/",
-        "what": "As mortgage volumes rebound, purpose-built servicing software helps lenders retain MSRs, automate compliance, reduce costs and improve borrower experience",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/smart-servicing-why-purpose-built-software-pays-off/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Housing inventory and new listings show impact of winter weather",
-        "url": "https://www.housingwire.com/articles/housing-market-snowstorm-impact/",
-        "what": "Severe winter weather led to a week-over-week decline in housing inventory and new listings, with purchase applications also down.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-snowstorm-impact/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Why antitrust talk may be a pressure tactic — not a probe — against homebuilders",
-        "url": "https://www.housingwire.com/articles/trump-antitrust-homebuilders-balance-sheets-land-pipelines/",
-        "what": "A Friday-morning news report suggesting that the Trump administration is exploring an antitrust probe into U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-antitrust-homebuilders-balance-sheets-land-pipelines/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Debuts Its Home Search App in ChatGPT",
         "url": "https://www.redfin.com/news/redfin-debuts-its-home-search-app-in-chatgpt/",
         "what": "Redfin now has an app in ChatGPT that lets users explore home listings, neighborhood information and housing market trends through the widely-used AI product",
@@ -320,6 +284,24 @@
         "justified": "redfin.com — https://www.redfin.com/news/austin-texas-slowest-housing-market/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "2026 Housing Market Mood: Buyers Are Cautious, Sellers Are Showing Up, and Agents See Signs of Busier Spring Ahead",
+        "url": "https://www.redfin.com/news/housing-market-update-2026-housing-market-mood/",
+        "what": "Pending home sales are declining, and the homes that are selling are taking more than two months to find a buyer",
+        "numbers": "2026",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-2026-housing-market-mood/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "The Great American Home Search: Redfin’s Big Game Debut Kicks Off a Scavenger Hunt for $1 Million Home",
+        "url": "https://www.redfin.com/news/announcing-great-american-home-search/",
+        "what": "Download the Redfin app now to prepare for a search that starts at the Big Game and spans the country to win a million-dollar home Redfin today announced The Great American Home Search",
+        "numbers": "$1 Million",
+        "justified": "redfin.com — https://www.redfin.com/news/announcing-great-american-home-search/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       }
     ],
     "notables": [
@@ -358,15 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/loft47-expands-platform-to-transaction-management-compliance-for-real-estate-brokerages/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Compass, Assurant partner on home warranty solutions",
-        "url": "https://www.housingwire.com/articles/compass-assurant-partner-on-home-warranty-solutions/",
-        "what": "The program is designed to integrate into real estate workflows through an agent-facing portal supported by nationwide service providers.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-assurant-partner-on-home-warranty-solutions/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
