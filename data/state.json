@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-02-09 20:57 UTC",
+  "as_of": "2026-02-09 21:56 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.21,
-      "delta_bp_1d": -8.000000000000007
+      "yield_pct": 4.22,
+      "delta_bp_1d": 0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.11,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Barrier to entry: builders’ first challenge is to work through a glut",
+      "link": "https://www.housingwire.com/articles/texas-home-prices-2026/",
+      "published": "Mon, 09 Feb 2026"
+    },
+    {
       "title": "Single-file credit proposal reignites debate over savings vs risks",
       "link": "https://www.housingwire.com/articles/mortgage-credit-report-clash/",
       "published": "Mon, 09 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "February Demo Day: DigitalTax® Forecasting Insights by Cotality",
       "link": "https://www.housingwire.com/articles/february-demo-day-digitaltax-forecasting-insights-by-cotality/",
-      "published": "Mon, 09 Feb 2026"
-    },
-    {
-      "title": "The ultimate listing appointment checklist for agents (+ tips & scripts)",
-      "link": "https://www.housingwire.com/articles/listing-appointment-checklist/",
       "published": "Mon, 09 Feb 2026"
     },
     {
@@ -214,6 +214,15 @@
     ],
     "housing": [
       {
+        "title": "Barrier to entry: builders’ first challenge is to work through a glut",
+        "url": "https://www.housingwire.com/articles/texas-home-prices-2026/",
+        "what": "Texas home prices fell in 2025 but forecasts show gains in 2026 as builders slow new construction and population growth continues.",
+        "numbers": "2025, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/texas-home-prices-2026/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "NEXA Lending CEO Mike Kortas explains why he’s buying shell companies",
         "url": "https://www.housingwire.com/articles/nexa-lending-jv-shells/",
         "what": "NEXA Lending CEO Mike Kortas says the acquisition of shell entities is to form JVs with builders, agencies and strategic partners.",
@@ -248,15 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/camden-exits-california-markets/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Reverse Mastermind Summit looks to spark an LO renaissance",
-        "url": "https://www.housingwire.com/articles/reverse-mortgage-summit-knoxville/",
-        "what": "The Reverse Mastermind Summit will feature several big-name speakers with deep knowledge of the reverse mortgage space.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-summit-knoxville/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Redfin Debuts Its Home Search App in ChatGPT",
