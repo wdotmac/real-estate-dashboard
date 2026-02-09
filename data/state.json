@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-09 15:10 UTC",
+  "as_of": "2026-02-09 16:13 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Here’s why Camden will exit California as it bets big on the Sun Belt",
+      "link": "https://www.housingwire.com/articles/camden-exits-california-markets/",
+      "published": "Mon, 09 Feb 2026"
+    },
+    {
       "title": "Reverse Mastermind Summit looks to spark an LO renaissance",
       "link": "https://www.housingwire.com/articles/reverse-mortgage-summit-knoxville/",
       "published": "Mon, 09 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Smart servicing: Why purpose-built software pays off",
       "link": "https://www.housingwire.com/articles/smart-servicing-why-purpose-built-software-pays-off/",
-      "published": "Mon, 09 Feb 2026"
-    },
-    {
-      "title": "Looming risk for mortgage credit and MBS investors from “Lender Choice”",
-      "link": "https://www.housingwire.com/articles/looming-risk-for-mortgage-credit-and-mbs-investors-from-lender-choice/",
       "published": "Mon, 09 Feb 2026"
     },
     {
@@ -219,18 +219,18 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/looming-risk-for-mortgage-credit-and-mbs-investors-from-lender-choice/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Judge denies Compass injunction against Zillow listing policy",
-        "url": "https://www.housingwire.com/articles/judge-denies-compass-injunction/",
-        "what": "A federal judge denied Compass’s motion to block Zillow’s listing access policy, allowing enforcement as the antitrust case continues.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/judge-denies-compass-injunction/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Here’s why Camden will exit California as it bets big on the Sun Belt",
+        "url": "https://www.housingwire.com/articles/camden-exits-california-markets/",
+        "what": "Camden Property Trust, one of the nation’s largest apartment real estate investment trusts, has long complained about California’s challenging regulatory environment",
+        "numbers": "2020, 19",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/camden-exits-california-markets/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
       {
         "title": "Reverse Mastermind Summit looks to spark an LO renaissance",
         "url": "https://www.housingwire.com/articles/reverse-mortgage-summit-knoxville/",
@@ -309,15 +309,6 @@
         "what": "Reverse mortgage borrowers to receive $11.5 million after CFPB found illegal servicing practices by NOVAD and Sutherland.",
         "numbers": "$11.5 million",
         "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-novad-restitution/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Going to the Big Game Could Cost Seattle and Boston Fans the Equivalent of 3 Monthly Mortgage Payments",
-        "url": "https://www.redfin.com/news/comparing-costs-big-game-housing/",
-        "what": "Seattle and Boston fans traveling to this weekend’s football game would spend the equivalent of three months’ worth of mortgage payments",
-        "numbers": "3",
-        "justified": "redfin.com — https://www.redfin.com/news/comparing-costs-big-game-housing/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
