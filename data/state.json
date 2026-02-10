@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-02-10 21:00 UTC",
+  "as_of": "2026-02-10 21:59 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
       "yield_pct": 4.22,
-      "delta_bp_1d": 0.9999999999999787
+      "delta_bp_1d": 0.0
     },
     "mortgage_30y": {
       "rate_pct": 6.11,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Pennymac leader on policy shifts to ease homeownership barriers",
+      "link": "https://www.housingwire.com/articles/regulatory-shifts-housing-policy-debate-intensify/",
+      "published": "Tue, 10 Feb 2026"
+    },
+    {
       "title": "Why title integrity needs decentralized governance",
       "link": "https://www.housingwire.com/articles/on-chain-governance-land-records/",
       "published": "Tue, 10 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Figure CEO Michael Tannenbaum on partnering with Bed Bath & Beyond",
       "link": "https://www.housingwire.com/articles/bed-bath-home-loans-figure/",
-      "published": "Tue, 10 Feb 2026"
-    },
-    {
-      "title": "Dono raises $6.5M to expand property records platform",
-      "link": "https://www.housingwire.com/articles/dono-seed-round-property-records-platform-us-expansion/",
       "published": "Tue, 10 Feb 2026"
     },
     {
@@ -222,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Pennymac leader on policy shifts to ease homeownership barriers",
+        "url": "https://www.housingwire.com/articles/regulatory-shifts-housing-policy-debate-intensify/",
+        "what": "As Congress prepares for hearings on mortgage finance and affordability, industry leaders are bracing for months of policy debate.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/regulatory-shifts-housing-policy-debate-intensify/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Barry Habib, Logan Mohtashami say housing market set for pent-up demand surge",
         "url": "https://www.housingwire.com/articles/barry-habib-logan-mohtashami-say-housing-market-set-for-pent-up-demand-surge/",
@@ -338,15 +347,6 @@
         "what": "Shareholder Michael Koblentz claims that Two Harbors submitted “materially incomplete and misleading” information about the transaction’s financial impact in filings with the SEC.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/two-harbors-uwm-sec/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Brokerages look to dismiss Cwynar homebuyer commission lawsuit",
-        "url": "https://www.housingwire.com/articles/cwynar-lawsuit-dismissal-motion/",
-        "what": "The Agency and Realty ONE Group filed to dismiss the Cwynar commission lawsuit, arguing the plaintiffs lack direct payment and standing.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cwynar-lawsuit-dismissal-motion/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
