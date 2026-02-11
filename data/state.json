@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-11 11:57 UTC",
+  "as_of": "2026-02-11 13:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "NYC starts crack-down on landlords with a mountain of violations",
+      "link": "https://www.housingwire.com/articles/new-york-housing-violations/",
+      "published": "Wed, 11 Feb 2026"
+    },
+    {
+      "title": "Reverse mortgage myths persist despite industry education efforts",
+      "link": "https://www.housingwire.com/articles/reverse-mortgage-myths-2026/",
+      "published": "Wed, 11 Feb 2026"
+    },
+    {
       "title": "AI training for loan officers: Why AI proficiency is critical for helping borrowers",
       "link": "https://www.housingwire.com/articles/ai-training-for-loan-officers-why-ai-proficiency-is-critical-for-helping-borrowers/",
       "published": "Wed, 11 Feb 2026"
@@ -160,14 +170,14 @@
       "published": "Tue, 10 Feb 2026"
     },
     {
-      "title": "Why title integrity needs decentralized governance",
-      "link": "https://www.housingwire.com/articles/on-chain-governance-land-records/",
-      "published": "Tue, 10 Feb 2026"
+      "title": "Homebuyers Need to Earn $35,000 More Than Renters to Afford Monthly Payments. That’s the Smallest Gap in 3 Years.",
+      "link": "https://www.redfin.com/news/rent-versus-buy-2026/",
+      "published": "Wed, 11 Feb 2026"
     },
     {
-      "title": "Barry Habib, Logan Mohtashami say housing market set for pent-up demand surge",
-      "link": "https://www.housingwire.com/articles/barry-habib-logan-mohtashami-say-housing-market-set-for-pent-up-demand-surge/",
-      "published": "Tue, 10 Feb 2026"
+      "title": "Affordability Is Improving: Buyers Must Earn $111,000 to Afford the Typical Home, Down 4% From Last Year",
+      "link": "https://www.redfin.com/news/homebuying-affordability-improving-2026/",
+      "published": "Wed, 11 Feb 2026"
     },
     {
       "title": "Redfin Economists’ Weekly Take: Mortgage Rates Are Largely Lateral, All Focus Is on Upcoming Jobs Report",
@@ -188,20 +198,19 @@
       "title": "Austin, TX—Once Among the Nation’s Hottest Housing Markets—Is Now the Slowest",
       "link": "https://www.redfin.com/news/austin-texas-slowest-housing-market/",
       "published": "Thu, 05 Feb 2026"
-    },
-    {
-      "title": "2026 Housing Market Mood: Buyers Are Cautious, Sellers Are Showing Up, and Agents See Signs of Busier Spring Ahead",
-      "link": "https://www.redfin.com/news/housing-market-update-2026-housing-market-mood/",
-      "published": "Thu, 05 Feb 2026"
-    },
-    {
-      "title": "The Great American Home Search: Redfin’s Big Game Debut Kicks Off a Scavenger Hunt for $1 Million Home",
-      "link": "https://www.redfin.com/news/announcing-great-american-home-search/",
-      "published": "Wed, 04 Feb 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Affordability Is Improving: Buyers Must Earn $111,000 to Afford the Typical Home, Down 4% From Last Year",
+        "url": "https://www.redfin.com/news/homebuying-affordability-improving-2026/",
+        "what": "Homebuying affordability is improving nationwide after nearly five years during which it generally worsened",
+        "numbers": "37, 50, 7.4, $111,000, 4",
+        "justified": "redfin.com — https://www.redfin.com/news/homebuying-affordability-improving-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Optimal Blue mortgage data shows 50% refi jump in January as rates dip",
         "url": "https://www.housingwire.com/articles/optimal-blue-january-2026-refi/",
@@ -222,6 +231,33 @@
       }
     ],
     "housing": [
+      {
+        "title": "NYC starts crack-down on landlords with a mountain of violations",
+        "url": "https://www.housingwire.com/articles/new-york-housing-violations/",
+        "what": "New York City’s new mayor, Zohran Mamdani, is pairing a tougher stance on bad landlords with a broader push to make housing safer and more affordable across the five boroughs",
+        "numbers": "250",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-york-housing-violations/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Homebuyers Need to Earn $35,000 More Than Renters to Afford Monthly Payments. That’s the Smallest Gap in 3 Years.",
+        "url": "https://www.redfin.com/news/rent-versus-buy-2026/",
+        "what": "Homebuyers need to earn $111,000 annually to afford the median-priced home, compared with $76,000 for renters",
+        "numbers": "$111,000, $76,000, $86,000., 3, $35,000",
+        "justified": "redfin.com — https://www.redfin.com/news/rent-versus-buy-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Reverse mortgage myths persist despite industry education efforts",
+        "url": "https://www.housingwire.com/articles/reverse-mortgage-myths-2026/",
+        "what": "National Reverse Mortgage Day is an annual tradition to promote consumer awareness of reverse mortgages and their ability to unlock housing wealth for American seniors.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-myths-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "AI training for loan officers: Why AI proficiency is critical for helping borrowers",
         "url": "https://www.housingwire.com/articles/ai-training-for-loan-officers-why-ai-proficiency-is-critical-for-helping-borrowers/",
@@ -284,33 +320,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/redfin-debuts-its-home-search-app-in-chatgpt/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Going to the Big Game Could Cost Seattle and Boston Fans the Equivalent of 3 Monthly Mortgage Payments",
-        "url": "https://www.redfin.com/news/comparing-costs-big-game-housing/",
-        "what": "Seattle and Boston fans traveling to this weekend’s football game would spend the equivalent of three months’ worth of mortgage payments",
-        "numbers": "3",
-        "justified": "redfin.com — https://www.redfin.com/news/comparing-costs-big-game-housing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Austin, TX—Once Among the Nation’s Hottest Housing Markets—Is Now the Slowest",
-        "url": "https://www.redfin.com/news/austin-texas-slowest-housing-market/",
-        "what": "The typical Austin home that went under contract in December spent a record 106 days on the market, compared with 60 days nationwide",
-        "numbers": "106, 60",
-        "justified": "redfin.com — https://www.redfin.com/news/austin-texas-slowest-housing-market/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "2026 Housing Market Mood: Buyers Are Cautious, Sellers Are Showing Up, and Agents See Signs of Busier Spring Ahead",
-        "url": "https://www.redfin.com/news/housing-market-update-2026-housing-market-mood/",
-        "what": "Pending home sales are declining, and the homes that are selling are taking more than two months to find a buyer",
-        "numbers": "2026",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-2026-housing-market-mood/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
@@ -320,24 +329,6 @@
         "what": "On-chain governance protocols can secure U.S",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/on-chain-governance-land-records/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Figure CEO Michael Tannenbaum on partnering with Bed Bath & Beyond",
-        "url": "https://www.housingwire.com/articles/bed-bath-home-loans-figure/",
-        "what": "Figure Technologies will power home loans for Bed Bath & Beyond’s planned finance platform, set to launch in mid-2026.",
-        "numbers": "2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bed-bath-home-loans-figure/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Dono raises $6.5M to expand property records platform",
-        "url": "https://www.housingwire.com/articles/dono-seed-round-property-records-platform-us-expansion/",
-        "what": "Property records platform Dono has raised $6.5 million in a seed round to support geographic expansion and broaden its customer base beyond title insurance.",
-        "numbers": "$6.5 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/dono-seed-round-property-records-platform-us-expansion/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
