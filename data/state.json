@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-11 13:49 UTC",
+  "as_of": "2026-02-11 15:13 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Tue, 10 Feb 2026"
     },
     {
+      "title": "Hot January Jobs Report Will Nudge Mortgage Rates Up Slightly",
+      "link": "https://www.redfin.com/news/hot-january-jobs-report-will-nudge-mortgage-rates-up-slightly/",
+      "published": "Wed, 11 Feb 2026"
+    },
+    {
       "title": "Homebuyers Need to Earn $35,000 More Than Renters to Afford Monthly Payments. That’s the Smallest Gap in 3 Years.",
       "link": "https://www.redfin.com/news/rent-versus-buy-2026/",
       "published": "Wed, 11 Feb 2026"
@@ -193,15 +198,19 @@
       "title": "Going to the Big Game Could Cost Seattle and Boston Fans the Equivalent of 3 Monthly Mortgage Payments",
       "link": "https://www.redfin.com/news/comparing-costs-big-game-housing/",
       "published": "Fri, 06 Feb 2026"
-    },
-    {
-      "title": "Austin, TX—Once Among the Nation’s Hottest Housing Markets—Is Now the Slowest",
-      "link": "https://www.redfin.com/news/austin-texas-slowest-housing-market/",
-      "published": "Thu, 05 Feb 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Hot January Jobs Report Will Nudge Mortgage Rates Up Slightly",
+        "url": "https://www.redfin.com/news/hot-january-jobs-report-will-nudge-mortgage-rates-up-slightly/",
+        "what": "A stronger-than-expected jobs report is likely to push mortgage rates up a bit, but the impact will be small",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/hot-january-jobs-report-will-nudge-mortgage-rates-up-slightly/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Affordability Is Improving: Buyers Must Earn $111,000 to Afford the Typical Home, Down 4% From Last Year",
         "url": "https://www.redfin.com/news/homebuying-affordability-improving-2026/",
