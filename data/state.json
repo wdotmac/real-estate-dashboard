@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-11 18:09 UTC",
+  "as_of": "2026-02-11 19:20 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Colony Ridge settles predatory lending claims for $68M",
+      "link": "https://www.housingwire.com/articles/colony-ridge-68m-settlement/",
+      "published": "Wed, 11 Feb 2026"
+    },
+    {
+      "title": "FirstTeam expands into Arizona with new Scottsdale office",
+      "link": "https://www.housingwire.com/articles/firstteam-arizona-expansion/",
+      "published": "Wed, 11 Feb 2026"
+    },
+    {
+      "title": "Foreclosure filings are on the rise, placing more stress on servicers",
+      "link": "https://www.housingwire.com/articles/foreclosure-filings-january-2026/",
+      "published": "Wed, 11 Feb 2026"
+    },
+    {
       "title": "Housing policy in flux: Federal cuts spur state actions",
       "link": "https://www.housingwire.com/articles/federal-housing-compliance-2026/",
       "published": "Wed, 11 Feb 2026"
@@ -152,21 +167,6 @@
     {
       "title": "YIMBY Law leader cleared of charge she broke California bar rules",
       "link": "https://www.housingwire.com/articles/yimby-law-leader-cleared-of-charge-she-broke-california-bar-rules/",
-      "published": "Wed, 11 Feb 2026"
-    },
-    {
-      "title": "Anywhere Real Estate data breach exposes employee information",
-      "link": "https://www.housingwire.com/articles/anywhere-real-estate-data-breach/",
-      "published": "Wed, 11 Feb 2026"
-    },
-    {
-      "title": "Fannie Mae trims costs, boosts MBS purchases to post $14.4B profit in 2025",
-      "link": "https://www.housingwire.com/articles/fannie-mae-earnings-2025/",
-      "published": "Wed, 11 Feb 2026"
-    },
-    {
-      "title": "Rising Stars Spotlight: William Salus",
-      "link": "https://www.housingwire.com/articles/rising-stars-spotlight-william-salus/",
       "published": "Wed, 11 Feb 2026"
     },
     {
@@ -208,15 +208,6 @@
         "what": "For mortgage lenders seeking certainty in a complex market, clarity remains a key component",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/federal-housing-compliance-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "U.S. labor market gains 130,000 jobs in January as unemployment falls",
-        "url": "https://www.housingwire.com/articles/labor-market-january-2026/",
-        "what": "January saw 130,000 new jobs and a 4.3% unemployment rate, with most gains in health care and construction, BLS data shows.",
-        "numbers": "130,000, 4.3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/labor-market-january-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -286,24 +277,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Sagent names Sridhar Sharma president to accelerate Dara adoption",
-        "url": "https://www.housingwire.com/articles/sagent-sridhar-sharma-president/",
-        "what": "Sagent appoints Sridhar Sharma as president to lead global teams and boost adoption of its Dara mortgage servicing platform.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sagent-sridhar-sharma-president/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NYC starts crackdown on landlords with a mountain of violations",
-        "url": "https://www.housingwire.com/articles/new-york-housing-violations/",
-        "what": "New York City’s new mayor, Zohran Mamdani, is pairing a tougher stance on bad landlords with a broader push to make housing safer and more affordable across the five boroughs",
-        "numbers": "250",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-york-housing-violations/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Homebuyers Need to Earn $35,000 More Than Renters to Afford Monthly Payments. That’s the Smallest Gap in 3 Years.",
         "url": "https://www.redfin.com/news/rent-versus-buy-2026/",
         "what": "Homebuyers need to earn $111,000 annually to afford the median-priced home, compared with $76,000 for renters",
@@ -332,6 +305,33 @@
       }
     ],
     "notables": [
+      {
+        "title": "Colony Ridge settles predatory lending claims for $68M",
+        "url": "https://www.housingwire.com/articles/colony-ridge-68m-settlement/",
+        "what": "Texas-based land developer and lender Colony Ridge Land LLC has agreed to pay $68 million to settle allegations of predatory practices against Hispanic borrowers.",
+        "numbers": "$68 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/colony-ridge-68m-settlement/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "FirstTeam expands into Arizona with new Scottsdale office",
+        "url": "https://www.housingwire.com/articles/firstteam-arizona-expansion/",
+        "what": "FirstTeam opens a Scottsdale office, expanding into Arizona with leadership from Janelle Flaherty and Dan Peden.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/firstteam-arizona-expansion/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Foreclosure filings are on the rise, placing more stress on servicers",
+        "url": "https://www.housingwire.com/articles/foreclosure-filings-january-2026/",
+        "what": "U.S",
+        "numbers": "40,534, 2026,, 32",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/foreclosure-filings-january-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "YIMBY Law leader cleared of charge she broke California bar rules",
         "url": "https://www.housingwire.com/articles/yimby-law-leader-cleared-of-charge-she-broke-california-bar-rules/",
