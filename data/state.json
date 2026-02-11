@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-11 16:17 UTC",
+  "as_of": "2026-02-11 18:09 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Housing policy in flux: Federal cuts spur state actions",
+      "link": "https://www.housingwire.com/articles/federal-housing-compliance-2026/",
+      "published": "Wed, 11 Feb 2026"
+    },
+    {
+      "title": "bevri.ai unveils AI-powered point-of-sale platform",
+      "link": "https://www.housingwire.com/articles/bevri-ai-unveils-ai-powered-point-of-sale-platform/",
+      "published": "Wed, 11 Feb 2026"
+    },
+    {
+      "title": "YIMBY Law leader cleared of charge she broke California bar rules",
+      "link": "https://www.housingwire.com/articles/yimby-law-leader-cleared-of-charge-she-broke-california-bar-rules/",
+      "published": "Wed, 11 Feb 2026"
+    },
+    {
+      "title": "Anywhere Real Estate data breach exposes employee information",
+      "link": "https://www.housingwire.com/articles/anywhere-real-estate-data-breach/",
+      "published": "Wed, 11 Feb 2026"
+    },
+    {
+      "title": "Fannie Mae trims costs, boosts MBS purchases to post $14.4B profit in 2025",
+      "link": "https://www.housingwire.com/articles/fannie-mae-earnings-2025/",
+      "published": "Wed, 11 Feb 2026"
+    },
+    {
       "title": "Rising Stars Spotlight: William Salus",
       "link": "https://www.housingwire.com/articles/rising-stars-spotlight-william-salus/",
-      "published": "Wed, 11 Feb 2026"
-    },
-    {
-      "title": "Mortgage applications dip 0.3% as FHA and ARM shares rise",
-      "link": "https://www.housingwire.com/articles/mortgage-applications-fha-arm/",
-      "published": "Wed, 11 Feb 2026"
-    },
-    {
-      "title": "Sagent names Sridhar Sharma president to accelerate Dara adoption",
-      "link": "https://www.housingwire.com/articles/sagent-sridhar-sharma-president/",
-      "published": "Wed, 11 Feb 2026"
-    },
-    {
-      "title": "U.S. labor market gains 130,000 jobs in January as unemployment falls",
-      "link": "https://www.housingwire.com/articles/labor-market-january-2026/",
-      "published": "Wed, 11 Feb 2026"
-    },
-    {
-      "title": "NYC starts crack-down on landlords with a mountain of violations",
-      "link": "https://www.housingwire.com/articles/new-york-housing-violations/",
-      "published": "Wed, 11 Feb 2026"
-    },
-    {
-      "title": "Reverse mortgage myths persist despite industry education efforts",
-      "link": "https://www.housingwire.com/articles/reverse-mortgage-myths-2026/",
       "published": "Wed, 11 Feb 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Housing policy in flux: Federal cuts spur state actions",
+        "url": "https://www.housingwire.com/articles/federal-housing-compliance-2026/",
+        "what": "For mortgage lenders seeking certainty in a complex market, clarity remains a key component",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/federal-housing-compliance-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "U.S. labor market gains 130,000 jobs in January as unemployment falls",
         "url": "https://www.housingwire.com/articles/labor-market-january-2026/",
@@ -241,6 +250,24 @@
     ],
     "housing": [
       {
+        "title": "bevri.ai unveils AI-powered point-of-sale platform",
+        "url": "https://www.housingwire.com/articles/bevri-ai-unveils-ai-powered-point-of-sale-platform/",
+        "what": "bevri.ai’s agentic AI POS automates 1003 applications, document collection and underwriting for mortgage loan officers.",
+        "numbers": "1003",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bevri-ai-unveils-ai-powered-point-of-sale-platform/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Fannie Mae trims costs, boosts MBS purchases to post $14.4B profit in 2025",
+        "url": "https://www.housingwire.com/articles/fannie-mae-earnings-2025/",
+        "what": "Fannie Mae reported $14.4 billion in profit for 2025, a year in which it provided $409 billion in liquidity to the mortgage market and increased its purchases of mortgage-backed se",
+        "numbers": "$14.4 billion, 2025,, $409 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-mae-earnings-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Rising Stars Spotlight: William Salus",
         "url": "https://www.housingwire.com/articles/rising-stars-spotlight-william-salus/",
         "what": "Since being named a HousingWire Rising Star, William Salus has expanded his leadership role, helping drive enterprise modernization and cross-functional innovation at Opteon.",
@@ -268,7 +295,7 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "NYC starts crack-down on landlords with a mountain of violations",
+        "title": "NYC starts crackdown on landlords with a mountain of violations",
         "url": "https://www.housingwire.com/articles/new-york-housing-violations/",
         "what": "New York City’s new mayor, Zohran Mamdani, is pairing a tougher stance on bad landlords with a broader push to make housing safer and more affordable across the five boroughs",
         "numbers": "250",
@@ -286,51 +313,43 @@
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
-        "title": "Reverse mortgage myths persist despite industry education efforts",
-        "url": "https://www.housingwire.com/articles/reverse-mortgage-myths-2026/",
-        "what": "National Reverse Mortgage Day is an annual tradition to promote consumer awareness of reverse mortgages and their ability to unlock housing wealth for American seniors.",
+        "title": "Redfin Debuts Its Home Search App in ChatGPT",
+        "url": "https://www.redfin.com/news/redfin-debuts-its-home-search-app-in-chatgpt/",
+        "what": "Redfin now has an app in ChatGPT that lets users explore home listings, neighborhood information and housing market trends through the widely-used AI product",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-myths-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "justified": "redfin.com — https://www.redfin.com/news/redfin-debuts-its-home-search-app-in-chatgpt/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "AI training for loan officers: Why AI proficiency is critical for helping borrowers",
-        "url": "https://www.housingwire.com/articles/ai-training-for-loan-officers-why-ai-proficiency-is-critical-for-helping-borrowers/",
-        "what": "Mortgage lending has always been a high-trust profession",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-training-for-loan-officers-why-ai-proficiency-is-critical-for-helping-borrowers/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mutual of Omaha hires veteran Tommy Noyes for reverse wholesale role",
-        "url": "https://www.housingwire.com/articles/tommy-noyes-mutual-omaha/",
-        "what": "Tommy Noyes has joined Mutual of Omaha Mortgage from Liberty Reverse Mortgage as a national wholesale account executive for Mutual's reverse mortgage business.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tommy-noyes-mutual-omaha/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Zillow returns to profitability in 2025 as mortgage and rentals drive growth",
-        "url": "https://www.housingwire.com/articles/zillow-revenue-profit-2025/",
-        "what": "Zillow Group achieved 16% revenue growth and $23 million in net income in 2025, with its mortgage and rental segments leading the gains.",
-        "numbers": "16, $23 million, 2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-revenue-profit-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Pennymac leader on policy shifts to ease homeownership barriers",
-        "url": "https://www.housingwire.com/articles/regulatory-shifts-housing-policy-debate-intensify/",
-        "what": "As Congress prepares for hearings on mortgage finance and affordability, industry leaders are bracing for months of policy debate.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/regulatory-shifts-housing-policy-debate-intensify/",
+        "title": "Going to the Big Game Could Cost Seattle and Boston Fans the Equivalent of 3 Monthly Mortgage Payments",
+        "url": "https://www.redfin.com/news/comparing-costs-big-game-housing/",
+        "what": "Seattle and Boston fans traveling to this weekend’s football game would spend the equivalent of three months’ worth of mortgage payments",
+        "numbers": "3",
+        "justified": "redfin.com — https://www.redfin.com/news/comparing-costs-big-game-housing/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
-    "notables": []
+    "notables": [
+      {
+        "title": "YIMBY Law leader cleared of charge she broke California bar rules",
+        "url": "https://www.housingwire.com/articles/yimby-law-leader-cleared-of-charge-she-broke-california-bar-rules/",
+        "what": "An attempt to disqualify a California “yes in my backyard” advocacy group has failed, quickly putting to rest a complaint that its leader falsely acted as an unlicensed lawyer.​ Af",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/yimby-law-leader-cleared-of-charge-she-broke-california-bar-rules/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Anywhere Real Estate data breach exposes employee information",
+        "url": "https://www.housingwire.com/articles/anywhere-real-estate-data-breach/",
+        "what": "Anywhere Real Estate’s Oracle EBS breach exposed data of 17,429 people, including names and Social Security numbers.",
+        "numbers": "17,429",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/anywhere-real-estate-data-breach/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      }
+    ]
   }
 }
