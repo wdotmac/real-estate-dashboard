@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-12 16:08 UTC",
+  "as_of": "2026-02-12 17:16 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": -5.999999999999961
     },
     "mortgage_30y": {
-      "rate_pct": 6.11,
-      "delta_bp_wow": 1.0000000000000675
+      "rate_pct": 6.09,
+      "delta_bp_wow": -2.000000000000046
     },
     "starts": {
       "level_saar": 1246.0,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "NEXA and Amerifund CEOs lead group acquisition of FSBO.com",
+      "link": "https://www.housingwire.com/articles/fsbo-com-acquisition-platform-upgrade/",
+      "published": "Thu, 12 Feb 2026"
+    },
+    {
+      "title": "Trailblazing MIT team demos 3D-printed, recycled plastic floor truss",
+      "link": "https://www.housingwire.com/articles/mit-3d-printed-housing/",
+      "published": "Thu, 12 Feb 2026"
+    },
+    {
+      "title": "Freddie Mac’s profit falls 10% in 2025 as credit losses rise",
+      "link": "https://www.housingwire.com/articles/freddie-mac-2025-earnings/",
+      "published": "Thu, 12 Feb 2026"
+    },
+    {
       "title": "Existing home sales drop 8.4% in January as winter weather slows market",
       "link": "https://www.housingwire.com/articles/existing-home-sales-january-drop/",
       "published": "Thu, 12 Feb 2026"
@@ -153,21 +168,6 @@
       "title": "What monkeys and Valentine’s Day teach us about trust in real estate",
       "link": "https://www.housingwire.com/articles/what-monkeys-and-valentines-day-teach-us-about-trust-in-real-estate/",
       "published": "Thu, 12 Feb 2026"
-    },
-    {
-      "title": "From policy to practice: AI in the mortgage industry",
-      "link": "https://www.housingwire.com/articles/from-policy-to-practice-ai-in-the-mortgage-industry/",
-      "published": "Thu, 12 Feb 2026"
-    },
-    {
-      "title": "California’s Acacia Village tests offsite infill’s feasibility advantage",
-      "link": "https://www.housingwire.com/articles/offsite-infill-feasibility-santa-rosa/",
-      "published": "Wed, 11 Feb 2026"
-    },
-    {
-      "title": "Consumer group sues Unison, alleging deceptive marketing of ‘no-debt’ home equity investment",
-      "link": "https://www.housingwire.com/articles/unison-consumer-lawsuit/",
-      "published": "Wed, 11 Feb 2026"
     },
     {
       "title": "64% of Single Americans Struggle to Afford Housing, Compared With 39% of Married People",
@@ -232,6 +232,24 @@
     ],
     "housing": [
       {
+        "title": "NEXA and Amerifund CEOs lead group acquisition of FSBO.com",
+        "url": "https://www.housingwire.com/articles/fsbo-com-acquisition-platform-upgrade/",
+        "what": "FSBO.com’s new owners will update the website with AI features and easier contracts for direct home sales.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fsbo-com-acquisition-platform-upgrade/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Trailblazing MIT team demos 3D-printed, recycled plastic floor truss",
+        "url": "https://www.housingwire.com/articles/mit-3d-printed-housing/",
+        "what": "MIT’s 3D-printed recycled plastic trusses could reduce deforestation and offer a scalable solution for global housing needs.",
+        "numbers": "3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mit-3d-printed-housing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Existing home sales drop 8.4% in January as winter weather slows market",
         "url": "https://www.housingwire.com/articles/existing-home-sales-january-drop/",
         "what": "Existing home sales fell 8.4% in January to 3.91 million units as harsh weather and rate uncertainty slowed activity.",
@@ -286,15 +304,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Housing market weathers storm disruption, sets up for spring",
-        "url": "https://www.housingwire.com/articles/snowstorm-housing-market-dip/",
-        "what": "New listings and pending sales dipped in late January, driven by a snowstorm rather than broader housing market trends.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/snowstorm-housing-market-dip/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "Homebuyers Need to Earn $35,000 More Than Renters to Afford Monthly Payments. That’s the Smallest Gap in 3 Years.",
         "url": "https://www.redfin.com/news/rent-versus-buy-2026/",
         "what": "Homebuyers need to earn $111,000 annually to afford the median-priced home, compared with $76,000 for renters",
@@ -305,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Freddie Mac’s profit falls 10% in 2025 as credit losses rise",
+        "url": "https://www.housingwire.com/articles/freddie-mac-2025-earnings/",
+        "what": "Freddie Mac’s 2025 net income dropped 10% to $10.7 billion as credit loss provisions rose and noninterest income fell 55% year over year.",
+        "numbers": "2025, 10, $10.7 billion, 55",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/freddie-mac-2025-earnings/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "What monkeys and Valentine’s Day teach us about trust in real estate",
         "url": "https://www.housingwire.com/articles/what-monkeys-and-valentines-day-teach-us-about-trust-in-real-estate/",
@@ -329,24 +347,6 @@
         "what": "Unison, one of the nation’s leading providers of home equity investments, is facing a lawsuit from the National Association of Consumer Advocates, which alleges the company decepti",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/unison-consumer-lawsuit/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Ken Pozek of Orlando’s The Pozek Group joins Real Brokerage board",
-        "url": "https://www.housingwire.com/articles/real-brokerage-ken-pozek-board/",
-        "what": "Real Brokerage named Ken Pozek to its board, adding an agent-focused leader with 23 years of experience and a top-performing Orlando team.",
-        "numbers": "23",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-brokerage-ken-pozek-board/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "QXO set to acquire Kodiak Building Partners for $2.25 billion",
-        "url": "https://www.housingwire.com/articles/qxo-kodiak-building-partners/",
-        "what": "QXO will acquire Kodiak Building Partners for $2.25B, expanding its reach and signaling more deals in the $800B building products sector.",
-        "numbers": "$2.25, $800",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/qxo-kodiak-building-partners/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
