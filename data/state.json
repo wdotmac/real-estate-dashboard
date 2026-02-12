@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-12 19:20 UTC",
+  "as_of": "2026-02-12 20:51 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Waterstone Mortgage announces leadership promotions across multiple departments",
+      "link": "https://www.housingwire.com/articles/waterstone-mortgage-leadership-promotions/",
+      "published": "Thu, 12 Feb 2026"
+    },
+    {
+      "title": "Court upholds racially targeted SPCP in Washington",
+      "link": "https://www.housingwire.com/articles/washington-spcp-court-ruling/",
+      "published": "Thu, 12 Feb 2026"
+    },
+    {
+      "title": "Arizona Regional MLS CEO Matthew Consalvo plans 2027 exit",
+      "link": "https://www.housingwire.com/articles/armls-ceo-matthew-consalvo-retirement/",
+      "published": "Thu, 12 Feb 2026"
+    },
+    {
       "title": "WFG National Title launches FinCEN reporting solution",
       "link": "https://www.housingwire.com/articles/wfg-national-title-launches-fincen-reporting-solution/",
       "published": "Thu, 12 Feb 2026"
@@ -152,21 +167,6 @@
     {
       "title": "eXp adds RealTrends Verified The Lisa Sevajian Group in Massachusetts",
       "link": "https://www.housingwire.com/articles/exp-adds-realtrends-verified-the-lisa-sevajian-group-in-massachusetts/",
-      "published": "Thu, 12 Feb 2026"
-    },
-    {
-      "title": "Mortgage trade groups urge rollback of proposed VA loan fee hikes",
-      "link": "https://www.housingwire.com/articles/va-mortgage-fee-increases/",
-      "published": "Thu, 12 Feb 2026"
-    },
-    {
-      "title": "Commodity price volatility hits homebuilders as tariffs reshape costs",
-      "link": "https://www.housingwire.com/articles/builder-material-costs-tariffs/",
-      "published": "Thu, 12 Feb 2026"
-    },
-    {
-      "title": "Pennymac’s Kevin Ryan: Cenlar deal is not a ‘backdoor way’ to grow origination",
-      "link": "https://www.housingwire.com/articles/pennymac-buys-cenlar/",
       "published": "Thu, 12 Feb 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Court upholds racially targeted SPCP in Washington",
+        "url": "https://www.housingwire.com/articles/washington-spcp-court-ruling/",
+        "what": "A federal judge this week refused to block a special purpose credit program (SPCP) designed to reduce the racial homeownership gap across Washington state.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/washington-spcp-court-ruling/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "WFG National Title launches FinCEN reporting solution",
         "url": "https://www.housingwire.com/articles/wfg-national-title-launches-fincen-reporting-solution/",
@@ -241,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Waterstone Mortgage announces leadership promotions across multiple departments",
+        "url": "https://www.housingwire.com/articles/waterstone-mortgage-leadership-promotions/",
+        "what": "Waterstone Mortgage promoted four executives to leadership roles in capital markets, HR, information security and finance.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/waterstone-mortgage-leadership-promotions/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Multifamily developer moods sink amid high costs, flat rent growth",
         "url": "https://www.housingwire.com/articles/multifamily-developer-confidence/",
         "what": "Multifamily developer confidence fell in Q4 2025 as high construction costs and flat rents weighed on the sector, NAHB survey shows.",
@@ -266,33 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/builder-material-costs-tariffs/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "MBA: Mortgage delinquency rate rises to 4.26% in Q4",
-        "url": "https://www.housingwire.com/articles/mortgage-delinquency-q4-2025/",
-        "what": "U.S",
-        "numbers": "4.26, 4, 2025,, 11.52",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-delinquency-q4-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NEXA and Amerifund CEOs lead group acquisition of FSBO.com",
-        "url": "https://www.housingwire.com/articles/fsbo-com-acquisition-platform-upgrade/",
-        "what": "FSBO.com’s new owners will update the website with AI features and easier contracts for direct home sales.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fsbo-com-acquisition-platform-upgrade/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Trailblazing MIT team demos 3D-printed, recycled plastic floor truss",
-        "url": "https://www.housingwire.com/articles/mit-3d-printed-housing/",
-        "what": "MIT’s 3D-printed recycled plastic trusses could reduce deforestation and offer a scalable solution for global housing needs.",
-        "numbers": "3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mit-3d-printed-housing/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "64% of Single Americans Struggle to Afford Housing, Compared With 39% of Married People",
@@ -323,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Arizona Regional MLS CEO Matthew Consalvo plans 2027 exit",
+        "url": "https://www.housingwire.com/articles/armls-ceo-matthew-consalvo-retirement/",
+        "what": "ARMLS CEO Matthew Consalvo will retire in 2027 after 14 years, prompting a search for new leadership and direction.",
+        "numbers": "2027, 14",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/armls-ceo-matthew-consalvo-retirement/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "eXp adds RealTrends Verified The Lisa Sevajian Group in Massachusetts",
         "url": "https://www.housingwire.com/articles/exp-adds-realtrends-verified-the-lisa-sevajian-group-in-massachusetts/",
