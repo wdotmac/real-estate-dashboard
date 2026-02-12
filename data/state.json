@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-12 17:16 UTC",
+  "as_of": "2026-02-12 19:20 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "NEXA and Amerifund CEOs lead group acquisition of FSBO.com",
-      "link": "https://www.housingwire.com/articles/fsbo-com-acquisition-platform-upgrade/",
+      "title": "WFG National Title launches FinCEN reporting solution",
+      "link": "https://www.housingwire.com/articles/wfg-national-title-launches-fincen-reporting-solution/",
       "published": "Thu, 12 Feb 2026"
     },
     {
-      "title": "Trailblazing MIT team demos 3D-printed, recycled plastic floor truss",
-      "link": "https://www.housingwire.com/articles/mit-3d-printed-housing/",
+      "title": "Multifamily developer moods sink amid high costs, flat rent growth",
+      "link": "https://www.housingwire.com/articles/multifamily-developer-confidence/",
       "published": "Thu, 12 Feb 2026"
     },
     {
-      "title": "Freddie Mac’s profit falls 10% in 2025 as credit losses rise",
-      "link": "https://www.housingwire.com/articles/freddie-mac-2025-earnings/",
+      "title": "eXp adds RealTrends Verified The Lisa Sevajian Group in Massachusetts",
+      "link": "https://www.housingwire.com/articles/exp-adds-realtrends-verified-the-lisa-sevajian-group-in-massachusetts/",
       "published": "Thu, 12 Feb 2026"
     },
     {
-      "title": "Existing home sales drop 8.4% in January as winter weather slows market",
-      "link": "https://www.housingwire.com/articles/existing-home-sales-january-drop/",
+      "title": "Mortgage trade groups urge rollback of proposed VA loan fee hikes",
+      "link": "https://www.housingwire.com/articles/va-mortgage-fee-increases/",
       "published": "Thu, 12 Feb 2026"
     },
     {
-      "title": "Noise vs. signal: Dallas/Fort Worth isn’t broken. It’s resetting.",
-      "link": "https://www.housingwire.com/articles/dallas-fort-worth-housing-2026/",
+      "title": "Commodity price volatility hits homebuilders as tariffs reshape costs",
+      "link": "https://www.housingwire.com/articles/builder-material-costs-tariffs/",
       "published": "Thu, 12 Feb 2026"
     },
     {
-      "title": "What monkeys and Valentine’s Day teach us about trust in real estate",
-      "link": "https://www.housingwire.com/articles/what-monkeys-and-valentines-day-teach-us-about-trust-in-real-estate/",
+      "title": "Pennymac’s Kevin Ryan: Cenlar deal is not a ‘backdoor way’ to grow origination",
+      "link": "https://www.housingwire.com/articles/pennymac-buys-cenlar/",
       "published": "Thu, 12 Feb 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "WFG National Title launches FinCEN reporting solution",
+        "url": "https://www.housingwire.com/articles/wfg-national-title-launches-fincen-reporting-solution/",
+        "what": "The system integrates into title workflows and manages buyer and seller outreach and filing with FinCEN on behalf of the reporting party.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/wfg-national-title-launches-fincen-reporting-solution/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Hot January Jobs Report Will Nudge Mortgage Rates Up Slightly",
         "url": "https://www.redfin.com/news/hot-january-jobs-report-will-nudge-mortgage-rates-up-slightly/",
         "what": "A stronger-than-expected jobs report is likely to push mortgage rates up a bit, but the impact will be small",
@@ -232,6 +241,42 @@
     ],
     "housing": [
       {
+        "title": "Multifamily developer moods sink amid high costs, flat rent growth",
+        "url": "https://www.housingwire.com/articles/multifamily-developer-confidence/",
+        "what": "Multifamily developer confidence fell in Q4 2025 as high construction costs and flat rents weighed on the sector, NAHB survey shows.",
+        "numbers": "4, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/multifamily-developer-confidence/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Mortgage trade groups urge rollback of proposed VA loan fee hikes",
+        "url": "https://www.housingwire.com/articles/va-mortgage-fee-increases/",
+        "what": "The proposed bill would extend and raise VA loan fees, sparking concerns about affordability for veterans.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/va-mortgage-fee-increases/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Commodity price volatility hits homebuilders as tariffs reshape costs",
+        "url": "https://www.housingwire.com/articles/builder-material-costs-tariffs/",
+        "what": "Commodity price volatility – driven by slow demand and tariff fallout – has sharply increased the cost of building materials",
+        "numbers": "4, 2025, 43",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/builder-material-costs-tariffs/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "MBA: Mortgage delinquency rate rises to 4.26% in Q4",
+        "url": "https://www.housingwire.com/articles/mortgage-delinquency-q4-2025/",
+        "what": "U.S",
+        "numbers": "4.26, 4, 2025,, 11.52",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-delinquency-q4-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "NEXA and Amerifund CEOs lead group acquisition of FSBO.com",
         "url": "https://www.housingwire.com/articles/fsbo-com-acquisition-platform-upgrade/",
         "what": "FSBO.com’s new owners will update the website with AI features and easier contracts for direct home sales.",
@@ -248,24 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mit-3d-printed-housing/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Existing home sales drop 8.4% in January as winter weather slows market",
-        "url": "https://www.housingwire.com/articles/existing-home-sales-january-drop/",
-        "what": "Existing home sales fell 8.4% in January to 3.91 million units as harsh weather and rate uncertainty slowed activity.",
-        "numbers": "8.4, 3.91 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/existing-home-sales-january-drop/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Noise vs. signal: Dallas/Fort Worth isn’t broken. It’s resetting.",
-        "url": "https://www.housingwire.com/articles/dallas-fort-worth-housing-2026/",
-        "what": "Pessimists now tell you Dallas/Fort Worth housing is rolling over",
-        "numbers": "2021, 2022.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/dallas-fort-worth-housing-2026/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "64% of Single Americans Struggle to Afford Housing, Compared With 39% of Married People",
@@ -286,24 +313,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "From policy to practice: AI in the mortgage industry",
-        "url": "https://www.housingwire.com/articles/from-policy-to-practice-ai-in-the-mortgage-industry/",
-        "what": "As artificial intelligence reshapes mortgage lending, policy misunderstanding",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/from-policy-to-practice-ai-in-the-mortgage-industry/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Exclusive: Pennymac to acquire subservicing giant Cenlar for $257.5M",
-        "url": "https://www.housingwire.com/articles/pennymac-cenlar-acquisition-mortgage-servicing/",
-        "what": "Pennymac’s first M&A deal adds 2 million loans and expands its mortgage servicing to more than $1 trillion in unpaid principal balance.",
-        "numbers": "2 million, $1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pennymac-cenlar-acquisition-mortgage-servicing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Homebuyers Need to Earn $35,000 More Than Renters to Afford Monthly Payments. That’s the Smallest Gap in 3 Years.",
         "url": "https://www.redfin.com/news/rent-versus-buy-2026/",
         "what": "Homebuyers need to earn $111,000 annually to afford the median-priced home, compared with $76,000 for renters",
@@ -315,38 +324,29 @@
     ],
     "notables": [
       {
-        "title": "Freddie Mac’s profit falls 10% in 2025 as credit losses rise",
-        "url": "https://www.housingwire.com/articles/freddie-mac-2025-earnings/",
-        "what": "Freddie Mac’s 2025 net income dropped 10% to $10.7 billion as credit loss provisions rose and noninterest income fell 55% year over year.",
-        "numbers": "2025, 10, $10.7 billion, 55",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/freddie-mac-2025-earnings/",
+        "title": "eXp adds RealTrends Verified The Lisa Sevajian Group in Massachusetts",
+        "url": "https://www.housingwire.com/articles/exp-adds-realtrends-verified-the-lisa-sevajian-group-in-massachusetts/",
+        "what": "The 10-person team has managed more than $300 million in career sales and closed about 1,500 transactions, according to eXp.",
+        "numbers": "10, $300 million, 1,500",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-adds-realtrends-verified-the-lisa-sevajian-group-in-massachusetts/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Pennymac’s Kevin Ryan: Cenlar deal is not a ‘backdoor way’ to grow origination",
+        "url": "https://www.housingwire.com/articles/pennymac-buys-cenlar/",
+        "what": "Pennymac will acquire Cenlar for $257.5 million, adding 2 million loans and 100 clients, with a focus on subservicing and fee income.",
+        "numbers": "$257.5 million, 2 million, 100",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pennymac-buys-cenlar/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "What monkeys and Valentine’s Day teach us about trust in real estate",
-        "url": "https://www.housingwire.com/articles/what-monkeys-and-valentines-day-teach-us-about-trust-in-real-estate/",
-        "what": "With Valentine’s Day right around the corner, many successful real estate agents across the country will be doing what they do every February: dropping off chocolates, flowers, han",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/what-monkeys-and-valentines-day-teach-us-about-trust-in-real-estate/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "California’s Acacia Village tests offsite infill’s feasibility advantage",
-        "url": "https://www.housingwire.com/articles/offsite-infill-feasibility-santa-rosa/",
-        "what": "A pocket neighborhood is a deceptively simple idea, with a decades-deep real-life pedigree",
-        "numbers": "2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/offsite-infill-feasibility-santa-rosa/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Consumer group sues Unison, alleging deceptive marketing of ‘no-debt’ home equity investment",
-        "url": "https://www.housingwire.com/articles/unison-consumer-lawsuit/",
-        "what": "Unison, one of the nation’s leading providers of home equity investments, is facing a lawsuit from the National Association of Consumer Advocates, which alleges the company decepti",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/unison-consumer-lawsuit/",
+        "title": "Real Estate One partners with RealTrends Verified Michigan team",
+        "url": "https://www.housingwire.com/articles/real-estate-one-partners-with-realtrends-verified-michigan-team/",
+        "what": "The deal adds more than 40 real estate agents who provide residential brokerage services across southeast Michigan and northwest Ohio.",
+        "numbers": "40",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-one-partners-with-realtrends-verified-michigan-team/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
