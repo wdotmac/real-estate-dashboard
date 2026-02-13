@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-13 19:09 UTC",
+  "as_of": "2026-02-13 19:53 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Stewart Title NCS appoints Nevada leadership",
+      "link": "https://www.housingwire.com/articles/stewart-title-ncs-appoints-nevada-leadership/",
+      "published": "Fri, 13 Feb 2026"
+    },
+    {
+      "title": "Old Republic Title shifts direct operations to Qualia",
+      "link": "https://www.housingwire.com/articles/old-republic-title-shifts-direct-operations-to-qualia/",
+      "published": "Fri, 13 Feb 2026"
+    },
+    {
+      "title": "Major mortgage lenders report strong start for 2026 originations activity",
+      "link": "https://www.housingwire.com/articles/2026-mortgage-spring-pipelines/",
+      "published": "Fri, 13 Feb 2026"
+    },
+    {
       "title": "Investor share of home purchases holds at 30% in 2025",
       "link": "https://www.housingwire.com/articles/investor-share-home-purchases-2025/",
       "published": "Fri, 13 Feb 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Altisource names Rick Seehausen president of Lenders One",
       "link": "https://www.housingwire.com/articles/altisource-lenders-one-seehausen/",
-      "published": "Fri, 13 Feb 2026"
-    },
-    {
-      "title": "AI hype vs. signal: What Super Bowl LX ads mean for homebuilders",
-      "link": "https://www.housingwire.com/articles/super-bowl-lx-homebuilders-ai-readiness-signal-vs-hype/",
-      "published": "Fri, 13 Feb 2026"
-    },
-    {
-      "title": "Annual inflation drops to 2.4% in January",
-      "link": "https://www.housingwire.com/articles/annual-inflation-drops-to-2-4-in-january/",
-      "published": "Fri, 13 Feb 2026"
-    },
-    {
-      "title": "Onity Group reports record earnings in 2025, expands servicing portfolio to $328B",
-      "link": "https://www.housingwire.com/articles/onity-2025-earnings-servicing/",
       "published": "Fri, 13 Feb 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Major mortgage lenders report strong start for 2026 originations activity",
+        "url": "https://www.housingwire.com/articles/2026-mortgage-spring-pipelines/",
+        "what": "Lower mortgage rates in early 2026 are fueling pipelines, with rising refinance incentive and improving purchase demand reported by lenders.",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-mortgage-spring-pipelines/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "AI hype vs. signal: What Super Bowl LX ads mean for homebuilders",
         "url": "https://www.housingwire.com/articles/super-bowl-lx-homebuilders-ai-readiness-signal-vs-hype/",
         "what": "For us, the Super Bowl LX sideshow wasn’t the score or the halftime spectacle",
@@ -226,15 +235,6 @@
         "what": "Takeaway: A mild inflation report should have little effect on mortgage rates today",
         "numbers": "",
         "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-likely-to-hold-steady-with-inflation-risks-in-the-rearview-mirror/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Three moves lenders should take now to stay ahead of AI regulation",
-        "url": "https://www.housingwire.com/articles/three-moves-lenders-should-take-now-to-stay-ahead-of-ai-regulation/",
-        "what": "Mortgage lenders face growing scrutiny over AI use as states and federal regulators move toward oversight",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/three-moves-lenders-should-take-now-to-stay-ahead-of-ai-regulation/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -286,15 +286,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Dr. Lee Davenport: Fair Housing Equalizer",
-        "url": "https://www.housingwire.com/articles/dr-lee-davenport-fair-housing-equalizer/",
-        "what": "Dr",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/dr-lee-davenport-fair-housing-equalizer/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "64% of Single Americans Struggle to Afford Housing, Compared With 39% of Married People",
         "url": "https://www.redfin.com/news/struggle-afford-housing-single-versus-married/",
         "what": "Nearly half of single Americans earn less than $50,000 per year, compared to just 9% of married couples, according to a recent Redfin survey",
@@ -324,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "Stewart Title NCS appoints Nevada leadership",
+        "url": "https://www.housingwire.com/articles/stewart-title-ncs-appoints-nevada-leadership/",
+        "what": "The appointee brings more than 29 years of experience in Nevada’s title insurance industry",
+        "numbers": "29",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/stewart-title-ncs-appoints-nevada-leadership/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Old Republic Title shifts direct operations to Qualia",
+        "url": "https://www.housingwire.com/articles/old-republic-title-shifts-direct-operations-to-qualia/",
+        "what": "The rollout began with Oregon operations moving to Qualia’s system",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/old-republic-title-shifts-direct-operations-to-qualia/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Investor share of home purchases holds at 30% in 2025",
         "url": "https://www.housingwire.com/articles/investor-share-home-purchases-2025/",
         "what": "Investors made up 30% of U.S",
@@ -338,15 +347,6 @@
         "what": "Onity Group’s 2025 net income rose to $185.4 million, driven by 43% growth in originations and a $328 billion servicing portfolio.",
         "numbers": "2025, $185.4 million, 43, $328 billion",
         "justified": "housingwire.com — https://www.housingwire.com/articles/onity-2025-earnings-servicing/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How to comply with FinCEN without breaking your operations — or your budget",
-        "url": "https://www.housingwire.com/articles/fincen-rule-title-escrow-qualia/",
-        "what": "See how FinCEN compliance for title and escrow firms aligns with the Residential real estate AML rule using Qualia compliance solutions.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fincen-rule-title-escrow-qualia/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
