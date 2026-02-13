@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-13 17:06 UTC",
+  "as_of": "2026-02-13 17:56 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Georgia Senate advances bill to sunset affordable housing tax credits",
+      "link": "https://www.housingwire.com/articles/georgia-affordable-housing-cuts/",
+      "published": "Fri, 13 Feb 2026"
+    },
+    {
       "title": "Altisource names Rick Seehausen president of Lenders One",
       "link": "https://www.housingwire.com/articles/altisource-lenders-one-seehausen/",
       "published": "Fri, 13 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Longbridge, Mutual of Omaha to settle reverse mortgage advertising lawsuit",
       "link": "https://www.housingwire.com/articles/longbridge-mutual-omaha-settlement/",
-      "published": "Fri, 13 Feb 2026"
-    },
-    {
-      "title": "How to comply with FinCEN without breaking your operations — or your budget",
-      "link": "https://www.housingwire.com/articles/fincen-rule-title-escrow-qualia/",
       "published": "Fri, 13 Feb 2026"
     },
     {
@@ -259,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "Georgia Senate advances bill to sunset affordable housing tax credits",
+        "url": "https://www.housingwire.com/articles/georgia-affordable-housing-cuts/",
+        "what": "Several states have passed laws to address housing affordability, and as the November midterm elections approach, more are following suit",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/georgia-affordable-housing-cuts/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Altisource names Rick Seehausen president of Lenders One",
         "url": "https://www.housingwire.com/articles/altisource-lenders-one-seehausen/",
         "what": "Altisource appoints Rick Seehausen as president of Lenders One, overseeing strategy and operations for the mortgage cooperative.",
@@ -293,15 +302,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/social-security-reverse-mortgage/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Taylor Morrison’s 2026 rebalance: romance over discounts",
-        "url": "https://www.housingwire.com/articles/taylor-morrison-q4-2025-2026-reset-core-buyers/",
-        "what": "Demand that is awakened — lit by a flame, chasing a well-deserved dream home — is fundamentally different from demand sparked by being a rental refugee, where the walls have closed in and every monthly payment feels like a frittered-away sum that could have done more",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/taylor-morrison-q4-2025-2026-reset-core-buyers/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "64% of Single Americans Struggle to Afford Housing, Compared With 39% of Married People",
