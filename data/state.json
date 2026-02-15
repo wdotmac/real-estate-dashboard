@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-14 23:38 UTC",
+  "as_of": "2026-02-15 03:21 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Housing demand snaps back as mortgage rates near 6%",
+      "link": "https://www.housingwire.com/articles/housing-demand-rebound-rates/",
+      "published": "Sun, 15 Feb 2026"
+    },
+    {
       "title": "Q4 2025 earnings for publicly traded mortgage, real estate and homebuilder companies",
       "link": "https://www.housingwire.com/articles/q4-2025-earnings-mortgage-real-estate-homebuilding/",
       "published": "Fri, 13 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Sumitomo Forestry buys Tri Pointe, resetting the arc of homebuilder scale",
       "link": "https://www.housingwire.com/articles/sumitomo-forestry-buys-tri-pointe-resetting-arc-of-homebuilder-scale/",
-      "published": "Fri, 13 Feb 2026"
-    },
-    {
-      "title": "Mortgage originators brace for rising costs as ban on abusive trigger leads nears",
-      "link": "https://www.housingwire.com/articles/mortgage-lead-ban-impact/",
       "published": "Fri, 13 Feb 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Housing demand snaps back as mortgage rates near 6%",
+        "url": "https://www.housingwire.com/articles/housing-demand-rebound-rates/",
+        "what": "Housing demand rebounded as snow effects faded, pending sales and new listings rose, and price cuts fell 1% with rates at 6.04%.",
+        "numbers": "1, 6.04",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-demand-rebound-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Major mortgage lenders report strong start for 2026 originations activity",
         "url": "https://www.housingwire.com/articles/2026-mortgage-spring-pipelines/",
@@ -338,15 +347,6 @@
         "what": "The rollout began with Oregon operations moving to Qualia’s system",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/old-republic-title-shifts-direct-operations-to-qualia/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Investor share of home purchases holds at 30% in 2025",
-        "url": "https://www.housingwire.com/articles/investor-share-home-purchases-2025/",
-        "what": "Investors made up 30% of U.S",
-        "numbers": "30, 2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/investor-share-home-purchases-2025/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
