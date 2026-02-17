@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-17 19:14 UTC",
+  "as_of": "2026-02-17 19:53 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Exclusive: UMortgage rolls out flat-fee broker compensation model",
+      "link": "https://www.housingwire.com/articles/umortgage-flat-fee-loan-officers/",
+      "published": "Tue, 17 Feb 2026"
+    },
+    {
+      "title": "PHH Mortgage bolsters AI-driven subservicing technology",
+      "link": "https://www.housingwire.com/articles/phh-mortgage-lasi-ai-updates/",
+      "published": "Tue, 17 Feb 2026"
+    },
+    {
       "title": "Mutual of Omaha to sponsor reverse mortgage broker certification program",
       "link": "https://www.housingwire.com/articles/mutual-omaha-namb-reverse-mortgage/",
       "published": "Tue, 17 Feb 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Redfin, Zillow defend rental partnership in FTC antitrust suit",
       "link": "https://www.housingwire.com/articles/redfin-zillow-ftc-defense/",
-      "published": "Tue, 17 Feb 2026"
-    },
-    {
-      "title": "Keep calm and carry on: Mortgage rates steady as inflation cools",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-inflation-home-sales/",
-      "published": "Tue, 17 Feb 2026"
-    },
-    {
-      "title": "Rate, Betterment launch mortgage incentive partnership",
-      "link": "https://www.housingwire.com/articles/betterment-rate-mortgage-incentives/",
       "published": "Tue, 17 Feb 2026"
     },
     {
@@ -232,6 +232,24 @@
     ],
     "housing": [
       {
+        "title": "Exclusive: UMortgage rolls out flat-fee broker compensation model",
+        "url": "https://www.housingwire.com/articles/umortgage-flat-fee-loan-officers/",
+        "what": "UMortgage is rolling out a flat-fee compensation model, the company announced on Tuesday.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/umortgage-flat-fee-loan-officers/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "PHH Mortgage bolsters AI-driven subservicing technology",
+        "url": "https://www.housingwire.com/articles/phh-mortgage-lasi-ai-updates/",
+        "what": "PHH Mortgage adds call recording access and loan-level data tools to LASI AI, improving efficiency for subservicing clients.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/phh-mortgage-lasi-ai-updates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mutual of Omaha to sponsor reverse mortgage broker certification program",
         "url": "https://www.housingwire.com/articles/mutual-omaha-namb-reverse-mortgage/",
         "what": "The National Association of Mortgage Brokers (NAMB) announced Tuesday that leading reverse lender Mutual of Omaha Mortgage is partnering with the trade group as the exclusive spons",
@@ -286,15 +304,6 @@
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
-        "title": "Fairway Home Mortgage announces educational partnership for home equity adviser credential",
-        "url": "https://www.housingwire.com/articles/fairway-naifa-chea-program/",
-        "what": "Fairway Home Mortgage on Tuesday announced a partnership with the National Association of Insurance and Financial Advisors (NAIFA) to unveil a new educational credential for NAIFA",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fairway-naifa-chea-program/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Homebuyer Down Payments Shrink for First Time in 5 Months",
         "url": "https://www.redfin.com/news/down-payments-fall-december-2025/",
         "what": "The typical homebuyer’s down payment dropped 1.5% year over year in December to $64,000 as elevated housing costs and increased negotiating power drove buyers to spend less upfront",
@@ -311,15 +320,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/struggle-afford-housing-single-versus-married/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Pending Home Sales Decline in All But 5 Major U.S. Metros",
-        "url": "https://www.redfin.com/news/housing-market-update-pending-home-sales-decline-most-metros/",
-        "what": "The typical home that sells takes 66 days to do so–the longest span in seven years–as buyers take their time looking at their options and negotiating with sellers",
-        "numbers": "66, 5.1, 8,, 5",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-home-sales-decline-most-metros/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
@@ -338,15 +338,6 @@
         "what": "Homes.com introduces Homes AI, using Microsoft Azure OpenAI for real-time, personalized home search and neighborhood insights.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/homes-ai-launch-openai/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Scott Cox: If you don’t know the why, you may miss the signal",
-        "url": "https://www.housingwire.com/articles/scott-cox-know-the-why-land-strategy-risk/",
-        "what": "Many more people know how to do their job, than know why a given approach works",
-        "numbers": "1990",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/scott-cox-know-the-why-land-strategy-risk/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
