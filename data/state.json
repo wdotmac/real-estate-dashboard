@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-17 16:08 UTC",
+  "as_of": "2026-02-17 17:16 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Fathom Realty appoints Stephanie Verderose as VP of growth",
+      "link": "https://www.housingwire.com/articles/fathom-realty-appoints-stephanie-verderose-as-vp-of-growth/",
+      "published": "Tue, 17 Feb 2026"
+    },
+    {
+      "title": "From growth to execution: Daniel Butbul on scaling technology and leadership",
+      "link": "https://www.housingwire.com/articles/rising-stars-housing-leaders/",
+      "published": "Tue, 17 Feb 2026"
+    },
+    {
+      "title": "Redfin, Zillow defend rental partnership in FTC antitrust suit",
+      "link": "https://www.housingwire.com/articles/redfin-zillow-ftc-defense/",
+      "published": "Tue, 17 Feb 2026"
+    },
+    {
+      "title": "Keep calm and carry on: Mortgage rates steady as inflation cools",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-inflation-home-sales/",
+      "published": "Tue, 17 Feb 2026"
+    },
+    {
       "title": "Rate, Betterment launch mortgage incentive partnership",
       "link": "https://www.housingwire.com/articles/betterment-rate-mortgage-incentives/",
       "published": "Tue, 17 Feb 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Chicago’s missing middle housing plan targets surplus public land",
       "link": "https://www.housingwire.com/articles/chicago-missing-middle-housing/",
-      "published": "Tue, 17 Feb 2026"
-    },
-    {
-      "title": "Homes.com launches AI-powered home search with Microsoft Azure OpenAI",
-      "link": "https://www.housingwire.com/articles/homes-ai-launch-openai/",
-      "published": "Tue, 17 Feb 2026"
-    },
-    {
-      "title": "Fairway Home Mortgage announces educational partnership for home equity adviser credential",
-      "link": "https://www.housingwire.com/articles/fairway-naifa-chea-program/",
-      "published": "Tue, 17 Feb 2026"
-    },
-    {
-      "title": "Scott Cox: If you don’t know the why, you may miss the signal",
-      "link": "https://www.housingwire.com/articles/scott-cox-know-the-why-land-strategy-risk/",
-      "published": "Tue, 17 Feb 2026"
-    },
-    {
-      "title": "How upfront income accuracy transforms lending",
-      "link": "https://www.housingwire.com/articles/how-upfront-income-accuracy-transforms-lending/",
       "published": "Tue, 17 Feb 2026"
     },
     {
@@ -203,11 +203,11 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Fed vice chair pushes Basel regulatory shift to spur bank mortgage lending",
-        "url": "https://www.housingwire.com/articles/basel-mortgage-capital-rules/",
-        "what": "Michelle Bowman used a major industry forum to argue that Basel capital rules have helped to drive mortgage lending and servicing away from banks",
+        "title": "Keep calm and carry on: Mortgage rates steady as inflation cools",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-inflation-home-sales/",
+        "what": "A January storm that wreaked havoc across much of the U.S",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/basel-mortgage-capital-rules/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-inflation-home-sales/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -231,6 +231,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "From growth to execution: Daniel Butbul on scaling technology and leadership",
+        "url": "https://www.housingwire.com/articles/rising-stars-housing-leaders/",
+        "what": "As nominations for the 2026 HousingWire Rising Stars Award remain open through Feb",
+        "numbers": "2026, 28,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rising-stars-housing-leaders/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Redfin, Zillow defend rental partnership in FTC antitrust suit",
+        "url": "https://www.housingwire.com/articles/redfin-zillow-ftc-defense/",
+        "what": "Redfin and Zillow claim the FTC’s antitrust suit ignores local ad markets and lacks proof of market dominance as discovery advances.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/redfin-zillow-ftc-defense/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Rate, Betterment launch mortgage incentive partnership",
         "url": "https://www.housingwire.com/articles/betterment-rate-mortgage-incentives/",
@@ -268,15 +286,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Massachusetts studies adding supply with single-stair apartments",
-        "url": "https://www.housingwire.com/articles/massachusetts-single-stair-housing/",
-        "what": "America’s quilt work of states whose governors and lawmakers are bucking for housing policy change to break through supply constraints at the root of the nation’s affordability crisis now counts Massachusetts among them",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/massachusetts-single-stair-housing/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Homebuyer Down Payments Shrink for First Time in 5 Months",
         "url": "https://www.redfin.com/news/down-payments-fall-december-2025/",
         "what": "The typical homebuyer’s down payment dropped 1.5% year over year in December to $64,000 as elevated housing costs and increased negotiating power drove buyers to spend less upfront",
@@ -306,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "Fathom Realty appoints Stephanie Verderose as VP of growth",
+        "url": "https://www.housingwire.com/articles/fathom-realty-appoints-stephanie-verderose-as-vp-of-growth/",
+        "what": "Verderose will report to Lori Muller, president of Fathom Realty",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fathom-realty-appoints-stephanie-verderose-as-vp-of-growth/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Homes.com launches AI-powered home search with Microsoft Azure OpenAI",
         "url": "https://www.housingwire.com/articles/homes-ai-launch-openai/",
         "what": "Homes.com introduces Homes AI, using Microsoft Azure OpenAI for real-time, personalized home search and neighborhood insights.",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/how-upfront-income-accuracy-transforms-lending/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Exclusive: Mike Fawaz announces departure from Rocket Pro",
-        "url": "https://www.housingwire.com/articles/mike-fawaz-rocket-exit/",
-        "what": "Mike Fawaz said he is departing Rocket Pro after roughly 15 years with the company and plans to announce his next steps in March, he said Monday.",
-        "numbers": "15",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mike-fawaz-rocket-exit/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Home equity props up retirees as savings fall short",
-        "url": "https://www.housingwire.com/articles/home-equity-retirement-savings-shortfall/",
-        "what": "Retirement savings represent about one-quarter of financial assets for the typical working adult, while home equity accounts for one-third.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/home-equity-retirement-savings-shortfall/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
