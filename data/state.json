@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-02-17 20:56 UTC",
+  "as_of": "2026-02-17 21:48 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.09,
-      "delta_bp_1d": -8.999999999999986
+      "yield_pct": 4.04,
+      "delta_bp_1d": -4.999999999999982
     },
     "mortgage_30y": {
       "rate_pct": 6.09,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Union Home Mortgage brings on M&A veteran Renee Hildebrand",
+      "link": "https://www.housingwire.com/articles/union-home-mortgage-ma-hildebrand/",
+      "published": "Tue, 17 Feb 2026"
+    },
+    {
       "title": "Rayse, OneKey MLS partner on agent value tools in New York",
       "link": "https://www.housingwire.com/articles/rayse-onekey-mls-partner-on-agent-value-tools-in-new-york/",
       "published": "Tue, 17 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "PHH Mortgage bolsters AI-driven subservicing technology",
       "link": "https://www.housingwire.com/articles/phh-mortgage-lasi-ai-updates/",
-      "published": "Tue, 17 Feb 2026"
-    },
-    {
-      "title": "Mutual of Omaha to sponsor reverse mortgage broker certification program",
-      "link": "https://www.housingwire.com/articles/mutual-omaha-namb-reverse-mortgage/",
       "published": "Tue, 17 Feb 2026"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Keep calm and carry on: Mortgage rates steady as inflation cools",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-inflation-home-sales/",
-        "what": "A January storm that wreaked havoc across much of the U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-inflation-home-sales/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "All-Cash Home Purchases Ended 2025 at Five-Year Low",
         "url": "https://www.redfin.com/news/all-cash-home-purchases-december-2025/",
         "what": "29% of homebuyers paid with cash in December—the lowest share for that month since 2020—as a drop in mortgage rates diminished the benefits of paying in cash",
@@ -231,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Union Home Mortgage brings on M&A veteran Renee Hildebrand",
+        "url": "https://www.housingwire.com/articles/union-home-mortgage-ma-hildebrand/",
+        "what": "Union Home Mortgage has shown a strong appetite for mergers and acquisitions by hiring Renee Hildebrand from Guild Mortgage to seek new opportunities, the company announced Tuesday",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/union-home-mortgage-ma-hildebrand/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Exclusive: UMortgage rolls out flat-fee broker compensation model",
         "url": "https://www.housingwire.com/articles/umortgage-flat-fee-loan-officers/",
