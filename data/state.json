@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-17 15:05 UTC",
+  "as_of": "2026-02-17 16:08 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Rate, Betterment launch mortgage incentive partnership",
+      "link": "https://www.housingwire.com/articles/betterment-rate-mortgage-incentives/",
+      "published": "Tue, 17 Feb 2026"
+    },
+    {
+      "title": "Chicago’s missing middle housing plan targets surplus public land",
+      "link": "https://www.housingwire.com/articles/chicago-missing-middle-housing/",
+      "published": "Tue, 17 Feb 2026"
+    },
+    {
       "title": "Homes.com launches AI-powered home search with Microsoft Azure OpenAI",
       "link": "https://www.housingwire.com/articles/homes-ai-launch-openai/",
       "published": "Tue, 17 Feb 2026"
@@ -158,16 +168,6 @@
       "title": "How upfront income accuracy transforms lending",
       "link": "https://www.housingwire.com/articles/how-upfront-income-accuracy-transforms-lending/",
       "published": "Tue, 17 Feb 2026"
-    },
-    {
-      "title": "Massachusetts studies adding supply with single-stair apartments",
-      "link": "https://www.housingwire.com/articles/massachusetts-single-stair-housing/",
-      "published": "Tue, 17 Feb 2026"
-    },
-    {
-      "title": "Exclusive: Mike Fawaz announces departure from Rocket Pro",
-      "link": "https://www.housingwire.com/articles/mike-fawaz-rocket-exit/",
-      "published": "Mon, 16 Feb 2026"
     },
     {
       "title": "U.S. Home Prices Crept Up 0.3% in January",
@@ -232,6 +232,24 @@
     ],
     "housing": [
       {
+        "title": "Rate, Betterment launch mortgage incentive partnership",
+        "url": "https://www.housingwire.com/articles/betterment-rate-mortgage-incentives/",
+        "what": "Chicago-based mortgage lender Rate has entered into a partnership to offer mortgage incentives to customers of wealth and savings platform Betterment.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/betterment-rate-mortgage-incentives/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Chicago’s missing middle housing plan targets surplus public land",
+        "url": "https://www.housingwire.com/articles/chicago-missing-middle-housing/",
+        "what": "Chicago city planners are trying to solve a national problem that officials in many cities talk about but rarely tackle at scale – turning idle public land into “missing middle” housing in neighborhoods that have seen decades of disinvestment",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/chicago-missing-middle-housing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "U.S. Home Prices Crept Up 0.3% in January",
         "url": "https://www.redfin.com/news/home-price-index-january-2026/",
         "what": "U.S",
@@ -257,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/massachusetts-single-stair-housing/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "High-producing St. Louis agent returns to Coldwell Banker",
-        "url": "https://www.housingwire.com/articles/kristin-sprague-coldwell-banker-st-louis-agent/",
-        "what": "Kristin Sprague remains among the most recognized agents in the St",
-        "numbers": "$11 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kristin-sprague-coldwell-banker-st-louis-agent/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Homebuyer Down Payments Shrink for First Time in 5 Months",
@@ -338,15 +347,6 @@
         "what": "Retirement savings represent about one-quarter of financial assets for the typical working adult, while home equity accounts for one-third.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/home-equity-retirement-savings-shortfall/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "PropLogix launches FinCEN reporting service for title agents",
-        "url": "https://www.housingwire.com/articles/proplogix-launches-fincen-reporting-service-for-title-agents/",
-        "what": "Services include buyer-facing intake to securely collect required information, completion and submission of reports.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/proplogix-launches-fincen-reporting-service-for-title-agents/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
