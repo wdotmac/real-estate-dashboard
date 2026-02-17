@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-17 13:39 UTC",
+  "as_of": "2026-02-17 15:05 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Homes.com launches AI-powered home search with Microsoft Azure OpenAI",
+      "link": "https://www.housingwire.com/articles/homes-ai-launch-openai/",
+      "published": "Tue, 17 Feb 2026"
+    },
+    {
       "title": "Fairway Home Mortgage announces educational partnership for home equity adviser credential",
       "link": "https://www.housingwire.com/articles/fairway-naifa-chea-program/",
       "published": "Tue, 17 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Exclusive: Mike Fawaz announces departure from Rocket Pro",
       "link": "https://www.housingwire.com/articles/mike-fawaz-rocket-exit/",
-      "published": "Mon, 16 Feb 2026"
-    },
-    {
-      "title": "Home equity props up retirees as savings fall short",
-      "link": "https://www.housingwire.com/articles/home-equity-retirement-savings-shortfall/",
       "published": "Mon, 16 Feb 2026"
     },
     {
@@ -268,15 +268,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Beazer Homes’ key differentiator? Sustainability and innovation",
-        "url": "https://www.housingwire.com/articles/beazer-homes-sustainability/",
-        "what": "Like it or not, for consumers in today’s market for a newly built home – especially younger, more price- and interest-rate sensitive ones – a home builder is a homebuilder is a homebuilder",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/beazer-homes-sustainability/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Homebuyer Down Payments Shrink for First Time in 5 Months",
         "url": "https://www.redfin.com/news/down-payments-fall-december-2025/",
         "what": "The typical homebuyer’s down payment dropped 1.5% year over year in December to $64,000 as elevated housing costs and increased negotiating power drove buyers to spend less upfront",
@@ -305,6 +296,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Homes.com launches AI-powered home search with Microsoft Azure OpenAI",
+        "url": "https://www.housingwire.com/articles/homes-ai-launch-openai/",
+        "what": "Homes.com introduces Homes AI, using Microsoft Azure OpenAI for real-time, personalized home search and neighborhood insights.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homes-ai-launch-openai/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Scott Cox: If you don’t know the why, you may miss the signal",
         "url": "https://www.housingwire.com/articles/scott-cox-know-the-why-land-strategy-risk/",
