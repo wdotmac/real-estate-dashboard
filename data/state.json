@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-17 11:54 UTC",
+  "as_of": "2026-02-17 13:39 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Mon, 16 Feb 2026"
     },
     {
+      "title": "U.S. Home Prices Crept Up 0.3% in January",
+      "link": "https://www.redfin.com/news/home-price-index-january-2026/",
+      "published": "Tue, 17 Feb 2026"
+    },
+    {
       "title": "All-Cash Home Purchases Ended 2025 at Five-Year Low",
       "link": "https://www.redfin.com/news/all-cash-home-purchases-december-2025/",
       "published": "Mon, 16 Feb 2026"
@@ -193,11 +198,6 @@
       "title": "Pending Home Sales Decline in All But 5 Major U.S. Metros",
       "link": "https://www.redfin.com/news/housing-market-update-pending-home-sales-decline-most-metros/",
       "published": "Thu, 12 Feb 2026"
-    },
-    {
-      "title": "Hot January Jobs Report Will Nudge Mortgage Rates Up Slightly",
-      "link": "https://www.redfin.com/news/hot-january-jobs-report-will-nudge-mortgage-rates-up-slightly/",
-      "published": "Wed, 11 Feb 2026"
     }
   ],
   "feed_101020": {
@@ -228,18 +228,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-likely-to-hold-steady-with-inflation-risks-in-the-rearview-mirror/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Hot January Jobs Report Will Nudge Mortgage Rates Up Slightly",
-        "url": "https://www.redfin.com/news/hot-january-jobs-report-will-nudge-mortgage-rates-up-slightly/",
-        "what": "A stronger-than-expected jobs report is likely to push mortgage rates up a bit, but the impact will be small",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/hot-january-jobs-report-will-nudge-mortgage-rates-up-slightly/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "U.S. Home Prices Crept Up 0.3% in January",
+        "url": "https://www.redfin.com/news/home-price-index-january-2026/",
+        "what": "U.S",
+        "numbers": "0.3, 2.1, 14",
+        "justified": "redfin.com — https://www.redfin.com/news/home-price-index-january-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Fairway Home Mortgage announces educational partnership for home equity adviser credential",
         "url": "https://www.housingwire.com/articles/fairway-naifa-chea-program/",
