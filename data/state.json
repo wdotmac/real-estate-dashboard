@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-18 19:57 UTC",
+  "as_of": "2026-02-18 20:57 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Housing market update: Inventory rises, price cuts remain elevated as rates hold near 6%",
+      "link": "https://www.housingwire.com/articles/housing-market-inventory-price-cuts-spring-2026/",
+      "published": "Wed, 18 Feb 2026"
+    },
+    {
       "title": "AI adoption reaches 82% among real estate agents, RPR reports",
       "link": "https://www.housingwire.com/articles/ai-adoption-real-estate/",
       "published": "Wed, 18 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "22 must-have real estate marketing tools for 2026",
       "link": "https://www.housingwire.com/articles/real-estate-marketing-tools/",
-      "published": "Wed, 18 Feb 2026"
-    },
-    {
-      "title": "MV Realty listing agreement enforcement barred in North Carolina",
-      "link": "https://www.housingwire.com/articles/mv-realty-listing-agreement-enforcement-barred-in-north-carolina/",
       "published": "Wed, 18 Feb 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Housing market update: Inventory rises, price cuts remain elevated as rates hold near 6%",
+        "url": "https://www.housingwire.com/articles/housing-market-inventory-price-cuts-spring-2026/",
+        "what": "Inventory rose modestly while price cuts remained elevated",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-inventory-price-cuts-spring-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "FHA, VA, Ginnie Mae outline 2026 housing policy and regulatory priorities",
         "url": "https://www.housingwire.com/articles/fha-va-ginnie-mae-2026-policy/",
         "what": "Federal housing leaders at MBA’s servicing conference detail 2026 priorities on affordability, FHA efficiency and Ginnie Mae’s loan-level model.",
@@ -217,15 +226,6 @@
         "what": "Mortgage and refinance applications increased as rates dropped, with refinance share reaching 57.4% of activity.",
         "numbers": "57.4",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-refinance-surge/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Wary optimism sparks new-home outlook … but grind may linger",
-        "url": "https://www.housingwire.com/articles/homebuilding-and-economic-outlook/",
-        "what": "Economists forecast a 1% increase in 2026 housing starts as affordability improves and mortgage rates are expected to moderate.",
-        "numbers": "1, 2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilding-and-economic-outlook/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
