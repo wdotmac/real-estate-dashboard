@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-18 11:54 UTC",
+  "as_of": "2026-02-18 13:40 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -11,8 +11,8 @@
       "delta_bp_wow": -2.000000000000046
     },
     "starts": {
-      "level_saar": 1246.0,
-      "mom": -0.04594180704441042
+      "level_saar": 1404.0,
+      "mom": 0.062027231467473465
     }
   },
   "permits": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage demand rises 2.8%, fueled by 7% leap for refis",
+      "link": "https://www.housingwire.com/articles/mortgage-applications-refinance-surge/",
+      "published": "Wed, 18 Feb 2026"
+    },
+    {
       "title": "Wary optimism sparks new-home outlook … but grind may linger",
       "link": "https://www.housingwire.com/articles/homebuilding-and-economic-outlook/",
       "published": "Wed, 18 Feb 2026"
@@ -165,9 +170,9 @@
       "published": "Tue, 17 Feb 2026"
     },
     {
-      "title": "Union Home Mortgage brings on M&A veteran Renee Hildebrand",
-      "link": "https://www.housingwire.com/articles/union-home-mortgage-ma-hildebrand/",
-      "published": "Tue, 17 Feb 2026"
+      "title": "Coastal Florida Dominated January’s Priciest Home Sales, Led By $55M Naples Estate",
+      "link": "https://www.redfin.com/news/most-expensive-home-sales-january-2026/",
+      "published": "Wed, 18 Feb 2026"
     },
     {
       "title": "U.S. Home Prices Crept Up 0.3% in January",
@@ -193,15 +198,19 @@
       "title": "64% of Single Americans Struggle to Afford Housing, Compared With 39% of Married People",
       "link": "https://www.redfin.com/news/struggle-afford-housing-single-versus-married/",
       "published": "Thu, 12 Feb 2026"
-    },
-    {
-      "title": "Pending Home Sales Decline in All But 5 Major U.S. Metros",
-      "link": "https://www.redfin.com/news/housing-market-update-pending-home-sales-decline-most-metros/",
-      "published": "Thu, 12 Feb 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage demand rises 2.8%, fueled by 7% leap for refis",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-refinance-surge/",
+        "what": "Mortgage and refinance applications increased as rates dropped, with refinance share reaching 57.4% of activity.",
+        "numbers": "57.4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-refinance-surge/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Wary optimism sparks new-home outlook … but grind may linger",
         "url": "https://www.housingwire.com/articles/homebuilding-and-economic-outlook/",
@@ -241,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Coastal Florida Dominated January’s Priciest Home Sales, Led By $55M Naples Estate",
+        "url": "https://www.redfin.com/news/most-expensive-home-sales-january-2026/",
+        "what": "Last month’s ultra high-end home sales also included a ranch in Aspen and a beachfront villa in Hawaii",
+        "numbers": "$55 million, $42 million, $55",
+        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-january-2026/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "The insurance challenge builders face in the 2026 spring housing market",
         "url": "https://www.housingwire.com/articles/the-insurance-challenge-builders-face-in-the-2026-spring-housing-market/",
         "what": "With new home sales expected to rise, insurance costs and availability can derail closings",
@@ -264,15 +282,6 @@
         "what": "Union Home Mortgage has shown a strong appetite for mergers and acquisitions by hiring Renee Hildebrand from Guild Mortgage to seek new opportunities, the company announced Tuesday",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/union-home-mortgage-ma-hildebrand/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Exclusive: UMortgage rolls out flat-fee broker compensation model",
-        "url": "https://www.housingwire.com/articles/umortgage-flat-fee-loan-officers/",
-        "what": "UMortgage is rolling out a flat-fee compensation model, the company announced on Tuesday.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/umortgage-flat-fee-loan-officers/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -302,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/struggle-afford-housing-single-versus-married/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Pending Home Sales Decline in All But 5 Major U.S. Metros",
-        "url": "https://www.redfin.com/news/housing-market-update-pending-home-sales-decline-most-metros/",
-        "what": "The typical home that sells takes 66 days to do so–the longest span in seven years–as buyers take their time looking at their options and negotiating with sellers",
-        "numbers": "66, 5.1, 8,, 5",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-home-sales-decline-most-metros/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
