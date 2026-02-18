@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-02-18 20:57 UTC",
+  "as_of": "2026-02-18 21:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.04,
-      "delta_bp_1d": -4.999999999999982
+      "yield_pct": 4.05,
+      "delta_bp_1d": 0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.09,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "16 indispensable AI tools for real estate agents",
+      "link": "https://www.housingwire.com/articles/ai-tools-real-estate/",
+      "published": "Wed, 18 Feb 2026"
+    },
+    {
+      "title": "CoStar Group cuts jobs amid AI rollout and Homes.com focus",
+      "link": "https://www.housingwire.com/articles/costar-group-layoffs-ai/",
+      "published": "Wed, 18 Feb 2026"
+    },
+    {
+      "title": "Concierge program offers upfront prep funds for @properties Christie’s International Real Estate sellers",
+      "link": "https://www.housingwire.com/articles/concierge-home-prep-loans/",
+      "published": "Wed, 18 Feb 2026"
+    },
+    {
       "title": "Housing market update: Inventory rises, price cuts remain elevated as rates hold near 6%",
       "link": "https://www.housingwire.com/articles/housing-market-inventory-price-cuts-spring-2026/",
       "published": "Wed, 18 Feb 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Harry Norman Realtors appoints Todd Emerson as president",
       "link": "https://www.housingwire.com/articles/harry-norman-todd-emerson/",
-      "published": "Wed, 18 Feb 2026"
-    },
-    {
-      "title": "Austin Niemiec signals deeper commitment to Rocket Pro after leadership shakeup",
-      "link": "https://www.housingwire.com/articles/rocket-pro-austin-niemiec-broker-focus/",
-      "published": "Wed, 18 Feb 2026"
-    },
-    {
-      "title": "FHA, VA, Ginnie Mae outline 2026 housing policy and regulatory priorities",
-      "link": "https://www.housingwire.com/articles/fha-va-ginnie-mae-2026-policy/",
-      "published": "Wed, 18 Feb 2026"
-    },
-    {
-      "title": "22 must-have real estate marketing tools for 2026",
-      "link": "https://www.housingwire.com/articles/real-estate-marketing-tools/",
       "published": "Wed, 18 Feb 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "CoStar Group cuts jobs amid AI rollout and Homes.com focus",
+        "url": "https://www.housingwire.com/articles/costar-group-layoffs-ai/",
+        "what": "CoStar Group reduces workforce, citing AI-driven efficiencies and continued commitment to Homes.com despite investor pressure.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-group-layoffs-ai/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Housing market update: Inventory rises, price cuts remain elevated as rates hold near 6%",
         "url": "https://www.housingwire.com/articles/housing-market-inventory-price-cuts-spring-2026/",
         "what": "Inventory rose modestly while price cuts remained elevated",
@@ -217,15 +226,6 @@
         "what": "Federal housing leaders at MBA’s servicing conference detail 2026 priorities on affordability, FHA efficiency and Ginnie Mae’s loan-level model.",
         "numbers": "2026",
         "justified": "housingwire.com — https://www.housingwire.com/articles/fha-va-ginnie-mae-2026-policy/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage demand rises 2.8%, fueled by 7% leap for refis",
-        "url": "https://www.housingwire.com/articles/mortgage-applications-refinance-surge/",
-        "what": "Mortgage and refinance applications increased as rates dropped, with refinance share reaching 57.4% of activity.",
-        "numbers": "57.4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-refinance-surge/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -257,15 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-pro-austin-niemiec-broker-focus/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "OneKey MLS partners with Broker Public Portal for consumer home search",
-        "url": "https://www.housingwire.com/articles/onekey-mls-broker-public-portal/",
-        "what": "OneKey MLS will feature listings on Cribio, aiming for accurate data, broker attribution and improved consumer experience.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/onekey-mls-broker-public-portal/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Coastal Florida Dominated January’s Priciest Home Sales, Led By $55M Naples Estate",
@@ -306,6 +297,24 @@
     ],
     "notables": [
       {
+        "title": "16 indispensable AI tools for real estate agents",
+        "url": "https://www.housingwire.com/articles/ai-tools-real-estate/",
+        "what": "Take back your time, improve productivity and boost revenue with these AI tools for real estate agents.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-tools-real-estate/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Concierge program offers upfront prep funds for @properties Christie’s International Real Estate sellers",
+        "url": "https://www.housingwire.com/articles/concierge-home-prep-loans/",
+        "what": "@properties Concierge lets sellers borrow up to $50,000 for home prep, with no payments until closing or 12 months.",
+        "numbers": "$50,000, 12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/concierge-home-prep-loans/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "AI adoption reaches 82% among real estate agents, RPR reports",
         "url": "https://www.housingwire.com/articles/ai-adoption-real-estate/",
         "what": "RPR finds most agents use AI for writing and marketing, yet many want better training and worry about output accuracy.",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mv-realty-listing-agreement-enforcement-barred-in-north-carolina/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Lone Wolf appoints Matt Fischer as CEO, Jimmy Kelly remains in advisory role",
-        "url": "https://www.housingwire.com/articles/lone-wolf-new-ceo-fischer/",
-        "what": "Lone Wolf Technologies welcomes Matt Fischer as CEO, replacing Jimmy Kelly, who will remain at the firm in an advisory role",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lone-wolf-new-ceo-fischer/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
