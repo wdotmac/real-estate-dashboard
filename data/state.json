@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-18 10:06 UTC",
+  "as_of": "2026-02-18 11:06 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Wary optimism sparks new-home outlook … but grind may linger",
+      "link": "https://www.housingwire.com/articles/homebuilding-and-economic-outlook/",
+      "published": "Wed, 18 Feb 2026"
+    },
+    {
       "title": "The insurance challenge builders face in the 2026 spring housing market",
       "link": "https://www.housingwire.com/articles/the-insurance-challenge-builders-face-in-the-2026-spring-housing-market/",
       "published": "Wed, 18 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Union Home Mortgage brings on M&A veteran Renee Hildebrand",
       "link": "https://www.housingwire.com/articles/union-home-mortgage-ma-hildebrand/",
-      "published": "Tue, 17 Feb 2026"
-    },
-    {
-      "title": "Rayse, OneKey MLS partner on agent value tools in New York",
-      "link": "https://www.housingwire.com/articles/rayse-onekey-mls-partner-on-agent-value-tools-in-new-york/",
       "published": "Tue, 17 Feb 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Wary optimism sparks new-home outlook … but grind may linger",
+        "url": "https://www.housingwire.com/articles/homebuilding-and-economic-outlook/",
+        "what": "Economists forecast a 1% increase in 2026 housing starts as affordability improves and mortgage rates are expected to moderate.",
+        "numbers": "1, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilding-and-economic-outlook/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "The Inflation You Can’t Budget Around: Why Housing Search Must Move From Price to Monthly Payment",
         "url": "https://www.housingwire.com/articles/the-inflation-you-cant-budget-around-why-housing-search-must-move-from-price-to-monthly-payment/",
@@ -264,15 +273,6 @@
         "what": "UMortgage is rolling out a flat-fee compensation model, the company announced on Tuesday.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/umortgage-flat-fee-loan-officers/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "PHH Mortgage bolsters AI-driven subservicing technology",
-        "url": "https://www.housingwire.com/articles/phh-mortgage-lasi-ai-updates/",
-        "what": "PHH Mortgage adds call recording access and loan-level data tools to LASI AI, improving efficiency for subservicing clients.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/phh-mortgage-lasi-ai-updates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
