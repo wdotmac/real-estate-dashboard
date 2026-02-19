@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-19 11:54 UTC",
+  "as_of": "2026-02-19 13:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,16 @@
       "published": "Wed, 18 Feb 2026"
     },
     {
+      "title": "Home Prices Start Year Up Just 1% as Buyer’s Market Keeps Growth in Check",
+      "link": "https://www.redfin.com/news/home-prices-rise-january-2026/",
+      "published": "Thu, 19 Feb 2026"
+    },
+    {
+      "title": "Pending U.S. Home Sales Fall 6% As Would-Be Buyers Sit Out Slow Winter Market",
+      "link": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-slow-winter/",
+      "published": "Thu, 19 Feb 2026"
+    },
+    {
       "title": "Coastal Florida Dominated January’s Priciest Home Sales, Led By $55M Naples Estate",
       "link": "https://www.redfin.com/news/most-expensive-home-sales-january-2026/",
       "published": "Wed, 18 Feb 2026"
@@ -188,16 +198,6 @@
       "title": "Homebuyer Down Payments Shrink for First Time in 5 Months",
       "link": "https://www.redfin.com/news/down-payments-fall-december-2025/",
       "published": "Mon, 16 Feb 2026"
-    },
-    {
-      "title": "Mortgage Rates Likely to Hold Steady With Inflation Risks in the Rearview Mirror",
-      "link": "https://www.redfin.com/news/mortgage-rates-likely-to-hold-steady-with-inflation-risks-in-the-rearview-mirror/",
-      "published": "Fri, 13 Feb 2026"
-    },
-    {
-      "title": "64% of Single Americans Struggle to Afford Housing, Compared With 39% of Married People",
-      "link": "https://www.redfin.com/news/struggle-afford-housing-single-versus-married/",
-      "published": "Thu, 12 Feb 2026"
     }
   ],
   "feed_101020": {
@@ -255,18 +255,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/all-cash-home-purchases-december-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage Rates Likely to Hold Steady With Inflation Risks in the Rearview Mirror",
-        "url": "https://www.redfin.com/news/mortgage-rates-likely-to-hold-steady-with-inflation-risks-in-the-rearview-mirror/",
-        "what": "Takeaway: A mild inflation report should have little effect on mortgage rates today",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-likely-to-hold-steady-with-inflation-risks-in-the-rearview-mirror/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Home Prices Start Year Up Just 1% as Buyer’s Market Keeps Growth in Check",
+        "url": "https://www.redfin.com/news/home-prices-rise-january-2026/",
+        "what": "Pending home sales fell to the lowest level since 2023 and existing-home sales dropped the most since 2022 as elevated housing costs curbed homebuyer demand",
+        "numbers": "2023, 2022, 1",
+        "justified": "redfin.com — https://www.redfin.com/news/home-prices-rise-january-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Pending U.S. Home Sales Fall 6% As Would-Be Buyers Sit Out Slow Winter Market",
+        "url": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-slow-winter/",
+        "what": "The typical home is taking 67 days to go under contract, the longest span in seven years",
+        "numbers": "67, 5.8, 15,, 6",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-fall-slow-winter/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "2025 housing starts fell 7%, but builders glimpse clues of an uptick",
         "url": "https://www.housingwire.com/articles/housing-starts-2025-rebound/",
@@ -302,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/down-payments-fall-december-2025/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "64% of Single Americans Struggle to Afford Housing, Compared With 39% of Married People",
-        "url": "https://www.redfin.com/news/struggle-afford-housing-single-versus-married/",
-        "what": "Nearly half of single Americans earn less than $50,000 per year, compared to just 9% of married couples, according to a recent Redfin survey",
-        "numbers": "$50,000, 9, 64, 39",
-        "justified": "redfin.com — https://www.redfin.com/news/struggle-afford-housing-single-versus-married/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
