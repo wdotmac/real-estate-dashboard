@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-19 21:48 UTC",
+  "as_of": "2026-02-19 22:51 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Gov. Pritzker calls for zoning reform to buoy Illinois housing access",
+      "link": "https://www.housingwire.com/articles/illinois-affordability-housing-policy/",
+      "published": "Thu, 19 Feb 2026"
+    },
+    {
+      "title": "Huntington Bank’s Carolyn Gorman on expanded mortgage footprint with Cadence, Veritex partnerships",
+      "link": "https://www.housingwire.com/articles/huntington-mortgage-expansion-texas-cadence-veritex-acquisitions/",
+      "published": "Thu, 19 Feb 2026"
+    },
+    {
       "title": "For Toll Brothers, disciplined execution beats market uncertainty",
       "link": "https://www.housingwire.com/articles/toll-brothers-q1-2026-operating-model-analysis/",
       "published": "Thu, 19 Feb 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Bachman Realty Group joins The Real Brokerage",
       "link": "https://www.housingwire.com/articles/bachman-realty-group-joins-the-real-brokerage/",
-      "published": "Thu, 19 Feb 2026"
-    },
-    {
-      "title": "Leading the digital shift: DocMagic’s Leah Sommerville on scaling sales and paperless innovation",
-      "link": "https://www.housingwire.com/articles/leah-sommerville-digital-mortgage/",
-      "published": "Thu, 19 Feb 2026"
-    },
-    {
-      "title": "REMAX promotes Chris Lim to president, adds new global sales leaders",
-      "link": "https://www.housingwire.com/articles/remax-leadership-changes/",
       "published": "Thu, 19 Feb 2026"
     },
     {
@@ -221,24 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "MBA: Economic growth steady in 2025, but FHA delinquencies rose",
-        "url": "https://www.housingwire.com/articles/mba-forecast-fha-stress/",
-        "what": "MBA forecasts 2.5% U.S",
-        "numbers": "2.5, 2025,, 2011, 2012.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-forecast-fha-stress/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Pending home sales fall as economic uncertainty remains",
-        "url": "https://www.housingwire.com/articles/pending-home-sales-january/",
-        "what": "Pending home sales fell 0.8% in January, with affordability and low inventory cited as key factors, NAR data shows.",
-        "numbers": "0.8",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pending-home-sales-january/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "All-Cash Home Purchases Ended 2025 at Five-Year Low",
         "url": "https://www.redfin.com/news/all-cash-home-purchases-december-2025/",
         "what": "29% of homebuyers paid with cash in December—the lowest share for that month since 2020—as a drop in mortgage rates diminished the benefits of paying in cash",
@@ -249,6 +231,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Gov. Pritzker calls for zoning reform to buoy Illinois housing access",
+        "url": "https://www.housingwire.com/articles/illinois-affordability-housing-policy/",
+        "what": "Illinois state lawmakers took up housing affordability last year",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/illinois-affordability-housing-policy/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Huntington Bank’s Carolyn Gorman on expanded mortgage footprint with Cadence, Veritex partnerships",
+        "url": "https://www.housingwire.com/articles/huntington-mortgage-expansion-texas-cadence-veritex-acquisitions/",
+        "what": "Huntington Bank projects a 50% rise in mortgage production after acquiring Cadence and Veritex, expanding in Texas and the Southeast.",
+        "numbers": "50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/huntington-mortgage-expansion-texas-cadence-veritex-acquisitions/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "FirstHome IQ partners with MBA to boost loan officer advocacy on Capitol Hill",
         "url": "https://www.housingwire.com/articles/firsthome-iq-mba-advocacy/",
