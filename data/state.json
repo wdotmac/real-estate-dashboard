@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-19 18:06 UTC",
+  "as_of": "2026-02-19 19:09 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Bachman Realty Group joins The Real Brokerage",
+      "link": "https://www.housingwire.com/articles/bachman-realty-group-joins-the-real-brokerage/",
+      "published": "Thu, 19 Feb 2026"
+    },
+    {
       "title": "Leading the digital shift: DocMagic’s Leah Sommerville on scaling sales and paperless innovation",
       "link": "https://www.housingwire.com/articles/leah-sommerville-digital-mortgage/",
       "published": "Thu, 19 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "MBA: Economic growth steady in 2025, but FHA delinquencies rose",
       "link": "https://www.housingwire.com/articles/mba-forecast-fha-stress/",
-      "published": "Thu, 19 Feb 2026"
-    },
-    {
-      "title": "Pending home sales fall as economic uncertainty remains",
-      "link": "https://www.housingwire.com/articles/pending-home-sales-january/",
       "published": "Thu, 19 Feb 2026"
     },
     {
@@ -228,15 +228,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/pending-home-sales-january/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Mixed-density housing keeps expanding as affordability reaches a breaking point",
-        "url": "https://www.housingwire.com/articles/mixed-density-housing-keeps-expanding-as-affordability-reaches-a-breaking-point/",
-        "what": "Housing affordability – and its impact on Americans’ quality of life – is becoming a market- and generation-defining issue",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mixed-density-housing-keeps-expanding-as-affordability-reaches-a-breaking-point/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "All-Cash Home Purchases Ended 2025 at Five-Year Low",
@@ -332,6 +323,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Bachman Realty Group joins The Real Brokerage",
+        "url": "https://www.housingwire.com/articles/bachman-realty-group-joins-the-real-brokerage/",
+        "what": "Led by Tiffany and Greg Bachman, the team closed 650 transactions in 2025 totaling $245 million in sales volume, according to the company.",
+        "numbers": "650, 2025, $245 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bachman-realty-group-joins-the-real-brokerage/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "REMAX promotes Chris Lim to president, adds new global sales leaders",
         "url": "https://www.housingwire.com/articles/remax-leadership-changes/",
