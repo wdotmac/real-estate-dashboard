@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-20 10:58 UTC",
+  "as_of": "2026-02-20 11:46 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Lawmakers press DOJ on Compass-Anywhere Real Estate merger review",
+      "link": "https://www.housingwire.com/articles/real-estate-merger-scrutiny/",
+      "published": "Fri, 20 Feb 2026"
+    },
+    {
       "title": "The hidden cost of move-in friction: Why the first 30 days can  make or break resident loyalty",
       "link": "https://www.housingwire.com/articles/the-hidden-cost-of-move-in-friction-why-the-first-30-days-can-make-or-break-resident-loyalty/",
       "published": "Fri, 20 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "For Toll Brothers, disciplined execution beats market uncertainty",
       "link": "https://www.housingwire.com/articles/toll-brothers-q1-2026-operating-model-analysis/",
-      "published": "Thu, 19 Feb 2026"
-    },
-    {
-      "title": "No exodus after all? Manhattan luxury market sales accelerate under Mamdani",
-      "link": "https://www.housingwire.com/articles/no-exodus-after-all-manhattan-luxury-market-stable-under-mamdani/",
       "published": "Thu, 19 Feb 2026"
     },
     {
@@ -240,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Lawmakers press DOJ on Compass-Anywhere Real Estate merger review",
+        "url": "https://www.housingwire.com/articles/real-estate-merger-scrutiny/",
+        "what": "Lawmakers urge DOJ to detail its review of the $1.6B Compass-Anywhere merger, citing risks to competition and housing costs.",
+        "numbers": "$1.6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-merger-scrutiny/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Gov. Pritzker calls for zoning reform to buoy Illinois housing access",
         "url": "https://www.housingwire.com/articles/illinois-affordability-housing-policy/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/bachman-realty-group-joins-the-real-brokerage/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "REMAX promotes Chris Lim to president, adds new global sales leaders",
-        "url": "https://www.housingwire.com/articles/remax-leadership-changes/",
-        "what": "REMAX promoted Chris Lim to president and announced new global sales leaders, signaling a focus on growth and modernization.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/remax-leadership-changes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
