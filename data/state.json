@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-20 21:41 UTC",
+  "as_of": "2026-02-20 22:47 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Zillow seeks dismissal of consolidated RESPA lawsuit in Seattle",
+      "link": "https://www.housingwire.com/articles/zillow-respa-lawsuit-dismissal/",
+      "published": "Fri, 20 Feb 2026"
+    },
+    {
       "title": "January “green shoots” won’t tell homebuilders what July will",
       "link": "https://www.housingwire.com/articles/cautious-overoptimism-homebuilders-2026/",
       "published": "Fri, 20 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "2025 new-home sales inched up; concessions weakened prices",
       "link": "https://www.housingwire.com/articles/new-home-sales-increased-in-2025/",
-      "published": "Fri, 20 Feb 2026"
-    },
-    {
-      "title": "REMAX posts higher 2025 net income despite U.S. agent drop",
-      "link": "https://www.housingwire.com/articles/remax-agent-count-2025/",
       "published": "Fri, 20 Feb 2026"
     },
     {
@@ -221,15 +221,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Court upholds FinCEN’s anti-money laundering rule for home sales",
-        "url": "https://www.housingwire.com/articles/fincen-aml-rule-lawsuit/",
-        "what": "A federal judge upheld FinCEN’s AML rule for cash home sales, delaying implementation to March 2026 after FNF’s lawsuit.",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fincen-aml-rule-lawsuit/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "All-Cash Home Purchases Ended 2025 at Five-Year Low",
         "url": "https://www.redfin.com/news/all-cash-home-purchases-december-2025/",
         "what": "29% of homebuyers paid with cash in December—the lowest share for that month since 2020—as a drop in mortgage rates diminished the benefits of paying in cash",
@@ -240,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Zillow seeks dismissal of consolidated RESPA lawsuit in Seattle",
+        "url": "https://www.housingwire.com/articles/zillow-respa-lawsuit-dismissal/",
+        "what": "Zillow filed to dismiss a consolidated RESPA lawsuit, arguing no harm or illegal referrals in its agent and loan programs.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-respa-lawsuit-dismissal/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "January “green shoots” won’t tell homebuilders what July will",
         "url": "https://www.housingwire.com/articles/cautious-overoptimism-homebuilders-2026/",
