@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-23 10:12 UTC",
+  "as_of": "2026-02-23 11:08 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Dan Hultquist on HECM reforms, proprietary loans and getting more ‘young blood’ in sales",
+      "link": "https://www.housingwire.com/articles/reverse-mortgage-policy-proprietary-loans-tech/",
+      "published": "Mon, 23 Feb 2026"
+    },
+    {
       "title": "The rental market has entered its infrastructure era",
       "link": "https://www.housingwire.com/articles/the-rental-market-has-entered-its-infrastructure-era/",
       "published": "Mon, 23 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Trade groups push for lower MSR capital charges, tailored mortgage risk weights",
       "link": "https://www.housingwire.com/articles/mortgage-lender-groups-bank-capital-rules/",
-      "published": "Fri, 20 Feb 2026"
-    },
-    {
-      "title": "Opendoor posts $1.3B loss in 2025 but sees path to profitability",
-      "link": "https://www.housingwire.com/articles/opendoor-2025-loss-profit/",
       "published": "Fri, 20 Feb 2026"
     },
     {
@@ -231,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Dan Hultquist on HECM reforms, proprietary loans and getting more ‘young blood’ in sales",
+        "url": "https://www.housingwire.com/articles/reverse-mortgage-policy-proprietary-loans-tech/",
+        "what": "Reverse mortgage expert Dan Hultquist discusses HECM reform, proprietary loan trends and the role of technology in industry growth.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-policy-proprietary-loans-tech/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "The rental market has entered its infrastructure era",
         "url": "https://www.housingwire.com/articles/the-rental-market-has-entered-its-infrastructure-era/",
@@ -311,15 +320,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-january-2026/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "U.S. Home Prices Crept Up 0.3% in January",
-        "url": "https://www.redfin.com/news/home-price-index-january-2026/",
-        "what": "U.S",
-        "numbers": "0.3, 2.1, 14",
-        "justified": "redfin.com — https://www.redfin.com/news/home-price-index-january-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
@@ -329,15 +329,6 @@
         "what": "REMAX’s 2025 net income rose to $8.2 million as U.S",
         "numbers": "2025, $8.2 million, 6.1, 7.9",
         "justified": "housingwire.com — https://www.housingwire.com/articles/remax-agent-count-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Kiavi closes $350M RTL securitization, nears $7B in total issuance",
-        "url": "https://www.housingwire.com/articles/kiavi-350m-securitization/",
-        "what": "Kiavi closed a $350M securitization, adding $1.2B in funding and expanding its AI-powered platform for real estate investors.",
-        "numbers": "$350, $1.2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kiavi-350m-securitization/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
