@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-23 16:02 UTC",
+  "as_of": "2026-02-23 17:18 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Keller Williams unveils revamped Command platform",
+      "link": "https://www.housingwire.com/articles/keller-williams-command-crm/",
+      "published": "Mon, 23 Feb 2026"
+    },
+    {
+      "title": "Data, not doom: Gary Keller makes the case for housing optimism",
+      "link": "https://www.housingwire.com/articles/keller-williams-2026-forecast/",
+      "published": "Mon, 23 Feb 2026"
+    },
+    {
       "title": "Ownwell raises $50M to expand AI-powered property tax appeal services",
       "link": "https://www.housingwire.com/articles/ownwell-property-tax-appeal-funding/",
       "published": "Mon, 23 Feb 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Rate unveils RateFi, enabling crypto assets for mortgage qualification",
       "link": "https://www.housingwire.com/articles/ratefi-crypto-mortgage-launch/",
-      "published": "Mon, 23 Feb 2026"
-    },
-    {
-      "title": "Midwest apartment demand outpaces Sun Belt as rents remain firm",
-      "link": "https://www.housingwire.com/articles/midwest-apartment-demand-2026/",
-      "published": "Mon, 23 Feb 2026"
-    },
-    {
-      "title": "Dan Hultquist on HECM reforms, proprietary loans and getting more ‘young blood’ in sales",
-      "link": "https://www.housingwire.com/articles/reverse-mortgage-policy-proprietary-loans-tech/",
       "published": "Mon, 23 Feb 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Data, not doom: Gary Keller makes the case for housing optimism",
+        "url": "https://www.housingwire.com/articles/keller-williams-2026-forecast/",
+        "what": "Keller Williams forecasts 4.3 million home sales, $2.4 trillion in volume, and 5.9% mortgage rates for 2026.",
+        "numbers": "4.3 million, $2.4, 5.9, 2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/keller-williams-2026-forecast/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Weekly pending home sales back to year-over-year growth as we head into spring",
         "url": "https://www.housingwire.com/articles/pending-sales-inventory-growth-2026/",
@@ -268,24 +277,6 @@
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
-        "title": "Zillow seeks dismissal of consolidated RESPA lawsuit in Seattle",
-        "url": "https://www.housingwire.com/articles/zillow-respa-lawsuit-dismissal/",
-        "what": "Zillow filed to dismiss a consolidated RESPA lawsuit, arguing no harm or illegal referrals in its agent and loan programs.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-respa-lawsuit-dismissal/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "January “green shoots” won’t tell homebuilders what July will",
-        "url": "https://www.housingwire.com/articles/cautious-overoptimism-homebuilders-2026/",
-        "what": "If you walked the aisles at this year’s International Builders Show, you could feel it",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cautious-overoptimism-homebuilders-2026/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Home Prices Start Year Up Just 1% as Buyer’s Market Keeps Growth in Check",
         "url": "https://www.redfin.com/news/home-prices-rise-january-2026/",
         "what": "Pending home sales fell to the lowest level since 2023 and existing-home sales dropped the most since 2022 as elevated housing costs curbed homebuyer demand",
@@ -302,9 +293,36 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-fall-slow-winter/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Coastal Florida Dominated January’s Priciest Home Sales, Led By $55M Naples Estate",
+        "url": "https://www.redfin.com/news/most-expensive-home-sales-january-2026/",
+        "what": "Last month’s ultra high-end home sales also included a ranch in Aspen and a beachfront villa in Hawaii",
+        "numbers": "$55 million, $42 million, $55",
+        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-january-2026/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "U.S. Home Prices Crept Up 0.3% in January",
+        "url": "https://www.redfin.com/news/home-price-index-january-2026/",
+        "what": "U.S",
+        "numbers": "0.3, 2.1, 14",
+        "justified": "redfin.com — https://www.redfin.com/news/home-price-index-january-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
+      {
+        "title": "Keller Williams unveils revamped Command platform",
+        "url": "https://www.housingwire.com/articles/keller-williams-command-crm/",
+        "what": "The new Command platform features integrations with leading proptech tools and AI, supporting agent productivity and growth.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/keller-williams-command-crm/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Ownwell raises $50M to expand AI-powered property tax appeal services",
         "url": "https://www.housingwire.com/articles/ownwell-property-tax-appeal-funding/",
