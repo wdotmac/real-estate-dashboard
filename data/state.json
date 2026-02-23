@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-23 11:54 UTC",
+  "as_of": "2026-02-23 13:41 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Midwest apartment demand outpaces Sun Belt as rents remain firm",
+      "link": "https://www.housingwire.com/articles/midwest-apartment-demand-2026/",
+      "published": "Mon, 23 Feb 2026"
+    },
+    {
       "title": "Dan Hultquist on HECM reforms, proprietary loans and getting more ‘young blood’ in sales",
       "link": "https://www.housingwire.com/articles/reverse-mortgage-policy-proprietary-loans-tech/",
       "published": "Mon, 23 Feb 2026"
@@ -165,9 +170,9 @@
       "published": "Fri, 20 Feb 2026"
     },
     {
-      "title": "Trade groups push for lower MSR capital charges, tailored mortgage risk weights",
-      "link": "https://www.housingwire.com/articles/mortgage-lender-groups-bank-capital-rules/",
-      "published": "Fri, 20 Feb 2026"
+      "title": "It’s a Buyer’s Market: America Has 44% More Home Sellers Than Buyers—a Near-Record Gap",
+      "link": "https://www.redfin.com/news/buyers-vs-sellers-january-2025/",
+      "published": "Mon, 23 Feb 2026"
     },
     {
       "title": "Home Prices Start Year Up Just 1% as Buyer’s Market Keeps Growth in Check",
@@ -193,11 +198,6 @@
       "title": "All-Cash Home Purchases Ended 2025 at Five-Year Low",
       "link": "https://www.redfin.com/news/all-cash-home-purchases-december-2025/",
       "published": "Mon, 16 Feb 2026"
-    },
-    {
-      "title": "Homebuyer Down Payments Shrink for First Time in 5 Months",
-      "link": "https://www.redfin.com/news/down-payments-fall-december-2025/",
-      "published": "Mon, 16 Feb 2026"
     }
   ],
   "feed_101020": {
@@ -219,18 +219,27 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-lender-groups-bank-capital-rules/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "All-Cash Home Purchases Ended 2025 at Five-Year Low",
-        "url": "https://www.redfin.com/news/all-cash-home-purchases-december-2025/",
-        "what": "29% of homebuyers paid with cash in December—the lowest share for that month since 2020—as a drop in mortgage rates diminished the benefits of paying in cash",
-        "numbers": "29, 2020, 14, 2025",
-        "justified": "redfin.com — https://www.redfin.com/news/all-cash-home-purchases-december-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "It’s a Buyer’s Market: America Has 44% More Home Sellers Than Buyers—a Near-Record Gap",
+        "url": "https://www.redfin.com/news/buyers-vs-sellers-january-2025/",
+        "what": "There are 600,000 more home sellers than buyers, giving the buyers who are in the market negotiating power",
+        "numbers": "600,000, 44",
+        "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-january-2025/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Midwest apartment demand outpaces Sun Belt as rents remain firm",
+        "url": "https://www.housingwire.com/articles/midwest-apartment-demand-2026/",
+        "what": "Midwest apartment demand has quietly become one of the strongest stories in U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/midwest-apartment-demand-2026/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
       {
         "title": "Dan Hultquist on HECM reforms, proprietary loans and getting more ‘young blood’ in sales",
         "url": "https://www.housingwire.com/articles/reverse-mortgage-policy-proprietary-loans-tech/",
@@ -302,36 +311,8 @@
         "justified": "redfin.com — https://www.redfin.com/news/home-prices-rise-january-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Pending U.S. Home Sales Fall 6% As Would-Be Buyers Sit Out Slow Winter Market",
-        "url": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-slow-winter/",
-        "what": "The typical home is taking 67 days to go under contract, the longest span in seven years",
-        "numbers": "67, 5.8, 15,, 6",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-fall-slow-winter/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Coastal Florida Dominated January’s Priciest Home Sales, Led By $55M Naples Estate",
-        "url": "https://www.redfin.com/news/most-expensive-home-sales-january-2026/",
-        "what": "Last month’s ultra high-end home sales also included a ranch in Aspen and a beachfront villa in Hawaii",
-        "numbers": "$55 million, $42 million, $55",
-        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-january-2026/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
-    "notables": [
-      {
-        "title": "REMAX posts higher 2025 net income despite U.S. agent drop",
-        "url": "https://www.housingwire.com/articles/remax-agent-count-2025/",
-        "what": "REMAX’s 2025 net income rose to $8.2 million as U.S",
-        "numbers": "2025, $8.2 million, 6.1, 7.9",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/remax-agent-count-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      }
-    ]
+    "notables": []
   }
 }
