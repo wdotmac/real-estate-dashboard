@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-23 13:41 UTC",
+  "as_of": "2026-02-23 15:06 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "This paint may alter how builders fight mold and moisture damage",
+      "link": "https://www.housingwire.com/articles/lilypad-paint-excess-moisture/",
+      "published": "Mon, 23 Feb 2026"
+    },
+    {
+      "title": "NAR to highlight Realtor services, value in new campaign",
+      "link": "https://www.housingwire.com/articles/nar-to-highlight-realtor-services-value-in-new-campaign/",
+      "published": "Mon, 23 Feb 2026"
+    },
+    {
+      "title": "Rate unveils RateFi, enabling crypto assets for mortgage qualification",
+      "link": "https://www.housingwire.com/articles/ratefi-crypto-mortgage-launch/",
+      "published": "Mon, 23 Feb 2026"
+    },
+    {
       "title": "Midwest apartment demand outpaces Sun Belt as rents remain firm",
       "link": "https://www.housingwire.com/articles/midwest-apartment-demand-2026/",
       "published": "Mon, 23 Feb 2026"
@@ -153,21 +168,6 @@
       "title": "The rental market has entered its infrastructure era",
       "link": "https://www.housingwire.com/articles/the-rental-market-has-entered-its-infrastructure-era/",
       "published": "Mon, 23 Feb 2026"
-    },
-    {
-      "title": "Weekly pending home sales back to year-over-year growth as we head into spring",
-      "link": "https://www.housingwire.com/articles/pending-sales-inventory-growth-2026/",
-      "published": "Sun, 22 Feb 2026"
-    },
-    {
-      "title": "Zillow seeks dismissal of consolidated RESPA lawsuit in Seattle",
-      "link": "https://www.housingwire.com/articles/zillow-respa-lawsuit-dismissal/",
-      "published": "Fri, 20 Feb 2026"
-    },
-    {
-      "title": "January “green shoots” won’t tell homebuilders what July will",
-      "link": "https://www.housingwire.com/articles/cautious-overoptimism-homebuilders-2026/",
-      "published": "Fri, 20 Feb 2026"
     },
     {
       "title": "It’s a Buyer’s Market: America Has 44% More Home Sellers Than Buyers—a Near-Record Gap",
@@ -223,6 +223,24 @@
     ],
     "housing": [
       {
+        "title": "This paint may alter how builders fight mold and moisture damage",
+        "url": "https://www.housingwire.com/articles/lilypad-paint-excess-moisture/",
+        "what": "Lilypad paint leverages Vaporwisp technology to absorb humidity and lower home energy use, with pilot tests underway.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lilypad-paint-excess-moisture/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Rate unveils RateFi, enabling crypto assets for mortgage qualification",
+        "url": "https://www.housingwire.com/articles/ratefi-crypto-mortgage-launch/",
+        "what": "RateFi lets borrowers use verified cryptocurrency as income and reserves for mortgages without requiring liquidation.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ratefi-crypto-mortgage-launch/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "It’s a Buyer’s Market: America Has 44% More Home Sellers Than Buyers—a Near-Record Gap",
         "url": "https://www.redfin.com/news/buyers-vs-sellers-january-2025/",
         "what": "There are 600,000 more home sellers than buyers, giving the buyers who are in the market negotiating power",
@@ -277,33 +295,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Opendoor posts $1.3B loss in 2025 but sees path to profitability",
-        "url": "https://www.housingwire.com/articles/opendoor-2025-loss-profit/",
-        "what": "Opendoor lost $1.3B in 2025 as home sales and purchases fell, but executives project breakeven by end of 2026.",
-        "numbers": "$1.3, 2025, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-2025-loss-profit/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "New home sales still at multiyear highs",
-        "url": "https://www.housingwire.com/articles/housing-permits-new-home-sales/",
-        "what": "New home sales remain steady at 745,000 in December 2025, while housing permits show no growth and inventory declines.",
-        "numbers": "745,000, 2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-permits-new-home-sales/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "2025 new-home sales inched up; concessions weakened prices",
-        "url": "https://www.housingwire.com/articles/new-home-sales-increased-in-2025/",
-        "what": "New home sales rose 3.8% in 2025 as builders cut prices and offered incentives, but inventory remains above historic norms.",
-        "numbers": "3.8, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-sales-increased-in-2025/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Home Prices Start Year Up Just 1% as Buyer’s Market Keeps Growth in Check",
         "url": "https://www.redfin.com/news/home-prices-rise-january-2026/",
         "what": "Pending home sales fell to the lowest level since 2023 and existing-home sales dropped the most since 2022 as elevated housing costs curbed homebuyer demand",
@@ -311,8 +302,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/home-prices-rise-january-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Pending U.S. Home Sales Fall 6% As Would-Be Buyers Sit Out Slow Winter Market",
+        "url": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-slow-winter/",
+        "what": "The typical home is taking 67 days to go under contract, the longest span in seven years",
+        "numbers": "67, 5.8, 15,, 6",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-fall-slow-winter/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
-    "notables": []
+    "notables": [
+      {
+        "title": "NAR to highlight Realtor services, value in new campaign",
+        "url": "https://www.housingwire.com/articles/nar-to-highlight-realtor-services-value-in-new-campaign/",
+        "what": "The campaign showcases Realtors services such as managing negotiations, coordinating stakeholders and navigating complex regulations.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-to-highlight-realtor-services-value-in-new-campaign/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      }
+    ]
   }
 }
