@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-23 07:20 UTC",
+  "as_of": "2026-02-23 09:07 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The rental market has entered its infrastructure era",
+      "link": "https://www.housingwire.com/articles/the-rental-market-has-entered-its-infrastructure-era/",
+      "published": "Mon, 23 Feb 2026"
+    },
+    {
       "title": "Weekly pending home sales back to year-over-year growth as we head into spring",
       "link": "https://www.housingwire.com/articles/pending-sales-inventory-growth-2026/",
       "published": "Sun, 22 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Opendoor posts $1.3B loss in 2025 but sees path to profitability",
       "link": "https://www.housingwire.com/articles/opendoor-2025-loss-profit/",
-      "published": "Fri, 20 Feb 2026"
-    },
-    {
-      "title": "New home sales still at multiyear highs",
-      "link": "https://www.housingwire.com/articles/housing-permits-new-home-sales/",
       "published": "Fri, 20 Feb 2026"
     },
     {
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Study finds wide credit score gaps across bureaus amid tri-merge debate",
-        "url": "https://www.housingwire.com/articles/credit-score-discrepancies-trimerge/",
-        "what": "A study by Andrew Davidson & Co",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/credit-score-discrepancies-trimerge/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "All-Cash Home Purchases Ended 2025 at Five-Year Low",
         "url": "https://www.redfin.com/news/all-cash-home-purchases-december-2025/",
         "what": "29% of homebuyers paid with cash in December—the lowest share for that month since 2020—as a drop in mortgage rates diminished the benefits of paying in cash",
@@ -240,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "The rental market has entered its infrastructure era",
+        "url": "https://www.housingwire.com/articles/the-rental-market-has-entered-its-infrastructure-era/",
+        "what": "The next housing transition will not be defined by who builds the most units",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-rental-market-has-entered-its-infrastructure-era/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
       {
         "title": "Zillow seeks dismissal of consolidated RESPA lawsuit in Seattle",
         "url": "https://www.housingwire.com/articles/zillow-respa-lawsuit-dismissal/",
@@ -318,15 +318,6 @@
         "what": "U.S",
         "numbers": "0.3, 2.1, 14",
         "justified": "redfin.com — https://www.redfin.com/news/home-price-index-january-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Homebuyer Down Payments Shrink for First Time in 5 Months",
-        "url": "https://www.redfin.com/news/down-payments-fall-december-2025/",
-        "what": "The typical homebuyer’s down payment dropped 1.5% year over year in December to $64,000 as elevated housing costs and increased negotiating power drove buyers to spend less upfront",
-        "numbers": "1.5, $64,000, 15.2, 16.7, 5",
-        "justified": "redfin.com — https://www.redfin.com/news/down-payments-fall-december-2025/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
