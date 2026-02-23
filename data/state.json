@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-02-23 21:02 UTC",
+  "as_of": "2026-02-23 22:02 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
       "yield_pct": 4.08,
-      "delta_bp_1d": -0.9999999999999787
+      "delta_bp_1d": 0.0
     },
     "mortgage_30y": {
       "rate_pct": 6.01,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "C2 Financial pushes for nationwide growth, top broker ranking",
+      "link": "https://www.housingwire.com/articles/c2-financial-top-broker-ranking/",
+      "published": "Mon, 23 Feb 2026"
+    },
+    {
+      "title": "The hidden housing cost Washington can’t ignore: real estate fraud",
+      "link": "https://www.housingwire.com/articles/title-insurance-fraud-risk/",
+      "published": "Mon, 23 Feb 2026"
+    },
+    {
       "title": "Fix-and-flip investor sentiment climbs even as 2025 activity declines",
       "link": "https://www.housingwire.com/articles/fix-flip-sentiment-2026/",
       "published": "Mon, 23 Feb 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Where does HUD’s potential reverse mortgage revamp stand?",
       "link": "https://www.housingwire.com/articles/hud-reverse-mortgage-changes/",
-      "published": "Mon, 23 Feb 2026"
-    },
-    {
-      "title": "Compass launches referral program for listing agents’ buyer leads",
-      "link": "https://www.housingwire.com/articles/compass-listing-agent-referral/",
-      "published": "Mon, 23 Feb 2026"
-    },
-    {
-      "title": "City Lending to shut down amid regulatory strain, market consolidation",
-      "link": "https://www.housingwire.com/articles/city-lending-shutdown/",
       "published": "Mon, 23 Feb 2026"
     },
     {
@@ -214,8 +214,8 @@
       {
         "title": "Mortgage Rates Drop to Lowest Level Since 2022, Handing Homebuyers More Purchasing Power",
         "url": "https://www.redfin.com/news/purchasing-power-up-mortgage-rates-down/",
-        "what": "The daily average mortgage rate dropped to 5.99% on February 23, the lowest level since September 2022, except for a few hours on January 9 when rates fell to the same level",
-        "numbers": "5.99, 23,, 2022,, 9, $3,000, $479,750",
+        "what": "Along with more purchasing power, house hunters have negotiating power as sellers greatly outnumber buyers",
+        "numbers": "5.99, 23,, 2022,, 9, $3,000",
         "justified": "redfin.com — https://www.redfin.com/news/purchasing-power-up-mortgage-rates-down/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
@@ -228,18 +228,18 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/hud-reverse-mortgage-changes/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Data, not doom: Gary Keller makes the case for housing optimism",
-        "url": "https://www.housingwire.com/articles/keller-williams-2026-forecast/",
-        "what": "Keller Williams forecasts 4.3 million home sales, $2.4 trillion in volume, and 5.9% mortgage rates for 2026.",
-        "numbers": "4.3 million, $2.4, 5.9, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/keller-williams-2026-forecast/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "The hidden housing cost Washington can’t ignore: real estate fraud",
+        "url": "https://www.housingwire.com/articles/title-insurance-fraud-risk/",
+        "what": "Fraud risk is a housing affordability factor, with 2024 losses near $175m and average claims above $143,000, per FBI data.",
+        "numbers": "2024, $175, $143,000,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/title-insurance-fraud-risk/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Compass launches referral program for listing agents’ buyer leads",
         "url": "https://www.housingwire.com/articles/compass-listing-agent-referral/",
@@ -306,6 +306,15 @@
     ],
     "notables": [
       {
+        "title": "C2 Financial pushes for nationwide growth, top broker ranking",
+        "url": "https://www.housingwire.com/articles/c2-financial-top-broker-ranking/",
+        "what": "C2 Financial plans to boost volume beyond 10,000 loans and $5.5 billion, using AI, recruiting and expansion from 42 states to 50.",
+        "numbers": "2, 10,000, $5.5 billion, 42, 50.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/c2-financial-top-broker-ranking/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Fix-and-flip investor sentiment climbs even as 2025 activity declines",
         "url": "https://www.housingwire.com/articles/fix-flip-sentiment-2026/",
         "what": "Fix-and-flip investor optimism rose sharply, yet Q4 2025 sales volume dropped to the lowest since 2015, a recent survey found.",
@@ -338,15 +347,6 @@
         "what": "The new Command platform features integrations with leading proptech tools and AI, supporting agent productivity and growth.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/keller-williams-command-crm/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Ownwell raises $50M to expand AI-powered property tax appeal services",
-        "url": "https://www.housingwire.com/articles/ownwell-property-tax-appeal-funding/",
-        "what": "Ownwell raised $50M to expand AI-powered property tax appeal services, reporting 86% success and $774 average savings per customer.",
-        "numbers": "$50, 86, $774",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ownwell-property-tax-appeal-funding/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
