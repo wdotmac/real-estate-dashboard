@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-24 11:55 UTC",
+  "as_of": "2026-02-24 13:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,16 @@
       "published": "Mon, 23 Feb 2026"
     },
     {
+      "title": "Nearly 1 in 7 Home Sales Are Falling Through, a Record For This Time of Year",
+      "link": "https://www.redfin.com/news/pending-sales-fall-through-january-2026/",
+      "published": "Tue, 24 Feb 2026"
+    },
+    {
+      "title": "Half of Americans Struggle to Pay Rent or Mortgage, With Gen Z Hit Hardest",
+      "link": "https://www.redfin.com/news/struggle-to-pay-housing-gen-z/",
+      "published": "Tue, 24 Feb 2026"
+    },
+    {
       "title": "Mortgage Rates Drop to Lowest Level Since 2022, Handing Homebuyers More Purchasing Power",
       "link": "https://www.redfin.com/news/purchasing-power-up-mortgage-rates-down/",
       "published": "Mon, 23 Feb 2026"
@@ -188,16 +198,6 @@
       "title": "Pending U.S. Home Sales Fall 6% As Would-Be Buyers Sit Out Slow Winter Market",
       "link": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-slow-winter/",
       "published": "Thu, 19 Feb 2026"
-    },
-    {
-      "title": "Coastal Florida Dominated January’s Priciest Home Sales, Led By $55M Naples Estate",
-      "link": "https://www.redfin.com/news/most-expensive-home-sales-january-2026/",
-      "published": "Wed, 18 Feb 2026"
-    },
-    {
-      "title": "U.S. Home Prices Crept Up 0.3% in January",
-      "link": "https://www.redfin.com/news/home-price-index-january-2026/",
-      "published": "Tue, 17 Feb 2026"
     }
   ],
   "feed_101020": {
@@ -240,6 +240,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Nearly 1 in 7 Home Sales Are Falling Through, a Record For This Time of Year",
+        "url": "https://www.redfin.com/news/pending-sales-fall-through-january-2026/",
+        "what": "Home-purchase agreements are canceled at the highest rate in San Antonio, where sellers outnumber buyers two to one–giving buyers the upper hand and plenty of choices",
+        "numbers": "40,000, 13.7, 13.1, 1, 7",
+        "justified": "redfin.com — https://www.redfin.com/news/pending-sales-fall-through-january-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Half of Americans Struggle to Pay Rent or Mortgage, With Gen Z Hit Hardest",
+        "url": "https://www.redfin.com/news/struggle-to-pay-housing-gen-z/",
+        "what": "A higher share of Americans struggle to afford housing than last spring, according to a Redfin survey",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/struggle-to-pay-housing-gen-z/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "The hidden housing cost Washington can’t ignore: real estate fraud",
         "url": "https://www.housingwire.com/articles/title-insurance-fraud-risk/",
@@ -284,24 +302,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-fall-slow-winter/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Coastal Florida Dominated January’s Priciest Home Sales, Led By $55M Naples Estate",
-        "url": "https://www.redfin.com/news/most-expensive-home-sales-january-2026/",
-        "what": "Last month’s ultra high-end home sales also included a ranch in Aspen and a beachfront villa in Hawaii",
-        "numbers": "$55 million, $42 million, $55",
-        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-january-2026/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "U.S. Home Prices Crept Up 0.3% in January",
-        "url": "https://www.redfin.com/news/home-price-index-january-2026/",
-        "what": "U.S",
-        "numbers": "0.3, 2.1, 14",
-        "justified": "redfin.com — https://www.redfin.com/news/home-price-index-january-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
