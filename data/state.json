@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-24 15:09 UTC",
+  "as_of": "2026-02-24 16:13 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Opendoor returns to mortgages with beta launch",
+      "link": "https://www.housingwire.com/articles/opendoor-mortgage-product-beta/",
+      "published": "Tue, 24 Feb 2026"
+    },
+    {
+      "title": "Optimal Blue launches AI-powered forecasting tool for mortgage capital markets",
+      "link": "https://www.housingwire.com/articles/optimal-blue-virtual-economist-launch/",
+      "published": "Tue, 24 Feb 2026"
+    },
+    {
+      "title": "AMH posts revenue gains despite overbuild and vacancy hurdles",
+      "link": "https://www.housingwire.com/articles/amh-earnings-call-q4-2025/",
+      "published": "Tue, 24 Feb 2026"
+    },
+    {
+      "title": "Case-Shiller data shows real home price returns turned negative in 2025",
+      "link": "https://www.housingwire.com/articles/case-shiller-december-growth/",
+      "published": "Tue, 24 Feb 2026"
+    },
+    {
       "title": "AI for real estate agents: How to make friends with the bots and grow your business",
       "link": "https://www.housingwire.com/articles/ai-in-real-estate-certification-colibri/",
       "published": "Tue, 24 Feb 2026"
@@ -148,26 +168,6 @@
       "title": "Turbo-charging development returns with The Launch Bond",
       "link": "https://www.housingwire.com/articles/turbo-charging-development-returns-with-the-launch-bond/",
       "published": "Tue, 24 Feb 2026"
-    },
-    {
-      "title": "UHG goes private: Daiwa House’s Stanley Martin strikes $221M deal",
-      "link": "https://www.housingwire.com/articles/stanley-martin-acquires-uhg-221m/",
-      "published": "Mon, 23 Feb 2026"
-    },
-    {
-      "title": "C2 Financial pushes for nationwide growth, top broker ranking",
-      "link": "https://www.housingwire.com/articles/c2-financial-top-broker-ranking/",
-      "published": "Mon, 23 Feb 2026"
-    },
-    {
-      "title": "The hidden housing cost Washington can’t ignore: real estate fraud",
-      "link": "https://www.housingwire.com/articles/title-insurance-fraud-risk/",
-      "published": "Mon, 23 Feb 2026"
-    },
-    {
-      "title": "Fix-and-flip investor sentiment climbs even as 2025 activity declines",
-      "link": "https://www.housingwire.com/articles/fix-flip-sentiment-2026/",
-      "published": "Mon, 23 Feb 2026"
     },
     {
       "title": "Nearly 1 in 7 Home Sales Are Falling Through, a Record For This Time of Year",
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Spreads play the superhero as mortgage rates move below 6% again",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-under-6-spreads/",
-        "what": "After a weekend of crazy headlines and a stock sell-off on Monday morning, bond yields are close to hitting 4% again, but mortgage rates are back under 6% once again, which is the",
-        "numbers": "4, 6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-under-6-spreads/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Mortgage Rates Drop to Lowest Level Since 2022, Handing Homebuyers More Purchasing Power",
         "url": "https://www.redfin.com/news/purchasing-power-up-mortgage-rates-down/",
         "what": "Along with more purchasing power, house hunters have negotiating power as sellers greatly outnumber buyers",
@@ -228,18 +219,36 @@
         "justified": "redfin.com — https://www.redfin.com/news/purchasing-power-up-mortgage-rates-down/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Where does HUD’s potential reverse mortgage revamp stand?",
-        "url": "https://www.housingwire.com/articles/hud-reverse-mortgage-changes/",
-        "what": "Nearly two months after three federal housing agencies wrapped up an extended public comment period about the future of two federal reverse mortgage programs, industry stakeholders",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-reverse-mortgage-changes/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Opendoor returns to mortgages with beta launch",
+        "url": "https://www.housingwire.com/articles/opendoor-mortgage-product-beta/",
+        "what": "iBuyer Opendoor is rolling out a new mortgage product to a limited group of users, marking a return to home financing.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-mortgage-product-beta/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Optimal Blue launches AI-powered forecasting tool for mortgage capital markets",
+        "url": "https://www.housingwire.com/articles/optimal-blue-virtual-economist-launch/",
+        "what": "Executives at Optimal Blue said that Virtual Economist is the \"centerpiece\" of nine platform improvements that aim to improve profitability for capital markets firms.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/optimal-blue-virtual-economist-launch/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "AMH posts revenue gains despite overbuild and vacancy hurdles",
+        "url": "https://www.housingwire.com/articles/amh-earnings-call-q4-2025/",
+        "what": "AMH plans 1,900 BTR deliveries in 2026 as Q4 occupancy hit 95.0%, down 400 bps, and rent growth nationally slowed.",
+        "numbers": "1,900, 2026, 4, 95.0, 400",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/amh-earnings-call-q4-2025/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
       {
         "title": "Nearly 1 in 7 Home Sales Are Falling Through, a Record For This Time of Year",
         "url": "https://www.redfin.com/news/pending-sales-fall-through-january-2026/",
@@ -266,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/title-insurance-fraud-risk/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Compass launches referral program for listing agents’ buyer leads",
-        "url": "https://www.housingwire.com/articles/compass-listing-agent-referral/",
-        "what": "New Compass program pays listing agents a 10% fee for referring buyer inquiries from their listings to colleagues.",
-        "numbers": "10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-listing-agent-referral/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "It’s a Buyer’s Market: America Has 44% More Home Sellers Than Buyers—a Near-Record Gap",
@@ -305,6 +305,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Case-Shiller data shows real home price returns turned negative in 2025",
+        "url": "https://www.housingwire.com/articles/case-shiller-december-growth/",
+        "what": "Case-Shiller national index rose 1.3% year over year in December and fell 0.3% month over month before adjustment.",
+        "numbers": "1.3, 0.3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/case-shiller-december-growth/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "AI for real estate agents: How to make friends with the bots and grow your business",
         "url": "https://www.housingwire.com/articles/ai-in-real-estate-certification-colibri/",
@@ -338,15 +347,6 @@
         "what": "Fix-and-flip investor optimism rose sharply, yet Q4 2025 sales volume dropped to the lowest since 2015, a recent survey found.",
         "numbers": "4, 2025, 2015,",
         "justified": "housingwire.com — https://www.housingwire.com/articles/fix-flip-sentiment-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "VoicePilot lets CAR members draft forms by voice",
-        "url": "https://www.housingwire.com/articles/car-ethica-ai-voicepilot/",
-        "what": "CAR is rolling out Ethica AI’s VoicePilot via REBS, enabling agents to draft select CAR forms by voice inside zipForms workflows.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/car-ethica-ai-voicepilot/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
