@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-25 07:16 UTC",
+  "as_of": "2026-02-25 09:07 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Why eNotes are moving from optional to operational",
+      "link": "https://www.housingwire.com/articles/why-enotes-are-moving-from-optional-to-operational/",
+      "published": "Wed, 25 Feb 2026"
+    },
+    {
       "title": "Trump State of the Union offers few housing details",
       "link": "https://www.housingwire.com/articles/trump-state-of-the-union-offers-few-housing-details/",
       "published": "Wed, 25 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Friday Harbor adds income and asset scenario testing for LOs",
       "link": "https://www.housingwire.com/articles/income-asset-scenario-testing/",
-      "published": "Tue, 24 Feb 2026"
-    },
-    {
-      "title": "ICE’s Matt Dowd: MSP updates are ‘just a foundation’ for AI journey",
-      "link": "https://www.housingwire.com/articles/ice-msp-automation/",
       "published": "Tue, 24 Feb 2026"
     },
     {
@@ -240,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Why eNotes are moving from optional to operational",
+        "url": "https://www.housingwire.com/articles/why-enotes-are-moving-from-optional-to-operational/",
+        "what": "For years, electronic promissory notes occupied an awkward middle ground in mortgage lending",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-enotes-are-moving-from-optional-to-operational/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Builders engineer payments, not prices — LGI results highlight why",
         "url": "https://www.housingwire.com/articles/lgi-homes-spring-2026-entry-level-demand-bellwether/",
@@ -338,15 +347,6 @@
         "what": "Houlihan Lawrence added eight agents in Yonkers, including three from REMAX in The City and the Vision Alliance Team.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/houlihan-lawrence-yonkers-agents/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Real Brokerage adds RealTrends Verified Haley Garcia team in The Woodlands",
-        "url": "https://www.housingwire.com/articles/garcia-group-joins-real/",
-        "what": "Haley Garcia’s 5-agent Garcia Real Estate Group joined Real Luxury in The Woodlands after ranking No",
-        "numbers": "5, 19",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/garcia-group-joins-real/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
