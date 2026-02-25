@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-25 21:49 UTC",
+  "as_of": "2026-02-25 22:52 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Housing leaders say Trump’s plan must go deeper than lower mortgage rates",
+      "link": "https://www.housingwire.com/articles/housing-trump-mortgage-rates-state-of-the-union/",
+      "published": "Wed, 25 Feb 2026"
+    },
+    {
+      "title": "How one Florida community transformed hurricane resilience into record sales",
+      "link": "https://www.housingwire.com/articles/babcock-ranch-sustainability/",
+      "published": "Wed, 25 Feb 2026"
+    },
+    {
       "title": "Brown Harris Stevens adds Corcoran agent Debbie Baum",
       "link": "https://www.housingwire.com/articles/baum-joins-bhs-east-side/",
       "published": "Wed, 25 Feb 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Retirement planning faces longevity risk as Americans live longer",
       "link": "https://www.housingwire.com/articles/living-longer-retirement-risk/",
-      "published": "Wed, 25 Feb 2026"
-    },
-    {
-      "title": "Homes.com metrics climb as CoStar profit slides in 2025",
-      "link": "https://www.housingwire.com/articles/costar-q4-2025-earnings/",
-      "published": "Wed, 25 Feb 2026"
-    },
-    {
-      "title": "Dark Matter adds AI agents inside Empower LOS",
-      "link": "https://www.housingwire.com/articles/dark-matter-mcp-empower-ai/",
       "published": "Wed, 25 Feb 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Housing leaders say Trump’s plan must go deeper than lower mortgage rates",
+        "url": "https://www.housingwire.com/articles/housing-trump-mortgage-rates-state-of-the-union/",
+        "what": "Industry leaders said Trump’s address left housing affordability largely unaddressed, with more focus on tariffs and investor restrictions.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-trump-mortgage-rates-state-of-the-union/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Addy AI integrates with ICE Encompass for loan officer workflows",
         "url": "https://www.housingwire.com/articles/addy-ai-encompass-integration/",
         "what": "Addy AI integrates with ICE Encompass, adding AI checklists, plain-language findings and trackable document requests to reduce work.",
@@ -231,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "How one Florida community transformed hurricane resilience into record sales",
+        "url": "https://www.housingwire.com/articles/babcock-ranch-sustainability/",
+        "what": "Babcock Ranch logged 1,066 net sales in 2025, up 34%, even as housing demand in Southwest Florida weakened.",
+        "numbers": "1,066, 2025,, 34",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/babcock-ranch-sustainability/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Love Is Blind Shines a Spotlight on Ohio, Home to Two of the Nation’s Most Affordable Housing Markets",
         "url": "https://www.redfin.com/news/housing-affordability-ohio/",
@@ -266,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/illinois-hawaii-private-listings/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Private builders’ survival guide to compete with public homebuilders",
-        "url": "https://www.housingwire.com/articles/private-builders-compete-public-builders/",
-        "what": "IBS panel says private builders can win with differentiated products, efficiency gains and incentives that protect pricing and brand value.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/private-builders-compete-public-builders/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "The Typical First-Time Homebuyer Is 35 Years Old",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-apps/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "eXp’s quiet flex: Higher productivity in a shrinking agent market",
-        "url": "https://www.housingwire.com/articles/exp-2025-agent-productivity-volume/",
-        "what": "eXp ended 2025 with 83,060 agents, 440,163 transactions, and $194.0B volume, while attrition improved 23% YoY.",
-        "numbers": "2025, 83,060, 440,163, $194.0, 23",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-2025-agent-productivity-volume/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
