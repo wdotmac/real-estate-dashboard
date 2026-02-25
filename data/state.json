@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-25 16:20 UTC",
+  "as_of": "2026-02-25 18:14 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,38 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The 14 best real estate apps for agents in 2026",
+      "link": "https://www.housingwire.com/articles/real-estate-apps/",
+      "published": "Wed, 25 Feb 2026"
+    },
+    {
+      "title": "Beyond pocket listings: How states are filling real estate’s regulatory void",
+      "link": "https://www.housingwire.com/articles/illinois-hawaii-private-listings/",
+      "published": "Wed, 25 Feb 2026"
+    },
+    {
+      "title": "Private builders’ survival guide to compete with public homebuilders",
+      "link": "https://www.housingwire.com/articles/private-builders-compete-public-builders/",
+      "published": "Wed, 25 Feb 2026"
+    },
+    {
+      "title": "eXp’s quiet flex: Higher productivity in a shrinking agent market",
+      "link": "https://www.housingwire.com/articles/exp-2025-agent-productivity-volume/",
+      "published": "Wed, 25 Feb 2026"
+    },
+    {
+      "title": "UWM originations rise 17% to $163B as refi wave lifts 2025 volume",
+      "link": "https://www.housingwire.com/articles/uwm-2025-volume-profit/",
+      "published": "Wed, 25 Feb 2026"
+    },
+    {
       "title": "REMAX brokers: How repeatable systems, not lofty goals, are driving brokerage growth",
       "link": "https://www.housingwire.com/articles/remax-brokers-how-repeatable-systems-not-lofty-goals-are-driving-brokerage-growth/",
       "published": "Wed, 25 Feb 2026"
     },
     {
-      "title": "The CFO skill set homebuilding founders too often underestimate",
-      "link": "https://www.housingwire.com/articles/the-cfo-skill-set-homebuilding-founders-too-often-underestimate/",
-      "published": "Wed, 25 Feb 2026"
-    },
-    {
-      "title": "Rechat integrates with Canva to streamline listing marketing",
-      "link": "https://www.housingwire.com/articles/rechat-integrates-with-canva-to-streamline-listing-marketing/",
-      "published": "Wed, 25 Feb 2026"
-    },
-    {
-      "title": "Mortgage applications rise slightly as rates move closer to 6%",
-      "link": "https://www.housingwire.com/articles/mba-applications-refis-rise/",
-      "published": "Wed, 25 Feb 2026"
-    },
-    {
-      "title": "Let’s be real. We can do better when it comes to using AI in marketing.",
-      "link": "https://www.housingwire.com/articles/lets-be-real-we-can-do-better-when-it-comes-to-using-ai-in-marketing/",
-      "published": "Wed, 25 Feb 2026"
-    },
-    {
-      "title": "Why eNotes are moving from optional to operational",
-      "link": "https://www.housingwire.com/articles/why-enotes-are-moving-from-optional-to-operational/",
+      "title": "The Typical First-Time Homebuyer Is 35 Years Old",
+      "link": "https://www.redfin.com/news/median-homebuying-age-2025/",
       "published": "Wed, 25 Feb 2026"
     },
     {
@@ -193,11 +198,6 @@
       "title": "It’s a Buyer’s Market: America Has 44% More Home Sellers Than Buyers—a Near-Record Gap",
       "link": "https://www.redfin.com/news/buyers-vs-sellers-january-2025/",
       "published": "Mon, 23 Feb 2026"
-    },
-    {
-      "title": "Home Prices Start Year Up Just 1% as Buyer’s Market Keeps Growth in Check",
-      "link": "https://www.redfin.com/news/home-prices-rise-january-2026/",
-      "published": "Thu, 19 Feb 2026"
     }
   ],
   "feed_101020": {
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Trump State of the Union offers few housing details",
-        "url": "https://www.housingwire.com/articles/trump-state-of-the-union-offers-few-housing-details/",
-        "what": "President Donald Trump delivered the annual State of the Union address to Congress on Tuesday night and touched on a wide variety of economic topics",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-state-of-the-union-offers-few-housing-details/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Trade Policy, State of the Union Take Center Stage",
         "url": "https://www.redfin.com/news/weekly-economic-update-february-24-2026/",
         "what": "This Week In A Nutshell: The White House’s response to the Supreme Court invalidating President Trump’s tariffs under the International Emergency Economic Powers Act and Tuesday’s State of the Union address will dominate this week",
@@ -250,38 +241,38 @@
     ],
     "housing": [
       {
-        "title": "Why eNotes are moving from optional to operational",
-        "url": "https://www.housingwire.com/articles/why-enotes-are-moving-from-optional-to-operational/",
-        "what": "For years, electronic promissory notes occupied an awkward middle ground in mortgage lending",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/why-enotes-are-moving-from-optional-to-operational/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "title": "Beyond pocket listings: How states are filling real estate’s regulatory void",
+        "url": "https://www.housingwire.com/articles/illinois-hawaii-private-listings/",
+        "what": "Illinois HB 4964 and Hawaii HB 2559 add momentum to state efforts limiting private listings and requiring public exposure.",
+        "numbers": "4964, 2559",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/illinois-hawaii-private-listings/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Builders engineer payments, not prices — LGI results highlight why",
-        "url": "https://www.housingwire.com/articles/lgi-homes-spring-2026-entry-level-demand-bellwether/",
-        "what": "We intended to dig into LGI Homes’ fourth-quarter and full-year 2025 earnings last week",
-        "numbers": "2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lgi-homes-spring-2026-entry-level-demand-bellwether/",
+        "title": "Private builders’ survival guide to compete with public homebuilders",
+        "url": "https://www.housingwire.com/articles/private-builders-compete-public-builders/",
+        "what": "IBS panel says private builders can win with differentiated products, efficiency gains and incentives that protect pricing and brand value.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/private-builders-compete-public-builders/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Realtor.com CEO Damian Eales on portal strategy and MLS ties",
-        "url": "https://www.housingwire.com/articles/realtorcom-mls-strategy-eales/",
-        "what": "CEO Damian Eales says Realtor.com logged 261 million January visits, and details Realtor.com+ partnerships with MLSs.",
-        "numbers": "261 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realtorcom-mls-strategy-eales/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "title": "The Typical First-Time Homebuyer Is 35 Years Old",
+        "url": "https://www.redfin.com/news/median-homebuying-age-2025/",
+        "what": "The median age of first-time buyers dipped slightly from 2024 to 2025, from 36 to 35",
+        "numbers": "2024, 2025,, 36, 35., 47,, 52.",
+        "justified": "redfin.com — https://www.redfin.com/news/median-homebuying-age-2025/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "California-based LenderMac to acquire Direct Mortgage",
-        "url": "https://www.housingwire.com/articles/lendermac-acquires-direct-mortgage/",
-        "what": "LenderMac agreed to acquire Direct Mortgage, aiming to expand its footprint and build multichannel lending capabilities.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lendermac-acquires-direct-mortgage/",
+        "title": "UWM originations rise 17% to $163B as refi wave lifts 2025 volume",
+        "url": "https://www.housingwire.com/articles/uwm-2025-volume-profit/",
+        "what": "UWM closed $163.4 billion in mortgages in 2025, up 17% from 2024, but net income fell to $244 million as refis surged and margins tightened.",
+        "numbers": "$163.4 billion, 2025,, 17, 2024,, $244 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-2025-volume-profit/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -311,18 +302,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-january-2025/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Home Prices Start Year Up Just 1% as Buyer’s Market Keeps Growth in Check",
-        "url": "https://www.redfin.com/news/home-prices-rise-january-2026/",
-        "what": "Pending home sales fell to the lowest level since 2023 and existing-home sales dropped the most since 2022 as elevated housing costs curbed homebuyer demand",
-        "numbers": "2023, 2022, 1",
-        "justified": "redfin.com — https://www.redfin.com/news/home-prices-rise-january-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
+      {
+        "title": "The 14 best real estate apps for agents in 2026",
+        "url": "https://www.housingwire.com/articles/real-estate-apps/",
+        "what": "Download these real estate apps to streamline your business & work with ease and efficiency from just about anywhere.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-apps/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "eXp’s quiet flex: Higher productivity in a shrinking agent market",
+        "url": "https://www.housingwire.com/articles/exp-2025-agent-productivity-volume/",
+        "what": "eXp ended 2025 with 83,060 agents, 440,163 transactions, and $194.0B volume, while attrition improved 23% YoY.",
+        "numbers": "2025, 83,060, 440,163, $194.0, 23",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-2025-agent-productivity-volume/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "REMAX brokers: How repeatable systems, not lofty goals, are driving brokerage growth",
         "url": "https://www.housingwire.com/articles/remax-brokers-how-repeatable-systems-not-lofty-goals-are-driving-brokerage-growth/",
