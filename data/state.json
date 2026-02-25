@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-25 18:14 UTC",
+  "as_of": "2026-02-25 19:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Retirement planning faces longevity risk as Americans live longer",
+      "link": "https://www.housingwire.com/articles/living-longer-retirement-risk/",
+      "published": "Wed, 25 Feb 2026"
+    },
+    {
+      "title": "Homes.com metrics climb as CoStar profit slides in 2025",
+      "link": "https://www.housingwire.com/articles/costar-q4-2025-earnings/",
+      "published": "Wed, 25 Feb 2026"
+    },
+    {
+      "title": "Dark Matter adds AI agents inside Empower LOS",
+      "link": "https://www.housingwire.com/articles/dark-matter-mcp-empower-ai/",
+      "published": "Wed, 25 Feb 2026"
+    },
+    {
       "title": "The 14 best real estate apps for agents in 2026",
       "link": "https://www.housingwire.com/articles/real-estate-apps/",
       "published": "Wed, 25 Feb 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Private builders’ survival guide to compete with public homebuilders",
       "link": "https://www.housingwire.com/articles/private-builders-compete-public-builders/",
-      "published": "Wed, 25 Feb 2026"
-    },
-    {
-      "title": "eXp’s quiet flex: Higher productivity in a shrinking agent market",
-      "link": "https://www.housingwire.com/articles/exp-2025-agent-productivity-volume/",
-      "published": "Wed, 25 Feb 2026"
-    },
-    {
-      "title": "UWM originations rise 17% to $163B as refi wave lifts 2025 volume",
-      "link": "https://www.housingwire.com/articles/uwm-2025-volume-profit/",
-      "published": "Wed, 25 Feb 2026"
-    },
-    {
-      "title": "REMAX brokers: How repeatable systems, not lofty goals, are driving brokerage growth",
-      "link": "https://www.housingwire.com/articles/remax-brokers-how-repeatable-systems-not-lofty-goals-are-driving-brokerage-growth/",
       "published": "Wed, 25 Feb 2026"
     },
     {
@@ -203,24 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Rechat integrates with Canva to streamline listing marketing",
-        "url": "https://www.housingwire.com/articles/rechat-integrates-with-canva-to-streamline-listing-marketing/",
-        "what": "Agents can use the integration to create social media posts, listing flyers, presentations and other marketing materials.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rechat-integrates-with-canva-to-streamline-listing-marketing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage applications rise slightly as rates move closer to 6%",
-        "url": "https://www.housingwire.com/articles/mba-applications-refis-rise/",
-        "what": "MBA says applications rose 0.4% as the 30-year fixed rate fell to 6.09%",
-        "numbers": "0.4, 30, 6.09, 4, 5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-applications-refis-rise/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Trade Policy, State of the Union Take Center Stage",
         "url": "https://www.redfin.com/news/weekly-economic-update-february-24-2026/",
         "what": "This Week In A Nutshell: The White House’s response to the Supreme Court invalidating President Trump’s tariffs under the International Emergency Economic Powers Act and Tuesday’s State of the Union address will dominate this week",
@@ -240,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Retirement planning faces longevity risk as Americans live longer",
+        "url": "https://www.housingwire.com/articles/living-longer-retirement-risk/",
+        "what": "PLANADVISER outlines the steps that retirement plan sponsors and financial advisers should take with their clients given the need for longevity",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/living-longer-retirement-risk/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Beyond pocket listings: How states are filling real estate’s regulatory void",
         "url": "https://www.housingwire.com/articles/illinois-hawaii-private-listings/",
@@ -306,6 +297,24 @@
     ],
     "notables": [
       {
+        "title": "Homes.com metrics climb as CoStar profit slides in 2025",
+        "url": "https://www.housingwire.com/articles/costar-q4-2025-earnings/",
+        "what": "Homes.com traffic hit 100 million average monthly visitors in 2025, as CoStar net income fell to $7 million on acquisition costs.",
+        "numbers": "100 million, 2025,, $7 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-q4-2025-earnings/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Dark Matter adds AI agents inside Empower LOS",
+        "url": "https://www.housingwire.com/articles/dark-matter-mcp-empower-ai/",
+        "what": "Dark Matter added MCP-based AI agents to Empower LOS, using a managed gateway for identity, permissions and audit trails.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/dark-matter-mcp-empower-ai/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "The 14 best real estate apps for agents in 2026",
         "url": "https://www.housingwire.com/articles/real-estate-apps/",
         "what": "Download these real estate apps to streamline your business & work with ease and efficiency from just about anywhere.",
@@ -338,15 +347,6 @@
         "what": "I’ve worked in a variety of capacities in and around home building and land development for 40 years (argh)",
         "numbers": "40",
         "justified": "housingwire.com — https://www.housingwire.com/articles/the-cfo-skill-set-homebuilding-founders-too-often-underestimate/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Let’s be real. We can do better when it comes to using AI in marketing.",
-        "url": "https://www.housingwire.com/articles/lets-be-real-we-can-do-better-when-it-comes-to-using-ai-in-marketing/",
-        "what": "So, you finally discovered ChatGPT, Claude or whatever shiny AI toy your nephew told you about",
-        "numbers": "200",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lets-be-real-we-can-do-better-when-it-comes-to-using-ai-in-marketing/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
