@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-26 15:06 UTC",
+  "as_of": "2026-02-26 16:07 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "ADU dispute could set back Florida Live Local Act expansion",
+      "link": "https://www.housingwire.com/articles/florida-live-local-adu-fight/",
+      "published": "Thu, 26 Feb 2026"
+    },
+    {
       "title": "The 9 best real estate CRMs for every budget in 2026",
       "link": "https://www.housingwire.com/articles/best-real-estate-crm/",
       "published": "Thu, 26 Feb 2026"
@@ -165,8 +170,8 @@
       "published": "Thu, 26 Feb 2026"
     },
     {
-      "title": "Cautious optimism returns for 2026 as builder finance undergoes structural change",
-      "link": "https://www.housingwire.com/articles/cautious-optimism-returns-for-2026-as-builder-finance-undergoes-structural-change/",
+      "title": "Denver Has a New Neighbor: Kiel Murphy Wins the Great American Home Search",
+      "link": "https://www.redfin.com/news/great-american-home-search-winner/",
       "published": "Thu, 26 Feb 2026"
     },
     {
@@ -192,11 +197,6 @@
     {
       "title": "Nearly 1 in 7 Home Sales Are Falling Through, a Record For This Time of Year",
       "link": "https://www.redfin.com/news/pending-sales-fall-through-january-2026/",
-      "published": "Tue, 24 Feb 2026"
-    },
-    {
-      "title": "Half of Americans Struggle to Pay Rent or Mortgage, With Gen Z Hit Hardest",
-      "link": "https://www.redfin.com/news/struggle-to-pay-housing-gen-z/",
       "published": "Tue, 24 Feb 2026"
     }
   ],
@@ -241,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "ADU dispute could set back Florida Live Local Act expansion",
+        "url": "https://www.housingwire.com/articles/florida-live-local-adu-fight/",
+        "what": "Counting down to a legislative session deadline in two weeks, a new batch of updates to the state’s landmark Live Local Act may hinge on legislators resolving a dispute over provisions included in the bill to expand the scope of the strategic push for housing affordability.​ Local zoning provisions for accessory dwelling units",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/florida-live-local-adu-fight/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Denver Has a New Neighbor: Kiel Murphy Wins the Great American Home Search",
+        "url": "https://www.redfin.com/news/great-american-home-search-winner/",
+        "what": "Redfin awards Murphy a home valued at more than $1 million for being the fastest person to successfully complete a nationwide scavenger hunt in the Redfin app Redfin today announce",
+        "numbers": "$1 million",
+        "justified": "redfin.com — https://www.redfin.com/news/great-american-home-search-winner/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Gary Keller: Why broad listing exposure still matters in real estate",
         "url": "https://www.housingwire.com/articles/gary-keller-why-broad-listing-exposure-still-matters-in-real-estate/",
         "what": "Keller says private listings may reduce exposure and price discovery, and calls for clear seller disclosure rather than marketing narratives.",
@@ -268,15 +286,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Zillow promotes three executives, including new chief product officer",
-        "url": "https://www.housingwire.com/articles/zillow-promotions-chief-product-officer/",
-        "what": "Zillow promoted three leaders, elevating Christopher Roberts to chief product officer and Marissa Brooks and Jon Lim to SVP roles.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-promotions-chief-product-officer/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Love Is Blind Shines a Spotlight on Ohio, Home to Two of the Nation’s Most Affordable Housing Markets",
         "url": "https://www.redfin.com/news/housing-affordability-ohio/",
         "what": "In this season of Love Is Blind, the real plot twist is affordable housing",
@@ -300,15 +309,6 @@
         "what": "Home-purchase agreements are canceled at the highest rate in San Antonio, where sellers outnumber buyers two to one–giving buyers the upper hand and plenty of choices",
         "numbers": "40,000, 13.7, 13.1, 1, 7",
         "justified": "redfin.com — https://www.redfin.com/news/pending-sales-fall-through-january-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Half of Americans Struggle to Pay Rent or Mortgage, With Gen Z Hit Hardest",
-        "url": "https://www.redfin.com/news/struggle-to-pay-housing-gen-z/",
-        "what": "A higher share of Americans struggle to afford housing than last spring, according to a Redfin survey",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/struggle-to-pay-housing-gen-z/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
