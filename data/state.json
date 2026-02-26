@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-26 21:46 UTC",
+  "as_of": "2026-02-26 22:53 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Compass Coming Soon listings to appear on Redfin",
+      "link": "https://www.housingwire.com/articles/compass-coming-soon-redfin/",
+      "published": "Thu, 26 Feb 2026"
+    },
+    {
+      "title": "Hovnanian recalibrates amid a shift to a higher-margin mix",
+      "link": "https://www.housingwire.com/articles/hovnanian-q1-2026-earnings/",
+      "published": "Thu, 26 Feb 2026"
+    },
+    {
       "title": "From IPO spark to global scale pivot: Tri Pointe enters a new power axis",
       "link": "https://www.housingwire.com/articles/tri-pointe-sumitomo-scale-shift-ipo-vertical-integration-2026/",
       "published": "Thu, 26 Feb 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Real estate agents take notice: Rising consumer delinquencies are repositioning the housing market",
       "link": "https://www.housingwire.com/articles/student-loan-delinquencies-q4/",
-      "published": "Thu, 26 Feb 2026"
-    },
-    {
-      "title": "HomeXpress launches on ARIVE, expanding broker access to non-QM and investor loans",
-      "link": "https://www.housingwire.com/articles/homexpress-arive-los-launch/",
-      "published": "Thu, 26 Feb 2026"
-    },
-    {
-      "title": "Longbridge nearly doubles Q4 profit as parent Ellington reports weaker performance",
-      "link": "https://www.housingwire.com/articles/longbridge-ellington-q4-2025-earnings/",
       "published": "Thu, 26 Feb 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Hovnanian recalibrates amid a shift to a higher-margin mix",
+        "url": "https://www.housingwire.com/articles/hovnanian-q1-2026-earnings/",
+        "what": "Hovnanian reported Q1 2026 net income of $20.9M, but gross margin fell to 13.4% as incentives stayed elevated.",
+        "numbers": "1, 2026, $20.9, 13.4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hovnanian-q1-2026-earnings/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Real estate agents take notice: Rising consumer delinquencies are repositioning the housing market",
         "url": "https://www.housingwire.com/articles/student-loan-delinquencies-q4/",
         "what": "Student-loan delinquencies rose to 16.3% in Q4, New York Fed data shows, as overall delinquency hit 4.8% and foreclosures increase.",
@@ -231,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Compass Coming Soon listings to appear on Redfin",
+        "url": "https://www.housingwire.com/articles/compass-coming-soon-redfin/",
+        "what": "Compass will syndicate coming soon listings to Redfin on March 16, with seller opt out and 24 hour lead claim for listing agents.",
+        "numbers": "16,, 24",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-coming-soon-redfin/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "From IPO spark to global scale pivot: Tri Pointe enters a new power axis",
         "url": "https://www.housingwire.com/articles/tri-pointe-sumitomo-scale-shift-ipo-vertical-integration-2026/",
@@ -329,24 +347,6 @@
         "what": "Vargas brings more than 15 years' experience in auction operations",
         "numbers": "15",
         "justified": "housingwire.com — https://www.housingwire.com/articles/decaro-auctions-names-mario-vargas-ceo/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Commission case showdown: Batton plaintiffs move to derail Anywhere settlement",
-        "url": "https://www.housingwire.com/articles/anywhere-tuccori-batton-settlement/",
-        "what": "Batton plaintiffs allege Anywhere pursued a reverse auction via the Tuccori plaintffs and seek to block approval of their settlement.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/anywhere-tuccori-batton-settlement/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Idaho’s Intermountain MLS taps tech-focused CEO",
-        "url": "https://www.housingwire.com/articles/idahos-intermountain-mls-taps-tech-focused-ceo/",
-        "what": "The appointee has a track record of leading technology initiatives, strengthening governance and expanding broker collaboration.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/idahos-intermountain-mls-taps-tech-focused-ceo/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
