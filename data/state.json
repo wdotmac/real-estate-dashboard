@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-25 23:44 UTC",
+  "as_of": "2026-02-26 03:10 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Rental vacancy data shows progress that can keep mortgage rates lower",
+      "link": "https://www.housingwire.com/articles/rental-vacancy-inflation-mortgage-rates/",
+      "published": "Wed, 25 Feb 2026"
+    },
+    {
       "title": "Recruiting Insight adds automation and analytics with HiringCenter Pro",
       "link": "https://www.housingwire.com/articles/hiringcenter-pro-ai-recruiting/",
       "published": "Wed, 25 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Brown Harris Stevens adds Corcoran agent Debbie Baum",
       "link": "https://www.housingwire.com/articles/baum-joins-bhs-east-side/",
-      "published": "Wed, 25 Feb 2026"
-    },
-    {
-      "title": "Addy AI integrates with ICE Encompass for loan officer workflows",
-      "link": "https://www.housingwire.com/articles/addy-ai-encompass-integration/",
       "published": "Wed, 25 Feb 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Rental vacancy data shows progress that can keep mortgage rates lower",
+        "url": "https://www.housingwire.com/articles/rental-vacancy-inflation-mortgage-rates/",
+        "what": "Rental vacancy is 7.2% and homeowner vacancy is 1.2%, supporting shelter disinflation and steadier mortgage rates.",
+        "numbers": "7.2, 1.2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rental-vacancy-inflation-mortgage-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Housing leaders say Trump’s plan must go deeper than lower mortgage rates",
         "url": "https://www.housingwire.com/articles/housing-trump-mortgage-rates-state-of-the-union/",
@@ -338,15 +347,6 @@
         "what": "Homes.com traffic hit 100 million average monthly visitors in 2025, as CoStar net income fell to $7 million on acquisition costs.",
         "numbers": "100 million, 2025,, $7 million",
         "justified": "housingwire.com — https://www.housingwire.com/articles/costar-q4-2025-earnings/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Dark Matter adds AI agents inside Empower LOS",
-        "url": "https://www.housingwire.com/articles/dark-matter-mcp-empower-ai/",
-        "what": "Dark Matter added MCP-based AI agents to Empower LOS, using a managed gateway for identity, permissions and audit trails.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/dark-matter-mcp-empower-ai/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
