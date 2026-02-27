@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-27 11:46 UTC",
+  "as_of": "2026-02-27 13:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Whitmer calls for Michigan housing reform to cut red tape",
+      "link": "https://www.housingwire.com/articles/michigan-housing-reform-tax-credit/",
+      "published": "Fri, 27 Feb 2026"
+    },
+    {
       "title": "You can’t automate trust: Why I built my business on relationships",
       "link": "https://www.housingwire.com/articles/you-cant-automate-trust-why-i-built-my-business-on-relationships/",
       "published": "Fri, 27 Feb 2026"
@@ -165,9 +170,9 @@
       "published": "Thu, 26 Feb 2026"
     },
     {
-      "title": "Hovnanian recalibrates amid a shift to a higher-margin mix",
-      "link": "https://www.housingwire.com/articles/hovnanian-q1-2026-earnings/",
-      "published": "Thu, 26 Feb 2026"
+      "title": "More Homeowners Have a Rate Above 6% Than a Rate Below 3% For the First Time in 5 Years",
+      "link": "https://www.redfin.com/news/mortgage-rates-q3-2025/",
+      "published": "Fri, 27 Feb 2026"
     },
     {
       "title": "Redfin and Compass Partner to Expand Inventory and Seller Choice",
@@ -193,15 +198,19 @@
       "title": "The Typical First-Time Homebuyer Is 35 Years Old",
       "link": "https://www.redfin.com/news/median-homebuying-age-2025/",
       "published": "Wed, 25 Feb 2026"
-    },
-    {
-      "title": "Redfin Economists’ Weekly Take: Trade Policy, State of the Union Take Center Stage",
-      "link": "https://www.redfin.com/news/weekly-economic-update-february-24-2026/",
-      "published": "Tue, 24 Feb 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "More Homeowners Have a Rate Above 6% Than a Rate Below 3% For the First Time in 5 Years",
+        "url": "https://www.redfin.com/news/mortgage-rates-q3-2025/",
+        "what": "21% of U.S",
+        "numbers": "21, 6, 20, 3, 5, 4",
+        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-q3-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Affordability takes center stage in the 2026 housing market",
         "url": "https://www.housingwire.com/articles/affordability-takes-center-stage-in-the-2026-housing-market/",
@@ -221,15 +230,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Real estate agents take notice: Rising consumer delinquencies are repositioning the housing market",
-        "url": "https://www.housingwire.com/articles/student-loan-delinquencies-q4/",
-        "what": "Student-loan delinquencies rose to 16.3% in Q4, New York Fed data shows, as overall delinquency hit 4.8% and foreclosures increase.",
-        "numbers": "16.3, 4,, 4.8",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/student-loan-delinquencies-q4/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Homebuying Affordability Improves As Mortgage Rates Fall to Lowest Level in Over 3 Years",
         "url": "https://www.redfin.com/news/housing-market-update-mortgage-rates-fall-affordability-improves/",
         "what": "Lower rates haven’t yet brought homebuyers off the sidelines, but hope is in the air as we approach spring",
@@ -237,18 +237,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-mortgage-rates-fall-affordability-improves/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Redfin Economists’ Weekly Take: Trade Policy, State of the Union Take Center Stage",
-        "url": "https://www.redfin.com/news/weekly-economic-update-february-24-2026/",
-        "what": "This Week In A Nutshell: The White House’s response to the Supreme Court invalidating President Trump’s tariffs under the International Emergency Economic Powers Act and Tuesday’s State of the Union address will dominate this week",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-february-24-2026/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "housing": [
+      {
+        "title": "Whitmer calls for Michigan housing reform to cut red tape",
+        "url": "https://www.housingwire.com/articles/michigan-housing-reform-tax-credit/",
+        "what": "Gov",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/michigan-housing-reform-tax-credit/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "You can’t automate trust: Why I built my business on relationships",
         "url": "https://www.housingwire.com/articles/you-cant-automate-trust-why-i-built-my-business-on-relationships/",
