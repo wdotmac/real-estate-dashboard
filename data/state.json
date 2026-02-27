@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-27 19:47 UTC",
+  "as_of": "2026-02-27 20:45 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -56,14 +56,14 @@
       },
       "Tampa–St. Petersburg–Clearwater": {
         "total": {
-          "latest": 2427,
+          "latest": 1208,
           "latest_year": 2025,
-          "latest_month": 10,
-          "latest_month_name": "Oct",
-          "mom": 0.5360759493670886,
-          "yoy": 1.2939508506616257,
-          "ytd_yoy": 0.04073680481757003,
-          "ytd_count": 20566
+          "latest_month": 11,
+          "latest_month_name": "Nov",
+          "mom": -0.5022661722290894,
+          "yoy": 0.31161780673181316,
+          "ytd_yoy": 0.05279953582825647,
+          "ytd_count": 21774
         },
         "one_unit": {
           "latest": 1287,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Capital One joins BPC housing affordability council",
+      "link": "https://www.housingwire.com/articles/capital-one-joins-bpc-housing-affordability-council/",
+      "published": "Fri, 27 Feb 2026"
+    },
+    {
       "title": "Mortgage rates fall to multiyear lows in time for spring housing market",
       "link": "https://www.housingwire.com/articles/mortgage-rates-fall-spring/",
       "published": "Fri, 27 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "New president at the helm at Sotheby’s Canada",
       "link": "https://www.housingwire.com/articles/new-president-at-the-helm-at-sothebys-canada/",
-      "published": "Fri, 27 Feb 2026"
-    },
-    {
-      "title": "NewDay USA taps ex-FHA chief Brian Montgomery as vice chairman",
-      "link": "https://www.housingwire.com/articles/newday-usa-brian-montgomery/",
       "published": "Fri, 27 Feb 2026"
     },
     {
@@ -259,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "Capital One joins BPC housing affordability council",
+        "url": "https://www.housingwire.com/articles/capital-one-joins-bpc-housing-affordability-council/",
+        "what": "Council members share insights and contribute to policy discussions related to housing supply, affordability and access.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/capital-one-joins-bpc-housing-affordability-council/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Massachusetts bill would mandate fair housing education for real estate licensees",
         "url": "https://www.housingwire.com/articles/massachusetts-fair-housing-training-bill/",
         "what": "Massachusetts Senate passed S.2959 38-0, requiring four hours of fair housing training and two hours at renewal, plus tougher penalties.",
@@ -266,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/massachusetts-fair-housing-training-bill/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Does the Compass-Rocket alliance aim to undermine NAR Clear Cooperation enforcement?",
-        "url": "https://www.housingwire.com/articles/reffkin-rocket-deal-ccp/",
-        "what": "Reffkin says Compass, Rocket, and Redfin resources could pressure MLSs to stop enforcing CCP as Coming Soon syndication starts March 16.",
-        "numbers": "16.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reffkin-rocket-deal-ccp/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Redfin and Compass Partner to Expand Inventory and Seller Choice",
