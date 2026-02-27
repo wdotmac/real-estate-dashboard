@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-27 22:43 UTC",
+  "as_of": "2026-02-27 23:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -17,36 +17,36 @@
   },
   "permits": {
     "florida": {
-      "latest": 9652,
-      "latest_date": "2025-11",
-      "mom": -0.365,
-      "yoy": -0.10297397769516725,
-      "ytd": -0.009997662085173942,
-      "ytd_count": 160913,
+      "latest": 13220,
+      "latest_date": "2025-12",
+      "mom": 0.3696643182760049,
+      "yoy": 0.10590597289610182,
+      "ytd": -0.002057400912362728,
+      "ytd_count": 174133,
       "latest_year": 2025,
-      "latest_month_name": "Nov"
+      "latest_month_name": "Dec"
     },
     "msa": {
       "Orlando–Kissimmee–Sanford": {
         "total": {
-          "latest": 1044,
+          "latest": 2182,
           "latest_year": 2025,
-          "latest_month": 11,
-          "latest_month_name": "Nov",
-          "mom": -0.5774989882638608,
-          "yoy": -0.24783861671469742,
-          "ytd_yoy": 0.18011608313049998,
-          "ytd_count": 25212
+          "latest_month": 12,
+          "latest_month_name": "Dec",
+          "mom": 1.0900383141762453,
+          "yoy": 0.011121408711770142,
+          "ytd_yoy": 0.16461185273361112,
+          "ytd_count": 27394
         },
         "one_unit": {
-          "latest": 773,
+          "latest": 865,
           "latest_year": 2025,
-          "latest_month": 11,
-          "latest_month_name": "Nov",
-          "mom": -0.293418647166362,
-          "yoy": -0.38160000000000005,
-          "ytd_yoy": -0.06647966339410938,
-          "ytd_count": 13312
+          "latest_month": 12,
+          "latest_month_name": "Dec",
+          "mom": 0.11901681759379046,
+          "yoy": -0.348644578313253,
+          "ytd_yoy": -0.09051834744675391,
+          "ytd_count": 14177
         },
         "dom": {
           "days": 88,
@@ -66,14 +66,14 @@
           "ytd_count": 23007
         },
         "one_unit": {
-          "latest": 864,
+          "latest": 933,
           "latest_year": 2025,
-          "latest_month": 11,
-          "latest_month_name": "Nov",
-          "mom": -0.32867132867132864,
-          "yoy": -0.045303867403314935,
-          "ytd_yoy": -0.018004154804954986,
-          "ytd_count": 12763
+          "latest_month": 12,
+          "latest_month_name": "Dec",
+          "mom": 0.07986111111111116,
+          "yoy": 0.015233949945593128,
+          "ytd_yoy": -0.015809140557631496,
+          "ytd_count": 13696
         },
         "dom": {
           "days": 85,
@@ -83,24 +83,24 @@
       },
       "Ocala": {
         "total": {
-          "latest": 174,
+          "latest": 408,
           "latest_year": 2025,
-          "latest_month": 11,
-          "latest_month_name": "Nov",
-          "mom": -0.6297872340425532,
-          "yoy": -0.5335120643431636,
-          "ytd_yoy": -0.1614794767704104,
-          "ytd_count": 5577
+          "latest_month": 12,
+          "latest_month_name": "Dec",
+          "mom": 1.3448275862068964,
+          "yoy": -0.02857142857142858,
+          "ytd_yoy": -0.15358506576156128,
+          "ytd_count": 5985
         },
         "one_unit": {
-          "latest": 172,
+          "latest": 400,
           "latest_year": 2025,
-          "latest_month": 11,
-          "latest_month_name": "Nov",
-          "mom": -0.6126126126126126,
-          "yoy": -0.5261707988980716,
-          "ytd_yoy": -0.16375145760453103,
-          "ytd_count": 5020
+          "latest_month": 12,
+          "latest_month_name": "Dec",
+          "mom": 1.3255813953488373,
+          "yoy": -0.014778325123152691,
+          "ytd_yoy": -0.15431424559213602,
+          "ytd_count": 5420
         },
         "dom": {
           "days": 93,
@@ -110,24 +110,24 @@
       },
       "Palm Bay–Melbourne–Titusville": {
         "total": {
-          "latest": 242,
+          "latest": 534,
           "latest_year": 2025,
-          "latest_month": 11,
-          "latest_month_name": "Nov",
-          "mom": -0.29446064139941686,
-          "yoy": -0.40975609756097564,
-          "ytd_yoy": -0.04334582942830367,
-          "ytd_count": 4083
+          "latest_month": 12,
+          "latest_month_name": "Dec",
+          "mom": 1.2066115702479339,
+          "yoy": 0.5213675213675213,
+          "ytd_yoy": -0.0004329941545788696,
+          "ytd_count": 4617
         },
         "one_unit": {
-          "latest": 237,
+          "latest": 269,
           "latest_year": 2025,
-          "latest_month": 11,
-          "latest_month_name": "Nov",
-          "mom": -0.30903790087463556,
-          "yoy": -0.27300613496932513,
-          "ytd_yoy": -0.12774338773213278,
-          "ytd_count": 3100
+          "latest_month": 12,
+          "latest_month_name": "Dec",
+          "mom": 0.1350210970464134,
+          "yoy": -0.2157434402332361,
+          "ytd_yoy": -0.13548883756735952,
+          "ytd_count": 3369
         },
         "dom": {
           "days": 77,
