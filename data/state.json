@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-02-27 20:45 UTC",
+  "as_of": "2026-02-27 21:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.05,
-      "delta_bp_1d": 0.9999999999999787
+      "yield_pct": 4.02,
+      "delta_bp_1d": -3.000000000000025
     },
     "mortgage_30y": {
       "rate_pct": 5.98,
@@ -17,36 +17,36 @@
   },
   "permits": {
     "florida": {
-      "latest": 15200,
-      "latest_date": "2025-10",
-      "mom": 0.13832097655957454,
-      "yoy": 0.14268531047962707,
-      "ytd": -0.0034062907667777864,
-      "ytd_count": 151261,
+      "latest": 9652,
+      "latest_date": "2025-11",
+      "mom": -0.365,
+      "yoy": -0.10297397769516725,
+      "ytd": -0.009997662085173942,
+      "ytd_count": 160913,
       "latest_year": 2025,
-      "latest_month_name": "Oct"
+      "latest_month_name": "Nov"
     },
     "msa": {
       "Orlando–Kissimmee–Sanford": {
         "total": {
-          "latest": 2471,
+          "latest": 1044,
           "latest_year": 2025,
-          "latest_month": 10,
-          "latest_month_name": "Oct",
-          "mom": 0.2208498023715415,
-          "yoy": 0.505789152955515,
-          "ytd_yoy": 0.2098518221866239,
-          "ytd_count": 24168
+          "latest_month": 11,
+          "latest_month_name": "Nov",
+          "mom": -0.5774989882638608,
+          "yoy": -0.24783861671469742,
+          "ytd_yoy": 0.18011608313049998,
+          "ytd_count": 25212
         },
         "one_unit": {
-          "latest": 1094,
+          "latest": 773,
           "latest_year": 2025,
-          "latest_month": 10,
-          "latest_month_name": "Oct",
-          "mom": 0.27803738317757,
-          "yoy": -0.09060681629260181,
-          "ytd_yoy": -0.03620292083013066,
-          "ytd_count": 12539
+          "latest_month": 11,
+          "latest_month_name": "Nov",
+          "mom": -0.293418647166362,
+          "yoy": -0.38160000000000005,
+          "ytd_yoy": -0.06647966339410938,
+          "ytd_count": 13312
         },
         "dom": {
           "days": 88,
@@ -66,14 +66,14 @@
           "ytd_count": 21774
         },
         "one_unit": {
-          "latest": 1287,
+          "latest": 864,
           "latest_year": 2025,
-          "latest_month": 10,
-          "latest_month_name": "Oct",
-          "mom": 0.2130065975494817,
-          "yoy": 0.5,
-          "ytd_yoy": -0.015960965927886206,
-          "ytd_count": 11899
+          "latest_month": 11,
+          "latest_month_name": "Nov",
+          "mom": -0.32867132867132864,
+          "yoy": -0.045303867403314935,
+          "ytd_yoy": -0.018004154804954986,
+          "ytd_count": 12763
         },
         "dom": {
           "days": 85,
@@ -83,24 +83,24 @@
       },
       "Ocala": {
         "total": {
-          "latest": 470,
+          "latest": 174,
           "latest_year": 2025,
-          "latest_month": 10,
-          "latest_month_name": "Oct",
-          "mom": 0.09557109557109555,
-          "yoy": -0.010526315789473717,
-          "ytd_yoy": -0.13937559732398852,
-          "ytd_count": 5403
+          "latest_month": 11,
+          "latest_month_name": "Nov",
+          "mom": -0.6297872340425532,
+          "yoy": -0.5335120643431636,
+          "ytd_yoy": -0.1614794767704104,
+          "ytd_count": 5577
         },
         "one_unit": {
-          "latest": 444,
+          "latest": 172,
           "latest_year": 2025,
-          "latest_month": 10,
-          "latest_month_name": "Oct",
-          "mom": 0.21643835616438367,
-          "yoy": -0.0326797385620915,
-          "ytd_yoy": -0.1404255319148936,
-          "ytd_count": 4848
+          "latest_month": 11,
+          "latest_month_name": "Nov",
+          "mom": -0.6126126126126126,
+          "yoy": -0.5261707988980716,
+          "ytd_yoy": -0.16375145760453103,
+          "ytd_count": 5020
         },
         "dom": {
           "days": 93,
@@ -110,24 +110,24 @@
       },
       "Palm Bay–Melbourne–Titusville": {
         "total": {
-          "latest": 343,
+          "latest": 242,
           "latest_year": 2025,
-          "latest_month": 10,
-          "latest_month_name": "Oct",
-          "mom": -0.46406250000000004,
-          "yoy": -0.51,
-          "ytd_yoy": -0.004406428201140455,
-          "ytd_count": 3841
+          "latest_month": 11,
+          "latest_month_name": "Nov",
+          "mom": -0.29446064139941686,
+          "yoy": -0.40975609756097564,
+          "ytd_yoy": -0.04334582942830367,
+          "ytd_count": 4083
         },
         "one_unit": {
-          "latest": 343,
+          "latest": 237,
           "latest_year": 2025,
-          "latest_month": 10,
-          "latest_month_name": "Oct",
-          "mom": 0.26102941176470584,
-          "yoy": 0.026946107784431073,
-          "ytd_yoy": -0.11307311028500622,
-          "ytd_count": 2863
+          "latest_month": 11,
+          "latest_month_name": "Nov",
+          "mom": -0.30903790087463556,
+          "yoy": -0.27300613496932513,
+          "ytd_yoy": -0.12774338773213278,
+          "ytd_count": 3100
         },
         "dom": {
           "days": 77,
@@ -139,6 +139,16 @@
   },
   "watchlist": [],
   "feed": [
+    {
+      "title": "Tavant agentic AI portal connects lenders, real estate agents, borrowers",
+      "link": "https://www.housingwire.com/articles/tavant-agentic-ai-portal-connects-lenders-real-estate-borrowers/",
+      "published": "Fri, 27 Feb 2026"
+    },
+    {
+      "title": "Millrose outperforms with disciplined growth, strong partnerships",
+      "link": "https://www.housingwire.com/articles/millrose-earnings-q4-2025/",
+      "published": "Fri, 27 Feb 2026"
+    },
     {
       "title": "Capital One joins BPC housing affordability council",
       "link": "https://www.housingwire.com/articles/capital-one-joins-bpc-housing-affordability-council/",
@@ -157,16 +167,6 @@
     {
       "title": "AD Mortgage launches its largest non-QM securitization yet",
       "link": "https://www.housingwire.com/articles/ad-mortgage-securitization/",
-      "published": "Fri, 27 Feb 2026"
-    },
-    {
-      "title": "AD Mortgage research shows minor FICO improvements can ease homebuying costs",
-      "link": "https://www.housingwire.com/articles/credit-score-study-mortgage-cost/",
-      "published": "Fri, 27 Feb 2026"
-    },
-    {
-      "title": "New president at the helm at Sotheby’s Canada",
-      "link": "https://www.housingwire.com/articles/new-president-at-the-helm-at-sothebys-canada/",
       "published": "Fri, 27 Feb 2026"
     },
     {
@@ -230,15 +230,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "In Texas, the big rival is the buyer’s memory of 2.65%",
-        "url": "https://www.housingwire.com/articles/in-texas-the-big-rival-is-the-buyers-memory-of-2-65/",
-        "what": "Homebuilders are still waiting for the COVID fog to lift, but the virus is no longer the culprit",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/in-texas-the-big-rival-is-the-buyers-memory-of-2-65/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "More Homeowners Have a Rate Above 6% Than a Rate Below 3% For the First Time in 5 Years",
         "url": "https://www.redfin.com/news/mortgage-rates-q3-2025/",
         "what": "21% of U.S",
@@ -259,20 +250,20 @@
     ],
     "housing": [
       {
+        "title": "Tavant agentic AI portal connects lenders, real estate agents, borrowers",
+        "url": "https://www.housingwire.com/articles/tavant-agentic-ai-portal-connects-lenders-real-estate-borrowers/",
+        "what": "Tavant leaders sat down with HousingWire to detail benefits for mortgage professionals, real estate profesionals, borrowers and all housing stakeholders.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tavant-agentic-ai-portal-connects-lenders-real-estate-borrowers/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Capital One joins BPC housing affordability council",
         "url": "https://www.housingwire.com/articles/capital-one-joins-bpc-housing-affordability-council/",
         "what": "Council members share insights and contribute to policy discussions related to housing supply, affordability and access.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/capital-one-joins-bpc-housing-affordability-council/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Massachusetts bill would mandate fair housing education for real estate licensees",
-        "url": "https://www.housingwire.com/articles/massachusetts-fair-housing-training-bill/",
-        "what": "Massachusetts Senate passed S.2959 38-0, requiring four hours of fair housing training and two hours at renewal, plus tougher penalties.",
-        "numbers": "2959, 38, 0,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/massachusetts-fair-housing-training-bill/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
@@ -314,6 +305,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Millrose outperforms with disciplined growth, strong partnerships",
+        "url": "https://www.housingwire.com/articles/millrose-earnings-q4-2025/",
+        "what": "Now one for the books, the 2025 homebuilding market slowed in new construction, resulting in contract cancellations and reduced takedown activity",
+        "numbers": "2025, 2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/millrose-earnings-q4-2025/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "RealTrends Verified brokerage Rogers Healy and Associates merges with Compass",
         "url": "https://www.housingwire.com/articles/rha-merges-compass-healy-steps-back/",
