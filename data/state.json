@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-27 14:58 UTC",
+  "as_of": "2026-02-27 15:52 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Massachusetts bill would mandate fair housing education for real estate licensees",
+      "link": "https://www.housingwire.com/articles/massachusetts-fair-housing-training-bill/",
+      "published": "Fri, 27 Feb 2026"
+    },
+    {
       "title": "Does the Compass-Rocket alliance aim to undermine NAR Clear Cooperation enforcement?",
       "link": "https://www.housingwire.com/articles/reffkin-rocket-deal-ccp/",
       "published": "Fri, 27 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Rocket Pro doubles broker credits with Compass deal, unveils ‘Jupiter’ LOS",
       "link": "https://www.housingwire.com/articles/rocket-pro-compass-40bps-jupiter/",
-      "published": "Thu, 26 Feb 2026"
-    },
-    {
-      "title": "Rocket grows revenue to $6.7B, expands market share in 2025",
-      "link": "https://www.housingwire.com/articles/rocket-2025-earnings/",
       "published": "Thu, 26 Feb 2026"
     },
     {
@@ -240,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Massachusetts bill would mandate fair housing education for real estate licensees",
+        "url": "https://www.housingwire.com/articles/massachusetts-fair-housing-training-bill/",
+        "what": "Massachusetts Senate passed S.2959 38-0, requiring four hours of fair housing training and two hours at renewal, plus tougher penalties.",
+        "numbers": "2959, 38, 0,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/massachusetts-fair-housing-training-bill/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Does the Compass-Rocket alliance aim to undermine NAR Clear Cooperation enforcement?",
         "url": "https://www.housingwire.com/articles/reffkin-rocket-deal-ccp/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-2025-earnings/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "eXp World Holdings seeks reincorporation from Delaware to Texas",
-        "url": "https://www.housingwire.com/articles/xp-delaware-texas-reincorporation/",
-        "what": "eXp seeks to reincorporate from Delaware to Texas, with a shareholder vote set for April 24, 2026, per a Wednesday SEC filing.",
-        "numbers": "24,, 2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/xp-delaware-texas-reincorporation/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
