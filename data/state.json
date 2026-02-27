@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-27 17:53 UTC",
+  "as_of": "2026-02-27 19:02 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "AD Mortgage launches its largest non-QM securitization yet",
+      "link": "https://www.housingwire.com/articles/ad-mortgage-securitization/",
+      "published": "Fri, 27 Feb 2026"
+    },
+    {
+      "title": "AD Mortgage research shows minor FICO improvements can ease homebuying costs",
+      "link": "https://www.housingwire.com/articles/credit-score-study-mortgage-cost/",
+      "published": "Fri, 27 Feb 2026"
+    },
+    {
+      "title": "New president at the helm at Sotheby’s Canada",
+      "link": "https://www.housingwire.com/articles/new-president-at-the-helm-at-sothebys-canada/",
+      "published": "Fri, 27 Feb 2026"
+    },
+    {
       "title": "NewDay USA taps ex-FHA chief Brian Montgomery as vice chairman",
       "link": "https://www.housingwire.com/articles/newday-usa-brian-montgomery/",
       "published": "Fri, 27 Feb 2026"
@@ -152,21 +167,6 @@
     {
       "title": "In Texas, the big rival is the buyer’s memory of 2.65%",
       "link": "https://www.housingwire.com/articles/in-texas-the-big-rival-is-the-buyers-memory-of-2-65/",
-      "published": "Fri, 27 Feb 2026"
-    },
-    {
-      "title": "Massachusetts bill would mandate fair housing education for real estate licensees",
-      "link": "https://www.housingwire.com/articles/massachusetts-fair-housing-training-bill/",
-      "published": "Fri, 27 Feb 2026"
-    },
-    {
-      "title": "Does the Compass-Rocket alliance aim to undermine NAR Clear Cooperation enforcement?",
-      "link": "https://www.housingwire.com/articles/reffkin-rocket-deal-ccp/",
-      "published": "Fri, 27 Feb 2026"
-    },
-    {
-      "title": "Whitmer calls for Michigan housing reform to cut red tape",
-      "link": "https://www.housingwire.com/articles/michigan-housing-reform-tax-credit/",
       "published": "Fri, 27 Feb 2026"
     },
     {
@@ -203,6 +203,24 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "AD Mortgage launches its largest non-QM securitization yet",
+        "url": "https://www.housingwire.com/articles/ad-mortgage-securitization/",
+        "what": "AD Mortgage launched its largest RMBS package, a $602.7 million non-QM deal backed by 1,793 loans, nearly all them with fixed rates.",
+        "numbers": "$602.7 million, 1,793",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ad-mortgage-securitization/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "AD Mortgage research shows minor FICO improvements can ease homebuying costs",
+        "url": "https://www.housingwire.com/articles/credit-score-study-mortgage-cost/",
+        "what": "The AD Mortgage study found that in most states, it takes 1.5 to 3 years to raise an average FICO score to the 760 prime threshold.",
+        "numbers": "1.5, 3, 760",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/credit-score-study-mortgage-cost/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "In Texas, the big rival is the buyer’s memory of 2.65%",
         "url": "https://www.housingwire.com/articles/in-texas-the-big-rival-is-the-buyers-memory-of-2-65/",
         "what": "Homebuilders are still waiting for the COVID fog to lift, but the virus is no longer the culprit",
@@ -217,15 +235,6 @@
         "what": "21% of U.S",
         "numbers": "21, 6, 20, 3, 5, 4",
         "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-q3-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Affordability takes center stage in the 2026 housing market",
-        "url": "https://www.housingwire.com/articles/affordability-takes-center-stage-in-the-2026-housing-market/",
-        "what": "The 2026 Spring Market is about to be upon us, and one aspect is clear: affordability is at the forefront of everyone’s mind",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/affordability-takes-center-stage-in-the-2026-housing-market/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -315,6 +324,15 @@
     ],
     "notables": [
       {
+        "title": "New president at the helm at Sotheby’s Canada",
+        "url": "https://www.housingwire.com/articles/new-president-at-the-helm-at-sothebys-canada/",
+        "what": "Mustafa Abbasi succeeds Effi Barak, who has served as interim president since April 2025",
+        "numbers": "2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-president-at-the-helm-at-sothebys-canada/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "NewDay USA taps ex-FHA chief Brian Montgomery as vice chairman",
         "url": "https://www.housingwire.com/articles/newday-usa-brian-montgomery/",
         "what": "NewDay USA appoints former FHA commissioner Brian Montgomery as vice chairman, bringing HUD and Ginnie Mae oversight experience.",
@@ -329,24 +347,6 @@
         "what": "Figure reported 2025 net revenue of $506.9M, up 49%, and net income of $134.3M, while volume climbed to $8.4B.",
         "numbers": "2025, $506.9, 49, $134.3, $8.4",
         "justified": "housingwire.com — https://www.housingwire.com/articles/figure-2025-revenue/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Rocket Pro doubles broker credits with Compass deal, unveils ‘Jupiter’ LOS",
-        "url": "https://www.housingwire.com/articles/rocket-pro-compass-40bps-jupiter/",
-        "what": "Rocket Pro announced a partnership with Compass to offer additional credits to brokers and unveiled a new loan origination system during its Ignite26 event.",
-        "numbers": "26",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-pro-compass-40bps-jupiter/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Rocket grows revenue to $6.7B, expands market share in 2025",
-        "url": "https://www.housingwire.com/articles/rocket-2025-earnings/",
-        "what": "Rocket CEO Varun Krishna said the results capped a “transformational year” for the company, citing stronger market share and growth.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-2025-earnings/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
