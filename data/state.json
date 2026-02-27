@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-27 21:43 UTC",
+  "as_of": "2026-02-27 22:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -56,14 +56,14 @@
       },
       "Tampa–St. Petersburg–Clearwater": {
         "total": {
-          "latest": 1208,
+          "latest": 1233,
           "latest_year": 2025,
-          "latest_month": 11,
-          "latest_month_name": "Nov",
-          "mom": -0.5022661722290894,
-          "yoy": 0.31161780673181316,
-          "ytd_yoy": 0.05279953582825647,
-          "ytd_count": 21774
+          "latest_month": 12,
+          "latest_month_name": "Dec",
+          "mom": 0.020695364238410674,
+          "yoy": 0.2992623814541622,
+          "ytd_yoy": 0.06361240811797875,
+          "ytd_count": 23007
         },
         "one_unit": {
           "latest": 864,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "loanDepot executive Alex Madonna departs, starts Trust One Financial",
+      "link": "https://www.housingwire.com/articles/alex-madonna-loandepot-departs/",
+      "published": "Fri, 27 Feb 2026"
+    },
+    {
+      "title": "New Jersey reverse mortgage counseling bill would have ‘chilling effect’ on senior home equity use, NRMLA says",
+      "link": "https://www.housingwire.com/articles/nrmla-nj-reverse-mortgage-bill/",
+      "published": "Fri, 27 Feb 2026"
+    },
+    {
       "title": "Tavant agentic AI portal connects lenders, real estate agents, borrowers",
       "link": "https://www.housingwire.com/articles/tavant-agentic-ai-portal-connects-lenders-real-estate-borrowers/",
       "published": "Fri, 27 Feb 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Mortgage rates fall to multiyear lows in time for spring housing market",
       "link": "https://www.housingwire.com/articles/mortgage-rates-fall-spring/",
-      "published": "Fri, 27 Feb 2026"
-    },
-    {
-      "title": "RealTrends Verified brokerage Rogers Healy and Associates merges with Compass",
-      "link": "https://www.housingwire.com/articles/rha-merges-compass-healy-steps-back/",
-      "published": "Fri, 27 Feb 2026"
-    },
-    {
-      "title": "AD Mortgage launches its largest non-QM securitization yet",
-      "link": "https://www.housingwire.com/articles/ad-mortgage-securitization/",
       "published": "Fri, 27 Feb 2026"
     },
     {
@@ -250,6 +250,24 @@
     ],
     "housing": [
       {
+        "title": "loanDepot executive Alex Madonna departs, starts Trust One Financial",
+        "url": "https://www.housingwire.com/articles/alex-madonna-loandepot-departs/",
+        "what": "Alex Madonna is departing loanDepot after 16 years and says his new firm, Trust One Financial, will open in early April.",
+        "numbers": "16",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/alex-madonna-loandepot-departs/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "New Jersey reverse mortgage counseling bill would have ‘chilling effect’ on senior home equity use, NRMLA says",
+        "url": "https://www.housingwire.com/articles/nrmla-nj-reverse-mortgage-bill/",
+        "what": "NRMLA this week sent a letter to a New Jersey lawmaker, stating its opposition to a legislative proposal tied to reverse mortgage counseling requirements in the Garden State.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nrmla-nj-reverse-mortgage-bill/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Tavant agentic AI portal connects lenders, real estate agents, borrowers",
         "url": "https://www.housingwire.com/articles/tavant-agentic-ai-portal-connects-lenders-real-estate-borrowers/",
         "what": "Tavant leaders sat down with HousingWire to detail benefits for mortgage professionals, real estate profesionals, borrowers and all housing stakeholders.",
@@ -329,24 +347,6 @@
         "what": "Mustafa Abbasi succeeds Effi Barak, who has served as interim president since April 2025",
         "numbers": "2025.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/new-president-at-the-helm-at-sothebys-canada/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "NewDay USA taps ex-FHA chief Brian Montgomery as vice chairman",
-        "url": "https://www.housingwire.com/articles/newday-usa-brian-montgomery/",
-        "what": "NewDay USA appoints former FHA commissioner Brian Montgomery as vice chairman, bringing HUD and Ginnie Mae oversight experience.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/newday-usa-brian-montgomery/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Figure posts fivefold profit growth, revenue spike of 49% in 2025",
-        "url": "https://www.housingwire.com/articles/figure-2025-revenue/",
-        "what": "Figure reported 2025 net revenue of $506.9M, up 49%, and net income of $134.3M, while volume climbed to $8.4B.",
-        "numbers": "2025, $506.9, 49, $134.3, $8.4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/figure-2025-revenue/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
