@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-02-28 23:34 UTC",
+  "as_of": "2026-03-01 03:23 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Will war with Iran send mortgage rates higher or lower?",
+      "link": "https://www.housingwire.com/articles/will-war-with-iran-send-mortgage-rates-higher-or-lower/",
+      "published": "Sun, 01 Mar 2026"
+    },
+    {
       "title": "loanDepot executive Alex Madonna departs, starts Trust One Financial",
       "link": "https://www.housingwire.com/articles/alex-madonna-loandepot-departs/",
       "published": "Fri, 27 Feb 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Capital One joins BPC housing affordability council",
       "link": "https://www.housingwire.com/articles/capital-one-joins-bpc-housing-affordability-council/",
-      "published": "Fri, 27 Feb 2026"
-    },
-    {
-      "title": "Mortgage rates fall to multiyear lows in time for spring housing market",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-fall-spring/",
       "published": "Fri, 27 Feb 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Will war with Iran send mortgage rates higher or lower?",
+        "url": "https://www.housingwire.com/articles/will-war-with-iran-send-mortgage-rates-higher-or-lower/",
+        "what": "Mortgage rates ended last week at 5.99% as the 10-year hit a 2026 low, but now we have a new variable: war with Iran.",
+        "numbers": "5.99, 10, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/will-war-with-iran-send-mortgage-rates-higher-or-lower/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage rates fall to multiyear lows in time for spring housing market",
         "url": "https://www.housingwire.com/articles/mortgage-rates-fall-spring/",
@@ -338,15 +347,6 @@
         "what": "Rogers Healy and Associates has merged with Compass, and founder Rogers Healy plans to step back from daily leadership to focus on venture capital.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/rha-merges-compass-healy-steps-back/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "New president at the helm at Sotheby’s Canada",
-        "url": "https://www.housingwire.com/articles/new-president-at-the-helm-at-sothebys-canada/",
-        "what": "Mustafa Abbasi succeeds Effi Barak, who has served as interim president since April 2025",
-        "numbers": "2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-president-at-the-helm-at-sothebys-canada/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
