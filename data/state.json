@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-02 14:59 UTC",
+  "as_of": "2026-03-02 15:55 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "A Portland room rental pilot puts new Oregon SRO rules to the test",
+      "link": "https://www.housingwire.com/articles/oregon-sro-portland-pilot/",
+      "published": "Mon, 02 Mar 2026"
+    },
+    {
       "title": "The 4 best online real estate schools for 2026",
       "link": "https://www.housingwire.com/articles/best-online-real-estate-school/",
       "published": "Mon, 02 Mar 2026"
@@ -162,11 +167,6 @@
     {
       "title": "loanDepot executive Alex Madonna departs, starts Trust One Financial",
       "link": "https://www.housingwire.com/articles/alex-madonna-loandepot-departs/",
-      "published": "Fri, 27 Feb 2026"
-    },
-    {
-      "title": "New Jersey reverse mortgage counseling bill would have ‘chilling effect’ on senior home equity use, NRMLA says",
-      "link": "https://www.housingwire.com/articles/nrmla-nj-reverse-mortgage-bill/",
       "published": "Fri, 27 Feb 2026"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage rates fall to multiyear lows in time for spring housing market",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-fall-spring/",
-        "what": "Mortgage rates fell to 5.98%-5.99% as the 10-year yield moved under 4% and mortgage spreads held near normal levels.",
-        "numbers": "5.98, 5.99, 10, 4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-fall-spring/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "More Homeowners Have a Rate Above 6% Than a Rate Below 3% For the First Time in 5 Years",
         "url": "https://www.redfin.com/news/mortgage-rates-q3-2025/",
         "what": "21% of U.S",
@@ -240,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "A Portland room rental pilot puts new Oregon SRO rules to the test",
+        "url": "https://www.housingwire.com/articles/oregon-sro-portland-pilot/",
+        "what": "Oregon last year rewrote the rules for one of the oldest and cheapest housing types, single-room occupancy lodgings",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/oregon-sro-portland-pilot/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "West Palm Beach’s Luxury Housing Market Is Booming, With Sales Up 30%",
         "url": "https://www.redfin.com/news/west-palm-beach-luxury-homes-january-2026/",
