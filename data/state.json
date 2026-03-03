@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-03 17:05 UTC",
+  "as_of": "2026-03-03 17:59 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage rates jump after Iran strike rattles markets",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-middle-east/",
+      "published": "Tue, 03 Mar 2026"
+    },
+    {
+      "title": "Stellar MLS transitions CEO role from Merri Jo Cowen to Shayne Fairley",
+      "link": "https://www.housingwire.com/articles/cowen-steps-down-stellar-mls/",
+      "published": "Tue, 03 Mar 2026"
+    },
+    {
+      "title": "Connecticut bill targets private real estate listings",
+      "link": "https://www.housingwire.com/articles/connecticut-bill-private-listings/",
+      "published": "Tue, 03 Mar 2026"
+    },
+    {
+      "title": "Rhode Island housing package targets zoning, parking and SROs",
+      "link": "https://www.housingwire.com/articles/room-act-sros-rhode-island/",
+      "published": "Tue, 03 Mar 2026"
+    },
+    {
       "title": "Direct Mortgage ex-employees sue over fraud and unpaid wages",
       "link": "https://www.housingwire.com/articles/direct-mortgage-employees-lawsuit/",
       "published": "Tue, 03 Mar 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Green Brick Partners stands out with high margins, land-heavy approach",
       "link": "https://www.housingwire.com/articles/green-brick-partners-earnings/",
-      "published": "Tue, 03 Mar 2026"
-    },
-    {
-      "title": "‘Limitless’ in a time of uncertainty: LeadingRE’s Paul Boomsma’s message to brokerage leaders",
-      "link": "https://www.housingwire.com/articles/eadingre-boomsma-ma-listings/",
-      "published": "Tue, 03 Mar 2026"
-    },
-    {
-      "title": "6 deal-saving business & negotiation strategies from a $1.7 billion broker",
-      "link": "https://www.housingwire.com/articles/real-estate-negotiation-david-kramer/",
-      "published": "Tue, 03 Mar 2026"
-    },
-    {
-      "title": "Markets are starting to price in escalation with Iran, but not fully yet",
-      "link": "https://www.housingwire.com/articles/markets-are-starting-to-price-in-escalation-with-iran-but-not-fully-yet/",
-      "published": "Tue, 03 Mar 2026"
-    },
-    {
-      "title": "RenoFi to expand AI-powered renovation financing after $22M Series B funding",
-      "link": "https://www.housingwire.com/articles/renofi-22m-series-b-funding/",
       "published": "Tue, 03 Mar 2026"
     },
     {
@@ -203,20 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Mortgage rates jump after Iran strike rattles markets",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-middle-east/",
+        "what": "the U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-middle-east/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Markets are starting to price in escalation with Iran, but not fully yet",
         "url": "https://www.housingwire.com/articles/markets-are-starting-to-price-in-escalation-with-iran-but-not-fully-yet/",
         "what": "The 10-year yield at 4.09% still doesn’t price in the full escalation of the war, but it's starting to take this situation more seriously.",
         "numbers": "10, 4.09",
         "justified": "housingwire.com — https://www.housingwire.com/articles/markets-are-starting-to-price-in-escalation-with-iran-but-not-fully-yet/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "What war risk could mean for builders, rates and spring demand in 2026",
-        "url": "https://www.housingwire.com/articles/homebuilders-uncertainty-spring-2026/",
-        "what": "Nature abhors a vacuum and does something about it",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilders-uncertainty-spring-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -240,6 +240,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Connecticut bill targets private real estate listings",
+        "url": "https://www.housingwire.com/articles/connecticut-bill-private-listings/",
+        "what": "Connecticut Senate Bill 340 would mandate public marketing for listings unless sellers opt out, mirroring bills in three other states.",
+        "numbers": "340",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/connecticut-bill-private-listings/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Rhode Island housing package targets zoning, parking and SROs",
+        "url": "https://www.housingwire.com/articles/room-act-sros-rhode-island/",
+        "what": "Rhode Island, like other states nationwide, is grappling with a housing affordability crisis.​ State lawmakers are now on their sixth legislative package to strengthen efforts to improve housing affordability",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/room-act-sros-rhode-island/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Direct Mortgage ex-employees sue over fraud and unpaid wages",
         "url": "https://www.housingwire.com/articles/direct-mortgage-employees-lawsuit/",
@@ -277,24 +295,6 @@
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
-        "title": "How to ensure locked-down compliance during HMDA reporting season, and year-round",
-        "url": "https://www.housingwire.com/articles/how-to-ensure-locked-down-compliance-during-hmda-reporting-season-and-year-round/",
-        "what": "HMDA reporting season is here, and for compliance professionals at community banks, it’s a stressful time of year",
-        "numbers": "2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/how-to-ensure-locked-down-compliance-during-hmda-reporting-season-and-year-round/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Experian imposes another price increase on mortgage credit reports, resellers say",
-        "url": "https://www.housingwire.com/articles/experian-mortgage-price-increase/",
-        "what": "Resellers say Experian added another mortgage lender price increase of about 3%, after 2026 credit report hikes reached as much as 50%.",
-        "numbers": "3, 2026, 50",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/experian-mortgage-price-increase/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "West Palm Beach’s Luxury Housing Market Is Booming, With Sales Up 30%",
         "url": "https://www.redfin.com/news/west-palm-beach-luxury-homes-january-2026/",
         "what": "Luxury pending home sales in West Palm Beach posted a larger gain than any other major metro in January, rising almost six times faster than non luxury sales",
@@ -324,6 +324,15 @@
     ],
     "notables": [
       {
+        "title": "Stellar MLS transitions CEO role from Merri Jo Cowen to Shayne Fairley",
+        "url": "https://www.housingwire.com/articles/cowen-steps-down-stellar-mls/",
+        "what": "Merri Jo Cowen steps down as Stellar MLS CEO after 17 years, and COO Shayne Fairley takes over in the planned Q1 2026 transition.",
+        "numbers": "17, 1, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cowen-steps-down-stellar-mls/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "6 deal-saving business & negotiation strategies from a $1.7 billion broker",
         "url": "https://www.housingwire.com/articles/real-estate-negotiation-david-kramer/",
         "what": "Compass' David Kramer shares the exact business and negotiation strategies he used to build one of LA's most successful real estate careers.",
@@ -338,15 +347,6 @@
         "what": "RenoFi closed a $22M Series B led by Fifth Wall, aiming to scale its AI renovation loan platform and expand its distributed retail team.",
         "numbers": "$22",
         "justified": "housingwire.com — https://www.housingwire.com/articles/renofi-22m-series-b-funding/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Blend launches Autopilot AI agent in quest to shorten the borrower-LO waiting game",
-        "url": "https://www.housingwire.com/articles/blend-autopilot-mortgage/",
-        "what": "Blend Autopilot automates document review and compliance checks, sends instant borrower updates and builds needs lists.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/blend-autopilot-mortgage/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
