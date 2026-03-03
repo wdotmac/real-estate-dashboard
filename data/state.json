@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-03 11:47 UTC",
+  "as_of": "2026-03-03 13:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Mon, 02 Mar 2026"
     },
     {
+      "title": "The Typical U.S. Homeowner Hangs Onto Their House For 12 Years. In Los Angeles, It’s 20 Years.",
+      "link": "https://www.redfin.com/news/homeowner-tenure-12-years/",
+      "published": "Tue, 03 Mar 2026"
+    },
+    {
       "title": "Redfin Economists’ Weekly Take: After Dipping Below 6%, Mortgage Rates Enter Unpredictable Week Amid Iran Tensions",
       "link": "https://www.redfin.com/news/weekly-economic-update-march-2-2026/",
       "published": "Mon, 02 Mar 2026"
@@ -192,11 +197,6 @@
     {
       "title": "Denver Has a New Neighbor: Kiel Murphy Wins the Great American Home Search",
       "link": "https://www.redfin.com/news/great-american-home-search-winner/",
-      "published": "Thu, 26 Feb 2026"
-    },
-    {
-      "title": "Homebuying Affordability Improves As Mortgage Rates Fall to Lowest Level in Over 3 Years",
-      "link": "https://www.redfin.com/news/housing-market-update-mortgage-rates-fall-affordability-improves/",
       "published": "Thu, 26 Feb 2026"
     }
   ],
@@ -228,18 +228,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-q3-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Homebuying Affordability Improves As Mortgage Rates Fall to Lowest Level in Over 3 Years",
-        "url": "https://www.redfin.com/news/housing-market-update-mortgage-rates-fall-affordability-improves/",
-        "what": "Lower rates haven’t yet brought homebuyers off the sidelines, but hope is in the air as we approach spring",
-        "numbers": "6.01, 2022., $2,599,, 2.6, 3",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-mortgage-rates-fall-affordability-improves/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "The Typical U.S. Homeowner Hangs Onto Their House For 12 Years. In Los Angeles, It’s 20 Years.",
+        "url": "https://www.redfin.com/news/homeowner-tenure-12-years/",
+        "what": "Homeowner tenure peaked at 13.4 years in 2020, roughly doubling the average tenure from 2005",
+        "numbers": "13.4, 2020,, 2005., 2025., 12, 20",
+        "justified": "redfin.com — https://www.redfin.com/news/homeowner-tenure-12-years/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "How to ensure locked-down compliance during HMDA reporting season, and year-round",
         "url": "https://www.housingwire.com/articles/how-to-ensure-locked-down-compliance-during-hmda-reporting-season-and-year-round/",
