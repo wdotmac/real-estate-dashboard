@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-03-03 20:47 UTC",
+  "as_of": "2026-03-03 21:48 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 3.97,
-      "delta_bp_1d": -4.999999999999938
+      "yield_pct": 4.05,
+      "delta_bp_1d": 7.999999999999963
     },
     "mortgage_30y": {
       "rate_pct": 5.98,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Engel & Volkers: Next generation of luxury homebuyers ready to make their mark",
+      "link": "https://www.housingwire.com/articles/next-generation-luxury-homebuyers-engel-volkers/",
+      "published": "Tue, 03 Mar 2026"
+    },
+    {
+      "title": "Baird & Warner launches AI social media assistant",
+      "link": "https://www.housingwire.com/articles/baird-warner-ai-social-media-assistant/",
+      "published": "Tue, 03 Mar 2026"
+    },
+    {
+      "title": "Here’s what will actually move the needle on housing affordability",
+      "link": "https://www.housingwire.com/articles/affordability-move-needle-utility/",
+      "published": "Tue, 03 Mar 2026"
+    },
+    {
+      "title": "Portland tests PadSplit model to ease inventory, affordability crunch",
+      "link": "https://www.housingwire.com/articles/portland-tests-padsplit-model-to-ease-inventory-affordability-crunch/",
+      "published": "Tue, 03 Mar 2026"
+    },
+    {
       "title": "Florida’s Sandra Rathe Team joins The Real Brokerage",
       "link": "https://www.housingwire.com/articles/sandra-rathe-team-real-brokerage-florida/",
       "published": "Tue, 03 Mar 2026"
@@ -147,26 +167,6 @@
     {
       "title": "HECM, HMBS activity falls sharply in February",
       "link": "https://www.housingwire.com/articles/hecm-hmbs-reverse-mortgage-february-2026/",
-      "published": "Tue, 03 Mar 2026"
-    },
-    {
-      "title": "Mortgage rates jump after Iran strike rattles markets",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-middle-east/",
-      "published": "Tue, 03 Mar 2026"
-    },
-    {
-      "title": "Stellar MLS transitions CEO role from Merri Jo Cowen to Shayne Fairley",
-      "link": "https://www.housingwire.com/articles/cowen-steps-down-stellar-mls/",
-      "published": "Tue, 03 Mar 2026"
-    },
-    {
-      "title": "Connecticut bill targets private real estate listings",
-      "link": "https://www.housingwire.com/articles/connecticut-bill-private-listings/",
-      "published": "Tue, 03 Mar 2026"
-    },
-    {
-      "title": "Rhode Island housing package targets zoning, parking and SROs",
-      "link": "https://www.housingwire.com/articles/room-act-sros-rhode-island/",
       "published": "Tue, 03 Mar 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Here’s what will actually move the needle on housing affordability",
+        "url": "https://www.housingwire.com/articles/affordability-move-needle-utility/",
+        "what": "Housing affordability continues to dominate the headlines, but most proposed “solutions” rely on assumptions that are either unlikely or insufficient on their own",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/affordability-move-needle-utility/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage rates jump after Iran strike rattles markets",
         "url": "https://www.housingwire.com/articles/mortgage-rates-middle-east/",
         "what": "the U.S",
@@ -232,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "Portland tests PadSplit model to ease inventory, affordability crunch",
+        "url": "https://www.housingwire.com/articles/portland-tests-padsplit-model-to-ease-inventory-affordability-crunch/",
+        "what": "The pilot aims to unlock spare bedrooms across the city to ease affordability pressures and expand housing inventory.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/portland-tests-padsplit-model-to-ease-inventory-affordability-crunch/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Connecticut bill targets private real estate listings",
         "url": "https://www.housingwire.com/articles/connecticut-bill-private-listings/",
         "what": "Connecticut Senate Bill 340 would mandate public marketing for listings unless sellers opt out, mirroring bills in three other states.",
@@ -248,33 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/room-act-sros-rhode-island/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Direct Mortgage ex-employees sue over fraud and unpaid wages",
-        "url": "https://www.housingwire.com/articles/direct-mortgage-employees-lawsuit/",
-        "what": "Two ex-employees of Direct Mortgage filed a suit seeking more than $750,000, alleging fraud and unpaid wages.",
-        "numbers": "$750,000,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/direct-mortgage-employees-lawsuit/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Green Brick Partners stands out with high margins, land-heavy approach",
-        "url": "https://www.housingwire.com/articles/green-brick-partners-earnings/",
-        "what": "Green Brick Partners kept a 29.4% gross margin in Q4 2025, but incentives rose to 9.2% and starts fell 14% year over year.",
-        "numbers": "29.4, 4, 2025,, 9.2, 14",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/green-brick-partners-earnings/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "‘Limitless’ in a time of uncertainty: LeadingRE’s Paul Boomsma’s message to brokerage leaders",
-        "url": "https://www.housingwire.com/articles/eadingre-boomsma-ma-listings/",
-        "what": "LeadingRE CEO Paul Boomsma told brokerage leaders the outlook is uncertain, with M&A, private listings and profit pressure in focus.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/eadingre-boomsma-ma-listings/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "The Typical U.S. Homeowner Hangs Onto Their House For 12 Years. In Los Angeles, It’s 20 Years.",
@@ -315,6 +306,24 @@
     ],
     "notables": [
       {
+        "title": "Engel & Volkers: Next generation of luxury homebuyers ready to make their mark",
+        "url": "https://www.housingwire.com/articles/next-generation-luxury-homebuyers-engel-volkers/",
+        "what": "The report found that 77% of participants save at least $1,500 per month, indicating a focus on long-term financial planning.",
+        "numbers": "77, $1,500",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/next-generation-luxury-homebuyers-engel-volkers/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Baird & Warner launches AI social media assistant",
+        "url": "https://www.housingwire.com/articles/baird-warner-ai-social-media-assistant/",
+        "what": "Agents can upload photos, videos and links or allow the system to suggest content by scanning local news and MLS data.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/baird-warner-ai-social-media-assistant/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Florida’s Sandra Rathe Team joins The Real Brokerage",
         "url": "https://www.housingwire.com/articles/sandra-rathe-team-real-brokerage-florida/",
         "what": "The team placed 159th nationally and 16th in Florida by sales volume, according to most RealTrends Verified rankings.",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/cowen-steps-down-stellar-mls/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "6 deal-saving business & negotiation strategies from a $1.7 billion broker",
-        "url": "https://www.housingwire.com/articles/real-estate-negotiation-david-kramer/",
-        "what": "Compass' David Kramer shares the exact business and negotiation strategies he used to build one of LA's most successful real estate careers.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-negotiation-david-kramer/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
