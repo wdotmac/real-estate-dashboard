@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-04 14:57 UTC",
+  "as_of": "2026-03-04 15:57 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Property taxes, insurance now account for 21% of mortgage payments",
+      "link": "https://www.housingwire.com/articles/taxes-insurance-mortgage-payments/",
+      "published": "Wed, 04 Mar 2026"
+    },
+    {
       "title": "Mortgage applications jump 11%, led by refinances",
       "link": "https://www.housingwire.com/articles/mortgage-applications-refinance-rise/",
       "published": "Wed, 04 Mar 2026"
@@ -163,11 +168,6 @@
       "title": "UWM and Bilt partner to redefine the mortgage servicing experience",
       "link": "https://www.housingwire.com/articles/uwm-and-bilt-partner-to-redefine-the-mortgage-servicing-experience/",
       "published": "Wed, 04 Mar 2026"
-    },
-    {
-      "title": "Engel & Volkers: Next generation of luxury homebuyers ready to make their mark",
-      "link": "https://www.housingwire.com/articles/next-generation-luxury-homebuyers-engel-volkers/",
-      "published": "Tue, 03 Mar 2026"
     },
     {
       "title": "For Real Estate Investors, the West Coast Is Hot and Florida Is Not",
@@ -231,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Property taxes, insurance now account for 21% of mortgage payments",
+        "url": "https://www.housingwire.com/articles/taxes-insurance-mortgage-payments/",
+        "what": "A Neighbors Bank report across nearly 450 metros found property taxes and homeowners insurance average 21% of monthly mortgage payments.",
+        "numbers": "450, 21",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/taxes-insurance-mortgage-payments/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage applications jump 11%, led by refinances",
         "url": "https://www.housingwire.com/articles/mortgage-applications-refinance-rise/",
@@ -338,15 +347,6 @@
         "what": "Agents can upload photos, videos and links or allow the system to suggest content by scanning local news and MLS data.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/baird-warner-ai-social-media-assistant/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Florida’s Sandra Rathe Team joins The Real Brokerage",
-        "url": "https://www.housingwire.com/articles/sandra-rathe-team-real-brokerage-florida/",
-        "what": "The team placed 159th nationally and 16th in Florida by sales volume, according to most RealTrends Verified rankings.",
-        "numbers": "159, 16",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sandra-rathe-team-real-brokerage-florida/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
