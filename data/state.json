@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-04 19:50 UTC",
+  "as_of": "2026-03-04 20:48 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "High-producing South Carolina team joins REMAX",
+      "link": "https://www.housingwire.com/articles/mcnulty-team-south-carolina-remax-real-estate/",
+      "published": "Wed, 04 Mar 2026"
+    },
+    {
+      "title": "Senate Democrats propose bill targeting corporate homeowner tax breaks",
+      "link": "https://www.housingwire.com/articles/american-homeownership-act-tax-breaks/",
+      "published": "Wed, 04 Mar 2026"
+    },
+    {
+      "title": "Fair housing groups urge court to reject Colony Ridge settlement",
+      "link": "https://www.housingwire.com/articles/colony-ridge-settlement-challenge-texas/",
+      "published": "Wed, 04 Mar 2026"
+    },
+    {
       "title": "PulteGroup partners with SitecoreAI to bolster its marketing strategy",
       "link": "https://www.housingwire.com/articles/pultegroup-partners-with-sitecoreai-to-bolster-its-marketing-strategy/",
       "published": "Wed, 04 Mar 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Real Brokerage posts $2B in revenue in 2025 as business strategy gains traction",
       "link": "https://www.housingwire.com/articles/real-2025-revenue-2b/",
-      "published": "Wed, 04 Mar 2026"
-    },
-    {
-      "title": "NAR launches podcast on business insight, member achievement",
-      "link": "https://www.housingwire.com/articles/nar-podcast-launch-real-estate/",
-      "published": "Wed, 04 Mar 2026"
-    },
-    {
-      "title": "RESPA uncertainty turns referrals into new legal battleground",
-      "link": "https://www.housingwire.com/articles/respa-referral-fees-uncertainty/",
-      "published": "Wed, 04 Mar 2026"
-    },
-    {
-      "title": "Latino home purchase lending gap persists across California",
-      "link": "https://www.housingwire.com/articles/california-latino-lending-gap/",
       "published": "Wed, 04 Mar 2026"
     },
     {
@@ -202,6 +202,24 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Senate Democrats propose bill targeting corporate homeowner tax breaks",
+        "url": "https://www.housingwire.com/articles/american-homeownership-act-tax-breaks/",
+        "what": "The American Homeownership Act would cut federal benefits for big landlords, tighten antitrust review and fund affordable housing supply.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/american-homeownership-act-tax-breaks/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Fair housing groups urge court to reject Colony Ridge settlement",
+        "url": "https://www.housingwire.com/articles/colony-ridge-settlement-challenge-texas/",
+        "what": "Fair housing and immigrant advocacy groups are urging a federal court in Texas to reject a proposed settlement between Colony Ridge Development LLC and federal agencies over allege",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/colony-ridge-settlement-challenge-texas/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "PulteGroup partners with SitecoreAI to bolster its marketing strategy",
         "url": "https://www.housingwire.com/articles/pultegroup-partners-with-sitecoreai-to-bolster-its-marketing-strategy/",
@@ -268,24 +286,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Property taxes, insurance now account for 21% of mortgage payments",
-        "url": "https://www.housingwire.com/articles/taxes-insurance-mortgage-payments/",
-        "what": "A Neighbors Bank report across nearly 450 metros found property taxes and homeowners insurance average 21% of monthly mortgage payments.",
-        "numbers": "450, 21",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/taxes-insurance-mortgage-payments/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage applications jump 11%, led by refinances",
-        "url": "https://www.housingwire.com/articles/mortgage-applications-refinance-rise/",
-        "what": "MBA said applications rose 11% w/w, refis up 14.3% and purchase index up 6.1%, while the 30-year fixed rate stayed at 6.09%.",
-        "numbers": "11, 14.3, 6.1, 30, 6.09",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-refinance-rise/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "For Real Estate Investors, the West Coast Is Hot and Florida Is Not",
         "url": "https://www.redfin.com/news/investor-report-q4-2025/",
         "what": "Investor activity is sluggish on a national level, with purchases rising just 2%—but it varies widely from metro to metro",
@@ -324,6 +324,15 @@
     ],
     "notables": [
       {
+        "title": "High-producing South Carolina team joins REMAX",
+        "url": "https://www.housingwire.com/articles/mcnulty-team-south-carolina-remax-real-estate/",
+        "what": "The McNulty Team recorded $17.3 million in volume across 66 transactions, according to the RealTrends Verified rankings.",
+        "numbers": "$17.3 million, 66",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mcnulty-team-south-carolina-remax-real-estate/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "NAR launches podcast on business insight, member achievement",
         "url": "https://www.housingwire.com/articles/nar-podcast-launch-real-estate/",
         "what": "Each episode features conversations with broker CEOs, industry innovators and real estate leaders from across the country.",
@@ -338,15 +347,6 @@
         "what": "While Latinos make up 37.7% of California’s adult population, they only received 31% of home purchase loans in 2024, per HMDA data.",
         "numbers": "37.7, 31, 2024,",
         "justified": "housingwire.com — https://www.housingwire.com/articles/california-latino-lending-gap/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Courted: 16% of agents changed brokerages in 2025, but ‘trading up’ doesn’t equal more sales volume",
-        "url": "https://www.housingwire.com/articles/agent-churn-2025-courted/",
-        "what": "Courted found 16% or 230,000 agents switched brokerages in 2025, generating $590B in volume, while top brands netted 1.8% growth.",
-        "numbers": "16, 230,000, 2025,, $590, 1.8",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/agent-churn-2025-courted/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
