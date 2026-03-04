@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-04 11:45 UTC",
+  "as_of": "2026-03-04 13:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Tue, 03 Mar 2026"
     },
     {
+      "title": "For Real Estate Investors, the West Coast Is Hot and Florida Is Not",
+      "link": "https://www.redfin.com/news/investor-report-q4-2025/",
+      "published": "Wed, 04 Mar 2026"
+    },
+    {
       "title": "The Typical U.S. Homeowner Hangs Onto Their House For 12 Years. In Los Angeles, It’s 20 Years.",
       "link": "https://www.redfin.com/news/homeowner-tenure-12-years/",
       "published": "Tue, 03 Mar 2026"
@@ -192,11 +197,6 @@
     {
       "title": "Redfin and Compass Partner to Expand Inventory and Seller Choice",
       "link": "https://www.redfin.com/news/redfin-policy-seller-choice/",
-      "published": "Thu, 26 Feb 2026"
-    },
-    {
-      "title": "Denver Has a New Neighbor: Kiel Murphy Wins the Great American Home Search",
-      "link": "https://www.redfin.com/news/great-american-home-search-winner/",
       "published": "Thu, 26 Feb 2026"
     }
   ],
@@ -240,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "For Real Estate Investors, the West Coast Is Hot and Florida Is Not",
+        "url": "https://www.redfin.com/news/investor-report-q4-2025/",
+        "what": "Investor activity is sluggish on a national level, with purchases rising just 2%—but it varies widely from metro to metro",
+        "numbers": "2, 37, 16",
+        "justified": "redfin.com — https://www.redfin.com/news/investor-report-q4-2025/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Why some of the most expensive housing markets are also the fastest",
         "url": "https://www.housingwire.com/articles/high-priced-metros-sell-faster/",
@@ -293,15 +302,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/redfin-policy-seller-choice/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Denver Has a New Neighbor: Kiel Murphy Wins the Great American Home Search",
-        "url": "https://www.redfin.com/news/great-american-home-search-winner/",
-        "what": "Redfin awards Murphy a home valued at more than $1 million for being the fastest person to successfully complete a nationwide scavenger hunt in the Redfin app Redfin today announce",
-        "numbers": "$1 million",
-        "justified": "redfin.com — https://www.redfin.com/news/great-american-home-search-winner/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
