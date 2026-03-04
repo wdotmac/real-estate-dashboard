@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-03-04 20:48 UTC",
+  "as_of": "2026-03-04 21:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.05,
-      "delta_bp_1d": 7.999999999999963
+      "yield_pct": 4.06,
+      "delta_bp_1d": 0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 5.98,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Trump 401(k) plan, if expanded, could advance universal retirement",
+      "link": "https://www.housingwire.com/articles/trump-401k-plan-universal-retirement/",
+      "published": "Wed, 04 Mar 2026"
+    },
+    {
       "title": "High-producing South Carolina team joins REMAX",
       "link": "https://www.housingwire.com/articles/mcnulty-team-south-carolina-remax-real-estate/",
       "published": "Wed, 04 Mar 2026"
@@ -162,11 +167,6 @@
     {
       "title": "9 strategies to build mortgage referral clients and grow your pipeline",
       "link": "https://www.housingwire.com/articles/mortgage-referral-client-strategies/",
-      "published": "Wed, 04 Mar 2026"
-    },
-    {
-      "title": "Real Brokerage posts $2B in revenue in 2025 as business strategy gains traction",
-      "link": "https://www.housingwire.com/articles/real-2025-revenue-2b/",
       "published": "Wed, 04 Mar 2026"
     },
     {
@@ -277,15 +277,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "UWM, Chase roll out temporary mortgage pricing incentives",
-        "url": "https://www.housingwire.com/articles/chase-rate-sale-uwm-incentive/",
-        "what": "UWM is offering 75 bps off refis through March and a $600 appraisal credit through April, while Chase runs a rate sale through March 8.",
-        "numbers": "75, $600, 8.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/chase-rate-sale-uwm-incentive/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "For Real Estate Investors, the West Coast Is Hot and Florida Is Not",
         "url": "https://www.redfin.com/news/investor-report-q4-2025/",
         "what": "Investor activity is sluggish on a national level, with purchases rising just 2%—but it varies widely from metro to metro",
@@ -323,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Trump 401(k) plan, if expanded, could advance universal retirement",
+        "url": "https://www.housingwire.com/articles/trump-401k-plan-universal-retirement/",
+        "what": "A recent op-ed concluded that Trump’s proposal, if expanded, could help move the nation toward a \"more inclusive\" form of capitalism.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-401k-plan-universal-retirement/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "High-producing South Carolina team joins REMAX",
         "url": "https://www.housingwire.com/articles/mcnulty-team-south-carolina-remax-real-estate/",
