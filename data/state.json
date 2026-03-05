@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-05 16:03 UTC",
+  "as_of": "2026-03-05 18:21 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": 0.9999999999999787
     },
     "mortgage_30y": {
-      "rate_pct": 5.98,
-      "delta_bp_wow": -2.999999999999936
+      "rate_pct": 6.0,
+      "delta_bp_wow": 1.9999999999999574
     },
     "starts": {
       "level_saar": 1404.0,
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "The 200-Basis-point gap: Why many lenders are leaving money on the table",
-      "link": "https://www.housingwire.com/articles/the-200-basis-point-gap-why-many-lenders-are-leaving-money-on-the-table/",
+      "title": "Why independent brokerages may have the advantage in real estate’s next chapter",
+      "link": "https://www.housingwire.com/articles/leadingre-brokerage-leaders-2026/",
       "published": "Thu, 05 Mar 2026"
     },
     {
-      "title": "New York’s housing crisis won’t be solved by one mega-project",
-      "link": "https://www.housingwire.com/articles/mamdani-sunnyside-yard-affordable-housing/",
-      "published": "Wed, 04 Mar 2026"
+      "title": "Reported layoffs at Morgan Stanley hit mortgage and wealth management units",
+      "link": "https://www.housingwire.com/articles/morgan-stanley-job-cuts/",
+      "published": "Thu, 05 Mar 2026"
     },
     {
-      "title": "Florida Agency Network partners with law firm to launch OL Title",
-      "link": "https://www.housingwire.com/articles/florida-agency-network-partners-with-law-firm-to-launch-ol-title/",
-      "published": "Wed, 04 Mar 2026"
+      "title": "ATTOM says rental yields are falling in 55% of US counties",
+      "link": "https://www.housingwire.com/articles/attom-rental-yields-falling-2026/",
+      "published": "Thu, 05 Mar 2026"
     },
     {
-      "title": "Premier Sotheby’s International Realty promotions include new CFO",
-      "link": "https://www.housingwire.com/articles/premier-sothebys-international-realty-cfo/",
-      "published": "Wed, 04 Mar 2026"
+      "title": "Zillow authorizes $1.25B stock buyback",
+      "link": "https://www.housingwire.com/articles/zillow-authorizes-1-25b-stock-buyback/",
+      "published": "Thu, 05 Mar 2026"
     },
     {
-      "title": "5 referral partners every loan officer needs to build a resilient pipeline",
-      "link": "https://www.housingwire.com/articles/mortgage-referral-partners/",
-      "published": "Wed, 04 Mar 2026"
+      "title": "William Raveis Real Estate – Lance Vermeulen form luxury partnership",
+      "link": "https://www.housingwire.com/articles/william-raveis-real-estate-lance-vermeulen-form-luxury-partnership/",
+      "published": "Thu, 05 Mar 2026"
     },
     {
-      "title": "Trump 401(k) plan, if expanded, could advance universal retirement",
-      "link": "https://www.housingwire.com/articles/trump-401k-plan-universal-retirement/",
-      "published": "Wed, 04 Mar 2026"
+      "title": "Qualify and prioritize your real estate leads with decision framework",
+      "link": "https://www.housingwire.com/articles/lead-qualification/",
+      "published": "Thu, 05 Mar 2026"
     },
     {
       "title": "Back on the Market: Relistings Jump as Home Sellers Bet on Stronger Spring Market",
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "ATTOM says rental yields are falling in 55% of US counties",
+        "url": "https://www.housingwire.com/articles/attom-rental-yields-falling-2026/",
+        "what": "ATTOM says yields fell from 2025 to 2026 in 54.8% of counties with sufficient data, even as rents rose faster than prices in 55% of markets.",
+        "numbers": "2025, 2026, 54.8, 55",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/attom-rental-yields-falling-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Back on the Market: Relistings Jump as Home Sellers Bet on Stronger Spring Market",
         "url": "https://www.redfin.com/news/home-relistings-2026/",
         "what": "Nearly 45,000 sellers who delisted their homes last year relisted them in January—the highest January number in records dating back a decade",
@@ -230,33 +239,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Senate Democrats propose bill targeting corporate homeowner tax breaks",
-        "url": "https://www.housingwire.com/articles/american-homeownership-act-tax-breaks/",
-        "what": "The American Homeownership Act would cut federal benefits for big landlords, tighten antitrust review and fund affordable housing supply.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/american-homeownership-act-tax-breaks/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Fair housing groups urge court to reject Colony Ridge settlement",
-        "url": "https://www.housingwire.com/articles/colony-ridge-settlement-challenge-texas/",
-        "what": "Fair housing and immigrant advocacy groups are urging a federal court in Texas to reject a proposed settlement between Colony Ridge Development LLC and federal agencies over allege",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/colony-ridge-settlement-challenge-texas/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "PulteGroup partners with SitecoreAI to bolster its marketing strategy",
-        "url": "https://www.housingwire.com/articles/pultegroup-partners-with-sitecoreai-to-bolster-its-marketing-strategy/",
-        "what": "SitecoreAI partners with PulteGroup as builders shift to unified platforms for content, personalization, search, DAM, and campaign execution.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pultegroup-partners-with-sitecoreai-to-bolster-its-marketing-strategy/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: After Dipping Below 6%, Mortgage Rates Enter Unpredictable Week Amid Iran Tensions",
         "url": "https://www.redfin.com/news/weekly-economic-update-march-2-2026/",
         "what": "This Week In A Nutshell: We’re in for an unpredictable week with potentially significant moves in rates between the ongoing Iran conflict and important job market data on Friday",
@@ -268,20 +250,29 @@
     ],
     "housing": [
       {
+        "title": "Reported layoffs at Morgan Stanley hit mortgage and wealth management units",
+        "url": "https://www.housingwire.com/articles/morgan-stanley-job-cuts/",
+        "what": "Morgan Stanley’s reported layoff of about 3% of its workforce",
+        "numbers": "3, 2,500",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/morgan-stanley-job-cuts/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Zillow authorizes $1.25B stock buyback",
+        "url": "https://www.housingwire.com/articles/zillow-authorizes-1-25b-stock-buyback/",
+        "what": "Since 2021, Zillow has repurchased about $3.3 billion worth of stock at a weighted average price of $49 per share.",
+        "numbers": "2021,, $3.3 billion, $49",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-authorizes-1-25b-stock-buyback/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "The 200-Basis-point gap: Why many lenders are leaving money on the table",
         "url": "https://www.housingwire.com/articles/the-200-basis-point-gap-why-many-lenders-are-leaving-money-on-the-table/",
         "what": "A decade of MBA Quarterly Performance Reports tells a story the mortgage industry has yet to fully absorb",
         "numbers": "200, 30,, 2025,, 20, 139, 33",
         "justified": "housingwire.com — https://www.housingwire.com/articles/the-200-basis-point-gap-why-many-lenders-are-leaving-money-on-the-table/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "5 referral partners every loan officer needs to build a resilient pipeline",
-        "url": "https://www.housingwire.com/articles/mortgage-referral-partners/",
-        "what": "We’ll break down the top mortgage referral partners and how to connect and retain relationships as an MLO",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-referral-partners/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -315,6 +306,33 @@
     ],
     "notables": [
       {
+        "title": "Why independent brokerages may have the advantage in real estate’s next chapter",
+        "url": "https://www.housingwire.com/articles/leadingre-brokerage-leaders-2026/",
+        "what": "LeadingRE panelists shared tactics on productivity, culture and coaching, including 28 deals per agent and 24% time gains using AI.",
+        "numbers": "28, 24",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/leadingre-brokerage-leaders-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "William Raveis Real Estate – Lance Vermeulen form luxury partnership",
+        "url": "https://www.housingwire.com/articles/william-raveis-real-estate-lance-vermeulen-form-luxury-partnership/",
+        "what": "Under the agreement, Lance Vermeulen Real Estate will integrate its operations and operate under the William Raveis brand going forward.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/william-raveis-real-estate-lance-vermeulen-form-luxury-partnership/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Qualify and prioritize your real estate leads with decision framework",
+        "url": "https://www.housingwire.com/articles/lead-qualification/",
+        "what": "Learn how a simple decision framework helps agents qualify and prioritize leads, respond faster and convert more opportunities into closed deals.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lead-qualification/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Florida Agency Network partners with law firm to launch OL Title",
         "url": "https://www.housingwire.com/articles/florida-agency-network-partners-with-law-firm-to-launch-ol-title/",
         "what": "The venture will focus on commercial real estate and high-end residential transactions across Florida, leaders said.",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/premier-sothebys-international-realty-cfo/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Trump 401(k) plan, if expanded, could advance universal retirement",
-        "url": "https://www.housingwire.com/articles/trump-401k-plan-universal-retirement/",
-        "what": "A recent op-ed concluded that Trump’s proposal, if expanded, could help move the nation toward a \"more inclusive\" form of capitalism.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-401k-plan-universal-retirement/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "High-producing South Carolina team joins REMAX",
-        "url": "https://www.housingwire.com/articles/mcnulty-team-south-carolina-remax-real-estate/",
-        "what": "The McNulty Team recorded $17.3 million in volume across 66 transactions, according to the RealTrends Verified rankings.",
-        "numbers": "$17.3 million, 66",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mcnulty-team-south-carolina-remax-real-estate/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
