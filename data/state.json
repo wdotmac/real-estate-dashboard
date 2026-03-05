@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-05 11:47 UTC",
+  "as_of": "2026-03-05 13:36 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,16 @@
       "published": "Wed, 04 Mar 2026"
     },
     {
+      "title": "Back on the Market: Relistings Jump as Home Sellers Bet on Stronger Spring Market",
+      "link": "https://www.redfin.com/news/home-relistings-2026/",
+      "published": "Thu, 05 Mar 2026"
+    },
+    {
+      "title": "House Hunters Stayed on Sidelines As Rates Dipped Below 6%, Iran War Adds to Market Uncertainty",
+      "link": "https://www.redfin.com/news/housing-market-update-homebuyers-mortgage-rates-unease/",
+      "published": "Thu, 05 Mar 2026"
+    },
+    {
       "title": "For Real Estate Investors, the West Coast Is Hot and Florida Is Not",
       "link": "https://www.redfin.com/news/investor-report-q4-2025/",
       "published": "Wed, 04 Mar 2026"
@@ -188,20 +198,28 @@
       "title": "West Palm Beach’s Luxury Housing Market Is Booming, With Sales Up 30%",
       "link": "https://www.redfin.com/news/west-palm-beach-luxury-homes-january-2026/",
       "published": "Mon, 02 Mar 2026"
-    },
-    {
-      "title": "More Homeowners Have a Rate Above 6% Than a Rate Below 3% For the First Time in 5 Years",
-      "link": "https://www.redfin.com/news/mortgage-rates-q3-2025/",
-      "published": "Fri, 27 Feb 2026"
-    },
-    {
-      "title": "Redfin and Compass Partner to Expand Inventory and Seller Choice",
-      "link": "https://www.redfin.com/news/redfin-policy-seller-choice/",
-      "published": "Thu, 26 Feb 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Back on the Market: Relistings Jump as Home Sellers Bet on Stronger Spring Market",
+        "url": "https://www.redfin.com/news/home-relistings-2026/",
+        "what": "Nearly 45,000 sellers who delisted their homes last year relisted them in January—the highest January number in records dating back a decade",
+        "numbers": "45,000",
+        "justified": "redfin.com — https://www.redfin.com/news/home-relistings-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "House Hunters Stayed on Sidelines As Rates Dipped Below 6%, Iran War Adds to Market Uncertainty",
+        "url": "https://www.redfin.com/news/housing-market-update-homebuyers-mortgage-rates-unease/",
+        "what": "High prices and economic uncertainty kept demand muted; now, rates are already rising again and global tensions could add to homebuyer hesitation",
+        "numbers": "$2,591, 1,, 2.8, 5.98, 6",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-homebuyers-mortgage-rates-unease/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "New York’s housing crisis won’t be solved by one mega-project",
         "url": "https://www.housingwire.com/articles/mamdani-sunnyside-yard-affordable-housing/",
@@ -244,15 +262,6 @@
         "what": "This Week In A Nutshell: We’re in for an unpredictable week with potentially significant moves in rates between the ongoing Iran conflict and important job market data on Friday",
         "numbers": "6",
         "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-march-2-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "More Homeowners Have a Rate Above 6% Than a Rate Below 3% For the First Time in 5 Years",
-        "url": "https://www.redfin.com/news/mortgage-rates-q3-2025/",
-        "what": "21% of U.S",
-        "numbers": "21, 6, 20, 3, 5, 4",
-        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-q3-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
@@ -302,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/west-palm-beach-luxury-homes-january-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Redfin and Compass Partner to Expand Inventory and Seller Choice",
-        "url": "https://www.redfin.com/news/redfin-policy-seller-choice/",
-        "what": "Today, Redfin announced a partnership with Compass International Holdings that will expand the number of homes buyers can discover on Redfin.com",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/redfin-policy-seller-choice/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
