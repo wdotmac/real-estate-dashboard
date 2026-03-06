@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-06 14:56 UTC",
+  "as_of": "2026-03-06 15:53 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Thu, 05 Mar 2026"
     },
     {
+      "title": "Weak Jobs Report Unlikely to Push Mortgage Rates Down As Escalating Iran Conflict Muddies Outlook",
+      "link": "https://www.redfin.com/news/february-2026-jobs-report/",
+      "published": "Fri, 06 Mar 2026"
+    },
+    {
       "title": "Back on the Market: Relistings Jump as Home Sellers Bet on Stronger Spring Market",
       "link": "https://www.redfin.com/news/home-relistings-2026/",
       "published": "Thu, 05 Mar 2026"
@@ -193,15 +198,19 @@
       "title": "Redfin Economists’ Weekly Take: After Dipping Below 6%, Mortgage Rates Enter Unpredictable Week Amid Iran Tensions",
       "link": "https://www.redfin.com/news/weekly-economic-update-march-2-2026/",
       "published": "Mon, 02 Mar 2026"
-    },
-    {
-      "title": "West Palm Beach’s Luxury Housing Market Is Booming, With Sales Up 30%",
-      "link": "https://www.redfin.com/news/west-palm-beach-luxury-homes-january-2026/",
-      "published": "Mon, 02 Mar 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Weak Jobs Report Unlikely to Push Mortgage Rates Down As Escalating Iran Conflict Muddies Outlook",
+        "url": "https://www.redfin.com/news/february-2026-jobs-report/",
+        "what": "The February jobs report is weaker than expected",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/february-2026-jobs-report/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "NAHB data maps modest housing affordability gains in 2025",
         "url": "https://www.housingwire.com/articles/2025-affordability-nahb/",
@@ -309,15 +318,6 @@
         "what": "Homeowner tenure peaked at 13.4 years in 2020, roughly doubling the average tenure from 2005",
         "numbers": "13.4, 2020,, 2005., 2025., 12, 20",
         "justified": "redfin.com — https://www.redfin.com/news/homeowner-tenure-12-years/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "West Palm Beach’s Luxury Housing Market Is Booming, With Sales Up 30%",
-        "url": "https://www.redfin.com/news/west-palm-beach-luxury-homes-january-2026/",
-        "what": "Luxury pending home sales in West Palm Beach posted a larger gain than any other major metro in January, rising almost six times faster than non luxury sales",
-        "numbers": "11, 30",
-        "justified": "redfin.com — https://www.redfin.com/news/west-palm-beach-luxury-homes-january-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
