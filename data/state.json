@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-03-06 20:48 UTC",
+  "as_of": "2026-03-06 21:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.09,
-      "delta_bp_1d": 3.000000000000025
+      "yield_pct": 4.13,
+      "delta_bp_1d": 4.0000000000000036
     },
     "mortgage_30y": {
       "rate_pct": 6.0,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Can innovation, policy reform redeem manufactured housing’s image?",
+      "link": "https://www.housingwire.com/articles/manufactured-housing-innovation/",
+      "published": "Fri, 06 Mar 2026"
+    },
+    {
+      "title": "Allied Title and Escrow expands into Ohio, Michigan",
+      "link": "https://www.housingwire.com/articles/allied-title-and-escrow-expands-into-ohio-michigan/",
+      "published": "Fri, 06 Mar 2026"
+    },
+    {
+      "title": "FinCEN’s AML rule reshaping title processes — and buyer behavior",
+      "link": "https://www.housingwire.com/articles/fincens-aml-rule-reshaping-title-processes-and-buyer-behavior/",
+      "published": "Fri, 06 Mar 2026"
+    },
+    {
       "title": "Negative jobs report keeps mortgage rates calm amid surging oil prices",
       "link": "https://www.housingwire.com/articles/payrolls-oil-yields-swing/",
       "published": "Fri, 06 Mar 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Angel Oak’s Tom Hutchens on new growth path for non-QMs as rates ease",
       "link": "https://www.housingwire.com/articles/angel-oak-non-qm-growth/",
-      "published": "Fri, 06 Mar 2026"
-    },
-    {
-      "title": "Ninja Selling’s Larry Kendall: Control the habits, not the headlines",
-      "link": "https://www.housingwire.com/articles/control-habits-not-headlines-ninja-selling/",
-      "published": "Fri, 06 Mar 2026"
-    },
-    {
-      "title": "US loses 92,000 jobs in February as labor market continues to cool",
-      "link": "https://www.housingwire.com/articles/february-2026-jobs-report-92000-loss/",
-      "published": "Fri, 06 Mar 2026"
-    },
-    {
-      "title": "Trigger leads restrictions rewrite mortgage outreach rules",
-      "link": "https://www.housingwire.com/articles/mortgage-trigger-leads-restrictions/",
       "published": "Fri, 06 Mar 2026"
     },
     {
@@ -277,6 +277,15 @@
     ],
     "housing": [
       {
+        "title": "Can innovation, policy reform redeem manufactured housing’s image?",
+        "url": "https://www.housingwire.com/articles/manufactured-housing-innovation/",
+        "what": "Manufactured housing is still hampered by a persistent negative stigma, but innovations in the industry could change those misconceptions.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/manufactured-housing-innovation/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Trigger leads restrictions rewrite mortgage outreach rules",
         "url": "https://www.housingwire.com/articles/mortgage-trigger-leads-restrictions/",
         "what": "New FCRA amendment, effective March 5, 2026, restricts trigger lead sales, allowing outreach mainly via consent or existing relationships.",
@@ -291,24 +300,6 @@
         "what": "The mortgage industry doesn’t stand still—and neither can the professionals who wish to succeed within it",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/impactful-marketing-tips-for-a-post-trigger-lead-landscape/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Builders started 2026 with margin pressure, then came Iran war risk",
-        "url": "https://www.housingwire.com/articles/iran-war-homebuilders-2026/",
-        "what": "Making less money but making steady headway may be a crude way to boil down what early 2026 was looking like for many homebuilding business leaders",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/iran-war-homebuilders-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Better launches ChatGPT-based credit decision engine for mortgage and HELOC lenders",
-        "url": "https://www.housingwire.com/articles/better-chatgpt-conversational-credit-decision-engine-tinman-ai/",
-        "what": "Better.com has launched a conversational credit decision engine that lets mortgage and home equity lenders run underwriting through ChatGPT using the company’s Tinman AI platform.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-chatgpt-conversational-credit-decision-engine-tinman-ai/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -333,20 +324,29 @@
     ],
     "notables": [
       {
+        "title": "Allied Title and Escrow expands into Ohio, Michigan",
+        "url": "https://www.housingwire.com/articles/allied-title-and-escrow-expands-into-ohio-michigan/",
+        "what": "The move marks another step in Allied’s national growth strategy as demand increases from real estate agents, lenders and investors.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/allied-title-and-escrow-expands-into-ohio-michigan/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "FinCEN’s AML rule reshaping title processes — and buyer behavior",
+        "url": "https://www.housingwire.com/articles/fincens-aml-rule-reshaping-title-processes-and-buyer-behavior/",
+        "what": "The rule is already prompting operational changes, new workflows and questions from buyers and sellers first encountering the requirements.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fincens-aml-rule-reshaping-title-processes-and-buyer-behavior/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "The condo queen: How a Miami broker closes $1B+ a year",
         "url": "https://www.housingwire.com/articles/miami-luxury-condo-broker-maile-aguila/",
         "what": "Miami luxury mega-broker Maile Aguila on selling $1 billion of real estate in a year and how new agents can break into high-end condo sales.",
         "numbers": "$1 billion",
         "justified": "housingwire.com — https://www.housingwire.com/articles/miami-luxury-condo-broker-maile-aguila/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Study finds 65-year-olds need $135K for long-term care",
-        "url": "https://www.housingwire.com/articles/long-term-care-costs-milliman/",
-        "what": "The type of care",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/long-term-care-costs-milliman/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
