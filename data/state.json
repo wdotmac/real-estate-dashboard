@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-06 19:47 UTC",
+  "as_of": "2026-03-06 20:48 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -49,9 +49,9 @@
           "ytd_count": 14177
         },
         "dom": {
-          "days": 88,
-          "yoy": 0.08641975308641969,
-          "as_of": "2026-01"
+          "days": 82,
+          "yoy": 0.10810810810810811,
+          "as_of": "2026-02"
         }
       },
       "Tampa–St. Petersburg–Clearwater": {
@@ -76,9 +76,9 @@
           "ytd_count": 13696
         },
         "dom": {
-          "days": 85,
-          "yoy": 0.2142857142857142,
-          "as_of": "2026-01"
+          "days": 80,
+          "yoy": 0.21212121212121215,
+          "as_of": "2026-02"
         }
       },
       "Ocala": {
@@ -103,9 +103,9 @@
           "ytd_count": 5420
         },
         "dom": {
-          "days": 93,
-          "yoy": 0.2567567567567568,
-          "as_of": "2026-01"
+          "days": 91,
+          "yoy": 0.2816901408450705,
+          "as_of": "2026-02"
         }
       },
       "Palm Bay–Melbourne–Titusville": {
@@ -130,15 +130,20 @@
           "ytd_count": 3369
         },
         "dom": {
-          "days": 77,
-          "yoy": 0.0547945205479452,
-          "as_of": "2026-01"
+          "days": 72,
+          "yoy": 0.07462686567164178,
+          "as_of": "2026-02"
         }
       }
     }
   },
   "watchlist": [],
   "feed": [
+    {
+      "title": "Negative jobs report keeps mortgage rates calm amid surging oil prices",
+      "link": "https://www.housingwire.com/articles/payrolls-oil-yields-swing/",
+      "published": "Fri, 06 Mar 2026"
+    },
     {
       "title": "The condo queen: How a Miami broker closes $1B+ a year",
       "link": "https://www.housingwire.com/articles/miami-luxury-condo-broker-maile-aguila/",
@@ -162,11 +167,6 @@
     {
       "title": "Trigger leads restrictions rewrite mortgage outreach rules",
       "link": "https://www.housingwire.com/articles/mortgage-trigger-leads-restrictions/",
-      "published": "Fri, 06 Mar 2026"
-    },
-    {
-      "title": "Impactful marketing tips for a post-trigger-lead landscape",
-      "link": "https://www.housingwire.com/articles/impactful-marketing-tips-for-a-post-trigger-lead-landscape/",
       "published": "Fri, 06 Mar 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Negative jobs report keeps mortgage rates calm amid surging oil prices",
+        "url": "https://www.housingwire.com/articles/payrolls-oil-yields-swing/",
+        "what": "BLS reported payrolls down 92,000 and unemployment at 4.4%, as oil touched $92 and the 10-year yield reversed to near 4.12%.",
+        "numbers": "92,000, 4.4, $92, 10, 4.12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/payrolls-oil-yields-swing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Angel Oak’s Tom Hutchens on new growth path for non-QMs as rates ease",
         "url": "https://www.housingwire.com/articles/angel-oak-non-qm-growth/",
@@ -302,15 +311,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/better-chatgpt-conversational-credit-decision-engine-tinman-ai/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NAR speaks out on “coming soon” listings",
-        "url": "https://www.housingwire.com/articles/nar-coming-soon-mls-rules/",
-        "what": "NAR says it has no national “coming soon” policy, leaving listing status rules to local MLSs and emphasizing MLS benefits for consumers and competition.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-coming-soon-mls-rules/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "For Real Estate Investors, the West Coast Is Hot and Florida Is Not",
