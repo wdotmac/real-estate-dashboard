@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-08 19:35 UTC",
+  "as_of": "2026-03-08 20:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Local fees trap state housing affordability reforms in a vicious circle",
+      "link": "https://www.housingwire.com/articles/san-luis-obispo-inclusionary-fees/",
+      "published": "Sun, 08 Mar 2026"
+    },
+    {
       "title": "Housing demand is up and inventory is down, even with Iran conflict",
       "link": "https://www.housingwire.com/articles/mortgage-rates-housing-demand-2026-2/",
       "published": "Sun, 08 Mar 2026"
@@ -162,11 +167,6 @@
     {
       "title": "FinCEN’s AML rule reshaping title processes — and buyer behavior",
       "link": "https://www.housingwire.com/articles/fincens-aml-rule-reshaping-title-processes-and-buyer-behavior/",
-      "published": "Fri, 06 Mar 2026"
-    },
-    {
-      "title": "Negative jobs report keeps mortgage rates calm amid surging oil prices",
-      "link": "https://www.housingwire.com/articles/payrolls-oil-yields-swing/",
       "published": "Fri, 06 Mar 2026"
     },
     {
@@ -239,15 +239,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "US loses 92,000 jobs in February as labor market continues to cool",
-        "url": "https://www.housingwire.com/articles/february-2026-jobs-report-92000-loss/",
-        "what": "The unemployment rate was little changed from January, rising slightly to 4.4%, with 7.6 million people unemployed.",
-        "numbers": "4.4, 7.6 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/february-2026-jobs-report-92000-loss/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Weak Jobs Report Unlikely to Push Mortgage Rates Down As Escalating Iran Conflict Muddies Outlook",
         "url": "https://www.redfin.com/news/february-2026-jobs-report/",
         "what": "The February jobs report is weaker than expected",
@@ -285,6 +276,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Local fees trap state housing affordability reforms in a vicious circle",
+        "url": "https://www.housingwire.com/articles/san-luis-obispo-inclusionary-fees/",
+        "what": "Procedural and zoning barriers are proving to be only the beginning of the gauntlet for adding new ground-up residential supply to America’s housing-starved communities",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/san-luis-obispo-inclusionary-fees/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Redwood launches Aspire securitization shelf with $391M non-QM deal",
         "url": "https://www.housingwire.com/articles/redwood-aspire-non-qm-securitization/",
