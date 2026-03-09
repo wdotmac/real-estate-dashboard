@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-09 15:10 UTC",
+  "as_of": "2026-03-09 16:13 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Logan Finance rolls out new product tier for high-balance non-QMs",
+      "link": "https://www.housingwire.com/articles/logan-finance-open-road-elevated/",
+      "published": "Mon, 09 Mar 2026"
+    },
+    {
+      "title": "TransUnion cuts VantageScore 4.0 price to 99 cents for mortgage lenders",
+      "link": "https://www.housingwire.com/articles/transunion-vantagescore-price-cut/",
+      "published": "Mon, 09 Mar 2026"
+    },
+    {
       "title": "Horton, Toll, Century back AREC Fund as AD&C credit tightens",
       "link": "https://www.housingwire.com/articles/arec-debt-fund-builders/",
       "published": "Mon, 09 Mar 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Zillow wins a battle, but market rhythm is at stake",
       "link": "https://www.housingwire.com/articles/zillow-wins-a-battle-but-market-rhythm-is-at-stake/",
-      "published": "Mon, 09 Mar 2026"
-    },
-    {
-      "title": "Homes.com, Zillow and the affordability stakes of who controls the listing marketplace",
-      "link": "https://www.housingwire.com/articles/homes-com-zillow-affordability-competition/",
-      "published": "Mon, 09 Mar 2026"
-    },
-    {
-      "title": "Celink’s Ryan LaRose on reverse mortgage servicing scale pressures, structural growth limits",
-      "link": "https://www.housingwire.com/articles/reverse-mortgage-servicing-tech-costs-consolidation/",
       "published": "Mon, 09 Mar 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "TransUnion cuts VantageScore 4.0 price to 99 cents for mortgage lenders",
+        "url": "https://www.housingwire.com/articles/transunion-vantagescore-price-cut/",
+        "what": "TransUnion is reducing the price of VantageScore 4.0 to $0.99 per score for mortgage lenders while continuing to offer it at no cost with the purchase of a FICO score.",
+        "numbers": "4.0, $0.99",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/transunion-vantagescore-price-cut/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Weak Jobs Report Unlikely to Push Mortgage Rates Down As Escalating Iran Conflict Muddies Outlook",
         "url": "https://www.redfin.com/news/february-2026-jobs-report/",
@@ -304,24 +313,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Anthony Casa on UMortgage’s new broker model empowering loan originators",
-        "url": "https://www.housingwire.com/articles/anthony-casa-on-umortgages-new-broker-model-empowering-loan-originators/",
-        "what": "Discover how UMortgage’s new broker model empowers loan originators with greater autonomy, higher earnings, and a technology-driven platform",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/anthony-casa-on-umortgages-new-broker-model-empowering-loan-originators/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Local fees trap state housing affordability reforms in a vicious circle",
-        "url": "https://www.housingwire.com/articles/san-luis-obispo-inclusionary-fees/",
-        "what": "Procedural and zoning barriers are proving to be only the beginning of the gauntlet for adding new ground-up residential supply to America’s housing-starved communities",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/san-luis-obispo-inclusionary-fees/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "For Real Estate Investors, the West Coast Is Hot and Florida Is Not",
         "url": "https://www.redfin.com/news/investor-report-q4-2025/",
         "what": "Investor activity is sluggish on a national level, with purchases rising just 2%—but it varies widely from metro to metro",
@@ -329,9 +320,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/investor-report-q4-2025/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "The Typical U.S. Homeowner Hangs Onto Their House For 12 Years. In Los Angeles, It’s 20 Years.",
+        "url": "https://www.redfin.com/news/homeowner-tenure-12-years/",
+        "what": "Homeowner tenure peaked at 13.4 years in 2020, roughly doubling the average tenure from 2005",
+        "numbers": "13.4, 2020,, 2005., 2025., 12, 20",
+        "justified": "redfin.com — https://www.redfin.com/news/homeowner-tenure-12-years/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
+      {
+        "title": "Logan Finance rolls out new product tier for high-balance non-QMs",
+        "url": "https://www.housingwire.com/articles/logan-finance-open-road-elevated/",
+        "what": "Logan Finance launched Open Road Elevated, offering loans of up to $5M across four non-QM programs, including DSCR up to $4.5M.",
+        "numbers": "$5, $4.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/logan-finance-open-road-elevated/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "The ANTM Trap: When smart leaders with good intentions still fail the IRL ethics test",
         "url": "https://www.housingwire.com/articles/the-antm-trap-when-smart-leaders-with-good-intentions-still-fail-the-irl-ethics-test/",
