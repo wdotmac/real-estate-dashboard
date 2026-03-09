@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-03-09 19:51 UTC",
+  "as_of": "2026-03-09 20:51 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.13,
-      "delta_bp_1d": 4.0000000000000036
+      "yield_pct": 4.15,
+      "delta_bp_1d": 2.000000000000046
     },
     "mortgage_30y": {
       "rate_pct": 6.0,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Seniors want to age in place, but family caregivers face strains on multiple fronts",
+      "link": "https://www.housingwire.com/articles/aging-in-place-family-caregivers-pew-reserach/",
+      "published": "Mon, 09 Mar 2026"
+    },
+    {
+      "title": "NAR reaffirms MLS autonomy amid Compass-Redfin partnership",
+      "link": "https://www.housingwire.com/articles/nar-reaffirms-mls-autonomy-amid-compass-redfin-partnership/",
+      "published": "Mon, 09 Mar 2026"
+    },
+    {
       "title": "How will rising oil prices impact the U.S. housing market?",
       "link": "https://www.housingwire.com/articles/how-will-rising-oil-prices-impact-the-u-s-housing-market/",
       "published": "Mon, 09 Mar 2026"
@@ -157,16 +167,6 @@
     {
       "title": "As brokerage giants merge, Real Estate One bets on the power of local platforms",
       "link": "https://www.housingwire.com/articles/real-estate-one-local-platform/",
-      "published": "Mon, 09 Mar 2026"
-    },
-    {
-      "title": "Corcoran Reverie, Housify form luxury valuation partnership",
-      "link": "https://www.housingwire.com/articles/corcoran-reverie-housify-form-luxury-valuation-partnership/",
-      "published": "Mon, 09 Mar 2026"
-    },
-    {
-      "title": "Newrez rolls out TitlePass program, waiving lender title insurance on some refis",
-      "link": "https://www.housingwire.com/articles/newrez-titlepass-wholesale-refinance-title-insurance/",
       "published": "Mon, 09 Mar 2026"
     },
     {
@@ -259,29 +259,29 @@
     ],
     "housing": [
       {
+        "title": "Seniors want to age in place, but family caregivers face strains on multiple fronts",
+        "url": "https://www.housingwire.com/articles/aging-in-place-family-caregivers-pew-reserach/",
+        "what": "A Pew Research Center survey of 8,750 U.S",
+        "numbers": "8,750, 10, 65",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/aging-in-place-family-caregivers-pew-reserach/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "NAR reaffirms MLS autonomy amid Compass-Redfin partnership",
+        "url": "https://www.housingwire.com/articles/nar-reaffirms-mls-autonomy-amid-compass-redfin-partnership/",
+        "what": "NAR said its statement goes along with its long-standing position that sharing properties on the MLS provides transparency in the marketplace.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-reaffirms-mls-autonomy-amid-compass-redfin-partnership/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Newrez rolls out TitlePass program, waiving lender title insurance on some refis",
         "url": "https://www.housingwire.com/articles/newrez-titlepass-wholesale-refinance-title-insurance/",
         "what": "Multichannel mortgage lender Newrez has launched Newrez TitlePass for use in its wholesale channel, giving mortgage brokers a way to waive the lender title insurance requirement on",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/newrez-titlepass-wholesale-refinance-title-insurance/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Horton, Toll, Century back AREC Fund as AD&C credit tightens",
-        "url": "https://www.housingwire.com/articles/arec-debt-fund-builders/",
-        "what": "Three of America’s biggest homebuilders – D.R",
-        "numbers": "$200 million, $1 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/arec-debt-fund-builders/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Mortgage originations rise to three-year high in Q4 behind refi surge",
-        "url": "https://www.housingwire.com/articles/q4-mortgage-originations-refinance-surge/",
-        "what": "ICE estimates Q4 originations hit 1.44M as refis neared a 40% share, refi eligibility rose to 5.4M and average payments fell 8% to $2,063.",
-        "numbers": "4, 1.44, 40, 5.4, 8, $2,063.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/q4-mortgage-originations-refinance-surge/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
