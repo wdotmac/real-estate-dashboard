@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-09 20:51 UTC",
+  "as_of": "2026-03-09 21:46 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "West Capital Lending sues loanDepot, alleges unlawful pay scheme",
+      "link": "https://www.housingwire.com/articles/wcl-countersuit-loandepot-tila/",
+      "published": "Mon, 09 Mar 2026"
+    },
+    {
       "title": "Seniors want to age in place, but family caregivers face strains on multiple fronts",
       "link": "https://www.housingwire.com/articles/aging-in-place-family-caregivers-pew-reserach/",
       "published": "Mon, 09 Mar 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Real Brokerage adds top San Diego agent Jason Cassity as chief growth officer",
       "link": "https://www.housingwire.com/articles/real-brokerage-names-jason-cassity-chief-growth-officer/",
-      "published": "Mon, 09 Mar 2026"
-    },
-    {
-      "title": "As brokerage giants merge, Real Estate One bets on the power of local platforms",
-      "link": "https://www.housingwire.com/articles/real-estate-one-local-platform/",
       "published": "Mon, 09 Mar 2026"
     },
     {
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "TransUnion cuts VantageScore 4.0 price to 99 cents for mortgage lenders",
-        "url": "https://www.housingwire.com/articles/transunion-vantagescore-price-cut/",
-        "what": "TransUnion is reducing the price of VantageScore 4.0 to $0.99 per score for mortgage lenders while continuing to offer it at no cost with the purchase of a FICO score.",
-        "numbers": "4.0, $0.99",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/transunion-vantagescore-price-cut/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Weak Jobs Report Unlikely to Push Mortgage Rates Down As Escalating Iran Conflict Muddies Outlook",
         "url": "https://www.redfin.com/news/february-2026-jobs-report/",
         "what": "The February jobs report is weaker than expected",
@@ -258,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "West Capital Lending sues loanDepot, alleges unlawful pay scheme",
+        "url": "https://www.housingwire.com/articles/wcl-countersuit-loandepot-tila/",
+        "what": "West Capital Lending has sued loanDepot, accusing the California-based mortgage lender of engaging in a long-running compensation scheme that violates the Truth in Lending Act.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/wcl-countersuit-loandepot-tila/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Seniors want to age in place, but family caregivers face strains on multiple fronts",
         "url": "https://www.housingwire.com/articles/aging-in-place-family-caregivers-pew-reserach/",
