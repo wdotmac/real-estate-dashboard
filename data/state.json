@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-10 15:11 UTC",
+  "as_of": "2026-03-10 16:13 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Existing-home sales up in February, market faces spring challenges",
+      "link": "https://www.housingwire.com/articles/existing-home-sales-up-in-february-market-faces-spring-challenges/",
+      "published": "Tue, 10 Mar 2026"
+    },
+    {
+      "title": "Mortgage credit availability rises 1.1% to 107.1 in February",
+      "link": "https://www.housingwire.com/articles/mortgage-credit-availability-february/",
+      "published": "Tue, 10 Mar 2026"
+    },
+    {
+      "title": "Hunt-backed View Homes names Natasha Gandhi CEO to drive growth",
+      "link": "https://www.housingwire.com/articles/natasha-gandhi-view-homes-ceo-hunt-companies/",
+      "published": "Tue, 10 Mar 2026"
+    },
+    {
+      "title": "New Jersey Realtors calls for graduated percent fee relief",
+      "link": "https://www.housingwire.com/articles/new-jersey-realtors-calls-for-graduated-percent-fee-relief/",
+      "published": "Tue, 10 Mar 2026"
+    },
+    {
+      "title": "Banks adopt AI fast but lack strategy and governance",
+      "link": "https://www.housingwire.com/articles/banks-ai-strategy/",
+      "published": "Tue, 10 Mar 2026"
+    },
+    {
       "title": "Alexander brothers found guilty of sex trafficking",
       "link": "https://www.housingwire.com/articles/alexander-brothers-found-guilty-of-sex-trafficking/",
-      "published": "Tue, 10 Mar 2026"
-    },
-    {
-      "title": "Pennymac TPO launches non-QM product suite",
-      "link": "https://www.housingwire.com/articles/pennymac-non-qm-tpo-products/",
-      "published": "Tue, 10 Mar 2026"
-    },
-    {
-      "title": "Better teams with Credit Karma to launch AI-powered refi platform",
-      "link": "https://www.housingwire.com/articles/better-powers-credit-karma/",
-      "published": "Tue, 10 Mar 2026"
-    },
-    {
-      "title": "Snapdocs hires Jamie Mottern as VP of lender growth",
-      "link": "https://www.housingwire.com/articles/snapdocs-jamie-mottern-lender-growth/",
-      "published": "Tue, 10 Mar 2026"
-    },
-    {
-      "title": "Plaid integrates Home Lending Report into Encompass",
-      "link": "https://www.housingwire.com/articles/plaid-home-lending-encompass-integration/",
-      "published": "Tue, 10 Mar 2026"
-    },
-    {
-      "title": "Optimal Blue: February mortgage rate locks up 9% from January",
-      "link": "https://www.housingwire.com/articles/optimal-blue-rate-locks-february-2026/",
       "published": "Tue, 10 Mar 2026"
     },
     {
@@ -212,24 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Optimal Blue: February mortgage rate locks up 9% from January",
-        "url": "https://www.housingwire.com/articles/optimal-blue-rate-locks-february-2026/",
-        "what": "Mortgage rate locks rose in February as lower borrowing costs helped bring more homebuyers back into the market, according to Optimal Blue's February 2026 Market Advantage report.",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/optimal-blue-rate-locks-february-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Private credit didn’t fix middle-market CRE. It delayed a reckoning",
-        "url": "https://www.housingwire.com/articles/private-credit-didnt-fix-middle-market-cre-it-delayed-a-reckoning/",
-        "what": "Over the past several years, private credit has been portrayed as a lifeline for commercial real estate",
-        "numbers": "24, 10, 14",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/private-credit-didnt-fix-middle-market-cre-it-delayed-a-reckoning/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Mortgage Rates Poised For Volatility As Iran Conflict Escalates and Inflation Data Looms",
         "url": "https://www.redfin.com/news/weekly-economic-update-march-9-2026/",
         "what": "This Week In A Nutshell: Rates may continue to be volatile as the Middle East conflict expands and new inflation data is released",
@@ -268,6 +250,33 @@
     ],
     "housing": [
       {
+        "title": "Existing-home sales up in February, market faces spring challenges",
+        "url": "https://www.housingwire.com/articles/existing-home-sales-up-in-february-market-faces-spring-challenges/",
+        "what": "Total inventory rose to 1.29 million units, a 2.4% increase from January and a 4.9% gain compared with February 2025.",
+        "numbers": "1.29 million, 2.4, 4.9, 2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/existing-home-sales-up-in-february-market-faces-spring-challenges/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Mortgage credit availability rises 1.1% to 107.1 in February",
+        "url": "https://www.housingwire.com/articles/mortgage-credit-availability-february/",
+        "what": "Mortgage credit availability rose 1.1% to 107.1 in February, MBA said",
+        "numbers": "1.1, 107.1, 2.7, 0.8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-credit-availability-february/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "New Jersey Realtors calls for graduated percent fee relief",
+        "url": "https://www.housingwire.com/articles/new-jersey-realtors-calls-for-graduated-percent-fee-relief/",
+        "what": "The group argues the policy has added costs to real estate transactions at a time when housing affordability remains a major concern.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-jersey-realtors-calls-for-graduated-percent-fee-relief/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Long-Distance Moves Tick Up: Nearly 1 in 5 House Hunters Are Looking to Relocate",
         "url": "https://www.redfin.com/news/migration-q4-2025/",
         "what": "Florida dominates the list of most common migration destinations",
@@ -275,33 +284,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/migration-q4-2025/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Sorry, don’t buy Senate brief: “The facts: The 21st Century ROAD to Housing Act” won’t work unless amended",
-        "url": "https://www.housingwire.com/articles/sorry-dont-buy-senate-brief-the-facts-the-21st-century-road-to-housing-act-wont-work-unless-amended/",
-        "what": "The Senate ironically proves their bill won't work in their own U.S",
-        "numbers": "5, 21, 42, 20",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sorry-dont-buy-senate-brief-the-facts-the-21st-century-road-to-housing-act-wont-work-unless-amended/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "West Capital Lending sues loanDepot, alleges unlawful pay scheme",
-        "url": "https://www.housingwire.com/articles/wcl-countersuit-loandepot-tila/",
-        "what": "West Capital Lending has sued loanDepot, accusing the California-based mortgage lender of engaging in a long-running compensation scheme that violates the Truth in Lending Act.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/wcl-countersuit-loandepot-tila/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Seniors want to age in place, but family caregivers face strains on multiple fronts",
-        "url": "https://www.housingwire.com/articles/aging-in-place-family-caregivers-pew-reserach/",
-        "what": "A Pew Research Center survey of 8,750 U.S",
-        "numbers": "8,750, 10, 65",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/aging-in-place-family-caregivers-pew-reserach/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "For Real Estate Investors, the West Coast Is Hot and Florida Is Not",
@@ -314,6 +296,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "Hunt-backed View Homes names Natasha Gandhi CEO to drive growth",
+        "url": "https://www.housingwire.com/articles/natasha-gandhi-view-homes-ceo-hunt-companies/",
+        "what": "View Homes appoints Natasha Gandhi as CEO following its acquisition by Hunt Companies, signaling a new phase of growth pairing regional homebuilding operations with patient capital",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/natasha-gandhi-view-homes-ceo-hunt-companies/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Banks adopt AI fast but lack strategy and governance",
+        "url": "https://www.housingwire.com/articles/banks-ai-strategy/",
+        "what": "Survey of 148 institutions shows 61% piloting or using AI, yet only 12.2% have a resourced strategy and 9.5% cite strong data readiness.",
+        "numbers": "148, 61, 12.2, 9.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/banks-ai-strategy/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Alexander brothers found guilty of sex trafficking",
         "url": "https://www.housingwire.com/articles/alexander-brothers-found-guilty-of-sex-trafficking/",
