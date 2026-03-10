@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-10 11:47 UTC",
+  "as_of": "2026-03-10 13:38 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Better teams with Credit Karma to launch AI-powered refi platform",
+      "link": "https://www.housingwire.com/articles/better-powers-credit-karma/",
+      "published": "Tue, 10 Mar 2026"
+    },
+    {
+      "title": "Snapdocs hires Jamie Mottern as VP of lender growth",
+      "link": "https://www.housingwire.com/articles/snapdocs-jamie-mottern-lender-growth/",
+      "published": "Tue, 10 Mar 2026"
+    },
+    {
+      "title": "Plaid integrates Home Lending Report into Encompass",
+      "link": "https://www.housingwire.com/articles/plaid-home-lending-encompass-integration/",
+      "published": "Tue, 10 Mar 2026"
+    },
+    {
       "title": "Optimal Blue: February mortgage rate locks up 9% from January",
       "link": "https://www.housingwire.com/articles/optimal-blue-rate-locks-february-2026/",
       "published": "Tue, 10 Mar 2026"
@@ -155,19 +170,9 @@
       "published": "Tue, 10 Mar 2026"
     },
     {
-      "title": "West Capital Lending sues loanDepot, alleges unlawful pay scheme",
-      "link": "https://www.housingwire.com/articles/wcl-countersuit-loandepot-tila/",
-      "published": "Mon, 09 Mar 2026"
-    },
-    {
-      "title": "Seniors want to age in place, but family caregivers face strains on multiple fronts",
-      "link": "https://www.housingwire.com/articles/aging-in-place-family-caregivers-pew-reserach/",
-      "published": "Mon, 09 Mar 2026"
-    },
-    {
-      "title": "NAR reaffirms MLS autonomy amid Compass-Redfin partnership",
-      "link": "https://www.housingwire.com/articles/nar-reaffirms-mls-autonomy-amid-compass-redfin-partnership/",
-      "published": "Mon, 09 Mar 2026"
+      "title": "Long-Distance Moves Tick Up: Nearly 1 in 5 House Hunters Are Looking to Relocate",
+      "link": "https://www.redfin.com/news/migration-q4-2025/",
+      "published": "Tue, 10 Mar 2026"
     },
     {
       "title": "Redfin Economists’ Weekly Take: Mortgage Rates Poised For Volatility As Iran Conflict Escalates and Inflation Data Looms",
@@ -193,15 +198,19 @@
       "title": "For Real Estate Investors, the West Coast Is Hot and Florida Is Not",
       "link": "https://www.redfin.com/news/investor-report-q4-2025/",
       "published": "Wed, 04 Mar 2026"
-    },
-    {
-      "title": "The Typical U.S. Homeowner Hangs Onto Their House For 12 Years. In Los Angeles, It’s 20 Years.",
-      "link": "https://www.redfin.com/news/homeowner-tenure-12-years/",
-      "published": "Tue, 03 Mar 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Plaid integrates Home Lending Report into Encompass",
+        "url": "https://www.housingwire.com/articles/plaid-home-lending-encompass-integration/",
+        "what": "Plaid integrated its Home Lending Report into Encompass, bringing account linking and up to two years of data into lender workflows.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/plaid-home-lending-encompass-integration/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Optimal Blue: February mortgage rate locks up 9% from January",
         "url": "https://www.housingwire.com/articles/optimal-blue-rate-locks-february-2026/",
@@ -268,6 +277,15 @@
     ],
     "housing": [
       {
+        "title": "Long-Distance Moves Tick Up: Nearly 1 in 5 House Hunters Are Looking to Relocate",
+        "url": "https://www.redfin.com/news/migration-q4-2025/",
+        "what": "Florida dominates the list of most common migration destinations",
+        "numbers": "1, 5",
+        "justified": "redfin.com — https://www.redfin.com/news/migration-q4-2025/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Sorry, don’t buy Senate brief: “The facts: The 21st Century ROAD to Housing Act” won’t work unless amended",
         "url": "https://www.housingwire.com/articles/sorry-dont-buy-senate-brief-the-facts-the-21st-century-road-to-housing-act-wont-work-unless-amended/",
         "what": "The Senate ironically proves their bill won't work in their own U.S",
@@ -311,42 +329,24 @@
         "justified": "redfin.com — https://www.redfin.com/news/investor-report-q4-2025/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The Typical U.S. Homeowner Hangs Onto Their House For 12 Years. In Los Angeles, It’s 20 Years.",
-        "url": "https://www.redfin.com/news/homeowner-tenure-12-years/",
-        "what": "Homeowner tenure peaked at 13.4 years in 2020, roughly doubling the average tenure from 2005",
-        "numbers": "13.4, 2020,, 2005., 2025., 12, 20",
-        "justified": "redfin.com — https://www.redfin.com/news/homeowner-tenure-12-years/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
       {
-        "title": "RezeLink AI platform aims to accelerate title search workflows",
-        "url": "https://www.housingwire.com/articles/rezelink-ai-platform-aims-to-accelerate-title-search-workflows/",
-        "what": "The platform will debut first for users of SoftPro",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rezelink-ai-platform-aims-to-accelerate-title-search-workflows/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Real Brokerage adds top San Diego agent Jason Cassity as chief growth officer",
-        "url": "https://www.housingwire.com/articles/real-brokerage-names-jason-cassity-chief-growth-officer/",
-        "what": "The Real Brokerage created a chief growth officer role and named San Diego agent and team leader Jason Cassity to lead agent growth and engagement.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-brokerage-names-jason-cassity-chief-growth-officer/",
+        "title": "Better teams with Credit Karma to launch AI-powered refi platform",
+        "url": "https://www.housingwire.com/articles/better-powers-credit-karma/",
+        "what": "The platform allows eligible Credit Karma members to get preapproved in as few as five clicks and refinance in as little as 10 days.",
+        "numbers": "10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-powers-credit-karma/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "As brokerage giants merge, Real Estate One bets on the power of local platforms",
-        "url": "https://www.housingwire.com/articles/real-estate-one-local-platform/",
-        "what": "Real Estate One CEO Dan Elsea says consolidation is driven by margin pressure, while the firm targets 20% market share with multiple brands.",
-        "numbers": "20",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-one-local-platform/",
+        "title": "Snapdocs hires Jamie Mottern as VP of lender growth",
+        "url": "https://www.housingwire.com/articles/snapdocs-jamie-mottern-lender-growth/",
+        "what": "Snapdocs names Jamie Mottern as VP of lender growth, tasking her with driving digital closing adoption after six years at Docutech.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/snapdocs-jamie-mottern-lender-growth/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
