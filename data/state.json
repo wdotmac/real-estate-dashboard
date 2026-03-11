@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-11 11:47 UTC",
+  "as_of": "2026-03-11 15:04 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,39 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Finance of America’s 2025 profit soars 175% behind $2.4B in originations",
+      "link": "https://www.housingwire.com/articles/finance-america-net-income-2025/",
+      "published": "Wed, 11 Mar 2026"
+    },
+    {
+      "title": "Fix-and-flips fill a critical entry-level home vacuum, data reveals",
+      "link": "https://www.housingwire.com/articles/renovated-starter-homes/",
+      "published": "Wed, 11 Mar 2026"
+    },
+    {
+      "title": "Rayse launches conversational AI assistant RAE to help agents log work by voice or text",
+      "link": "https://www.housingwire.com/articles/rayse-launches-conversational-ai-assistant-rae/",
+      "published": "Wed, 11 Mar 2026"
+    },
+    {
+      "title": "Agent Impact Network scales investor and global referral infrastructure to 385,000 agents",
+      "link": "https://www.housingwire.com/articles/agent-impact-network-real-estate-referral-community-385000-members/",
+      "published": "Wed, 11 Mar 2026"
+    },
+    {
+      "title": "Mortgage applications increase 3.2% amid market volatility",
+      "link": "https://www.housingwire.com/articles/mba-applications-rise/",
+      "published": "Wed, 11 Mar 2026"
+    },
+    {
       "title": "Verification is the new credit score",
       "link": "https://www.housingwire.com/articles/verification-is-the-new-credit-score/",
       "published": "Wed, 11 Mar 2026"
     },
     {
-      "title": "Radian winds down mortgage conduit after exploring a sale",
-      "link": "https://www.housingwire.com/articles/radian-shuts-conduit-business/",
+      "title": "Inflation Cooled in February, but Markets Are Looking Past It as Iran War Clouds Outlook",
+      "link": "https://www.redfin.com/news/inflation-february-2026/",
       "published": "Wed, 11 Mar 2026"
-    },
-    {
-      "title": "loanDepot reports $108M loss in 2025 even as volume, margins improve",
-      "link": "https://www.housingwire.com/articles/loandepot-2025-net-loss/",
-      "published": "Tue, 10 Mar 2026"
-    },
-    {
-      "title": "Retirement savers hold steady in 2025 as automatic enrollment drives positive trends",
-      "link": "https://www.housingwire.com/articles/retirement-savings-automatic-enrollment-vanguard/",
-      "published": "Tue, 10 Mar 2026"
-    },
-    {
-      "title": "Builders gut check what buyers may like vs. what they’ll pay for",
-      "link": "https://www.housingwire.com/articles/builders-home-design-trends/",
-      "published": "Tue, 10 Mar 2026"
-    },
-    {
-      "title": "UWM raises revenue guidance ahead of Two Harbors vote",
-      "link": "https://www.housingwire.com/articles/uwm-raises-2026-guidance/",
-      "published": "Tue, 10 Mar 2026"
     },
     {
       "title": "Long-Distance Moves Tick Up: Nearly 1 in 5 House Hunters Are Looking to Relocate",
@@ -193,30 +198,25 @@
       "title": "House Hunters Stayed on Sidelines As Rates Dipped Below 6%, Iran War Adds to Market Uncertainty",
       "link": "https://www.redfin.com/news/housing-market-update-homebuyers-mortgage-rates-unease/",
       "published": "Thu, 05 Mar 2026"
-    },
-    {
-      "title": "For Real Estate Investors, the West Coast Is Hot and Florida Is Not",
-      "link": "https://www.redfin.com/news/investor-report-q4-2025/",
-      "published": "Wed, 04 Mar 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Inflation Cooled in February, but Markets Are Looking Past It as Iran War Clouds Outlook",
+        "url": "https://www.redfin.com/news/inflation-february-2026/",
+        "what": "Takeaway: The February CPI report showed inflation cooling, as expected",
+        "numbers": "0.3",
+        "justified": "redfin.com — https://www.redfin.com/news/inflation-february-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Verification is the new credit score",
         "url": "https://www.housingwire.com/articles/verification-is-the-new-credit-score/",
         "what": "Why underwriting’s next evolution isn’t single-pull — it’s measurable confidence",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/verification-is-the-new-credit-score/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage rates steady near 6.15% as oil and jobs data pose risks",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-oil-jobs/",
-        "what": "30-year mortgage rates hovered near 6.15% as employer payrolls fell by 92,000 in February and markets expected no Fed rate cut next week.",
-        "numbers": "30, 6.15, 92,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-oil-jobs/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -259,6 +259,24 @@
     ],
     "housing": [
       {
+        "title": "Finance of America’s 2025 profit soars 175% behind $2.4B in originations",
+        "url": "https://www.housingwire.com/articles/finance-america-net-income-2025/",
+        "what": "Finance of America Companies reported $110 million in net income from continuing operations in 2025, a 175% increase from the prior year, as the reverse mortgage and home equity le",
+        "numbers": "$110 million, 2025,, 175",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/finance-america-net-income-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Mortgage applications increase 3.2% amid market volatility",
+        "url": "https://www.housingwire.com/articles/mba-applications-rise/",
+        "what": "Mortgage applications increased 3.2% in MBA data, purchase index rose 7.8% while the 30-year fixed rate moved up to 6.19%.",
+        "numbers": "3.2, 7.8, 30, 6.19",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-applications-rise/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Radian winds down mortgage conduit after exploring a sale",
         "url": "https://www.housingwire.com/articles/radian-shuts-conduit-business/",
         "what": "Radian is shutting down its mortgage conduit business after a divestiture process failed to produce an acceptable outcome, while continuing to explore strategic options for its tit",
@@ -277,24 +295,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "UWM raises revenue guidance ahead of Two Harbors vote",
-        "url": "https://www.housingwire.com/articles/uwm-raises-2026-guidance/",
-        "what": "The parent of United Wholesale Mortgage raised the bar on 2026 revenue expectations just days ahead of a shareholder vote from Two Harbors Investment Corp",
-        "numbers": "2026, $1.3 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-raises-2026-guidance/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Crexi adds residential rental data as rent algorithms face limits",
-        "url": "https://www.housingwire.com/articles/residential-rent-comps-crexi/",
-        "what": "Strong, accurate residential rent data is becoming a prized asset as lawsuits, regulators and new state laws upend how landlords set rents.​ Los Angeles-based commercial real estate platform Crexi is moving to capitalize on that demand",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/residential-rent-comps-crexi/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Long-Distance Moves Tick Up: Nearly 1 in 5 House Hunters Are Looking to Relocate",
         "url": "https://www.redfin.com/news/migration-q4-2025/",
         "what": "Florida dominates the list of most common migration destinations",
@@ -302,18 +302,36 @@
         "justified": "redfin.com — https://www.redfin.com/news/migration-q4-2025/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "For Real Estate Investors, the West Coast Is Hot and Florida Is Not",
-        "url": "https://www.redfin.com/news/investor-report-q4-2025/",
-        "what": "Investor activity is sluggish on a national level, with purchases rising just 2%—but it varies widely from metro to metro",
-        "numbers": "2, 37, 16",
-        "justified": "redfin.com — https://www.redfin.com/news/investor-report-q4-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
+      {
+        "title": "Fix-and-flips fill a critical entry-level home vacuum, data reveals",
+        "url": "https://www.housingwire.com/articles/renovated-starter-homes/",
+        "what": "New Western finds investors supplied 120,193 homes at $261,000 or less in 2025 vs 37,931 new builds under that level.",
+        "numbers": "120,193, $261,000, 2025, 37,931",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/renovated-starter-homes/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Rayse launches conversational AI assistant RAE to help agents log work by voice or text",
+        "url": "https://www.housingwire.com/articles/rayse-launches-conversational-ai-assistant-rae/",
+        "what": "Rayse launches RAE, a conversational AI that lets real estate agents log work and update client journeys by voice or text, distributed via MLS partners.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rayse-launches-conversational-ai-assistant-rae/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Agent Impact Network scales investor and global referral infrastructure to 385,000 agents",
+        "url": "https://www.housingwire.com/articles/agent-impact-network-real-estate-referral-community-385000-members/",
+        "what": "Debbie Mauro’s Agent Impact Network referral community has surpassed 385,000 real estate professionals, adding 2,000 members a month.",
+        "numbers": "385,000, 2,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/agent-impact-network-real-estate-referral-community-385000-members/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "loanDepot reports $108M loss in 2025 even as volume, margins improve",
         "url": "https://www.housingwire.com/articles/loandepot-2025-net-loss/",
@@ -329,24 +347,6 @@
         "what": "The average participant account balance increased 13% year over year in 2025, reaching an all-time high of $167,970.",
         "numbers": "13, 2025,, $167,970.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/retirement-savings-automatic-enrollment-vanguard/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "eXp’s Wendy Forsythe launches 6-step framework book to help agents scale without burnout",
-        "url": "https://www.housingwire.com/articles/wendy-forsythe-leverage-your-x-factor-book-exp-extend-a-hand/",
-        "what": "eXp CMO Wendy Forsythe launches “Leverage Your X-Factor,” donating all proceeds to eXp Extend a Hand to support agents and staff in crisis.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/wendy-forsythe-leverage-your-x-factor-book-exp-extend-a-hand/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Howard Hanna NYC taps business development head",
-        "url": "https://www.housingwire.com/articles/howard-hanna-nyc-taps-business-development-head/",
-        "what": "Hal Gavzie will be tasked with helping agents access marketing, technology and referral resources from the wider Howard Hanna platform.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/howard-hanna-nyc-taps-business-development-head/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
