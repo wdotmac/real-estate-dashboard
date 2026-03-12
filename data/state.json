@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-12 15:08 UTC",
+  "as_of": "2026-03-12 16:14 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": 3.000000000000025
     },
     "mortgage_30y": {
-      "rate_pct": 6.0,
-      "delta_bp_wow": 1.9999999999999574
+      "rate_pct": 6.11,
+      "delta_bp_wow": 11.000000000000032
     },
     "starts": {
       "level_saar": 1487.0,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Trade groups raise alarms over 21st Century ROAD to Housing Act before Senate floor vote",
+      "link": "https://www.housingwire.com/articles/road-housing-act-changes/",
+      "published": "Thu, 12 Mar 2026"
+    },
+    {
+      "title": "Batton plaintiffs lose bid to intervene in Anywhere settlement",
+      "link": "https://www.housingwire.com/articles/batton-intervene-tuccori-denied/",
+      "published": "Thu, 12 Mar 2026"
+    },
+    {
       "title": "Your clients are about to inherit real estate. Are you ready for that conversation?",
       "link": "https://www.housingwire.com/articles/your-clients-are-about-to-inherit-real-estate-are-you-ready-for-that-conversation/",
       "published": "Thu, 12 Mar 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Congress nears a housing deal and the investor fight is inside it",
       "link": "https://www.housingwire.com/articles/road-act-investor-limits/",
-      "published": "Wed, 11 Mar 2026"
-    },
-    {
-      "title": "What real estate agents need to know about the spring housing market",
-      "link": "https://www.housingwire.com/articles/spring-housing-market-shaken-by-perfect-storm-of-uncertianties/",
-      "published": "Wed, 11 Mar 2026"
-    },
-    {
-      "title": "Housing market is poised for growth in 2026 if Iran conflict doesn’t raise rates",
-      "link": "https://www.housingwire.com/articles/housing-market-is-poised-for-growth-in-2026-if-iran-conflict-doesnt-raise-yields/",
       "published": "Wed, 11 Mar 2026"
     },
     {
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Trade groups raise alarms over 21st Century ROAD to Housing Act before Senate floor vote",
+        "url": "https://www.housingwire.com/articles/road-housing-act-changes/",
+        "what": "Housing and real estate trade groups are urging lawmakers to revise several provisions in the 21st Century ROAD to Housing Act, which is scheduled for a vote on the Senate floor.",
+        "numbers": "21",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/road-housing-act-changes/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "CrossCountry Mortgage launches dedicated builder division amid new-home surge",
         "url": "https://www.housingwire.com/articles/crosscountry-mortgage-launches-builder-division-new-home-lending/",
         "what": "CrossCountry Mortgage launched a dedicated builder division, adding construction, commercial and forward commitment products to deepen builder partnerships.",
@@ -295,24 +304,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Blend rides mortgage rebound in Q4, dismisses ‘SaaSpocalypse’ fears",
-        "url": "https://www.housingwire.com/articles/blend-q4-operating-income/",
-        "what": "Blend Labs Inc",
-        "numbers": "2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/blend-q4-operating-income/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Minimum home lot sizes eyed in Colorado push to break barriers",
-        "url": "https://www.housingwire.com/articles/colorado-housing-lot-size-bill/",
-        "what": "Colorado lawmakers are taking a new swing at Colorado’s housing affordability crisis by using state power to reshape local zoning rules",
-        "numbers": "2,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/colorado-housing-lot-size-bill/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Iran Conflict Stalls Big Purchases Like Homes and Cars For 1 in 4 Americans; Most Are Undeterred",
         "url": "https://www.redfin.com/news/iran-conflict-homebuying-plans/",
         "what": "The majority of Americans say the military conflict with Iran isn’t impacting their plans to buy a home or car, per a new Redfin survey",
@@ -332,6 +323,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Batton plaintiffs lose bid to intervene in Anywhere settlement",
+        "url": "https://www.housingwire.com/articles/batton-intervene-tuccori-denied/",
+        "what": "Judge Jenkins denied Batton intervention and preliminarily approved Anywhere’s Tuccori deal, while Judge Hunt denied reassignment motion.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/batton-intervene-tuccori-denied/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Your clients are about to inherit real estate. Are you ready for that conversation?",
         "url": "https://www.housingwire.com/articles/your-clients-are-about-to-inherit-real-estate-are-you-ready-for-that-conversation/",
