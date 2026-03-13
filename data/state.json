@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-13 16:58 UTC",
+  "as_of": "2026-03-13 17:51 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Fri, 13 Mar 2026"
     },
     {
+      "title": "Mortgage Rates Jump to Six-Month High as Inflation Fears, Iran War Rattle Markets",
+      "link": "https://www.redfin.com/news/mortgage-rates-jump-march-13/",
+      "published": "Fri, 13 Mar 2026"
+    },
+    {
       "title": "1 in 5 Homeowners With a Mortgage Could Save Money By Refinancing–But Few Are Taking the Plunge",
       "link": "https://www.redfin.com/news/refi-take-up-rate-2026/",
       "published": "Thu, 12 Mar 2026"
@@ -193,15 +198,19 @@
       "title": "Long-Distance Moves Tick Up: Nearly 1 in 5 House Hunters Are Looking to Relocate",
       "link": "https://www.redfin.com/news/migration-q4-2025/",
       "published": "Tue, 10 Mar 2026"
-    },
-    {
-      "title": "Redfin Economists’ Weekly Take: Mortgage Rates Poised For Volatility As Iran Conflict Escalates and Inflation Data Looms",
-      "link": "https://www.redfin.com/news/weekly-economic-update-march-9-2026/",
-      "published": "Mon, 09 Mar 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage Rates Jump to Six-Month High as Inflation Fears, Iran War Rattle Markets",
+        "url": "https://www.redfin.com/news/mortgage-rates-jump-march-13/",
+        "what": "Today’s rate increase is due almost entirely to inflation jitters",
+        "numbers": "6.41, 13., 6.29",
+        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-jump-march-13/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Is it time to bring banks back to the mortgage business?",
         "url": "https://www.housingwire.com/articles/is-it-time-to-bring-banks-back-to-the-mortgage-business/",
@@ -235,15 +244,6 @@
         "what": "Takeaway: The February CPI report showed inflation cooling, as expected",
         "numbers": "0.3",
         "justified": "redfin.com — https://www.redfin.com/news/inflation-february-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Redfin Economists’ Weekly Take: Mortgage Rates Poised For Volatility As Iran Conflict Escalates and Inflation Data Looms",
-        "url": "https://www.redfin.com/news/weekly-economic-update-march-9-2026/",
-        "what": "This Week In A Nutshell: Rates may continue to be volatile as the Middle East conflict expands and new inflation data is released",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-march-9-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
