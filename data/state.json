@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-13 20:52 UTC",
+  "as_of": "2026-03-13 21:48 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Trump executive orders target housing supply and mortgage credit",
+      "link": "https://www.housingwire.com/articles/trump-orders-housing-mortgage-credit/",
+      "published": "Fri, 13 Mar 2026"
+    },
+    {
+      "title": "Trump executive order targets regulatory barriers to homebuilding",
+      "link": "https://www.housingwire.com/articles/trump-executive-order-homebuilding-regulatory-barriers/",
+      "published": "Fri, 13 Mar 2026"
+    },
+    {
+      "title": "Realtor.com data challenges effectiveness of Senate ban on big home investors",
+      "link": "https://www.housingwire.com/articles/realtor-data-senate-investors/",
+      "published": "Fri, 13 Mar 2026"
+    },
+    {
+      "title": "Federal judge blocks DOJ subpoenas targeting Federal Reserve Chair Powell",
+      "link": "https://www.housingwire.com/articles/judge-blocks-doj-fed-subpoenas/",
+      "published": "Fri, 13 Mar 2026"
+    },
+    {
       "title": "Contrarian Smith Douglas leans into its system, goes for market share",
       "link": "https://www.housingwire.com/articles/smith-douglas-homes-pace-over-price-strategy-volume-growth/",
       "published": "Fri, 13 Mar 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Is Opendoor playing the builder rate buydown game?",
       "link": "https://www.housingwire.com/articles/opendoor-mortgage-rates-debate/",
-      "published": "Fri, 13 Mar 2026"
-    },
-    {
-      "title": "The private listings war is escalating. Here’s the compromise that could save our industry",
-      "link": "https://www.housingwire.com/articles/the-private-listings-war-is-escalating/",
-      "published": "Fri, 13 Mar 2026"
-    },
-    {
-      "title": "NFM Lending adds high-producing South Carolina LO Phil Crescenzo Jr.",
-      "link": "https://www.housingwire.com/articles/nfm-lending-adds-high-producing-south-carolina-lo-phil-crescenzo-jr/",
-      "published": "Fri, 13 Mar 2026"
-    },
-    {
-      "title": "Compass names Shay Artzi CTO to unify agent technology platform",
-      "link": "https://www.housingwire.com/articles/cih-shay-artzi-cto-platform/",
-      "published": "Fri, 13 Mar 2026"
-    },
-    {
-      "title": "Dead reckoning: nobody does the real math on affordable housing",
-      "link": "https://www.housingwire.com/articles/affordable-subsidy-per-unit/",
       "published": "Fri, 13 Mar 2026"
     },
     {
@@ -203,6 +203,24 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Trump executive order targets regulatory barriers to homebuilding",
+        "url": "https://www.housingwire.com/articles/trump-executive-order-homebuilding-regulatory-barriers/",
+        "what": "The White House announced on Friday afternoon its effort to challenge what it calls “unnecessary regulatory barriers” to homebuilding by issuing a broad executive order to reduce environmental, permitting and programmatic restrictions that federal officials say are contributing to the nation’s housing affordability crisis",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-executive-order-homebuilding-regulatory-barriers/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Federal judge blocks DOJ subpoenas targeting Federal Reserve Chair Powell",
+        "url": "https://www.housingwire.com/articles/judge-blocks-doj-fed-subpoenas/",
+        "what": "A federal judge on Friday blocked subpoenas that the U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/judge-blocks-doj-fed-subpoenas/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Dead reckoning: nobody does the real math on affordable housing",
         "url": "https://www.housingwire.com/articles/affordable-subsidy-per-unit/",
         "what": "I have been preparing testimony to support a housing supply bill before the Colorado state legislature",
@@ -217,15 +235,6 @@
         "what": "Today’s rate increase is due almost entirely to inflation jitters",
         "numbers": "6.41, 13,, 6, 2022",
         "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-jump-march-13/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Is it time to bring banks back to the mortgage business?",
-        "url": "https://www.housingwire.com/articles/is-it-time-to-bring-banks-back-to-the-mortgage-business/",
-        "what": "The Fed's Michelle Bowman believes that banks and consumers have both suffered as the banks’ share of market has declined.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/is-it-time-to-bring-banks-back-to-the-mortgage-business/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -249,6 +258,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Trump executive orders target housing supply and mortgage credit",
+        "url": "https://www.housingwire.com/articles/trump-orders-housing-mortgage-credit/",
+        "what": "The executive orders arrive a few weeks after Trump's State of the Union address to Congress in which the president offered limited details about his housing affordability proposal",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-orders-housing-mortgage-credit/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Realtor.com data challenges effectiveness of Senate ban on big home investors",
+        "url": "https://www.housingwire.com/articles/realtor-data-senate-investors/",
+        "what": "Realtor.com finds institutional investors were 1% of purchases in 2015 to 2025, suggesting limited affordability impact.",
+        "numbers": "1, 2015, 2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/realtor-data-senate-investors/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Contrarian Smith Douglas leans into its system, goes for market share",
         "url": "https://www.housingwire.com/articles/smith-douglas-homes-pace-over-price-strategy-volume-growth/",
@@ -304,15 +331,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "NYC Council approves massive Brooklyn affordable housing tower",
-        "url": "https://www.housingwire.com/articles/nyc-council-approves-brooklyn-affordable-housing-tower/",
-        "what": "The New York City Council approved a 72-story tower in Brooklyn this week, a major step toward adding desperately needed affordable housing.​ New York developers Rabina and Park Tower Group plan to swap a reviled, outdated low-rise office building near the Manhattan Bridge for more than 1,200 apartments",
-        "numbers": "72, 1,200",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-council-approves-brooklyn-affordable-housing-tower/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Iran Conflict Stalls Big Purchases Like Homes and Cars For 1 in 4 Americans; Most Are Undeterred",
         "url": "https://www.redfin.com/news/iran-conflict-homebuying-plans/",
         "what": "The majority of Americans say the military conflict with Iran isn’t impacting their plans to buy a home or car, per a new Redfin survey",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/cih-shay-artzi-cto-platform/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Home equity decreases nationally to end 2025",
-        "url": "https://www.housingwire.com/articles/home-equity-decreases-nationally-to-end-2025/",
-        "what": "Some of the largest markets experienced declines",
-        "numbers": "$29,400, $24,700.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/home-equity-decreases-nationally-to-end-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Fidelis Investors closes $144M RTL deal, signaling ongoing demand for rehab loans",
-        "url": "https://www.housingwire.com/articles/fidelis-investors-third-rated-rtl-securitization-2026/",
-        "what": "Fidelis Investors has closed its third rated residential transition loan (RTL) securitization, a $143.925 million deal backed by 330 loans originated by 29 lenders.",
-        "numbers": "$143.925 million, 330, 29",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fidelis-investors-third-rated-rtl-securitization-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
