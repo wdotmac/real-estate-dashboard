@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-14 19:41 UTC",
+  "as_of": "2026-03-14 20:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Housing demand still positive, but for how long with rising rates?",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-6-41-volatility/",
+      "published": "Sat, 14 Mar 2026"
+    },
+    {
       "title": "Local investors outpace builders in delivering starter homes",
       "link": "https://www.housingwire.com/articles/local-investors-builders-starter-homes-new-western/",
       "published": "Fri, 13 Mar 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Federal judge blocks DOJ subpoenas targeting Federal Reserve Chair Powell",
       "link": "https://www.housingwire.com/articles/judge-blocks-doj-fed-subpoenas/",
-      "published": "Fri, 13 Mar 2026"
-    },
-    {
-      "title": "Contrarian Smith Douglas leans into its system, goes for market share",
-      "link": "https://www.housingwire.com/articles/smith-douglas-homes-pace-over-price-strategy-volume-growth/",
       "published": "Fri, 13 Mar 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Housing demand still positive, but for how long with rising rates?",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-6-41-volatility/",
+        "what": "Rates rose above 6.25% and ended the week at 6.41% as spreads worsened while the 10-year yield neared its yearly high.",
+        "numbers": "6.25, 6.41, 10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-6-41-volatility/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Trump executive order targets regulatory barriers to homebuilding",
         "url": "https://www.housingwire.com/articles/trump-executive-order-homebuilding-regulatory-barriers/",
@@ -340,16 +349,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
-    "notables": [
-      {
-        "title": "Compass names Shay Artzi CTO to unify agent technology platform",
-        "url": "https://www.housingwire.com/articles/cih-shay-artzi-cto-platform/",
-        "what": "CIH names Shay Artzi CTO to unify 340,000 agents on 1 platform after the $1.6 billion Anywhere acquisition closed in January 2026.",
-        "numbers": "340,000, 1, $1.6 billion, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cih-shay-artzi-cto-platform/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      }
-    ]
+    "notables": []
   }
 }
