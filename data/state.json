@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-16 21:54 UTC",
+  "as_of": "2026-03-16 22:51 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Mon, 16 Mar 2026"
     },
     {
+      "title": "Redfin Economists’ Weekly Take: Rates Will Jump Around As Markets Weigh Iran War and Fed Outlook",
+      "link": "https://www.redfin.com/news/weekly-economic-update-march-16-2026/",
+      "published": "Mon, 16 Mar 2026"
+    },
+    {
       "title": "The Oldest Americans Held More Real Estate Wealth Than Ever Before In 2025",
       "link": "https://www.redfin.com/news/real-estate-wealth-by-age/",
       "published": "Mon, 16 Mar 2026"
@@ -193,15 +198,19 @@
       "title": "1 in 5 Homeowners With a Mortgage Could Save Money By Refinancing–But Few Are Taking the Plunge",
       "link": "https://www.redfin.com/news/refi-take-up-rate-2026/",
       "published": "Thu, 12 Mar 2026"
-    },
-    {
-      "title": "More Sellers Test the Market, Hoping For a Spring Surge in Homebuyers",
-      "link": "https://www.redfin.com/news/housing-market-update-more-sellers-test-market/",
-      "published": "Thu, 12 Mar 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Redfin Economists’ Weekly Take: Rates Will Jump Around As Markets Weigh Iran War and Fed Outlook",
+        "url": "https://www.redfin.com/news/weekly-economic-update-march-16-2026/",
+        "what": "This Week In A Nutshell: We’re expecting rates to continue bouncing around this week, as the Middle East conflict continues into its third week with no clear off-ramp and markets anticipate the upcoming Fed meeting",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-march-16-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "eXp defendants move to toss Roberts sexual assault lawsuit ahead of April hearing",
         "url": "https://www.housingwire.com/articles/roberts-summary-judgment-hearing/",
@@ -253,15 +262,6 @@
         "what": "The share of homeowners who are “in the money” for a refinance has hit its highest level in over four years as mortgage rates dip to around 6%",
         "numbers": "6, 1, 10, 19.8, 5",
         "justified": "redfin.com — https://www.redfin.com/news/refi-take-up-rate-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "More Sellers Test the Market, Hoping For a Spring Surge in Homebuyers",
-        "url": "https://www.redfin.com/news/housing-market-update-more-sellers-test-market/",
-        "what": "After several months of declines, new listings are posting a small improvement",
-        "numbers": "6, 7, 0.5, 8,",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-more-sellers-test-market/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
