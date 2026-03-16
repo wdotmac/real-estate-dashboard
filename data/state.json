@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-16 07:48 UTC",
+  "as_of": "2026-03-16 09:13 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Why most brokerages scale for revenue but fail to profit",
+      "link": "https://www.housingwire.com/articles/why-most-brokerages-scale-for-revenue-but-fail-to-profit/",
+      "published": "Mon, 16 Mar 2026"
+    },
+    {
+      "title": "Win the war before you pour the foundation: The strategic power of public financing",
+      "link": "https://www.housingwire.com/articles/public-financing-homebuilders-district-strategy/",
+      "published": "Mon, 16 Mar 2026"
+    },
+    {
       "title": "From loan pools to consumer wallets: The ripple effects of credit score lender choice",
       "link": "https://www.housingwire.com/articles/from-loan-pools-to-consumer-wallets-the-ripple-effects-of-credit-score-lender-choice/",
       "published": "Mon, 16 Mar 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Trump executive orders target housing supply and mortgage credit",
       "link": "https://www.housingwire.com/articles/trump-orders-housing-mortgage-credit/",
-      "published": "Fri, 13 Mar 2026"
-    },
-    {
-      "title": "Trump executive order targets regulatory barriers to homebuilding",
-      "link": "https://www.housingwire.com/articles/trump-executive-order-homebuilding-regulatory-barriers/",
-      "published": "Fri, 13 Mar 2026"
-    },
-    {
-      "title": "Realtor.com data challenges effectiveness of Senate ban on big home investors",
-      "link": "https://www.housingwire.com/articles/realtor-data-senate-investors/",
       "published": "Fri, 13 Mar 2026"
     },
     {
@@ -304,24 +304,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Is Opendoor playing the builder rate buydown game?",
-        "url": "https://www.housingwire.com/articles/opendoor-mortgage-rates-debate/",
-        "what": "iBuyer Opendoor’s recently launched mortgage product has sparked debate across the mortgage industry about who absorbs the cost and whether the model is sustainable.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-mortgage-rates-debate/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The private listings war is escalating. Here’s the compromise that could save our industry",
-        "url": "https://www.housingwire.com/articles/the-private-listings-war-is-escalating/",
-        "what": "Howard Hanna launches HannaList as brokerages expand private networks, this column proposes three steps for portals and MLSs to limit harm.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-private-listings-war-is-escalating/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "Letting Home Sellers Test the Waters Before Listing Could Boost Housing Supply as Much as 12%",
         "url": "https://www.redfin.com/news/private-exclusive-inventory-increase/",
         "what": "Redfin estimates inventory could increase 6%-12% in markets where sellers have the flexibility to test out pricing strategies before listing",
@@ -349,6 +331,25 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
-    "notables": []
+    "notables": [
+      {
+        "title": "Why most brokerages scale for revenue but fail to profit",
+        "url": "https://www.housingwire.com/articles/why-most-brokerages-scale-for-revenue-but-fail-to-profit/",
+        "what": "Many brokerages scale revenue but sacrifice profit",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-most-brokerages-scale-for-revenue-but-fail-to-profit/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Win the war before you pour the foundation: The strategic power of public financing",
+        "url": "https://www.housingwire.com/articles/public-financing-homebuilders-district-strategy/",
+        "what": "Win before you build",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/public-financing-homebuilders-district-strategy/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      }
+    ]
   }
 }
