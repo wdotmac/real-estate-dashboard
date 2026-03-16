@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-16 13:54 UTC",
+  "as_of": "2026-03-16 15:18 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Hawai’i Life names Palo Luckett as principal broker",
+      "link": "https://www.housingwire.com/articles/hawaii-life-principal-broker/",
+      "published": "Mon, 16 Mar 2026"
+    },
+    {
+      "title": "Why real estate agents are choosing culture, no incentives, when choosing a brokerage",
+      "link": "https://www.housingwire.com/articles/agent-recruiting-leadership-systems/",
+      "published": "Mon, 16 Mar 2026"
+    },
+    {
+      "title": "Freedom Mortgage parent strikes deal for Seneca to grow MSR platform",
+      "link": "https://www.housingwire.com/articles/freedom-acquires-seneca-msr/",
+      "published": "Mon, 16 Mar 2026"
+    },
+    {
       "title": "How real estate agents are helping young homebuyers overcome fears, finances",
       "link": "https://www.housingwire.com/articles/how-real-estate-agents-are-helping-young-homebuyers-overcome-fears-finances/",
       "published": "Mon, 16 Mar 2026"
@@ -153,21 +168,6 @@
       "title": "Why most brokerages scale for revenue but fail to profit",
       "link": "https://www.housingwire.com/articles/why-most-brokerages-scale-for-revenue-but-fail-to-profit/",
       "published": "Mon, 16 Mar 2026"
-    },
-    {
-      "title": "Win the war before you pour the foundation: The strategic power of public financing",
-      "link": "https://www.housingwire.com/articles/public-financing-homebuilders-district-strategy/",
-      "published": "Mon, 16 Mar 2026"
-    },
-    {
-      "title": "From loan pools to consumer wallets: The ripple effects of credit score lender choice",
-      "link": "https://www.housingwire.com/articles/from-loan-pools-to-consumer-wallets-the-ripple-effects-of-credit-score-lender-choice/",
-      "published": "Mon, 16 Mar 2026"
-    },
-    {
-      "title": "Housing demand still positive, but for how long with rising rates?",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-6-41-volatility/",
-      "published": "Sat, 14 Mar 2026"
     },
     {
       "title": "The Oldest Americans Held More Real Estate Wealth Than Ever Before In 2025",
@@ -230,15 +230,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Trump executive order targets regulatory barriers to homebuilding",
-        "url": "https://www.housingwire.com/articles/trump-executive-order-homebuilding-regulatory-barriers/",
-        "what": "The White House announced on Friday afternoon its effort to challenge what it calls “unnecessary regulatory barriers” to homebuilding by issuing a broad executive order to reduce environmental, permitting and programmatic restrictions that federal officials say are contributing to the nation’s housing affordability crisis",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-executive-order-homebuilding-regulatory-barriers/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Mortgage Rates Jump to Six-Month High as Inflation Fears, Iran War Rattle Markets",
         "url": "https://www.redfin.com/news/mortgage-rates-jump-march-13/",
         "what": "Today’s rate increase is due almost entirely to inflation jitters",
@@ -268,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "Freedom Mortgage parent strikes deal for Seneca to grow MSR platform",
+        "url": "https://www.housingwire.com/articles/freedom-acquires-seneca-msr/",
+        "what": "Freedom Superior LLC, the indirect parent of Freedom Mortgage Corp., has agreed to acquire Seneca Mortgage Servicing LLC from EJF Capital LP.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/freedom-acquires-seneca-msr/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "How real estate agents are helping young homebuyers overcome fears, finances",
         "url": "https://www.housingwire.com/articles/how-real-estate-agents-are-helping-young-homebuyers-overcome-fears-finances/",
         "what": "Agents are trying to reach younger consumers navigating affordability concerns and skepticism about the housing market.",
@@ -295,24 +295,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Trump executive orders target housing supply and mortgage credit",
-        "url": "https://www.housingwire.com/articles/trump-orders-housing-mortgage-credit/",
-        "what": "The executive orders arrive a few weeks after Trump's State of the Union address to Congress in which the president offered limited details about his housing affordability proposal",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-orders-housing-mortgage-credit/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Realtor.com data challenges effectiveness of Senate ban on big home investors",
-        "url": "https://www.housingwire.com/articles/realtor-data-senate-investors/",
-        "what": "Realtor.com finds institutional investors were 1% of purchases in 2015 to 2025, suggesting limited affordability impact.",
-        "numbers": "1, 2015, 2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realtor-data-senate-investors/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Letting Home Sellers Test the Waters Before Listing Could Boost Housing Supply as Much as 12%",
         "url": "https://www.redfin.com/news/private-exclusive-inventory-increase/",
         "what": "Redfin estimates inventory could increase 6%-12% in markets where sellers have the flexibility to test out pricing strategies before listing",
@@ -332,6 +314,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "Hawai’i Life names Palo Luckett as principal broker",
+        "url": "https://www.housingwire.com/articles/hawaii-life-principal-broker/",
+        "what": "Hawai’i Life appoints Palo Luckett principal broker and Alex Abreu as weekend broker, plus Adam Snyder to lead agent success and innovation.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hawaii-life-principal-broker/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Why real estate agents are choosing culture, no incentives, when choosing a brokerage",
+        "url": "https://www.housingwire.com/articles/agent-recruiting-leadership-systems/",
+        "what": "Agents are evaluating total value at brokerages, including systems, mentorship, leadership support, and long-term investment, not only splits.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/agent-recruiting-leadership-systems/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Why most brokerages scale for revenue but fail to profit",
         "url": "https://www.housingwire.com/articles/why-most-brokerages-scale-for-revenue-but-fail-to-profit/",
