@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-17 17:17 UTC",
+  "as_of": "2026-03-17 19:20 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Finance of America expands HomeSafe Second reverse mortgage to three more states",
+      "link": "https://www.housingwire.com/articles/finance-of-america-homesafe-second-reverse-mortgage/",
+      "published": "Tue, 17 Mar 2026"
+    },
+    {
+      "title": "Washington law limits private listing networks for homes",
+      "link": "https://www.housingwire.com/articles/washington-private-listing-networks-law/",
+      "published": "Tue, 17 Mar 2026"
+    },
+    {
+      "title": "Banks eye bigger role in mortgages as regulators reconsider capital rules",
+      "link": "https://www.housingwire.com/articles/banks-mortgage-capital-rules/",
+      "published": "Tue, 17 Mar 2026"
+    },
+    {
       "title": "MBA’s Broeksmit on Trump orders, AI and mortgage affordability at ICE X26",
       "link": "https://www.housingwire.com/articles/broeksmit-x26-rates-ai/",
       "published": "Tue, 17 Mar 2026"
@@ -152,21 +167,6 @@
     {
       "title": "States sue HUD over guidance they say weakens fair housing protections",
       "link": "https://www.housingwire.com/articles/attorneys-general-sue-hud-fhap/",
-      "published": "Tue, 17 Mar 2026"
-    },
-    {
-      "title": "The Real Brokerage adds RealTrends Verified ranked Atlanta group",
-      "link": "https://www.housingwire.com/articles/the-real-brokerage-adds-realtrends-verified-ranked-atlanta-group/",
-      "published": "Tue, 17 Mar 2026"
-    },
-    {
-      "title": "Mortgage rates rise as U.S.-Iran conflict carries on",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-us-iran/",
-      "published": "Tue, 17 Mar 2026"
-    },
-    {
-      "title": "In Texas residential real estate, capital is mere ‘table stakes’",
-      "link": "https://www.housingwire.com/articles/texas-real-estate-knowledge/",
       "published": "Tue, 17 Mar 2026"
     },
     {
@@ -203,22 +203,22 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Mortgage rates rise as U.S.-Iran conflict carries on",
+        "title": "Finance of America expands HomeSafe Second reverse mortgage to three more states",
+        "url": "https://www.housingwire.com/articles/finance-of-america-homesafe-second-reverse-mortgage/",
+        "what": "Finance of America has expanded access to its HomeSafe Second product into Indiana, Ohio and Michigan, giving senior homeowners more options for tapping record levels of home equit",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/finance-of-america-homesafe-second-reverse-mortgage/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Mortgage rates rise as US-Iran conflict carries on",
         "url": "https://www.housingwire.com/articles/mortgage-rates-us-iran/",
         "what": "Mortgage rates saw moderate increases in the past week as global economic uncertainty around the U.S.-Iran conflict continues, putting a damper on what was previously expected to b",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-us-iran/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NAR: Pending home sales lag 2025 despite February uptick",
-        "url": "https://www.housingwire.com/articles/pending-sales-lag-2025/",
-        "what": "NAR’s pending home sales index rose 1.8% in February, but was still 0.8% below February 2025 levels as economic uncertainty rises.",
-        "numbers": "1.8, 0.8, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pending-sales-lag-2025/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Redfin Economists’ Weekly Take: Rates Will Jump Around As Markets Weigh Iran War and Fed Outlook",
@@ -259,6 +259,24 @@
     ],
     "housing": [
       {
+        "title": "Washington law limits private listing networks for homes",
+        "url": "https://www.housingwire.com/articles/washington-private-listing-networks-law/",
+        "what": "A new Washington law effective in early June bans marketing listings to select buyer groups unless also marketed to the general public.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/washington-private-listing-networks-law/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Banks eye bigger role in mortgages as regulators reconsider capital rules",
+        "url": "https://www.housingwire.com/articles/banks-mortgage-capital-rules/",
+        "what": "Top banks in the mortgage space have relied on a similar playbook for years, but they say they could become more aggressive if upcoming changes to capital rules provide more flexib",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/banks-mortgage-capital-rules/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "MBA’s Broeksmit on Trump orders, AI and mortgage affordability at ICE X26",
         "url": "https://www.housingwire.com/articles/broeksmit-x26-rates-ai/",
         "what": "At ICE Experience 2026, MBA CEO Bob Broeksmit addresses housing supply, mortgage credit access, AI and why rate relief can take time.",
@@ -273,15 +291,6 @@
         "what": "A coalition of 16 attorneys general has filed a lawsuit against the U.S",
         "numbers": "16",
         "justified": "housingwire.com — https://www.housingwire.com/articles/attorneys-general-sue-hud-fhap/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Florida’s Live Local 4.0 flexes state muscle on housing progress",
-        "url": "https://www.housingwire.com/articles/florida-live-local-4/",
-        "what": "Florida lawmakers have approved a new Live Local 4.0 package that further extends state pre-emption of local zoning and tax rules to promote affordable and workforce housing development",
-        "numbers": "4.0, 2023, 2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/florida-live-local-4/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
@@ -338,15 +347,6 @@
         "what": "Agents can build durable businesses by focusing on consistent client systems, reputation through follow through and resilience across cycles.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/top-agents-consistency-reputation/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "RESO and CMLS end talks to form new combined group",
-        "url": "https://www.housingwire.com/articles/reso-cmls-combined-organization/",
-        "what": "RESO and CMLS said they will not form a combined organization after nearly one year of talks, citing governance hurdles.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reso-cmls-combined-organization/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
