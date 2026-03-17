@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-17 11:55 UTC",
+  "as_of": "2026-03-17 13:51 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Reducing risk: Why logging, protection, and review matter",
-      "link": "https://www.housingwire.com/articles/reducing-risk-why-logging-protection-and-review-matter/",
+      "title": "Tidalwave AI tops general models in mortgage underwriting accuracy benchmark",
+      "link": "https://www.housingwire.com/articles/mortgage-compliance-benchmark/",
       "published": "Tue, 17 Mar 2026"
     },
     {
-      "title": "Homebuilder confidence nudges up but remains below par",
-      "link": "https://www.housingwire.com/articles/homebuilder-confidence-january-2/",
-      "published": "Mon, 16 Mar 2026"
+      "title": "Closinglock launches automated closing updates",
+      "link": "https://www.housingwire.com/articles/closinglock-launches-automated-closing-updates/",
+      "published": "Tue, 17 Mar 2026"
     },
     {
-      "title": "Wyoming refund exposes legal risk for local housing fee ordinances",
-      "link": "https://www.housingwire.com/articles/teton-county-impact-fee-refund/",
-      "published": "Mon, 16 Mar 2026"
+      "title": "Keller Williams, REMAX, HomeServices, Side, United counter Compass–Redfin–Rocket push with Zillow’s new listing preview platform",
+      "link": "https://www.housingwire.com/articles/zillow-preview-public-premarketing/",
+      "published": "Tue, 17 Mar 2026"
     },
     {
-      "title": "eXp defendants move to toss Roberts sexual assault lawsuit ahead of April hearing",
-      "link": "https://www.housingwire.com/articles/roberts-summary-judgment-hearing/",
-      "published": "Mon, 16 Mar 2026"
+      "title": "JAUST unveils automated underwriting platform for jumbo mortgages",
+      "link": "https://www.housingwire.com/articles/jaust-automated-underwriting-jumbo-mortgage/",
+      "published": "Tue, 17 Mar 2026"
     },
     {
-      "title": "Housing muni market swells amid affordability policy debate",
-      "link": "https://www.housingwire.com/articles/housing-muni-bond-growth/",
-      "published": "Mon, 16 Mar 2026"
+      "title": "Rhino’s DealShield targets climate risk home insurability in California",
+      "link": "https://www.housingwire.com/articles/rhino-dealshield-insurability-quotes/",
+      "published": "Tue, 17 Mar 2026"
     },
     {
-      "title": "Judge rejects bid to cut CFPB funding",
-      "link": "https://www.housingwire.com/articles/judge-rejects-bid-to-cut-cfpb-funding/",
-      "published": "Mon, 16 Mar 2026"
+      "title": "Reducing risk: Why logging, protection, and review matter",
+      "link": "https://www.housingwire.com/articles/reducing-risk-why-logging-protection-and-review-matter/",
+      "published": "Tue, 17 Mar 2026"
     },
     {
       "title": "Redfin Economists’ Weekly Take: Rates Will Jump Around As Markets Weigh Iran War and Fed Outlook",
@@ -268,6 +268,33 @@
     ],
     "housing": [
       {
+        "title": "Tidalwave AI tops general models in mortgage underwriting accuracy benchmark",
+        "url": "https://www.housingwire.com/articles/mortgage-compliance-benchmark/",
+        "what": "The benchmarking evaluated Tidalwave’s SOLO agent against Claude 4.5 from Anthropic on 90 questions commonly asked by loan officers during the mortgage origination process.",
+        "numbers": "4.5, 90",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-compliance-benchmark/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Keller Williams, REMAX, HomeServices, Side, United counter Compass–Redfin–Rocket push with Zillow’s new listing preview platform",
+        "url": "https://www.housingwire.com/articles/zillow-preview-public-premarketing/",
+        "what": "Zillow debuts Preview for public pre-marketing and offering priority placement, launching with KW, REMAX, HomeServices, United and Side.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-preview-public-premarketing/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "JAUST unveils automated underwriting platform for jumbo mortgages",
+        "url": "https://www.housingwire.com/articles/jaust-automated-underwriting-jumbo-mortgage/",
+        "what": "JAUST launched a cloud-based automated underwriting system built for jumbo mortgages, targeting faster decisions and lower costs.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/jaust-automated-underwriting-jumbo-mortgage/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Homebuilder confidence nudges up but remains below par",
         "url": "https://www.housingwire.com/articles/homebuilder-confidence-january-2/",
         "what": "Builder confidence stayed at 38 in March, with 37% cutting prices and oil near $100 per barrel adding pressure to demand and costs.",
@@ -284,15 +311,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/teton-county-impact-fee-refund/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Two Harbors postpones vote on UWM merger after quorum miss",
-        "url": "https://www.housingwire.com/articles/two-harbors-uwm-vote-delayed/",
-        "what": "A special Two Harbors Investment Corp",
-        "numbers": "24.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/two-harbors-uwm-vote-delayed/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Letting Home Sellers Test the Waters Before Listing Could Boost Housing Supply as Much as 12%",
@@ -315,40 +333,22 @@
     ],
     "notables": [
       {
-        "title": "Judge rejects bid to cut CFPB funding",
-        "url": "https://www.housingwire.com/articles/judge-rejects-bid-to-cut-cfpb-funding/",
-        "what": "The ruling blocks acting CFPB Director Russell Vought from using a new legal interpretation to cut off the agency's funding stream.",
+        "title": "Closinglock launches automated closing updates",
+        "url": "https://www.housingwire.com/articles/closinglock-launches-automated-closing-updates/",
+        "what": "Updates allow title companies, settlement firms and real estate law offices to send automatic status updates to transaction stakeholders.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/judge-rejects-bid-to-cut-cfpb-funding/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/closinglock-launches-automated-closing-updates/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "AI won’t replace real estate agents, but it will widen the gap between average and elite",
-        "url": "https://www.housingwire.com/articles/ai-data-ownership-agents/",
-        "what": "AI adoption is accelerating client expectations, and agents face new risks around data ownership, platform lock in, and time loss from disconnected tools.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-data-ownership-agents/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CoStar names tech executive Nana Banerjee to board as independent director",
-        "url": "https://www.housingwire.com/articles/costar-nana-banerjee-board/",
-        "what": "CoStar appointed Nana Banerjee as an independent director, expanding the board to nine members with eight independent directors.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-nana-banerjee-board/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The hidden tax of being always available in real estate",
-        "url": "https://www.housingwire.com/articles/agent-burnout-constant-availability/",
-        "what": "Real estate agents can fuse worth with outcomes, driving overwork and underpricing, unless they build clear structures and boundaries.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/agent-burnout-constant-availability/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "Rhino’s DealShield targets climate risk home insurability in California",
+        "url": "https://www.housingwire.com/articles/rhino-dealshield-insurability-quotes/",
+        "what": "Rhino launched DealShield in California, offering listing-level insurability reports and quotes, with multistate plans by the end of 2026.",
+        "numbers": "2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rhino-dealshield-insurability-quotes/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
