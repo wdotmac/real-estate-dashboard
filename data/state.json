@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-03-17 19:20 UTC",
+  "as_of": "2026-03-17 20:57 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.28,
-      "delta_bp_1d": 1.0000000000000675
+      "yield_pct": 4.23,
+      "delta_bp_1d": -4.999999999999982
     },
     "mortgage_30y": {
       "rate_pct": 6.11,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Older Americans maintain record share of housing wealth",
+      "link": "https://www.housingwire.com/articles/older-americans-record-housing-wealth-redfin/",
+      "published": "Tue, 17 Mar 2026"
+    },
+    {
+      "title": "How FrameTec plans to cut build-cycle times and reduce waste",
+      "link": "https://www.housingwire.com/articles/frametec-innovation-construction/",
+      "published": "Tue, 17 Mar 2026"
+    },
+    {
       "title": "Finance of America expands HomeSafe Second reverse mortgage to three more states",
       "link": "https://www.housingwire.com/articles/finance-of-america-homesafe-second-reverse-mortgage/",
       "published": "Tue, 17 Mar 2026"
@@ -157,16 +167,6 @@
     {
       "title": "MBA’s Broeksmit on Trump orders, AI and mortgage affordability at ICE X26",
       "link": "https://www.housingwire.com/articles/broeksmit-x26-rates-ai/",
-      "published": "Tue, 17 Mar 2026"
-    },
-    {
-      "title": "Serving VA buyers: Practical guidance for real estate agents",
-      "link": "https://www.housingwire.com/articles/va-loans-agents-close-faster/",
-      "published": "Tue, 17 Mar 2026"
-    },
-    {
-      "title": "States sue HUD over guidance they say weakens fair housing protections",
-      "link": "https://www.housingwire.com/articles/attorneys-general-sue-hud-fhap/",
       "published": "Tue, 17 Mar 2026"
     },
     {
@@ -259,6 +259,24 @@
     ],
     "housing": [
       {
+        "title": "Older Americans maintain record share of housing wealth",
+        "url": "https://www.housingwire.com/articles/older-americans-record-housing-wealth-redfin/",
+        "what": "Redfin's analysis found that Americans ages 70 and older controlled 26% of real estate wealth in the third quarter of 2025.",
+        "numbers": "70, 26, 2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/older-americans-record-housing-wealth-redfin/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "How FrameTec plans to cut build-cycle times and reduce waste",
+        "url": "https://www.housingwire.com/articles/frametec-innovation-construction/",
+        "what": "FrameTec says pre-marked framing and wall panels can cut build steps by days, as builders face a 723,000 worker annual gap.",
+        "numbers": "723,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/frametec-innovation-construction/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Washington law limits private listing networks for homes",
         "url": "https://www.housingwire.com/articles/washington-private-listing-networks-law/",
         "what": "A new Washington law effective in early June bans marketing listings to select buyer groups unless also marketed to the general public.",
@@ -329,24 +347,6 @@
         "what": "Agents and teams closed $250 million in volume last year and posted similar numbers on the most recent RealTrends Verified rankings.",
         "numbers": "$250 million",
         "justified": "housingwire.com — https://www.housingwire.com/articles/the-real-brokerage-adds-realtrends-verified-ranked-atlanta-group/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "In Texas residential real estate, capital is mere ‘table stakes’",
-        "url": "https://www.housingwire.com/articles/texas-real-estate-knowledge/",
-        "what": "Texas has always been a magnet for ambition",
-        "numbers": "19",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/texas-real-estate-knowledge/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Top real estate agents are defined by consistency, not volume",
-        "url": "https://www.housingwire.com/articles/top-agents-consistency-reputation/",
-        "what": "Agents can build durable businesses by focusing on consistent client systems, reputation through follow through and resilience across cycles.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/top-agents-consistency-reputation/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
