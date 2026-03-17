@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-17 13:51 UTC",
+  "as_of": "2026-03-17 15:16 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Florida’s Live Local 4.0 flexes state muscle on housing progress",
+      "link": "https://www.housingwire.com/articles/florida-live-local-4/",
+      "published": "Tue, 17 Mar 2026"
+    },
+    {
+      "title": "RESO and CMLS end talks to form new combined group",
+      "link": "https://www.housingwire.com/articles/reso-cmls-combined-organization/",
+      "published": "Tue, 17 Mar 2026"
+    },
+    {
+      "title": "ICE launches AI voice and chat agents for mortgage servicing",
+      "link": "https://www.housingwire.com/articles/ice-ai-mortgage-servicing-agents/",
+      "published": "Tue, 17 Mar 2026"
+    },
+    {
       "title": "Tidalwave AI tops general models in mortgage underwriting accuracy benchmark",
       "link": "https://www.housingwire.com/articles/mortgage-compliance-benchmark/",
       "published": "Tue, 17 Mar 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Keller Williams, REMAX, HomeServices, Side, United counter Compass–Redfin–Rocket push with Zillow’s new listing preview platform",
       "link": "https://www.housingwire.com/articles/zillow-preview-public-premarketing/",
-      "published": "Tue, 17 Mar 2026"
-    },
-    {
-      "title": "JAUST unveils automated underwriting platform for jumbo mortgages",
-      "link": "https://www.housingwire.com/articles/jaust-automated-underwriting-jumbo-mortgage/",
-      "published": "Tue, 17 Mar 2026"
-    },
-    {
-      "title": "Rhino’s DealShield targets climate risk home insurability in California",
-      "link": "https://www.housingwire.com/articles/rhino-dealshield-insurability-quotes/",
-      "published": "Tue, 17 Mar 2026"
-    },
-    {
-      "title": "Reducing risk: Why logging, protection, and review matter",
-      "link": "https://www.housingwire.com/articles/reducing-risk-why-logging-protection-and-review-matter/",
       "published": "Tue, 17 Mar 2026"
     },
     {
@@ -221,24 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "eXp defendants move to toss Roberts sexual assault lawsuit ahead of April hearing",
-        "url": "https://www.housingwire.com/articles/roberts-summary-judgment-hearing/",
-        "what": "Los Angeles federal judge set an April 17 hearing on summary judgment motions by eXp World, its CEO and two former agents.",
-        "numbers": "17",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/roberts-summary-judgment-hearing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Housing muni market swells amid affordability policy debate",
-        "url": "https://www.housingwire.com/articles/housing-muni-bond-growth/",
-        "what": "Financing affordable housing development – typically for lower-income households – is one of the most challenging matters in real estate",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-muni-bond-growth/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "The Oldest Americans Held More Real Estate Wealth Than Ever Before In 2025",
         "url": "https://www.redfin.com/news/real-estate-wealth-by-age/",
         "what": "For the first time, the oldest Americans (70+) held a larger share of real estate wealth than middle-aged Americans (40-54)",
@@ -267,6 +249,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Florida’s Live Local 4.0 flexes state muscle on housing progress",
+        "url": "https://www.housingwire.com/articles/florida-live-local-4/",
+        "what": "Florida lawmakers have approved a new Live Local 4.0 package that further extends state pre-emption of local zoning and tax rules to promote affordable and workforce housing development",
+        "numbers": "4.0, 2023, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/florida-live-local-4/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "ICE launches AI voice and chat agents for mortgage servicing",
+        "url": "https://www.housingwire.com/articles/ice-ai-mortgage-servicing-agents/",
+        "what": "ICE unveiled beta AI voice and chat agents for MSP servicing and launched 16 exception-based automation agents at X26.",
+        "numbers": "16, 26.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-ai-mortgage-servicing-agents/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Tidalwave AI tops general models in mortgage underwriting accuracy benchmark",
         "url": "https://www.housingwire.com/articles/mortgage-compliance-benchmark/",
@@ -304,15 +304,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Wyoming refund exposes legal risk for local housing fee ordinances",
-        "url": "https://www.housingwire.com/articles/teton-county-impact-fee-refund/",
-        "what": "Small wins on impact fees occasionally occur in costly U.S",
-        "numbers": "$24,325",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/teton-county-impact-fee-refund/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Letting Home Sellers Test the Waters Before Listing Could Boost Housing Supply as Much as 12%",
         "url": "https://www.redfin.com/news/private-exclusive-inventory-increase/",
         "what": "Redfin estimates inventory could increase 6%-12% in markets where sellers have the flexibility to test out pricing strategies before listing",
@@ -332,6 +323,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "RESO and CMLS end talks to form new combined group",
+        "url": "https://www.housingwire.com/articles/reso-cmls-combined-organization/",
+        "what": "RESO and CMLS said they will not form a combined organization after nearly one year of talks, citing governance hurdles.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reso-cmls-combined-organization/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Closinglock launches automated closing updates",
         "url": "https://www.housingwire.com/articles/closinglock-launches-automated-closing-updates/",
