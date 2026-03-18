@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-18 17:17 UTC",
+  "as_of": "2026-03-18 19:17 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "ICE’s Matt Dowd on targeting mortgage servicing call volume with AI agents",
-      "link": "https://www.housingwire.com/articles/ice-ai-voice-chat-servicing/",
+      "title": "Compass dismisses antitrust lawsuit against Zillow over listing policy",
+      "link": "https://www.housingwire.com/articles/compass-dismisses-zillow-lawsuit/",
       "published": "Wed, 18 Mar 2026"
     },
     {
-      "title": "Qualia CEO Nate Baker: “AI is as significant as language and fire”",
-      "link": "https://www.housingwire.com/articles/qualia-ceo-nate-baker-ai-is-as-significant-as-language-and-fire/",
+      "title": "Trump’s mortgage order sets stage for regulatory shift, draws consumer backlash",
+      "link": "https://www.housingwire.com/articles/trump-mortgage-credit-order/",
       "published": "Wed, 18 Mar 2026"
     },
     {
-      "title": "Global luxury housing markets move toward equilibrium in 2026",
-      "link": "https://www.housingwire.com/articles/global-luxury-markets-psi-2026/",
+      "title": "CrossCountry Mortgage to strengthen footprint with Summit M&A deal",
+      "link": "https://www.housingwire.com/articles/crosscountry-mortgage-summit-funding/",
       "published": "Wed, 18 Mar 2026"
     },
     {
-      "title": "Mortgage demand plummets 11% as 30-year fixed rate rises to 6.3%",
-      "link": "https://www.housingwire.com/articles/mba-mortgage-applications-drop/",
+      "title": "Anywhere’s Sue Yannaccone named Compass International Holdings COO",
+      "link": "https://www.housingwire.com/articles/cih-sue-yannaccone-coo/",
       "published": "Wed, 18 Mar 2026"
     },
     {
-      "title": "MoxiWorks signs renewed strategic deal with Michael Saunders & Company for AI marketing platform",
-      "link": "https://www.housingwire.com/articles/michael-saunders-renews-moxiworks-ai-marketing-partnership/",
+      "title": "Fed keeps rates unchanged as inflation, geopolitical risks cloud outlook",
+      "link": "https://www.housingwire.com/articles/fed-holds-rates-oil-risks/",
       "published": "Wed, 18 Mar 2026"
     },
     {
-      "title": "The 3% rule: Why this pricing move is driving faster home sales",
-      "link": "https://www.housingwire.com/articles/3-percent-rule-price-cuts-mid-market-housing/",
+      "title": "Fannie Mae, Freddie Mac announce revisions to condo insurance standards",
+      "link": "https://www.housingwire.com/articles/gse-condo-insurance-updates/",
       "published": "Wed, 18 Mar 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Fed keeps rates unchanged as inflation, geopolitical risks cloud outlook",
+        "url": "https://www.housingwire.com/articles/fed-holds-rates-oil-risks/",
+        "what": "In a widely expected move, the Federal Reserve held its benchmark interest rate steady Wednesday at a target range of 3.5% to 3.75%, the same level it set in January.",
+        "numbers": "3.5, 3.75",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-holds-rates-oil-risks/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Global luxury housing markets move toward equilibrium in 2026",
         "url": "https://www.housingwire.com/articles/global-luxury-markets-psi-2026/",
@@ -241,6 +250,42 @@
     ],
     "housing": [
       {
+        "title": "Compass dismisses antitrust lawsuit against Zillow over listing policy",
+        "url": "https://www.housingwire.com/articles/compass-dismisses-zillow-lawsuit/",
+        "what": "Compass moved to dismiss its Zillow antitrust suit without prejudice after Zillow clarified its listing access standards policy.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-dismisses-zillow-lawsuit/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Trump’s mortgage order sets stage for regulatory shift, draws consumer backlash",
+        "url": "https://www.housingwire.com/articles/trump-mortgage-credit-order/",
+        "what": "President Donald Trump’s executive order targeting mortgages addresses several concerns raised by banks and nonbanks, which have largely welcomed it as a road map for regulatory change",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-mortgage-credit-order/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "CrossCountry Mortgage to strengthen footprint with Summit M&A deal",
+        "url": "https://www.housingwire.com/articles/crosscountry-mortgage-summit-funding/",
+        "what": "Cleveland-based CrossCountry Mortgage has struck a deal to acquire Summit Funding, broadening its geographic reach.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/crosscountry-mortgage-summit-funding/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Fannie Mae, Freddie Mac announce revisions to condo insurance standards",
+        "url": "https://www.housingwire.com/articles/gse-condo-insurance-updates/",
+        "what": "Fannie Mae and Freddie Mac announced updates to condominium project standards and property insurance requirements for one- to four-unit properties and project developments, with a",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gse-condo-insurance-updates/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "ICE’s Matt Dowd on targeting mortgage servicing call volume with AI agents",
         "url": "https://www.housingwire.com/articles/ice-ai-voice-chat-servicing/",
         "what": "ICE launched AI voice and chat agents to answer routine servicing questions 24/7, reduce call-center volume and route complex cases to staff.",
@@ -255,42 +300,6 @@
         "what": "Qualia CEO Nate Baker sat down with HousingWire to discuss updates to his company's agentic AI platform and timelines for industry evolution.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/qualia-ceo-nate-baker-ai-is-as-significant-as-language-and-fire/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Mortgage demand plummets 11% as 30-year fixed rate rises to 6.3%",
-        "url": "https://www.housingwire.com/articles/mba-mortgage-applications-drop/",
-        "what": "MBA dats shows mortgage applications fell 10.9% as the 30-year fixed rate hit 6.3%, while the purchase index rose 1% week over week.",
-        "numbers": "10.9, 30, 6.3, 1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-mortgage-applications-drop/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The 3% rule: Why this pricing move is driving faster home sales",
-        "url": "https://www.housingwire.com/articles/3-percent-rule-price-cuts-mid-market-housing/",
-        "what": "HousingWire data shows 3% price cuts are working best in mid-market housing, where $350K to $650K homes are posting the strongest absorption.",
-        "numbers": "3, $350K, $650K",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/3-percent-rule-price-cuts-mid-market-housing/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "eXp Realty adds coming soon syndication to Realtor.com, Homes.com, ComeHome.com",
-        "url": "https://www.housingwire.com/articles/exp-coming-soon-syndication/",
-        "what": "eXp Realty will syndicate coming soon listings via Zenlist to Realtor.com, Homes.com and ComeHome.com starting April 15.",
-        "numbers": "15.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-coming-soon-syndication/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "California transit agency land could support 240,000 homes",
-        "url": "https://www.housingwire.com/articles/california-transit-agency-land-could-support-240000-homes/",
-        "what": "California lawmakers have spent years passing bills aimed at increasing housing supply, with an emphasis on building more homes near transit",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/california-transit-agency-land-could-support-240000-homes/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
@@ -324,29 +333,20 @@
     ],
     "notables": [
       {
-        "title": "MoxiWorks signs renewed strategic deal with Michael Saunders & Company for AI marketing platform",
-        "url": "https://www.housingwire.com/articles/michael-saunders-renews-moxiworks-ai-marketing-partnership/",
-        "what": "Michael Saunders & Company has renewed its strategic partnership with MoxiWorks to power AI-driven marketing, CRM and productivity tools for 650+ agents.",
-        "numbers": "650",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/michael-saunders-renews-moxiworks-ai-marketing-partnership/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "title": "Anywhere’s Sue Yannaccone named Compass International Holdings COO",
+        "url": "https://www.housingwire.com/articles/cih-sue-yannaccone-coo/",
+        "what": "CIH promoted Sue Yannaccone to COO to lead enterprise operations and scaled technology across nine brands serving 340,000 professionals.",
+        "numbers": "340,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cih-sue-yannaccone-coo/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Offerpad targets 1,000 quarterly transactions with AI platforms SCOUT, HENRY",
-        "url": "https://www.housingwire.com/articles/offerpad-1000-transactions-ai/",
-        "what": "Offerpad says SCOUT and HENRY will support a 1,000 transaction quarterly run rate and positive adjusted EBITDA before year end 2026.",
-        "numbers": "1,000, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/offerpad-1000-transactions-ai/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The industry’s quiet first line of defense",
-        "url": "https://www.housingwire.com/articles/the-industrys-quiet-first-line-of-defense/",
-        "what": "Most professions get credit for what people can see them do",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-industrys-quiet-first-line-of-defense/",
+        "title": "IMBs remain profitable, but margins slip 44% in Q4 behind lower revenues",
+        "url": "https://www.housingwire.com/articles/imb-profit-q4-2025/",
+        "what": "MBA data shows IMB profits fell to $674 per loan in Q4 2025, down from $1,201 in Q3 as revenue slipped to 340 bps.",
+        "numbers": "$674, 4, 2025,, $1,201, 3, 340",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/imb-profit-q4-2025/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
