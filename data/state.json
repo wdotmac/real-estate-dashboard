@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-18 13:53 UTC",
+  "as_of": "2026-03-18 15:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage demand plummets 11% as 30-year fixed rate rises to 6.3%",
+      "link": "https://www.housingwire.com/articles/mba-mortgage-applications-drop/",
+      "published": "Wed, 18 Mar 2026"
+    },
+    {
+      "title": "MoxiWorks signs renewed strategic deal with Michael Saunders & Company for AI marketing platform",
+      "link": "https://www.housingwire.com/articles/michael-saunders-renews-moxiworks-ai-marketing-partnership/",
+      "published": "Wed, 18 Mar 2026"
+    },
+    {
+      "title": "The 3% rule: Why this pricing move is driving faster home sales",
+      "link": "https://www.housingwire.com/articles/3-percent-rule-price-cuts-mid-market-housing/",
+      "published": "Wed, 18 Mar 2026"
+    },
+    {
       "title": "eXp Realty adds coming soon syndication to Realtor.com, Homes.com, ComeHome.com",
       "link": "https://www.housingwire.com/articles/exp-coming-soon-syndication/",
       "published": "Wed, 18 Mar 2026"
@@ -153,21 +168,6 @@
       "title": "Offerpad targets 1,000 quarterly transactions with AI platforms SCOUT, HENRY",
       "link": "https://www.housingwire.com/articles/offerpad-1000-transactions-ai/",
       "published": "Wed, 18 Mar 2026"
-    },
-    {
-      "title": "The industry’s quiet first line of defense",
-      "link": "https://www.housingwire.com/articles/the-industrys-quiet-first-line-of-defense/",
-      "published": "Wed, 18 Mar 2026"
-    },
-    {
-      "title": "Older Americans maintain record share of housing wealth",
-      "link": "https://www.housingwire.com/articles/older-americans-record-housing-wealth-redfin/",
-      "published": "Tue, 17 Mar 2026"
-    },
-    {
-      "title": "How FrameTec plans to cut build-cycle times and reduce waste",
-      "link": "https://www.housingwire.com/articles/frametec-innovation-construction/",
-      "published": "Tue, 17 Mar 2026"
     },
     {
       "title": "The Top 20% of Earners Hold Nearly 60% of America’s Real Estate Wealth",
@@ -241,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "Mortgage demand plummets 11% as 30-year fixed rate rises to 6.3%",
+        "url": "https://www.housingwire.com/articles/mba-mortgage-applications-drop/",
+        "what": "MBA dats shows mortgage applications fell 10.9% as the 30-year fixed rate hit 6.3%, while the purchase index rose 1% week over week.",
+        "numbers": "10.9, 30, 6.3, 1",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-mortgage-applications-drop/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "The 3% rule: Why this pricing move is driving faster home sales",
+        "url": "https://www.housingwire.com/articles/3-percent-rule-price-cuts-mid-market-housing/",
+        "what": "HousingWire data shows 3% price cuts are working best in mid-market housing, where $350K to $650K homes are posting the strongest absorption.",
+        "numbers": "3, $350K, $650K",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/3-percent-rule-price-cuts-mid-market-housing/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "eXp Realty adds coming soon syndication to Realtor.com, Homes.com, ComeHome.com",
         "url": "https://www.housingwire.com/articles/exp-coming-soon-syndication/",
         "what": "eXp Realty will syndicate coming soon listings via Zenlist to Realtor.com, Homes.com and ComeHome.com starting April 15.",
@@ -286,33 +304,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Washington law limits private listing networks for homes",
-        "url": "https://www.housingwire.com/articles/washington-private-listing-networks-law/",
-        "what": "A new Washington law effective in early June bans marketing listings to select buyer groups unless also marketed to the general public.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/washington-private-listing-networks-law/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Banks eye bigger role in mortgages as regulators reconsider capital rules",
-        "url": "https://www.housingwire.com/articles/banks-mortgage-capital-rules/",
-        "what": "Top banks in the mortgage space have relied on a similar playbook for years, but they say they could become more aggressive if upcoming changes to capital rules provide more flexib",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/banks-mortgage-capital-rules/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "MBA’s Broeksmit on Trump orders, AI and mortgage affordability at ICE X26",
-        "url": "https://www.housingwire.com/articles/broeksmit-x26-rates-ai/",
-        "what": "At ICE Experience 2026, MBA CEO Bob Broeksmit addresses housing supply, mortgage credit access, AI and why rate relief can take time.",
-        "numbers": "2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/broeksmit-x26-rates-ai/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Letting Home Sellers Test the Waters Before Listing Could Boost Housing Supply as Much as 12%",
         "url": "https://www.redfin.com/news/private-exclusive-inventory-increase/",
         "what": "Redfin estimates inventory could increase 6%-12% in markets where sellers have the flexibility to test out pricing strategies before listing",
@@ -332,6 +323,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "MoxiWorks signs renewed strategic deal with Michael Saunders & Company for AI marketing platform",
+        "url": "https://www.housingwire.com/articles/michael-saunders-renews-moxiworks-ai-marketing-partnership/",
+        "what": "Michael Saunders & Company has renewed its strategic partnership with MoxiWorks to power AI-driven marketing, CRM and productivity tools for 650+ agents.",
+        "numbers": "650",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/michael-saunders-renews-moxiworks-ai-marketing-partnership/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Offerpad targets 1,000 quarterly transactions with AI platforms SCOUT, HENRY",
         "url": "https://www.housingwire.com/articles/offerpad-1000-transactions-ai/",
