@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-19 16:08 UTC",
+  "as_of": "2026-03-19 17:14 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Q4 2025 earnings for publicly traded mortgage, real estate and homebuilder companies",
+      "link": "https://www.housingwire.com/articles/q4-2025-earnings-mortgage-real-estate-homebuilding/",
+      "published": "Thu, 19 Mar 2026"
+    },
+    {
+      "title": "New-home purchase mortgage demand has edged slightly higher in 2026",
+      "link": "https://www.housingwire.com/articles/february-new-home-purchase-mortgage-applications-2026-mba/",
+      "published": "Thu, 19 Mar 2026"
+    },
+    {
+      "title": "The next real estate disruption won’t come from AI",
+      "link": "https://www.housingwire.com/articles/ai-real-estate-fees/",
+      "published": "Thu, 19 Mar 2026"
+    },
+    {
       "title": "Palantir-Moder partnership targets mortgage operations with agentic AI platform",
       "link": "https://www.housingwire.com/articles/palantir-moder-ai-mortgage-operations-platform-freedom-mortgage/",
       "published": "Thu, 19 Mar 2026"
@@ -153,21 +168,6 @@
       "title": "Montana Supreme Court upholds 2023 housing reform laws",
       "link": "https://www.housingwire.com/articles/montana-court-housing-reforms/",
       "published": "Thu, 19 Mar 2026"
-    },
-    {
-      "title": "Bidding war emerges for Two Harbors as rival offer pressures UWM",
-      "link": "https://www.housingwire.com/articles/uwm-two-harbors-bid/",
-      "published": "Thu, 19 Mar 2026"
-    },
-    {
-      "title": "Opinion: Dear President Trump, I have an idea to help first-time homebuyers",
-      "link": "https://www.housingwire.com/articles/president-donald-trump-i-have-an-idea-to-help-first-time-homebuyers/",
-      "published": "Thu, 19 Mar 2026"
-    },
-    {
-      "title": "Midwest Real Estate Data moves to abandon NAR membership requirement",
-      "link": "https://www.housingwire.com/articles/midwest-real-estate-data-moves-to-abandon-nar-membership-requirement/",
-      "published": "Wed, 18 Mar 2026"
     },
     {
       "title": "Homebuyers Can Afford to Take Their Time Heading Into Spring 2026",
@@ -250,6 +250,33 @@
     ],
     "housing": [
       {
+        "title": "Q4 2025 earnings for publicly traded mortgage, real estate and homebuilder companies",
+        "url": "https://www.housingwire.com/articles/q4-2025-earnings-mortgage-real-estate-homebuilding/",
+        "what": "As earnings results wrap up for Q4 2025, here's a rundown of what's happened for major lenders, brokerages, homebuilders, listing portals and title firms.",
+        "numbers": "4, 2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/q4-2025-earnings-mortgage-real-estate-homebuilding/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "New-home purchase mortgage demand has edged slightly higher in 2026",
+        "url": "https://www.housingwire.com/articles/february-new-home-purchase-mortgage-applications-2026-mba/",
+        "what": "Mortgage applications for new-home purchases increased 0.9% in February compared to a year earlier, even as volume slipped from January, according to the Mortgage Bankers Associati",
+        "numbers": "0.9",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/february-new-home-purchase-mortgage-applications-2026-mba/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "The next real estate disruption won’t come from AI",
+        "url": "https://www.housingwire.com/articles/ai-real-estate-fees/",
+        "what": "AI boosts agent efficiency, but pricing may not change until NAR settlement rules push transparent fee negotiation.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-real-estate-fees/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
         "title": "Palantir-Moder partnership targets mortgage operations with agentic AI platform",
         "url": "https://www.housingwire.com/articles/palantir-moder-ai-mortgage-operations-platform-freedom-mortgage/",
         "what": "Palantir Technologies and mortgage outsourcing firm Moder have formed a strategic partnership to co-build an artificial intelligence (AI)-powered mortgage operations platform, with",
@@ -295,40 +322,13 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Atlantic Avenue Mortgage leads HECM broker endorsement activity in January",
-        "url": "https://www.housingwire.com/articles/atlantic-avenue-hecm-endorsements-2026/",
-        "what": "Atlantic Avenue Mortgage posted 935 HECM endorsements over the past 12 months, including 113 in January 2026.",
-        "numbers": "935, 12, 113, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/atlantic-avenue-hecm-endorsements-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Spanberger’s Virginia housing agenda falls short on local pushback",
-        "url": "https://www.housingwire.com/articles/virginia-by-right-zoning-fails/",
-        "what": "New Virginia Gov",
+        "title": "Mitigation as market advantage: How builders are redefining insurability in a hard market",
+        "url": "https://www.housingwire.com/articles/mitigation-insurability-builders/",
+        "what": "Westwood’s Gabriel Salazar on how builders are using mitigation, embedded insurance and carrier alignment to secure insurability and stabilize premiums.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/virginia-by-right-zoning-fails/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Compass dismisses antitrust lawsuit against Zillow over listing policy",
-        "url": "https://www.housingwire.com/articles/compass-dismisses-zillow-lawsuit/",
-        "what": "Compass moved to dismiss its Zillow antitrust suit without prejudice after Zillow clarified its listing access standards policy.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-dismisses-zillow-lawsuit/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Trump’s mortgage order sets stage for regulatory shift, draws consumer backlash",
-        "url": "https://www.housingwire.com/articles/trump-mortgage-credit-order/",
-        "what": "President Donald Trump’s executive order targeting mortgages addresses several concerns raised by banks and nonbanks, which have largely welcomed it as a road map for regulatory change",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-mortgage-credit-order/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mitigation-insurability-builders/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "The Top 20% of Earners Hold Nearly 60% of America’s Real Estate Wealth",
