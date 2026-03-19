@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-19 13:42 UTC",
+  "as_of": "2026-03-19 15:06 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Clayton’s TRU Mini homes aim for infill sites and entry-level buyers",
+      "link": "https://www.housingwire.com/articles/clayton-tru-mini-home-collection-entry-level-buyers/",
+      "published": "Thu, 19 Mar 2026"
+    },
+    {
+      "title": "Montana Supreme Court upholds 2023 housing reform laws",
+      "link": "https://www.housingwire.com/articles/montana-court-housing-reforms/",
+      "published": "Thu, 19 Mar 2026"
+    },
+    {
+      "title": "Bidding war emerges for Two Harbors as rival offer pressures UWM",
+      "link": "https://www.housingwire.com/articles/uwm-two-harbors-bid/",
+      "published": "Thu, 19 Mar 2026"
+    },
+    {
       "title": "Opinion: Dear President Trump, I have an idea to help first-time homebuyers",
       "link": "https://www.housingwire.com/articles/president-donald-trump-i-have-an-idea-to-help-first-time-homebuyers/",
       "published": "Thu, 19 Mar 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Atlantic Avenue Mortgage leads HECM broker endorsement activity in January",
       "link": "https://www.housingwire.com/articles/atlantic-avenue-hecm-endorsements-2026/",
-      "published": "Wed, 18 Mar 2026"
-    },
-    {
-      "title": "Spanberger’s Virginia housing agenda falls short on local pushback",
-      "link": "https://www.housingwire.com/articles/virginia-by-right-zoning-fails/",
-      "published": "Wed, 18 Mar 2026"
-    },
-    {
-      "title": "Compass dismisses antitrust lawsuit against Zillow over listing policy",
-      "link": "https://www.housingwire.com/articles/compass-dismisses-zillow-lawsuit/",
-      "published": "Wed, 18 Mar 2026"
-    },
-    {
-      "title": "Trump’s mortgage order sets stage for regulatory shift, draws consumer backlash",
-      "link": "https://www.housingwire.com/articles/trump-mortgage-credit-order/",
       "published": "Wed, 18 Mar 2026"
     },
     {
@@ -239,15 +239,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Fed keeps rates unchanged as inflation, geopolitical risks cloud outlook",
-        "url": "https://www.housingwire.com/articles/fed-holds-rates-oil-risks/",
-        "what": "In a widely expected move, the Federal Reserve held its benchmark interest rate steady Wednesday at a target range of 3.5% to 3.75%, the same level it set in January.",
-        "numbers": "3.5, 3.75",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-holds-rates-oil-risks/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Rates Will Jump Around As Markets Weigh Iran War and Fed Outlook",
         "url": "https://www.redfin.com/news/weekly-economic-update-march-16-2026/",
         "what": "This Week In A Nutshell: We’re expecting rates to continue bouncing around this week, as the Middle East conflict continues into its third week with no clear off-ramp and markets anticipate the upcoming Fed meeting",
@@ -258,6 +249,33 @@
       }
     ],
     "housing": [
+      {
+        "title": "Clayton’s TRU Mini homes aim for infill sites and entry-level buyers",
+        "url": "https://www.housingwire.com/articles/clayton-tru-mini-home-collection-entry-level-buyers/",
+        "what": "Clayton Home Building Group introduced a new line of smaller, factory-built homes under its TRU brand aimed at price-sensitive buyers and infill lots, according to a company announcement",
+        "numbers": "900",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/clayton-tru-mini-home-collection-entry-level-buyers/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Montana Supreme Court upholds 2023 housing reform laws",
+        "url": "https://www.housingwire.com/articles/montana-court-housing-reforms/",
+        "what": "The Montana Supreme Court issued a unanimous ruling this week upholding the state’s 2023 housing reform package, preserving a suite of zoning changes intended to increase housing supply",
+        "numbers": "2023",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/montana-court-housing-reforms/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Bidding war emerges for Two Harbors as rival offer pressures UWM",
+        "url": "https://www.housingwire.com/articles/uwm-two-harbors-bid/",
+        "what": "United Holding Corp., the parent of United Wholesale Mortgage (UWM), is facing new competition in its bid to acquire Two Harbors Investment Corp., which may force the company to sw",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-two-harbors-bid/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Today’s Homebuyers Save $150 a Month By Choosing an Adjustable-Rate Mortgage–The Biggest Discount Since 2022",
         "url": "https://www.redfin.com/news/adjustable-rate-mortgage-savings/",
@@ -313,15 +331,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Fannie Mae, Freddie Mac announce revisions to condo insurance standards",
-        "url": "https://www.housingwire.com/articles/gse-condo-insurance-updates/",
-        "what": "Fannie Mae and Freddie Mac announced updates to condominium project standards and property insurance requirements for one- to four-unit properties and project developments, with a",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/gse-condo-insurance-updates/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "The Top 20% of Earners Hold Nearly 60% of America’s Real Estate Wealth",
         "url": "https://www.redfin.com/news/real-estate-wealth-by-income/",
         "what": "By comparison, the bottom 20% of U.S",
@@ -338,15 +347,6 @@
         "what": "Under the change approved Monday, partner groups would have the option to offer MLS access to licensed agents who are not Realtors.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/midwest-real-estate-data-moves-to-abandon-nar-membership-requirement/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Anywhere’s Sue Yannaccone named Compass International Holdings COO",
-        "url": "https://www.housingwire.com/articles/cih-sue-yannaccone-coo/",
-        "what": "CIH promoted Sue Yannaccone to COO to lead enterprise operations and scaled technology across nine brands serving 340,000 professionals.",
-        "numbers": "340,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cih-sue-yannaccone-coo/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
