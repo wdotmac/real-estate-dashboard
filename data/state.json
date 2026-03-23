@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-23 16:12 UTC",
+  "as_of": "2026-03-23 17:09 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Fidelity’s 2026 retirement study shows shift to gig work, delayed retirement amid inflation",
+      "link": "https://www.housingwire.com/articles/fidelity-2026-state-of-retirement-planning/",
+      "published": "Mon, 23 Mar 2026"
+    },
+    {
       "title": "Indiana Regional MLS deploys AI compliance platform with REcore",
       "link": "https://www.housingwire.com/articles/indiana-regional-mls-recore-navigator-ai-compliance-platform/",
       "published": "Mon, 23 Mar 2026"
@@ -162,11 +167,6 @@
     {
       "title": "The “Coming Soon” boom raises questions about value, transparency",
       "link": "https://www.housingwire.com/articles/coming-soon-syndication-deals/",
-      "published": "Mon, 23 Mar 2026"
-    },
-    {
-      "title": "Balance Homes updates co-ownership program with fee rebates, counseling",
-      "link": "https://www.housingwire.com/articles/balance-homes-co-ownership-updates/",
       "published": "Mon, 23 Mar 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Fidelity’s 2026 retirement study shows shift to gig work, delayed retirement amid inflation",
+        "url": "https://www.housingwire.com/articles/fidelity-2026-state-of-retirement-planning/",
+        "what": "Rising costs of living and debt are pushing many Americans to rethink retirement as a flexible, phased transition, with 72% now expecting to retire on their own terms.",
+        "numbers": "72",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fidelity-2026-state-of-retirement-planning/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Indiana Regional MLS deploys AI compliance platform with REcore",
         "url": "https://www.housingwire.com/articles/indiana-regional-mls-recore-navigator-ai-compliance-platform/",
@@ -302,15 +311,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/hecm-reverse-mortgage-purchase-adoption/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Luxury housing’s resilience: Why the top of the market is moving on a different cycle",
-        "url": "https://www.housingwire.com/articles/luxury-housings-resilience-why-the-top-of-the-market-is-moving-on-a-different-cycle/",
-        "what": "Michael Altneu, VP of global luxury at Coldwell Banker, discusses the forces driving luxury housing demand and why the top tier is diverging from the broader market",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/luxury-housings-resilience-why-the-top-of-the-market-is-moving-on-a-different-cycle/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "Today’s Homebuyers Save $150 a Month By Choosing an Adjustable-Rate Mortgage–The Biggest Discount Since 2022",
