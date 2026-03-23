@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-23 19:13 UTC",
+  "as_of": "2026-03-23 19:56 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Stockton Mortgage denies accessing former employees’ email accounts",
+      "link": "https://www.housingwire.com/articles/stockton-mortgage-gmail-lawsuit-2/",
+      "published": "Mon, 23 Mar 2026"
+    },
+    {
       "title": "Rocket offers voluntary employee buyouts after Mr. Cooper, Redfin acquisitions",
       "link": "https://www.housingwire.com/articles/rocket-voluntary-separation-acquisitions/",
       "published": "Mon, 23 Mar 2026"
@@ -165,8 +170,8 @@
       "published": "Mon, 23 Mar 2026"
     },
     {
-      "title": "Indiana Regional MLS deploys AI compliance platform with REcore",
-      "link": "https://www.housingwire.com/articles/indiana-regional-mls-recore-navigator-ai-compliance-platform/",
+      "title": "Redfin Economists’ Weekly Take: Iran War Drives Rate Volatility",
+      "link": "https://www.redfin.com/news/weekly-economic-update-march-23-2026/",
       "published": "Mon, 23 Mar 2026"
     },
     {
@@ -193,15 +198,19 @@
       "title": "Homebuyers Can Afford to Take Their Time Heading Into Spring 2026",
       "link": "https://www.redfin.com/news/homebuyers-taking-their-time-2026/",
       "published": "Thu, 19 Mar 2026"
-    },
-    {
-      "title": "Today’s Homebuyers Save $150 a Month By Choosing an Adjustable-Rate Mortgage–The Biggest Discount Since 2022",
-      "link": "https://www.redfin.com/news/adjustable-rate-mortgage-savings/",
-      "published": "Thu, 19 Mar 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Redfin Economists’ Weekly Take: Iran War Drives Rate Volatility",
+        "url": "https://www.redfin.com/news/weekly-economic-update-march-23-2026/",
+        "what": "This Week In A Nutshell: The Iran War continues to fuel market volatility as it enters its fourth week, particularly as the White House signals it is seeking a resolution",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-march-23-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Groundworks aims to train 5,000 trade frontliners to meet repair crisis",
         "url": "https://www.housingwire.com/articles/groundworks-5000-skilled-trades-jobs-expansion-foundation-repair/",
@@ -268,6 +277,15 @@
     ],
     "housing": [
       {
+        "title": "Stockton Mortgage denies accessing former employees’ email accounts",
+        "url": "https://www.housingwire.com/articles/stockton-mortgage-gmail-lawsuit-2/",
+        "what": "Two ex-loan officers allege Stockton accessed personal email in 2025, but Stockton says DLP tools flagged misconduct and data was redacted.",
+        "numbers": "2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/stockton-mortgage-gmail-lawsuit-2/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Rocket offers voluntary employee buyouts after Mr. Cooper, Redfin acquisitions",
         "url": "https://www.housingwire.com/articles/rocket-voluntary-separation-acquisitions/",
         "what": "Rocket Companies is offering voluntary separation packages to some employees as part of its consolidation following last year’s acquisitions of Mr",
@@ -311,15 +329,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-february-2026/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Today’s Homebuyers Save $150 a Month By Choosing an Adjustable-Rate Mortgage–The Biggest Discount Since 2022",
-        "url": "https://www.redfin.com/news/adjustable-rate-mortgage-savings/",
-        "what": "The average rate for an ARM so far this month is 5.51%, compared with a 6.19% average for a 30-year fixed rate mortgage",
-        "numbers": "5.51, 6.19, 30, $2,578,, 7, $150",
-        "justified": "redfin.com — https://www.redfin.com/news/adjustable-rate-mortgage-savings/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/compass-dismiss-tcpa-lawsuit/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The “Coming Soon” boom raises questions about value, transparency",
-        "url": "https://www.housingwire.com/articles/coming-soon-syndication-deals/",
-        "what": "Agents question coming soon strategies as MLS rules may cap visibility at 24 hours and portals expand syndication partnerships.",
-        "numbers": "24",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/coming-soon-syndication-deals/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
