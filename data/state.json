@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-23 09:12 UTC",
+  "as_of": "2026-03-23 10:15 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "APM’s Michael Banner on why HECM for Purchase has failed to take off",
+      "link": "https://www.housingwire.com/articles/hecm-reverse-mortgage-purchase-adoption/",
+      "published": "Mon, 23 Mar 2026"
+    },
+    {
       "title": "Luxury housing’s resilience: Why the top of the market is moving on a different cycle",
       "link": "https://www.housingwire.com/articles/luxury-housings-resilience-why-the-top-of-the-market-is-moving-on-a-different-cycle/",
       "published": "Mon, 23 Mar 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Why these round homes are resilient to hurricanes",
       "link": "https://www.housingwire.com/articles/why-these-round-homes-are-resilient-to-hurricanes/",
-      "published": "Fri, 20 Mar 2026"
-    },
-    {
-      "title": "The housing blind spot: Why the Senate’s housing bill is a start, not a solution",
-      "link": "https://www.housingwire.com/articles/road-act-employer-benefits/",
       "published": "Fri, 20 Mar 2026"
     },
     {
@@ -230,15 +230,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Judge denies NWMLS bid to dismiss Compass antitrust suit",
-        "url": "https://www.housingwire.com/articles/compass-nwmls-dismissal-denied/",
-        "what": "A Seattle federal judge denied NWMLS’s motion to dismiss Compass’s antitrust suit, keeping discovery on track for a February 2027 trial.",
-        "numbers": "2027",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-nwmls-dismissal-denied/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "3 in 5 Americans Fear AI Could Replace Jobs, Making it Harder to Afford Homes",
         "url": "https://www.redfin.com/news/survey-ai-fears-housing-affordability/",
         "what": "Just 30% of Americans believe advances in AI will help boost the economy and help more people afford homes, according to a recent Redfin survey",
@@ -276,6 +267,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "APM’s Michael Banner on why HECM for Purchase has failed to take off",
+        "url": "https://www.housingwire.com/articles/hecm-reverse-mortgage-purchase-adoption/",
+        "what": "Reverse mortgage educator Michael Banner says HECM for Purchase is underutilized, held back by stigmas, weak hiring and limited Realtor outreach.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hecm-reverse-mortgage-purchase-adoption/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Luxury housing’s resilience: Why the top of the market is moving on a different cycle",
         "url": "https://www.housingwire.com/articles/luxury-housings-resilience-why-the-top-of-the-market-is-moving-on-a-different-cycle/",
