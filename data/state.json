@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-23 17:09 UTC",
+  "as_of": "2026-03-23 18:04 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Groundworks aims to train 5,000 trade frontliners to meet repair crisis",
+      "link": "https://www.housingwire.com/articles/groundworks-5000-skilled-trades-jobs-expansion-foundation-repair/",
+      "published": "Mon, 23 Mar 2026"
+    },
+    {
+      "title": "Rep. Swalwell drops privacy lawsuit against FHFA’s Pulte",
+      "link": "https://www.housingwire.com/articles/swalwell-privacy-act-fhfa-pulte/",
+      "published": "Mon, 23 Mar 2026"
+    },
+    {
       "title": "Fidelity’s 2026 retirement study shows shift to gig work, delayed retirement amid inflation",
       "link": "https://www.housingwire.com/articles/fidelity-2026-state-of-retirement-planning/",
       "published": "Mon, 23 Mar 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Compass seeks to dismiss TCPA lawsuit over agent calls",
       "link": "https://www.housingwire.com/articles/compass-dismiss-tcpa-lawsuit/",
-      "published": "Mon, 23 Mar 2026"
-    },
-    {
-      "title": "CCM enters bidding war for Two Harbors, faces rival cash offer",
-      "link": "https://www.housingwire.com/articles/crosscountry-bid-two-harbors/",
-      "published": "Mon, 23 Mar 2026"
-    },
-    {
-      "title": "The “Coming Soon” boom raises questions about value, transparency",
-      "link": "https://www.housingwire.com/articles/coming-soon-syndication-deals/",
       "published": "Mon, 23 Mar 2026"
     },
     {
@@ -202,6 +202,24 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Groundworks aims to train 5,000 trade frontliners to meet repair crisis",
+        "url": "https://www.housingwire.com/articles/groundworks-5000-skilled-trades-jobs-expansion-foundation-repair/",
+        "what": "Groundworks, a large foundation repair and water management contractor, plans to create 5,000 skilled trades jobs over the next five years as demand for structural and moisture remediation grows across the aging U.S",
+        "numbers": "5,000, 84",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/groundworks-5000-skilled-trades-jobs-expansion-foundation-repair/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Rep. Swalwell drops privacy lawsuit against FHFA’s Pulte",
+        "url": "https://www.housingwire.com/articles/swalwell-privacy-act-fhfa-pulte/",
+        "what": "Rep",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/swalwell-privacy-act-fhfa-pulte/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Fidelity’s 2026 retirement study shows shift to gig work, delayed retirement amid inflation",
         "url": "https://www.housingwire.com/articles/fidelity-2026-state-of-retirement-planning/",
@@ -291,24 +309,6 @@
         "what": "Experts sat down with HousingWire to detail how workflows will evolve amid inventory freeze, tech advancement and affordability hurdles.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/how-real-estate-agents-are-reinventing-themselves-for-a-new-era/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "PHH completes its rebranding journey to Onity Mortgage",
-        "url": "https://www.housingwire.com/articles/onity-rebrands-phh-mortgage/",
-        "what": "Florida-based Onity Group announced that mortgage subsidiary PHH Mortgage Corp",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/onity-rebrands-phh-mortgage/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "APM’s Michael Banner on why HECM for Purchase has failed to take off",
-        "url": "https://www.housingwire.com/articles/hecm-reverse-mortgage-purchase-adoption/",
-        "what": "Reverse mortgage educator Michael Banner says HECM for Purchase is underutilized, held back by stigmas, weak hiring and limited Realtor outreach.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hecm-reverse-mortgage-purchase-adoption/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
