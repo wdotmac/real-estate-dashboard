@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-03-23 19:56 UTC",
+  "as_of": "2026-03-23 20:54 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.25,
-      "delta_bp_1d": -0.9999999999999787
+      "yield_pct": 4.39,
+      "delta_bp_1d": 13.999999999999968
     },
     "mortgage_30y": {
       "rate_pct": 6.22,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Rekindling urgency: A Spring Selling 2026 homebuilders elegy",
+      "link": "https://www.housingwire.com/articles/spring-2026-housing-market-hesitation-homebuyer-confidence/",
+      "published": "Mon, 23 Mar 2026"
+    },
+    {
+      "title": "National Land Realty rolls out tiered commission model aimed at boosting agent earnings",
+      "link": "https://www.housingwire.com/articles/national-land-realty-new-commission-model-100-percent-cap/",
+      "published": "Mon, 23 Mar 2026"
+    },
+    {
       "title": "Stockton Mortgage denies accessing former employees’ email accounts",
       "link": "https://www.housingwire.com/articles/stockton-mortgage-gmail-lawsuit-2/",
       "published": "Mon, 23 Mar 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Groundworks aims to train 5,000 trade frontliners to meet repair crisis",
       "link": "https://www.housingwire.com/articles/groundworks-5000-skilled-trades-jobs-expansion-foundation-repair/",
-      "published": "Mon, 23 Mar 2026"
-    },
-    {
-      "title": "Rep. Swalwell drops privacy lawsuit against FHFA’s Pulte",
-      "link": "https://www.housingwire.com/articles/swalwell-privacy-act-fhfa-pulte/",
-      "published": "Mon, 23 Mar 2026"
-    },
-    {
-      "title": "Fidelity’s 2026 retirement study shows shift to gig work, delayed retirement amid inflation",
-      "link": "https://www.housingwire.com/articles/fidelity-2026-state-of-retirement-planning/",
       "published": "Mon, 23 Mar 2026"
     },
     {
@@ -277,6 +277,15 @@
     ],
     "housing": [
       {
+        "title": "Rekindling urgency: A Spring Selling 2026 homebuilders elegy",
+        "url": "https://www.housingwire.com/articles/spring-2026-housing-market-hesitation-homebuyer-confidence/",
+        "what": "Show of hands",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/spring-2026-housing-market-hesitation-homebuyer-confidence/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Stockton Mortgage denies accessing former employees’ email accounts",
         "url": "https://www.housingwire.com/articles/stockton-mortgage-gmail-lawsuit-2/",
         "what": "Two ex-loan officers allege Stockton accessed personal email in 2025, but Stockton says DLP tools flagged misconduct and data was redacted.",
@@ -304,15 +313,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "CCM enters bidding war for Two Harbors, faces rival cash offer",
-        "url": "https://www.housingwire.com/articles/crosscountry-bid-two-harbors/",
-        "what": "CrossCountry Mortgage (CCM) has entered the bidding battle for Two Harbors Investment Corp., facing competition not only from UWM Holdings Corp",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/crosscountry-bid-two-harbors/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "There Are 630,000 More Home Sellers Than Buyers—the Biggest Gap on Record",
         "url": "https://www.redfin.com/news/buyers-vs-sellers-february-2026/",
         "what": "When sellers outnumber buyers, the buyers who are in the market have bargaining power",
@@ -333,6 +333,15 @@
     ],
     "notables": [
       {
+        "title": "National Land Realty rolls out tiered commission model aimed at boosting agent earnings",
+        "url": "https://www.housingwire.com/articles/national-land-realty-new-commission-model-100-percent-cap/",
+        "what": "National Land Realty launches tiered commission plans with a 100% cap option and new recruiting incentives aimed at land brokers and agents.",
+        "numbers": "100",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/national-land-realty-new-commission-model-100-percent-cap/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Real estate agents: The pricing conversation has changed — have you?",
         "url": "https://www.housingwire.com/articles/price-listings-seller-resistance/",
         "what": "In a slower market, sellers may resist CMAs, so agents can lead with questions, forecast outcomes by price, and decline unrealistic pricing.",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/price-listings-seller-resistance/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Compass seeks to dismiss TCPA lawsuit over agent calls",
-        "url": "https://www.housingwire.com/articles/compass-dismiss-tcpa-lawsuit/",
-        "what": "Compass moved to dismiss a TCPA suit in Oregon, arguing it is not vicariously liable for agent calls to a Do Not Call number.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-dismiss-tcpa-lawsuit/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
