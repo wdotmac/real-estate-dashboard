@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-23 11:55 UTC",
+  "as_of": "2026-03-23 13:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The “Coming Soon” boom raises questions about value, transparency",
+      "link": "https://www.housingwire.com/articles/coming-soon-syndication-deals/",
+      "published": "Mon, 23 Mar 2026"
+    },
+    {
+      "title": "Balance Homes updates co-ownership program with fee rebates, counseling",
+      "link": "https://www.housingwire.com/articles/balance-homes-co-ownership-updates/",
+      "published": "Mon, 23 Mar 2026"
+    },
+    {
+      "title": "The strategic pivot: How real estate agents are reinventing themselves as housing advisors",
+      "link": "https://www.housingwire.com/articles/how-real-estate-agents-are-reinventing-themselves-for-a-new-era/",
+      "published": "Mon, 23 Mar 2026"
+    },
+    {
       "title": "PHH completes its rebranding journey to Onity Mortgage",
       "link": "https://www.housingwire.com/articles/onity-rebrands-phh-mortgage/",
       "published": "Mon, 23 Mar 2026"
@@ -155,19 +170,14 @@
       "published": "Mon, 23 Mar 2026"
     },
     {
-      "title": "How declined loan analysis can turn more mortgage “no’s” into closings",
-      "link": "https://www.housingwire.com/articles/how-declined-loan-analysis-can-turn-more-mortgage-nos-into-closings/",
+      "title": "There Are 630,000 More Home Sellers Than Buyers—the Biggest Gap on Record",
+      "link": "https://www.redfin.com/news/buyers-vs-sellers-february-2026/",
       "published": "Mon, 23 Mar 2026"
     },
     {
-      "title": "Arizona housing reform push would curb HOA, design mandates",
-      "link": "https://www.housingwire.com/articles/arizona-local-design-standards/",
-      "published": "Sun, 22 Mar 2026"
-    },
-    {
-      "title": "Housing demand still growing as mortgage rates reach inflection point",
-      "link": "https://www.housingwire.com/articles/housing-demand-still-growing-as-mortgage-rates-reach-inflection-point/",
-      "published": "Sat, 21 Mar 2026"
+      "title": "February’s $30M+ Home Sales Cluster in Florida and NYC—Including Two in the Same Barrier Island Enclave",
+      "link": "https://www.redfin.com/news/most-expensive-home-sales-february-2026/",
+      "published": "Mon, 23 Mar 2026"
     },
     {
       "title": "Escalating Iran War, Rising Oil Prices, Fed Uncertainty Push Mortgage Rates to 6-Month High",
@@ -188,16 +198,6 @@
       "title": "Today’s Homebuyers Save $150 a Month By Choosing an Adjustable-Rate Mortgage–The Biggest Discount Since 2022",
       "link": "https://www.redfin.com/news/adjustable-rate-mortgage-savings/",
       "published": "Thu, 19 Mar 2026"
-    },
-    {
-      "title": "Mortgage Rates Jump Back Above 6% As Pending Home Sales, New Listings Post Small Improvements",
-      "link": "https://www.redfin.com/news/housing-market-update-mortgage-rates-rise-sales-improve/",
-      "published": "Thu, 19 Mar 2026"
-    },
-    {
-      "title": "Mortgage Rates Could Nudge Slightly Higher As Fed Holds Rates Steady, Flags Inflation Risk",
-      "link": "https://www.redfin.com/news/fed-meeting-march-18/",
-      "published": "Wed, 18 Mar 2026"
     }
   ],
   "feed_101020": {
@@ -237,27 +237,36 @@
         "justified": "redfin.com — https://www.redfin.com/news/homebuyers-taking-their-time-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Mortgage Rates Jump Back Above 6% As Pending Home Sales, New Listings Post Small Improvements",
-        "url": "https://www.redfin.com/news/housing-market-update-mortgage-rates-rise-sales-improve/",
-        "what": "A Redfin agent in Austin said the upside of higher mortgage rates is that they decrease competition, allowing house hunters to negotiate prices down and ask for concessions",
-        "numbers": "6.11, 6",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-mortgage-rates-rise-sales-improve/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage Rates Could Nudge Slightly Higher As Fed Holds Rates Steady, Flags Inflation Risk",
-        "url": "https://www.redfin.com/news/fed-meeting-march-18/",
-        "what": "The Fed left interest rates unchanged at its March 18 meeting, as expected, amid the backdrop of the Iran war, which is contributing to a shaky economic outlook",
-        "numbers": "18",
-        "justified": "redfin.com — https://www.redfin.com/news/fed-meeting-march-18/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "There Are 630,000 More Home Sellers Than Buyers—the Biggest Gap on Record",
+        "url": "https://www.redfin.com/news/buyers-vs-sellers-february-2026/",
+        "what": "When sellers outnumber buyers, the buyers who are in the market have bargaining power",
+        "numbers": "46.3, 630,000",
+        "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-february-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "February’s $30M+ Home Sales Cluster in Florida and NYC—Including Two in the Same Barrier Island Enclave",
+        "url": "https://www.redfin.com/news/most-expensive-home-sales-february-2026/",
+        "what": "Florida and New York dominated February’s ultra-luxury housing market, with oceanfront estates and Central Park condos going for more than $50 million",
+        "numbers": "$50 million, 2026,, $68 million, $30",
+        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-february-2026/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "The strategic pivot: How real estate agents are reinventing themselves as housing advisors",
+        "url": "https://www.housingwire.com/articles/how-real-estate-agents-are-reinventing-themselves-for-a-new-era/",
+        "what": "Experts sat down with HousingWire to detail how workflows will evolve amid inventory freeze, tech advancement and affordability hurdles.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/how-real-estate-agents-are-reinventing-themselves-for-a-new-era/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "PHH completes its rebranding journey to Onity Mortgage",
         "url": "https://www.housingwire.com/articles/onity-rebrands-phh-mortgage/",
@@ -304,24 +313,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "The housing blind spot: Why the Senate’s housing bill is a start, not a solution",
-        "url": "https://www.housingwire.com/articles/road-act-employer-benefits/",
-        "what": "The ROAD to Housing Act passed 89 to 10, but omits employer housing benefits like tax free savings and matching support.",
-        "numbers": "89, 10,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/road-act-employer-benefits/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Built-for-rent multifamily starts jump 18% in Q4 2025",
-        "url": "https://www.housingwire.com/articles/q4-2025-multifamily-built-for-rent-starts-rise-18/",
-        "what": "Built-for-rent multifamily construction surged at the end of 2025, extending the cycle’s heavy tilt toward rentals and keeping average apartment sizes below pre-Great Recession levels, according to a National Association of Home Builders (NAHB) analysis of Census Bureau data",
-        "numbers": "2025,, 96,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/q4-2025-multifamily-built-for-rent-starts-rise-18/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Today’s Homebuyers Save $150 a Month By Choosing an Adjustable-Rate Mortgage–The Biggest Discount Since 2022",
         "url": "https://www.redfin.com/news/adjustable-rate-mortgage-savings/",
         "what": "The average rate for an ARM so far this month is 5.51%, compared with a 6.19% average for a 30-year fixed rate mortgage",
@@ -333,6 +324,24 @@
     ],
     "notables": [
       {
+        "title": "The “Coming Soon” boom raises questions about value, transparency",
+        "url": "https://www.housingwire.com/articles/coming-soon-syndication-deals/",
+        "what": "Agents question coming soon strategies as MLS rules may cap visibility at 24 hours and portals expand syndication partnerships.",
+        "numbers": "24",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/coming-soon-syndication-deals/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Balance Homes updates co-ownership program with fee rebates, counseling",
+        "url": "https://www.housingwire.com/articles/balance-homes-co-ownership-updates/",
+        "what": "Balance Homes has updated its co-ownership program with HUD counseling, progress tracking and fee rebates for home equity buybacks.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/balance-homes-co-ownership-updates/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Why these round homes are resilient to hurricanes",
         "url": "https://www.housingwire.com/articles/why-these-round-homes-are-resilient-to-hurricanes/",
         "what": "Deltec Homes builds round prefabs rated up to roughly 190 mph, and cites a 99.9% major hurricane survival rate over 3 decades.",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/why-these-round-homes-are-resilient-to-hurricanes/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "What a visit to NAR revealed about leadership change",
-        "url": "https://www.housingwire.com/articles/visit-nar-leadership/",
-        "what": "A first-hand NAR HQ visit points to leadership effort and advocacy, but highlights unresolved issues on pay and member trust.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/visit-nar-leadership/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
