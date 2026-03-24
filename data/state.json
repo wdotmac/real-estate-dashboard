@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-24 20:57 UTC",
+  "as_of": "2026-03-24 21:52 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "California MBA urges guardrails for bill targeting wildfire-related forbearance",
+      "link": "https://www.housingwire.com/articles/ab-238-forbearance-hearing-cmba/",
+      "published": "Tue, 24 Mar 2026"
+    },
+    {
       "title": "Howard Hanna settles homebuyer commission case as courtroom tensions escalate",
       "link": "https://www.housingwire.com/articles/hanna-holdings-tuccori-settlement/",
       "published": "Tue, 24 Mar 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Missouri senator opens investigation into FICO’s mortgage credit score pricing",
       "link": "https://www.housingwire.com/articles/hawley-fico-mortgage-pricing/",
-      "published": "Tue, 24 Mar 2026"
-    },
-    {
-      "title": "The power of leading with influence in real estate sales",
-      "link": "https://www.housingwire.com/articles/teach-to-sell-real-estate-trust/",
       "published": "Tue, 24 Mar 2026"
     },
     {
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Gen X most worried about taxes, volatility and inflation before retirement",
-        "url": "https://www.housingwire.com/articles/gen-x-retirement-tax-worries/",
-        "what": "Allianz Q1 2026 survey shows 70% of Americans fear retirement taxes, with Gen X leading concerns about volatility and inflation.",
-        "numbers": "1, 2026, 70",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/gen-x-retirement-tax-worries/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Iran War Drives Rate Volatility",
         "url": "https://www.redfin.com/news/weekly-economic-update-march-23-2026/",
         "what": "This Week In A Nutshell: The Iran War continues to fuel market volatility as it enters its fourth week, particularly as the White House signals it is seeking a resolution",
@@ -249,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "California MBA urges guardrails for bill targeting wildfire-related forbearance",
+        "url": "https://www.housingwire.com/articles/ab-238-forbearance-hearing-cmba/",
+        "what": "CMBA told lawmakers that AB 238 aids short-term relief, but insurance delays and permitting backlogs are stalling wildfire recovery.",
+        "numbers": "238",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ab-238-forbearance-hearing-cmba/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "Howard Hanna settles homebuyer commission case as courtroom tensions escalate",
         "url": "https://www.housingwire.com/articles/hanna-holdings-tuccori-settlement/",
