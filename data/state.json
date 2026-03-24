@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-24 07:31 UTC",
+  "as_of": "2026-03-24 09:08 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "NAHREP: Hispanic buyers prop up homeownership — but policy headwinds are growing",
+      "link": "https://www.housingwire.com/articles/acevedo-takes-helm-at-nahrep-amid-housing-market-shifts-immigration-fears/",
+      "published": "Tue, 24 Mar 2026"
+    },
+    {
+      "title": "The mortgage industry built a sales infrastructure. It now needs a navigation infrastructure",
+      "link": "https://www.housingwire.com/articles/the-mortgage-industry-built-a-sales-infrastructure-it-now-needs-a-navigation-infrastructure/",
+      "published": "Tue, 24 Mar 2026"
+    },
+    {
       "title": "Trump’s AI policy framework calls for single federal standard",
       "link": "https://www.housingwire.com/articles/trump-ai-framework-national/",
       "published": "Mon, 23 Mar 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Stockton Mortgage denies accessing former employees’ email accounts",
       "link": "https://www.housingwire.com/articles/stockton-mortgage-gmail-lawsuit-2/",
-      "published": "Mon, 23 Mar 2026"
-    },
-    {
-      "title": "Rocket offers voluntary employee buyouts after Mr. Cooper, Redfin acquisitions",
-      "link": "https://www.housingwire.com/articles/rocket-voluntary-separation-acquisitions/",
-      "published": "Mon, 23 Mar 2026"
-    },
-    {
-      "title": "Real estate agents: The pricing conversation has changed — have you?",
-      "link": "https://www.housingwire.com/articles/price-listings-seller-resistance/",
       "published": "Mon, 23 Mar 2026"
     },
     {
@@ -239,24 +239,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Fidelity’s 2026 retirement study shows shift to gig work, delayed retirement amid inflation",
-        "url": "https://www.housingwire.com/articles/fidelity-2026-state-of-retirement-planning/",
-        "what": "Rising costs of living and debt are pushing many Americans to rethink retirement as a flexible, phased transition, with 72% now expecting to retire on their own terms.",
-        "numbers": "72",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fidelity-2026-state-of-retirement-planning/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Indiana Regional MLS deploys AI compliance platform with REcore",
-        "url": "https://www.housingwire.com/articles/indiana-regional-mls-recore-navigator-ai-compliance-platform/",
-        "what": "Indiana Regional MLS will deploy Navigator by Lundy with REcore, extending AI-powered rules and compliance support to its MLS staff and shareholder associations.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/indiana-regional-mls-recore-navigator-ai-compliance-platform/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Escalating Iran War, Rising Oil Prices, Fed Uncertainty Push Mortgage Rates to 6-Month High",
         "url": "https://www.redfin.com/news/mortgage-rates-increase-march-20/",
         "what": "The daily average mortgage rate rose to a six-month high of 6.53% on March 20",
@@ -285,6 +267,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "NAHREP: Hispanic buyers prop up homeownership — but policy headwinds are growing",
+        "url": "https://www.housingwire.com/articles/acevedo-takes-helm-at-nahrep-amid-housing-market-shifts-immigration-fears/",
+        "what": "Acevedo's agenda, he said, begins with tackling two fundamental challenges: housing inventory and access to credit.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/acevedo-takes-helm-at-nahrep-amid-housing-market-shifts-immigration-fears/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "The mortgage industry built a sales infrastructure. It now needs a navigation infrastructure",
+        "url": "https://www.housingwire.com/articles/the-mortgage-industry-built-a-sales-infrastructure-it-now-needs-a-navigation-infrastructure/",
+        "what": "Incentives have always driven mortgage lending",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-mortgage-industry-built-a-sales-infrastructure-it-now-needs-a-navigation-infrastructure/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Rekindling urgency: A Spring Selling 2026 homebuilders elegy",
         "url": "https://www.housingwire.com/articles/spring-2026-housing-market-hesitation-homebuyer-confidence/",
