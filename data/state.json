@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-24 17:14 UTC",
+  "as_of": "2026-03-24 18:09 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -17,14 +17,14 @@
   },
   "permits": {
     "florida": {
-      "latest": 13220,
-      "latest_date": "2025-12",
-      "mom": 0.3696643182760049,
-      "yoy": 0.10590597289610182,
-      "ytd": -0.002057400912362728,
-      "ytd_count": 174133,
-      "latest_year": 2025,
-      "latest_month_name": "Dec"
+      "latest": 11132,
+      "latest_date": "2026-01",
+      "mom": -0.15794251134644477,
+      "yoy": -0.3402086296823139,
+      "ytd": -0.3402086296823139,
+      "ytd_count": 11132,
+      "latest_year": 2026,
+      "latest_month_name": "Jan"
     },
     "msa": {
       "Orlando–Kissimmee–Sanford": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Missouri senator opens investigation into FICO’s mortgage credit score pricing",
+      "link": "https://www.housingwire.com/articles/hawley-fico-mortgage-pricing/",
+      "published": "Tue, 24 Mar 2026"
+    },
+    {
+      "title": "The power of leading with influence in real estate sales",
+      "link": "https://www.housingwire.com/articles/teach-to-sell-real-estate-trust/",
+      "published": "Tue, 24 Mar 2026"
+    },
+    {
       "title": "Housing needs a fifth place. It’s how builders design belonging",
       "link": "https://www.housingwire.com/articles/fifth-place-master-planned-communities/",
       "published": "Tue, 24 Mar 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Gen X most worried about taxes, volatility and inflation before retirement",
       "link": "https://www.housingwire.com/articles/gen-x-retirement-tax-worries/",
-      "published": "Tue, 24 Mar 2026"
-    },
-    {
-      "title": "A modular player scales in urban high-rise apartment projects",
-      "link": "https://www.housingwire.com/articles/modular-high-rise-buildings/",
-      "published": "Tue, 24 Mar 2026"
-    },
-    {
-      "title": "Follow the money: How NAR’s $10M PAC spend breaks down",
-      "link": "https://www.housingwire.com/articles/nar-rpac-disbursed-10-02m/",
       "published": "Tue, 24 Mar 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Missouri senator opens investigation into FICO’s mortgage credit score pricing",
+        "url": "https://www.housingwire.com/articles/hawley-fico-mortgage-pricing/",
+        "what": "Hawley urges an FTC probe of FICO mortgage score fees, citing 88% margins and up to $500 million in industrywide added costs.",
+        "numbers": "88, $500 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hawley-fico-mortgage-pricing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage rates jump to 6.5% on inflation fears. What’s the impact on spring homebuyers?",
         "url": "https://www.housingwire.com/articles/mortgage-rates-treasury-yields/",
         "what": "With little to suggest that the U.S.-Iran conflict will end soon",
@@ -217,15 +226,6 @@
         "what": "Allianz Q1 2026 survey shows 70% of Americans fear retirement taxes, with Gen X leading concerns about volatility and inflation.",
         "numbers": "1, 2026, 70",
         "justified": "housingwire.com — https://www.housingwire.com/articles/gen-x-retirement-tax-worries/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Trump’s AI policy framework calls for single federal standard",
-        "url": "https://www.housingwire.com/articles/trump-ai-framework-national/",
-        "what": "Trump's AI framework lists six priorities and urges one national standard, as mortgage tech leaders cite delays from state-by-state rules.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-ai-framework-national/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -295,15 +295,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Rekindling urgency: A Spring Selling 2026 homebuilders elegy",
-        "url": "https://www.housingwire.com/articles/spring-2026-housing-market-hesitation-homebuyer-confidence/",
-        "what": "Show of hands",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/spring-2026-housing-market-hesitation-homebuyer-confidence/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "There Are 630,000 More Home Sellers Than Buyers—the Biggest Gap on Record",
         "url": "https://www.redfin.com/news/buyers-vs-sellers-february-2026/",
         "what": "When sellers outnumber buyers, the buyers who are in the market have bargaining power",
@@ -323,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "The power of leading with influence in real estate sales",
+        "url": "https://www.housingwire.com/articles/teach-to-sell-real-estate-trust/",
+        "what": "Reframe real estate sales around trust, education and client needs, not pressure tactics with service-led guidance.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/teach-to-sell-real-estate-trust/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Hail risk to homes is on par on with major hurricane threats",
         "url": "https://www.housingwire.com/articles/cotality-2026-storm-report/",
