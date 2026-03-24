@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-24 11:56 UTC",
+  "as_of": "2026-03-24 13:51 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,16 @@
       "published": "Mon, 23 Mar 2026"
     },
     {
+      "title": "14% of Home-Sale Agreements Fell Through Last Month–A Record for February",
+      "link": "https://www.redfin.com/news/contract-cancellations-february-2026/",
+      "published": "Tue, 24 Mar 2026"
+    },
+    {
+      "title": "U.S. Home Prices Barely Budged in February",
+      "link": "https://www.redfin.com/news/home-price-index-february-2026/",
+      "published": "Tue, 24 Mar 2026"
+    },
+    {
       "title": "Redfin Economists’ Weekly Take: Iran War Drives Rate Volatility",
       "link": "https://www.redfin.com/news/weekly-economic-update-march-23-2026/",
       "published": "Mon, 23 Mar 2026"
@@ -188,16 +198,6 @@
       "title": "Escalating Iran War, Rising Oil Prices, Fed Uncertainty Push Mortgage Rates to 6-Month High",
       "link": "https://www.redfin.com/news/mortgage-rates-increase-march-20/",
       "published": "Fri, 20 Mar 2026"
-    },
-    {
-      "title": "3 in 5 Americans Fear AI Could Replace Jobs, Making it Harder to Afford Homes",
-      "link": "https://www.redfin.com/news/survey-ai-fears-housing-affordability/",
-      "published": "Fri, 20 Mar 2026"
-    },
-    {
-      "title": "Homebuyers Can Afford to Take Their Time Heading Into Spring 2026",
-      "link": "https://www.redfin.com/news/homebuyers-taking-their-time-2026/",
-      "published": "Thu, 19 Mar 2026"
     }
   ],
   "feed_101020": {
@@ -246,27 +246,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-increase-march-20/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "3 in 5 Americans Fear AI Could Replace Jobs, Making it Harder to Afford Homes",
-        "url": "https://www.redfin.com/news/survey-ai-fears-housing-affordability/",
-        "what": "Just 30% of Americans believe advances in AI will help boost the economy and help more people afford homes, according to a recent Redfin survey",
-        "numbers": "30, 3, 5",
-        "justified": "redfin.com — https://www.redfin.com/news/survey-ai-fears-housing-affordability/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Homebuyers Can Afford to Take Their Time Heading Into Spring 2026",
-        "url": "https://www.redfin.com/news/homebuyers-taking-their-time-2026/",
-        "what": "The typical home that went under contract in February spent 66 days on the market—the slowest February pace in a decade",
-        "numbers": "66, 1.8, 2023, 2026",
-        "justified": "redfin.com — https://www.redfin.com/news/homebuyers-taking-their-time-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "housing": [
+      {
+        "title": "14% of Home-Sale Agreements Fell Through Last Month–A Record for February",
+        "url": "https://www.redfin.com/news/contract-cancellations-february-2026/",
+        "what": "House hunters have the upper hand, allowing them to abandon deals over price, repairs or second thoughts",
+        "numbers": "42,000, 13.7, 14",
+        "justified": "redfin.com — https://www.redfin.com/news/contract-cancellations-february-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "U.S. Home Prices Barely Budged in February",
+        "url": "https://www.redfin.com/news/home-price-index-february-2026/",
+        "what": "Home prices rose 0.1% month over month on a seasonally adjusted basis—the slowest growth in seven months",
+        "numbers": "0.1, 16",
+        "justified": "redfin.com — https://www.redfin.com/news/home-price-index-february-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "NAHREP: Hispanic buyers prop up homeownership — but policy headwinds are growing",
         "url": "https://www.housingwire.com/articles/acevedo-takes-helm-at-nahrep-amid-housing-market-shifts-immigration-fears/",
