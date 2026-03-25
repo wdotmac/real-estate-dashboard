@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-03-25 19:54 UTC",
+  "as_of": "2026-03-25 20:55 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.34,
-      "delta_bp_1d": -4.999999999999982
+      "yield_pct": 4.39,
+      "delta_bp_1d": 4.999999999999982
     },
     "mortgage_30y": {
       "rate_pct": 6.22,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "TransUnion launches tool to bolster Realtor safety, fight fraud",
+      "link": "https://www.housingwire.com/articles/transunion-launches-tool-to-bolster-realtor-safety-fight-fraud/",
+      "published": "Wed, 25 Mar 2026"
+    },
+    {
+      "title": "States push back on buyer agreements as new laws challenge NAR rules",
+      "link": "https://www.housingwire.com/articles/states-override-nar-buyer-agreement/",
+      "published": "Wed, 25 Mar 2026"
+    },
+    {
+      "title": "US Mortgage hit with class-action suit over May 2025 data breach",
+      "link": "https://www.housingwire.com/articles/us-mortgage-breach-lawsuit/",
+      "published": "Wed, 25 Mar 2026"
+    },
+    {
+      "title": "KB Home pivots to its build-to-order strengths, but not without risk",
+      "link": "https://www.housingwire.com/articles/kb-home-q1-2026-earnings/",
+      "published": "Wed, 25 Mar 2026"
+    },
+    {
       "title": "One group drove U.S. homeownership gains in 2025 — and it wasn’t who you think",
       "link": "https://www.housingwire.com/articles/one-group-drove-u-s-homeownership-gains-in-2025-and-it-wasnt-who-you-think/",
       "published": "Wed, 25 Mar 2026"
@@ -147,26 +167,6 @@
     {
       "title": "11 tips for pricing homes in a low-turnover market",
       "link": "https://www.housingwire.com/articles/11-tips-for-pricing-homes-in-a-low-turnover-market/",
-      "published": "Wed, 25 Mar 2026"
-    },
-    {
-      "title": "Waterstone Mortgage taps Friday Harbor AI to boost underwriting capacity",
-      "link": "https://www.housingwire.com/articles/waterstone-mortgage-adopts-friday-harbor-ai-pre-underwriting/",
-      "published": "Wed, 25 Mar 2026"
-    },
-    {
-      "title": "MISMO publishes ALTA title and settlement datasets for review",
-      "link": "https://www.housingwire.com/articles/mismo-alta-title-settlement-standards/",
-      "published": "Wed, 25 Mar 2026"
-    },
-    {
-      "title": "Zillow Preview adds Engel & Völkers, BHHS, SERHANT., Samson Properties, 20 more firms",
-      "link": "https://www.housingwire.com/articles/zillow-preview-24-firms/",
-      "published": "Wed, 25 Mar 2026"
-    },
-    {
-      "title": "Virginia widow sues HUD and lenders, alleging wrongful reverse mortgage foreclosure",
-      "link": "https://www.housingwire.com/articles/virginia-widow-hud-hecm-lawsuit/",
       "published": "Wed, 25 Mar 2026"
     },
     {
@@ -223,6 +223,15 @@
     ],
     "housing": [
       {
+        "title": "US Mortgage hit with class-action suit over May 2025 data breach",
+        "url": "https://www.housingwire.com/articles/us-mortgage-breach-lawsuit/",
+        "what": "Suit alleges a May 2025 hack exposed US Mortgage employee data, claims weak controls and delayed notice, and seeks $5 million plus reforms.",
+        "numbers": "2025, $5 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/us-mortgage-breach-lawsuit/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Waterstone Mortgage taps Friday Harbor AI to boost underwriting capacity",
         "url": "https://www.housingwire.com/articles/waterstone-mortgage-adopts-friday-harbor-ai-pre-underwriting/",
         "what": "Waterstone Mortgage is using Friday Harbor’s AI platform to improve file quality, cut conditions and expand underwriting capacity.",
@@ -246,33 +255,6 @@
         "what": "Virginia widow sues HUD and lenders over a 2011 HECM loan, alleging MOE denial led to a 2025 foreclosure after her husband died.",
         "numbers": "2011, 2025",
         "justified": "housingwire.com — https://www.housingwire.com/articles/virginia-widow-hud-hecm-lawsuit/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Summit Funding to lay off staff amid CCM deal",
-        "url": "https://www.housingwire.com/articles/summit-warn-notice-layoffs/",
-        "what": "A group of employees at Summit Funding, most of them in back-office roles, are being laid off but may receive job offers from CrossCountry Mortgage as part of the companies’ pendin",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/summit-warn-notice-layoffs/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "States bet on by-right housing projects on church land",
-        "url": "https://www.housingwire.com/articles/church-land-housing-laws/",
-        "what": "Unused church property is emerging as a viable housing supply source as two slow-moving trends converge: declining church attendance and an escalating housing affordability crunch",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/church-land-housing-laws/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "UWM rolls out mortgage payment rewards via Bilt platform",
-        "url": "https://www.housingwire.com/articles/uwm-built-in-rewards-mortgage-payments/",
-        "what": "UWM launched Built-In Rewards, letting borrowers earn points via Bilt for on-time digital payments as servicing moves in-house.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-built-in-rewards-mortgage-payments/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -315,6 +297,33 @@
     ],
     "notables": [
       {
+        "title": "TransUnion launches tool to bolster Realtor safety, fight fraud",
+        "url": "https://www.housingwire.com/articles/transunion-launches-tool-to-bolster-realtor-safety-fight-fraud/",
+        "what": "The app allows agents to validate legal property ownership before listing and conduct personal safety checks using a phone number.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/transunion-launches-tool-to-bolster-realtor-safety-fight-fraud/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "States push back on buyer agreements as new laws challenge NAR rules",
+        "url": "https://www.housingwire.com/articles/states-override-nar-buyer-agreement/",
+        "what": "Mississippi and Alabama laws allow buyer tours without signed agreements, conflicting with the NAR settlement, as other states weigh bills.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/states-override-nar-buyer-agreement/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "KB Home pivots to its build-to-order strengths, but not without risk",
+        "url": "https://www.housingwire.com/articles/kb-home-q1-2026-earnings/",
+        "what": "KB Home Q1 revenue fell 23% and gross margin dropped to 15.3% as it cut Q2 and full-year guidance amid higher uncertainty.",
+        "numbers": "1, 23, 15.3, 2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kb-home-q1-2026-earnings/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "One group drove U.S. homeownership gains in 2025 — and it wasn’t who you think",
         "url": "https://www.housingwire.com/articles/one-group-drove-u-s-homeownership-gains-in-2025-and-it-wasnt-who-you-think/",
         "what": "Nearly every real estate practitioner interviewed for NAHREP’s report said immigration enforcement fears impacted their Hispanic clients.",
@@ -338,15 +347,6 @@
         "what": "MISMO released ALTA Title Policy and Settlement Statement datasets in candidate recommendation status, opening review and early adoption.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mismo-alta-title-settlement-standards/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "HomeLight says more buyers are hungry for down payment help in 2026",
-        "url": "https://www.housingwire.com/articles/homelight-down-payment-assistance-2026/",
-        "what": "HomeLight's Q2 2026 survey shows 33% of borrowers ask about down payment assistance and 45% ask about zero-down programs.",
-        "numbers": "2, 2026, 33, 45",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homelight-down-payment-assistance-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
