@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-25 15:20 UTC",
+  "as_of": "2026-03-25 17:17 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "UWM rolls out mortgage payment rewards via Bilt platform",
-      "link": "https://www.housingwire.com/articles/uwm-built-in-rewards-mortgage-payments/",
+      "title": "MISMO publishes ALTA title and settlement datasets for review",
+      "link": "https://www.housingwire.com/articles/mismo-alta-title-settlement-standards/",
       "published": "Wed, 25 Mar 2026"
     },
     {
-      "title": "Yellow pad math can explain a lot about homebuilder decisions",
-      "link": "https://www.housingwire.com/articles/yellow-pad-math-can-explain-a-lot-about-homebuilder-decisions/",
+      "title": "Zillow Preview adds Engel & Völkers, BHHS, SERHANT., Samson Properties, 20 more firms",
+      "link": "https://www.housingwire.com/articles/zillow-preview-24-firms/",
       "published": "Wed, 25 Mar 2026"
     },
     {
-      "title": "Applications fall 10.5% as 30-year fixed rate moves higher",
-      "link": "https://www.housingwire.com/articles/mortgage-applications-fall/",
+      "title": "Virginia widow sues HUD and lenders, alleging wrongful reverse mortgage foreclosure",
+      "link": "https://www.housingwire.com/articles/virginia-widow-hud-hecm-lawsuit/",
       "published": "Wed, 25 Mar 2026"
     },
     {
-      "title": "HighTechLending and Better partner to expand EquitySelect HELOC",
-      "link": "https://www.housingwire.com/articles/better-hightechlending-equityselect-heloc/",
+      "title": "Summit Funding to lay off staff amid CCM deal",
+      "link": "https://www.housingwire.com/articles/summit-warn-notice-layoffs/",
       "published": "Wed, 25 Mar 2026"
     },
     {
-      "title": "How mentorship, not recruiting alone, builds strong loan officers",
-      "link": "https://www.housingwire.com/articles/how-mentorship-not-recruiting-alone-builds-strong-loan-officers/",
+      "title": "HomeLight says more buyers are hungry for down payment help in 2026",
+      "link": "https://www.housingwire.com/articles/homelight-down-payment-assistance-2026/",
       "published": "Wed, 25 Mar 2026"
     },
     {
-      "title": "California MBA urges guardrails for bill targeting wildfire-related forbearance",
-      "link": "https://www.housingwire.com/articles/ab-238-forbearance-hearing-cmba/",
-      "published": "Tue, 24 Mar 2026"
+      "title": "States bet on by-right housing projects on church land",
+      "link": "https://www.housingwire.com/articles/church-land-housing-laws/",
+      "published": "Wed, 25 Mar 2026"
     },
     {
       "title": "14% of Home-Sale Agreements Fell Through Last Month–A Record for February",
@@ -223,6 +223,42 @@
     ],
     "housing": [
       {
+        "title": "Zillow Preview adds Engel & Völkers, BHHS, SERHANT., Samson Properties, 20 more firms",
+        "url": "https://www.housingwire.com/articles/zillow-preview-24-firms/",
+        "what": "Zillow says 24 more firms joined Zillow Preview, giving Zillow exclusive display of coming soon listings, with rollout expected next month.",
+        "numbers": "24",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-preview-24-firms/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Virginia widow sues HUD and lenders, alleging wrongful reverse mortgage foreclosure",
+        "url": "https://www.housingwire.com/articles/virginia-widow-hud-hecm-lawsuit/",
+        "what": "Virginia widow sues HUD and lenders over a 2011 HECM loan, alleging MOE denial led to a 2025 foreclosure after her husband died.",
+        "numbers": "2011, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/virginia-widow-hud-hecm-lawsuit/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Summit Funding to lay off staff amid CCM deal",
+        "url": "https://www.housingwire.com/articles/summit-warn-notice-layoffs/",
+        "what": "A group of employees at Summit Funding, most of them in back-office roles, are being laid off but may receive job offers from CrossCountry Mortgage as part of the companies’ pendin",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/summit-warn-notice-layoffs/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "States bet on by-right housing projects on church land",
+        "url": "https://www.housingwire.com/articles/church-land-housing-laws/",
+        "what": "Unused church property is emerging as a viable housing supply source as two slow-moving trends converge: declining church attendance and an escalating housing affordability crunch",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/church-land-housing-laws/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "UWM rolls out mortgage payment rewards via Bilt platform",
         "url": "https://www.housingwire.com/articles/uwm-built-in-rewards-mortgage-payments/",
         "what": "UWM launched Built-In Rewards, letting borrowers earn points via Bilt for on-time digital payments as servicing moves in-house.",
@@ -239,42 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/yellow-pad-math-can-explain-a-lot-about-homebuilder-decisions/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "California MBA urges guardrails for bill targeting wildfire-related forbearance",
-        "url": "https://www.housingwire.com/articles/ab-238-forbearance-hearing-cmba/",
-        "what": "CMBA told lawmakers that AB 238 aids short-term relief, but insurance delays and permitting backlogs are stalling wildfire recovery.",
-        "numbers": "238",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ab-238-forbearance-hearing-cmba/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Howard Hanna settles homebuyer commission case as courtroom tensions escalate",
-        "url": "https://www.housingwire.com/articles/hanna-holdings-tuccori-settlement/",
-        "what": "Howard Hanna parent Hanna Holdings opted into Tuccori’s settlement as Batton plaintiffs move to block opt-in deals and coordination.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hanna-holdings-tuccori-settlement/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "HUD launches probe into Washington state down payment assistance program",
-        "url": "https://www.housingwire.com/articles/hud-probe-covenant-homeownership/",
-        "what": "Washington State’s Covenant Homeownership Program is under investigation by HUD over potential violations of the Fair Housing Act.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-probe-covenant-homeownership/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Ownli expands to 43 states with commission-free home listing platform",
-        "url": "https://www.housingwire.com/articles/ownli-nationwide-launch-commission-free-real-estate-platform-43-states/",
-        "what": "Ownli launches its commission-free real estate platform across 43 states with 500,000 listings, challenging the commission model.",
-        "numbers": "43, 500,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ownli-nationwide-launch-commission-free-real-estate-platform-43-states/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "14% of Home-Sale Agreements Fell Through Last Month–A Record for February",
@@ -315,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "MISMO publishes ALTA title and settlement datasets for review",
+        "url": "https://www.housingwire.com/articles/mismo-alta-title-settlement-standards/",
+        "what": "MISMO released ALTA Title Policy and Settlement Statement datasets in candidate recommendation status, opening review and early adoption.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mismo-alta-title-settlement-standards/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "HomeLight says more buyers are hungry for down payment help in 2026",
+        "url": "https://www.housingwire.com/articles/homelight-down-payment-assistance-2026/",
+        "what": "HomeLight's Q2 2026 survey shows 33% of borrowers ask about down payment assistance and 45% ask about zero-down programs.",
+        "numbers": "2, 2026, 33, 45",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homelight-down-payment-assistance-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Applications fall 10.5% as 30-year fixed rate moves higher",
         "url": "https://www.housingwire.com/articles/mortgage-applications-fall/",
         "what": "MBA’s weekly survey for the week ending March 20, 2026 shows applications fell 10.5% as the 30-year fixed increased to 6.43%.",
@@ -329,24 +347,6 @@
         "what": "Better’s NEO Home Loans will offer HighTechLending’s EquitySelect HELOC, targeting borrowers with strong credit facing DTI limits.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/better-hightechlending-equityselect-heloc/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How mentorship, not recruiting alone, builds strong loan officers",
-        "url": "https://www.housingwire.com/articles/how-mentorship-not-recruiting-alone-builds-strong-loan-officers/",
-        "what": "You can measure recruiting",
-        "numbers": "4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/how-mentorship-not-recruiting-alone-builds-strong-loan-officers/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Why modular construction fits high-cost custom markets",
-        "url": "https://www.housingwire.com/articles/plant-prefab-modular-panelized-construction/",
-        "what": "Plant Prefab says modular and panelized methods cut build time 25% to 50% and reduce waste about 40% per square foot.",
-        "numbers": "25, 50, 40",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/plant-prefab-modular-panelized-construction/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
