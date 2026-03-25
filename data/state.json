@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-25 17:17 UTC",
+  "as_of": "2026-03-25 19:11 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "One group drove U.S. homeownership gains in 2025 — and it wasn’t who you think",
+      "link": "https://www.housingwire.com/articles/one-group-drove-u-s-homeownership-gains-in-2025-and-it-wasnt-who-you-think/",
+      "published": "Wed, 25 Mar 2026"
+    },
+    {
+      "title": "11 tips for pricing homes in a low-turnover market",
+      "link": "https://www.housingwire.com/articles/11-tips-for-pricing-homes-in-a-low-turnover-market/",
+      "published": "Wed, 25 Mar 2026"
+    },
+    {
+      "title": "Waterstone Mortgage taps Friday Harbor AI to boost underwriting capacity",
+      "link": "https://www.housingwire.com/articles/waterstone-mortgage-adopts-friday-harbor-ai-pre-underwriting/",
+      "published": "Wed, 25 Mar 2026"
+    },
+    {
       "title": "MISMO publishes ALTA title and settlement datasets for review",
       "link": "https://www.housingwire.com/articles/mismo-alta-title-settlement-standards/",
       "published": "Wed, 25 Mar 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Virginia widow sues HUD and lenders, alleging wrongful reverse mortgage foreclosure",
       "link": "https://www.housingwire.com/articles/virginia-widow-hud-hecm-lawsuit/",
-      "published": "Wed, 25 Mar 2026"
-    },
-    {
-      "title": "Summit Funding to lay off staff amid CCM deal",
-      "link": "https://www.housingwire.com/articles/summit-warn-notice-layoffs/",
-      "published": "Wed, 25 Mar 2026"
-    },
-    {
-      "title": "HomeLight says more buyers are hungry for down payment help in 2026",
-      "link": "https://www.housingwire.com/articles/homelight-down-payment-assistance-2026/",
-      "published": "Wed, 25 Mar 2026"
-    },
-    {
-      "title": "States bet on by-right housing projects on church land",
-      "link": "https://www.housingwire.com/articles/church-land-housing-laws/",
       "published": "Wed, 25 Mar 2026"
     },
     {
@@ -223,6 +223,15 @@
     ],
     "housing": [
       {
+        "title": "Waterstone Mortgage taps Friday Harbor AI to boost underwriting capacity",
+        "url": "https://www.housingwire.com/articles/waterstone-mortgage-adopts-friday-harbor-ai-pre-underwriting/",
+        "what": "Waterstone Mortgage is using Friday Harbor’s AI platform to improve file quality, cut conditions and expand underwriting capacity.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/waterstone-mortgage-adopts-friday-harbor-ai-pre-underwriting/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Zillow Preview adds Engel & Völkers, BHHS, SERHANT., Samson Properties, 20 more firms",
         "url": "https://www.housingwire.com/articles/zillow-preview-24-firms/",
         "what": "Zillow says 24 more firms joined Zillow Preview, giving Zillow exclusive display of coming soon listings, with rollout expected next month.",
@@ -268,15 +277,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Yellow pad math can explain a lot about homebuilder decisions",
-        "url": "https://www.housingwire.com/articles/yellow-pad-math-can-explain-a-lot-about-homebuilder-decisions/",
-        "what": "If you don’t understand the math, you just don’t understand A number of years ago, when I moved from California to the East Coast, I struggled to understand why the builders seemed to think so differently about their projects than I was used to",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/yellow-pad-math-can-explain-a-lot-about-homebuilder-decisions/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "14% of Home-Sale Agreements Fell Through Last Month–A Record for February",
         "url": "https://www.redfin.com/news/contract-cancellations-february-2026/",
         "what": "House hunters have the upper hand, allowing them to abandon deals over price, repairs or second thoughts",
@@ -315,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "One group drove U.S. homeownership gains in 2025 — and it wasn’t who you think",
+        "url": "https://www.housingwire.com/articles/one-group-drove-u-s-homeownership-gains-in-2025-and-it-wasnt-who-you-think/",
+        "what": "Nearly every real estate practitioner interviewed for NAHREP’s report said immigration enforcement fears impacted their Hispanic clients.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/one-group-drove-u-s-homeownership-gains-in-2025-and-it-wasnt-who-you-think/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "11 tips for pricing homes in a low-turnover market",
+        "url": "https://www.housingwire.com/articles/11-tips-for-pricing-homes-in-a-low-turnover-market/",
+        "what": "In a low-turnover market with limited comps, agents can use 11 strategies to price accurately and improve demand.",
+        "numbers": "11",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/11-tips-for-pricing-homes-in-a-low-turnover-market/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "MISMO publishes ALTA title and settlement datasets for review",
         "url": "https://www.housingwire.com/articles/mismo-alta-title-settlement-standards/",
         "what": "MISMO released ALTA Title Policy and Settlement Statement datasets in candidate recommendation status, opening review and early adoption.",
@@ -329,24 +347,6 @@
         "what": "HomeLight's Q2 2026 survey shows 33% of borrowers ask about down payment assistance and 45% ask about zero-down programs.",
         "numbers": "2, 2026, 33, 45",
         "justified": "housingwire.com — https://www.housingwire.com/articles/homelight-down-payment-assistance-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Applications fall 10.5% as 30-year fixed rate moves higher",
-        "url": "https://www.housingwire.com/articles/mortgage-applications-fall/",
-        "what": "MBA’s weekly survey for the week ending March 20, 2026 shows applications fell 10.5% as the 30-year fixed increased to 6.43%.",
-        "numbers": "20,, 2026, 10.5, 30, 6.43",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-fall/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "HighTechLending and Better partner to expand EquitySelect HELOC",
-        "url": "https://www.housingwire.com/articles/better-hightechlending-equityselect-heloc/",
-        "what": "Better’s NEO Home Loans will offer HighTechLending’s EquitySelect HELOC, targeting borrowers with strong credit facing DTI limits.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-hightechlending-equityselect-heloc/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
