@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-26 05:49 UTC",
+  "as_of": "2026-03-26 07:36 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Insurance is having a growing impact on condo affordability",
+      "link": "https://www.housingwire.com/articles/insurance-is-having-a-growing-impact-on-condo-affordability/",
+      "published": "Thu, 26 Mar 2026"
+    },
+    {
       "title": "Regional markets back demand resilience as rate pressure builds",
       "link": "https://www.housingwire.com/articles/regional-markets-back-demand-resilience-as-rate-pressure-builds/",
       "published": "Wed, 25 Mar 2026"
@@ -162,11 +167,6 @@
     {
       "title": "States push back on buyer agreements as new laws challenge NAR rules",
       "link": "https://www.housingwire.com/articles/states-override-nar-buyer-agreement/",
-      "published": "Wed, 25 Mar 2026"
-    },
-    {
-      "title": "US Mortgage hit with class-action suit over May 2025 data breach",
-      "link": "https://www.housingwire.com/articles/us-mortgage-breach-lawsuit/",
       "published": "Wed, 25 Mar 2026"
     },
     {
@@ -232,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "Insurance is having a growing impact on condo affordability",
+        "url": "https://www.housingwire.com/articles/insurance-is-having-a-growing-impact-on-condo-affordability/",
+        "what": "On Wednesday, Fannie Mae and Freddie Mac adopted extensive changes to their requirements for approvals of condominium projects that are eligible for their loan purchase",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/insurance-is-having-a-growing-impact-on-condo-affordability/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Former Fannie Mae CEO Hugh Frater joins Better board",
         "url": "https://www.housingwire.com/articles/hugh-frater-joins-better-board/",
         "what": "Frater, whose role was effective March 23, brings experience spanning mortgage-backed securities and commercial real estate lending.",
@@ -246,15 +255,6 @@
         "what": "Suit alleges a May 2025 hack exposed US Mortgage employee data, claims weak controls and delayed notice, and seeks $5 million plus reforms.",
         "numbers": "2025, $5 million",
         "justified": "housingwire.com — https://www.housingwire.com/articles/us-mortgage-breach-lawsuit/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Waterstone Mortgage taps Friday Harbor AI to boost underwriting capacity",
-        "url": "https://www.housingwire.com/articles/waterstone-mortgage-adopts-friday-harbor-ai-pre-underwriting/",
-        "what": "Waterstone Mortgage is using Friday Harbor’s AI platform to improve file quality, cut conditions and expand underwriting capacity.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/waterstone-mortgage-adopts-friday-harbor-ai-pre-underwriting/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
