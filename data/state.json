@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-03-30 19:19 UTC",
+  "as_of": "2026-03-30 21:57 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.42,
-      "delta_bp_1d": 8.999999999999986
+      "yield_pct": 4.44,
+      "delta_bp_1d": 2.000000000000046
     },
     "mortgage_30y": {
       "rate_pct": 6.38,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "How Boomer housing dominance is forcing agents to retool",
+      "title": "Policy turmoil, fiscal uncertainty cause retirement hesitation",
+      "link": "https://www.housingwire.com/articles/policy-turmoil-fiscal-uncertainty-cause-retirement-hesitation/",
+      "published": "Mon, 30 Mar 2026"
+    },
+    {
+      "title": "Compass International Holdings names Rory Golod president of growth",
+      "link": "https://www.housingwire.com/articles/rory-golod-cih-growth/",
+      "published": "Mon, 30 Mar 2026"
+    },
+    {
+      "title": "Austin council pushes new zoning laws for missing middle housing",
+      "link": "https://www.housingwire.com/articles/austin-zoning-missing-middle/",
+      "published": "Mon, 30 Mar 2026"
+    },
+    {
+      "title": "How the ROAD to Housing Act could improve home affordability",
+      "link": "https://www.housingwire.com/articles/how-the-road-to-housing-act-could-improve-home-affordability/",
+      "published": "Mon, 30 Mar 2026"
+    },
+    {
+      "title": "Lennar KB Home synergies could mirror the CalAtlantic playbook",
+      "link": "https://www.housingwire.com/articles/lennar-kb-home-deal/",
+      "published": "Mon, 30 Mar 2026"
+    },
+    {
+      "title": "How boomer housing dominance is forcing real estate agents to retool",
       "link": "https://www.housingwire.com/articles/how-boomer-housing-dominance-is-forcing-agents-to-retool/",
-      "published": "Mon, 30 Mar 2026"
-    },
-    {
-      "title": "ALTA renews TrustLink as elite provider for 2026",
-      "link": "https://www.housingwire.com/articles/alta-renews-trustlink-elite-provider-2026/",
-      "published": "Mon, 30 Mar 2026"
-    },
-    {
-      "title": "Citywide Home Mortgage promotes Robert Coomer to chief growth officer",
-      "link": "https://www.housingwire.com/articles/citywide-home-mortgage-robert-coomer-chief-growth-officer/",
-      "published": "Mon, 30 Mar 2026"
-    },
-    {
-      "title": "Argyle integrates with Vesta LOS to streamline mortgage verification workflows",
-      "link": "https://www.housingwire.com/articles/argyle-vesta-los-integration-direct-source-income-employment-asset-verification/",
-      "published": "Mon, 30 Mar 2026"
-    },
-    {
-      "title": "NHCA aims to connect Hispanic construction workers and housing pros",
-      "link": "https://www.housingwire.com/articles/nhca-aims-to-connect-hispanic-construction-workers-and-housing-pros/",
-      "published": "Mon, 30 Mar 2026"
-    },
-    {
-      "title": "loanDepot expands builder partnership channel with Betenbough joint venture in Texas",
-      "link": "https://www.housingwire.com/articles/loandepot-betenbough-olive-branch-home-loans-west-texas/",
       "published": "Mon, 30 Mar 2026"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Louisiana judge dismisses antitrust suit over NAR membership rules",
-        "url": "https://www.housingwire.com/articles/louisiana-dismisses-nar-membership/",
-        "what": "A Louisiana federal judge dismissed DeYoung claims tied to NAR three way membership, ending federal antitrust counts against NAR.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/louisiana-dismisses-nar-membership/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Market Jitters Drive Mortgage Rates Up, Sending Some Would-Be Homebuyers to the Sidelines",
         "url": "https://www.redfin.com/news/housing-market-update-market-jitters-mortgage-rates/",
         "what": "Higher housing costs, along with economic uncertainty that comes with the Iran war, are causing some house hunters to think twice",
@@ -228,20 +219,38 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-market-jitters-mortgage-rates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Redfin Economists’ Weekly Take: Iran War Drives Rate Volatility",
-        "url": "https://www.redfin.com/news/weekly-economic-update-march-23-2026/",
-        "what": "This Week In A Nutshell: The Iran War continues to fuel market volatility as it enters its fourth week, particularly as the White House signals it is seeking a resolution",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-march-23-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
       {
-        "title": "How Boomer housing dominance is forcing agents to retool",
+        "title": "Austin council pushes new zoning laws for missing middle housing",
+        "url": "https://www.housingwire.com/articles/austin-zoning-missing-middle/",
+        "what": "Austin city lawmakers bent on ensuring the Texas capital sustains momentum in a housing supply expansion that cuts into a home shortage and slows price growth took another step last week",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/austin-zoning-missing-middle/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "How the ROAD to Housing Act could improve home affordability",
+        "url": "https://www.housingwire.com/articles/how-the-road-to-housing-act-could-improve-home-affordability/",
+        "what": "The ROAD act targets a 37% affordability gap with supply incentives, ADU support and small dollar mortgage fixes, with limits.",
+        "numbers": "37",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/how-the-road-to-housing-act-could-improve-home-affordability/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Lennar KB Home synergies could mirror the CalAtlantic playbook",
+        "url": "https://www.housingwire.com/articles/lennar-kb-home-deal/",
+        "what": "The U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lennar-kb-home-deal/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "How boomer housing dominance is forcing real estate agents to retool",
         "url": "https://www.housingwire.com/articles/how-boomer-housing-dominance-is-forcing-agents-to-retool/",
         "what": "Top-producing agents told HousingWire the industry is pivoting toward multi-generational advisory work, and research has confirmed why.",
         "numbers": "",
@@ -268,15 +277,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "loanDepot expands builder partnership channel with Betenbough joint venture in Texas",
-        "url": "https://www.housingwire.com/articles/loandepot-betenbough-olive-branch-home-loans-west-texas/",
-        "what": "loanDepot has partnered with Betenbough Companies to launch Olive Branch Home Loans, a new mortgage company that will serve homebuyers across West Texas.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/loandepot-betenbough-olive-branch-home-loans-west-texas/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Over Half of Home Listings Have Been Lingering on the Market For More Than 2 Months",
         "url": "https://www.redfin.com/news/stale-housing-inventory-february-2026/",
         "what": "In dollar terms, there’s $347 billion worth of stale listings in the U.S., more than ever before for this time of year",
@@ -284,24 +284,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/stale-housing-inventory-february-2026/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Realtor.com launches ChatGPT app for home search planning",
-        "url": "https://www.housingwire.com/articles/realtorcom-chatgpt-app-launch/",
-        "what": "Realtor.com launches a ChatGPT app with limited listing previews and a ban on using MLS data for training AI models.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realtorcom-chatgpt-app-launch/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "C2 Financial’s Shain Urwin on evolving reverse mortgage broker-lender ties",
-        "url": "https://www.housingwire.com/articles/reverse-mortgage-broker-lender-shain-urwin-c2-financial/",
-        "what": "Shain Urwin says new broker protections help, but refinance churning is a problem and the industry must win new reverse mortgage borrowers.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-broker-lender-shain-urwin-c2-financial/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "14% of Home-Sale Agreements Fell Through Last Month–A Record for February",
@@ -324,20 +306,29 @@
     ],
     "notables": [
       {
+        "title": "Policy turmoil, fiscal uncertainty cause retirement hesitation",
+        "url": "https://www.housingwire.com/articles/policy-turmoil-fiscal-uncertainty-cause-retirement-hesitation/",
+        "what": "Findings from a recent survey show 21% of unretired respondents postponing retirement and 33% moving to safer portfolios.",
+        "numbers": "21, 33",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/policy-turmoil-fiscal-uncertainty-cause-retirement-hesitation/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Compass International Holdings names Rory Golod president of growth",
+        "url": "https://www.housingwire.com/articles/rory-golod-cih-growth/",
+        "what": "CIH names Rory Golod president of growth, targeting Compass platform adoption for 340,000 agents in 2026 and 2027.",
+        "numbers": "340,000, 2026, 2027.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rory-golod-cih-growth/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "ALTA renews TrustLink as elite provider for 2026",
         "url": "https://www.housingwire.com/articles/alta-renews-trustlink-elite-provider-2026/",
         "what": "ALTA has renewed TrustLink as an Elite Provider, extending trust accounting and reconciliation benefits and fee waivers to ALTA members.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/alta-renews-trustlink-elite-provider-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Feeling stuck in a slow market? Harrison Ford’s story offers a reset",
-        "url": "https://www.housingwire.com/articles/agents-persist-slow-years/",
-        "what": "Harrison Ford said it took 15 years before his breakthrough, a case for steady practice, coaching, and systems during slow markets.",
-        "numbers": "15",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/agents-persist-slow-years/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
