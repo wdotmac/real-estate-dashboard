@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-30 14:02 UTC",
+  "as_of": "2026-03-30 15:40 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Feeling stuck in a slow market? Harrison Ford’s story offers a reset",
+      "link": "https://www.housingwire.com/articles/agents-persist-slow-years/",
+      "published": "Mon, 30 Mar 2026"
+    },
+    {
+      "title": "Louisiana judge dismisses antitrust suit over NAR membership rules",
+      "link": "https://www.housingwire.com/articles/louisiana-dismisses-nar-membership/",
+      "published": "Mon, 30 Mar 2026"
+    },
+    {
       "title": "Realtor.com launches ChatGPT app for home search planning",
       "link": "https://www.housingwire.com/articles/realtorcom-chatgpt-app-launch/",
       "published": "Mon, 30 Mar 2026"
@@ -158,16 +168,6 @@
       "title": "The overlooked notarizations quietly slowing mortgage workflows",
       "link": "https://www.housingwire.com/articles/the-overlooked-notarizations-quietly-slowing-mortgage-workflows/",
       "published": "Mon, 30 Mar 2026"
-    },
-    {
-      "title": "Housing demand holds up despite mortgage rates at yearly highs",
-      "link": "https://www.housingwire.com/articles/housing-demand-holds-up-despite-mortgage-rates-at-yearly-highs/",
-      "published": "Sat, 28 Mar 2026"
-    },
-    {
-      "title": "Florida: In choppy 2026, one state is many homebuilding markets",
-      "link": "https://www.housingwire.com/articles/florida-homebuilding-market/",
-      "published": "Fri, 27 Mar 2026"
     },
     {
       "title": "Over Half of Home Listings Have Been Lingering on the Market For More Than 2 Months",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Louisiana judge dismisses antitrust suit over NAR membership rules",
+        "url": "https://www.housingwire.com/articles/louisiana-dismisses-nar-membership/",
+        "what": "A Louisiana federal judge dismissed DeYoung claims tied to NAR three way membership, ending federal antitrust counts against NAR.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/louisiana-dismisses-nar-membership/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Housing demand holds up despite mortgage rates at yearly highs",
         "url": "https://www.housingwire.com/articles/housing-demand-holds-up-despite-mortgage-rates-at-yearly-highs/",
@@ -286,15 +295,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "BuildersUpdate pay-at-closing model targets builders’ marketing risk",
-        "url": "https://www.housingwire.com/articles/buildersupdate-pay-upon-performance-model-new-home-marketin/",
-        "what": "BuildersUpdate.com has rolled out a “pay upon performance” model that shifts new-home marketing costs from upfront spend to a flat fee due only when a sale closes, aiming squarely at builders’ growing concern over wasted lead-gen dollars in a choppy demand and rate environment",
-        "numbers": "26,, 2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/buildersupdate-pay-upon-performance-model-new-home-marketin/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "14% of Home-Sale Agreements Fell Through Last Month–A Record for February",
         "url": "https://www.redfin.com/news/contract-cancellations-february-2026/",
         "what": "House hunters have the upper hand, allowing them to abandon deals over price, repairs or second thoughts",
@@ -315,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "Feeling stuck in a slow market? Harrison Ford’s story offers a reset",
+        "url": "https://www.housingwire.com/articles/agents-persist-slow-years/",
+        "what": "Harrison Ford said it took 15 years before his breakthrough, a case for steady practice, coaching, and systems during slow markets.",
+        "numbers": "15",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/agents-persist-slow-years/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "DeCaro Auctions expands executive team",
         "url": "https://www.housingwire.com/articles/decaro-auctions-expands-executive-team/",
         "what": "New appointments include chief operating officer, chief marketing officer and head of global alliances and partnerships.",
@@ -331,15 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/washington-noncompete-ban/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "FinCEN’s anti-money laundering rule struck down: what real estate and title professionals need to know",
-        "url": "https://www.housingwire.com/articles/fincens-anti-money-laundering-rule-struck-down-now-what/",
-        "what": "Legal observers warn that FinCEN retains broad authority over real estate transactions",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fincens-anti-money-laundering-rule-struck-down-now-what/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
