@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-30 09:47 UTC",
+  "as_of": "2026-03-30 11:18 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Realtor.com launches ChatGPT app for home search planning",
+      "link": "https://www.housingwire.com/articles/realtorcom-chatgpt-app-launch/",
+      "published": "Mon, 30 Mar 2026"
+    },
+    {
+      "title": "C2 Financial’s Shain Urwin on evolving reverse mortgage broker-lender ties",
+      "link": "https://www.housingwire.com/articles/reverse-mortgage-broker-lender-shain-urwin-c2-financial/",
+      "published": "Mon, 30 Mar 2026"
+    },
+    {
       "title": "AI can accelerate real estate transactions — But it can’t replace the professional work that protects property rights",
       "link": "https://www.housingwire.com/articles/ai-can-accelerate-real-estate-transactions-but-it-cant-replace-the-professional-work-that-protects-property-rights/",
       "published": "Mon, 30 Mar 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Florida: In choppy 2026, one state is many homebuilding markets",
       "link": "https://www.housingwire.com/articles/florida-homebuilding-market/",
-      "published": "Fri, 27 Mar 2026"
-    },
-    {
-      "title": "DeCaro Auctions expands executive team",
-      "link": "https://www.housingwire.com/articles/decaro-auctions-expands-executive-team/",
-      "published": "Fri, 27 Mar 2026"
-    },
-    {
-      "title": "Washington just banned noncompete agreements. Will other states follow suit?",
-      "link": "https://www.housingwire.com/articles/washington-noncompete-ban/",
       "published": "Fri, 27 Mar 2026"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Even as GSEs step into MBS market, macro forces are controlling mortgage rates",
-        "url": "https://www.housingwire.com/articles/gse-mbs-purchases-fannie-freddie/",
-        "what": "Fannie Mae and Freddie Mac have been active in the mortgage-backed securities market in recent weeks — but their approach appears more measured and opportunistic than many initially expected",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/gse-mbs-purchases-fannie-freddie/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Market Jitters Drive Mortgage Rates Up, Sending Some Would-Be Homebuyers to the Sidelines",
         "url": "https://www.redfin.com/news/housing-market-update-market-jitters-mortgage-rates/",
         "what": "Higher housing costs, along with economic uncertainty that comes with the Iran war, are causing some house hunters to think twice",
@@ -240,6 +231,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Realtor.com launches ChatGPT app for home search planning",
+        "url": "https://www.housingwire.com/articles/realtorcom-chatgpt-app-launch/",
+        "what": "Realtor.com launches a ChatGPT app with limited listing previews and a ban on using MLS data for training AI models.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/realtorcom-chatgpt-app-launch/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "C2 Financial’s Shain Urwin on evolving reverse mortgage broker-lender ties",
+        "url": "https://www.housingwire.com/articles/reverse-mortgage-broker-lender-shain-urwin-c2-financial/",
+        "what": "Shain Urwin says new broker protections help, but refinance churning is a problem and the industry must win new reverse mortgage borrowers.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-broker-lender-shain-urwin-c2-financial/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "AI can accelerate real estate transactions — But it can’t replace the professional work that protects property rights",
         "url": "https://www.housingwire.com/articles/ai-can-accelerate-real-estate-transactions-but-it-cant-replace-the-professional-work-that-protects-property-rights/",
@@ -273,15 +282,6 @@
         "what": "BuildersUpdate.com has rolled out a “pay upon performance” model that shifts new-home marketing costs from upfront spend to a flat fee due only when a sale closes, aiming squarely at builders’ growing concern over wasted lead-gen dollars in a choppy demand and rate environment",
         "numbers": "26,, 2026,",
         "justified": "housingwire.com — https://www.housingwire.com/articles/buildersupdate-pay-upon-performance-model-new-home-marketin/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Florida court shields unused reverse mortgage credit from garnishment",
-        "url": "https://www.housingwire.com/articles/florida-reverse-mortgage-homestead/",
-        "what": "Appeals court rules creditors cannot garnish undisbursed HECM line of credit funds under Florida homestead exemption.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/florida-reverse-mortgage-homestead/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
