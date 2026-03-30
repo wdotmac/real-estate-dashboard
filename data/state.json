@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-30 06:06 UTC",
+  "as_of": "2026-03-30 09:47 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "AI can accelerate real estate transactions — But it can’t replace the professional work that protects property rights",
+      "link": "https://www.housingwire.com/articles/ai-can-accelerate-real-estate-transactions-but-it-cant-replace-the-professional-work-that-protects-property-rights/",
+      "published": "Mon, 30 Mar 2026"
+    },
+    {
+      "title": "The overlooked notarizations quietly slowing mortgage workflows",
+      "link": "https://www.housingwire.com/articles/the-overlooked-notarizations-quietly-slowing-mortgage-workflows/",
+      "published": "Mon, 30 Mar 2026"
+    },
+    {
       "title": "Housing demand holds up despite mortgage rates at yearly highs",
       "link": "https://www.housingwire.com/articles/housing-demand-holds-up-despite-mortgage-rates-at-yearly-highs/",
       "published": "Sat, 28 Mar 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Washington just banned noncompete agreements. Will other states follow suit?",
       "link": "https://www.housingwire.com/articles/washington-noncompete-ban/",
-      "published": "Fri, 27 Mar 2026"
-    },
-    {
-      "title": "BuildersUpdate pay-at-closing model targets builders’ marketing risk",
-      "link": "https://www.housingwire.com/articles/buildersupdate-pay-upon-performance-model-new-home-marketin/",
-      "published": "Fri, 27 Mar 2026"
-    },
-    {
-      "title": "FinCEN’s anti-money laundering rule struck down: what real estate and title professionals need to know",
-      "link": "https://www.housingwire.com/articles/fincens-anti-money-laundering-rule-struck-down-now-what/",
       "published": "Fri, 27 Mar 2026"
     },
     {
@@ -241,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "AI can accelerate real estate transactions — But it can’t replace the professional work that protects property rights",
+        "url": "https://www.housingwire.com/articles/ai-can-accelerate-real-estate-transactions-but-it-cant-replace-the-professional-work-that-protects-property-rights/",
+        "what": "Artificial intelligence is transforming nearly every corner of the housing industry",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-can-accelerate-real-estate-transactions-but-it-cant-replace-the-professional-work-that-protects-property-rights/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "The overlooked notarizations quietly slowing mortgage workflows",
+        "url": "https://www.housingwire.com/articles/the-overlooked-notarizations-quietly-slowing-mortgage-workflows/",
+        "what": "Lenders have made meaningful progress modernizing the closing process",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-overlooked-notarizations-quietly-slowing-mortgage-workflows/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Florida: In choppy 2026, one state is many homebuilding markets",
         "url": "https://www.housingwire.com/articles/florida-homebuilding-market/",
         "what": "Southwest Florida metros saw the steepest drops in 2025, led by Punta Gorda at -11.93%, as insurance and inventory weigh on demand",
@@ -266,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/florida-reverse-mortgage-homestead/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "CoStar says Zillow copyright infringement now tops 53,000 photos",
-        "url": "https://www.housingwire.com/articles/costar-zillow-53000-photos/",
-        "what": "CoStar amended its Zillow lawsuit, alleging infringement of 53,000+ watermarked photos across Zillow and syndication partners.",
-        "numbers": "53,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-zillow-53000-photos/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "14% of Home-Sale Agreements Fell Through Last Month–A Record for February",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/fincens-anti-money-laundering-rule-struck-down-now-what/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "The case for seller choice: Why exposure is a strategy and not a setting",
-        "url": "https://www.housingwire.com/articles/private-listings-vs-mls/",
-        "what": "A Compass manager's response to Gary Keller: MLS exposure is not always optimal, and warns price cuts erode leverage.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/private-listings-vs-mls/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
