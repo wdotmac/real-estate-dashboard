@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-31 07:44 UTC",
+  "as_of": "2026-03-31 09:17 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The AI-native mortgage: Supporting intelligent, compliant adoption",
+      "link": "https://www.housingwire.com/articles/ai-native-mortgage-intelligent-compliant-adoption/",
+      "published": "Tue, 31 Mar 2026"
+    },
+    {
       "title": "The ‘end-to-end’ title tech system has given way to something better",
       "link": "https://www.housingwire.com/articles/the-end-to-end-title-tech-system-has-given-way-to-something-better/",
       "published": "Tue, 31 Mar 2026"
@@ -162,11 +167,6 @@
     {
       "title": "How the ROAD to Housing Act could improve home affordability",
       "link": "https://www.housingwire.com/articles/how-the-road-to-housing-act-could-improve-home-affordability/",
-      "published": "Mon, 30 Mar 2026"
-    },
-    {
-      "title": "Lennar KB Home synergies could mirror the CalAtlantic playbook",
-      "link": "https://www.housingwire.com/articles/lennar-kb-home-deal/",
       "published": "Mon, 30 Mar 2026"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Argyle integrates with Vesta LOS to streamline mortgage verification workflows",
-        "url": "https://www.housingwire.com/articles/argyle-vesta-los-integration-direct-source-income-employment-asset-verification/",
-        "what": "Argyle has integrated its direct-source income, employment and asset verification tools into Vesta’s loan origination system.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/argyle-vesta-los-integration-direct-source-income-employment-asset-verification/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Market Jitters Drive Mortgage Rates Up, Sending Some Would-Be Homebuyers to the Sidelines",
         "url": "https://www.redfin.com/news/housing-market-update-market-jitters-mortgage-rates/",
         "what": "Higher housing costs, along with economic uncertainty that comes with the Iran war, are causing some house hunters to think twice",
@@ -222,6 +213,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "The AI-native mortgage: Supporting intelligent, compliant adoption",
+        "url": "https://www.housingwire.com/articles/ai-native-mortgage-intelligent-compliant-adoption/",
+        "what": "ICE embeds agentic AI into Encompass and MSP to automate workflows, with governance, audit logs, and human approvals.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-native-mortgage-intelligent-compliant-adoption/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Austin council pushes new zoning laws for missing middle housing",
         "url": "https://www.housingwire.com/articles/austin-zoning-missing-middle/",
