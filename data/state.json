@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-31 11:10 UTC",
+  "as_of": "2026-03-31 15:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Homeowner Assistance Fund backstopped vulnerable borrowers, study finds",
+      "link": "https://www.housingwire.com/articles/homeowner-assistance-fund-backstop/",
+      "published": "Tue, 31 Mar 2026"
+    },
+    {
+      "title": "Case-Shiller index shows home price growth cooled further in January",
+      "link": "https://www.housingwire.com/articles/case-shiller-january-home-prices/",
+      "published": "Tue, 31 Mar 2026"
+    },
+    {
+      "title": "DC-area agent launches hyperlocal site to explain post-NAR commission changes",
+      "link": "https://www.housingwire.com/articles/dc-agent-launches-ai-built-hyperlocal-real-estate-education-site/",
+      "published": "Tue, 31 Mar 2026"
+    },
+    {
+      "title": "Study: Most real estate deals require multiple curative steps before title insurance",
+      "link": "https://www.housingwire.com/articles/alta-study-title-production-complexity-curative-work/",
+      "published": "Tue, 31 Mar 2026"
+    },
+    {
       "title": "HousingWire Mortgage Rankings have arrived, bringing data-driven benchmark to originator performance",
       "link": "https://www.housingwire.com/articles/housingwire-ingenius-mortgage-rankings/",
       "published": "Tue, 31 Mar 2026"
@@ -150,24 +170,9 @@
       "published": "Tue, 31 Mar 2026"
     },
     {
-      "title": "The ‘end-to-end’ title tech system has given way to something better",
-      "link": "https://www.housingwire.com/articles/the-end-to-end-title-tech-system-has-given-way-to-something-better/",
+      "title": "Cleveland Remains a Beacon of Affordability for Homebuyers",
+      "link": "https://www.redfin.com/news/cleveland-remains-a-beacon-of-affordability-for-homebuyers/",
       "published": "Tue, 31 Mar 2026"
-    },
-    {
-      "title": "Policy turmoil, fiscal uncertainty cause retirement hesitation",
-      "link": "https://www.housingwire.com/articles/policy-turmoil-fiscal-uncertainty-cause-retirement-hesitation/",
-      "published": "Mon, 30 Mar 2026"
-    },
-    {
-      "title": "Compass International Holdings names Rory Golod president of growth",
-      "link": "https://www.housingwire.com/articles/rory-golod-cih-growth/",
-      "published": "Mon, 30 Mar 2026"
-    },
-    {
-      "title": "Austin council pushes new zoning laws for missing middle housing",
-      "link": "https://www.housingwire.com/articles/austin-zoning-missing-middle/",
-      "published": "Mon, 30 Mar 2026"
     },
     {
       "title": "Over Half of Home Listings Have Been Lingering on the Market For More Than 2 Months",
@@ -193,11 +198,6 @@
       "title": "Redfin Economists’ Weekly Take: Iran War Drives Rate Volatility",
       "link": "https://www.redfin.com/news/weekly-economic-update-march-23-2026/",
       "published": "Mon, 23 Mar 2026"
-    },
-    {
-      "title": "There Are 630,000 More Home Sellers Than Buyers—the Biggest Gap on Record",
-      "link": "https://www.redfin.com/news/buyers-vs-sellers-february-2026/",
-      "published": "Mon, 23 Mar 2026"
     }
   ],
   "feed_101020": {
@@ -213,6 +213,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Cleveland Remains a Beacon of Affordability for Homebuyers",
+        "url": "https://www.redfin.com/news/cleveland-remains-a-beacon-of-affordability-for-homebuyers/",
+        "what": "As many Americans consider buying a home this spring, they may want to take a closer look at the Cleveland metro area",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/cleveland-remains-a-beacon-of-affordability-for-homebuyers/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Case-Shiller index shows home price growth cooled further in January",
+        "url": "https://www.housingwire.com/articles/case-shiller-january-home-prices/",
+        "what": "Case-Shiller shows January home prices up 0.9% year over year, 0.2% month over month, with Tampa down 2.5% and NYC up 4.9%.",
+        "numbers": "0.9, 0.2, 2.5, 4.9",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/case-shiller-january-home-prices/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "HousingWire Mortgage Rankings have arrived, bringing data-driven benchmark to originator performance",
         "url": "https://www.housingwire.com/articles/housingwire-ingenius-mortgage-rankings/",
@@ -241,33 +259,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "How the ROAD to Housing Act could improve home affordability",
-        "url": "https://www.housingwire.com/articles/how-the-road-to-housing-act-could-improve-home-affordability/",
-        "what": "The ROAD act targets a 37% affordability gap with supply incentives, ADU support and small dollar mortgage fixes, with limits.",
-        "numbers": "37",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/how-the-road-to-housing-act-could-improve-home-affordability/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Lennar KB Home synergies could mirror the CalAtlantic playbook",
-        "url": "https://www.housingwire.com/articles/lennar-kb-home-deal/",
-        "what": "The U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lennar-kb-home-deal/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "How boomer housing dominance is forcing real estate agents to retool",
-        "url": "https://www.housingwire.com/articles/how-boomer-housing-dominance-is-forcing-agents-to-retool/",
-        "what": "Top-producing agents told HousingWire the industry is pivoting toward multi-generational advisory work, and research has confirmed why.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/how-boomer-housing-dominance-is-forcing-agents-to-retool/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "Over Half of Home Listings Have Been Lingering on the Market For More Than 2 Months",
         "url": "https://www.redfin.com/news/stale-housing-inventory-february-2026/",
         "what": "In dollar terms, there’s $347 billion worth of stale listings in the U.S., more than ever before for this time of year",
@@ -275,27 +266,36 @@
         "justified": "redfin.com — https://www.redfin.com/news/stale-housing-inventory-february-2026/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "14% of Home-Sale Agreements Fell Through Last Month–A Record for February",
-        "url": "https://www.redfin.com/news/contract-cancellations-february-2026/",
-        "what": "House hunters have the upper hand, allowing them to abandon deals over price, repairs or second thoughts",
-        "numbers": "42,000, 13.7, 14",
-        "justified": "redfin.com — https://www.redfin.com/news/contract-cancellations-february-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "U.S. Home Prices Barely Budged in February",
-        "url": "https://www.redfin.com/news/home-price-index-february-2026/",
-        "what": "Home prices rose 0.1% month over month on a seasonally adjusted basis—the slowest growth in seven months",
-        "numbers": "0.1, 16",
-        "justified": "redfin.com — https://www.redfin.com/news/home-price-index-february-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
+      {
+        "title": "Homeowner Assistance Fund backstopped vulnerable borrowers, study finds",
+        "url": "https://www.housingwire.com/articles/homeowner-assistance-fund-backstop/",
+        "what": "RIHA reviews the $10B HAF program, showing 90% of funds went to borrowers below AMI and many had nontraditional financing.",
+        "numbers": "$10, 90",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homeowner-assistance-fund-backstop/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "DC-area agent launches hyperlocal site to explain post-NAR commission changes",
+        "url": "https://www.housingwire.com/articles/dc-agent-launches-ai-built-hyperlocal-real-estate-education-site/",
+        "what": "Real estate agent launches an AI-built, hyperlocal platform to explain post-NAR commission rules, costs and strategy to buyers and sellers.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/dc-agent-launches-ai-built-hyperlocal-real-estate-education-site/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Study: Most real estate deals require multiple curative steps before title insurance",
+        "url": "https://www.housingwire.com/articles/alta-study-title-production-complexity-curative-work/",
+        "what": "ALTA’s new study shows most real estate deals require extensive title research, curative work and fraud prevention before closing.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/alta-study-title-production-complexity-curative-work/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "The ‘end-to-end’ title tech system has given way to something better",
         "url": "https://www.housingwire.com/articles/the-end-to-end-title-tech-system-has-given-way-to-something-better/",
@@ -320,15 +320,6 @@
         "what": "CIH names Rory Golod president of growth, targeting Compass platform adoption for 340,000 agents in 2026 and 2027.",
         "numbers": "340,000, 2026, 2027.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/rory-golod-cih-growth/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "ALTA renews TrustLink as elite provider for 2026",
-        "url": "https://www.housingwire.com/articles/alta-renews-trustlink-elite-provider-2026/",
-        "what": "ALTA has renewed TrustLink as an Elite Provider, extending trust accounting and reconciliation benefits and fee waivers to ALTA members.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/alta-renews-trustlink-elite-provider-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
