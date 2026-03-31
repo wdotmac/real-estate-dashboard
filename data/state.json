@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-31 15:35 UTC",
+  "as_of": "2026-03-31 17:13 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Growing micro markets were a single-family outlier in late 2025",
+      "link": "https://www.housingwire.com/articles/micro-counties-hbgi-growth/",
+      "published": "Tue, 31 Mar 2026"
+    },
+    {
+      "title": "The 94% problem: What real estate agents aren’t being told about MLS success rates",
+      "link": "https://www.housingwire.com/articles/mls-sales-denominator/",
+      "published": "Tue, 31 Mar 2026"
+    },
+    {
+      "title": "Nothing to see in Texas: How a Texas court put AML efforts further behind",
+      "link": "https://www.housingwire.com/articles/nothing-to-see-in-texas/",
+      "published": "Tue, 31 Mar 2026"
+    },
+    {
       "title": "Homeowner Assistance Fund backstopped vulnerable borrowers, study finds",
       "link": "https://www.housingwire.com/articles/homeowner-assistance-fund-backstop/",
       "published": "Tue, 31 Mar 2026"
@@ -152,21 +167,6 @@
     {
       "title": "DC-area agent launches hyperlocal site to explain post-NAR commission changes",
       "link": "https://www.housingwire.com/articles/dc-agent-launches-ai-built-hyperlocal-real-estate-education-site/",
-      "published": "Tue, 31 Mar 2026"
-    },
-    {
-      "title": "Study: Most real estate deals require multiple curative steps before title insurance",
-      "link": "https://www.housingwire.com/articles/alta-study-title-production-complexity-curative-work/",
-      "published": "Tue, 31 Mar 2026"
-    },
-    {
-      "title": "HousingWire Mortgage Rankings have arrived, bringing data-driven benchmark to originator performance",
-      "link": "https://www.housingwire.com/articles/housingwire-ingenius-mortgage-rankings/",
-      "published": "Tue, 31 Mar 2026"
-    },
-    {
-      "title": "The AI-native mortgage: Supporting intelligent, compliant adoption",
-      "link": "https://www.housingwire.com/articles/ai-native-mortgage-intelligent-compliant-adoption/",
       "published": "Tue, 31 Mar 2026"
     },
     {
@@ -202,6 +202,24 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Growing micro markets were a single-family outlier in late 2025",
+        "url": "https://www.housingwire.com/articles/micro-counties-hbgi-growth/",
+        "what": "NAHB’s Home Building Geography Index shows single-family construction weakening across every county type in late 2025 except micro counties, up 1.6%",
+        "numbers": "2025, 1.6, 12.8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/micro-counties-hbgi-growth/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "The 94% problem: What real estate agents aren’t being told about MLS success rates",
+        "url": "https://www.housingwire.com/articles/mls-sales-denominator/",
+        "what": "The 94% sold on MLS talking point uses only closed sales, excluding listings that never sold, which changes the real success rate.",
+        "numbers": "94",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-sales-denominator/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Market Jitters Drive Mortgage Rates Up, Sending Some Would-Be Homebuyers to the Sidelines",
         "url": "https://www.redfin.com/news/housing-market-update-market-jitters-mortgage-rates/",
@@ -250,15 +268,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Austin council pushes new zoning laws for missing middle housing",
-        "url": "https://www.housingwire.com/articles/austin-zoning-missing-middle/",
-        "what": "Austin city lawmakers bent on ensuring the Texas capital sustains momentum in a housing supply expansion that cuts into a home shortage and slows price growth took another step last week",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/austin-zoning-missing-middle/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Over Half of Home Listings Have Been Lingering on the Market For More Than 2 Months",
         "url": "https://www.redfin.com/news/stale-housing-inventory-february-2026/",
         "what": "In dollar terms, there’s $347 billion worth of stale listings in the U.S., more than ever before for this time of year",
@@ -269,6 +278,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Nothing to see in Texas: How a Texas court put AML efforts further behind",
+        "url": "https://www.housingwire.com/articles/nothing-to-see-in-texas/",
+        "what": "A Texas court’s decision to strike down FinCEN’s real estate reporting rule could weaken U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nothing-to-see-in-texas/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Homeowner Assistance Fund backstopped vulnerable borrowers, study finds",
         "url": "https://www.housingwire.com/articles/homeowner-assistance-fund-backstop/",
@@ -302,24 +320,6 @@
         "what": "Not long ago, many technology vendors were selling title professionals on a fairly simple idea: one platform, one vendor, every step of the workflow covered",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/the-end-to-end-title-tech-system-has-given-way-to-something-better/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Policy turmoil, fiscal uncertainty cause retirement hesitation",
-        "url": "https://www.housingwire.com/articles/policy-turmoil-fiscal-uncertainty-cause-retirement-hesitation/",
-        "what": "Findings from a recent survey show 21% of unretired respondents postponing retirement and 33% moving to safer portfolios.",
-        "numbers": "21, 33",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/policy-turmoil-fiscal-uncertainty-cause-retirement-hesitation/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Compass International Holdings names Rory Golod president of growth",
-        "url": "https://www.housingwire.com/articles/rory-golod-cih-growth/",
-        "what": "CIH names Rory Golod president of growth, targeting Compass platform adoption for 340,000 agents in 2026 and 2027.",
-        "numbers": "340,000, 2026, 2027.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rory-golod-cih-growth/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
