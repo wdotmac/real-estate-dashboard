@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-01 09:35 UTC",
+  "as_of": "2026-04-01 11:13 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage rates north of 6.5% trigger sharp drop in applications",
+      "link": "https://www.housingwire.com/articles/mba-applications-slide-rates-rise/",
+      "published": "Wed, 01 Apr 2026"
+    },
+    {
       "title": "California bills target condo deposits and defect liability",
       "link": "https://www.housingwire.com/articles/california-condo-reform-bills/",
       "published": "Tue, 31 Mar 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Immigration policy, economic uncertainty reshaping housing market",
       "link": "https://www.housingwire.com/articles/immigration-policy-economic-uncertainty-reshaping-housing-market/",
-      "published": "Tue, 31 Mar 2026"
-    },
-    {
-      "title": "Keller Williams names Jason Abrams chief industry and strategy officer",
-      "link": "https://www.housingwire.com/articles/jason-abrams-keller-williams-role/",
       "published": "Tue, 31 Mar 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Mortgage rates north of 6.5% trigger sharp drop in applications",
+        "url": "https://www.housingwire.com/articles/mba-applications-slide-rates-rise/",
+        "what": "MBA reports mortgage applications fell 10.4% last week as the 30-year fixed rate rose to 6.57% and refinances fell 17%.",
+        "numbers": "10.4, 30, 6.57, 17",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-applications-slide-rates-rise/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Immigration policy, economic uncertainty reshaping housing market",
         "url": "https://www.housingwire.com/articles/immigration-policy-economic-uncertainty-reshaping-housing-market/",
         "what": "Builders are reporting sales impacts from policy shifts as consumers become increasingly skeptical of traditional “dream home” marketing.",
@@ -237,15 +246,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/micro-counties-hbgi-growth/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "The 94% problem: What real estate agents aren’t being told about MLS success rates",
-        "url": "https://www.housingwire.com/articles/mls-sales-denominator/",
-        "what": "The 94% sold on MLS talking point uses only closed sales, excluding listings that never sold, which changes the real success rate.",
-        "numbers": "94",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-sales-denominator/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Market Jitters Drive Mortgage Rates Up, Sending Some Would-Be Homebuyers to the Sidelines",
