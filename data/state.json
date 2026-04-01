@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-04-01 17:11 UTC",
+  "as_of": "2026-04-01 21:57 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.35,
-      "delta_bp_1d": -9.000000000000075
+      "yield_pct": 4.3,
+      "delta_bp_1d": -4.999999999999982
     },
     "mortgage_30y": {
       "rate_pct": 6.38,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Introducing the 2026 HousingWire Rising Stars!",
-      "link": "https://www.housingwire.com/articles/introducing-the-2026-housingwire-rising-stars/",
+      "title": "Housing market demand is holding, but pricing gaps are breaking deals",
+      "link": "https://www.housingwire.com/articles/housing-market-demand-holding-deals-falling-apart/",
       "published": "Wed, 01 Apr 2026"
     },
     {
-      "title": "REVERSE plus adds Smartfi proprietary products to loan analysis tool",
-      "link": "https://www.housingwire.com/articles/reverse-plus-adds-smartfi-proprietary-reverse-mortgages-analyzer-pro/",
+      "title": "Housing supply summit highlights the cost of complexity",
+      "link": "https://www.housingwire.com/articles/simplify-housing-supply-strategy/",
       "published": "Wed, 01 Apr 2026"
     },
     {
-      "title": "The one daily habit that could put six figures in a real estate pro’s pocket",
-      "link": "https://www.housingwire.com/articles/daily-calls-beat-crms/",
+      "title": "UWM tried for its first acquisition, then its stock fell and the math stopped working",
+      "link": "https://www.housingwire.com/articles/uwm-two-harbors-deal-fails/",
       "published": "Wed, 01 Apr 2026"
     },
     {
-      "title": "Pocket listings can boost sale prices — but Clear Cooperation may have killed the edge, study finds",
-      "link": "https://www.housingwire.com/articles/pocket-listings-premium-dallas/",
+      "title": "First fully rebuilt Palisades home testing post-fire demand",
+      "link": "https://www.housingwire.com/articles/first-fully-rebuilt-palisades-home-testing-post-fire-demand/",
       "published": "Wed, 01 Apr 2026"
     },
     {
-      "title": "Shilo AI tool turns agent calls into personalized coaching playbooks",
-      "link": "https://www.housingwire.com/articles/shilo-signals-disc-profiles-calls/",
+      "title": "Ashton Woods puts pace over margin in a choppy housing market",
+      "link": "https://www.housingwire.com/articles/ashton-woods-earnings-q3-2026/",
       "published": "Wed, 01 Apr 2026"
     },
     {
-      "title": "QXO closes on $2.25 billion Kodiak Building Partners deal",
-      "link": "https://www.housingwire.com/articles/qxo-closes-on-kodiak-building-partners-deal/",
+      "title": "Rocket moves to dismiss RESPA suit, citing safe harbor and lack of injury",
+      "link": "https://www.housingwire.com/articles/rocket-dismiss-respa-lawsuit/",
       "published": "Wed, 01 Apr 2026"
     },
     {
@@ -203,22 +203,13 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "REVERSE plus adds Smartfi proprietary products to loan analysis tool",
-        "url": "https://www.housingwire.com/articles/reverse-plus-adds-smartfi-proprietary-reverse-mortgages-analyzer-pro/",
-        "what": "REVERSE plus integrates Smartfi proprietary reverse mortgages into ANALYZER Pro, letting originators model multiple options side by side.",
+        "title": "Housing market demand is holding, but pricing gaps are breaking deals",
+        "url": "https://www.housingwire.com/articles/housing-market-demand-holding-deals-falling-apart/",
+        "what": "Housing demand is holding as mortgage rates rise",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-plus-adds-smartfi-proprietary-reverse-mortgages-analyzer-pro/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-demand-holding-deals-falling-apart/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Shilo AI tool turns agent calls into personalized coaching playbooks",
-        "url": "https://www.housingwire.com/articles/shilo-signals-disc-profiles-calls/",
-        "what": "Shilo launched Signals, using weeks of call recordings to build DISC profiles with confidence scores and coaching recommendations.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/shilo-signals-disc-profiles-calls/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Market Jitters Drive Mortgage Rates Up, Sending Some Would-Be Homebuyers to the Sidelines",
@@ -232,40 +223,49 @@
     ],
     "housing": [
       {
-        "title": "Introducing the 2026 HousingWire Rising Stars!",
-        "url": "https://www.housingwire.com/articles/introducing-the-2026-housingwire-rising-stars/",
-        "what": "HousingWire’s 2026 Rising Stars recognize leaders age 40 and under who are driving impact across mortgage, real estate and homebuilding",
-        "numbers": "2026, 40",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/introducing-the-2026-housingwire-rising-stars/",
+        "title": "Housing supply summit highlights the cost of complexity",
+        "url": "https://www.housingwire.com/articles/simplify-housing-supply-strategy/",
+        "what": "I love Jerusalem Demsas’ “Housing Breaks People’s Brains” article in The Atlantic from November 2022",
+        "numbers": "2022.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/simplify-housing-supply-strategy/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "First fully rebuilt Palisades home testing post-fire demand",
+        "url": "https://www.housingwire.com/articles/first-fully-rebuilt-palisades-home-testing-post-fire-demand/",
+        "what": "The listing arrives as rebuilding activity gains traction, with roughly 650 permit approvals to date and nearly 475 burned lots having traded.",
+        "numbers": "650, 475",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/first-fully-rebuilt-palisades-home-testing-post-fire-demand/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Ashton Woods puts pace over margin in a choppy housing market",
+        "url": "https://www.housingwire.com/articles/ashton-woods-earnings-q3-2026/",
+        "what": "Ashton Woods Q3 2026 revenue fell 6% to $79.27M as margin slipped to 16.6% and backlog rose to 1,945.",
+        "numbers": "3, 2026, 6, $79.27, 16.6, 1,945.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ashton-woods-earnings-q3-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Atlantic Bay Mortgage Group hires Gregory S. Richardson as CRO",
+        "url": "https://www.housingwire.com/articles/atlantic-bay-mortgage-group-gregory-richardson-chief-revenue-officer/",
+        "what": "In his new role, Richardson will lead enterprise revenue strategy and alignment across production, capital markets, product development and institutional investor relationships.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/atlantic-bay-mortgage-group-gregory-richardson-chief-revenue-officer/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "The one daily habit that could put six figures in a real estate pro’s pocket",
-        "url": "https://www.housingwire.com/articles/daily-calls-beat-crms/",
-        "what": "A 30-day plan urges agents to talk with one buyer and one seller daily, using simple tracking to build pipeline and listings.",
-        "numbers": "30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/daily-calls-beat-crms/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Pocket listings can boost sale prices — but Clear Cooperation may have killed the edge, study finds",
-        "url": "https://www.housingwire.com/articles/pocket-listings-premium-dallas/",
-        "what": "Dallas Fort Worth study of 700,000-plus sales finds off-market homes sold for 1.7% more, but the edge fell after 2020.",
-        "numbers": "700,000, 1.7, 2020.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pocket-listings-premium-dallas/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Opendoor moves into closing and escrow with Doma deal, Fannie Mae partnership",
-        "url": "https://www.housingwire.com/articles/opendoor-acquires-doma-closing-unit-fannie-mae-title-acceptance/",
-        "what": "Opendoor has agreed to acquire the closing and escrow operations of Doma Holdings, a move that would extend the iBuyer’s reach into refinance closings and deeper into title automat",
+        "title": "Dark Matter’s Ask Aiva lets lenders query LOS data in plain language",
+        "url": "https://www.housingwire.com/articles/dark-matter-ask-aiva-ai-assistant-empower-los/",
+        "what": "The technology lets mortgage lenders query their origination environment in plain language and receive instant answers that can be traced to trusted sources, the company announced",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-acquires-doma-closing-unit-fannie-mae-title-acceptance/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/dark-matter-ask-aiva-ai-assistant-empower-los/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "This $329,900 Long Island Tiny Home Is Going Viral Because It Has No Bedrooms",
@@ -297,38 +297,38 @@
     ],
     "notables": [
       {
-        "title": "QXO closes on $2.25 billion Kodiak Building Partners deal",
-        "url": "https://www.housingwire.com/articles/qxo-closes-on-kodiak-building-partners-deal/",
-        "what": "QXO closed its $2.25B Kodiak deal, adding a $2.4B revenue platform and expanding into lumber, trusses and gypsum.",
-        "numbers": "$2.25, $2.4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/qxo-closes-on-kodiak-building-partners-deal/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "eXp, Weichert home seller commission lawsuit settlements approved",
-        "url": "https://www.housingwire.com/articles/hooper-settlements-final-approval/",
-        "what": "Judge Mark Cohen approved $44.05 million in Hooper settlements, including $34 million from eXp and $8.5 million from Weichert.",
-        "numbers": "$44.05 million, $34 million, $8.5 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hooper-settlements-final-approval/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "FICO tri-merge price jumped 1,500% in four years, CHLA finds",
-        "url": "https://www.housingwire.com/articles/fico-tri-merge-price-jump/",
-        "what": "CHLA says per-loan credit report costs rose from about $50 in 2022 to roughly $540 in 2026 as FICO pricing increased.",
-        "numbers": "$50, 2022, $540, 2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fico-tri-merge-price-jump/",
+        "title": "UWM tried for its first acquisition, then its stock fell and the math stopped working",
+        "url": "https://www.housingwire.com/articles/uwm-two-harbors-deal-fails/",
+        "what": "Analysts pointed to a sharp decline in UWM’s stock price as a key factor, while the company said this has nothing to do with its fundamentals.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-two-harbors-deal-fails/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
-        "title": "NAR notches another legal win as three-way membership agreement antitrust suit is tossed",
-        "url": "https://www.housingwire.com/articles/hardy-nar-lawsuit-dismissed/",
-        "what": "Detroit judge dismissed the Hardy antitrust lawsuit over NAR three-way membership tied to Realcomp MLS, filed in August 2024.",
-        "numbers": "2024.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hardy-nar-lawsuit-dismissed/",
+        "title": "Rocket moves to dismiss RESPA suit, citing safe harbor and lack of injury",
+        "url": "https://www.housingwire.com/articles/rocket-dismiss-respa-lawsuit/",
+        "what": "Detroit-based Rocket Companies this week moved to dismiss a lawsuit alleging violations of the Real Estate Settlement Procedures Act (RESPA).",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-dismiss-respa-lawsuit/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "How one brokerage uses AI voice, listening tools to help agents transform client calls",
+        "url": "https://www.housingwire.com/articles/remax-advantage-ai-calls/",
+        "what": "At REMAX Advantage, Speculo Remi backs up inbound calls while Shilo analyzes calls, creates tasks and tailors agent coaching.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/remax-advantage-ai-calls/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "NAR to sunset governance groups as part of committee overhaul",
+        "url": "https://www.housingwire.com/articles/nar-to-sunset-governance-groups-as-part-of-committee-overhaul/",
+        "what": "Changes represent the first phase of a broader effort to modernize the association’s governance model, NAR leadership said.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-to-sunset-governance-groups-as-part-of-committee-overhaul/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
