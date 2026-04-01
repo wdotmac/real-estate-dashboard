@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-01 21:57 UTC",
+  "as_of": "2026-04-01 22:57 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Why HousingWire’s new Mortgage Rankings matter for originators",
+      "link": "https://www.housingwire.com/articles/why-housingwires-new-mortgage-rankings-matter-for-originators/",
+      "published": "Wed, 01 Apr 2026"
+    },
+    {
       "title": "Housing market demand is holding, but pricing gaps are breaking deals",
       "link": "https://www.housingwire.com/articles/housing-market-demand-holding-deals-falling-apart/",
       "published": "Wed, 01 Apr 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Ashton Woods puts pace over margin in a choppy housing market",
       "link": "https://www.housingwire.com/articles/ashton-woods-earnings-q3-2026/",
-      "published": "Wed, 01 Apr 2026"
-    },
-    {
-      "title": "Rocket moves to dismiss RESPA suit, citing safe harbor and lack of injury",
-      "link": "https://www.housingwire.com/articles/rocket-dismiss-respa-lawsuit/",
       "published": "Wed, 01 Apr 2026"
     },
     {
@@ -223,6 +223,15 @@
     ],
     "housing": [
       {
+        "title": "Why HousingWire’s new Mortgage Rankings matter for originators",
+        "url": "https://www.housingwire.com/articles/why-housingwires-new-mortgage-rankings-matter-for-originators/",
+        "what": "HousingWire’s new Mortgage Rankings use transaction data to standardize originator performance, exposing real leaders by volume, product and channel.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-housingwires-new-mortgage-rankings-matter-for-originators/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Housing supply summit highlights the cost of complexity",
         "url": "https://www.housingwire.com/articles/simplify-housing-supply-strategy/",
         "what": "I love Jerusalem Demsas’ “Housing Breaks People’s Brains” article in The Atlantic from November 2022",
@@ -255,15 +264,6 @@
         "what": "In his new role, Richardson will lead enterprise revenue strategy and alignment across production, capital markets, product development and institutional investor relationships.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/atlantic-bay-mortgage-group-gregory-richardson-chief-revenue-officer/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Dark Matter’s Ask Aiva lets lenders query LOS data in plain language",
-        "url": "https://www.housingwire.com/articles/dark-matter-ask-aiva-ai-assistant-empower-los/",
-        "what": "The technology lets mortgage lenders query their origination environment in plain language and receive instant answers that can be traced to trusted sources, the company announced",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/dark-matter-ask-aiva-ai-assistant-empower-los/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
