@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-01 15:40 UTC",
+  "as_of": "2026-04-01 17:11 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Introducing the 2026 HousingWire Rising Stars!",
+      "link": "https://www.housingwire.com/articles/introducing-the-2026-housingwire-rising-stars/",
+      "published": "Wed, 01 Apr 2026"
+    },
+    {
+      "title": "REVERSE plus adds Smartfi proprietary products to loan analysis tool",
+      "link": "https://www.housingwire.com/articles/reverse-plus-adds-smartfi-proprietary-reverse-mortgages-analyzer-pro/",
+      "published": "Wed, 01 Apr 2026"
+    },
+    {
+      "title": "The one daily habit that could put six figures in a real estate pro’s pocket",
+      "link": "https://www.housingwire.com/articles/daily-calls-beat-crms/",
+      "published": "Wed, 01 Apr 2026"
+    },
+    {
+      "title": "Pocket listings can boost sale prices — but Clear Cooperation may have killed the edge, study finds",
+      "link": "https://www.housingwire.com/articles/pocket-listings-premium-dallas/",
+      "published": "Wed, 01 Apr 2026"
+    },
+    {
       "title": "Shilo AI tool turns agent calls into personalized coaching playbooks",
       "link": "https://www.housingwire.com/articles/shilo-signals-disc-profiles-calls/",
       "published": "Wed, 01 Apr 2026"
@@ -147,26 +167,6 @@
     {
       "title": "QXO closes on $2.25 billion Kodiak Building Partners deal",
       "link": "https://www.housingwire.com/articles/qxo-closes-on-kodiak-building-partners-deal/",
-      "published": "Wed, 01 Apr 2026"
-    },
-    {
-      "title": "eXp, Weichert home seller commission lawsuit settlements approved",
-      "link": "https://www.housingwire.com/articles/hooper-settlements-final-approval/",
-      "published": "Wed, 01 Apr 2026"
-    },
-    {
-      "title": "Opendoor moves into closing and escrow with Doma deal, Fannie Mae partnership",
-      "link": "https://www.housingwire.com/articles/opendoor-acquires-doma-closing-unit-fannie-mae-title-acceptance/",
-      "published": "Wed, 01 Apr 2026"
-    },
-    {
-      "title": "FICO tri-merge price jumped 1,500% in four years, CHLA finds",
-      "link": "https://www.housingwire.com/articles/fico-tri-merge-price-jump/",
-      "published": "Wed, 01 Apr 2026"
-    },
-    {
-      "title": "NAR notches another legal win as three-way membership agreement antitrust suit is tossed",
-      "link": "https://www.housingwire.com/articles/hardy-nar-lawsuit-dismissed/",
       "published": "Wed, 01 Apr 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "REVERSE plus adds Smartfi proprietary products to loan analysis tool",
+        "url": "https://www.housingwire.com/articles/reverse-plus-adds-smartfi-proprietary-reverse-mortgages-analyzer-pro/",
+        "what": "REVERSE plus integrates Smartfi proprietary reverse mortgages into ANALYZER Pro, letting originators model multiple options side by side.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-plus-adds-smartfi-proprietary-reverse-mortgages-analyzer-pro/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Shilo AI tool turns agent calls into personalized coaching playbooks",
         "url": "https://www.housingwire.com/articles/shilo-signals-disc-profiles-calls/",
         "what": "Shilo launched Signals, using weeks of call recordings to build DISC profiles with confidence scores and coaching recommendations.",
@@ -210,15 +219,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/shilo-signals-disc-profiles-calls/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Mortgage rates north of 6.5% trigger sharp drop in applications",
-        "url": "https://www.housingwire.com/articles/mba-applications-slide-rates-rise/",
-        "what": "MBA reports mortgage applications fell 10.4% last week as the 30-year fixed rate rose to 6.57% and refinances fell 17%.",
-        "numbers": "10.4, 30, 6.57, 17",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-applications-slide-rates-rise/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Market Jitters Drive Mortgage Rates Up, Sending Some Would-Be Homebuyers to the Sidelines",
@@ -232,6 +232,33 @@
     ],
     "housing": [
       {
+        "title": "Introducing the 2026 HousingWire Rising Stars!",
+        "url": "https://www.housingwire.com/articles/introducing-the-2026-housingwire-rising-stars/",
+        "what": "HousingWire’s 2026 Rising Stars recognize leaders age 40 and under who are driving impact across mortgage, real estate and homebuilding",
+        "numbers": "2026, 40",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/introducing-the-2026-housingwire-rising-stars/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "The one daily habit that could put six figures in a real estate pro’s pocket",
+        "url": "https://www.housingwire.com/articles/daily-calls-beat-crms/",
+        "what": "A 30-day plan urges agents to talk with one buyer and one seller daily, using simple tracking to build pipeline and listings.",
+        "numbers": "30",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/daily-calls-beat-crms/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Pocket listings can boost sale prices — but Clear Cooperation may have killed the edge, study finds",
+        "url": "https://www.housingwire.com/articles/pocket-listings-premium-dallas/",
+        "what": "Dallas Fort Worth study of 700,000-plus sales finds off-market homes sold for 1.7% more, but the edge fell after 2020.",
+        "numbers": "700,000, 1.7, 2020.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pocket-listings-premium-dallas/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Opendoor moves into closing and escrow with Doma deal, Fannie Mae partnership",
         "url": "https://www.housingwire.com/articles/opendoor-acquires-doma-closing-unit-fannie-mae-title-acceptance/",
         "what": "Opendoor has agreed to acquire the closing and escrow operations of Doma Holdings, a move that would extend the iBuyer’s reach into refinance closings and deeper into title automat",
@@ -239,15 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-acquires-doma-closing-unit-fannie-mae-title-acceptance/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "California bills target condo deposits and defect liability",
-        "url": "https://www.housingwire.com/articles/california-condo-reform-bills/",
-        "what": "California lawmakers are weighing bills that would reduce regulatory barriers to revive condominium construction, which has dropped significantly from its peak in the years before the Great Recession",
-        "numbers": "1406, 3, 6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/california-condo-reform-bills/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "This $329,900 Long Island Tiny Home Is Going Viral Because It Has No Bedrooms",
@@ -313,24 +331,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/hardy-nar-lawsuit-dismissed/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The proven ways real estate agents are using AI to close deals faster",
-        "url": "https://www.housingwire.com/articles/brokerages-and-teams-are-rolling-out-ai-assistants-to-reduce-administrative-work-including-lead-intake-crm-updates-offer-drafting-and-call-coaching-with-82-of-agents-using-ai-tools-leaders-incre/",
-        "what": "Agents and brokers are expanding AI from lead response to CRM and call coaching, as 82% of agents report using AI.",
-        "numbers": "82",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/brokerages-and-teams-are-rolling-out-ai-assistants-to-reduce-administrative-work-including-lead-intake-crm-updates-offer-drafting-and-call-coaching-with-82-of-agents-using-ai-tools-leaders-incre/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Lennar land bank exposure under the microscope",
-        "url": "https://www.housingwire.com/articles/lennar-land-bank-exposure/",
-        "what": "All eyes are on Lennar’s forthcoming 10-K filing, maybe as soon as Thursday, as a wave of investor questions converges around one central issue: How much financial risk",
-        "numbers": "10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lennar-land-bank-exposure/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
