@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-02 17:09 UTC",
+  "as_of": "2026-04-02 19:15 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "United Real Estate adds 725 agents with Allison James affiliation",
-      "link": "https://www.housingwire.com/articles/united-adds-allison-james/",
+      "title": "Lower launches Movoto Advantage for solo real estate agents",
+      "link": "https://www.housingwire.com/articles/lower-movoto-advantage-launch/",
       "published": "Thu, 02 Apr 2026"
     },
     {
-      "title": "From Alabama to Texas: A patchwork of buyer agency laws emerges after NAR settlement",
-      "link": "https://www.housingwire.com/articles/states-buyer-agency-rules/",
+      "title": "D.C. pushes single-stair apartments higher with added safety rules",
+      "link": "https://www.housingwire.com/articles/single-stair-dc-council/",
       "published": "Thu, 02 Apr 2026"
     },
     {
-      "title": "Rhode Island targets housing supply with three reform bills",
-      "link": "https://www.housingwire.com/articles/rhode-island-housing-reform-bills/",
+      "title": "HECM activity rises in March, but proprietary loans are taking a bite out of business",
+      "link": "https://www.housingwire.com/articles/hecm-endorsements-hmbs-issuance-march-2026/",
       "published": "Thu, 02 Apr 2026"
     },
     {
-      "title": "Lenders are ramping up builder divisions to capture purchase share",
-      "link": "https://www.housingwire.com/articles/mortgage-builder-divisions-purchase/",
+      "title": "FOA introduces second-lien reverse mortgage LOC in California",
+      "link": "https://www.housingwire.com/articles/finance-of-america-homesafe-second-line-of-credit-california/",
       "published": "Thu, 02 Apr 2026"
     },
     {
-      "title": "Lamacchia Realty acquires Weichert Realtors – Briotti Group",
-      "link": "https://www.housingwire.com/articles/lamacchia-briotti-group-acquisition/",
+      "title": "NAR rolls out expertise-based application process for 2027 committees",
+      "link": "https://www.housingwire.com/articles/nar-2027-committee-application/",
       "published": "Thu, 02 Apr 2026"
     },
     {
-      "title": "Rocket Close, AWS collaborate on AI system to automate mortgage document workflows",
-      "link": "https://www.housingwire.com/articles/aws-rocket-close-automation/",
+      "title": "Frost Bank is betting on 0% down mortgages in Texas",
+      "link": "https://www.housingwire.com/articles/frost-bank-progress-mortgage/",
       "published": "Thu, 02 Apr 2026"
     },
     {
@@ -210,18 +210,36 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-monthly-housing-payments-tick-up/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Housing market demand is holding, but pricing gaps are breaking deals",
-        "url": "https://www.housingwire.com/articles/housing-market-demand-holding-deals-falling-apart/",
-        "what": "Housing demand is holding as mortgage rates rise",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-demand-holding-deals-falling-apart/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "D.C. pushes single-stair apartments higher with added safety rules",
+        "url": "https://www.housingwire.com/articles/single-stair-dc-council/",
+        "what": "Washington, D.C., council members are leaning into a growing national trend by relaxing single-stairway rules to cut the cost of building small and mid-rise housing",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/single-stair-dc-council/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "FOA introduces second-lien reverse mortgage LOC in California",
+        "url": "https://www.housingwire.com/articles/finance-of-america-homesafe-second-line-of-credit-california/",
+        "what": "Finance of America launches HomeSafe Second Line of Credit in California, a reverse second-lien alternative to HELOCs for older homeowners.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/finance-of-america-homesafe-second-line-of-credit-california/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Frost Bank is betting on 0% down mortgages in Texas",
+        "url": "https://www.housingwire.com/articles/frost-bank-progress-mortgage/",
+        "what": "Frost Bank's Progress Mortgage offers 0% down, no PMI and help with closing costs as the bank ramps up mortgage lending in Texas.",
+        "numbers": "0",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/frost-bank-progress-mortgage/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Rhode Island targets housing supply with three reform bills",
         "url": "https://www.housingwire.com/articles/rhode-island-housing-reform-bills/",
@@ -241,15 +259,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Rocket Close, AWS collaborate on AI system to automate mortgage document workflows",
-        "url": "https://www.housingwire.com/articles/aws-rocket-close-automation/",
-        "what": "Rocket Close cut processing from 10 hours to less than two minutes per package with about 90% accuracy using AWS Textract and Bedrock.",
-        "numbers": "10, 90",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/aws-rocket-close-automation/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "The Great Housing Mismatch: Empty Nesters Own 28% of the Nation’s Large Homes, Millennial Families Own 16%",
         "url": "https://www.redfin.com/news/empty-nest-large-homes-2026/",
         "what": "Empty-nest baby boomers own many more 3-bedroom-plus U.S",
@@ -257,33 +266,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/empty-nest-large-homes-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Dwight Schar: the rigor that re-shaped modern homebuilding",
-        "url": "https://www.housingwire.com/articles/schar-land-risk-control/",
-        "what": "Success in homebuilding over the ages shows a rare, often counterintuitive balance between what changes in an instant and what remains timeless",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/schar-land-risk-control/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Manufactured housing is the homeownership solve we keep ignoring",
-        "url": "https://www.housingwire.com/articles/manufactured-housing-is-the-homeownership-solve-we-keep-ignoring/",
-        "what": "Manufactured housing is a proven solution to the U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/manufactured-housing-is-the-homeownership-solve-we-keep-ignoring/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Why HousingWire’s new Mortgage Rankings matter for originators",
-        "url": "https://www.housingwire.com/articles/why-housingwires-new-mortgage-rankings-matter-for-originators/",
-        "what": "HousingWire’s new Mortgage Rankings use transaction data to standardize originator performance, exposing real leaders by volume, product and channel.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/why-housingwires-new-mortgage-rankings-matter-for-originators/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "This $329,900 Long Island Tiny Home Is Going Viral Because It Has No Bedrooms",
@@ -315,6 +297,33 @@
     ],
     "notables": [
       {
+        "title": "Lower launches Movoto Advantage for solo real estate agents",
+        "url": "https://www.housingwire.com/articles/lower-movoto-advantage-launch/",
+        "what": "Lower rolled out Movoto Advantage, a subscription program with about 200 agents, routing live consumer transfers to one vetted agent per market.",
+        "numbers": "200",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lower-movoto-advantage-launch/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "HECM activity rises in March, but proprietary loans are taking a bite out of business",
+        "url": "https://www.housingwire.com/articles/hecm-endorsements-hmbs-issuance-march-2026/",
+        "what": "HECM endorsements rose 16.3% in March to 2,117, while HMBS issuance ticked up by $10 million from February to $441 million.",
+        "numbers": "16.3, 2,117,, $10 million, $441 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hecm-endorsements-hmbs-issuance-march-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "NAR rolls out expertise-based application process for 2027 committees",
+        "url": "https://www.housingwire.com/articles/nar-2027-committee-application/",
+        "what": "NAR launched an expertise profile and tailored application for its 2027 committees as it streamlines governance and increases transparency.",
+        "numbers": "2027",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-2027-committee-application/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "United Real Estate adds 725 agents with Allison James affiliation",
         "url": "https://www.housingwire.com/articles/united-adds-allison-james/",
         "what": "United Real Estate adds 725 agent Allison James, expanding into eight states plus Washington, D.C., and rolling out BullseyeAI tools.",
@@ -329,15 +338,6 @@
         "what": "New state laws respond to NAR settlement, changing when buyer representation agreements and compensation disclosures are required.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/states-buyer-agency-rules/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Lamacchia Realty acquires Weichert Realtors – Briotti Group",
-        "url": "https://www.housingwire.com/articles/lamacchia-briotti-group-acquisition/",
-        "what": "Lamacchia Realty bought Weichert Realtors Briotti Group, adding 24 agents and 2 offices in Waterbury and Wolcott, terms undisclosed.",
-        "numbers": "24, 2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lamacchia-briotti-group-acquisition/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
