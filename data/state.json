@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-04-02 19:58 UTC",
+  "as_of": "2026-04-02 20:53 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.3,
-      "delta_bp_1d": -4.999999999999982
+      "yield_pct": 4.33,
+      "delta_bp_1d": 3.000000000000025
     },
     "mortgage_30y": {
       "rate_pct": 6.46,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Century 21 Integra expands Chicago presence with acquisition",
+      "link": "https://www.housingwire.com/articles/century-21-integra-expands-chicago-presence-with-acquisition/",
+      "published": "Thu, 02 Apr 2026"
+    },
+    {
       "title": "What Washington state agents are seeing with new ‘millionaires tax’",
       "link": "https://www.housingwire.com/articles/what-washington-state-agents-are-seeing-with-new-millionaires-tax/",
       "published": "Thu, 02 Apr 2026"
@@ -162,11 +167,6 @@
     {
       "title": "FOA introduces second-lien reverse mortgage LOC in California",
       "link": "https://www.housingwire.com/articles/finance-of-america-homesafe-second-line-of-credit-california/",
-      "published": "Thu, 02 Apr 2026"
-    },
-    {
-      "title": "NAR rolls out expertise-based application process for 2027 committees",
-      "link": "https://www.housingwire.com/articles/nar-2027-committee-application/",
       "published": "Thu, 02 Apr 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Century 21 Integra expands Chicago presence with acquisition",
+        "url": "https://www.housingwire.com/articles/century-21-integra-expands-chicago-presence-with-acquisition/",
+        "what": "With the acquisition, Century 21 Integra now operates Illinois offices in Schaumburg, Naperville and McHenry.",
+        "numbers": "21",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/century-21-integra-expands-chicago-presence-with-acquisition/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Monthly Payments Tick Up For First Time in 6 Months As Mortgage Rates, Home Prices Jump",
         "url": "https://www.redfin.com/news/housing-market-update-monthly-housing-payments-tick-up/",
@@ -248,15 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/frost-bank-progress-mortgage/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Rhode Island targets housing supply with three reform bills",
-        "url": "https://www.housingwire.com/articles/rhode-island-housing-reform-bills/",
-        "what": "Rhode Island could become another state that allows faith-based organizations to build affordable housing on land they own without rezoning",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rhode-island-housing-reform-bills/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "The Great Housing Mismatch: Empty Nesters Own 28% of the Nation’s Large Homes, Millennial Families Own 16%",
