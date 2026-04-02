@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-02 15:16 UTC",
+  "as_of": "2026-04-02 17:09 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": -4.999999999999982
     },
     "mortgage_30y": {
-      "rate_pct": 6.38,
-      "delta_bp_wow": 16.000000000000014
+      "rate_pct": 6.46,
+      "delta_bp_wow": 8.000000000000007
     },
     "starts": {
       "level_saar": 1487.0,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "United Real Estate adds 725 agents with Allison James affiliation",
+      "link": "https://www.housingwire.com/articles/united-adds-allison-james/",
+      "published": "Thu, 02 Apr 2026"
+    },
+    {
+      "title": "From Alabama to Texas: A patchwork of buyer agency laws emerges after NAR settlement",
+      "link": "https://www.housingwire.com/articles/states-buyer-agency-rules/",
+      "published": "Thu, 02 Apr 2026"
+    },
+    {
+      "title": "Rhode Island targets housing supply with three reform bills",
+      "link": "https://www.housingwire.com/articles/rhode-island-housing-reform-bills/",
+      "published": "Thu, 02 Apr 2026"
+    },
+    {
+      "title": "Lenders are ramping up builder divisions to capture purchase share",
+      "link": "https://www.housingwire.com/articles/mortgage-builder-divisions-purchase/",
+      "published": "Thu, 02 Apr 2026"
+    },
+    {
       "title": "Lamacchia Realty acquires Weichert Realtors – Briotti Group",
       "link": "https://www.housingwire.com/articles/lamacchia-briotti-group-acquisition/",
       "published": "Thu, 02 Apr 2026"
@@ -148,26 +168,6 @@
       "title": "Rocket Close, AWS collaborate on AI system to automate mortgage document workflows",
       "link": "https://www.housingwire.com/articles/aws-rocket-close-automation/",
       "published": "Thu, 02 Apr 2026"
-    },
-    {
-      "title": "Dwight Schar: the rigor that re-shaped modern homebuilding",
-      "link": "https://www.housingwire.com/articles/schar-land-risk-control/",
-      "published": "Thu, 02 Apr 2026"
-    },
-    {
-      "title": "Manufactured housing is the homeownership solve we keep ignoring",
-      "link": "https://www.housingwire.com/articles/manufactured-housing-is-the-homeownership-solve-we-keep-ignoring/",
-      "published": "Thu, 02 Apr 2026"
-    },
-    {
-      "title": "Why HousingWire’s new Mortgage Rankings matter for originators",
-      "link": "https://www.housingwire.com/articles/why-housingwires-new-mortgage-rankings-matter-for-originators/",
-      "published": "Wed, 01 Apr 2026"
-    },
-    {
-      "title": "Housing market demand is holding, but pricing gaps are breaking deals",
-      "link": "https://www.housingwire.com/articles/housing-market-demand-holding-deals-falling-apart/",
-      "published": "Wed, 01 Apr 2026"
     },
     {
       "title": "The Great Housing Mismatch: Empty Nesters Own 28% of the Nation’s Large Homes, Millennial Families Own 16%",
@@ -223,6 +223,24 @@
     ],
     "housing": [
       {
+        "title": "Rhode Island targets housing supply with three reform bills",
+        "url": "https://www.housingwire.com/articles/rhode-island-housing-reform-bills/",
+        "what": "Rhode Island could become another state that allows faith-based organizations to build affordable housing on land they own without rezoning",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rhode-island-housing-reform-bills/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Lenders are ramping up builder divisions to capture purchase share",
+        "url": "https://www.housingwire.com/articles/mortgage-builder-divisions-purchase/",
+        "what": "Builder divisions at CrossCountry Mortgage and Guaranteed Rate Affinity use forward commitments and rate locks to compete for purchase loans.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-builder-divisions-purchase/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Rocket Close, AWS collaborate on AI system to automate mortgage document workflows",
         "url": "https://www.housingwire.com/articles/aws-rocket-close-automation/",
         "what": "Rocket Close cut processing from 10 hours to less than two minutes per package with about 90% accuracy using AWS Textract and Bedrock.",
@@ -268,33 +286,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Housing supply summit highlights the cost of complexity",
-        "url": "https://www.housingwire.com/articles/simplify-housing-supply-strategy/",
-        "what": "I love Jerusalem Demsas’ “Housing Breaks People’s Brains” article in The Atlantic from November 2022",
-        "numbers": "2022.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/simplify-housing-supply-strategy/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "First fully rebuilt Palisades home testing post-fire demand",
-        "url": "https://www.housingwire.com/articles/first-fully-rebuilt-palisades-home-testing-post-fire-demand/",
-        "what": "The listing arrives as rebuilding activity gains traction, with roughly 650 permit approvals to date and nearly 475 burned lots having traded.",
-        "numbers": "650, 475",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/first-fully-rebuilt-palisades-home-testing-post-fire-demand/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Ashton Woods puts pace over margin in a choppy housing market",
-        "url": "https://www.housingwire.com/articles/ashton-woods-earnings-q3-2026/",
-        "what": "Ashton Woods Q3 2026 revenue fell 6% to $79.27M as margin slipped to 16.6% and backlog rose to 1,945.",
-        "numbers": "3, 2026, 6, $79.27, 16.6, 1,945.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ashton-woods-earnings-q3-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "This $329,900 Long Island Tiny Home Is Going Viral Because It Has No Bedrooms",
         "url": "https://www.redfin.com/news/tiny-home-selden-long-island-new-york/",
         "what": "A tiny home in New York is going viral on social media because it has no bedrooms",
@@ -311,9 +302,36 @@
         "justified": "redfin.com — https://www.redfin.com/news/cleveland-remains-a-beacon-of-affordability-for-homebuyers/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Over Half of Home Listings Have Been Lingering on the Market For More Than 2 Months",
+        "url": "https://www.redfin.com/news/stale-housing-inventory-february-2026/",
+        "what": "In dollar terms, there’s $347 billion worth of stale listings in the U.S., more than ever before for this time of year",
+        "numbers": "$347 billion, 2",
+        "justified": "redfin.com — https://www.redfin.com/news/stale-housing-inventory-february-2026/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
+      {
+        "title": "United Real Estate adds 725 agents with Allison James affiliation",
+        "url": "https://www.housingwire.com/articles/united-adds-allison-james/",
+        "what": "United Real Estate adds 725 agent Allison James, expanding into eight states plus Washington, D.C., and rolling out BullseyeAI tools.",
+        "numbers": "725",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/united-adds-allison-james/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "From Alabama to Texas: A patchwork of buyer agency laws emerges after NAR settlement",
+        "url": "https://www.housingwire.com/articles/states-buyer-agency-rules/",
+        "what": "New state laws respond to NAR settlement, changing when buyer representation agreements and compensation disclosures are required.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/states-buyer-agency-rules/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Lamacchia Realty acquires Weichert Realtors – Briotti Group",
         "url": "https://www.housingwire.com/articles/lamacchia-briotti-group-acquisition/",
@@ -322,15 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/lamacchia-briotti-group-acquisition/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "UWM tried for its first acquisition, then its stock fell and the math stopped working",
-        "url": "https://www.housingwire.com/articles/uwm-two-harbors-deal-fails/",
-        "what": "Analysts pointed to a sharp decline in UWM’s stock price as a key factor, while the company said this has nothing to do with its fundamentals.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-two-harbors-deal-fails/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ]
   }
