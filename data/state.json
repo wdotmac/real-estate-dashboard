@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-02 11:57 UTC",
+  "as_of": "2026-04-02 13:56 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Rocket Close, AWS collaborate on AI system to automate mortgage document workflows",
+      "link": "https://www.housingwire.com/articles/aws-rocket-close-automation/",
+      "published": "Thu, 02 Apr 2026"
+    },
+    {
       "title": "Dwight Schar: the rigor that re-shaped modern homebuilding",
       "link": "https://www.housingwire.com/articles/schar-land-risk-control/",
       "published": "Thu, 02 Apr 2026"
@@ -165,9 +170,14 @@
       "published": "Wed, 01 Apr 2026"
     },
     {
-      "title": "UWM tried for its first acquisition, then its stock fell and the math stopped working",
-      "link": "https://www.housingwire.com/articles/uwm-two-harbors-deal-fails/",
-      "published": "Wed, 01 Apr 2026"
+      "title": "The Great Housing Mismatch: Empty Nesters Own 28% of the Nation’s Large Homes, Millennial Families Own 16%",
+      "link": "https://www.redfin.com/news/empty-nest-large-homes-2026/",
+      "published": "Thu, 02 Apr 2026"
+    },
+    {
+      "title": "Monthly Payments Tick Up For First Time in 6 Months As Mortgage Rates, Home Prices Jump",
+      "link": "https://www.redfin.com/news/housing-market-update-monthly-housing-payments-tick-up/",
+      "published": "Thu, 02 Apr 2026"
     },
     {
       "title": "This $329,900 Long Island Tiny Home Is Going Viral Because It Has No Bedrooms",
@@ -188,20 +198,19 @@
       "title": "Market Jitters Drive Mortgage Rates Up, Sending Some Would-Be Homebuyers to the Sidelines",
       "link": "https://www.redfin.com/news/housing-market-update-market-jitters-mortgage-rates/",
       "published": "Thu, 26 Mar 2026"
-    },
-    {
-      "title": "14% of Home-Sale Agreements Fell Through Last Month–A Record for February",
-      "link": "https://www.redfin.com/news/contract-cancellations-february-2026/",
-      "published": "Tue, 24 Mar 2026"
-    },
-    {
-      "title": "U.S. Home Prices Barely Budged in February",
-      "link": "https://www.redfin.com/news/home-price-index-february-2026/",
-      "published": "Tue, 24 Mar 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Monthly Payments Tick Up For First Time in 6 Months As Mortgage Rates, Home Prices Jump",
+        "url": "https://www.redfin.com/news/housing-market-update-monthly-housing-payments-tick-up/",
+        "what": "The Iran war is a major factor pushing up mortgage rates",
+        "numbers": "$2,742,, 0.4, 6",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-monthly-housing-payments-tick-up/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Housing market demand is holding, but pricing gaps are breaking deals",
         "url": "https://www.housingwire.com/articles/housing-market-demand-holding-deals-falling-apart/",
@@ -210,18 +219,27 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-demand-holding-deals-falling-apart/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Market Jitters Drive Mortgage Rates Up, Sending Some Would-Be Homebuyers to the Sidelines",
-        "url": "https://www.redfin.com/news/housing-market-update-market-jitters-mortgage-rates/",
-        "what": "Higher housing costs, along with economic uncertainty that comes with the Iran war, are causing some house hunters to think twice",
-        "numbers": "6.22, 6.55",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-market-jitters-mortgage-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Rocket Close, AWS collaborate on AI system to automate mortgage document workflows",
+        "url": "https://www.housingwire.com/articles/aws-rocket-close-automation/",
+        "what": "Rocket Close cut processing from 10 hours to less than two minutes per package with about 90% accuracy using AWS Textract and Bedrock.",
+        "numbers": "10, 90",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/aws-rocket-close-automation/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "The Great Housing Mismatch: Empty Nesters Own 28% of the Nation’s Large Homes, Millennial Families Own 16%",
+        "url": "https://www.redfin.com/news/empty-nest-large-homes-2026/",
+        "what": "Empty-nest baby boomers own many more 3-bedroom-plus U.S",
+        "numbers": "3, 28, 16",
+        "justified": "redfin.com — https://www.redfin.com/news/empty-nest-large-homes-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Dwight Schar: the rigor that re-shaped modern homebuilding",
         "url": "https://www.housingwire.com/articles/schar-land-risk-control/",
@@ -293,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/cleveland-remains-a-beacon-of-affordability-for-homebuyers/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Over Half of Home Listings Have Been Lingering on the Market For More Than 2 Months",
-        "url": "https://www.redfin.com/news/stale-housing-inventory-february-2026/",
-        "what": "In dollar terms, there’s $347 billion worth of stale listings in the U.S., more than ever before for this time of year",
-        "numbers": "$347 billion, 2",
-        "justified": "redfin.com — https://www.redfin.com/news/stale-housing-inventory-february-2026/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
@@ -320,15 +329,6 @@
         "what": "Detroit-based Rocket Companies this week moved to dismiss a lawsuit alleging violations of the Real Estate Settlement Procedures Act (RESPA).",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-dismiss-respa-lawsuit/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How one brokerage uses AI voice, listening tools to help agents transform client calls",
-        "url": "https://www.housingwire.com/articles/remax-advantage-ai-calls/",
-        "what": "At REMAX Advantage, Speculo Remi backs up inbound calls while Shilo analyzes calls, creates tasks and tailors agent coaching.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/remax-advantage-ai-calls/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
