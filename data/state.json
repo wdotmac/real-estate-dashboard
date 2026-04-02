@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-02 13:56 UTC",
+  "as_of": "2026-04-02 15:16 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Lamacchia Realty acquires Weichert Realtors – Briotti Group",
+      "link": "https://www.housingwire.com/articles/lamacchia-briotti-group-acquisition/",
+      "published": "Thu, 02 Apr 2026"
+    },
+    {
       "title": "Rocket Close, AWS collaborate on AI system to automate mortgage document workflows",
       "link": "https://www.housingwire.com/articles/aws-rocket-close-automation/",
       "published": "Thu, 02 Apr 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Housing market demand is holding, but pricing gaps are breaking deals",
       "link": "https://www.housingwire.com/articles/housing-market-demand-holding-deals-falling-apart/",
-      "published": "Wed, 01 Apr 2026"
-    },
-    {
-      "title": "Housing supply summit highlights the cost of complexity",
-      "link": "https://www.housingwire.com/articles/simplify-housing-supply-strategy/",
       "published": "Wed, 01 Apr 2026"
     },
     {
@@ -315,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "Lamacchia Realty acquires Weichert Realtors – Briotti Group",
+        "url": "https://www.housingwire.com/articles/lamacchia-briotti-group-acquisition/",
+        "what": "Lamacchia Realty bought Weichert Realtors Briotti Group, adding 24 agents and 2 offices in Waterbury and Wolcott, terms undisclosed.",
+        "numbers": "24, 2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lamacchia-briotti-group-acquisition/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "UWM tried for its first acquisition, then its stock fell and the math stopped working",
         "url": "https://www.housingwire.com/articles/uwm-two-harbors-deal-fails/",
         "what": "Analysts pointed to a sharp decline in UWM’s stock price as a key factor, while the company said this has nothing to do with its fundamentals.",
@@ -322,15 +331,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-two-harbors-deal-fails/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Rocket moves to dismiss RESPA suit, citing safe harbor and lack of injury",
-        "url": "https://www.housingwire.com/articles/rocket-dismiss-respa-lawsuit/",
-        "what": "Detroit-based Rocket Companies this week moved to dismiss a lawsuit alleging violations of the Real Estate Settlement Procedures Act (RESPA).",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-dismiss-respa-lawsuit/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
