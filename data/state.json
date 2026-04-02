@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-02 19:15 UTC",
+  "as_of": "2026-04-02 19:58 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "What Washington state agents are seeing with new ‘millionaires tax’",
+      "link": "https://www.housingwire.com/articles/what-washington-state-agents-are-seeing-with-new-millionaires-tax/",
+      "published": "Thu, 02 Apr 2026"
+    },
+    {
       "title": "Lower launches Movoto Advantage for solo real estate agents",
       "link": "https://www.housingwire.com/articles/lower-movoto-advantage-launch/",
       "published": "Thu, 02 Apr 2026"
@@ -162,11 +167,6 @@
     {
       "title": "NAR rolls out expertise-based application process for 2027 committees",
       "link": "https://www.housingwire.com/articles/nar-2027-committee-application/",
-      "published": "Thu, 02 Apr 2026"
-    },
-    {
-      "title": "Frost Bank is betting on 0% down mortgages in Texas",
-      "link": "https://www.housingwire.com/articles/frost-bank-progress-mortgage/",
       "published": "Thu, 02 Apr 2026"
     },
     {
@@ -214,6 +214,15 @@
     ],
     "housing": [
       {
+        "title": "What Washington state agents are seeing with new ‘millionaires tax’",
+        "url": "https://www.housingwire.com/articles/what-washington-state-agents-are-seeing-with-new-millionaires-tax/",
+        "what": "The law imposes a 9.9% tax on annual income above $1 million, with implementation expected in 2028 pending legal challenges.",
+        "numbers": "9.9, $1 million, 2028",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/what-washington-state-agents-are-seeing-with-new-millionaires-tax/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "D.C. pushes single-stair apartments higher with added safety rules",
         "url": "https://www.housingwire.com/articles/single-stair-dc-council/",
         "what": "Washington, D.C., council members are leaning into a growing national trend by relaxing single-stairway rules to cut the cost of building small and mid-rise housing",
@@ -248,15 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/rhode-island-housing-reform-bills/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Lenders are ramping up builder divisions to capture purchase share",
-        "url": "https://www.housingwire.com/articles/mortgage-builder-divisions-purchase/",
-        "what": "Builder divisions at CrossCountry Mortgage and Guaranteed Rate Affinity use forward commitments and rate locks to compete for purchase loans.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-builder-divisions-purchase/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "The Great Housing Mismatch: Empty Nesters Own 28% of the Nation’s Large Homes, Millennial Families Own 16%",
