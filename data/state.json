@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-03 20:53 UTC",
+  "as_of": "2026-04-03 21:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Fri, 03 Apr 2026"
     },
     {
+      "title": "Ryanair Co-Founder Restored An 18th Century Village In Ireland And Now It’s Up For Sale For $23 million",
+      "link": "https://www.redfin.com/news/ireland-village-at-lyons-sale/",
+      "published": "Fri, 03 Apr 2026"
+    },
+    {
       "title": "Seemingly Strong March Jobs Report Won’t Impact Mortgage Rates Much",
       "link": "https://www.redfin.com/news/jobs-report-march-2026/",
       "published": "Fri, 03 Apr 2026"
@@ -193,11 +198,6 @@
       "title": "Cleveland Remains a Beacon of Affordability for Homebuyers",
       "link": "https://www.redfin.com/news/cleveland-remains-a-beacon-of-affordability-for-homebuyers/",
       "published": "Tue, 31 Mar 2026"
-    },
-    {
-      "title": "Over Half of Home Listings Have Been Lingering on the Market For More Than 2 Months",
-      "link": "https://www.redfin.com/news/stale-housing-inventory-february-2026/",
-      "published": "Mon, 30 Mar 2026"
     }
   ],
   "feed_101020": {
@@ -249,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Ryanair Co-Founder Restored An 18th Century Village In Ireland And Now It’s Up For Sale For $23 million",
+        "url": "https://www.redfin.com/news/ireland-village-at-lyons-sale/",
+        "what": "Just a 30-minute drive outside Dublin sits the Village at Lyons, a privately owned village dating back to the 18th century",
+        "numbers": "30, 18, $23,078,698., 20, 47, $23 million",
+        "justified": "redfin.com — https://www.redfin.com/news/ireland-village-at-lyons-sale/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "NYC builds taller housing again, as state, city law reset the stage",
         "url": "https://www.housingwire.com/articles/nyc-housing-density-far-rules/",
@@ -327,15 +336,6 @@
         "what": "As many Americans consider buying a home this spring, they may want to take a closer look at the Cleveland metro area",
         "numbers": "",
         "justified": "redfin.com — https://www.redfin.com/news/cleveland-remains-a-beacon-of-affordability-for-homebuyers/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Over Half of Home Listings Have Been Lingering on the Market For More Than 2 Months",
-        "url": "https://www.redfin.com/news/stale-housing-inventory-february-2026/",
-        "what": "In dollar terms, there’s $347 billion worth of stale listings in the U.S., more than ever before for this time of year",
-        "numbers": "$347 billion, 2",
-        "justified": "redfin.com — https://www.redfin.com/news/stale-housing-inventory-february-2026/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
