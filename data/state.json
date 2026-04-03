@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-03 17:52 UTC",
+  "as_of": "2026-04-03 19:05 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "So far, 2026 job growth is better than 2025",
+      "link": "https://www.housingwire.com/articles/so-far-2026-job-growth-is-better-than-2025/",
+      "published": "Fri, 03 Apr 2026"
+    },
+    {
       "title": "NYC builds taller housing again, as state, city law reset the stage",
       "link": "https://www.housingwire.com/articles/nyc-housing-density-far-rules/",
       "published": "Fri, 03 Apr 2026"
@@ -163,11 +168,6 @@
       "title": "Texas SB 17 has reshaped foreign capital in homebuilding",
       "link": "https://www.housingwire.com/articles/texas-sb17-foreign-homebuilders/",
       "published": "Fri, 03 Apr 2026"
-    },
-    {
-      "title": "Join the most powerful room in housing at The Gathering April 27-30",
-      "link": "https://www.housingwire.com/articles/join-the-most-powerful-room-in-housing-at-the-gathering-april-27-30/",
-      "published": "Thu, 02 Apr 2026"
     },
     {
       "title": "Seemingly Strong March Jobs Report Won’t Impact Mortgage Rates Much",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "So far, 2026 job growth is better than 2025",
+        "url": "https://www.housingwire.com/articles/so-far-2026-job-growth-is-better-than-2025/",
+        "what": "March payrolls rose 178,000 and unemployment held at 4.3%, supporting a Fed on hold amid elevated inflation and Iran conflict risk.",
+        "numbers": "178,000, 4.3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/so-far-2026-job-growth-is-better-than-2025/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Northwest MLS accuses Compass of deceptive ‘pocket listing’ scheme in counterclaim",
         "url": "https://www.housingwire.com/articles/nwmls-counterclaim-compass-pocket-listings-washington/",
@@ -338,15 +347,6 @@
         "what": "Better says Tinman makes underwriting accessible through ChatGPT, shifting decisions from LOS workflows into an AI layer for lenders.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/better-com-chatgpt-shift/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Lower launches Movoto Advantage for solo real estate agents",
-        "url": "https://www.housingwire.com/articles/lower-movoto-advantage-launch/",
-        "what": "Lower rolled out Movoto Advantage, a subscription program with about 200 agents, routing live consumer transfers to one vetted agent per market.",
-        "numbers": "200",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lower-movoto-advantage-launch/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
