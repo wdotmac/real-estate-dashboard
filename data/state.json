@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-03 15:01 UTC",
+  "as_of": "2026-04-03 15:54 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Northwest MLS accuses Compass of deceptive ‘pocket listing’ scheme in counterclaim",
+      "link": "https://www.housingwire.com/articles/nwmls-counterclaim-compass-pocket-listings-washington/",
+      "published": "Fri, 03 Apr 2026"
+    },
+    {
       "title": "Better bets on ChatGPT as the new front door for origination",
       "link": "https://www.housingwire.com/articles/better-com-chatgpt-shift/",
       "published": "Fri, 03 Apr 2026"
@@ -162,11 +167,6 @@
     {
       "title": "PartnerOne finalizes acquisition of Mortgage Cadence",
       "link": "https://www.housingwire.com/articles/partnerone-completes-acquisition-of-mortgage-cadence/",
-      "published": "Thu, 02 Apr 2026"
-    },
-    {
-      "title": "Century 21 Integra expands Chicago presence with acquisition",
-      "link": "https://www.housingwire.com/articles/century-21-integra-expands-chicago-presence-with-acquisition/",
       "published": "Thu, 02 Apr 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Northwest MLS accuses Compass of deceptive ‘pocket listing’ scheme in counterclaim",
+        "url": "https://www.housingwire.com/articles/nwmls-counterclaim-compass-pocket-listings-washington/",
+        "what": "Northwest MLS filed federal counterclaims accusing Compass’ pocket listing strategy of violating Washington consumer law and harming buyers and sellers.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nwmls-counterclaim-compass-pocket-listings-washington/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Seemingly Strong March Jobs Report Won’t Impact Mortgage Rates Much",
         "url": "https://www.redfin.com/news/jobs-report-march-2026/",
@@ -338,15 +347,6 @@
         "what": "Lower rolled out Movoto Advantage, a subscription program with about 200 agents, routing live consumer transfers to one vetted agent per market.",
         "numbers": "200",
         "justified": "housingwire.com — https://www.housingwire.com/articles/lower-movoto-advantage-launch/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "HECM activity rises in March, but proprietary loans are taking a bite out of business",
-        "url": "https://www.housingwire.com/articles/hecm-endorsements-hmbs-issuance-march-2026/",
-        "what": "HECM endorsements rose 16.3% in March to 2,117, while HMBS issuance ticked up by $10 million from February to $441 million.",
-        "numbers": "16.3, 2,117,, $10 million, $441 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hecm-endorsements-hmbs-issuance-march-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
