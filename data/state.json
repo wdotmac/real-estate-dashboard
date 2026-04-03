@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-03 13:37 UTC",
+  "as_of": "2026-04-03 15:01 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Thu, 02 Apr 2026"
     },
     {
+      "title": "Seemingly Strong March Jobs Report Won’t Impact Mortgage Rates Much",
+      "link": "https://www.redfin.com/news/jobs-report-march-2026/",
+      "published": "Fri, 03 Apr 2026"
+    },
+    {
       "title": "The Great Housing Mismatch: Empty Nesters Own 28% of the Nation’s Large Homes, Millennial Families Own 16%",
       "link": "https://www.redfin.com/news/empty-nest-large-homes-2026/",
       "published": "Thu, 02 Apr 2026"
@@ -193,15 +198,19 @@
       "title": "Over Half of Home Listings Have Been Lingering on the Market For More Than 2 Months",
       "link": "https://www.redfin.com/news/stale-housing-inventory-february-2026/",
       "published": "Mon, 30 Mar 2026"
-    },
-    {
-      "title": "Market Jitters Drive Mortgage Rates Up, Sending Some Would-Be Homebuyers to the Sidelines",
-      "link": "https://www.redfin.com/news/housing-market-update-market-jitters-mortgage-rates/",
-      "published": "Thu, 26 Mar 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Seemingly Strong March Jobs Report Won’t Impact Mortgage Rates Much",
+        "url": "https://www.redfin.com/news/jobs-report-march-2026/",
+        "what": "Takeaway: The March jobs report, which is hot on its surface, will not move rates much",
+        "numbers": "178,000, 65,000.",
+        "justified": "redfin.com — https://www.redfin.com/news/jobs-report-march-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Century 21 Integra expands Chicago presence with acquisition",
         "url": "https://www.housingwire.com/articles/century-21-integra-expands-chicago-presence-with-acquisition/",
