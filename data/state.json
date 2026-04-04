@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-04 19:45 UTC",
+  "as_of": "2026-04-04 20:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "How is the housing market weathering war-time economics?",
+      "link": "https://www.housingwire.com/articles/how-is-the-housing-market-weathering-war-time-economics/",
+      "published": "Sat, 04 Apr 2026"
+    },
+    {
       "title": "So far, 2026 job growth is better than 2025",
       "link": "https://www.housingwire.com/articles/so-far-2026-job-growth-is-better-than-2025/",
       "published": "Fri, 03 Apr 2026"
@@ -162,11 +167,6 @@
     {
       "title": "NRMLA webinar to cover reverse servicing and maturity events",
       "link": "https://www.housingwire.com/articles/nrmla-reverse-mortgage-servicing-maturity/",
-      "published": "Fri, 03 Apr 2026"
-    },
-    {
-      "title": "Texas SB 17 has reshaped foreign capital in homebuilding",
-      "link": "https://www.housingwire.com/articles/texas-sb17-foreign-homebuilders/",
       "published": "Fri, 03 Apr 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "How is the housing market weathering war-time economics?",
+        "url": "https://www.housingwire.com/articles/how-is-the-housing-market-weathering-war-time-economics/",
+        "what": "War-time economics have sent gas prices skyrocketing and pushed mortgage rates higher over the last five weeks, from a low of 5.99% to a high of 6.64%.",
+        "numbers": "5.99, 6.64",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/how-is-the-housing-market-weathering-war-time-economics/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "So far, 2026 job growth is better than 2025",
         "url": "https://www.housingwire.com/articles/so-far-2026-job-growth-is-better-than-2025/",
@@ -302,15 +311,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/partnerone-completes-acquisition-of-mortgage-cadence/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "What Washington state agents are seeing with new ‘millionaires tax’",
-        "url": "https://www.housingwire.com/articles/what-washington-state-agents-are-seeing-with-new-millionaires-tax/",
-        "what": "The law imposes a 9.9% tax on annual income above $1 million, with implementation expected in 2028 pending legal challenges.",
-        "numbers": "9.9, $1 million, 2028",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/what-washington-state-agents-are-seeing-with-new-millionaires-tax/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "The Great Housing Mismatch: Empty Nesters Own 28% of the Nation’s Large Homes, Millennial Families Own 16%",
