@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-06 06:06 UTC",
+  "as_of": "2026-04-06 08:01 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Presupposition is the mistake:  Why housing marketing doesn’t meet the bar",
+      "link": "https://www.housingwire.com/articles/presupposition-is-the-mistake-why-housing-marketing-doesnt-meet-the-bar/",
+      "published": "Mon, 06 Apr 2026"
+    },
+    {
       "title": "How is the housing market weathering war-time economics?",
       "link": "https://www.housingwire.com/articles/how-is-the-housing-market-weathering-war-time-economics/",
       "published": "Sat, 04 Apr 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Better bets on ChatGPT as the new front door for origination",
       "link": "https://www.housingwire.com/articles/better-com-chatgpt-shift/",
-      "published": "Fri, 03 Apr 2026"
-    },
-    {
-      "title": "NRMLA webinar to cover reverse servicing and maturity events",
-      "link": "https://www.housingwire.com/articles/nrmla-reverse-mortgage-servicing-maturity/",
       "published": "Fri, 03 Apr 2026"
     },
     {
@@ -239,15 +239,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Century 21 Integra expands Chicago presence with acquisition",
-        "url": "https://www.housingwire.com/articles/century-21-integra-expands-chicago-presence-with-acquisition/",
-        "what": "With the acquisition, Century 21 Integra now operates Illinois offices in Schaumburg, Naperville and McHenry.",
-        "numbers": "21",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/century-21-integra-expands-chicago-presence-with-acquisition/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Monthly Payments Tick Up For First Time in 6 Months As Mortgage Rates, Home Prices Jump",
         "url": "https://www.redfin.com/news/housing-market-update-monthly-housing-payments-tick-up/",
         "what": "The Iran war is a major factor pushing up mortgage rates",
@@ -258,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Presupposition is the mistake:  Why housing marketing doesn’t meet the bar",
+        "url": "https://www.housingwire.com/articles/presupposition-is-the-mistake-why-housing-marketing-doesnt-meet-the-bar/",
+        "what": "Though I’ve never taken a marketing class, I remember fellow students quoting the famous Philip Kotler saying that marketing is “the creation of demand.” Simplistic to be sure, but a useful shorthand for that many-splendored thing that many of us do for a living",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/presupposition-is-the-mistake-why-housing-marketing-doesnt-meet-the-bar/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Ryanair Co-Founder Restored An 18th Century Village In Ireland And Now It’s Up For Sale For $23 million",
         "url": "https://www.redfin.com/news/ireland-village-at-lyons-sale/",
