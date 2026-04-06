@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-06 11:12 UTC",
+  "as_of": "2026-04-06 13:46 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Thad Wong: The market spoke, Zillow listened. Will the rest of the industry?",
+      "link": "https://www.housingwire.com/articles/pre-market-listings-zillow-policy-change/",
+      "published": "Mon, 06 Apr 2026"
+    },
+    {
       "title": "Elly Johnson on reverse mortgage integration efforts, risk management practices",
       "link": "https://www.housingwire.com/articles/hecm-hmbs-liquidity-compliance/",
       "published": "Mon, 06 Apr 2026"
@@ -162,11 +167,6 @@
     {
       "title": "NYC builds taller housing again, as state, city law reset the stage",
       "link": "https://www.housingwire.com/articles/nyc-housing-density-far-rules/",
-      "published": "Fri, 03 Apr 2026"
-    },
-    {
-      "title": "Northwest MLS accuses Compass of deceptive ‘pocket listing’ scheme in counterclaim",
-      "link": "https://www.housingwire.com/articles/nwmls-counterclaim-compass-pocket-listings-washington/",
       "published": "Fri, 03 Apr 2026"
     },
     {
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Thad Wong: The market spoke, Zillow listened. Will the rest of the industry?",
+        "url": "https://www.housingwire.com/articles/pre-market-listings-zillow-policy-change/",
+        "what": "In this op-ed, Thad Wong notes that Zillow changed its pre-market listings policy as agents and sellers pushed for phased marketing and broader consumer visibility.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pre-market-listings-zillow-policy-change/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Elly Johnson on reverse mortgage integration efforts, risk management practices",
         "url": "https://www.housingwire.com/articles/hecm-hmbs-liquidity-compliance/",
         "what": "Elly Johnson discusses HECM rule changes, HMBS liquidity strains at 98% MCA, upfront MIP hurdles and servicing compliance risks.",
@@ -302,15 +311,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/texas-sb17-foreign-homebuilders/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Join the most powerful room in housing at The Gathering April 27-30",
-        "url": "https://www.housingwire.com/articles/join-the-most-powerful-room-in-housing-at-the-gathering-april-27-30/",
-        "what": "HousingWire’s The Gathering 2026 will run April 27-30 in Austin, bringing real estate, mortgage and homebuilding leaders into “the most powerful room in housing.”",
-        "numbers": "2026, 27, 30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/join-the-most-powerful-room-in-housing-at-the-gathering-april-27-30/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "The Great Housing Mismatch: Empty Nesters Own 28% of the Nation’s Large Homes, Millennial Families Own 16%",
