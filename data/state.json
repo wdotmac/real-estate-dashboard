@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-07 15:43 UTC",
+  "as_of": "2026-04-07 19:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage rates level off, but is 6.5% the new normal?",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-near-6-5-iran-volatility/",
+      "published": "Tue, 07 Apr 2026"
+    },
+    {
+      "title": "DataTrace on AI’s reality, risk and responsibility in title search",
+      "link": "https://www.housingwire.com/articles/datatrace-on-ais-reality-risk-and-responsibility-in-title-search/",
+      "published": "Tue, 07 Apr 2026"
+    },
+    {
+      "title": "Real Brokerage adds 65-agent Equity Realty Group in Phoenix",
+      "link": "https://www.housingwire.com/articles/real-brokerage-adds-65-agent-equity-realty-group-phoenix/",
+      "published": "Tue, 07 Apr 2026"
+    },
+    {
+      "title": "A new study says private listings beat the MLS. Here’s what it left out",
+      "link": "https://www.housingwire.com/articles/private-listings-premium-fades/",
+      "published": "Tue, 07 Apr 2026"
+    },
+    {
+      "title": "First American sues Novad, seeks to freeze assets over $1.6M reverse mortgage dispute",
+      "link": "https://www.housingwire.com/articles/first-american-novad-lawsuit/",
+      "published": "Tue, 07 Apr 2026"
+    },
+    {
       "title": "Rate hires Adam Boyd as president of consumer lending",
       "link": "https://www.housingwire.com/articles/rate-adam-boyd-president-consumer-lending/",
-      "published": "Tue, 07 Apr 2026"
-    },
-    {
-      "title": "Rocket Pro targets purchase growth with incentives, agent-focused tools",
-      "link": "https://www.housingwire.com/articles/rocket-pro-power-play/",
-      "published": "Tue, 07 Apr 2026"
-    },
-    {
-      "title": "Rechat launches AI memo tool for agents",
-      "link": "https://www.housingwire.com/articles/rechat-launches-ai-memo-tool-for-agents/",
-      "published": "Tue, 07 Apr 2026"
-    },
-    {
-      "title": "Mike Detwiler is once again the head of Mortgage Cadence",
-      "link": "https://www.housingwire.com/articles/mortgage-cadence-detwiler-ceo/",
-      "published": "Tue, 07 Apr 2026"
-    },
-    {
-      "title": "Home renovation plans hold steady despite affordability hurdles",
-      "link": "https://www.housingwire.com/articles/home-renovation-plans-hold-steady/",
-      "published": "Tue, 07 Apr 2026"
-    },
-    {
-      "title": "The hidden cost of mortgage tech: How workflow fragmentation is driving the “interoperability tax”",
-      "link": "https://www.housingwire.com/articles/interoperability-tax-mortgage-workflows/",
       "published": "Tue, 07 Apr 2026"
     },
     {
@@ -203,11 +203,11 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Verification first: Why mortgage lending must rethink income — and how it actually works",
-        "url": "https://www.housingwire.com/articles/verification-first-why-mortgage-lending-must-rethink-income-and-how-it-actually-works/",
-        "what": "For decades, mortgage underwriting has followed the same basic structure: verify income, review credit, apply ratios, and make a decision",
+        "title": "Mortgage rates level off, but is 6.5% the new normal?",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-near-6-5-iran-volatility/",
+        "what": "Mortgage rates have soared in the past month, but market participants appeared to take a wait-and-see approach this week as they contemplate further price increases for home loans.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/verification-first-why-mortgage-lending-must-rethink-income-and-how-it-actually-works/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-near-6-5-iran-volatility/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -241,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "A new study says private listings beat the MLS. Here’s what it left out",
+        "url": "https://www.housingwire.com/articles/private-listings-premium-fades/",
+        "what": "UGA study found a 1.7% private sale premium in DFW, but post 2020 estimates fall to about 0.9% and are not significant.",
+        "numbers": "1.7, 2020, 0.9",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/private-listings-premium-fades/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "First American sues Novad, seeks to freeze assets over $1.6M reverse mortgage dispute",
+        "url": "https://www.housingwire.com/articles/first-american-novad-lawsuit/",
+        "what": "First American sued Novad in a Maryland court, seeking attachment as arbitration proceeds over $1,628,573.38 in reverse mortgage fees.",
+        "numbers": "$1,628,573.38",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/first-american-novad-lawsuit/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Rate hires Adam Boyd as president of consumer lending",
         "url": "https://www.housingwire.com/articles/rate-adam-boyd-president-consumer-lending/",
         "what": "Rate hires veteran executive Adam Boyd as president of consumer lending to drive the lender’s expansion beyond mortgage into consumer lending.",
@@ -257,42 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-cadence-detwiler-ceo/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The hidden cost of mortgage tech: How workflow fragmentation is driving the “interoperability tax”",
-        "url": "https://www.housingwire.com/articles/interoperability-tax-mortgage-workflows/",
-        "what": "Workflow fragmentation is driving hidden costs in mortgage lending",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/interoperability-tax-mortgage-workflows/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Nationwide Mortgage Bankers taps Herrera as president of Hispanic homeownership division",
-        "url": "https://www.housingwire.com/articles/americasa-new-president/",
-        "what": "Herrera previously served as vice president of Americasa, a Spanish-language mortgage platform promoting Hispanic homeownership.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/americasa-new-president/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "HousingWire Mortgage Rankings: How top LOs dominated government lending in 2025",
-        "url": "https://www.housingwire.com/articles/top-fha-va-loan-officers-2025/",
-        "what": "Navy veterans Jason Smith and Martin Medve used their mastery of guidelines and a niche borrower focus to dominate FHA and VA lending in 2025.",
-        "numbers": "2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/top-fha-va-loan-officers-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "A capital-light, local model could power this off-site builder’s plan to scale",
-        "url": "https://www.housingwire.com/articles/reframe-systems-growth-strategy/",
-        "what": "Reframe Systems is scaling a distributed microfactory model for modular and panelized housing, targeting high-cost markets",
-        "numbers": "48, 2026,, 200, 2027",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reframe-systems-growth-strategy/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Ryanair Co-Founder Restored an 18th Century Village in Ireland and Now It’s Up for Sale for $23 Million",
@@ -323,6 +305,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "DataTrace on AI’s reality, risk and responsibility in title search",
+        "url": "https://www.housingwire.com/articles/datatrace-on-ais-reality-risk-and-responsibility-in-title-search/",
+        "what": "AI improves speed and efficiency, but accurate title search still relies on legacy data, infrastructure and validation, the company found.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/datatrace-on-ais-reality-risk-and-responsibility-in-title-search/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Real Brokerage adds 65-agent Equity Realty Group in Phoenix",
+        "url": "https://www.housingwire.com/articles/real-brokerage-adds-65-agent-equity-realty-group-phoenix/",
+        "what": "Real Brokerage adds Randy Anaya’s 65-agent Equity Realty Group in Phoenix’s Southwest Valley, boosting its $191M team presence in the Arizona market.",
+        "numbers": "65, $191",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-brokerage-adds-65-agent-equity-realty-group-phoenix/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Rocket Pro targets purchase growth with incentives, agent-focused tools",
         "url": "https://www.housingwire.com/articles/rocket-pro-power-play/",
