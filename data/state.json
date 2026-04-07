@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-07 05:55 UTC",
+  "as_of": "2026-04-07 07:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The hidden cost of mortgage tech: How workflow fragmentation is driving the “interoperability tax”",
+      "link": "https://www.housingwire.com/articles/interoperability-tax-mortgage-workflows/",
+      "published": "Tue, 07 Apr 2026"
+    },
+    {
+      "title": "Verification first: Why mortgage lending must rethink income — and how it actually works",
+      "link": "https://www.housingwire.com/articles/verification-first-why-mortgage-lending-must-rethink-income-and-how-it-actually-works/",
+      "published": "Tue, 07 Apr 2026"
+    },
+    {
       "title": "Nationwide Mortgage Bankers taps Herrera as president of Hispanic homeownership division",
       "link": "https://www.housingwire.com/articles/americasa-new-president/",
       "published": "Mon, 06 Apr 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Trending: employer housing benefits narrow affordability gaps",
       "link": "https://www.housingwire.com/articles/employer-assisted-housing-commutes/",
-      "published": "Mon, 06 Apr 2026"
-    },
-    {
-      "title": "Click n’ Close appoints Delores Lopez chief operating officer",
-      "link": "https://www.housingwire.com/articles/click-n-close-appoints-delores-lopez-chief-operating-officer/",
-      "published": "Mon, 06 Apr 2026"
-    },
-    {
-      "title": "Reverse Focus acquires Apiro Marketing to broaden mortgage services",
-      "link": "https://www.housingwire.com/articles/reverse-focus-acquires-apiro-marketing-expand-mortgage-services/",
       "published": "Mon, 06 Apr 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Verification first: Why mortgage lending must rethink income — and how it actually works",
+        "url": "https://www.housingwire.com/articles/verification-first-why-mortgage-lending-must-rethink-income-and-how-it-actually-works/",
+        "what": "For decades, mortgage underwriting has followed the same basic structure: verify income, review credit, apply ratios, and make a decision",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/verification-first-why-mortgage-lending-must-rethink-income-and-how-it-actually-works/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Trending: employer housing benefits narrow affordability gaps",
         "url": "https://www.housingwire.com/articles/employer-assisted-housing-commutes/",
@@ -240,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "The hidden cost of mortgage tech: How workflow fragmentation is driving the “interoperability tax”",
+        "url": "https://www.housingwire.com/articles/interoperability-tax-mortgage-workflows/",
+        "what": "Workflow fragmentation is driving hidden costs in mortgage lending",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/interoperability-tax-mortgage-workflows/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Nationwide Mortgage Bankers taps Herrera as president of Hispanic homeownership division",
         "url": "https://www.housingwire.com/articles/americasa-new-president/",
@@ -282,24 +300,6 @@
         "what": "ICE says the overall delinquency rose to 3.72% in February, while serious distress climbed 25% in four months, led by FHA loans.",
         "numbers": "3.72, 25",
         "justified": "housingwire.com — https://www.housingwire.com/articles/ice-serious-delinquencies-fha-rise/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Rocket overtakes UWM in 2025 HMDA loan count",
-        "url": "https://www.housingwire.com/articles/rocket-uwm-2025-hmda-loan-count/",
-        "what": "The largest U.S",
-        "numbers": "2025,, 10, 23.5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-uwm-2025-hmda-loan-count/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Do private listings distort mortgage risk data?",
-        "url": "https://www.housingwire.com/articles/private-listings-appraisals-avms/",
-        "what": "Suppressed pre-marketing data can make homes appear to sell faster and higher, influencing comps, appraisals, and AVM inputs.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/private-listings-appraisals-avms/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
