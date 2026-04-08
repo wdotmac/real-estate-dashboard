@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-08 12:04 UTC",
+  "as_of": "2026-04-08 15:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "FinCEN proposes new anti-money laundering rule for financial institutions",
+      "link": "https://www.housingwire.com/articles/fincen-proposes-new-anti-money-laundering-rule-for-financial-institutions/",
+      "published": "Wed, 08 Apr 2026"
+    },
+    {
+      "title": "Newrez faces Washington state enforcement action over alleged servicing failures",
+      "link": "https://www.housingwire.com/articles/washington-dfi-newrez-servicing-charges/",
+      "published": "Wed, 08 Apr 2026"
+    },
+    {
+      "title": "Better plans $69M stock raise, UK bank sale",
+      "link": "https://www.housingwire.com/articles/better-69m-offering-uk-bank/",
+      "published": "Wed, 08 Apr 2026"
+    },
+    {
       "title": "Mortgage applications edge down as refis stall, purchase demand weakens",
       "link": "https://www.housingwire.com/articles/mortgage-applications-down/",
       "published": "Wed, 08 Apr 2026"
@@ -153,21 +168,6 @@
       "title": "Borrowers have a new agent. Is your organization built for it?",
       "link": "https://www.housingwire.com/articles/borrowers-have-a-new-agent-is-your-organization-built-for-it/",
       "published": "Wed, 08 Apr 2026"
-    },
-    {
-      "title": "Auction.com’s 2026 outlook reveals bearish home price expectations",
-      "link": "https://www.housingwire.com/articles/auction-com-2026-buyer-outlook/",
-      "published": "Wed, 08 Apr 2026"
-    },
-    {
-      "title": "True Footage lands $40M Series C as appraisal industry hits ‘critical’ AI phase",
-      "link": "https://www.housingwire.com/articles/true-footage-40-million-series-c-appraisal-modernization/",
-      "published": "Tue, 07 Apr 2026"
-    },
-    {
-      "title": "California steps up reform to join the single-stair bandwagon",
-      "link": "https://www.housingwire.com/articles/california-single-stair-ab2252/",
-      "published": "Tue, 07 Apr 2026"
     },
     {
       "title": "Redfin Economists’ Weekly Take: Iran War Drives Mortgage Rate Volatility as Markets Brace for Inflation Data",
@@ -203,29 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "FinCEN proposes new anti-money laundering rule for financial institutions",
+        "url": "https://www.housingwire.com/articles/fincen-proposes-new-anti-money-laundering-rule-for-financial-institutions/",
+        "what": "Public comment will be accepted for 60 days after the proposal is published in the Federal Register in the coming days.",
+        "numbers": "60",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fincen-proposes-new-anti-money-laundering-rule-for-financial-institutions/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Borrowers have a new agent. Is your organization built for it?",
         "url": "https://www.housingwire.com/articles/borrowers-have-a-new-agent-is-your-organization-built-for-it/",
         "what": "AI is shifting negotiating power from lenders to borrowers at scale",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/borrowers-have-a-new-agent-is-your-organization-built-for-it/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The rumors aren’t true. Housing market crash unlikely despite war, high rates",
-        "url": "https://www.housingwire.com/articles/the-rumors-arent-true-housing-market-crash-unlikely-despite-war-high-rates/",
-        "what": "HousingWire lead economic analyst Logan Mohtashami has cited a key ingredient needed for a crash that's currently missing.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-rumors-arent-true-housing-market-crash-unlikely-despite-war-high-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage rates level off, but is 6.5% the new normal?",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-near-6-5-iran-volatility/",
-        "what": "Mortgage rates have soared in the past month, but market participants appeared to take a wait-and-see approach this week as they contemplate further price increases for home loans.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-near-6-5-iran-volatility/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -258,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Newrez faces Washington state enforcement action over alleged servicing failures",
+        "url": "https://www.housingwire.com/articles/washington-dfi-newrez-servicing-charges/",
+        "what": "The Washington State Department of Financial Institutions (DFI) filed a statement of charges against Newrez, alleging repeated mortgage servicing violations between 2021 and 2026.",
+        "numbers": "2021, 2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/washington-dfi-newrez-servicing-charges/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage applications edge down as refis stall, purchase demand weakens",
         "url": "https://www.housingwire.com/articles/mortgage-applications-down/",
@@ -315,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "Better plans $69M stock raise, UK bank sale",
+        "url": "https://www.housingwire.com/articles/better-69m-offering-uk-bank/",
+        "what": "The company on Wednesday announced it plans to raise about $69 million in gross proceeds before underwriting discounts, commissions and offering expenses via a public offering of C",
+        "numbers": "$69 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-69m-offering-uk-bank/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "True Footage lands $40M Series C as appraisal industry hits ‘critical’ AI phase",
         "url": "https://www.housingwire.com/articles/true-footage-40-million-series-c-appraisal-modernization/",
         "what": "True Footage raises $40M Series C to scale its staff appraiser model and data platform as UAD 3.6 and AI reshape home valuations.",
@@ -331,15 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/ai-adoption-residential-contracting/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "DataTrace on AI’s reality, risk and responsibility in title search",
-        "url": "https://www.housingwire.com/articles/datatrace-on-ais-reality-risk-and-responsibility-in-title-search/",
-        "what": "AI improves speed and efficiency, but accurate title search still relies on legacy data, infrastructure and validation, the company found.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/datatrace-on-ais-reality-risk-and-responsibility-in-title-search/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
