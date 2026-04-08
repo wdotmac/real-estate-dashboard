@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-08 03:32 UTC",
+  "as_of": "2026-04-08 05:57 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Auction.com’s 2026 outlook reveals bearish home price expectations",
+      "link": "https://www.housingwire.com/articles/auction-com-2026-buyer-outlook/",
+      "published": "Wed, 08 Apr 2026"
+    },
+    {
       "title": "True Footage lands $40M Series C as appraisal industry hits ‘critical’ AI phase",
       "link": "https://www.housingwire.com/articles/true-footage-40-million-series-c-appraisal-modernization/",
       "published": "Tue, 07 Apr 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Mortgage rates level off, but is 6.5% the new normal?",
       "link": "https://www.housingwire.com/articles/mortgage-rates-near-6-5-iran-volatility/",
-      "published": "Tue, 07 Apr 2026"
-    },
-    {
-      "title": "DataTrace on AI’s reality, risk and responsibility in title search",
-      "link": "https://www.housingwire.com/articles/datatrace-on-ais-reality-risk-and-responsibility-in-title-search/",
       "published": "Tue, 07 Apr 2026"
     },
     {
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Auction.com’s 2026 outlook reveals bearish home price expectations",
+        "url": "https://www.housingwire.com/articles/auction-com-2026-buyer-outlook/",
+        "what": "Auction.com’s 2026 Buyer Outlook shows buyers of distressed homes at their most bearish levels in five years on home prices and rents.",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/auction-com-2026-buyer-outlook/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "California steps up reform to join the single-stair bandwagon",
         "url": "https://www.housingwire.com/articles/california-single-stair-ab2252/",
         "what": "California lawmakers have been at the forefront of zoning reforms to increase housing supply and affordability",
@@ -273,15 +282,6 @@
         "what": "First American sued Novad in a Maryland court, seeking attachment as arbitration proceeds over $1,628,573.38 in reverse mortgage fees.",
         "numbers": "$1,628,573.38",
         "justified": "housingwire.com — https://www.housingwire.com/articles/first-american-novad-lawsuit/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Rate hires Adam Boyd as president of consumer lending",
-        "url": "https://www.housingwire.com/articles/rate-adam-boyd-president-consumer-lending/",
-        "what": "Rate hires veteran executive Adam Boyd as president of consumer lending to drive the lender’s expansion beyond mortgage into consumer lending.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rate-adam-boyd-president-consumer-lending/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
