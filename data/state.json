@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-09 14:14 UTC",
+  "as_of": "2026-04-09 15:56 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage credit availability edges higher in March",
+      "link": "https://www.housingwire.com/articles/mortgage-credit-availability-rises/",
+      "published": "Thu, 09 Apr 2026"
+    },
+    {
+      "title": "Collov AI rolls out design tools, 360-degree tours for online listings",
+      "link": "https://www.housingwire.com/articles/collov-ai-design-agent/",
+      "published": "Thu, 09 Apr 2026"
+    },
+    {
+      "title": "AD Mortgage debuts Quick Pricer Pro for broker partners",
+      "link": "https://www.housingwire.com/articles/ad-mortgage-launches-quick-pricer-pro/",
+      "published": "Thu, 09 Apr 2026"
+    },
+    {
+      "title": "KB HOME to move corporate headquarters from LA to Phoenix",
+      "link": "https://www.housingwire.com/articles/kb-home-phoenix-headquarters/",
+      "published": "Thu, 09 Apr 2026"
+    },
+    {
       "title": "Veterans United: Bank of mom and dad propels next generation of homebuyers",
       "link": "https://www.housingwire.com/articles/bank-of-mom-and-dad-homebuyer-support-veterans-united-survey/",
       "published": "Thu, 09 Apr 2026"
@@ -148,26 +168,6 @@
       "title": "GTIS Partners, Hovnanian close $200M JV targeting seven for-sale communities",
       "link": "https://www.housingwire.com/articles/gtis-hovnanian-jv-announcement/",
       "published": "Thu, 09 Apr 2026"
-    },
-    {
-      "title": "A post-New Urban master plan: Colby Cox’s quest for timeless balance",
-      "link": "https://www.housingwire.com/articles/post-new-urbanist-master-planned-community-granary/",
-      "published": "Thu, 09 Apr 2026"
-    },
-    {
-      "title": "Dwight Sandlin’s 2026 spring-selling survive-to-thrive guide",
-      "link": "https://www.housingwire.com/articles/dwight-sandlins-2026-spring-selling-survive-to-thrive-guide/",
-      "published": "Thu, 09 Apr 2026"
-    },
-    {
-      "title": "Why real estate investors are done waiting",
-      "link": "https://www.housingwire.com/articles/why-real-estate-investors-are-done-waiting/",
-      "published": "Thu, 09 Apr 2026"
-    },
-    {
-      "title": "Minimum residential lot size dispute heats up in a Texas county",
-      "link": "https://www.housingwire.com/articles/texas-minimum-residential-lot-size/",
-      "published": "Wed, 08 Apr 2026"
     },
     {
       "title": "A Record 34% of February Home Sellers Cut Their List Price",
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Recruiting Insight launches agent persona framework for brokerage hiring",
-        "url": "https://www.housingwire.com/articles/real-estate-agent-personas-scorecard/",
-        "what": "Recruiting Insight debuts a guide with 11 agent personas and a 1–35 Ideal Agent Scorecard to improve recruiting and retention.",
-        "numbers": "11, 1, 35",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-agent-personas-scorecard/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Iran War Drives Mortgage Rate Volatility as Markets Brace for Inflation Data",
         "url": "https://www.redfin.com/news/weekly-economic-update-april-6-2026/",
         "what": "This Week In A Nutshell: With the Iran War stretching into its sixth week, mortgage rates will continue to ebb and flow with new developments",
@@ -249,6 +240,33 @@
       }
     ],
     "housing": [
+      {
+        "title": "Mortgage credit availability edges higher in March",
+        "url": "https://www.housingwire.com/articles/mortgage-credit-availability-rises/",
+        "what": "Mortgage credit availability rose 1.1% in March to its highest level since August 2022, with gains in government and jumbo credit, MBA said.",
+        "numbers": "1.1, 2022,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-credit-availability-rises/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Collov AI rolls out design tools, 360-degree tours for online listings",
+        "url": "https://www.housingwire.com/articles/collov-ai-design-agent/",
+        "what": "Collov AI launched an AI design agent and 360-degree panoramas for agents, citing 70% beta adoption and pricing near $7 per room.",
+        "numbers": "360, 70, $7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/collov-ai-design-agent/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "AD Mortgage debuts Quick Pricer Pro for broker partners",
+        "url": "https://www.housingwire.com/articles/ad-mortgage-launches-quick-pricer-pro/",
+        "what": "AD Mortgage launched Quick Pricer Pro, a no-cost, AIM-integrated pricing tool for brokers with scenarios, MI calculations and more.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ad-mortgage-launches-quick-pricer-pro/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Veterans United: Bank of mom and dad propels next generation of homebuyers",
         "url": "https://www.housingwire.com/articles/bank-of-mom-and-dad-homebuyer-support-veterans-united-survey/",
@@ -278,6 +296,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "KB HOME to move corporate headquarters from LA to Phoenix",
+        "url": "https://www.housingwire.com/articles/kb-home-phoenix-headquarters/",
+        "what": "KB Home will move its headquarters from Los Angeles to Tempe in spring 2027, citing efficiency gains while keeping six California divisions.",
+        "numbers": "2027,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kb-home-phoenix-headquarters/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "GTIS Partners, Hovnanian close $200M JV targeting seven for-sale communities",
         "url": "https://www.housingwire.com/articles/gtis-hovnanian-jv-announcement/",
@@ -311,33 +338,6 @@
         "what": "A battle has brewed over residential lot sizes in Texas after Gov",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/texas-minimum-residential-lot-size/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Tri Pointe Homes unveils its new wellness models in Utah",
-        "url": "https://www.housingwire.com/articles/tri-pointe-homes-launches-new-wellness-concept-utah/",
-        "what": "Tri Pointe debuts LivingWell in a 7,700-square foot Utah model, expanding LivingSmart features and targeting a HERS 59 rating.",
-        "numbers": "7,700, 59",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tri-pointe-homes-launches-new-wellness-concept-utah/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "FNF adds nine senior title and agency professionals across New England",
-        "url": "https://www.housingwire.com/articles/fnf-new-england-9-hires/",
-        "what": "FNF hired nine professionals in New England in Q1 2026, adding underwriting and sales roles across Massachusetts and six states.",
-        "numbers": "1, 2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fnf-new-england-9-hires/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "AI killed the real estate agent personal brand — now what?",
-        "url": "https://www.housingwire.com/articles/ai-personal-branding-real-estate-agents/",
-        "what": "AI makes agent content easy to produce, so visibility signals less and consumers weigh pricing, negotiation and outcomes.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-personal-branding-real-estate-agents/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
