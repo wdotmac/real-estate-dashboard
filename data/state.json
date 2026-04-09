@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-09 11:16 UTC",
+  "as_of": "2026-04-09 14:14 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Veterans United: Bank of mom and dad propels next generation of homebuyers",
+      "link": "https://www.housingwire.com/articles/bank-of-mom-and-dad-homebuyer-support-veterans-united-survey/",
+      "published": "Thu, 09 Apr 2026"
+    },
+    {
+      "title": "GTIS Partners, Hovnanian close $200M JV targeting seven for-sale communities",
+      "link": "https://www.housingwire.com/articles/gtis-hovnanian-jv-announcement/",
+      "published": "Thu, 09 Apr 2026"
+    },
+    {
+      "title": "A post-New Urban master plan: Colby Cox’s quest for timeless balance",
+      "link": "https://www.housingwire.com/articles/post-new-urbanist-master-planned-community-granary/",
+      "published": "Thu, 09 Apr 2026"
+    },
+    {
       "title": "Dwight Sandlin’s 2026 spring-selling survive-to-thrive guide",
       "link": "https://www.housingwire.com/articles/dwight-sandlins-2026-spring-selling-survive-to-thrive-guide/",
       "published": "Thu, 09 Apr 2026"
@@ -155,19 +170,14 @@
       "published": "Wed, 08 Apr 2026"
     },
     {
-      "title": "Tri Pointe Homes unveils its new wellness models in Utah",
-      "link": "https://www.housingwire.com/articles/tri-pointe-homes-launches-new-wellness-concept-utah/",
-      "published": "Wed, 08 Apr 2026"
+      "title": "A Record 34% of February Home Sellers Cut Their List Price",
+      "link": "https://www.redfin.com/news/home-price-cuts-2026/",
+      "published": "Thu, 09 Apr 2026"
     },
     {
-      "title": "FNF adds nine senior title and agency professionals across New England",
-      "link": "https://www.housingwire.com/articles/fnf-new-england-9-hires/",
-      "published": "Wed, 08 Apr 2026"
-    },
-    {
-      "title": "Recruiting Insight launches agent persona framework for brokerage hiring",
-      "link": "https://www.housingwire.com/articles/real-estate-agent-personas-scorecard/",
-      "published": "Wed, 08 Apr 2026"
+      "title": "Pending Home Sales Post Biggest Decline in 3 Months as High Rates, Iran War Chill Market",
+      "link": "https://www.redfin.com/news/housing-market-update-pending-home-sales-decline-market-chill/",
+      "published": "Thu, 09 Apr 2026"
     },
     {
       "title": "Redfin Economists’ Weekly Take: Iran War Drives Mortgage Rate Volatility as Markets Brace for Inflation Data",
@@ -188,20 +198,19 @@
       "title": "The Great Housing Mismatch: Empty Nesters Own 28% of the Nation’s Large Homes, Millennial Families Own 16%",
       "link": "https://www.redfin.com/news/empty-nest-large-homes-2026/",
       "published": "Thu, 02 Apr 2026"
-    },
-    {
-      "title": "Monthly Payments Tick Up For First Time in 6 Months As Mortgage Rates, Home Prices Jump",
-      "link": "https://www.redfin.com/news/housing-market-update-monthly-housing-payments-tick-up/",
-      "published": "Thu, 02 Apr 2026"
-    },
-    {
-      "title": "This $329,900 Long Island Tiny Home Is Going Viral Because It Has No Bedrooms",
-      "link": "https://www.redfin.com/news/tiny-home-selden-long-island-new-york/",
-      "published": "Tue, 31 Mar 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Pending Home Sales Post Biggest Decline in 3 Months as High Rates, Iran War Chill Market",
+        "url": "https://www.redfin.com/news/housing-market-update-pending-home-sales-decline-market-chill/",
+        "what": "Easter weekend also sidelined many would-be buyers",
+        "numbers": "2.4, 5,, 15.5, 15.4, 15.3, 3",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-home-sales-decline-market-chill/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Why real estate investors are done waiting",
         "url": "https://www.housingwire.com/articles/why-real-estate-investors-are-done-waiting/",
@@ -237,35 +246,26 @@
         "justified": "redfin.com — https://www.redfin.com/news/jobs-report-march-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Monthly Payments Tick Up For First Time in 6 Months As Mortgage Rates, Home Prices Jump",
-        "url": "https://www.redfin.com/news/housing-market-update-monthly-housing-payments-tick-up/",
-        "what": "The Iran war is a major factor pushing up mortgage rates",
-        "numbers": "$2,742,, 0.4, 6",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-monthly-housing-payments-tick-up/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
       {
-        "title": "Errol Samuelson: Zillow retools for AI-driven home search — and the agent stays central",
-        "url": "https://www.housingwire.com/articles/zillow-ai-first-home-search/",
-        "what": "Errol Samuelson tells HousingWire how Zillow is adapting to the new ways consumers are finding homes in the AI age.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-ai-first-home-search/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "Veterans United: Bank of mom and dad propels next generation of homebuyers",
+        "url": "https://www.housingwire.com/articles/bank-of-mom-and-dad-homebuyer-support-veterans-united-survey/",
+        "what": "The poll of 400 veterans, active service members and civilians found that 59% of parents have already helped or intend to help with their child's home purchase in the next three ye",
+        "numbers": "400, 59",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bank-of-mom-and-dad-homebuyer-support-veterans-united-survey/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
-        "title": "Rocktop Technologies forms Rocktop Digital, names Brett Benson CEO",
-        "url": "https://www.housingwire.com/articles/rocktop-technologies-launches-rocktop-digital-tokenization-mortgage-assets/",
-        "what": "Rocktop Technologies has launched Rocktop Digital, a new business focused on digitizing and tokenizing mortgage and private credit assets to modernize how the assets are financed,",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocktop-technologies-launches-rocktop-digital-tokenization-mortgage-assets/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "title": "A Record 34% of February Home Sellers Cut Their List Price",
+        "url": "https://www.redfin.com/news/home-price-cuts-2026/",
+        "what": "February home sellers who cut their price lowered it by $41,000, on average, or 7.3%",
+        "numbers": "$41,000,, 7.3, 34.2, 31.5, 34",
+        "justified": "redfin.com — https://www.redfin.com/news/home-price-cuts-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "Ryanair Co-Founder Restored an 18th Century Village in Ireland and Now It’s Up for Sale for $23 Million",
@@ -275,18 +275,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/ireland-village-at-lyons-sale/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The Great Housing Mismatch: Empty Nesters Own 28% of the Nation’s Large Homes, Millennial Families Own 16%",
-        "url": "https://www.redfin.com/news/empty-nest-large-homes-2026/",
-        "what": "Empty-nest baby boomers own many more 3-bedroom-plus U.S",
-        "numbers": "3, 28, 16",
-        "justified": "redfin.com — https://www.redfin.com/news/empty-nest-large-homes-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
+      {
+        "title": "GTIS Partners, Hovnanian close $200M JV targeting seven for-sale communities",
+        "url": "https://www.housingwire.com/articles/gtis-hovnanian-jv-announcement/",
+        "what": "GTIS Partners and Hovnanian close a $200M JV to build and sell 900+ homes across seven communities in five states, adding to an $8B platform",
+        "numbers": "$200, 900, $8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gtis-hovnanian-jv-announcement/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "A post-New Urban master plan: Colby Cox’s quest for timeless balance",
+        "url": "https://www.housingwire.com/articles/post-new-urbanist-master-planned-community-granary/",
+        "what": "Convergence, when it comes to the $945 billion spent annually on planning, developing, building and maintaining places for people to live and flourish in the U.S., does not occur by chance",
+        "numbers": "$945 billion, 100",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/post-new-urbanist-master-planned-community-granary/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Dwight Sandlin’s 2026 spring-selling survive-to-thrive guide",
         "url": "https://www.housingwire.com/articles/dwight-sandlins-2026-spring-selling-survive-to-thrive-guide/",
@@ -329,15 +338,6 @@
         "what": "AI makes agent content easy to produce, so visibility signals less and consumers weigh pricing, negotiation and outcomes.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/ai-personal-branding-real-estate-agents/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "REMAX merger creates 400-agent firm in Arizona",
-        "url": "https://www.housingwire.com/articles/remax-merger-creates-400-agent-firm-in-arizona/",
-        "what": "The combined brokerage ranks among the larger real estate operations in Arizona based on agent count and geographic reach.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/remax-merger-creates-400-agent-firm-in-arizona/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
