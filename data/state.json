@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-04-09 19:36 UTC",
+  "as_of": "2026-04-09 21:57 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.33,
-      "delta_bp_1d": -0.9999999999999787
+      "yield_pct": 4.29,
+      "delta_bp_1d": -4.0000000000000036
     },
     "mortgage_30y": {
       "rate_pct": 6.37,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Virginia YIGBY bill puts Spanberger housing agenda on the line",
+      "link": "https://www.housingwire.com/articles/virginia-yigby-spanberger-deadline/",
+      "published": "Thu, 09 Apr 2026"
+    },
+    {
+      "title": "PAM appraisal platform targets AMC fees, seeks to give lenders more control",
+      "link": "https://www.housingwire.com/articles/pam-appraisal-platform-amc/",
+      "published": "Thu, 09 Apr 2026"
+    },
+    {
+      "title": "Lower’s John Berkowitz on building lead generation certainty with Movoto Advantage",
+      "link": "https://www.housingwire.com/articles/lower-movoto-advantage-launch-2/",
+      "published": "Thu, 09 Apr 2026"
+    },
+    {
       "title": "New Cheval Holdings acquires Surge, appoints Jimmy Gillespie as CEO",
       "link": "https://www.housingwire.com/articles/new-cheval-holdings-acquires-surge-names-jimmy-gillespie-ceo/",
       "published": "Thu, 09 Apr 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Remodeler confidence slips but remains positive, NAHB reports",
       "link": "https://www.housingwire.com/articles/nahb-rmi-q1-62/",
-      "published": "Thu, 09 Apr 2026"
-    },
-    {
-      "title": "Proprietary reverse mortgage volume eclipses HECM production for the first time",
-      "link": "https://www.housingwire.com/articles/private-label-reverse-hecm-q1-2026/",
-      "published": "Thu, 09 Apr 2026"
-    },
-    {
-      "title": "Judge denies eXp bid to dismiss fraud claims in sexual misconduct case",
-      "link": "https://www.housingwire.com/articles/judge-denies-exp-realty-bid-to-dismiss-fraud-claims-in-sexual-misconduct-case/",
-      "published": "Thu, 09 Apr 2026"
-    },
-    {
-      "title": "Milwaukee’s Luvene Realty Group moves to Compass from Keller Williams",
-      "link": "https://www.housingwire.com/articles/shauny-luvene-team-joins-compass/",
       "published": "Thu, 09 Apr 2026"
     },
     {
@@ -232,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "Virginia YIGBY bill puts Spanberger housing agenda on the line",
+        "url": "https://www.housingwire.com/articles/virginia-yigby-spanberger-deadline/",
+        "what": "Spanberger faces pressure from local governments and a small but vocal group of civic organizations to veto the bill, extending the fight after they failed to stop it in the state'",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/virginia-yigby-spanberger-deadline/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "New Cheval Holdings acquires Surge, appoints Jimmy Gillespie as CEO",
         "url": "https://www.housingwire.com/articles/new-cheval-holdings-acquires-surge-names-jimmy-gillespie-ceo/",
         "what": "New Cheval Holdings acquires Surge, a wholesale mortgage partner intelligence platform, and names Jimmy Gillespie as CEO.",
@@ -268,33 +277,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage credit availability edges higher in March",
-        "url": "https://www.housingwire.com/articles/mortgage-credit-availability-rises/",
-        "what": "Mortgage credit availability rose 1.1% in March to its highest level since August 2022, with gains in government and jumbo credit, MBA said.",
-        "numbers": "1.1, 2022,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-credit-availability-rises/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Collov AI rolls out design tools, 360-degree tours for online listings",
-        "url": "https://www.housingwire.com/articles/collov-ai-design-agent/",
-        "what": "Collov AI launched an AI design agent and 360-degree panoramas for agents, citing 70% beta adoption and pricing near $7 per room.",
-        "numbers": "360, 70, $7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/collov-ai-design-agent/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "AD Mortgage debuts Quick Pricer Pro for broker partners",
-        "url": "https://www.housingwire.com/articles/ad-mortgage-launches-quick-pricer-pro/",
-        "what": "AD Mortgage launched Quick Pricer Pro, a no-cost, AIM-integrated pricing tool for brokers with scenarios, MI calculations and more.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ad-mortgage-launches-quick-pricer-pro/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "A Record 34% of February Home Sellers Cut Their List Price",
         "url": "https://www.redfin.com/news/home-price-cuts-2026/",
         "what": "February home sellers who cut their price lowered it by $41,000, on average, or 7.3%",
@@ -314,6 +296,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "PAM appraisal platform targets AMC fees, seeks to give lenders more control",
+        "url": "https://www.housingwire.com/articles/pam-appraisal-platform-amc/",
+        "what": "PAM says lenders can manage appraisals in-house, cut fees by 25% to 40%, and pay a $99 per-order charge instead of AMC markups.",
+        "numbers": "25, 40, $99",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pam-appraisal-platform-amc/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Lower’s John Berkowitz on building lead generation certainty with Movoto Advantage",
+        "url": "https://www.housingwire.com/articles/lower-movoto-advantage-launch-2/",
+        "what": "Lower describes Movoto Advantage as a limited-access, subscription-based program that connects high-performing real estate agents with motivated home buyers and sellers through rea",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lower-movoto-advantage-launch-2/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "loanDepot, Figure team up on streamlined home loan and equity products",
         "url": "https://www.housingwire.com/articles/loandepot-figure-partnership/",
