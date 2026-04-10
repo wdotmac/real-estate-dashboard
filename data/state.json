@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-10 11:12 UTC",
+  "as_of": "2026-04-10 13:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,16 @@
       "published": "Thu, 09 Apr 2026"
     },
     {
+      "title": "Fed, Mortgage Rates, Likely to Hold Steady on Latest Inflation Report",
+      "link": "https://www.redfin.com/news/fed-mortgage-rates-likely-to-hold-steady-on-latest-inflation-report/",
+      "published": "Fri, 10 Apr 2026"
+    },
+    {
+      "title": "Redfin Earns Top 10 Spot in RealTrends Verified Rankings, Powered by Agent Productivity",
+      "link": "https://www.redfin.com/news/redfin-realtrends-verified-rankings-2026/",
+      "published": "Fri, 10 Apr 2026"
+    },
+    {
       "title": "A Record 34% of February Home Sellers Cut Their List Price",
       "link": "https://www.redfin.com/news/home-price-cuts-2026/",
       "published": "Thu, 09 Apr 2026"
@@ -188,20 +198,19 @@
       "title": "Ryanair Co-Founder Restored an 18th Century Village in Ireland and Now It’s Up for Sale for $23 Million",
       "link": "https://www.redfin.com/news/ireland-village-at-lyons-sale/",
       "published": "Fri, 03 Apr 2026"
-    },
-    {
-      "title": "Seemingly Strong March Jobs Report Won’t Impact Mortgage Rates Much",
-      "link": "https://www.redfin.com/news/jobs-report-march-2026/",
-      "published": "Fri, 03 Apr 2026"
-    },
-    {
-      "title": "The Great Housing Mismatch: Empty Nesters Own 28% of the Nation’s Large Homes, Millennial Families Own 16%",
-      "link": "https://www.redfin.com/news/empty-nest-large-homes-2026/",
-      "published": "Thu, 02 Apr 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Fed, Mortgage Rates, Likely to Hold Steady on Latest Inflation Report",
+        "url": "https://www.redfin.com/news/fed-mortgage-rates-likely-to-hold-steady-on-latest-inflation-report/",
+        "what": "Takeaway: Headline inflation, which includes food and energy prices, spiked in March, but rates won’t move much today because core inflation, which ignores those volatile components, remained subdued",
+        "numbers": "0.9, 3.3",
+        "justified": "redfin.com — https://www.redfin.com/news/fed-mortgage-rates-likely-to-hold-steady-on-latest-inflation-report/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Pending Home Sales Post Biggest Decline in 3 Months as High Rates, Iran War Chill Market",
         "url": "https://www.redfin.com/news/housing-market-update-pending-home-sales-decline-market-chill/",
@@ -219,18 +228,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-april-6-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Seemingly Strong March Jobs Report Won’t Impact Mortgage Rates Much",
-        "url": "https://www.redfin.com/news/jobs-report-march-2026/",
-        "what": "Takeaway: The March jobs report, which is hot on its surface, will not move rates much",
-        "numbers": "178,000, 65,000.",
-        "justified": "redfin.com — https://www.redfin.com/news/jobs-report-march-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Redfin Earns Top 10 Spot in RealTrends Verified Rankings, Powered by Agent Productivity",
+        "url": "https://www.redfin.com/news/redfin-realtrends-verified-rankings-2026/",
+        "what": "Redfin has been recognized among the top residential real estate brokerages for the fourth year in a row! In 2025, our agents closed 50,484 transactions, totaling nearly $32 billion in sales – earning the #8 spot on the RealTrends Verified Brokerage Rankings by both sales volume and transaction count",
+        "numbers": "2025,, 50,484, $32 billion, 8, 10",
+        "justified": "redfin.com — https://www.redfin.com/news/redfin-realtrends-verified-rankings-2026/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Virginia YIGBY bill puts Spanberger housing agenda on the line",
         "url": "https://www.housingwire.com/articles/virginia-yigby-spanberger-deadline/",
