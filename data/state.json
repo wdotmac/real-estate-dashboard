@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-10 19:11 UTC",
+  "as_of": "2026-04-10 20:55 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "NAR settles Tuccori homebuyer commission case for $52.25M",
-      "link": "https://www.housingwire.com/articles/nar-tuccori-homebuyer-settlement/",
+      "title": "FBI: Cybercrime losses topped $20.8B in 2025, real estate fraud hit $275M",
+      "link": "https://www.housingwire.com/articles/fbi-cybercrime-losses-real-estate-fraud-hits-275m/",
       "published": "Fri, 10 Apr 2026"
     },
     {
-      "title": "New American Funding adds One Goal Mortgage to grow Nebraska, Iowa footprint",
-      "link": "https://www.housingwire.com/articles/new-american-funding-one-goal-mortgage-omaha-branch/",
+      "title": "Texas builder breaks ground on first community with Japanese firm",
+      "link": "https://www.housingwire.com/articles/hankyu-hanshin-bridge-tower/",
       "published": "Fri, 10 Apr 2026"
     },
     {
-      "title": "When it comes to pre-marketing strategies, how are Compass, eXp and Zillow different?",
-      "link": "https://www.housingwire.com/articles/premarketing-listings-compass-zillow-exp/",
+      "title": "Unison faces more legal trouble over allegedly deceptive home equity agreements",
+      "link": "https://www.housingwire.com/articles/unison-class-action-home-equity/",
       "published": "Fri, 10 Apr 2026"
     },
     {
-      "title": "Rocktop Digital aims to cut inefficiencies in mortgage asset trading",
-      "link": "https://www.housingwire.com/articles/rocktop-digital-asset-registry/",
+      "title": "Virginia cities gain new tools to increase affordable housing supply",
+      "link": "https://www.housingwire.com/articles/virginia-affordable-housing-rezoning-law/",
       "published": "Fri, 10 Apr 2026"
     },
     {
-      "title": "Douglas Elliman opts into Tuccori homebuyer commission suit settlement",
-      "link": "https://www.housingwire.com/articles/elliman-tuccori-opt-in-settlement/",
+      "title": "Why the hiring rate matters more than unemployment for the housing market",
+      "link": "https://www.housingwire.com/articles/why-the-hiring-rate-matters-more-than-unemployment-for-the-housing-market/",
       "published": "Fri, 10 Apr 2026"
     },
     {
-      "title": "CDFIs could draw institutional capital for climate projects",
-      "link": "https://www.housingwire.com/articles/cdfis-institutional-climate-capital/",
+      "title": "Top Century 21 firm expands into Michigan",
+      "link": "https://www.housingwire.com/articles/top-century-21-firm-expands-into-michigan/",
       "published": "Fri, 10 Apr 2026"
     },
     {
@@ -203,11 +203,11 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Inflation jumps to 3.3% in March as energy leads CPI surge",
-        "url": "https://www.housingwire.com/articles/cpi-3-3-march-gasoline/",
-        "what": "March CPI rose 3.3% year over year and 0.9% month over month, as gasoline jumped 21.2% and energy rose 10.9%.",
-        "numbers": "3.3, 0.9, 21.2, 10.9",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cpi-3-3-march-gasoline/",
+        "title": "Why the hiring rate matters more than unemployment for the housing market",
+        "url": "https://www.housingwire.com/articles/why-the-hiring-rate-matters-more-than-unemployment-for-the-housing-market/",
+        "what": "We’re not getting new jobs in 2026",
+        "numbers": "2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-the-hiring-rate-matters-more-than-unemployment-for-the-housing-market/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -241,6 +241,33 @@
     ],
     "housing": [
       {
+        "title": "FBI: Cybercrime losses topped $20.8B in 2025, real estate fraud hit $275M",
+        "url": "https://www.housingwire.com/articles/fbi-cybercrime-losses-real-estate-fraud-hits-275m/",
+        "what": "Real estate fraud alone accounted for 12,368 complaints, showing a continued and growing threat for housing professionals and clients.",
+        "numbers": "12,368",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fbi-cybercrime-losses-real-estate-fraud-hits-275m/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Texas builder breaks ground on first community with Japanese firm",
+        "url": "https://www.housingwire.com/articles/hankyu-hanshin-bridge-tower/",
+        "what": "Hankyu Hanshin and Bridge Tower broke ground on a 97-lot Corinth project as a new JV targets for-sale communities across Texas.",
+        "numbers": "97",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hankyu-hanshin-bridge-tower/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Virginia cities gain new tools to increase affordable housing supply",
+        "url": "https://www.housingwire.com/articles/virginia-affordable-housing-rezoning-law/",
+        "what": "Virginia law lets every locality adopt voluntary inclusionary zoning, density bonuses, ADUs and trust-fund fee options.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/virginia-affordable-housing-rezoning-law/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "New American Funding adds One Goal Mortgage to grow Nebraska, Iowa footprint",
         "url": "https://www.housingwire.com/articles/new-american-funding-one-goal-mortgage-omaha-branch/",
         "what": "New American Funding adds the One Goal Mortgage team, expanding purchase-focused coverage across Nebraska and southwest Iowa.",
@@ -266,15 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/rocktop-digital-asset-registry/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Zillow Preview expands as more brokerages seek pre-market exposure",
-        "url": "https://www.housingwire.com/articles/zillow-preview-adds-28-firms/",
-        "what": "Zillow says nearly 60 firms now use Preview, adding 28 more, letting coming soon listings appear on Zillow and Trulia before MLS.",
-        "numbers": "60, 28",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-preview-adds-28-firms/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Redfin Earns Top 10 Spot in RealTrends Verified Rankings, Powered by Agent Productivity",
@@ -306,47 +324,29 @@
     ],
     "notables": [
       {
+        "title": "Unison faces more legal trouble over allegedly deceptive home equity agreements",
+        "url": "https://www.housingwire.com/articles/unison-class-action-home-equity/",
+        "what": "Plaintiffs say the company markets the product as involving no debt, but the terms of the HEI can force a large balloon-style payoff.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/unison-class-action-home-equity/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Top Century 21 firm expands into Michigan",
+        "url": "https://www.housingwire.com/articles/top-century-21-firm-expands-into-michigan/",
+        "what": "Leaders said the move reflects trends across Midwest markets, where relocation patterns increasingly cross state lines.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/top-century-21-firm-expands-into-michigan/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "NAR settles Tuccori homebuyer commission case for $52.25M",
         "url": "https://www.housingwire.com/articles/nar-tuccori-homebuyer-settlement/",
         "what": "NAR will contribute $52.25M to opt into the Tuccori homebuyer settlement and says the release is intended to cover Batton claims.",
         "numbers": "$52.25",
         "justified": "housingwire.com — https://www.housingwire.com/articles/nar-tuccori-homebuyer-settlement/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Douglas Elliman opts into Tuccori homebuyer commission suit settlement",
-        "url": "https://www.housingwire.com/articles/elliman-tuccori-opt-in-settlement/",
-        "what": "Douglas Elliman opted into the Tuccori homebuyer commission settlement, notifying the court in Lutz as the opt-in period closes Monday.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/elliman-tuccori-opt-in-settlement/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CDFIs could draw institutional capital for climate projects",
-        "url": "https://www.housingwire.com/articles/cdfis-institutional-climate-capital/",
-        "what": "A new report by Ceres and the Justice Climate Fund says that CDFIs can meet investors' needs through aggregation and securitization.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cdfis-institutional-climate-capital/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "‘An endless battle’: How real estate pros can stay ahead of deepfake fraudsters",
-        "url": "https://www.housingwire.com/articles/an-endless-battle-how-real-estate-pros-can-stay-ahead-of-deepfake-fraudsters/",
-        "what": "Fraud losses tied to AI-generated deepfakes are on track to reach billions annually, with real estate among the most exposed sectors.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/an-endless-battle-how-real-estate-pros-can-stay-ahead-of-deepfake-fraudsters/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "2026 RealTrends Verified: The power players hold — but the real story is who’s gaining ground",
-        "url": "https://www.housingwire.com/articles/realtrends-verified-brokerage-rankings-2026/",
-        "what": "2026 RealTrends Verified shows The Real Brokerage at No",
-        "numbers": "2026, 5, 61,041, 11.08",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realtrends-verified-brokerage-rankings-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
