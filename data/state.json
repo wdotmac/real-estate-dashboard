@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-11 22:51 UTC",
+  "as_of": "2026-04-11 23:50 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Is housing inventory about to turn negative year over year?",
+      "link": "https://www.housingwire.com/articles/is-housing-inventory-about-to-turn-negative-year-over-year/",
+      "published": "Sat, 11 Apr 2026"
+    },
+    {
       "title": "As retirement slips further away, workers prioritize stability and senior home equity",
       "link": "https://www.housingwire.com/articles/low-quit-rate-stability-senior-home-equity/",
       "published": "Fri, 10 Apr 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Virginia cities gain new tools to increase affordable housing supply",
       "link": "https://www.housingwire.com/articles/virginia-affordable-housing-rezoning-law/",
-      "published": "Fri, 10 Apr 2026"
-    },
-    {
-      "title": "Why the hiring rate matters more than unemployment for the housing market",
-      "link": "https://www.housingwire.com/articles/why-the-hiring-rate-matters-more-than-unemployment-for-the-housing-market/",
       "published": "Fri, 10 Apr 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Is housing inventory about to turn negative year over year?",
+        "url": "https://www.housingwire.com/articles/is-housing-inventory-about-to-turn-negative-year-over-year/",
+        "what": "U.S",
+        "numbers": "3.21, 6.64, 7.9, 2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/is-housing-inventory-about-to-turn-negative-year-over-year/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Why the hiring rate matters more than unemployment for the housing market",
         "url": "https://www.housingwire.com/articles/why-the-hiring-rate-matters-more-than-unemployment-for-the-housing-market/",
@@ -273,15 +282,6 @@
         "what": "New American Funding adds the One Goal Mortgage team, expanding purchase-focused coverage across Nebraska and southwest Iowa.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/new-american-funding-one-goal-mortgage-omaha-branch/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "When it comes to pre-marketing strategies, how are Compass, eXp and Zillow different?",
-        "url": "https://www.housingwire.com/articles/premarketing-listings-compass-zillow-exp/",
-        "what": "Compass, Zillow, and eXp rolled out coming soon programs with different rules on exclusivity, MLS limits and lead routing.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/premarketing-listings-compass-zillow-exp/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
