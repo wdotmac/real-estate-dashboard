@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-04-13 19:38 UTC",
+  "as_of": "2026-04-13 23:59 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.29,
-      "delta_bp_1d": 0.0
+      "yield_pct": 4.31,
+      "delta_bp_1d": 1.9999999999999574
     },
     "mortgage_30y": {
       "rate_pct": 6.37,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "NYC ultra-luxury market surges amid global unrest",
+      "link": "https://www.housingwire.com/articles/nyc-ultra-luxury-market-surges-amid-global-unrest/",
+      "published": "Mon, 13 Apr 2026"
+    },
+    {
+      "title": "Cybercrime against seniors is surging, with $7.75B reportedly lost in 2025",
+      "link": "https://www.housingwire.com/articles/fbi-seniors-cybercrime-2025/",
+      "published": "Mon, 13 Apr 2026"
+    },
+    {
+      "title": "A look at Taylor Morrison’s eye-catching marketing campaign",
+      "link": "https://www.housingwire.com/articles/taylor-morrison-liquid-death-giveaway/",
+      "published": "Mon, 13 Apr 2026"
+    },
+    {
+      "title": "New York joins states seeking to regulate private listing networks",
+      "link": "https://www.housingwire.com/articles/ny-regulates-private-listings/",
+      "published": "Mon, 13 Apr 2026"
+    },
+    {
       "title": "Georgia LIHTC credit match stays in place for now",
       "link": "https://www.housingwire.com/articles/georgia-lihtc-property-tax-fight/",
       "published": "Mon, 13 Apr 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Friday Harbor adds Kate Schilling, Melina Stayton to bolster lender-facing teams",
       "link": "https://www.housingwire.com/articles/friday-harbor-hires-kate-schilling-melina-stayton-sales-customer-success/",
-      "published": "Mon, 13 Apr 2026"
-    },
-    {
-      "title": "The 8 top real estate lead generation companies for 2026",
-      "link": "https://www.housingwire.com/articles/top-real-estate-lead-generation-companies/",
-      "published": "Mon, 13 Apr 2026"
-    },
-    {
-      "title": "Homebuilding veteran David Assid joins First America Homes as Houston division president",
-      "link": "https://www.housingwire.com/articles/david-assid-joins-first-america-homes-houston/",
-      "published": "Mon, 13 Apr 2026"
-    },
-    {
-      "title": "Homebuilder survey shows weaker sales and demand in March",
-      "link": "https://www.housingwire.com/articles/march-homebuilder-sales-softened/",
-      "published": "Mon, 13 Apr 2026"
-    },
-    {
-      "title": "Mortgage Cadence hires Joe Zeibert as CRO to align sales, customer success strategies",
-      "link": "https://www.housingwire.com/articles/mortgage-cadence-joe-zeibert-chief-revenue-officer/",
       "published": "Mon, 13 Apr 2026"
     },
     {
@@ -277,15 +277,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "NAR March existing home sales hit slowest pace since 2009",
-        "url": "https://www.housingwire.com/articles/nar-march-home-sales-2009/",
-        "what": "March existing home sales fell 3.6% to 3.98 million, the slowest March since 2009, as inventory climbed 3.0% to 1.36 million.",
-        "numbers": "3.6, 3.98 million, 2009,, 3.0, 1.36 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-march-home-sales-2009/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "Redfin Earns Top 10 Spot in RealTrends Verified Rankings, Powered by Agent Productivity",
         "url": "https://www.redfin.com/news/redfin-realtrends-verified-rankings-2026/",
         "what": "Redfin has been recognized among the top residential real estate brokerages for the fourth year in a row! In 2025, our agents closed 50,484 transactions, totaling nearly $32 billion in sales – earning the #8 spot on the RealTrends Verified Brokerage Rankings by both sales volume and transaction count",
@@ -306,38 +297,47 @@
     ],
     "notables": [
       {
+        "title": "NYC ultra-luxury market surges amid global unrest",
+        "url": "https://www.housingwire.com/articles/nyc-ultra-luxury-market-surges-amid-global-unrest/",
+        "what": "One Manhattan broker is seeing more families relocating from Dubai, which experienced an enormous post-COVID market surge.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-ultra-luxury-market-surges-amid-global-unrest/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Cybercrime against seniors is surging, with $7.75B reportedly lost in 2025",
+        "url": "https://www.housingwire.com/articles/fbi-seniors-cybercrime-2025/",
+        "what": "Investment fraud, much of it involving cryptocurrency and fake trading platforms, inflicted the heaviest financial toll on seniors.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fbi-seniors-cybercrime-2025/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "A look at Taylor Morrison’s eye-catching marketing campaign",
+        "url": "https://www.housingwire.com/articles/taylor-morrison-liquid-death-giveaway/",
+        "what": "Taylor Morrison partnered with Liquid Death on a sweepstakes to give away a roughly $355,000 home",
+        "numbers": "$355,000, 31, 3,500, 24",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/taylor-morrison-liquid-death-giveaway/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "New York joins states seeking to regulate private listing networks",
+        "url": "https://www.housingwire.com/articles/ny-regulates-private-listings/",
+        "what": "New York introduced a bill to require public listing marketing and regulate private listing networks, as other states pass similar laws.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ny-regulates-private-listings/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "The 8 top real estate lead generation companies for 2026",
         "url": "https://www.housingwire.com/articles/top-real-estate-lead-generation-companies/",
         "what": "These top real estate lead generation companies can help you find and nurture more qualified leads and close more deals.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/top-real-estate-lead-generation-companies/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "REMAX adds high-producing Chicago luxury team",
-        "url": "https://www.housingwire.com/articles/remax-adds-high-producing-chicago-luxury-team/",
-        "what": "The Rizzo Group will operate out of REMAX Premier's Lake Forest office",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/remax-adds-high-producing-chicago-luxury-team/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Third Point exits CoStar, ending its activist investor push",
-        "url": "https://www.housingwire.com/articles/third-point-sells-costar-stake/",
-        "what": "Third Point has sold its CoStar shares after urging board changes and Homes.com options, as CoStar targets 18% growth.",
-        "numbers": "18",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/third-point-sells-costar-stake/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Douglas Elliman adds $50M+ Jackson Arnett Group in California",
-        "url": "https://www.housingwire.com/articles/jackson-arnett-joins-elliman/",
-        "what": "Douglas Elliman adds the Jackson Arnett Group in Rancho Santa Fe after seven years at Compass, with 2024 volume of $50M+ on 17 sides.",
-        "numbers": "2024, $50, 17",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/jackson-arnett-joins-elliman/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
