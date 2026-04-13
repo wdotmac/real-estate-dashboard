@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-13 14:07 UTC",
+  "as_of": "2026-04-13 17:18 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,7 +140,22 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Douglas Elliman adds $50+M Jackson Arnett Group in California",
+      "title": "REMAX adds high-producing Chicago luxury team",
+      "link": "https://www.housingwire.com/articles/remax-adds-high-producing-chicago-luxury-team/",
+      "published": "Mon, 13 Apr 2026"
+    },
+    {
+      "title": "Third Point exits CoStar, ending its activist investor push",
+      "link": "https://www.housingwire.com/articles/third-point-sells-costar-stake/",
+      "published": "Mon, 13 Apr 2026"
+    },
+    {
+      "title": "NAR March existing home sales hit slowest pace since 2009",
+      "link": "https://www.housingwire.com/articles/nar-march-home-sales-2009/",
+      "published": "Mon, 13 Apr 2026"
+    },
+    {
+      "title": "Douglas Elliman adds $50M+ Jackson Arnett Group in California",
       "link": "https://www.housingwire.com/articles/jackson-arnett-joins-elliman/",
       "published": "Mon, 13 Apr 2026"
     },
@@ -152,21 +167,6 @@
     {
       "title": "The platform play: How Real, LPT Realty are reshaping brokerage growth",
       "link": "https://www.housingwire.com/articles/the-platform-play-how-real-lpt-realty-are-reshaping-brokerage-growth/",
-      "published": "Mon, 13 Apr 2026"
-    },
-    {
-      "title": "What 10 years of housing data reveals about the 2026 market and the signals to watch",
-      "link": "https://www.housingwire.com/articles/housing-market-signals-2026/",
-      "published": "Mon, 13 Apr 2026"
-    },
-    {
-      "title": "Guild’s Jim Cory on Bayview deal and reverse mortgage trends",
-      "link": "https://www.housingwire.com/articles/guild-jim-cory-reverse-trends/",
-      "published": "Mon, 13 Apr 2026"
-    },
-    {
-      "title": "How to create a real estate agent development plan when you’ve hit a plateau",
-      "link": "https://www.housingwire.com/articles/real-estate-agent-development-plan/",
       "published": "Mon, 13 Apr 2026"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Is housing inventory about to turn negative year over year?",
-        "url": "https://www.housingwire.com/articles/is-housing-inventory-about-to-turn-negative-year-over-year/",
-        "what": "U.S",
-        "numbers": "3.21, 6.64, 7.9, 2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/is-housing-inventory-about-to-turn-negative-year-over-year/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Fed, Mortgage Rates Likely to Hold Steady on Latest Inflation Report",
         "url": "https://www.redfin.com/news/fed-mortgage-rates-likely-to-hold-steady-on-latest-inflation-report/",
         "what": "Takeaway: Headline inflation, which includes food and energy prices, spiked in March, but rates won’t move much today because core inflation, which ignores those volatile components, remained subdued",
@@ -240,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "NAR March existing home sales hit slowest pace since 2009",
+        "url": "https://www.housingwire.com/articles/nar-march-home-sales-2009/",
+        "what": "March existing home sales fell 3.6% to 3.98 million, the slowest March since 2009, as inventory climbed 3.0% to 1.36 million.",
+        "numbers": "3.6, 3.98 million, 2009,, 3.0, 1.36 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-march-home-sales-2009/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "What 10 years of housing data reveals about the 2026 market and the signals to watch",
         "url": "https://www.housingwire.com/articles/housing-market-signals-2026/",
@@ -277,15 +277,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "FBI: Cybercrime losses topped $20.8B in 2025, real estate fraud hit $275M",
-        "url": "https://www.housingwire.com/articles/fbi-cybercrime-losses-real-estate-fraud-hits-275m/",
-        "what": "Real estate fraud alone accounted for 12,368 complaints, showing a continued and growing threat for housing professionals and clients.",
-        "numbers": "12,368",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fbi-cybercrime-losses-real-estate-fraud-hits-275m/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Redfin Earns Top 10 Spot in RealTrends Verified Rankings, Powered by Agent Productivity",
         "url": "https://www.redfin.com/news/redfin-realtrends-verified-rankings-2026/",
         "what": "Redfin has been recognized among the top residential real estate brokerages for the fourth year in a row! In 2025, our agents closed 50,484 transactions, totaling nearly $32 billion in sales – earning the #8 spot on the RealTrends Verified Brokerage Rankings by both sales volume and transaction count",
@@ -306,10 +297,28 @@
     ],
     "notables": [
       {
-        "title": "Douglas Elliman adds $50+M Jackson Arnett Group in California",
+        "title": "REMAX adds high-producing Chicago luxury team",
+        "url": "https://www.housingwire.com/articles/remax-adds-high-producing-chicago-luxury-team/",
+        "what": "The Rizzo Group will operate out of REMAX Premier's Lake Forest office",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/remax-adds-high-producing-chicago-luxury-team/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Third Point exits CoStar, ending its activist investor push",
+        "url": "https://www.housingwire.com/articles/third-point-sells-costar-stake/",
+        "what": "Third Point has sold its CoStar shares after urging board changes and Homes.com options, as CoStar targets 18% growth.",
+        "numbers": "18",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/third-point-sells-costar-stake/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Douglas Elliman adds $50M+ Jackson Arnett Group in California",
         "url": "https://www.housingwire.com/articles/jackson-arnett-joins-elliman/",
-        "what": "Douglas Elliman adds the Jackson Arnett Group in Rancho Santa Fe after seven years at Compass, with 2024 volume of $52M+ on 17 sides.",
-        "numbers": "2024, $52, 17",
+        "what": "Douglas Elliman adds the Jackson Arnett Group in Rancho Santa Fe after seven years at Compass, with 2024 volume of $50M+ on 17 sides.",
+        "numbers": "2024, $50, 17",
         "justified": "housingwire.com — https://www.housingwire.com/articles/jackson-arnett-joins-elliman/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
@@ -329,15 +338,6 @@
         "what": "The Real Brokerage and LPT Realty posted significant yearly transaction side increases on the 2026 RealTrends Verified brokerage rankings.",
         "numbers": "2026",
         "justified": "housingwire.com — https://www.housingwire.com/articles/the-platform-play-how-real-lpt-realty-are-reshaping-brokerage-growth/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "As retirement slips further away, workers prioritize stability and senior home equity",
-        "url": "https://www.housingwire.com/articles/low-quit-rate-stability-senior-home-equity/",
-        "what": "Thirty percent of respondents said they’ve stopped looking for new work over the past five years because of job security concerns.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/low-quit-rate-stability-senior-home-equity/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
