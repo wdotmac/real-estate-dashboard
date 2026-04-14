@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-14 15:41 UTC",
+  "as_of": "2026-04-14 17:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "As Compass grows, scrutiny builds over private listings and double-ending",
+      "link": "https://www.housingwire.com/articles/compass-market-share-metros/",
+      "published": "Tue, 14 Apr 2026"
+    },
+    {
+      "title": "Big banks see mortgage volumes fall as CEOs spar over capital proposals",
+      "link": "https://www.housingwire.com/articles/big-banks-q1-2026-mortgage-originations-earnings/",
+      "published": "Tue, 14 Apr 2026"
+    },
+    {
+      "title": "Mortgage rates dip as Middle East ceasefire cools investor fears",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-ceasefire-oil/",
+      "published": "Tue, 14 Apr 2026"
+    },
+    {
       "title": "NAR and Florida MLS groups dismissed from Zea lawsuit",
       "link": "https://www.housingwire.com/articles/nar-florida-mls-dismissed-zea/",
       "published": "Tue, 14 Apr 2026"
@@ -152,21 +167,6 @@
     {
       "title": "SERHANT. launches in five California luxury markets",
       "link": "https://www.housingwire.com/articles/serhant-expands-california/",
-      "published": "Tue, 14 Apr 2026"
-    },
-    {
-      "title": "HousingWire Mortgage Rankings: Which lenders are dominating the market?",
-      "link": "https://www.housingwire.com/articles/rocket-leads-2025-originators/",
-      "published": "Tue, 14 Apr 2026"
-    },
-    {
-      "title": "Optimal Blue reports March 2026 purchase locks jump 38%",
-      "link": "https://www.housingwire.com/articles/optimal-blue-march-2026-rate-locks/",
-      "published": "Tue, 14 Apr 2026"
-    },
-    {
-      "title": "The myth of the “perfect market” and the cost of waiting",
-      "link": "https://www.housingwire.com/articles/the-myth-of-the-perfect-market-and-the-cost-of-waiting/",
       "published": "Tue, 14 Apr 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage rates dip as Middle East ceasefire cools investor fears",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-ceasefire-oil/",
+        "what": "The ceasefire in the Middle East that runs until April 22 has temporarily put the brakes on rising mortgage rates, but returning the cost of home loan closer to a 6% anytime soon is contingent on a long-term resolution between the U.S",
+        "numbers": "22, 6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-ceasefire-oil/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "From Nebraska to Alaska: Redfin and Glassdoor Rank the Top U.S. Cities For New Grads",
         "url": "https://www.redfin.com/news/best-cities-recent-grads-2026/",
@@ -258,6 +267,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "As Compass grows, scrutiny builds over private listings and double-ending",
+        "url": "https://www.housingwire.com/articles/compass-market-share-metros/",
+        "what": "CPC review of 5,000 sales finds Compass at 29.7% to 39.5% share in five metros, raising double-ending and private listing concerns.",
+        "numbers": "5,000, 29.7, 39.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-market-share-metros/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Big banks see mortgage volumes fall as CEOs spar over capital proposals",
+        "url": "https://www.housingwire.com/articles/big-banks-q1-2026-mortgage-originations-earnings/",
+        "what": "Big banks JPMorgan Chase and Wells Fargo saw mortgage volumes decrease more than expected in the first quarter of the year despite a regulatory push to make them more active in the",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/big-banks-q1-2026-mortgage-originations-earnings/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "HousingWire Mortgage Rankings: Which lenders are dominating the market?",
         "url": "https://www.housingwire.com/articles/rocket-leads-2025-originators/",
@@ -320,33 +347,6 @@
         "what": "Optimal Blue March 2026 locks rose 13% MoM as purchase volume jumped 38% and the 30-year conforming fixed-rate index rose to 6.35%.",
         "numbers": "2026, 13, 38, 30, 6.35",
         "justified": "housingwire.com — https://www.housingwire.com/articles/optimal-blue-march-2026-rate-locks/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NYC ultra-luxury market surges amid global unrest",
-        "url": "https://www.housingwire.com/articles/nyc-ultra-luxury-market-surges-amid-global-unrest/",
-        "what": "One Manhattan broker is seeing more families relocating from Dubai, which experienced an enormous post-COVID market surge.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-ultra-luxury-market-surges-amid-global-unrest/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Cybercrime against seniors is surging, with $7.75B reportedly lost in 2025",
-        "url": "https://www.housingwire.com/articles/fbi-seniors-cybercrime-2025/",
-        "what": "Investment fraud, much of it involving cryptocurrency and fake trading platforms, inflicted the heaviest financial toll on seniors.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fbi-seniors-cybercrime-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "A look at Taylor Morrison’s eye-catching marketing campaign",
-        "url": "https://www.housingwire.com/articles/taylor-morrison-liquid-death-giveaway/",
-        "what": "Taylor Morrison partnered with Liquid Death on a sweepstakes to give away a roughly $355,000 home",
-        "numbers": "$355,000, 31, 3,500, 24",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/taylor-morrison-liquid-death-giveaway/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
