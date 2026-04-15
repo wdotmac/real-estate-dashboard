@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-15 06:10 UTC",
+  "as_of": "2026-04-15 08:04 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Culture isn’t what you say. It’s what you do",
+      "link": "https://www.housingwire.com/articles/culture-isnt-what-you-say-its-what-you-do/",
+      "published": "Wed, 15 Apr 2026"
+    },
+    {
+      "title": "The rise of HELOCs: What it means for originators in today’s market",
+      "link": "https://www.housingwire.com/articles/the-rise-of-helocs-what-it-means-for-originators-in-todays-market/",
+      "published": "Wed, 15 Apr 2026"
+    },
+    {
+      "title": "Chain reaction: A framework for America’s housing and retirement crises",
+      "link": "https://www.housingwire.com/articles/chain-reaction-a-framework-for-americas-housing-and-retirement-crises/",
+      "published": "Wed, 15 Apr 2026"
+    },
+    {
       "title": "MBA chief economist says mortgage rates, inflation will stay elevated through 2026",
       "link": "https://www.housingwire.com/articles/mba-mortgage-rates-inflation-economy-2026/",
       "published": "Tue, 14 Apr 2026"
@@ -152,21 +167,6 @@
     {
       "title": "White House backs deregulation as it looks to address estimated 10M housing deficit",
       "link": "https://www.housingwire.com/articles/white-house-housing-deficit-deregulation/",
-      "published": "Tue, 14 Apr 2026"
-    },
-    {
-      "title": "Brynn Carmody’s burnout as a real estate agent sparked an AI platform for the entire industry",
-      "link": "https://www.housingwire.com/articles/her-market-lab-ai-platform/",
-      "published": "Tue, 14 Apr 2026"
-    },
-    {
-      "title": "Why is housing inventory growth slowing down in 2026?",
-      "link": "https://www.housingwire.com/articles/why-is-housing-inventory-growth-slowing-down-in-2026/",
-      "published": "Tue, 14 Apr 2026"
-    },
-    {
-      "title": "UWM, Mat Ishbia sued after Michigan State football coach’s harassment fallout",
-      "link": "https://www.housingwire.com/articles/uwm-ishbia-tracy-tucker-lawsuit/",
       "published": "Tue, 14 Apr 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "The rise of HELOCs: What it means for originators in today’s market",
+        "url": "https://www.housingwire.com/articles/the-rise-of-helocs-what-it-means-for-originators-in-todays-market/",
+        "what": "As interest rates remain elevated compared to historic, pandemic-era lows, many homeowners are rethinking how to access cash without giving up the favorable rates they locked in just a few years ago",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-rise-of-helocs-what-it-means-for-originators-in-todays-market/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "MBA chief economist says mortgage rates, inflation will stay elevated through 2026",
         "url": "https://www.housingwire.com/articles/mba-mortgage-rates-inflation-economy-2026/",
         "what": "MBA’s Mike Fratantoni expects 2026 inflation near 4% and no Fed cuts, keeping mortgage rates and bond yields elevated.",
@@ -217,15 +226,6 @@
         "what": "Inventory is up from record lows, but new listings remain below normal, keeping 2026 growth rates below last year’s peak.",
         "numbers": "2026",
         "justified": "housingwire.com — https://www.housingwire.com/articles/why-is-housing-inventory-growth-slowing-down-in-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Veterans United seeks dismissal of VA impersonation, steering lawsuit",
-        "url": "https://www.housingwire.com/articles/veterans-united-dismiss-respa-suit/",
-        "what": "Veterans United Home Loans filed a motion to dismiss a class-action lawsuit that accuses the lender of falsely presenting itself as affiliated with the federal government and steer",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/veterans-united-dismiss-respa-suit/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -268,6 +268,24 @@
     ],
     "housing": [
       {
+        "title": "Culture isn’t what you say. It’s what you do",
+        "url": "https://www.housingwire.com/articles/culture-isnt-what-you-say-its-what-you-do/",
+        "what": "Culture starts with leadership, is tested in hiring, and lives in daily actions",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/culture-isnt-what-you-say-its-what-you-do/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Chain reaction: A framework for America’s housing and retirement crises",
+        "url": "https://www.housingwire.com/articles/chain-reaction-a-framework-for-americas-housing-and-retirement-crises/",
+        "what": "The American Dream has a math problem",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/chain-reaction-a-framework-for-americas-housing-and-retirement-crises/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "California lawmakers weigh state-backed loans for downtown housing towers",
         "url": "https://www.housingwire.com/articles/california-downtown-loan-fund/",
         "what": "Assembly Bill 2074, dubbed the Downtown Revitalization Act, would ease approvals and offer state-backed, low-interest financing near major transit hubs.",
@@ -302,24 +320,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/policy-uncertainty-rattles-older-investors-reverse-mortgage/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Broeksmit outlines next steps as MBA ramps up advocacy efforts",
-        "url": "https://www.housingwire.com/articles/mba-capitol-hill-advocacy/",
-        "what": "At MBA's National Advocacy Conference, Bob Broeksmit urged members to intensify advocacy as lawmakers consider housing policy changes.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-capitol-hill-advocacy/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "As Compass grows, scrutiny builds over private listings and double-ending",
-        "url": "https://www.housingwire.com/articles/compass-market-share-metros/",
-        "what": "CPC review of 5,000 sales finds Compass at 29.7% to 39.5% share in five metros, raising double-ending and private listing concerns.",
-        "numbers": "5,000, 29.7, 39.5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-market-share-metros/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Redfin Earns Top 10 Spot in RealTrends Verified Rankings, Powered by Agent Productivity",
