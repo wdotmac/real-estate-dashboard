@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-15 14:05 UTC",
+  "as_of": "2026-04-15 15:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "‘Maximum exposure, full stop’: Engel & Völkers’ Stuart Siegel on listings, luxury and uncertainty",
+      "link": "https://www.housingwire.com/articles/engel-volkers-growth-strategy/",
+      "published": "Wed, 15 Apr 2026"
+    },
+    {
+      "title": "Lamacchia Realty acquires Rosewood Realty in Massachusetts",
+      "link": "https://www.housingwire.com/articles/lamacchia-acquires-rosewood/",
+      "published": "Wed, 15 Apr 2026"
+    },
+    {
       "title": "Mortgage demand rises 1.8%, propelled by 5% refinance jump",
       "link": "https://www.housingwire.com/articles/mba-applications-refinance-up/",
       "published": "Wed, 15 Apr 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Culture isn’t what you say. It’s what you do",
       "link": "https://www.housingwire.com/articles/culture-isnt-what-you-say-its-what-you-do/",
-      "published": "Wed, 15 Apr 2026"
-    },
-    {
-      "title": "The rise of HELOCs: What it means for originators in today’s market",
-      "link": "https://www.housingwire.com/articles/the-rise-of-helocs-what-it-means-for-originators-in-todays-market/",
-      "published": "Wed, 15 Apr 2026"
-    },
-    {
-      "title": "Chain reaction: A framework for America’s housing and retirement crises",
-      "link": "https://www.housingwire.com/articles/chain-reaction-a-framework-for-americas-housing-and-retirement-crises/",
       "published": "Wed, 15 Apr 2026"
     },
     {
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "‘Maximum exposure, full stop’: Engel & Völkers’ Stuart Siegel on listings, luxury and uncertainty",
+        "url": "https://www.housingwire.com/articles/engel-volkers-growth-strategy/",
+        "what": "Engel and Völkers CEO Stuart Siegel details disciplined expansion and a consumer-first approach as consolidation reshapes brokerages.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/engel-volkers-growth-strategy/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Mortgage demand rises 1.8%, propelled by 5% refinance jump",
         "url": "https://www.housingwire.com/articles/mba-applications-refinance-up/",
         "what": "MBA reports apps up 1.8% for April 10, 2026, as refis rose 5% and the purchase index fell 1% with the 30-year rate at 6.42%.",
@@ -322,15 +331,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "White House backs deregulation as it looks to address estimated 10M housing deficit",
-        "url": "https://www.housingwire.com/articles/white-house-housing-deficit-deregulation/",
-        "what": "White House ties housing costs to overregulation and a deficit of 10 million single-family homes as builders face high costs and shrinking margins.",
-        "numbers": "10 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/white-house-housing-deficit-deregulation/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Redfin Earns Top 10 Spot in RealTrends Verified Rankings, Powered by Agent Productivity",
         "url": "https://www.redfin.com/news/redfin-realtrends-verified-rankings-2026/",
         "what": "Redfin has been recognized among the top residential real estate brokerages for the fourth year in a row! In 2025, our agents closed 50,484 transactions, totaling nearly $32 billion in sales – earning the #8 spot on the RealTrends Verified Brokerage Rankings by both sales volume and transaction count",
@@ -342,13 +342,13 @@
     ],
     "notables": [
       {
-        "title": "Brynn Carmody’s burnout as a real estate agent sparked an AI platform for the entire industry",
-        "url": "https://www.housingwire.com/articles/her-market-lab-ai-platform/",
-        "what": "Her Market Lab launched Monday, offering agents a CRM with integrated AI, brand voice tools and compliance document inputs.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/her-market-lab-ai-platform/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "title": "Lamacchia Realty acquires Rosewood Realty in Massachusetts",
+        "url": "https://www.housingwire.com/articles/lamacchia-acquires-rosewood/",
+        "what": "Lamacchia Realty bought Somerset-based Rosewood Realty and its school, moving 16 agents to Fall River and expanding courses statewide.",
+        "numbers": "16",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lamacchia-acquires-rosewood/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
