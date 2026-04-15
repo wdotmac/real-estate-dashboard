@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-04-15 17:18 UTC",
+  "as_of": "2026-04-15 21:06 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.3,
-      "delta_bp_1d": -0.9999999999999787
+      "yield_pct": 4.26,
+      "delta_bp_1d": -4.0000000000000036
     },
     "mortgage_30y": {
       "rate_pct": 6.37,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Southeast MLS Alliance expands into Florida",
-      "link": "https://www.housingwire.com/articles/southeast-mls-alliance-expands-into-florida/",
+      "title": "Will new tax on ultra-luxury NYC homes derail red hot demand?",
+      "link": "https://www.housingwire.com/articles/will-new-tax-on-ultra-luxury-nyc-homes-derail-red-hot-demand/",
       "published": "Wed, 15 Apr 2026"
     },
     {
-      "title": "Mortgage lenders face strict new AI governance under GSE mandates",
-      "link": "https://www.housingwire.com/articles/gse-ai-governance-rules/",
+      "title": "16 indispensable AI tools for real estate agents",
+      "link": "https://www.housingwire.com/articles/ai-tools-real-estate/",
       "published": "Wed, 15 Apr 2026"
     },
     {
-      "title": "Lubbock Realtors adds Gitcha buyer listing service to MLS",
-      "link": "https://www.housingwire.com/articles/lubbock-mls-gitcha-bls/",
+      "title": "Side launches AI-powered compliance, reporting features inside Side App",
+      "link": "https://www.housingwire.com/articles/side-app-ai-transaction-tools/",
       "published": "Wed, 15 Apr 2026"
     },
     {
-      "title": "‘Maximum exposure, full stop’: Engel & Völkers’ Stuart Siegel on listings, luxury and uncertainty",
-      "link": "https://www.housingwire.com/articles/engel-volkers-growth-strategy/",
+      "title": "Auction.com names Ali Haralson co-CEO alongside Jason Allnutt",
+      "link": "https://www.housingwire.com/articles/auction-com-names-ali-haralson-co-ceo/",
       "published": "Wed, 15 Apr 2026"
     },
     {
-      "title": "Lamacchia Realty acquires Rosewood Realty in Massachusetts",
-      "link": "https://www.housingwire.com/articles/lamacchia-acquires-rosewood/",
+      "title": "New leaders appointed at WFG National Title, MyHome",
+      "link": "https://www.housingwire.com/articles/new-leaders-appointed-at-wfg-national-title-myhome/",
       "published": "Wed, 15 Apr 2026"
     },
     {
-      "title": "Mortgage demand rises 1.8%, propelled by 5% refinance jump",
-      "link": "https://www.housingwire.com/articles/mba-applications-refinance-up/",
+      "title": "Waterstone Mortgage hires Jeremy Moreithi to lead Northern Virginia branch",
+      "link": "https://www.housingwire.com/articles/waterstone-mortgage-hires-jeremy-moreithi/",
       "published": "Wed, 15 Apr 2026"
     },
     {
@@ -203,11 +203,20 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "The rise of HELOCs: What it means for originators in today’s market",
-        "url": "https://www.housingwire.com/articles/the-rise-of-helocs-what-it-means-for-originators-in-todays-market/",
-        "what": "As interest rates remain elevated compared to historic, pandemic-era lows, many homeowners are rethinking how to access cash without giving up the favorable rates they locked in just a few years ago",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-rise-of-helocs-what-it-means-for-originators-in-todays-market/",
+        "title": "Will new tax on ultra-luxury NYC homes derail red hot demand?",
+        "url": "https://www.housingwire.com/articles/will-new-tax-on-ultra-luxury-nyc-homes-derail-red-hot-demand/",
+        "what": "The proposed tax would apply to second homes valued above $5 million, with higher rates for properties exceeding $15 million and $25 million.",
+        "numbers": "$5 million, $15 million, $25 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/will-new-tax-on-ultra-luxury-nyc-homes-derail-red-hot-demand/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Homebuilder confidence ticks down amid economic uncertainty",
+        "url": "https://www.housingwire.com/articles/homebuilder-sentiment-april-2026/",
+        "what": "Builder confidence fell four points to a reading of 34 in April, with 36% of builders cutting prices by 5% as mortgage rates remain high.",
+        "numbers": "34, 36, 5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-sentiment-april-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -241,58 +250,31 @@
     ],
     "housing": [
       {
-        "title": "Mortgage lenders face strict new AI governance under GSE mandates",
-        "url": "https://www.housingwire.com/articles/gse-ai-governance-rules/",
-        "what": "Mortgage lenders and servicers are facing strict new artificial intelligence and machine learning guidelines from the government-sponsored enterprises that industry attorneys warn",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/gse-ai-governance-rules/",
+        "title": "Waterstone Mortgage hires Jeremy Moreithi to lead Northern Virginia branch",
+        "url": "https://www.housingwire.com/articles/waterstone-mortgage-hires-jeremy-moreithi/",
+        "what": "Waterstone Mortgage hires 20-year industry veteran Jeremy Moreithi to lead its Ashburn, Virginia, branch and serve surrounding areas.",
+        "numbers": "20",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/waterstone-mortgage-hires-jeremy-moreithi/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Lubbock Realtors adds Gitcha buyer listing service to MLS",
-        "url": "https://www.housingwire.com/articles/lubbock-mls-gitcha-bls/",
-        "what": "LAR will integrate Gitcha BLS into its MLS, letting 1,700 members publish standardized buyer want listings next to inventory.",
-        "numbers": "1,700",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lubbock-mls-gitcha-bls/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "title": "These are the cities where it pays to be a homeowner rather than a renter",
+        "url": "https://www.housingwire.com/articles/10-year-rent-vs-buy-wealth-study-ad-mortgage-2026/",
+        "what": "Homeownership was the more profitable choice in all 250 cities in the analysis when assuming a renter reinvested a potential down payment in stocks.",
+        "numbers": "250",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/10-year-rent-vs-buy-wealth-study-ad-mortgage-2026/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
-        "title": "‘Maximum exposure, full stop’: Engel & Völkers’ Stuart Siegel on listings, luxury and uncertainty",
-        "url": "https://www.housingwire.com/articles/engel-volkers-growth-strategy/",
-        "what": "Engel and Völkers CEO Stuart Siegel details disciplined expansion and a consumer-first approach as consolidation reshapes brokerages.",
+        "title": "The Agency and Realty ONE Group opt into Tuccori settlement",
+        "url": "https://www.housingwire.com/articles/agency-realty-one-tuccori-settlement/",
+        "what": "The Agency and Realty ONE Group opted into the Tuccori settlement and asked to stay the Cwynar case pending final approval.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/engel-volkers-growth-strategy/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/agency-realty-one-tuccori-settlement/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Mortgage demand rises 1.8%, propelled by 5% refinance jump",
-        "url": "https://www.housingwire.com/articles/mba-applications-refinance-up/",
-        "what": "MBA reports apps up 1.8% for April 10, 2026, as refis rose 5% and the purchase index fell 1% with the 30-year rate at 6.42%.",
-        "numbers": "1.8, 10,, 2026,, 5, 1, 30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-applications-refinance-up/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Baby boomers dominate housing, first-time buyers hit record low",
-        "url": "https://www.housingwire.com/articles/baby-boomers-dominate-housing-first-time-buyers-hit-record-low/",
-        "what": "First-time buyers accounted for just 21% of all transactions",
-        "numbers": "21, 1981.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/baby-boomers-dominate-housing-first-time-buyers-hit-record-low/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "NAR: This tax day, homeowners are seeing the benefits of smart policy",
-        "url": "https://www.housingwire.com/articles/tax-reform-real-estate-2026/",
-        "what": "NAR says tax reform is affecting 2026 filings, with mortgage interest, SALT cap relief, QBI deductions, and continued 1031 exchanges.",
-        "numbers": "2026, 1031",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tax-reform-real-estate-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "A Billionaire Beach Party: Mark Zuckerberg’s $170 Million Florida Purchase Tops March’s Most Expensive Home Sales",
@@ -313,15 +295,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Culture isn’t what you say. It’s what you do",
-        "url": "https://www.housingwire.com/articles/culture-isnt-what-you-say-its-what-you-do/",
-        "what": "Culture starts with leadership, is tested in hiring, and lives in daily actions",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/culture-isnt-what-you-say-its-what-you-do/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Earns Top 10 Spot in RealTrends Verified Rankings, Powered by Agent Productivity",
         "url": "https://www.redfin.com/news/redfin-realtrends-verified-rankings-2026/",
         "what": "Redfin has been recognized among the top residential real estate brokerages for the fourth year in a row! In 2025, our agents closed 50,484 transactions, totaling nearly $32 billion in sales – earning the #8 spot on the RealTrends Verified Brokerage Rankings by both sales volume and transaction count",
@@ -333,20 +306,47 @@
     ],
     "notables": [
       {
+        "title": "16 indispensable AI tools for real estate agents",
+        "url": "https://www.housingwire.com/articles/ai-tools-real-estate/",
+        "what": "Take back your time, improve productivity and boost revenue with these AI tools for real estate agents.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-tools-real-estate/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Side launches AI-powered compliance, reporting features inside Side App",
+        "url": "https://www.housingwire.com/articles/side-app-ai-transaction-tools/",
+        "what": "Side launched 4 AI tools in its Side App to validate docs, extract offers, auto-tag signatures, and add AI reporting insights.",
+        "numbers": "4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/side-app-ai-transaction-tools/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Auction.com names Ali Haralson co-CEO alongside Jason Allnutt",
+        "url": "https://www.housingwire.com/articles/auction-com-names-ali-haralson-co-ceo/",
+        "what": "Auction.com appoints President Ali Haralson as co-CEO and board member, formalizing a shared leadership model with Jason Allnutt.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/auction-com-names-ali-haralson-co-ceo/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "New leaders appointed at WFG National Title, MyHome",
+        "url": "https://www.housingwire.com/articles/new-leaders-appointed-at-wfg-national-title-myhome/",
+        "what": "Appointments include WFG National Title chief growth officer and MyHome senior director of innovation and AI.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-leaders-appointed-at-wfg-national-title-myhome/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Southeast MLS Alliance expands into Florida",
         "url": "https://www.housingwire.com/articles/southeast-mls-alliance-expands-into-florida/",
         "what": "The alliance now represents more than 118,000 subscribers across multiple states and metropolitan markets.",
         "numbers": "118,000",
         "justified": "housingwire.com — https://www.housingwire.com/articles/southeast-mls-alliance-expands-into-florida/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Lamacchia Realty acquires Rosewood Realty in Massachusetts",
-        "url": "https://www.housingwire.com/articles/lamacchia-acquires-rosewood/",
-        "what": "Lamacchia Realty bought Somerset-based Rosewood Realty and its school, moving 16 agents to Fall River and expanding courses statewide.",
-        "numbers": "16",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lamacchia-acquires-rosewood/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
