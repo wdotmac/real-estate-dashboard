@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-15 11:16 UTC",
+  "as_of": "2026-04-15 14:05 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage demand rises 1.8%, propelled by 5% refinance jump",
+      "link": "https://www.housingwire.com/articles/mba-applications-refinance-up/",
+      "published": "Wed, 15 Apr 2026"
+    },
+    {
+      "title": "Baby boomers dominate housing, first-time buyers hit record low",
+      "link": "https://www.housingwire.com/articles/baby-boomers-dominate-housing-first-time-buyers-hit-record-low/",
+      "published": "Wed, 15 Apr 2026"
+    },
+    {
+      "title": "NAR: This tax day, homeowners are seeing the benefits of smart policy",
+      "link": "https://www.housingwire.com/articles/tax-reform-real-estate-2026/",
+      "published": "Wed, 15 Apr 2026"
+    },
+    {
       "title": "Culture isn’t what you say. It’s what you do",
       "link": "https://www.housingwire.com/articles/culture-isnt-what-you-say-its-what-you-do/",
       "published": "Wed, 15 Apr 2026"
@@ -155,19 +170,14 @@
       "published": "Wed, 15 Apr 2026"
     },
     {
-      "title": "MBA chief economist says mortgage rates, inflation will stay elevated through 2026",
-      "link": "https://www.housingwire.com/articles/mba-mortgage-rates-inflation-economy-2026/",
-      "published": "Tue, 14 Apr 2026"
+      "title": "A Billionaire Beach Party: Mark Zuckerberg’s $170 Million Florida Purchase Tops March’s Most Expensive Home Sales",
+      "link": "https://www.redfin.com/news/most-expensive-home-sales-march-2026/",
+      "published": "Wed, 15 Apr 2026"
     },
     {
-      "title": "California lawmakers weigh state-backed loans for downtown housing towers",
-      "link": "https://www.housingwire.com/articles/california-downtown-loan-fund/",
-      "published": "Tue, 14 Apr 2026"
-    },
-    {
-      "title": "White House backs deregulation as it looks to address estimated 10M housing deficit",
-      "link": "https://www.housingwire.com/articles/white-house-housing-deficit-deregulation/",
-      "published": "Tue, 14 Apr 2026"
+      "title": "Over One-Third of American Workers Are Delaying or Canceling Major Purchases Due to Job Security Concerns",
+      "link": "https://www.redfin.com/news/job-security-major-purchases-2026/",
+      "published": "Wed, 15 Apr 2026"
     },
     {
       "title": "From Nebraska to Alaska: Redfin and Glassdoor Rank the Top U.S. Cities For New Grads",
@@ -188,16 +198,6 @@
       "title": "Redfin Earns Top 10 Spot in RealTrends Verified Rankings, Powered by Agent Productivity",
       "link": "https://www.redfin.com/news/redfin-realtrends-verified-rankings-2026/",
       "published": "Fri, 10 Apr 2026"
-    },
-    {
-      "title": "A Record 34% of February Home Sellers Cut Their List Price",
-      "link": "https://www.redfin.com/news/home-price-cuts-2026/",
-      "published": "Thu, 09 Apr 2026"
-    },
-    {
-      "title": "Pending Home Sales Post Biggest Decline in 3 Months as High Rates, Iran War Chill Market",
-      "link": "https://www.redfin.com/news/housing-market-update-pending-home-sales-decline-market-chill/",
-      "published": "Thu, 09 Apr 2026"
     }
   ],
   "feed_101020": {
@@ -217,15 +217,6 @@
         "what": "MBA’s Mike Fratantoni expects 2026 inflation near 4% and no Fed cuts, keeping mortgage rates and bond yields elevated.",
         "numbers": "2026, 4",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mba-mortgage-rates-inflation-economy-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Why is housing inventory growth slowing down in 2026?",
-        "url": "https://www.housingwire.com/articles/why-is-housing-inventory-growth-slowing-down-in-2026/",
-        "what": "Inventory is up from record lows, but new listings remain below normal, keeping 2026 growth rates below last year’s peak.",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/why-is-housing-inventory-growth-slowing-down-in-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -255,18 +246,54 @@
         "justified": "redfin.com — https://www.redfin.com/news/fed-mortgage-rates-likely-to-hold-steady-on-latest-inflation-report/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Pending Home Sales Post Biggest Decline in 3 Months as High Rates, Iran War Chill Market",
-        "url": "https://www.redfin.com/news/housing-market-update-pending-home-sales-decline-market-chill/",
-        "what": "Easter weekend also sidelined many would-be buyers",
-        "numbers": "2.4, 5,, 15.5, 15.4, 15.3, 3",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-home-sales-decline-market-chill/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Mortgage demand rises 1.8%, propelled by 5% refinance jump",
+        "url": "https://www.housingwire.com/articles/mba-applications-refinance-up/",
+        "what": "MBA reports apps up 1.8% for April 10, 2026, as refis rose 5% and the purchase index fell 1% with the 30-year rate at 6.42%.",
+        "numbers": "1.8, 10,, 2026,, 5, 1, 30",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-applications-refinance-up/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Baby boomers dominate housing, first-time buyers hit record low",
+        "url": "https://www.housingwire.com/articles/baby-boomers-dominate-housing-first-time-buyers-hit-record-low/",
+        "what": "First-time buyers accounted for just 21% of all transactions",
+        "numbers": "21, 1981.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/baby-boomers-dominate-housing-first-time-buyers-hit-record-low/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "NAR: This tax day, homeowners are seeing the benefits of smart policy",
+        "url": "https://www.housingwire.com/articles/tax-reform-real-estate-2026/",
+        "what": "NAR says tax reform is affecting 2026 filings, with mortgage interest, SALT cap relief, QBI deductions, and continued 1031 exchanges.",
+        "numbers": "2026, 1031",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tax-reform-real-estate-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "A Billionaire Beach Party: Mark Zuckerberg’s $170 Million Florida Purchase Tops March’s Most Expensive Home Sales",
+        "url": "https://www.redfin.com/news/most-expensive-home-sales-march-2026/",
+        "what": "A wave of ultra-luxury deals made coastal Florida the center of America’s priciest home sales in March",
+        "numbers": "7, $170 Million",
+        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-march-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Over One-Third of American Workers Are Delaying or Canceling Major Purchases Due to Job Security Concerns",
+        "url": "https://www.redfin.com/news/job-security-major-purchases-2026/",
+        "what": "7% of American workers are canceling plans to make a major purchase, such as buying a home or car, due to their feelings about job security, according to a Redfin survey",
+        "numbers": "7, 30, 16",
+        "justified": "redfin.com — https://www.redfin.com/news/job-security-major-purchases-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Culture isn’t what you say. It’s what you do",
         "url": "https://www.housingwire.com/articles/culture-isnt-what-you-say-its-what-you-do/",
@@ -304,24 +331,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "UWM, Mat Ishbia sued after Michigan State football coach’s harassment fallout",
-        "url": "https://www.housingwire.com/articles/uwm-ishbia-tracy-tucker-lawsuit/",
-        "what": "Brenda Tracy, who reported sexual harassment against former Michigan State University head football coach Mel Tucker, is suing United Wholesale Mortgage (UWM) and CEO Mat Ishbia.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-ishbia-tracy-tucker-lawsuit/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "As policy uncertainty rattles older investors, how can reverse mortgage pros respond?",
-        "url": "https://www.housingwire.com/articles/policy-uncertainty-rattles-older-investors-reverse-mortgage/",
-        "what": "Better integration of housing wealth through reverse mortgages could help, although reputational and educational hurdles persist.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/policy-uncertainty-rattles-older-investors-reverse-mortgage/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Earns Top 10 Spot in RealTrends Verified Rankings, Powered by Agent Productivity",
         "url": "https://www.redfin.com/news/redfin-realtrends-verified-rankings-2026/",
         "what": "Redfin has been recognized among the top residential real estate brokerages for the fourth year in a row! In 2025, our agents closed 50,484 transactions, totaling nearly $32 billion in sales – earning the #8 spot on the RealTrends Verified Brokerage Rankings by both sales volume and transaction count",
@@ -329,15 +338,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/redfin-realtrends-verified-rankings-2026/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "A Record 34% of February Home Sellers Cut Their List Price",
-        "url": "https://www.redfin.com/news/home-price-cuts-2026/",
-        "what": "February home sellers who cut their price lowered it by $41,000, on average, or 7.3%",
-        "numbers": "$41,000,, 7.3, 34.2, 31.5, 34",
-        "justified": "redfin.com — https://www.redfin.com/news/home-price-cuts-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
