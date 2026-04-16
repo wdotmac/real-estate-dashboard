@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-16 15:56 UTC",
+  "as_of": "2026-04-16 17:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": -4.0000000000000036
     },
     "mortgage_30y": {
-      "rate_pct": 6.37,
-      "delta_bp_wow": -8.999999999999986
+      "rate_pct": 6.3,
+      "delta_bp_wow": -7.000000000000028
     },
     "starts": {
       "level_saar": 1487.0,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "House subcommittee weighs FCRA changes, CFPB complaint limits",
+      "link": "https://www.housingwire.com/articles/house-credit-reporting-bills/",
+      "published": "Thu, 16 Apr 2026"
+    },
+    {
+      "title": "Down payments and private listings, not commissions, remain buyers’ biggest hurdles",
+      "link": "https://www.housingwire.com/articles/commissions-first-time-buyers-nar-settlement/",
+      "published": "Thu, 16 Apr 2026"
+    },
+    {
+      "title": "Inside the bidding war that sank UWM’s acquisition of Two Harbors",
+      "link": "https://www.housingwire.com/articles/uwm-two-harbors-litigation-warning/",
+      "published": "Thu, 16 Apr 2026"
+    },
+    {
+      "title": "As AI in housing grows, buyers demand transparency and to keep humans in the loop",
+      "link": "https://www.housingwire.com/articles/homebuyers-want-ai-and-human-in-the-loop-cotality-2026-survey/",
+      "published": "Thu, 16 Apr 2026"
+    },
+    {
       "title": "IMB profits rise to $785 per loan in 2025 as servicing keeps more lenders in the black",
       "link": "https://www.housingwire.com/articles/imb-profits-improve-2025/",
       "published": "Thu, 16 Apr 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Plaintiffs push back on NAR’s bid to settle Tuccori commission lawsuit",
       "link": "https://www.housingwire.com/articles/nar-tuccori-pushback-batton/",
-      "published": "Thu, 16 Apr 2026"
-    },
-    {
-      "title": "Dark Matter promotes Vikas Rao to CEO, announces 5% cut to workforce",
-      "link": "https://www.housingwire.com/articles/dark-matter-promotes-vikas-rao-to-ceo-announces-5-cut-to-workforce/",
-      "published": "Thu, 16 Apr 2026"
-    },
-    {
-      "title": "Sue Woodard joins HousingWire as strategic advisor",
-      "link": "https://www.housingwire.com/articles/sue-woodard-joins-housingwire-as-strategic-advisor/",
-      "published": "Thu, 16 Apr 2026"
-    },
-    {
-      "title": "Sweeping residential zoning reform becomes law in Idaho",
-      "link": "https://www.housingwire.com/articles/idaho-residential-zoning-reform/",
-      "published": "Thu, 16 Apr 2026"
-    },
-    {
-      "title": "REMAX agents get Zillow Preview, Showcase in Marketing Studio",
-      "link": "https://www.housingwire.com/articles/zillow-showcase-remax-agents/",
       "published": "Thu, 16 Apr 2026"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
-        "title": "Will new tax on ultra-luxury NYC homes derail red-hot demand?",
-        "url": "https://www.housingwire.com/articles/will-new-tax-on-ultra-luxury-nyc-homes-derail-red-hot-demand/",
-        "what": "The proposed tax would apply to second homes valued above $5 million, with higher rates for properties exceeding $15 million and $25 million.",
-        "numbers": "$5 million, $15 million, $25 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/will-new-tax-on-ultra-luxury-nyc-homes-derail-red-hot-demand/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "From Nebraska to Alaska: Redfin and Glassdoor Rank the Top U.S. Cities For New Grads",
         "url": "https://www.redfin.com/news/best-cities-recent-grads-2026/",
         "what": "Chris Martin, a senior economist on Glassdoor’s economic research team, also provided data and analysis for this report",
@@ -231,6 +222,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Down payments and private listings, not commissions, remain buyers’ biggest hurdles",
+        "url": "https://www.housingwire.com/articles/commissions-first-time-buyers-nar-settlement/",
+        "what": "Survey of 223 counselors finds 7% saw lower commissions post NAR settlement, while 46% say pocket listings create access hurdles.",
+        "numbers": "223, 7, 46",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/commissions-first-time-buyers-nar-settlement/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "As AI in housing grows, buyers demand transparency and to keep humans in the loop",
+        "url": "https://www.housingwire.com/articles/homebuyers-want-ai-and-human-in-the-loop-cotality-2026-survey/",
+        "what": "The findings arrive as mortgage lenders, real estate brokerages and insurers accelerate deployment of AI in underwriting, lead routing, pricing, risk modeling and marketing.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuyers-want-ai-and-human-in-the-loop-cotality-2026-survey/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Dark Matter promotes Vikas Rao to CEO, announces 5% cut to workforce",
         "url": "https://www.housingwire.com/articles/dark-matter-promotes-vikas-rao-to-ceo-announces-5-cut-to-workforce/",
@@ -286,24 +295,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "The brands raising the bar in housing: The 2025 Exhibit Awards finalists announced",
-        "url": "https://www.housingwire.com/articles/the-brands-raising-the-bar-in-housing-the-2025-exhibit-awards-finalists-announced/",
-        "what": "The 2025 Exhibit Awards finalists highlight how real estate and mortgage companies are turning brand into a competitive advantage that drives conversion, consistency and long-term",
-        "numbers": "2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-brands-raising-the-bar-in-housing-the-2025-exhibit-awards-finalists-announced/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Age matters in home equity decisions",
-        "url": "https://www.housingwire.com/articles/age-matters-in-home-equity-decisions/",
-        "what": "A borrower’s age should shape every financing recommendation, yet it is often treated as a secondary detail when a senior wants, or needs, access to a portion of their equity",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/age-matters-in-home-equity-decisions/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "A Billionaire Beach Party: Mark Zuckerberg’s $170 Million Florida Purchase Tops March’s Most Expensive Home Sales",
         "url": "https://www.redfin.com/news/most-expensive-home-sales-march-2026/",
         "what": "A wave of ultra-luxury deals made coastal Florida the center of America’s priciest home sales in March",
@@ -324,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "House subcommittee weighs FCRA changes, CFPB complaint limits",
+        "url": "https://www.housingwire.com/articles/house-credit-reporting-bills/",
+        "what": "House hearing weighed FCRA changes and CFPB complaint rules as MBA cited 350% cost increases, along with projected 40% to 50% hikes in 2026.",
+        "numbers": "350, 40, 50, 2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/house-credit-reporting-bills/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Inside the bidding war that sank UWM’s acquisition of Two Harbors",
+        "url": "https://www.housingwire.com/articles/uwm-two-harbors-litigation-warning/",
+        "what": "UWM Holdings Corp",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-two-harbors-litigation-warning/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "IMB profits rise to $785 per loan in 2025 as servicing keeps more lenders in the black",
         "url": "https://www.housingwire.com/articles/imb-profits-improve-2025/",
         "what": "IMB profits per loan rose in 2025 as volumes and loan sizes grew, but net production income remains far below historical norms.",
@@ -338,15 +347,6 @@
         "what": "Batton plaintiffs oppose NAR stay request tied to Tuccori opt in, arguing uncertainty on approval and prejudice from added delays.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/nar-tuccori-pushback-batton/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "16 indispensable AI tools for real estate agents",
-        "url": "https://www.housingwire.com/articles/ai-tools-real-estate/",
-        "what": "Take back your time, improve productivity and boost revenue with these AI tools for real estate agents.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-tools-real-estate/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
