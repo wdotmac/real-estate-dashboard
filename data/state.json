@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-16 06:13 UTC",
+  "as_of": "2026-04-16 08:05 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Age matters in home equity decisions",
+      "link": "https://www.housingwire.com/articles/age-matters-in-home-equity-decisions/",
+      "published": "Thu, 16 Apr 2026"
+    },
+    {
       "title": "Will new tax on ultra-luxury NYC homes derail red-hot demand?",
       "link": "https://www.housingwire.com/articles/will-new-tax-on-ultra-luxury-nyc-homes-derail-red-hot-demand/",
       "published": "Wed, 15 Apr 2026"
@@ -162,11 +167,6 @@
     {
       "title": "New leaders appointed at WFG National Title, MyHome",
       "link": "https://www.housingwire.com/articles/new-leaders-appointed-at-wfg-national-title-myhome/",
-      "published": "Wed, 15 Apr 2026"
-    },
-    {
-      "title": "Waterstone Mortgage hires Jeremy Moreithi to lead Northern Virginia branch",
-      "link": "https://www.housingwire.com/articles/waterstone-mortgage-hires-jeremy-moreithi/",
       "published": "Wed, 15 Apr 2026"
     },
     {
@@ -249,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Age matters in home equity decisions",
+        "url": "https://www.housingwire.com/articles/age-matters-in-home-equity-decisions/",
+        "what": "A borrower’s age should shape every financing recommendation, yet it is often treated as a secondary detail when a senior wants, or needs, access to a portion of their equity",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/age-matters-in-home-equity-decisions/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Waterstone Mortgage hires Jeremy Moreithi to lead Northern Virginia branch",
         "url": "https://www.housingwire.com/articles/waterstone-mortgage-hires-jeremy-moreithi/",
@@ -338,15 +347,6 @@
         "what": "Appointments include WFG National Title chief growth officer and MyHome senior director of innovation and AI.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/new-leaders-appointed-at-wfg-national-title-myhome/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Southeast MLS Alliance expands into Florida",
-        "url": "https://www.housingwire.com/articles/southeast-mls-alliance-expands-into-florida/",
-        "what": "The alliance now represents more than 118,000 subscribers across multiple states and metropolitan markets.",
-        "numbers": "118,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/southeast-mls-alliance-expands-into-florida/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
