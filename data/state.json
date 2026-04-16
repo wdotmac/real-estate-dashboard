@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-16 09:49 UTC",
+  "as_of": "2026-04-16 11:19 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "REMAX agents get Zillow Preview, Showcase in Marketing Studio",
+      "link": "https://www.housingwire.com/articles/zillow-showcase-remax-agents/",
+      "published": "Thu, 16 Apr 2026"
+    },
+    {
       "title": "Age matters in home equity decisions",
       "link": "https://www.housingwire.com/articles/age-matters-in-home-equity-decisions/",
       "published": "Thu, 16 Apr 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Auction.com names Ali Haralson co-CEO alongside Jason Allnutt",
       "link": "https://www.housingwire.com/articles/auction-com-names-ali-haralson-co-ceo/",
-      "published": "Wed, 15 Apr 2026"
-    },
-    {
-      "title": "New leaders appointed at WFG National Title, MyHome",
-      "link": "https://www.housingwire.com/articles/new-leaders-appointed-at-wfg-national-title-myhome/",
       "published": "Wed, 15 Apr 2026"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Homebuilder confidence ticks down amid economic uncertainty",
-        "url": "https://www.housingwire.com/articles/homebuilder-sentiment-april-2026/",
-        "what": "Builder confidence fell four points to a reading of 34 in April, with 36% of builders cutting prices by 5% as mortgage rates remain high.",
-        "numbers": "34, 36, 5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-sentiment-april-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "From Nebraska to Alaska: Redfin and Glassdoor Rank the Top U.S. Cities For New Grads",
         "url": "https://www.redfin.com/news/best-cities-recent-grads-2026/",
         "what": "Chris Martin, a senior economist on Glassdoor’s economic research team, also provided data and analysis for this report",
@@ -249,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "REMAX agents get Zillow Preview, Showcase in Marketing Studio",
+        "url": "https://www.housingwire.com/articles/zillow-showcase-remax-agents/",
+        "what": "Zillow expands Showcase and Preview to REMAX via Marketing Studio, letting 145,000 agents activate per listing as needed.",
+        "numbers": "145,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-showcase-remax-agents/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Age matters in home equity decisions",
         "url": "https://www.housingwire.com/articles/age-matters-in-home-equity-decisions/",
