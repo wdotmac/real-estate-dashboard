@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-18 19:09 UTC",
+  "as_of": "2026-04-18 19:53 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Weekly pending home sales show yearly growth as mortgage rates fall",
+      "link": "https://www.housingwire.com/articles/weekly-pending-home-sales-show-yearly-growth-as-mortgage-rates-fall/",
+      "published": "Sat, 18 Apr 2026"
+    },
+    {
       "title": "Three lessons for mortgage leaders right now",
       "link": "https://www.housingwire.com/articles/three-lessons-for-mortgage-leaders-right-now/",
       "published": "Fri, 17 Apr 2026"
@@ -162,11 +167,6 @@
     {
       "title": "HOA liens climb 8.6% nationwide in 2025, with Sun Belt states feeling the most heat",
       "link": "https://www.housingwire.com/articles/hoa-lien-filings-2025/",
-      "published": "Fri, 17 Apr 2026"
-    },
-    {
-      "title": "Portable credit reports spark debate over costs, feasibility",
-      "link": "https://www.housingwire.com/articles/portable-credit-reports-mortgage/",
       "published": "Fri, 17 Apr 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Weekly pending home sales show yearly growth as mortgage rates fall",
+        "url": "https://www.housingwire.com/articles/weekly-pending-home-sales-show-yearly-growth-as-mortgage-rates-fall/",
+        "what": "Inventory rose to 743,006, new listings hit 77,919 and pending sales rose to 73,241 as rates neared 6.25%.",
+        "numbers": "743,006,, 77,919, 73,241, 6.25",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/weekly-pending-home-sales-show-yearly-growth-as-mortgage-rates-fall/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "America’s housing shortage stems from more than overregulation, Fed report finds",
         "url": "https://www.housingwire.com/articles/america-housing-shortage-report/",
@@ -338,15 +347,6 @@
         "what": "HOA lien filings rose 8.6% in 2025 to nearly 285,000 nationwide, with Florida leading in volume and Louisiana and Colorado driving increases.",
         "numbers": "8.6, 2025, 285,000",
         "justified": "housingwire.com — https://www.housingwire.com/articles/hoa-lien-filings-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Maine becomes first state to impose consumer safeguards on home equity investments",
-        "url": "https://www.housingwire.com/articles/maine-first-state-law-home-equity-investment-loans/",
-        "what": "Maine enacts the first state law regulating HEIs, adding disclosures, counseling and assignee liability for shared appreciation deals.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/maine-first-state-law-home-equity-investment-loans/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
