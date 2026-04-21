@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-21 17:16 UTC",
+  "as_of": "2026-04-21 19:36 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,38 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Senate questions Warsh on $100M-plus holdings and Fed ethics",
+      "link": "https://www.housingwire.com/articles/warsh-fed-independence-hearing/",
+      "published": "Tue, 21 Apr 2026"
+    },
+    {
+      "title": "Canadian homebuilder Glenview Homes expands into Texas",
+      "link": "https://www.housingwire.com/articles/canadian-homebuilder-glenview-homes-expands-into-texas/",
+      "published": "Tue, 21 Apr 2026"
+    },
+    {
+      "title": "FirstTeam to pre-market listings with Zillow Preview",
+      "link": "https://www.housingwire.com/articles/firstteam-premarket-zillow-preview/",
+      "published": "Tue, 21 Apr 2026"
+    },
+    {
+      "title": "Homebuyers stressed amid stretched budgets, fraud concerns",
+      "link": "https://www.housingwire.com/articles/homebuyers-stressed-amid-stretched-budgets-fraud-concerns/",
+      "published": "Tue, 21 Apr 2026"
+    },
+    {
+      "title": "CFPB ends disparate impact, tightens SPCPs through ECOA amendments",
+      "link": "https://www.housingwire.com/articles/cfpb-ecoa-effects-test-spcp/",
+      "published": "Tue, 21 Apr 2026"
+    },
+    {
       "title": "Before you build specs, answer these 5 business questions",
       "link": "https://www.housingwire.com/articles/spec-vs-presales-5-questions/",
       "published": "Tue, 21 Apr 2026"
     },
     {
-      "title": "More reverse mortgage borrowers show deep budget deficits",
-      "link": "https://www.housingwire.com/articles/reverse-mortgage-clients-budget-deficit/",
-      "published": "Tue, 21 Apr 2026"
-    },
-    {
-      "title": "How will mortgage rates respond if the ceasefire in Iran expires?",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-fall-630/",
-      "published": "Tue, 21 Apr 2026"
-    },
-    {
-      "title": "Most homeowners wish they knew more about down payments before buying, survey finds",
-      "link": "https://www.housingwire.com/articles/new-american-funding-survey/",
-      "published": "Tue, 21 Apr 2026"
-    },
-    {
-      "title": "Pending home sales tick up in March despite higher rates",
-      "link": "https://www.housingwire.com/articles/pending-home-sales-march-2026/",
-      "published": "Tue, 21 Apr 2026"
-    },
-    {
-      "title": "IBHS expands wildfire resilience program as fire risk grows",
-      "link": "https://www.housingwire.com/articles/wildfire-risk-spreads-east/",
+      "title": "I Traded My 2.9% Mortgage Rate for a 7.35% Rate to Move to Santa Barbara. I Don’t Regret It, But I Did Refinance.",
+      "link": "https://www.redfin.com/news/refinance-personal-essay-2026/",
       "published": "Tue, 21 Apr 2026"
     },
     {
@@ -193,15 +198,28 @@
       "title": "Homebuyers Hold the Negotiating Power In 38 Major Metros, Up From 29 Last Year",
       "link": "https://www.redfin.com/news/buyers-vs-sellers-march-2026/",
       "published": "Mon, 20 Apr 2026"
-    },
-    {
-      "title": "U.S. Homeowners Are Remodeling Instead of Relocating",
-      "link": "https://www.redfin.com/news/survey-homeowners-remodel-not-renovate/",
-      "published": "Fri, 17 Apr 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Senate questions Warsh on $100M-plus holdings and Fed ethics",
+        "url": "https://www.housingwire.com/articles/warsh-fed-independence-hearing/",
+        "what": "Warsh tells senators he will not yield to Trump on rates and will divest most assets under an ethics agreement.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/warsh-fed-independence-hearing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "I Traded My 2.9% Mortgage Rate for a 7.35% Rate to Move to Santa Barbara. I Don’t Regret It, But I Did Refinance.",
+        "url": "https://www.redfin.com/news/refinance-personal-essay-2026/",
+        "what": "This was originally published by Inman on April 14, 2026",
+        "numbers": "14,, 2026., 7.35, 2024., 6.2, 18",
+        "justified": "redfin.com — https://www.redfin.com/news/refinance-personal-essay-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "How will mortgage rates respond if the ceasefire in Iran expires?",
         "url": "https://www.housingwire.com/articles/mortgage-rates-fall-630/",
@@ -241,6 +259,24 @@
     ],
     "housing": [
       {
+        "title": "Canadian homebuilder Glenview Homes expands into Texas",
+        "url": "https://www.housingwire.com/articles/canadian-homebuilder-glenview-homes-expands-into-texas/",
+        "what": "Ottawa-based Glenview Homes is entering Texas with a Houston division led by Blake Roberts, with expansion plans across the state.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/canadian-homebuilder-glenview-homes-expands-into-texas/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "FirstTeam to pre-market listings with Zillow Preview",
+        "url": "https://www.housingwire.com/articles/firstteam-premarket-zillow-preview/",
+        "what": "FirstTeam joined Zillow Preview so agents can market listings on Zillow and Trulia before MLS activation, subject to MLS rules.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/firstteam-premarket-zillow-preview/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Before you build specs, answer these 5 business questions",
         "url": "https://www.housingwire.com/articles/spec-vs-presales-5-questions/",
         "what": "A builder recently asked for my thoughts on the right mix of specs and pre-sales",
@@ -259,29 +295,11 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Presidio Investors takes stake in Edge Home Finance",
-        "url": "https://www.housingwire.com/articles/presidio-investors-strategic-investment-edge-home-finance/",
-        "what": "Presidio Investors has taken a strategic stake in Minnesota-based mortgage brokerage platform Edge Home Finance, the firms announced Monday",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/presidio-investors-strategic-investment-edge-home-finance/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "U.S. Home Prices Inched Up 0.1% in March",
         "url": "https://www.redfin.com/news/home-price-index-march-2026/",
         "what": "Home prices ticked up 0.1% month over month on a seasonally adjusted basis",
         "numbers": "0.1, 1.9, 13",
         "justified": "redfin.com — https://www.redfin.com/news/home-price-index-march-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "PennyMac launches ‘Welcome Home’ mortgage program for Team USA athletes",
-        "url": "https://www.housingwire.com/articles/pennymac-welcome-home-mortgage-program-team-usa-athletes/",
-        "what": "PennyMac launches its “Welcome Home” mortgage program to give Team USA athletes dedicated lending support and homeownership education.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pennymac-welcome-home-mortgage-program-team-usa-athletes/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -302,51 +320,33 @@
         "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-march-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "U.S. Homeowners Are Remodeling Instead of Relocating",
-        "url": "https://www.redfin.com/news/survey-homeowners-remodel-not-renovate/",
-        "what": "About two-thirds of homeowners who recently made renovations chose to upgrade their home instead of moving to a new place, per a recent Redfin survey",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/survey-homeowners-remodel-not-renovate/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
+      {
+        "title": "Homebuyers stressed amid stretched budgets, fraud concerns",
+        "url": "https://www.housingwire.com/articles/homebuyers-stressed-amid-stretched-budgets-fraud-concerns/",
+        "what": "Seventy-seven percent of homebuyers reported exceeding their original budget",
+        "numbers": "10, $80,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuyers-stressed-amid-stretched-budgets-fraud-concerns/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "CFPB ends disparate impact, tightens SPCPs through ECOA amendments",
+        "url": "https://www.housingwire.com/articles/cfpb-ecoa-effects-test-spcp/",
+        "what": "The Consumer Financial Protection Bureau is set to publish a final rule on Wednesday that eliminates disparate-impact liability under the Equal Credit Opportunity Act and adds new",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-ecoa-effects-test-spcp/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Most homeowners wish they knew more about down payments before buying, survey finds",
         "url": "https://www.housingwire.com/articles/new-american-funding-survey/",
         "what": "New American Funding survey finds most homeowners put 10% down or less, yet many still believe a 20% down payment is required.",
         "numbers": "10, 20",
         "justified": "housingwire.com — https://www.housingwire.com/articles/new-american-funding-survey/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "IBHS expands wildfire resilience program as fire risk grows",
-        "url": "https://www.housingwire.com/articles/wildfire-risk-spreads-east/",
-        "what": "Dangerous wildfire conditions have spread across the country, reaching deeper into hurricane-prone regions like Florida and the Gulf Coast as the weather grows hotter, drier, and windier",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/wildfire-risk-spreads-east/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "FNF appeals ruling upholding FinCEN AML rule",
-        "url": "https://www.housingwire.com/articles/fnf-fincen-aml-appeal/",
-        "what": "FNF appealed a Florida ruling upholding FinCEN’s AML real estate rule, after a Texas decision vacated it nationwide.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fnf-fincen-aml-appeal/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "From cloud to network: the many roads to RealTrends rankings success",
-        "url": "https://www.housingwire.com/articles/leadingre-exp-realtrends-models/",
-        "what": "LeadingRE reported 462,910.4 sides and $275.844B in 2025, while eXp posted 343,091 sides, per RealTrends Verified Rankings.",
-        "numbers": "462,910.4, $275.844, 2025,, 343,091",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/leadingre-exp-realtrends-models/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
