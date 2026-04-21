@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-21 11:32 UTC",
+  "as_of": "2026-04-21 14:08 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "From cloud to network: the many roads to RealTrends rankings success",
+      "link": "https://www.housingwire.com/articles/leadingre-exp-realtrends-models/",
+      "published": "Tue, 21 Apr 2026"
+    },
+    {
+      "title": "PennyMac launches ‘Welcome Home’ mortgage program for Team USA athletes",
+      "link": "https://www.housingwire.com/articles/pennymac-welcome-home-mortgage-program-team-usa-athletes/",
+      "published": "Tue, 21 Apr 2026"
+    },
+    {
       "title": "Why cost discipline is replacing cost cutting in apartment operations",
       "link": "https://www.housingwire.com/articles/why-cost-discipline-is-replacing-cost-cutting-in-apartment-operations/",
       "published": "Tue, 21 Apr 2026"
@@ -160,14 +170,9 @@
       "published": "Mon, 20 Apr 2026"
     },
     {
-      "title": "The strategic rationale behind QXO’s $17 billion TopBuild acquisition",
-      "link": "https://www.housingwire.com/articles/qxo-topbuild-acquisition/",
-      "published": "Mon, 20 Apr 2026"
-    },
-    {
-      "title": "IRVE: The independent brokerage that grew $2B in five years",
-      "link": "https://www.housingwire.com/articles/irve-the-independent-brokerage-that-grew-2b-in-five-years/",
-      "published": "Mon, 20 Apr 2026"
+      "title": "U.S. Home Prices Inched Up 0.1% in March",
+      "link": "https://www.redfin.com/news/home-price-index-march-2026/",
+      "published": "Tue, 21 Apr 2026"
     },
     {
       "title": "Redfin Economists’ Weekly Take: All Eyes on Fed Succession as Mortgage-Rate Swings Ease",
@@ -193,11 +198,6 @@
       "title": "U.S. Homeowners Are Remodeling Instead of Relocating",
       "link": "https://www.redfin.com/news/survey-homeowners-remodel-not-renovate/",
       "published": "Fri, 17 Apr 2026"
-    },
-    {
-      "title": "This Spring’s Housing Market Is Unseasonably Slow As Iran War, High Costs Curb Demand",
-      "link": "https://www.redfin.com/news/housing-market-update-spring-unseasonably-slow/",
-      "published": "Thu, 16 Apr 2026"
     }
   ],
   "feed_101020": {
@@ -231,6 +231,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "U.S. Home Prices Inched Up 0.1% in March",
+        "url": "https://www.redfin.com/news/home-price-index-march-2026/",
+        "what": "Home prices ticked up 0.1% month over month on a seasonally adjusted basis",
+        "numbers": "0.1, 1.9, 13",
+        "justified": "redfin.com — https://www.redfin.com/news/home-price-index-march-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "PennyMac launches ‘Welcome Home’ mortgage program for Team USA athletes",
+        "url": "https://www.housingwire.com/articles/pennymac-welcome-home-mortgage-program-team-usa-athletes/",
+        "what": "PennyMac launches its “Welcome Home” mortgage program to give Team USA athletes dedicated lending support and homeownership education.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pennymac-welcome-home-mortgage-program-team-usa-athletes/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "10 myths loan originators believe about reverse mortgages — and the reality that could change their business",
         "url": "https://www.housingwire.com/articles/reverse-mortgages-myths-reality/",
@@ -293,18 +311,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/survey-homeowners-remodel-not-renovate/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "This Spring’s Housing Market Is Unseasonably Slow As Iran War, High Costs Curb Demand",
-        "url": "https://www.redfin.com/news/housing-market-update-spring-unseasonably-slow/",
-        "what": "Pending home sales are declining and touring activity is slumping",
-        "numbers": "4.1, 12,, 50, 17.5",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-spring-unseasonably-slow/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
+      {
+        "title": "From cloud to network: the many roads to RealTrends rankings success",
+        "url": "https://www.housingwire.com/articles/leadingre-exp-realtrends-models/",
+        "what": "LeadingRE reported 462,910.4 sides and $275.844B in 2025, while eXp posted 343,091 sides, per RealTrends Verified Rankings.",
+        "numbers": "462,910.4, $275.844, 2025,, 343,091",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/leadingre-exp-realtrends-models/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Is California looking to tax retirement accounts? Experts push back on claims",
         "url": "https://www.housingwire.com/articles/california-retirement-account-tax/",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/realtracs-broker-ownership-data/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "‘Stability matters more than ever’ as loan officer mobility slows again in 2025",
-        "url": "https://www.housingwire.com/articles/stability-matters-more-than-ever-as-loan-officer-mobility-slows-again-in-2025/",
-        "what": "RETR finds the LO mobility rate fell to 20.6% in 2025, even as producing LOs rose to 225,062 and switches stayed near 46,000.",
-        "numbers": "20.6, 2025,, 225,062, 46,000.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/stability-matters-more-than-ever-as-loan-officer-mobility-slows-again-in-2025/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Houston Association of Realtors, Repliers form data access partnership",
-        "url": "https://www.housingwire.com/articles/houston-association-of-realtors-repliers-form-data-access-partnership/",
-        "what": "As part of the agreement, HAR.com will integrate additional proprietary datasets into the Repliers platform at no cost to subscribers.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/houston-association-of-realtors-repliers-form-data-access-partnership/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
