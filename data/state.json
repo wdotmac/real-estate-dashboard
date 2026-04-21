@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-04-21 19:36 UTC",
+  "as_of": "2026-04-21 21:04 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
       "yield_pct": 4.26,
-      "delta_bp_1d": -6.00000000000005
+      "delta_bp_1d": 0.0
     },
     "mortgage_30y": {
       "rate_pct": 6.3,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Senate questions Warsh on $100M-plus holdings and Fed ethics",
-      "link": "https://www.housingwire.com/articles/warsh-fed-independence-hearing/",
+      "title": "D.R. Horton executed again, and smaller builders feel the squeeze",
+      "link": "https://www.housingwire.com/articles/dr-horton-scale-advantage/",
       "published": "Tue, 21 Apr 2026"
     },
     {
-      "title": "Canadian homebuilder Glenview Homes expands into Texas",
-      "link": "https://www.housingwire.com/articles/canadian-homebuilder-glenview-homes-expands-into-texas/",
+      "title": "Why AI is still a subpar real estate agent replacement",
+      "link": "https://www.housingwire.com/articles/why-ai-is-still-a-subpar-real-estate-agent-replacement/",
       "published": "Tue, 21 Apr 2026"
     },
     {
-      "title": "FirstTeam to pre-market listings with Zillow Preview",
-      "link": "https://www.housingwire.com/articles/firstteam-premarket-zillow-preview/",
+      "title": "What Artemis II can teach every real estate agent about building a career that goes the distance",
+      "link": "https://www.housingwire.com/articles/artemis-ii-real-estate-career/",
       "published": "Tue, 21 Apr 2026"
     },
     {
-      "title": "Homebuyers stressed amid stretched budgets, fraud concerns",
-      "link": "https://www.housingwire.com/articles/homebuyers-stressed-amid-stretched-budgets-fraud-concerns/",
+      "title": "Busy isn’t productive: How top real estate agents should actually allocate their time",
+      "link": "https://www.housingwire.com/articles/intentional-agent-productivity/",
       "published": "Tue, 21 Apr 2026"
     },
     {
-      "title": "CFPB ends disparate impact, tightens SPCPs through ECOA amendments",
-      "link": "https://www.housingwire.com/articles/cfpb-ecoa-effects-test-spcp/",
+      "title": "Two Harbors hit with shareholder lawsuit over CCM acquisition",
+      "link": "https://www.housingwire.com/articles/two-harbors-board-sued-ccm/",
       "published": "Tue, 21 Apr 2026"
     },
     {
-      "title": "Before you build specs, answer these 5 business questions",
-      "link": "https://www.housingwire.com/articles/spec-vs-presales-5-questions/",
+      "title": "NAR fine-tunes its 3-year plan, fast-tracking execution and trimming governance",
+      "link": "https://www.housingwire.com/articles/nar-q1-strategic-plan-update/",
       "published": "Tue, 21 Apr 2026"
     },
     {
@@ -221,24 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "How will mortgage rates respond if the ceasefire in Iran expires?",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-fall-630/",
-        "what": "Mortgage rates continued to move lower this week as financial markets digested the latest geopolitical activity, but a number of factors could prompt investor fears to rise again t",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-fall-630/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Pending home sales tick up in March despite higher rates",
-        "url": "https://www.housingwire.com/articles/pending-home-sales-march-2026/",
-        "what": "NAR says pending home sales rose 1.5% in March to 73.7, but were down 1.1% year over year as rates stayed elevated.",
-        "numbers": "1.5, 73.7,, 1.1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pending-home-sales-march-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: All Eyes on Fed Succession as Mortgage-Rate Swings Ease",
         "url": "https://www.redfin.com/news/weekly-economic-update-april-20-2026/",
         "what": "This Week In A Nutshell: Mortgage-rate volatility has moderated as the United States and Iran near a peace agreement, but succession drama at the Federal Reserve may amp up uncertainty once again as Fed chair nominee Kevin Warsh has his confirmation hearing",
@@ -259,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "D.R. Horton executed again, and smaller builders feel the squeeze",
+        "url": "https://www.housingwire.com/articles/dr-horton-scale-advantage/",
+        "what": "D.R",
+        "numbers": "2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/dr-horton-scale-advantage/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Two Harbors hit with shareholder lawsuit over CCM acquisition",
+        "url": "https://www.housingwire.com/articles/two-harbors-board-sued-ccm/",
+        "what": "Shareholder Michael Koblentz filed another lawsuit against Two Harbors Investment Corp",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/two-harbors-board-sued-ccm/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Canadian homebuilder Glenview Homes expands into Texas",
         "url": "https://www.housingwire.com/articles/canadian-homebuilder-glenview-homes-expands-into-texas/",
         "what": "Ottawa-based Glenview Homes is entering Texas with a Houston division led by Blake Roberts, with expansion plans across the state.",
@@ -275,24 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/firstteam-premarket-zillow-preview/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Before you build specs, answer these 5 business questions",
-        "url": "https://www.housingwire.com/articles/spec-vs-presales-5-questions/",
-        "what": "A builder recently asked for my thoughts on the right mix of specs and pre-sales",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/spec-vs-presales-5-questions/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "More reverse mortgage borrowers show deep budget deficits",
-        "url": "https://www.housingwire.com/articles/reverse-mortgage-clients-budget-deficit/",
-        "what": "GreenPath data shows rising budget deficits among low-income seniors seeking reverse mortgages as a new HUD grant funds free HECM counseling.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-clients-budget-deficit/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "U.S. Home Prices Inched Up 0.1% in March",
@@ -324,29 +306,47 @@
     ],
     "notables": [
       {
+        "title": "Why AI is still a subpar real estate agent replacement",
+        "url": "https://www.housingwire.com/articles/why-ai-is-still-a-subpar-real-estate-agent-replacement/",
+        "what": "AI can curate info, but agents add empathy and strategy, one Florida sale cited a $75,000 to $225,000 cost without guidance.",
+        "numbers": "$75,000, $225,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-ai-is-still-a-subpar-real-estate-agent-replacement/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "What Artemis II can teach every real estate agent about building a career that goes the distance",
+        "url": "https://www.housingwire.com/articles/artemis-ii-real-estate-career/",
+        "what": "Artemis II’s 5-stage mission model offers agents a framework for prospecting, adjusting to change and delivering clients home.",
+        "numbers": "5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/artemis-ii-real-estate-career/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Busy isn’t productive: How top real estate agents should actually allocate their time",
+        "url": "https://www.housingwire.com/articles/intentional-agent-productivity/",
+        "what": "Busyness is not productivity",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/intentional-agent-productivity/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "NAR fine-tunes its 3-year plan, fast-tracking execution and trimming governance",
+        "url": "https://www.housingwire.com/articles/nar-q1-strategic-plan-update/",
+        "what": "NAR says it launched about two-thirds of 2026 to 2028 plan projects in Q1, including brand protection, broker resources, and MLS updates.",
+        "numbers": "2026, 2028, 1,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-q1-strategic-plan-update/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Homebuyers stressed amid stretched budgets, fraud concerns",
         "url": "https://www.housingwire.com/articles/homebuyers-stressed-amid-stretched-budgets-fraud-concerns/",
         "what": "Seventy-seven percent of homebuyers reported exceeding their original budget",
         "numbers": "10, $80,000",
         "justified": "housingwire.com — https://www.housingwire.com/articles/homebuyers-stressed-amid-stretched-budgets-fraud-concerns/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CFPB ends disparate impact, tightens SPCPs through ECOA amendments",
-        "url": "https://www.housingwire.com/articles/cfpb-ecoa-effects-test-spcp/",
-        "what": "The Consumer Financial Protection Bureau is set to publish a final rule on Wednesday that eliminates disparate-impact liability under the Equal Credit Opportunity Act and adds new",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-ecoa-effects-test-spcp/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Most homeowners wish they knew more about down payments before buying, survey finds",
-        "url": "https://www.housingwire.com/articles/new-american-funding-survey/",
-        "what": "New American Funding survey finds most homeowners put 10% down or less, yet many still believe a 20% down payment is required.",
-        "numbers": "10, 20",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-american-funding-survey/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
