@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-22 18:14 UTC",
+  "as_of": "2026-04-22 19:40 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage industry welcomes new credit score models, urges further reform",
+      "link": "https://www.housingwire.com/articles/mortgage-credit-scores/",
+      "published": "Wed, 22 Apr 2026"
+    },
+    {
+      "title": "FHFA, HUD move to bring new credit score models into mortgages",
+      "link": "https://www.housingwire.com/articles/fhfa-vantagescore-pilot-gses-hud/",
+      "published": "Wed, 22 Apr 2026"
+    },
+    {
       "title": "Support grows for Whitmer housing zoning reform bills in Michigan",
       "link": "https://www.housingwire.com/articles/michigan-zoning-reform-package/",
       "published": "Wed, 22 Apr 2026"
@@ -157,16 +167,6 @@
     {
       "title": "NHC urges HUD to withdraw proposed mixed-status eligibility rule",
       "link": "https://www.housingwire.com/articles/nhc-urges-hud-to-withdraw-proposed-mixed-status-eligibility-rule/",
-      "published": "Wed, 22 Apr 2026"
-    },
-    {
-      "title": "How to read the 21st Century ROAD to Housing Act",
-      "link": "https://www.housingwire.com/articles/understanding-21st-century-road-housing-act-119th-congress/",
-      "published": "Wed, 22 Apr 2026"
-    },
-    {
-      "title": "Lacey Conway named SVP at HomeServices of America",
-      "link": "https://www.housingwire.com/articles/homeservices-elevates-conway-svp/",
       "published": "Wed, 22 Apr 2026"
     },
     {
@@ -203,11 +203,20 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "HomeServices opts into Tuccori settlement as Batton discovery is stayed",
-        "url": "https://www.housingwire.com/articles/homeservices-tuccori-batton-stay/",
-        "what": "A federal judge stayed discovery in the Batton suit and denied interim co-lead counsel as NARs Tuccori settlement nears review.",
+        "title": "Mortgage industry welcomes new credit score models, urges further reform",
+        "url": "https://www.housingwire.com/articles/mortgage-credit-scores/",
+        "what": "Mortgage groups welcomed HUD and FHFA plans for FICO 10T and VantageScore 4.0, but want timelines, pricing and guidance.",
+        "numbers": "10, 4.0,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-credit-scores/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "FHFA, HUD move to bring new credit score models into mortgages",
+        "url": "https://www.housingwire.com/articles/fhfa-vantagescore-pilot-gses-hud/",
+        "what": "Federal agencies on Wednesday took steps to bring newer credit scoring models into the mortgage underwriting process, marking a significant shift in how borrower risk is evaluated.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homeservices-tuccori-batton-stay/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-vantagescore-pilot-gses-hud/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -338,15 +347,6 @@
         "what": "First Street finds climate risk costs REITs 1.1% of revenue now, and 1-in-100-year events could cut revenue by about 15%.",
         "numbers": "1.1, 1, 100, 15",
         "justified": "housingwire.com — https://www.housingwire.com/articles/climate-risk-reit-revenue-first-street/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Thinking about selling your real estate brokerage? Title ownership may change the deal",
-        "url": "https://www.housingwire.com/articles/title-ownership-brokerage-valuation/",
-        "what": "Title ownership can diversify brokerage revenue, strengthen EBITDA, and improve earnings durability in M&A diligence and valuation.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/title-ownership-brokerage-valuation/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
