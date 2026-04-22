@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-22 06:10 UTC",
+  "as_of": "2026-04-22 08:05 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "AI isn’t to blame for the housing crisis",
+      "link": "https://www.housingwire.com/articles/ai-isnt-to-blame-for-the-housing-crisis/",
+      "published": "Wed, 22 Apr 2026"
+    },
+    {
+      "title": "Opinion: FICO, the 3Bs: Fruit from a rotten tree. Here’s how we fix It.",
+      "link": "https://www.housingwire.com/articles/fico-the-3bs-fruit-from-a-rotten-tree-heres-how-we-fix-it/",
+      "published": "Wed, 22 Apr 2026"
+    },
+    {
       "title": "Toll Brothers expands luxury footprint with Buffington acquisition",
       "link": "https://www.housingwire.com/articles/toll-luxury-buffington-nwa/",
       "published": "Tue, 21 Apr 2026"
@@ -157,16 +167,6 @@
     {
       "title": "What Artemis II can teach every real estate agent about building a career that goes the distance",
       "link": "https://www.housingwire.com/articles/artemis-ii-real-estate-career/",
-      "published": "Tue, 21 Apr 2026"
-    },
-    {
-      "title": "Busy isn’t productive: How top real estate agents should actually allocate their time",
-      "link": "https://www.housingwire.com/articles/intentional-agent-productivity/",
-      "published": "Tue, 21 Apr 2026"
-    },
-    {
-      "title": "Two Harbors hit with shareholder lawsuit over CCM acquisition",
-      "link": "https://www.housingwire.com/articles/two-harbors-board-sued-ccm/",
       "published": "Tue, 21 Apr 2026"
     },
     {
@@ -202,6 +202,24 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "AI isn’t to blame for the housing crisis",
+        "url": "https://www.housingwire.com/articles/ai-isnt-to-blame-for-the-housing-crisis/",
+        "what": "After years of serving as a convenient political target, artificial intelligence is entering a new phase of the debate: one shaped not only by state and local experimentation, but also by a more assertive federal posture",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-isnt-to-blame-for-the-housing-crisis/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Opinion: FICO, the 3Bs: Fruit from a rotten tree. Here’s how we fix It.",
+        "url": "https://www.housingwire.com/articles/fico-the-3bs-fruit-from-a-rotten-tree-heres-how-we-fix-it/",
+        "what": "In November 2025, Equifax published a statement making the case that FICO is the villain in the mortgage credit cost story",
+        "numbers": "2025,, 3, 1,800, 2020.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fico-the-3bs-fruit-from-a-rotten-tree-heres-how-we-fix-it/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Senate questions Warsh on $100M-plus holdings and Fed ethics",
         "url": "https://www.housingwire.com/articles/warsh-fed-independence-hearing/",
@@ -264,24 +282,6 @@
         "what": "Shareholder Michael Koblentz filed another lawsuit against Two Harbors Investment Corp",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/two-harbors-board-sued-ccm/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Canadian homebuilder Glenview Homes expands into Texas",
-        "url": "https://www.housingwire.com/articles/canadian-homebuilder-glenview-homes-expands-into-texas/",
-        "what": "Ottawa-based Glenview Homes is entering Texas with a Houston division led by Blake Roberts, with expansion plans across the state.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/canadian-homebuilder-glenview-homes-expands-into-texas/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "FirstTeam to pre-market listings with Zillow Preview",
-        "url": "https://www.housingwire.com/articles/firstteam-premarket-zillow-preview/",
-        "what": "FirstTeam joined Zillow Preview so agents can market listings on Zillow and Trulia before MLS activation, subject to MLS rules.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/firstteam-premarket-zillow-preview/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
