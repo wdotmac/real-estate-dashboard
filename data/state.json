@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-23 06:16 UTC",
+  "as_of": "2026-04-23 09:02 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Loan officers are going to Washington",
+      "link": "https://www.housingwire.com/articles/loan-officers-mba-advocacy/",
+      "published": "Thu, 23 Apr 2026"
+    },
+    {
+      "title": "When standard DSCR falls short: What real estate investors should know about no-ratio financing",
+      "link": "https://www.housingwire.com/articles/when-standard-dscr-falls-short-what-real-estate-investors-should-know-about-no-ratio-financing/",
+      "published": "Thu, 23 Apr 2026"
+    },
+    {
       "title": "Inventory rises as pricing lags in the spring housing market",
       "link": "https://www.housingwire.com/articles/housing-inventory-pricing-gap-2026/",
       "published": "Wed, 22 Apr 2026"
@@ -157,16 +167,6 @@
     {
       "title": "How fraud gets stopped in its tracks by real estate and title pros",
       "link": "https://www.housingwire.com/articles/how-fraud-gets-stopped-in-its-tracks-by-real-estate-and-title-pros/",
-      "published": "Wed, 22 Apr 2026"
-    },
-    {
-      "title": "FSBO.com launches loan officer portal for consumer-directed listings",
-      "link": "https://www.housingwire.com/articles/fsbo-loan-officer-portal/",
-      "published": "Wed, 22 Apr 2026"
-    },
-    {
-      "title": "Mortgage industry welcomes new credit score models, urges further reform",
-      "link": "https://www.housingwire.com/articles/mortgage-credit-scores/",
       "published": "Wed, 22 Apr 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "When standard DSCR falls short: What real estate investors should know about no-ratio financing",
+        "url": "https://www.housingwire.com/articles/when-standard-dscr-falls-short-what-real-estate-investors-should-know-about-no-ratio-financing/",
+        "what": "More investor deals are getting harder to finance cleanly on standard DSCR, not always because the investment is weak, but because current rents do not tell the whole story",
+        "numbers": "2026, 54.8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/when-standard-dscr-falls-short-what-real-estate-investors-should-know-about-no-ratio-financing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage industry welcomes new credit score models, urges further reform",
         "url": "https://www.housingwire.com/articles/mortgage-credit-scores/",
@@ -259,6 +268,15 @@
     ],
     "housing": [
       {
+        "title": "Loan officers are going to Washington",
+        "url": "https://www.housingwire.com/articles/loan-officers-mba-advocacy/",
+        "what": "Loan officers are taking their borrower stories to Capitol Hill, giving mortgage advocacy a new frontline voice in the debate over housing affordability and lending policy.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/loan-officers-mba-advocacy/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Inventory rises as pricing lags in the spring housing market",
         "url": "https://www.housingwire.com/articles/housing-inventory-pricing-gap-2026/",
         "what": "More homes are hitting the market, but pricing is still catching up",
@@ -293,24 +311,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/michigan-zoning-reform-package/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Castlelake buys majority of Resfin Partners to deepen residential loan access",
-        "url": "https://www.housingwire.com/articles/castlelake-majority-stake-resfin-partners-eastview-lendmarq/",
-        "what": "Asset manager Castlelake has acquired a majority ownership stake in Resfin Partners, the parent company of mortgage correspondent business Eastview and lender to residential real e",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/castlelake-majority-stake-resfin-partners-eastview-lendmarq/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NAMB, Chenoa Fund partner to expand down payment assistance access",
-        "url": "https://www.housingwire.com/articles/namb-chenoa-fund-strategic-partnership/",
-        "what": "NAMB’s partnership with Chenoa Fund gives mortgage brokers expanded access to down payment assistance tools and training.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/namb-chenoa-fund-strategic-partnership/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "U.S. Home Prices Inched Up 0.1% in March",
