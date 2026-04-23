@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-23 10:47 UTC",
+  "as_of": "2026-04-23 12:08 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Greg Hague joins CIH as director of home sale strategy",
+      "link": "https://www.housingwire.com/articles/72sold-hague-train-cih-agents/",
+      "published": "Thu, 23 Apr 2026"
+    },
+    {
+      "title": "Stephen Brobeck: Why decoupling commissions failed to lower housing costs",
+      "link": "https://www.housingwire.com/articles/stephen-brobeck-why-decoupling-commissions-failed-to-lower-housing-costs/",
+      "published": "Thu, 23 Apr 2026"
+    },
+    {
+      "title": "Why starting from square one can be an edge for Texas land deals",
+      "link": "https://www.housingwire.com/articles/blank-sheet-advantage-texas/",
+      "published": "Thu, 23 Apr 2026"
+    },
+    {
       "title": "Loan officers are going to Washington",
       "link": "https://www.housingwire.com/articles/loan-officers-mba-advocacy/",
       "published": "Thu, 23 Apr 2026"
@@ -155,19 +170,9 @@
       "published": "Wed, 22 Apr 2026"
     },
     {
-      "title": "Lawmakers target retirement gaps facing family caregivers",
-      "link": "https://www.housingwire.com/articles/lawmakers-target-retirement-gaps-facing-family-caregivers/",
-      "published": "Wed, 22 Apr 2026"
-    },
-    {
-      "title": "Beazer Homes CEO Allan Merrill on sustainability and affordability",
-      "link": "https://www.housingwire.com/articles/beazer-allan-merrill-sustainability-affordability/",
-      "published": "Wed, 22 Apr 2026"
-    },
-    {
-      "title": "How fraud gets stopped in its tracks by real estate and title pros",
-      "link": "https://www.housingwire.com/articles/how-fraud-gets-stopped-in-its-tracks-by-real-estate-and-title-pros/",
-      "published": "Wed, 22 Apr 2026"
+      "title": "More Homeowners Are Putting Up ‘For Sale’ Signs As the Days Get Warmer",
+      "link": "https://www.redfin.com/news/housing-market-update-new-listings-tick-up-spring/",
+      "published": "Thu, 23 Apr 2026"
     },
     {
       "title": "More Than 50,000 Home-Purchase Contracts Fell Through in March",
@@ -193,39 +198,25 @@
       "title": "Say hello to the Newfins who joined us in Q1!",
       "link": "https://www.redfin.com/news/q1-2026-agent-hires/",
       "published": "Mon, 20 Apr 2026"
-    },
-    {
-      "title": "Late April Is the Best Time to List a Home For Sale",
-      "link": "https://www.redfin.com/news/best-time-to-sell-buy-home/",
-      "published": "Mon, 20 Apr 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Stephen Brobeck: Why decoupling commissions failed to lower housing costs",
+        "url": "https://www.housingwire.com/articles/stephen-brobeck-why-decoupling-commissions-failed-to-lower-housing-costs/",
+        "what": "The op-ed says rates stayed near 5% to 6% as buyers expected seller-paid real estate commissions, limiting negotiation after the settlement.",
+        "numbers": "5, 6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/stephen-brobeck-why-decoupling-commissions-failed-to-lower-housing-costs/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "When standard DSCR falls short: What real estate investors should know about no-ratio financing",
         "url": "https://www.housingwire.com/articles/when-standard-dscr-falls-short-what-real-estate-investors-should-know-about-no-ratio-financing/",
         "what": "More investor deals are getting harder to finance cleanly on standard DSCR, not always because the investment is weak, but because current rents do not tell the whole story",
         "numbers": "2026, 54.8",
         "justified": "housingwire.com — https://www.housingwire.com/articles/when-standard-dscr-falls-short-what-real-estate-investors-should-know-about-no-ratio-financing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage industry welcomes new credit score models, urges further reform",
-        "url": "https://www.housingwire.com/articles/mortgage-credit-scores/",
-        "what": "Mortgage groups welcomed HUD and FHFA plans for FICO 10T and VantageScore 4.0, but want timelines, pricing and guidance.",
-        "numbers": "10, 4.0,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-credit-scores/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "FHFA, HUD move to bring new credit score models into mortgages",
-        "url": "https://www.housingwire.com/articles/fhfa-vantagescore-pilot-gses-hud/",
-        "what": "Federal agencies on Wednesday took steps to bring newer credit scoring models into the mortgage underwriting process, marking a significant shift in how borrower risk is evaluated.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-vantagescore-pilot-gses-hud/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -255,18 +246,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-april-20-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Late April Is the Best Time to List a Home For Sale",
-        "url": "https://www.redfin.com/news/best-time-to-sell-buy-home/",
-        "what": "Aziz Sunderji, housing economist and founder of data visualization consultancy Home Economics, also provided data and analysis for this report",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/best-time-to-sell-buy-home/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "housing": [
+      {
+        "title": "More Homeowners Are Putting Up ‘For Sale’ Signs As the Days Get Warmer",
+        "url": "https://www.redfin.com/news/housing-market-update-new-listings-tick-up-spring/",
+        "what": "We’re seeing a small spring rebound, with new listings of homes for sale ticking up",
+        "numbers": "3, 19,, 1.2",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-new-listings-tick-up-spring/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Why starting from square one can be an edge for Texas land deals",
+        "url": "https://www.housingwire.com/articles/blank-sheet-advantage-texas/",
+        "what": "I keep a blank sheet of paper on my desk",
+        "numbers": "2026, 2021,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/blank-sheet-advantage-texas/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Loan officers are going to Washington",
         "url": "https://www.housingwire.com/articles/loan-officers-mba-advocacy/",
@@ -304,15 +304,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Support grows for Whitmer housing zoning reform bills in Michigan",
-        "url": "https://www.housingwire.com/articles/michigan-zoning-reform-package/",
-        "what": "Michigan lawmakers returned from spring recess with housing affordability clearly in their sights",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/michigan-zoning-reform-package/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "U.S. Home Prices Inched Up 0.1% in March",
         "url": "https://www.redfin.com/news/home-price-index-march-2026/",
         "what": "Home prices ticked up 0.1% month over month on a seasonally adjusted basis",
@@ -332,6 +323,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Greg Hague joins CIH as director of home sale strategy",
+        "url": "https://www.housingwire.com/articles/72sold-hague-train-cih-agents/",
+        "what": "CIH names 72SOLD founder Greg Hague strategy director, offering optional no-cost training to 300,000 agents and citing a 5.8% lift.",
+        "numbers": "72, 300,000, 5.8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/72sold-hague-train-cih-agents/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Beazer Homes CEO Allan Merrill on sustainability and affordability",
         "url": "https://www.housingwire.com/articles/beazer-allan-merrill-sustainability-affordability/",
