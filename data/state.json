@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-24 19:13 UTC",
+  "as_of": "2026-04-24 20:02 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "NYC launches new unit to combat deed theft",
+      "link": "https://www.housingwire.com/articles/nyc-department-finance-deed-theft/",
+      "published": "Fri, 24 Apr 2026"
+    },
+    {
+      "title": "SoFi rolls out end-to-end digital HELOC experience, advisory council",
+      "link": "https://www.housingwire.com/articles/sofi-end-to-end-heloc/",
+      "published": "Fri, 24 Apr 2026"
+    },
+    {
       "title": "Powell is done. Will Warsh help with mortgage rates?",
       "link": "https://www.housingwire.com/articles/mortgage-rates-warsh-fed/",
       "published": "Fri, 24 Apr 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Did HUD, FHFA push homebuying into a new era with credit score advancements?",
       "link": "https://www.housingwire.com/articles/fha-hud-credit-scores-llpa/",
-      "published": "Fri, 24 Apr 2026"
-    },
-    {
-      "title": "Bess Freedman: It’s time to call out the facts around private listing networks",
-      "link": "https://www.housingwire.com/articles/bess-freedman-its-time-to-call-out-the-facts-around-private-listing-networks/",
-      "published": "Fri, 24 Apr 2026"
-    },
-    {
-      "title": "States’ deed theft protection measures tracked by new tool",
-      "link": "https://www.housingwire.com/articles/states-deed-theft-protection-measures-tracked-by-new-tool/",
       "published": "Fri, 24 Apr 2026"
     },
     {
@@ -259,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "SoFi rolls out end-to-end digital HELOC experience, advisory council",
+        "url": "https://www.housingwire.com/articles/sofi-end-to-end-heloc/",
+        "what": "SoFi unveiled an end-to-end digital HELOC and a 50-member advisory council as homeowners aim to keep 2% to 3% mortgages.",
+        "numbers": "50, 2, 3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/sofi-end-to-end-heloc/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Bess Freedman: It’s time to call out the facts around private listing networks",
         "url": "https://www.housingwire.com/articles/bess-freedman-its-time-to-call-out-the-facts-around-private-listing-networks/",
         "what": "A real estate CEO argues private listing networks limit exposure, reduce price discovery, and hide days on market and price cuts for buyers.",
@@ -266,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/bess-freedman-its-time-to-call-out-the-facts-around-private-listing-networks/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "ICE First Look shows mortgage delinquencies fall in March 2026",
-        "url": "https://www.housingwire.com/articles/ice-march-2026-mortgage-delinquencies/",
-        "what": "ICE said delinquencies fell to 3.35% in March 2026, while SMM rose to 1.06% and foreclosure inventory hit 273,000 loans.",
-        "numbers": "3.35, 2026,, 1.06, 273,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-march-2026-mortgage-delinquencies/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Room to Grow: Here’s Where Gen Zers Own the Largest Share of 3+ Bedroom Homes",
@@ -305,6 +305,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "NYC launches new unit to combat deed theft",
+        "url": "https://www.housingwire.com/articles/nyc-department-finance-deed-theft/",
+        "what": "New York City Mayor Zohran Mamdani has created the Office of Deed Theft Prevention, a new unit housed in the Department of Finance to coordinate citywide efforts to combat fraudule",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-department-finance-deed-theft/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Coldwell Banker: ‘Life doesn’t stop’ as comeback buyers return",
         "url": "https://www.housingwire.com/articles/coldwell-banker-life-doesnt-stop-as-comeback-buyers-return/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/brands-by-integra-enters-arizona-partners-with-citiea/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Citizens: Homeowners shift toward a ‘stay and upgrade’ mindset",
-        "url": "https://www.housingwire.com/articles/citizens-stay-upgrade-trend/",
-        "what": "Citizens finds 71% plan renovations in two years, 63% may need financing in five years, and 39% do not understand their options.",
-        "numbers": "71, 63, 39",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/citizens-stay-upgrade-trend/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
