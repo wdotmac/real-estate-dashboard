@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-04-24 20:02 UTC",
+  "as_of": "2026-04-24 21:05 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.3,
-      "delta_bp_1d": 0.0
+      "yield_pct": 4.34,
+      "delta_bp_1d": 4.0000000000000036
     },
     "mortgage_30y": {
       "rate_pct": 6.23,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "PulteGroup targets margin stability through an upward mix shift",
+      "link": "https://www.housingwire.com/articles/pultegroup-earnings-q1-2026/",
+      "published": "Fri, 24 Apr 2026"
+    },
+    {
+      "title": "Meritage Q1 2026 shows why incentives are the new battlefield",
+      "link": "https://www.housingwire.com/articles/meritage-q1-2026-earnings/",
+      "published": "Fri, 24 Apr 2026"
+    },
+    {
+      "title": "First-time homebuyer’s shrinking presence — what it means for real estate agents",
+      "link": "https://www.housingwire.com/articles/first-time-homebuyers-shrinking-presence-what-it-means-for-real-estate-agents/",
+      "published": "Fri, 24 Apr 2026"
+    },
+    {
       "title": "NYC launches new unit to combat deed theft",
       "link": "https://www.housingwire.com/articles/nyc-department-finance-deed-theft/",
       "published": "Fri, 24 Apr 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Powell is done. Will Warsh help with mortgage rates?",
       "link": "https://www.housingwire.com/articles/mortgage-rates-warsh-fed/",
-      "published": "Fri, 24 Apr 2026"
-    },
-    {
-      "title": "Coldwell Banker: ‘Life doesn’t stop’ as comeback buyers return",
-      "link": "https://www.housingwire.com/articles/coldwell-banker-life-doesnt-stop-as-comeback-buyers-return/",
-      "published": "Fri, 24 Apr 2026"
-    },
-    {
-      "title": "Freddie Mac securitizes first wave of Newrez mortgages with VantageScore 4.0",
-      "link": "https://www.housingwire.com/articles/freddie-newrez-vantagescore/",
-      "published": "Fri, 24 Apr 2026"
-    },
-    {
-      "title": "Did HUD, FHFA push homebuying into a new era with credit score advancements?",
-      "link": "https://www.housingwire.com/articles/fha-hud-credit-scores-llpa/",
       "published": "Fri, 24 Apr 2026"
     },
     {
@@ -259,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "Meritage Q1 2026 shows why incentives are the new battlefield",
+        "url": "https://www.housingwire.com/articles/meritage-q1-2026-earnings/",
+        "what": "The mid-spring earnings cycle has produced a common-language reality check for America’s public homebuilders: the operating backdrop worsened faster than many management teams expected",
+        "numbers": "1, 2026, 5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/meritage-q1-2026-earnings/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "SoFi rolls out end-to-end digital HELOC experience, advisory council",
         "url": "https://www.housingwire.com/articles/sofi-end-to-end-heloc/",
         "what": "SoFi unveiled an end-to-end digital HELOC and a 50-member advisory council as homeowners aim to keep 2% to 3% mortgages.",
@@ -306,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "PulteGroup targets margin stability through an upward mix shift",
+        "url": "https://www.housingwire.com/articles/pultegroup-earnings-q1-2026/",
+        "what": "PulteGroup's Q1 2026 ASP fell 5% to $542,000, incentives rose to 10.9%, and gross margin declined to 24.4%.",
+        "numbers": "1, 2026, 5, $542,000,, 10.9, 24.4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pultegroup-earnings-q1-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "First-time homebuyer’s shrinking presence — what it means for real estate agents",
+        "url": "https://www.housingwire.com/articles/first-time-homebuyers-shrinking-presence-what-it-means-for-real-estate-agents/",
+        "what": "The trends is reshaping how agents build their businesses, talk about value and prepare for a future without traditional buyer pipelines.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/first-time-homebuyers-shrinking-presence-what-it-means-for-real-estate-agents/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "NYC launches new unit to combat deed theft",
         "url": "https://www.housingwire.com/articles/nyc-department-finance-deed-theft/",
         "what": "New York City Mayor Zohran Mamdani has created the Office of Deed Theft Prevention, a new unit housed in the Department of Finance to coordinate citywide efforts to combat fraudule",
@@ -322,33 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/coldwell-banker-life-doesnt-stop-as-comeback-buyers-return/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "States’ deed theft protection measures tracked by new tool",
-        "url": "https://www.housingwire.com/articles/states-deed-theft-protection-measures-tracked-by-new-tool/",
-        "what": "The tool classifies each jurisdiction on a five-tier framework ranging from enacted law with criminal penalties to no legislative action.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/states-deed-theft-protection-measures-tracked-by-new-tool/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How top agents set the tone in the first 15 minutes",
-        "url": "https://www.housingwire.com/articles/better-client-meeting-15-min/",
-        "what": "Top agents prioritize listening over pitching, ask better questions, clarify the process, and adjust to client cues in minutes.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-client-meeting-15-min/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Brands by Integra enters Arizona through partnership with Phoenix brokerage CITIEA",
-        "url": "https://www.housingwire.com/articles/brands-by-integra-enters-arizona-partners-with-citiea/",
-        "what": "Brands by Integra enters Arizona via CITIEA partnership, tying regional expansion to 72SOLD and Homes2X listing demand across an 18-state platform.",
-        "numbers": "72, 2, 18",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/brands-by-integra-enters-arizona-partners-with-citiea/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
