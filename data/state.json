@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-26 06:19 UTC",
+  "as_of": "2026-04-26 08:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Homeowners insurance is reshaping the real estate transaction",
+      "link": "https://www.housingwire.com/articles/homeowners-insurance-reshaping-real-estate-transaction/",
+      "published": "Sun, 26 Apr 2026"
+    },
+    {
       "title": "Housing demand shockingly positive even as the Iran war continues",
       "link": "https://www.housingwire.com/articles/housing-demand-shockingly-positive-even-as-the-iran-war-continues/",
       "published": "Sun, 26 Apr 2026"
@@ -162,11 +167,6 @@
     {
       "title": "PulteGroup targets margin stability through an upward mix shift",
       "link": "https://www.housingwire.com/articles/pultegroup-earnings-q1-2026/",
-      "published": "Fri, 24 Apr 2026"
-    },
-    {
-      "title": "Meritage Q1 2026 shows why incentives are the new battlefield",
-      "link": "https://www.housingwire.com/articles/meritage-q1-2026-earnings/",
       "published": "Fri, 24 Apr 2026"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Powell is done. Will Warsh help with mortgage rates?",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-warsh-fed/",
-        "what": "Jerome Powell's tenure as Federal Reserve chair is coming to an end as the Department of Justice (DOJ) has ended its investigation of alleged cost overruns on the Fed headquarters'",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-warsh-fed/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "The Price Point: What $500,000 Buys Across America Right Now",
         "url": "https://www.redfin.com/news/the-price-point-what-500000-buys-april-24-2026/",
         "what": "In this inaugural edition of The Price Point—a weekly series where Redfin data journalists explore current housing inventory across a rotating combination of budgets and metro areas—we’re starting with a rather fickle figure: $500,000",
@@ -249,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Homeowners insurance is reshaping the real estate transaction",
+        "url": "https://www.housingwire.com/articles/homeowners-insurance-reshaping-real-estate-transaction/",
+        "what": "Rising premiums and limited coverage are reshaping homebuying",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homeowners-insurance-reshaping-real-estate-transaction/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "How two LOs helped champion proprietary reverse mortgage legislation in Tennessee",
         "url": "https://www.housingwire.com/articles/tennessee-proprietary-reverse-mortgages/",
