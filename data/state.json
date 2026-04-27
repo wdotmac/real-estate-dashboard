@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-27 06:40 UTC",
+  "as_of": "2026-04-27 09:28 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Rethinking fire-resistant construction: How fire-retardant OSB is reshaping building materials innovation",
+      "link": "https://www.housingwire.com/articles/frt-osb-fire-resistant/",
+      "published": "Mon, 27 Apr 2026"
+    },
+    {
+      "title": "The mortgage industry optimized for affordability. It ignored capital efficiency.",
+      "link": "https://www.housingwire.com/articles/the-mortgage-industry-optimized-for-affordability-it-ignored-capital-efficiency/",
+      "published": "Mon, 27 Apr 2026"
+    },
+    {
+      "title": "Speed-to-lead: Your strongest competitive advantage in homebuilding lies in response time",
+      "link": "https://www.housingwire.com/articles/speed-to-lead-homebuilders/",
+      "published": "Mon, 27 Apr 2026"
+    },
+    {
       "title": "Homeowners insurance is reshaping the real estate transaction",
       "link": "https://www.housingwire.com/articles/homeowners-insurance-reshaping-real-estate-transaction/",
       "published": "Sun, 26 Apr 2026"
@@ -153,21 +168,6 @@
       "title": "Home equity emerges as a generational growth strategy for originators",
       "link": "https://www.housingwire.com/articles/home-equity-originators-strategy/",
       "published": "Sat, 25 Apr 2026"
-    },
-    {
-      "title": "How two LOs helped champion proprietary reverse mortgage legislation in Tennessee",
-      "link": "https://www.housingwire.com/articles/tennessee-proprietary-reverse-mortgages/",
-      "published": "Fri, 24 Apr 2026"
-    },
-    {
-      "title": "Pritzker’s honor: Illinois housing reform fight intensifies",
-      "link": "https://www.housingwire.com/articles/illinois-pritzker-housing-reform-fight/",
-      "published": "Fri, 24 Apr 2026"
-    },
-    {
-      "title": "PulteGroup targets margin stability through an upward mix shift",
-      "link": "https://www.housingwire.com/articles/pultegroup-earnings-q1-2026/",
-      "published": "Fri, 24 Apr 2026"
     },
     {
       "title": "The Price Point: What $500,000 Buys Across America Right Now",
@@ -241,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "The mortgage industry optimized for affordability. It ignored capital efficiency.",
+        "url": "https://www.housingwire.com/articles/the-mortgage-industry-optimized-for-affordability-it-ignored-capital-efficiency/",
+        "what": "For decades, mortgage lending has been built around a single objective: to make homeownership affordable",
+        "numbers": "30",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-mortgage-industry-optimized-for-affordability-it-ignored-capital-efficiency/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Speed-to-lead: Your strongest competitive advantage in homebuilding lies in response time",
+        "url": "https://www.housingwire.com/articles/speed-to-lead-homebuilders/",
+        "what": "New Home Star helps builders improve speed-to-lead with CRM automation and OSC teams, boosting conversion and capturing more buyers.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/speed-to-lead-homebuilders/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Homeowners insurance is reshaping the real estate transaction",
         "url": "https://www.housingwire.com/articles/homeowners-insurance-reshaping-real-estate-transaction/",
         "what": "Rising premiums and limited coverage are reshaping homebuying",
@@ -277,15 +295,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "SoFi rolls out end-to-end digital HELOC experience, advisory council",
-        "url": "https://www.housingwire.com/articles/sofi-end-to-end-heloc/",
-        "what": "SoFi unveiled an end-to-end digital HELOC and a 50-member advisory council as homeowners aim to keep 2% to 3% mortgages.",
-        "numbers": "50, 2, 3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sofi-end-to-end-heloc/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Room to Grow: Here’s Where Gen Zers Own the Largest Share of 3+ Bedroom Homes",
         "url": "https://www.redfin.com/news/gen-z-large-home-ownership-2026/",
         "what": "Salt Lake City is the U.S",
@@ -315,6 +324,15 @@
     ],
     "notables": [
       {
+        "title": "Rethinking fire-resistant construction: How fire-retardant OSB is reshaping building materials innovation",
+        "url": "https://www.housingwire.com/articles/frt-osb-fire-resistant/",
+        "what": "How fire-retardant OSB is advancing fire-resistant construction, improving consistency and meeting evolving multifamily building material demands.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/frt-osb-fire-resistant/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Home equity emerges as a generational growth strategy for originators",
         "url": "https://www.housingwire.com/articles/home-equity-originators-strategy/",
         "what": "Deephaven’s Tom Davis explains why home equity lending is a generational opportunity and how originators can drive borrower retention and growth.",
@@ -329,24 +347,6 @@
         "what": "PulteGroup's Q1 2026 ASP fell 5% to $542,000, incentives rose to 10.9%, and gross margin declined to 24.4%.",
         "numbers": "1, 2026, 5, $542,000,, 10.9, 24.4",
         "justified": "housingwire.com — https://www.housingwire.com/articles/pultegroup-earnings-q1-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "First-time homebuyers’ shrinking presence — what it means for real estate agents",
-        "url": "https://www.housingwire.com/articles/first-time-homebuyers-shrinking-presence-what-it-means-for-real-estate-agents/",
-        "what": "The trends is reshaping how agents build their businesses, talk about value and prepare for a future without traditional buyer pipelines.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/first-time-homebuyers-shrinking-presence-what-it-means-for-real-estate-agents/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "NYC launches new unit to combat deed theft",
-        "url": "https://www.housingwire.com/articles/nyc-department-finance-deed-theft/",
-        "what": "New York City Mayor Zohran Mamdani has created the Office of Deed Theft Prevention, a new unit housed in the Department of Finance to coordinate citywide efforts to combat fraudule",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-department-finance-deed-theft/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
