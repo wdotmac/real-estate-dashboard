@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-27 11:59 UTC",
+  "as_of": "2026-04-27 14:25 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Ginnie Mae temporarily excludes FHA trial plans from delinquency ratios",
+      "link": "https://www.housingwire.com/articles/ginnie-mae-fha-tpps/",
+      "published": "Mon, 27 Apr 2026"
+    },
+    {
+      "title": "Exclusive: Mike Fawaz launches broker platform with UWM as first lender partner",
+      "link": "https://www.housingwire.com/articles/fawaz-uwm-broker-platform/",
+      "published": "Mon, 27 Apr 2026"
+    },
+    {
       "title": "Real to acquire REMAX in $880M deal, forming Real REMAX Group",
       "link": "https://www.housingwire.com/articles/real-to-acquire-remax-880-million-real-remax-group/",
       "published": "Mon, 27 Apr 2026"
@@ -158,16 +168,6 @@
       "title": "The mortgage industry optimized for affordability. It ignored capital efficiency.",
       "link": "https://www.housingwire.com/articles/the-mortgage-industry-optimized-for-affordability-it-ignored-capital-efficiency/",
       "published": "Mon, 27 Apr 2026"
-    },
-    {
-      "title": "Speed-to-lead: Your strongest competitive advantage in homebuilding lies in response time",
-      "link": "https://www.housingwire.com/articles/speed-to-lead-homebuilders/",
-      "published": "Mon, 27 Apr 2026"
-    },
-    {
-      "title": "Homeowners insurance is reshaping the real estate transaction",
-      "link": "https://www.housingwire.com/articles/homeowners-insurance-reshaping-real-estate-transaction/",
-      "published": "Sun, 26 Apr 2026"
     },
     {
       "title": "The Price Point: What $500,000 Buys Across America Right Now",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Ginnie Mae temporarily excludes FHA trial plans from delinquency ratios",
+        "url": "https://www.housingwire.com/articles/ginnie-mae-fha-tpps/",
+        "what": "Ginnie Mae will temporarily exclude loans in FHA Trial Payment Plans (TPPs) from issuer delinquency calculations, responding to higher reported rates, the corporation announced las",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ginnie-mae-fha-tpps/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Housing demand shockingly positive even as the Iran war continues",
         "url": "https://www.housingwire.com/articles/housing-demand-shockingly-positive-even-as-the-iran-war-continues/",
@@ -241,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Exclusive: Mike Fawaz launches broker platform with UWM as first lender partner",
+        "url": "https://www.housingwire.com/articles/fawaz-uwm-broker-platform/",
+        "what": "Former Rocket Pro executive Mike Fawaz, who left the company in February, is launching a new broker platform in May, and he's partnering with a previous archrival: United Wholesale",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fawaz-uwm-broker-platform/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Jesse Allen on executing Rate’s reverse mortgage strategic blueprint",
         "url": "https://www.housingwire.com/articles/rate-reverse-product-strategy/",
         "what": "Jesse Allen discusses Rate’s reverse mortgage expansion, including proprietary products and market share gains alongside LOS and CRM scaling.",
@@ -275,24 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/homeowners-insurance-reshaping-real-estate-transaction/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "How two LOs helped champion proprietary reverse mortgage legislation in Tennessee",
-        "url": "https://www.housingwire.com/articles/tennessee-proprietary-reverse-mortgages/",
-        "what": "Tennessee bill to allow proprietary reverse mortgages expands options beyond HECMs and their $1.25 million limit for 2026.",
-        "numbers": "$1.25 million, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tennessee-proprietary-reverse-mortgages/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Pritzker’s honor: Illinois housing reform fight intensifies",
-        "url": "https://www.housingwire.com/articles/illinois-pritzker-housing-reform-fight/",
-        "what": "The fight over Illinois Gov",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/illinois-pritzker-housing-reform-fight/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Room to Grow: Here’s Where Gen Zers Own the Largest Share of 3+ Bedroom Homes",
