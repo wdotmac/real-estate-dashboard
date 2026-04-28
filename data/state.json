@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-04-28 14:41 UTC",
+  "as_of": "2026-04-28 20:40 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.31,
-      "delta_bp_1d": -3.000000000000025
+      "yield_pct": 4.35,
+      "delta_bp_1d": 4.0000000000000036
     },
     "mortgage_30y": {
       "rate_pct": 6.23,
@@ -140,37 +140,37 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "The infrastructure cost squeeze and what builders can do",
-      "link": "https://www.housingwire.com/articles/infrastructure-cost-squeeze-builders/",
+      "title": "KW’s Sandra Howard: Why tough markets expose weak branding and how to prevent strategic drift",
+      "link": "https://www.housingwire.com/articles/turning-market-uncertainty-into-brand-momentum/",
       "published": "Tue, 28 Apr 2026"
     },
     {
-      "title": "Rethinking the CRM: How Sure Send is redefining daily execution for modern real estate and lending teams",
-      "link": "https://www.housingwire.com/articles/sure-send-crm-daily-execution/",
+      "title": "Bill targets Social Security earnings limits as retirement trends shift",
+      "link": "https://www.housingwire.com/articles/bill-social-security-earnings-limits-retirement-trends-shift/",
       "published": "Tue, 28 Apr 2026"
     },
     {
-      "title": "Smart home technology continues to emerge as key tool for aging in place",
-      "link": "https://www.housingwire.com/articles/smart-home-technology-aging-in-place/",
-      "published": "Mon, 27 Apr 2026"
+      "title": "The Gathering 2026: Mortgage execs debate the hidden risks of credit score reform",
+      "link": "https://www.housingwire.com/articles/fhfa-score-change-gamification/",
+      "published": "Tue, 28 Apr 2026"
     },
     {
-      "title": "Century’s spec and land optionality model zigs as others zag",
-      "link": "https://www.housingwire.com/articles/century-communities-earnings-q1-2026/",
-      "published": "Mon, 27 Apr 2026"
+      "title": "Reside outlines growth strategy at first event since acquisition",
+      "link": "https://www.housingwire.com/articles/reside-outlines-growth-strategy-at-first-event-since-acquisition/",
+      "published": "Tue, 28 Apr 2026"
     },
     {
-      "title": "Minnesota zoning reform push for starter homes falters",
-      "link": "https://www.housingwire.com/articles/minnesota-zoning-reform-starter-homes/",
-      "published": "Mon, 27 Apr 2026"
+      "title": "LPT Realty’s Robert Palmer: ‘We run the brokerage like a business instead of as a loss leader’",
+      "link": "https://www.housingwire.com/articles/lpt-realtys-robert-palmer-we-run-the-brokerage-like-a-business-instead-of-as-a-loss-leader/",
+      "published": "Tue, 28 Apr 2026"
     },
     {
-      "title": "The Group Real Estate’s Brandon Wells on AI ‘slop,’ independents’ edge",
-      "link": "https://www.housingwire.com/articles/the-group-real-estates-brandon-wells-on-ai-slop-independents-edge/",
-      "published": "Mon, 27 Apr 2026"
+      "title": "Keller Williams names Christopher Brodhead chief revenue officer",
+      "link": "https://www.housingwire.com/articles/keller-williams-chief-revenue-officer/",
+      "published": "Tue, 28 Apr 2026"
     },
     {
-      "title": "The Reveal in NYC: This ‘One-of-a-Kind’ Apartment Just Off City Hall Park is Now Listed for $2.199 Million",
+      "title": "The Reveal in NYC: This ‘One-of-a-Kind’ Apartment Just Off City Hall Park is Now Listed for $2.2 Million",
       "link": "https://www.redfin.com/news/150-naussau-new-york-city-compass-listing/",
       "published": "Tue, 28 Apr 2026"
     },
@@ -203,11 +203,20 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "NEXA Lending denies loanDepot trade secrets lawsuit",
-        "url": "https://www.housingwire.com/articles/nexa-lending-denies-loandepot-trade-secrets-lawsuit/",
-        "what": "loanDepot sued NEXA in Mississippi federal court, alleging trade secrets theft, CFAA claims, and seeking injunctions and fees.",
+        "title": "The Gathering 2026: Mortgage execs debate the hidden risks of credit score reform",
+        "url": "https://www.housingwire.com/articles/fhfa-score-change-gamification/",
+        "what": "Mortgage industry executives say the shift to new credit score models and lender choice could raise mortgage delinquencies, reshape pricing grids at the government-sponsored enterp",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nexa-lending-denies-loandepot-trade-secrets-lawsuit/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-score-change-gamification/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Case-Shiller: Home price growth remained slow in February",
+        "url": "https://www.housingwire.com/articles/case-shiller-home-price-growth-remained-slow-in-february/",
+        "what": "Inflation again outpaced home price growth",
+        "numbers": "2.4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/case-shiller-home-price-growth-remained-slow-in-february/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -232,31 +241,49 @@
     ],
     "housing": [
       {
-        "title": "The Reveal in NYC: This ‘One-of-a-Kind’ Apartment Just Off City Hall Park is Now Listed for $2.199 Million",
-        "url": "https://www.redfin.com/news/150-naussau-new-york-city-compass-listing/",
-        "what": "Surrounded by the hustle and bustle of Lower Manhattan, this two-bedroom, two-and-a-half-bathroom loft-style apartment is listed for $2,199,000",
-        "numbers": "$2,199,000., 1,700, 16, 11, $2.199 Million",
-        "justified": "redfin.com — https://www.redfin.com/news/150-naussau-new-york-city-compass-listing/",
+        "title": "Bill targets Social Security earnings limits as retirement trends shift",
+        "url": "https://www.housingwire.com/articles/bill-social-security-earnings-limits-retirement-trends-shift/",
+        "what": "The Senior Citizens’ Freedom to Work Act would repeal the retirement earnings test.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bill-social-security-earnings-limits-retirement-trends-shift/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "The infrastructure cost squeeze and what builders can do",
-        "url": "https://www.housingwire.com/articles/infrastructure-cost-squeeze-builders/",
-        "what": "Carter T",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/infrastructure-cost-squeeze-builders/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+        "title": "LPT Realty’s Robert Palmer: ‘We run the brokerage like a business instead of as a loss leader’",
+        "url": "https://www.housingwire.com/articles/lpt-realtys-robert-palmer-we-run-the-brokerage-like-a-business-instead-of-as-a-loss-leader/",
+        "what": "Palmer, who spent roughly 20 years in the mortgage business, has made a pointed decision not to attach a mortgage company to LPT Realty.",
+        "numbers": "20",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lpt-realtys-robert-palmer-we-run-the-brokerage-like-a-business-instead-of-as-a-loss-leader/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Smart home technology continues to emerge as key tool for aging in place",
-        "url": "https://www.housingwire.com/articles/smart-home-technology-aging-in-place/",
-        "what": "Experts say that financing these upgrades remains a central challenge",
+        "title": "HUD rescinds energy rule for new construction, opening market to more FHA, USDA buyers",
+        "url": "https://www.housingwire.com/articles/hud-rescinds-iecc-rule/",
+        "what": "U.S",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/smart-home-technology-aging-in-place/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-rescinds-iecc-rule/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Enforce or not? Independents clash on buyer agreements and private listings",
+        "url": "https://www.housingwire.com/articles/independent-brokers-buyer-agreements-listings/",
+        "what": "Two independent brokers split on enforcing buyer agreements and using pre marketing, but agree consolidation helps independents.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/independent-brokers-buyer-agreements-listings/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "The Reveal in NYC: This ‘One-of-a-Kind’ Apartment Just Off City Hall Park is Now Listed for $2.2 Million",
+        "url": "https://www.redfin.com/news/150-naussau-new-york-city-compass-listing/",
+        "what": "Surrounded by the hustle and bustle of Lower Manhattan, this two-bedroom, two-and-a-half-bathroom loft-style apartment is listed for $2,199,000",
+        "numbers": "$2,199,000., 1,700, 16, 11, $2.2 Million",
+        "justified": "redfin.com — https://www.redfin.com/news/150-naussau-new-york-city-compass-listing/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Coming Soon in New Jersey: This 3-Bedroom, 2-Bath Fixer-Upper Less Than an Hour From NYC is Set to Hit the Market This Week",
@@ -266,33 +293,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/585-bamford-ave-new-jersey-listing/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "What if the housing shortage era is ending for some metros?",
-        "url": "https://www.housingwire.com/articles/housing-demand-regime-shift/",
-        "what": "The Changing Landscape “This is not a forecast",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-demand-regime-shift/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "‘Off to the races’: Real, REMAX CEOs on tech and culture after acquisition",
-        "url": "https://www.housingwire.com/articles/real-brokerage-max-ceo-poleg-carlson-tech-culture-acquisition/",
-        "what": "In an interview with HousingWire, leaders said talks between the two companies accelerated recently but were rooted in years of respect.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-brokerage-max-ceo-poleg-carlson-tech-culture-acquisition/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "LA wildfire recovery aftermath draws Trump scrutiny",
-        "url": "https://www.housingwire.com/articles/la-wildfire-mortgage-scrutiny/",
-        "what": "President Trump says banks must treat LA wildfire victims fairly as the state mandates up to 12 months of mortgage forbearance under AB 238.",
-        "numbers": "12, 238.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/la-wildfire-mortgage-scrutiny/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Room to Grow: Here’s Where Gen Zers Own the Largest Share of 3+ Bedroom Homes",
@@ -315,38 +315,38 @@
     ],
     "notables": [
       {
-        "title": "Rethinking the CRM: How Sure Send is redefining daily execution for modern real estate and lending teams",
-        "url": "https://www.housingwire.com/articles/sure-send-crm-daily-execution/",
-        "what": "Sure Send unifies communication and daily execution for lenders, helping teams simplify workflows, improve follow-up and drive consistent production.",
+        "title": "KW’s Sandra Howard: Why tough markets expose weak branding and how to prevent strategic drift",
+        "url": "https://www.housingwire.com/articles/turning-market-uncertainty-into-brand-momentum/",
+        "what": "Keller Williams' Sandra Howard explains how clear brand identity helps real estate companies avoid strategic drift.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sure-send-crm-daily-execution/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/turning-market-uncertainty-into-brand-momentum/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Century’s spec and land optionality model zigs as others zag",
-        "url": "https://www.housingwire.com/articles/century-communities-earnings-q1-2026/",
-        "what": "Century Communities raised gross margin to 17.8% and cut incentives to 12.5% as deliveries slowed to just over 2,000 in Q1 2026.",
-        "numbers": "17.8, 12.5, 2,000, 1, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/century-communities-earnings-q1-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "Reside outlines growth strategy at first event since acquisition",
+        "url": "https://www.housingwire.com/articles/reside-outlines-growth-strategy-at-first-event-since-acquisition/",
+        "what": "New owner Robert Palmer, who bought the platform earlier this year, said additional platform developments are in progress but not yet public.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reside-outlines-growth-strategy-at-first-event-since-acquisition/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Minnesota zoning reform push for starter homes falters",
-        "url": "https://www.housingwire.com/articles/minnesota-zoning-reform-starter-homes/",
-        "what": "A third go at trying to reboot starter-home construction in Minnesota is on life support at the state Legislature, with supporters scrambling to revive it before the session ends",
+        "title": "Keller Williams names Christopher Brodhead chief revenue officer",
+        "url": "https://www.housingwire.com/articles/keller-williams-chief-revenue-officer/",
+        "what": "Keller Williams hired Christopher Brodhead as chief revenue officer, a new role to align revenue growth strategy across its ecosystem.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/minnesota-zoning-reform-starter-homes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/keller-williams-chief-revenue-officer/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "The Group Real Estate’s Brandon Wells on AI ‘slop,’ independents’ edge",
-        "url": "https://www.housingwire.com/articles/the-group-real-estates-brandon-wells-on-ai-slop-independents-edge/",
-        "what": "Wells said his firm’s success has come from investing in brokers through training, education and a culture of abundance.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-group-real-estates-brandon-wells-on-ai-slop-independents-edge/",
+        "title": "Supreme Lending executives tout growth, AI investment at The Gathering",
+        "url": "https://www.housingwire.com/articles/supreme-lending-growth-strategy-ai/",
+        "what": "Supreme Lending said it added about $3B in production and 610 loan officers in 12 months, driven by M&A, recruiting and AI.",
+        "numbers": "$3, 610, 12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/supreme-lending-growth-strategy-ai/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
