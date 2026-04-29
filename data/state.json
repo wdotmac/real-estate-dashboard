@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-29 11:54 UTC",
+  "as_of": "2026-04-29 16:53 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -11,8 +11,8 @@
       "delta_bp_wow": -6.99999999999994
     },
     "starts": {
-      "level_saar": 1487.0,
-      "mom": 0.07209805335255948
+      "level_saar": 1502.0,
+      "mom": 0.10766961651917395
     }
   },
   "permits": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Multifamily players spot recovery signs amid risks and headwinds",
-      "link": "https://www.housingwire.com/articles/multifamily-developers-recovery/",
+      "title": "Atlantic Avenue remains top dog in HECM broker report",
+      "link": "https://www.housingwire.com/articles/atlantic-avenue-hecm-endorsements-reverse-mortgage/",
       "published": "Wed, 29 Apr 2026"
     },
     {
-      "title": "Virginia adapts California’s pioneering church-land housing model",
-      "link": "https://www.housingwire.com/articles/california-yigby-virginia-playbook/",
+      "title": "Warsh moves to closer to Fed chair confirmation, advancing in Senate committee vote",
+      "link": "https://www.housingwire.com/articles/kevin-warsh-fed-chair/",
       "published": "Wed, 29 Apr 2026"
     },
     {
-      "title": "The Gathering: Jason Mitchell defends referral networks as fees face scrutiny",
-      "link": "https://www.housingwire.com/articles/mitchell-referral-fees-commissions/",
+      "title": "Castlelake, Redwood form $8B prime jumbo mortgage joint venture",
+      "link": "https://www.housingwire.com/articles/castlelake-redwood-sequoia-jumbo-jv/",
       "published": "Wed, 29 Apr 2026"
     },
     {
-      "title": "The Gathering: Sue Yannaccone says scale can be a ‘super power’ as brokerages consolidate",
-      "link": "https://www.housingwire.com/articles/yannaccone-scale-brokerage-consolidation/",
-      "published": "Tue, 28 Apr 2026"
+      "title": "Fannie Mae trims expenses, posts $3.7B profit in Q1 2026",
+      "link": "https://www.housingwire.com/articles/fannie-mae-q1-2026-earnings/",
+      "published": "Wed, 29 Apr 2026"
     },
     {
-      "title": "CrossCountry raises bid for Two Harbors after rival offer from UWM",
-      "link": "https://www.housingwire.com/articles/two-harbors-deal-raised-uwm-ccm/",
-      "published": "Tue, 28 Apr 2026"
+      "title": "Keller Williams acquires Michael Lewis Marketing Suite",
+      "link": "https://www.housingwire.com/articles/keller-williams-acquires-mlms/",
+      "published": "Wed, 29 Apr 2026"
     },
     {
-      "title": "KW’s Sandra Howard: Why tough markets expose weak branding and how to prevent strategic drift",
-      "link": "https://www.housingwire.com/articles/turning-market-uncertainty-into-brand-momentum/",
-      "published": "Tue, 28 Apr 2026"
+      "title": "This housing market looks like 2017 but isn’t",
+      "link": "https://www.housingwire.com/articles/this-housing-market-looks-like-2017-but-isnt/",
+      "published": "Wed, 29 Apr 2026"
     },
     {
       "title": "The Reveal in NYC: This ‘One-of-a-Kind’ Apartment Just Off City Hall Park is Now Listed for $2.2 Million",
@@ -203,11 +203,11 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "The Gathering 2026: Mortgage execs debate the hidden risks of credit score reform",
-        "url": "https://www.housingwire.com/articles/fhfa-score-change-gamification/",
-        "what": "Mortgage industry executives say the shift to new credit score models and lender choice could raise mortgage delinquencies, reshape pricing grids at the government-sponsored enterp",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-score-change-gamification/",
+        "title": "Warsh moves to closer to Fed chair confirmation, advancing in Senate committee vote",
+        "url": "https://www.housingwire.com/articles/kevin-warsh-fed-chair/",
+        "what": "The Senate Banking Committee advanced Kevin Warsh 13-11 for Fed chair, with a full Senate vote possible before Jerome Powell's term expires.",
+        "numbers": "13, 11",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kevin-warsh-fed-chair/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -232,6 +232,33 @@
     ],
     "housing": [
       {
+        "title": "Castlelake, Redwood form $8B prime jumbo mortgage joint venture",
+        "url": "https://www.housingwire.com/articles/castlelake-redwood-sequoia-jumbo-jv/",
+        "what": "Castlelake and Redwood Trust have formed a joint venture to purchase up to $8 billion of prime jumbo mortgage loans, the companies announced Tuesday.",
+        "numbers": "$8 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/castlelake-redwood-sequoia-jumbo-jv/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "This housing market looks like 2017 but isn’t",
+        "url": "https://www.housingwire.com/articles/this-housing-market-looks-like-2017-but-isnt/",
+        "what": "The housing market looks like 2017, but the data tells a different story",
+        "numbers": "2017,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/this-housing-market-looks-like-2017-but-isnt/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Mortgage applications drop 1.6% as borrower intent shrinks",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-april-29-2026/",
+        "what": "Mortgage applications fell 1.6% as the 30-year fixed rate rose to 6.37%, refinance fell 4% and purchases rose 21% year over year.",
+        "numbers": "1.6, 30, 6.37, 4, 21",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-april-29-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Multifamily players spot recovery signs amid risks and headwinds",
         "url": "https://www.housingwire.com/articles/multifamily-developers-recovery/",
         "what": "NAIOP’s Spring 2026 CRE Sentiment Index points to slightly better conditions for multifamily over the next 12 months",
@@ -250,28 +277,10 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Bill targets Social Security earnings limits as retirement trends shift",
-        "url": "https://www.housingwire.com/articles/bill-social-security-earnings-limits-retirement-trends-shift/",
-        "what": "The Senior Citizens’ Freedom to Work Act would repeal the retirement earnings test.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bill-social-security-earnings-limits-retirement-trends-shift/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "LPT Realty’s Robert Palmer: ‘We run the brokerage like a business instead of as a loss leader’",
-        "url": "https://www.housingwire.com/articles/lpt-realtys-robert-palmer-we-run-the-brokerage-like-a-business-instead-of-as-a-loss-leader/",
-        "what": "Palmer, who spent roughly 20 years in the mortgage business, has made a pointed decision not to attach a mortgage company to LPT Realty.",
-        "numbers": "20",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lpt-realtys-robert-palmer-we-run-the-brokerage-like-a-business-instead-of-as-a-loss-leader/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "The Reveal in NYC: This ‘One-of-a-Kind’ Apartment Just Off City Hall Park is Now Listed for $2.2 Million",
         "url": "https://www.redfin.com/news/150-naussau-new-york-city-compass-listing/",
         "what": "Surrounded by the hustle and bustle of Lower Manhattan, this two-bedroom, two-and-a-half-bathroom loft-style apartment is listed for $2,199,000",
-        "numbers": "$2,199,000., 1,700, 16, 11, $2.2 Million",
+        "numbers": "$2,199,000., 1,700, 13, 11, $2.2 Million",
         "justified": "redfin.com — https://www.redfin.com/news/150-naussau-new-york-city-compass-listing/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
@@ -306,47 +315,38 @@
     ],
     "notables": [
       {
+        "title": "Atlantic Avenue remains top dog in HECM broker report",
+        "url": "https://www.housingwire.com/articles/atlantic-avenue-hecm-endorsements-reverse-mortgage/",
+        "what": "Atlantic Avenue led February HECM TPO broker rankings with 901 endorsements in the prior 12 months, including 64 in February, per HECMWorld.",
+        "numbers": "901, 12, 64",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/atlantic-avenue-hecm-endorsements-reverse-mortgage/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Fannie Mae trims expenses, posts $3.7B profit in Q1 2026",
+        "url": "https://www.housingwire.com/articles/fannie-mae-q1-2026-earnings/",
+        "what": "Fannie Mae earned $3.7B in Q1 2026 on $7.3B in revenue, with expenses down 19% and net worth rising to $112.7B.",
+        "numbers": "$3.7, 1, 2026, $7.3, 19, $112.7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-mae-q1-2026-earnings/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Keller Williams acquires Michael Lewis Marketing Suite",
+        "url": "https://www.housingwire.com/articles/keller-williams-acquires-mlms/",
+        "what": "Keller Williams acquired MLMS, a marketing partner serving 130,000 agents, and plans network-wide deployment by end of Q3 2026.",
+        "numbers": "130,000, 3, 2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/keller-williams-acquires-mlms/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "The Gathering: Jason Mitchell defends referral networks as fees face scrutiny",
         "url": "https://www.housingwire.com/articles/mitchell-referral-fees-commissions/",
         "what": "Jason Mitchell says JMG’s average co broke was 2.6% on referrals and self generated leads, keeping referral fees off consumers.",
         "numbers": "2.6",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mitchell-referral-fees-commissions/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The Gathering: Sue Yannaccone says scale can be a ‘super power’ as brokerages consolidate",
-        "url": "https://www.housingwire.com/articles/yannaccone-scale-brokerage-consolidation/",
-        "what": "Compass International Holdings COO Sue Yannaccone says consolidation is inevitable, but scale can fuel integration and efficiency.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/yannaccone-scale-brokerage-consolidation/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CrossCountry raises bid for Two Harbors after rival offer from UWM",
-        "url": "https://www.housingwire.com/articles/two-harbors-deal-raised-uwm-ccm/",
-        "what": "Two Harbors announced Tuesday that it amended its merger agreement to increase the all-cash price CrossCountry will pay to $11.30 per share.",
-        "numbers": "$11.30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/two-harbors-deal-raised-uwm-ccm/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "KW’s Sandra Howard: Why tough markets expose weak branding and how to prevent strategic drift",
-        "url": "https://www.housingwire.com/articles/turning-market-uncertainty-into-brand-momentum/",
-        "what": "Keller Williams' Sandra Howard explains how clear brand identity helps real estate companies avoid strategic drift.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/turning-market-uncertainty-into-brand-momentum/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Reside outlines growth strategy at first event since acquisition",
-        "url": "https://www.housingwire.com/articles/reside-outlines-growth-strategy-at-first-event-since-acquisition/",
-        "what": "New owner Robert Palmer, who bought the platform earlier this year, said additional platform developments are in progress but not yet public.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reside-outlines-growth-strategy-at-first-event-since-acquisition/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
