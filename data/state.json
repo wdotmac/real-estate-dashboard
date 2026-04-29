@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-04-29 18:47 UTC",
+  "as_of": "2026-04-29 22:10 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.35,
-      "delta_bp_1d": 4.0000000000000036
+      "yield_pct": 4.36,
+      "delta_bp_1d": 1.0000000000000675
     },
     "mortgage_30y": {
       "rate_pct": 6.23,
@@ -140,33 +140,43 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "ICE’s Courtenay Dunn outlines deregulatory housing priorities",
-      "link": "https://www.housingwire.com/articles/trump-housing-deregulation-costs/",
+      "title": "UWM adds VantageScore alongside FICO for conventional loans",
+      "link": "https://www.housingwire.com/articles/uwm-fico-vantagescore-conventional/",
       "published": "Wed, 29 Apr 2026"
     },
     {
-      "title": "Fed holds rates in Powell’s final meeting as chair",
-      "link": "https://www.housingwire.com/articles/fed-holds-rates-mortgage-rates/",
+      "title": "ERA Real Estate affiliates form new billion-dollar-plus partnership in California",
+      "link": "https://www.housingwire.com/articles/era-real-estate-affiliates-form-new-billion-dollar-plus-partnership-in-california/",
       "published": "Wed, 29 Apr 2026"
     },
     {
-      "title": "Illinois Realtors partners with MRED for MLS access",
-      "link": "https://www.housingwire.com/articles/illinois-realtors-mred-access/",
+      "title": "Housing starts overachieved in March amid warning signs aplenty",
+      "link": "https://www.housingwire.com/articles/housing-starts-accelerated-in-march-2026/",
       "published": "Wed, 29 Apr 2026"
     },
     {
-      "title": "Could REMAX headquarters relocate to Florida after Real acquisition?",
-      "link": "https://www.housingwire.com/articles/could-remax-headquarters-relocate-to-florida-after-real-acquisition/",
+      "title": "CoStar Group, Homes.com surge in Q1 — CEO welcomes end of activist ‘distraction’",
+      "link": "https://www.housingwire.com/articles/costar-group-homes-com-surge-in-q1-ceo-welcomes-end-of-activist-distraction/",
       "published": "Wed, 29 Apr 2026"
     },
     {
-      "title": "Ron Leonhardt says CCM is ‘pot committed’ as Two Harbors deal advances",
-      "link": "https://www.housingwire.com/articles/crosscountry-two-harbors-ron-leonhardt/",
+      "title": "Figure’s Michael Tannenbaum warns rush to adopt AI could accelerate poor mortgage processes",
+      "link": "https://www.housingwire.com/articles/figure-ceo-blockchain-ai-mortgages/",
       "published": "Wed, 29 Apr 2026"
     },
     {
-      "title": "Atlantic Avenue remains top dog in HECM broker report",
-      "link": "https://www.housingwire.com/articles/atlantic-avenue-hecm-endorsements-reverse-mortgage/",
+      "title": "Nykia Wright outlines NAR transparency and antitrust reset",
+      "link": "https://www.housingwire.com/articles/nar-wright-transparency-antitrust/",
+      "published": "Wed, 29 Apr 2026"
+    },
+    {
+      "title": "Fed Holds Rates Steady, But Rare Dissents Signal Cloudy Outlook For Future Path",
+      "link": "https://www.redfin.com/news/fed-meeting-april-2026/",
+      "published": "Wed, 29 Apr 2026"
+    },
+    {
+      "title": "‘Deliver The Kind of Service People Remember and Trust’: How Maryam Amiri Became The First Redfin Agent to Sell $1 Billion Worth of Homes",
+      "link": "https://www.redfin.com/news/maryam-amiri-redfin-agent-profile/",
       "published": "Wed, 29 Apr 2026"
     },
     {
@@ -188,20 +198,28 @@
       "title": "The Price Point: What $500,000 Buys Across America Right Now",
       "link": "https://www.redfin.com/news/the-price-point-what-500000-buys-april-24-2026/",
       "published": "Fri, 24 Apr 2026"
-    },
-    {
-      "title": "Room to Grow: Here’s Where Gen Zers Own the Largest Share of 3+ Bedroom Homes",
-      "link": "https://www.redfin.com/news/gen-z-large-home-ownership-2026/",
-      "published": "Thu, 23 Apr 2026"
-    },
-    {
-      "title": "More Homeowners Are Putting Up ‘For Sale’ Signs As the Days Get Warmer",
-      "link": "https://www.redfin.com/news/housing-market-update-new-listings-tick-up-spring/",
-      "published": "Thu, 23 Apr 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "UWM adds VantageScore alongside FICO for conventional loans",
+        "url": "https://www.housingwire.com/articles/uwm-fico-vantagescore-conventional/",
+        "what": "UWM will show FICO and VantageScore on no-cost credit reports for conventional loans, aligning with FHFA pilot plans.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-fico-vantagescore-conventional/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Fed Holds Rates Steady, But Rare Dissents Signal Cloudy Outlook For Future Path",
+        "url": "https://www.redfin.com/news/fed-meeting-april-2026/",
+        "what": "The Federal Reserve held interest rates steady at its April 29 meeting",
+        "numbers": "29",
+        "justified": "redfin.com — https://www.redfin.com/news/fed-meeting-april-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "ICE’s Courtenay Dunn outlines deregulatory housing priorities",
         "url": "https://www.housingwire.com/articles/trump-housing-deregulation-costs/",
@@ -217,15 +235,6 @@
         "what": "The Federal Reserve held its benchmark interest rate steady at a target range of 3.5% to 3.75% on Wednesday, marking its third consecutive pause.",
         "numbers": "3.5, 3.75",
         "justified": "housingwire.com — https://www.housingwire.com/articles/fed-holds-rates-mortgage-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Warsh moves to closer to Fed chair confirmation, advancing in Senate committee vote",
-        "url": "https://www.housingwire.com/articles/kevin-warsh-fed-chair/",
-        "what": "The Senate Banking Committee advanced Kevin Warsh 13-11 for Fed chair, with a full Senate vote possible before Jerome Powell's term expires.",
-        "numbers": "13, 11",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kevin-warsh-fed-chair/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -250,13 +259,40 @@
     ],
     "housing": [
       {
-        "title": "Castlelake, Redwood form $8B prime jumbo mortgage joint venture",
-        "url": "https://www.housingwire.com/articles/castlelake-redwood-sequoia-jumbo-jv/",
-        "what": "Castlelake and Redwood Trust have formed a joint venture to purchase up to $8 billion of prime jumbo mortgage loans, the companies announced Tuesday.",
-        "numbers": "$8 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/castlelake-redwood-sequoia-jumbo-jv/",
+        "title": "Housing starts overachieved in March amid warning signs aplenty",
+        "url": "https://www.housingwire.com/articles/housing-starts-accelerated-in-march-2026/",
+        "what": "March starts reached 1.5 million, single-family 1.03 million, while permits fell 10.8% and completions dropped 13.5% year over year.",
+        "numbers": "1.5 million, 1.03 million, 10.8, 13.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-starts-accelerated-in-march-2026/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Figure’s Michael Tannenbaum warns rush to adopt AI could accelerate poor mortgage processes",
+        "url": "https://www.housingwire.com/articles/figure-ceo-blockchain-ai-mortgages/",
+        "what": "Figure CEO Michael Tannenbaum says AI can speed lending, but blockchain-based verification and modern infrastructure cut fraud and costs.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/figure-ceo-blockchain-ai-mortgages/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "‘Deliver The Kind of Service People Remember and Trust’: How Maryam Amiri Became The First Redfin Agent to Sell $1 Billion Worth of Homes",
+        "url": "https://www.redfin.com/news/maryam-amiri-redfin-agent-profile/",
+        "what": "In 2001, Maryam Amiri immigrated to the United States from Iran",
+        "numbers": "2001,, $1 billion",
+        "justified": "redfin.com — https://www.redfin.com/news/maryam-amiri-redfin-agent-profile/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Everything we know about Real’s REMAX acquisition and the shift to tech-driven consolidation",
+        "url": "https://www.housingwire.com/articles/everything-we-know-about-reals-remax-acquisition-and-the-shift-to-tech-driven-consolidation/",
+        "what": "Industry observers say the deal reflects a broader push toward scale and efficiency amid a slower housing market and pressure on commissions.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/everything-we-know-about-reals-remax-acquisition-and-the-shift-to-tech-driven-consolidation/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "The Reveal in NYC: This ‘One-of-a-Kind’ Apartment Just Off City Hall Park is Now Listed for $2.2 Million",
@@ -275,78 +311,42 @@
         "justified": "redfin.com — https://www.redfin.com/news/585-bamford-ave-new-jersey-listing/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Room to Grow: Here’s Where Gen Zers Own the Largest Share of 3+ Bedroom Homes",
-        "url": "https://www.redfin.com/news/gen-z-large-home-ownership-2026/",
-        "what": "Salt Lake City is the U.S",
-        "numbers": "3.6, 3, 2.9, 2.7, 2.6, 2.2",
-        "justified": "redfin.com — https://www.redfin.com/news/gen-z-large-home-ownership-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "More Homeowners Are Putting Up ‘For Sale’ Signs As the Days Get Warmer",
-        "url": "https://www.redfin.com/news/housing-market-update-new-listings-tick-up-spring/",
-        "what": "We’re seeing a small spring rebound, with new listings of homes for sale ticking up",
-        "numbers": "3, 19,, 1.2",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-new-listings-tick-up-spring/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
       {
-        "title": "Illinois Realtors partners with MRED for MLS access",
-        "url": "https://www.housingwire.com/articles/illinois-realtors-mred-access/",
-        "what": "Illinois Realtors partnered with MRED to provide MLS access to members, with rollout expected within about a week and pre-registration live.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/illinois-realtors-mred-access/",
+        "title": "ERA Real Estate affiliates form new billion-dollar-plus partnership in California",
+        "url": "https://www.housingwire.com/articles/era-real-estate-affiliates-form-new-billion-dollar-plus-partnership-in-california/",
+        "what": "The combined California organization includes 300-plus professionals operating across offices in Campbell, Fremont, Pleasanton and Livermore.",
+        "numbers": "300",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/era-real-estate-affiliates-form-new-billion-dollar-plus-partnership-in-california/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Could REMAX headquarters relocate to Florida after Real acquisition?",
-        "url": "https://www.housingwire.com/articles/could-remax-headquarters-relocate-to-florida-after-real-acquisition/",
-        "what": "Potential relocation has introduced uncertainty for Colorado brokers and staff, particularly given REMAX’s longstanding presence Denver.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/could-remax-headquarters-relocate-to-florida-after-real-acquisition/",
+        "title": "CoStar Group, Homes.com surge in Q1 — CEO welcomes end of activist ‘distraction’",
+        "url": "https://www.housingwire.com/articles/costar-group-homes-com-surge-in-q1-ceo-welcomes-end-of-activist-distraction/",
+        "what": "Homes.com revenue grew 58% to $26 million in the first quarter, with agent subscribers surging 205% to 35,175.",
+        "numbers": "58, $26 million, 205, 35,175.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-group-homes-com-surge-in-q1-ceo-welcomes-end-of-activist-distraction/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Ron Leonhardt says CCM is ‘pot committed’ as Two Harbors deal advances",
-        "url": "https://www.housingwire.com/articles/crosscountry-two-harbors-ron-leonhardt/",
-        "what": "The comments came one day after Two Harbors announced it had amended its merger agreement to increase the all-cash price CrossCountry will pay to $11.30 per share, up from $10.80 p",
-        "numbers": "$11.30, $10.80, 27",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/crosscountry-two-harbors-ron-leonhardt/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+        "title": "Nykia Wright outlines NAR transparency and antitrust reset",
+        "url": "https://www.housingwire.com/articles/nar-wright-transparency-antitrust/",
+        "what": "NAR CEO Nykia Wright details quarterly strategic plan reporting, antitrust rule reviews, and member value tied to $201 dues.",
+        "numbers": "$201",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-wright-transparency-antitrust/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Atlantic Avenue remains top dog in HECM broker report",
-        "url": "https://www.housingwire.com/articles/atlantic-avenue-hecm-endorsements-reverse-mortgage/",
-        "what": "Atlantic Avenue led February HECM TPO broker rankings with 901 endorsements in the prior 12 months, including 64 in February, per HECMWorld.",
-        "numbers": "901, 12, 64",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/atlantic-avenue-hecm-endorsements-reverse-mortgage/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Fannie Mae trims expenses, posts $3.7B profit in Q1 2026",
-        "url": "https://www.housingwire.com/articles/fannie-mae-q1-2026-earnings/",
-        "what": "Fannie Mae earned $3.7B in Q1 2026 on $7.3B in revenue, with expenses down 19% and net worth rising to $112.7B.",
-        "numbers": "$3.7, 1, 2026, $7.3, 19, $112.7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-mae-q1-2026-earnings/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Keller Williams acquires Michael Lewis Marketing Suite",
-        "url": "https://www.housingwire.com/articles/keller-williams-acquires-mlms/",
-        "what": "Keller Williams acquired MLMS, a marketing partner serving 130,000 agents, and plans network-wide deployment by end of Q3 2026.",
-        "numbers": "130,000, 3, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/keller-williams-acquires-mlms/",
+        "title": "HUD proposes rollback of equal access rule protections",
+        "url": "https://www.housingwire.com/articles/hud-equal-access-rule/",
+        "what": "HUD proposed equal access rule revisions on April 28, removing gender identity language, with comments open through June 29, 2026.",
+        "numbers": "28,, 29,, 2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-equal-access-rule/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
