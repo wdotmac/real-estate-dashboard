@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-29 09:23 UTC",
+  "as_of": "2026-04-29 11:54 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Multifamily players spot recovery signs amid risks and headwinds",
+      "link": "https://www.housingwire.com/articles/multifamily-developers-recovery/",
+      "published": "Wed, 29 Apr 2026"
+    },
+    {
+      "title": "Virginia adapts California’s pioneering church-land housing model",
+      "link": "https://www.housingwire.com/articles/california-yigby-virginia-playbook/",
+      "published": "Wed, 29 Apr 2026"
+    },
+    {
+      "title": "The Gathering: Jason Mitchell defends referral networks as fees face scrutiny",
+      "link": "https://www.housingwire.com/articles/mitchell-referral-fees-commissions/",
+      "published": "Wed, 29 Apr 2026"
+    },
+    {
       "title": "The Gathering: Sue Yannaccone says scale can be a ‘super power’ as brokerages consolidate",
       "link": "https://www.housingwire.com/articles/yannaccone-scale-brokerage-consolidation/",
       "published": "Tue, 28 Apr 2026"
@@ -152,21 +167,6 @@
     {
       "title": "KW’s Sandra Howard: Why tough markets expose weak branding and how to prevent strategic drift",
       "link": "https://www.housingwire.com/articles/turning-market-uncertainty-into-brand-momentum/",
-      "published": "Tue, 28 Apr 2026"
-    },
-    {
-      "title": "Bill targets Social Security earnings limits as retirement trends shift",
-      "link": "https://www.housingwire.com/articles/bill-social-security-earnings-limits-retirement-trends-shift/",
-      "published": "Tue, 28 Apr 2026"
-    },
-    {
-      "title": "The Gathering 2026: Mortgage execs debate the hidden risks of credit score reform",
-      "link": "https://www.housingwire.com/articles/fhfa-score-change-gamification/",
-      "published": "Tue, 28 Apr 2026"
-    },
-    {
-      "title": "Reside outlines growth strategy at first event since acquisition",
-      "link": "https://www.housingwire.com/articles/reside-outlines-growth-strategy-at-first-event-since-acquisition/",
       "published": "Tue, 28 Apr 2026"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Case-Shiller: Home price growth remained slow in February",
-        "url": "https://www.housingwire.com/articles/case-shiller-home-price-growth-remained-slow-in-february/",
-        "what": "Inflation again outpaced home price growth",
-        "numbers": "2.4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/case-shiller-home-price-growth-remained-slow-in-february/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Rates Likely to Hold Steady–Unless Fed Meeting or Iran War Rattle Markets",
         "url": "https://www.redfin.com/news/weekly-economic-update-april-27-2026/",
         "what": "This Week In A Nutshell: Mortgage rates are likely to remain fairly steady this week",
@@ -241,6 +232,24 @@
     ],
     "housing": [
       {
+        "title": "Multifamily players spot recovery signs amid risks and headwinds",
+        "url": "https://www.housingwire.com/articles/multifamily-developers-recovery/",
+        "what": "NAIOP’s Spring 2026 CRE Sentiment Index points to slightly better conditions for multifamily over the next 12 months",
+        "numbers": "2026, 12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/multifamily-developers-recovery/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Virginia adapts California’s pioneering church-land housing model",
+        "url": "https://www.housingwire.com/articles/california-yigby-virginia-playbook/",
+        "what": "Virginia has become the latest state to clear the way for churches and other faith groups to build affordable housing on their land, borrowing a page from a California precedent-setting attainable housing win-win innovation",
+        "numbers": "1,, 2027,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/california-yigby-virginia-playbook/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Bill targets Social Security earnings limits as retirement trends shift",
         "url": "https://www.housingwire.com/articles/bill-social-security-earnings-limits-retirement-trends-shift/",
         "what": "The Senior Citizens’ Freedom to Work Act would repeal the retirement earnings test.",
@@ -257,15 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/lpt-realtys-robert-palmer-we-run-the-brokerage-like-a-business-instead-of-as-a-loss-leader/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "HUD rescinds energy rule for new construction, opening market to more FHA, USDA buyers",
-        "url": "https://www.housingwire.com/articles/hud-rescinds-iecc-rule/",
-        "what": "U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-rescinds-iecc-rule/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "The Reveal in NYC: This ‘One-of-a-Kind’ Apartment Just Off City Hall Park is Now Listed for $2.2 Million",
@@ -306,6 +306,15 @@
     ],
     "notables": [
       {
+        "title": "The Gathering: Jason Mitchell defends referral networks as fees face scrutiny",
+        "url": "https://www.housingwire.com/articles/mitchell-referral-fees-commissions/",
+        "what": "Jason Mitchell says JMG’s average co broke was 2.6% on referrals and self generated leads, keeping referral fees off consumers.",
+        "numbers": "2.6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mitchell-referral-fees-commissions/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "The Gathering: Sue Yannaccone says scale can be a ‘super power’ as brokerages consolidate",
         "url": "https://www.housingwire.com/articles/yannaccone-scale-brokerage-consolidation/",
         "what": "Compass International Holdings COO Sue Yannaccone says consolidation is inevitable, but scale can fuel integration and efficiency.",
@@ -338,15 +347,6 @@
         "what": "New owner Robert Palmer, who bought the platform earlier this year, said additional platform developments are in progress but not yet public.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/reside-outlines-growth-strategy-at-first-event-since-acquisition/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Keller Williams names Christopher Brodhead chief revenue officer",
-        "url": "https://www.housingwire.com/articles/keller-williams-chief-revenue-officer/",
-        "what": "Keller Williams hired Christopher Brodhead as chief revenue officer, a new role to align revenue growth strategy across its ecosystem.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/keller-williams-chief-revenue-officer/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
