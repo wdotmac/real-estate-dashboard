@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-30 14:23 UTC",
+  "as_of": "2026-04-30 16:47 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": 1.0000000000000675
     },
     "mortgage_30y": {
-      "rate_pct": 6.23,
-      "delta_bp_wow": -6.99999999999994
+      "rate_pct": 6.3,
+      "delta_bp_wow": 6.99999999999994
     },
     "starts": {
       "level_saar": 1502.0,
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "HEIs face identity debate as lawsuits mount, state regulators close in",
-      "link": "https://www.housingwire.com/articles/home-equity-investment-hei-state-regulation-mortgage-rules/",
+      "title": "North Carolina House Democrats revive state housing reform",
+      "link": "https://www.housingwire.com/articles/north-carolina-house-democrats-revive-state-housing-reform/",
       "published": "Thu, 30 Apr 2026"
     },
     {
-      "title": "Builders don’t have a rate problem, they have a reliability problem",
-      "link": "https://www.housingwire.com/articles/construction-loan-reliability/",
+      "title": "Highlands Residential Mortgage acquires Equitable Mortgage, enters Ohio market",
+      "link": "https://www.housingwire.com/articles/highlands-residential-mortgage-acquires-equitable-mortgage/",
       "published": "Thu, 30 Apr 2026"
     },
     {
-      "title": "‘Didn’t see that coming’: Real estate brokers react to Real-REMAX deal",
-      "link": "https://www.housingwire.com/articles/real-remax-deal-reaction/",
-      "published": "Wed, 29 Apr 2026"
+      "title": "ICE reports record revenue of $3B, profit of $1.4B in Q1 2026",
+      "link": "https://www.housingwire.com/articles/ice-record-revenue/",
+      "published": "Thu, 30 Apr 2026"
     },
     {
-      "title": "UWM adds VantageScore alongside FICO for conventional loans",
-      "link": "https://www.housingwire.com/articles/uwm-fico-vantagescore-conventional/",
-      "published": "Wed, 29 Apr 2026"
+      "title": "Class Valuation aims to cut appraisal risk with new underwriting program",
+      "link": "https://www.housingwire.com/articles/class-valuation-appraisal-risk-underwriting-program/",
+      "published": "Thu, 30 Apr 2026"
     },
     {
-      "title": "ERA Real Estate affiliates form new billion-dollar-plus partnership in California",
-      "link": "https://www.housingwire.com/articles/era-real-estate-affiliates-form-new-billion-dollar-plus-partnership-in-california/",
-      "published": "Wed, 29 Apr 2026"
+      "title": "Subprime veteran Keri Findley builds MSR and HEI bet",
+      "link": "https://www.housingwire.com/articles/keri-findley-msr-hei-tacora/",
+      "published": "Thu, 30 Apr 2026"
     },
     {
-      "title": "Housing starts overachieved in March amid warning signs aplenty",
-      "link": "https://www.housingwire.com/articles/housing-starts-accelerated-in-march-2026/",
-      "published": "Wed, 29 Apr 2026"
+      "title": "MIBOR BLC integrates buyer demand into MLS platform",
+      "link": "https://www.housingwire.com/articles/mibor-blc-integrates-buyer-demand-into-mls-platform/",
+      "published": "Thu, 30 Apr 2026"
     },
     {
       "title": "Homebuying Demand Ticks Up, Mortgage Rates Tick Down",
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "MIBOR BLC integrates buyer demand into MLS platform",
+        "url": "https://www.housingwire.com/articles/mibor-blc-integrates-buyer-demand-into-mls-platform/",
+        "what": "Leaders said the integration is intended to shift buyer activity from informal channels into a central system for better agent collaboration.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mibor-blc-integrates-buyer-demand-into-mls-platform/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Homebuying Demand Ticks Up, Mortgage Rates Tick Down",
         "url": "https://www.redfin.com/news/housing-market-update-homebuying-demand-picks-up-spring/",
         "what": "More homeowners are putting their houses on the market, with new listings increasing for the second week in a row after five straight months of declines",
@@ -210,15 +219,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-homebuying-demand-picks-up-spring/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "UWM adds VantageScore alongside FICO for conventional loans",
-        "url": "https://www.housingwire.com/articles/uwm-fico-vantagescore-conventional/",
-        "what": "UWM will show FICO and VantageScore on no-cost credit reports for conventional loans, aligning with FHFA pilot plans.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-fico-vantagescore-conventional/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Fed Holds Rates Steady, But Rare Dissents Signal Cloudy Outlook For Future Path",
@@ -241,40 +241,49 @@
     ],
     "housing": [
       {
-        "title": "HEIs face identity debate as lawsuits mount, state regulators close in",
-        "url": "https://www.housingwire.com/articles/home-equity-investment-hei-state-regulation-mortgage-rules/",
-        "what": "A growing identity debate has emerged for HEIs",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/home-equity-investment-hei-state-regulation-mortgage-rules/",
+        "title": "North Carolina House Democrats revive state housing reform",
+        "url": "https://www.housingwire.com/articles/north-carolina-house-democrats-revive-state-housing-reform/",
+        "what": "North Carolina House Democrats will take another shot at sweeping housing reform",
+        "numbers": "1056,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/north-carolina-house-democrats-revive-state-housing-reform/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Builders don’t have a rate problem, they have a reliability problem",
-        "url": "https://www.housingwire.com/articles/construction-loan-reliability/",
-        "what": "Sound Capital defines why unreliable capital, delayed draws and tighter standards are disrupting builders’ timelines and limiting scalable growth in 2026.",
-        "numbers": "2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/construction-loan-reliability/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Housing starts overachieved in March amid warning signs aplenty",
-        "url": "https://www.housingwire.com/articles/housing-starts-accelerated-in-march-2026/",
-        "what": "March starts reached 1.5 million, single-family 1.03 million, while permits fell 10.8% and completions dropped 13.5% year over year.",
-        "numbers": "1.5 million, 1.03 million, 10.8, 13.5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-starts-accelerated-in-march-2026/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Figure’s Michael Tannenbaum warns rush to adopt AI could accelerate poor mortgage processes",
-        "url": "https://www.housingwire.com/articles/figure-ceo-blockchain-ai-mortgages/",
-        "what": "Figure CEO Michael Tannenbaum says AI can speed lending, but blockchain-based verification and modern infrastructure cut fraud and costs.",
+        "title": "Highlands Residential Mortgage acquires Equitable Mortgage, enters Ohio market",
+        "url": "https://www.housingwire.com/articles/highlands-residential-mortgage-acquires-equitable-mortgage/",
+        "what": "Texas-based Highlands Residential Mortgage acquires The Equitable Mortgage Corp., entering the central Ohio market.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/figure-ceo-blockchain-ai-mortgages/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/highlands-residential-mortgage-acquires-equitable-mortgage/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "ICE reports record revenue of $3B, profit of $1.4B in Q1 2026",
+        "url": "https://www.housingwire.com/articles/ice-record-revenue/",
+        "what": "ICE posted record Q1 2026 net revenue of $3B, up 20%, and net income of $1.4B, while mortgage technology revenue increased 6% to $539M.",
+        "numbers": "1, 2026, $3, 20, $1.4, 6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-record-revenue/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Subprime veteran Keri Findley builds MSR and HEI bet",
+        "url": "https://www.housingwire.com/articles/keri-findley-msr-hei-tacora/",
+        "what": "Subprime mortgage expert Keri Findley has opened her residential real estate financing opportunities fund to outside investors seeking exposure to mortgage servicing rights and hom",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/keri-findley-msr-hei-tacora/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Trust & Will CEO: Housing pros should prep for ‘historic’ wealth transfer wave",
+        "url": "https://www.housingwire.com/articles/trust-will-124t-wealth-transfer/",
+        "what": "Cody Barbo says a $124T wealth transfer tied to housing will test lender retention, and estate planning can help them keep relationships with heirs.",
+        "numbers": "$124",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trust-will-124t-wealth-transfer/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "‘Deliver The Kind of Service People Remember and Trust’: How Maryam Amiri Became The First Redfin Agent to Sell $1 Billion Worth of Homes",
@@ -306,47 +315,38 @@
     ],
     "notables": [
       {
-        "title": "‘Didn’t see that coming’: Real estate brokers react to Real-REMAX deal",
-        "url": "https://www.housingwire.com/articles/real-remax-deal-reaction/",
-        "what": "Brokers say Real Brokerage buying REMAX was unexpected, with questions on tech rollout, agent adoption, and near term change.",
+        "title": "Class Valuation aims to cut appraisal risk with new underwriting program",
+        "url": "https://www.housingwire.com/articles/class-valuation-appraisal-risk-underwriting-program/",
+        "what": "The new program is designed to reduce closing delays by identifying and validating low-risk appraisals earlier in the process.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-remax-deal-reaction/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/class-valuation-appraisal-risk-underwriting-program/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "ERA Real Estate affiliates form new billion-dollar-plus partnership in California",
-        "url": "https://www.housingwire.com/articles/era-real-estate-affiliates-form-new-billion-dollar-plus-partnership-in-california/",
-        "what": "The combined California organization includes 300-plus professionals operating across offices in Campbell, Fremont, Pleasanton and Livermore.",
-        "numbers": "300",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/era-real-estate-affiliates-form-new-billion-dollar-plus-partnership-in-california/",
+        "title": "William Raveis rolls out Raveis365+ tech stack built on Cloze AI for 4,500 agents",
+        "url": "https://www.housingwire.com/articles/william-raveis-raveis365-plus-platform-cloze-ai-relationship-intelligence/",
+        "what": "William Raveis launches Raveis365+ with Cloze AI, adding relationship intelligence and workflow automation for more than 4,500 agents.",
+        "numbers": "365, 4,500",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/william-raveis-raveis365-plus-platform-cloze-ai-relationship-intelligence/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "CoStar Group, Homes.com surge in Q1 — CEO welcomes end of activist ‘distraction’",
-        "url": "https://www.housingwire.com/articles/costar-group-homes-com-surge-in-q1-ceo-welcomes-end-of-activist-distraction/",
-        "what": "Homes.com revenue grew 58% to $26 million in the first quarter, with agent subscribers surging 205% to 35,175.",
-        "numbers": "58, $26 million, 205, 35,175.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-group-homes-com-surge-in-q1-ceo-welcomes-end-of-activist-distraction/",
+        "title": "Hive MLS launches redesigned website with AI visualization tools",
+        "url": "https://www.housingwire.com/articles/hive-mls-launches-redesigned-website-with-ai-visualization-tools/",
+        "what": "The updated platform, HiveMLS.com, includes a new home design and room visualization feature developed through an integration with Roomvo.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hive-mls-launches-redesigned-website-with-ai-visualization-tools/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Nykia Wright outlines NAR transparency and antitrust reset",
-        "url": "https://www.housingwire.com/articles/nar-wright-transparency-antitrust/",
-        "what": "NAR CEO Nykia Wright details quarterly strategic plan reporting, antitrust rule reviews, and member value tied to $201 dues.",
-        "numbers": "$201",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-wright-transparency-antitrust/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "HUD proposes rollback of equal access rule protections",
-        "url": "https://www.housingwire.com/articles/hud-equal-access-rule/",
-        "what": "HUD proposed equal access rule revisions on April 28, removing gender identity language, with comments open through June 29, 2026.",
-        "numbers": "28,, 29,, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-equal-access-rule/",
+        "title": "CEO Chris Czarnecki: Keller Williams bets on selective deals, not scale for scale’s sake",
+        "url": "https://www.housingwire.com/articles/kw-three-bucket-mergers-acquisitions/",
+        "what": "Keller Williams CEO Chris Czarnecki details a three-bucket M&A plan along with investments in tech, marketing and franchisee financing.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kw-three-bucket-mergers-acquisitions/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
