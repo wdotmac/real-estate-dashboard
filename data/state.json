@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-04-30 20:19 UTC",
+  "as_of": "2026-04-30 23:09 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "HUD says Realtors can discuss crime and school data, reversing Biden-era stance",
+      "link": "https://www.housingwire.com/articles/hud-says-realtors-can-discuss-crime-and-school-data/",
+      "published": "Thu, 30 Apr 2026"
+    },
+    {
+      "title": "Smith Douglas Homes prioritizes pace over price, plays the long game",
+      "link": "https://www.housingwire.com/articles/smith-douglas-homes-earnings-q1-2026/",
+      "published": "Thu, 30 Apr 2026"
+    },
+    {
+      "title": "Colorado lawmakers act to reality-check Prop 123 housing targets",
+      "link": "https://www.housingwire.com/articles/colorado-lawmakers-act-to-reality-check-prop-123-housing-targets/",
+      "published": "Thu, 30 Apr 2026"
+    },
+    {
       "title": "Why LGI Homes is the clearest read on entry-level buyer math",
       "link": "https://www.housingwire.com/articles/lgi-entry-level-affordability-torque/",
       "published": "Thu, 30 Apr 2026"
@@ -155,18 +170,8 @@
       "published": "Thu, 30 Apr 2026"
     },
     {
-      "title": "NorthstarMLS, CREB partner with Broker Public Portal",
-      "link": "https://www.housingwire.com/articles/northstarmls-creb-bpp-cribio/",
-      "published": "Thu, 30 Apr 2026"
-    },
-    {
-      "title": "Atlas VMS launches insurance-backed appraisal warranty for lenders",
-      "link": "https://www.housingwire.com/articles/atlas-vms-appraisal-warranty/",
-      "published": "Thu, 30 Apr 2026"
-    },
-    {
-      "title": "Corina Lessa says visibility drives trust in real estate leadership",
-      "link": "https://www.housingwire.com/articles/corina-lessa-real-estate-leadership/",
+      "title": "San Francisco’s Luxury Home Sales Jump 22% As Median Price Nears $7M",
+      "link": "https://www.redfin.com/news/luxury-home-sales-san-francisco-2026/",
       "published": "Thu, 30 Apr 2026"
     },
     {
@@ -193,11 +198,6 @@
       "title": "Coming Soon in New Jersey: This 3-Bedroom, 2-Bath Fixer-Upper Less Than an Hour From NYC is Set to Hit the Market This Week",
       "link": "https://www.redfin.com/news/585-bamford-ave-new-jersey-listing/",
       "published": "Mon, 27 Apr 2026"
-    },
-    {
-      "title": "Redfin Economists’ Weekly Take: Rates Likely to Hold Steady–Unless Fed Meeting or Iran War Rattle Markets",
-      "link": "https://www.redfin.com/news/weekly-economic-update-april-27-2026/",
-      "published": "Mon, 27 Apr 2026"
     }
   ],
   "feed_101020": {
@@ -219,18 +219,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/fed-meeting-april-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Redfin Economists’ Weekly Take: Rates Likely to Hold Steady–Unless Fed Meeting or Iran War Rattle Markets",
-        "url": "https://www.redfin.com/news/weekly-economic-update-april-27-2026/",
-        "what": "This Week In A Nutshell: Mortgage rates are likely to remain fairly steady this week",
-        "numbers": "15.",
-        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-april-27-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Colorado lawmakers act to reality-check Prop 123 housing targets",
+        "url": "https://www.housingwire.com/articles/colorado-lawmakers-act-to-reality-check-prop-123-housing-targets/",
+        "what": "Nearly four years ago, Colorado voters approved a special fund to address the affordable housing crisis following Covid-19",
+        "numbers": "19., 1313",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/colorado-lawmakers-act-to-reality-check-prop-123-housing-targets/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "San Francisco’s Luxury Home Sales Jump 22% As Median Price Nears $7M",
+        "url": "https://www.redfin.com/news/luxury-home-sales-san-francisco-2026/",
+        "what": "Luxury home sales are surging in San Francisco, the epicenter of the AI boom, pushing the median sale price to the highest March level on record",
+        "numbers": "15, 22, $7",
+        "justified": "redfin.com — https://www.redfin.com/news/luxury-home-sales-san-francisco-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Why LGI Homes is the clearest read on entry-level buyer math",
         "url": "https://www.housingwire.com/articles/lgi-entry-level-affordability-torque/",
@@ -277,24 +286,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Highlands Residential Mortgage acquires Equitable Mortgage, enters Ohio market",
-        "url": "https://www.housingwire.com/articles/highlands-residential-mortgage-acquires-equitable-mortgage/",
-        "what": "Texas-based Highlands Residential Mortgage acquires The Equitable Mortgage Corp., entering the central Ohio market.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/highlands-residential-mortgage-acquires-equitable-mortgage/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "ICE reports record revenue of $3B, profit of $1.4B in Q1 2026",
-        "url": "https://www.housingwire.com/articles/ice-record-revenue/",
-        "what": "ICE posted record Q1 2026 net revenue of $3B, up 20%, and net income of $1.4B, while mortgage technology revenue increased 6% to $539M.",
-        "numbers": "1, 2026, $3, 20, $1.4, 6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-record-revenue/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "‘Deliver The Kind of Service People Remember and Trust’: How Maryam Amiri Became The First Redfin Agent to Sell $1 Billion Worth of Homes",
         "url": "https://www.redfin.com/news/maryam-amiri-redfin-agent-profile/",
         "what": "In 2001, Maryam Amiri immigrated to the United States from Iran",
@@ -324,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "HUD says Realtors can discuss crime and school data, reversing Biden-era stance",
+        "url": "https://www.housingwire.com/articles/hud-says-realtors-can-discuss-crime-and-school-data/",
+        "what": "HUD has also accused the National Association of Realtors of imposing a “professional gag order” on its members.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-says-realtors-can-discuss-crime-and-school-data/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Smith Douglas Homes prioritizes pace over price, plays the long game",
+        "url": "https://www.housingwire.com/articles/smith-douglas-homes-earnings-q1-2026/",
+        "what": "Smith Douglas posted 28% higher net new orders in Q1 2026, but gross margin fell to 19.6% as incentives hit 730 basis points.",
+        "numbers": "28, 1, 2026,, 19.6, 730",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/smith-douglas-homes-earnings-q1-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "ONE Sotheby’s adds luxury adviser as South Florida development expands",
         "url": "https://www.housingwire.com/articles/one-sothebys-adds-luxury-adviser-as-south-florida-development-expands/",
         "what": "Angel Gonzalez has joined the firm after more than a decade working in luxury residential sales and development projects.",
@@ -338,15 +347,6 @@
         "what": "Atlas VMS launched LoanShield, a no-cost appraisal warranty, citing an average loan repurchase cost of $32,288 and ongoing buyback risks.",
         "numbers": "$32,288",
         "justified": "housingwire.com — https://www.housingwire.com/articles/atlas-vms-appraisal-warranty/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Class Valuation aims to cut appraisal risk with new underwriting program",
-        "url": "https://www.housingwire.com/articles/class-valuation-appraisal-risk-underwriting-program/",
-        "what": "The new program is designed to reduce closing delays by identifying and validating low-risk appraisals earlier in the process.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/class-valuation-appraisal-risk-underwriting-program/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
