@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-05-01 19:38 UTC",
+  "as_of": "2026-05-01 21:07 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.42,
-      "delta_bp_1d": 5.999999999999961
+      "yield_pct": 4.4,
+      "delta_bp_1d": -1.9999999999999574
     },
     "mortgage_30y": {
       "rate_pct": 6.3,
@@ -76,9 +76,9 @@
           "ytd_count": 1120
         },
         "dom": {
-          "days": 66,
-          "yoy": 0.1578947368421053,
-          "as_of": "2026-03"
+          "days": 67,
+          "yoy": 0.15517241379310343,
+          "as_of": "2026-04"
         }
       },
       "Ocala": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "North Carolina Let Them Build Act targets environmental reviews",
+      "link": "https://www.housingwire.com/articles/nc-let-them-build-act/",
+      "published": "Fri, 01 May 2026"
+    },
+    {
+      "title": "With the Hill in limbo on ROAD Act, the toll on BTR projects climbs",
+      "link": "https://www.housingwire.com/articles/with-the-hill-in-limbo-on-road-act-the-toll-on-btr-projects-climbs/",
+      "published": "Fri, 01 May 2026"
+    },
+    {
+      "title": "Real estate antitrust and commission lawsuits, week in court update",
+      "link": "https://www.housingwire.com/articles/real-estate-lawsuit-update/",
+      "published": "Fri, 01 May 2026"
+    },
+    {
       "title": "Clayton CrossMod single-section missing middle housing launches",
       "link": "https://www.housingwire.com/articles/clayton-crossmod-missing-middle/",
       "published": "Fri, 01 May 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Darryl Davis: Why your pricing talk is not landing with real estate sellers anymore",
       "link": "https://www.housingwire.com/articles/darryl-davis-why-your-pricing-talk-is-not-landing-with-real-estate-sellers-anymore/",
-      "published": "Fri, 01 May 2026"
-    },
-    {
-      "title": "Realty of America expands into Tennessee",
-      "link": "https://www.housingwire.com/articles/realty-of-america-expands-into-tennessee/",
-      "published": "Fri, 01 May 2026"
-    },
-    {
-      "title": "Texas judge dismisses Colony Ridge discrimination lawsuit",
-      "link": "https://www.housingwire.com/articles/colony-ridge-lawsuit-dismissed/",
-      "published": "Fri, 01 May 2026"
-    },
-    {
-      "title": "Realtracs expands with national brokerage listings from United and Compass International Holdings",
-      "link": "https://www.housingwire.com/articles/realtracs-national-brokerage-listings/",
       "published": "Fri, 01 May 2026"
     },
     {
@@ -223,6 +223,15 @@
     ],
     "housing": [
       {
+        "title": "North Carolina Let Them Build Act targets environmental reviews",
+        "url": "https://www.housingwire.com/articles/nc-let-them-build-act/",
+        "what": "As North Carolina House Democrats take another swing at sweeping housing reform, a Democratic senator is seeking to streamline environmental reviews to accelerate construction",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nc-let-them-build-act/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Clayton CrossMod single-section missing middle housing launches",
         "url": "https://www.housingwire.com/articles/clayton-crossmod-missing-middle/",
         "what": "“Try a lot of new things",
@@ -248,15 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/realtracs-national-brokerage-listings/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Why housing reforms stall even when the fixes are known",
-        "url": "https://www.housingwire.com/articles/housing-crisis-density-reforms/",
-        "what": "America has a housing problem – we seem to agree on that – but little else",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-crisis-density-reforms/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "The Price Point: What $1 Million Buys in These Charming Small Cities",
@@ -297,6 +297,24 @@
     ],
     "notables": [
       {
+        "title": "With the Hill in limbo on ROAD Act, the toll on BTR projects climbs",
+        "url": "https://www.housingwire.com/articles/with-the-hill-in-limbo-on-road-act-the-toll-on-btr-projects-climbs/",
+        "what": "A bipartisan letter questions Section 901 as developers cite frozen lending and lost projects as a result of the provision.",
+        "numbers": "901",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/with-the-hill-in-limbo-on-road-act-the-toll-on-btr-projects-climbs/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Real estate antitrust and commission lawsuits, week in court update",
+        "url": "https://www.housingwire.com/articles/real-estate-lawsuit-update/",
+        "what": "Court filings revived DeYoung and Zea claims, Hardy heads to appeal and Batton plaintiffs continue to attempt to block Tuccori settlements.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-lawsuit-update/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Darryl Davis: Why your pricing talk is not landing with real estate sellers anymore",
         "url": "https://www.housingwire.com/articles/darryl-davis-why-your-pricing-talk-is-not-landing-with-real-estate-sellers-anymore/",
         "what": "The article argues sellers come in anchored to online estimates, so agents need diagnosis, not scripts, plus 3 pricing scenarios.",
@@ -329,24 +347,6 @@
         "what": "UWM said it has delivered a revised offer that allows Two Harbors investors to elect either $12 in cash per share or 2.3328 shares of UWM Class A common stock, with no cap or prora",
         "numbers": "$12, 2.3328",
         "justified": "housingwire.com — https://www.housingwire.com/articles/uwmc-raises-two-harbors-bid-kbw-weighs-risks/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Tanya Reu-Narvaez named chief people officer at Compass International Holdings",
-        "url": "https://www.housingwire.com/articles/tanya-reu-narvaez-chief-people-officer/",
-        "what": "Tanya Reu-Narvaez joins Compass International Holdings as chief people officer, overseeing people strategy for nine brands.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tanya-reu-narvaez-chief-people-officer/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "HUD says agents can discuss crime and school data, reversing Biden-era stance",
-        "url": "https://www.housingwire.com/articles/hud-says-realtors-can-discuss-crime-and-school-data/",
-        "what": "HUD has also accused the National Association of Realtors of imposing a “professional gag order” on its members.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-says-realtors-can-discuss-crime-and-school-data/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
