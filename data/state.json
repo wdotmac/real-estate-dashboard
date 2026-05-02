@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-02 20:59 UTC",
+  "as_of": "2026-05-02 21:58 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage spreads are the only thing keeping rates under 7%",
+      "link": "https://www.housingwire.com/articles/mortgage-spreads-are-the-only-thing-keeping-rates-under-7/",
+      "published": "Sat, 02 May 2026"
+    },
+    {
       "title": "North Carolina Let Them Build Act targets environmental reviews",
       "link": "https://www.housingwire.com/articles/nc-let-them-build-act/",
       "published": "Fri, 01 May 2026"
@@ -162,11 +167,6 @@
     {
       "title": "AD Mortgage broker survey finds rising AI use and training gaps",
       "link": "https://www.housingwire.com/articles/ad-mortgage-broker-ai-survey/",
-      "published": "Fri, 01 May 2026"
-    },
-    {
-      "title": "Darryl Davis: Why your pricing talk is not landing with real estate sellers anymore",
-      "link": "https://www.housingwire.com/articles/darryl-davis-why-your-pricing-talk-is-not-landing-with-real-estate-sellers-anymore/",
       "published": "Fri, 01 May 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage spreads are the only thing keeping rates under 7%",
+        "url": "https://www.housingwire.com/articles/mortgage-spreads-are-the-only-thing-keeping-rates-under-7/",
+        "what": "If mortgage spreads were at the highest levels from 2023-2025 with the 10-year yield at this level, mortgage rates would be over 7%.",
+        "numbers": "2023, 2025, 10, 7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-spreads-are-the-only-thing-keeping-rates-under-7/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Homebuying Demand Ticks Up, Mortgage Rates Tick Down",
         "url": "https://www.redfin.com/news/housing-market-update-homebuying-demand-picks-up-spring/",
@@ -338,15 +347,6 @@
         "what": "Colony Ridge discrimination suit ended with prejudice after a judge said the proposed settlement prioritized $48 million infrastructure and $20 million enforcement.",
         "numbers": "$48 million, $20 million",
         "justified": "housingwire.com — https://www.housingwire.com/articles/colony-ridge-lawsuit-dismissed/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "UWM escalates bidding war for TWO with $12 offer, open letter to shareholders",
-        "url": "https://www.housingwire.com/articles/uwmc-raises-two-harbors-bid-kbw-weighs-risks/",
-        "what": "UWM said it has delivered a revised offer that allows Two Harbors investors to elect either $12 in cash per share or 2.3328 shares of UWM Class A common stock, with no cap or prora",
-        "numbers": "$12, 2.3328",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwmc-raises-two-harbors-bid-kbw-weighs-risks/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
