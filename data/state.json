@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-03 19:18 UTC",
+  "as_of": "2026-05-03 21:02 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "KB Home CFO Robert Dillard to resign this month",
+      "link": "https://www.housingwire.com/articles/kb-home-cfo-robert-dillard-resigns-effective-may-8-2026/",
+      "published": "Sun, 03 May 2026"
+    },
+    {
       "title": "Mortgage spreads are the only thing keeping rates under 7%",
       "link": "https://www.housingwire.com/articles/mortgage-spreads-are-the-only-thing-keeping-rates-under-7/",
       "published": "Sat, 02 May 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Clayton CrossMod single-section missing middle housing launches",
       "link": "https://www.housingwire.com/articles/clayton-crossmod-missing-middle/",
-      "published": "Fri, 01 May 2026"
-    },
-    {
-      "title": "AD Mortgage broker survey finds rising AI use and training gaps",
-      "link": "https://www.housingwire.com/articles/ad-mortgage-broker-ai-survey/",
       "published": "Fri, 01 May 2026"
     },
     {
@@ -232,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "KB Home CFO Robert Dillard to resign this month",
+        "url": "https://www.housingwire.com/articles/kb-home-cfo-robert-dillard-resigns-effective-may-8-2026/",
+        "what": "KB Home Executive Vice President and Chief Financial Officer Robert R",
+        "numbers": "8,, 2026,, 8, 29.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kb-home-cfo-robert-dillard-resigns-effective-may-8-2026/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "North Carolina Let Them Build Act targets environmental reviews",
         "url": "https://www.housingwire.com/articles/nc-let-them-build-act/",
         "what": "As North Carolina House Democrats take another swing at sweeping housing reform, a Democratic senator is seeking to streamline environmental reviews to accelerate construction",
@@ -257,15 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/ad-mortgage-broker-ai-survey/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Realtracs expands with national brokerage listings from United and Compass International Holdings",
-        "url": "https://www.housingwire.com/articles/realtracs-national-brokerage-listings/",
-        "what": "Realtracs will ingest all active Compass International Holdings listings and add United Real Estate feeds, extending an MLS used by 19,000 plus pros across six states.",
-        "numbers": "19,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realtracs-national-brokerage-listings/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "The Price Point: What $1 Million Buys in These Charming Small Cities",
