@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-04 23:09 UTC",
+  "as_of": "2026-05-05 00:07 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Mon, 04 May 2026"
     },
     {
+      "title": "Redfin Economists’ Weekly Take: Volatile Rates Ahead as Fed Turns Hawkish and Energy Shock Builds",
+      "link": "https://www.redfin.com/news/weekly-economic-update-may-4-2026/",
+      "published": "Mon, 04 May 2026"
+    },
+    {
       "title": "Nearly Half of Americans Oppose AI Data Centers in Their Neighborhoods, While 38% Support Them",
       "link": "https://www.redfin.com/news/survey-ai-data-center-neighborhoods/",
       "published": "Mon, 04 May 2026"
@@ -193,15 +198,19 @@
       "title": "Fed Holds Rates Steady, But Rare Dissents Signal Cloudy Outlook For Future Path",
       "link": "https://www.redfin.com/news/fed-meeting-april-2026/",
       "published": "Wed, 29 Apr 2026"
-    },
-    {
-      "title": "‘Deliver The Kind of Service People Remember and Trust’: How Maryam Amiri Became The First Redfin Agent to Sell $1 Billion Worth of Homes",
-      "link": "https://www.redfin.com/news/maryam-amiri-redfin-agent-profile/",
-      "published": "Wed, 29 Apr 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Redfin Economists’ Weekly Take: Volatile Rates Ahead as Fed Turns Hawkish and Energy Shock Builds",
+        "url": "https://www.redfin.com/news/weekly-economic-update-may-4-2026/",
+        "what": "This Week In A Nutshell: Rates are likely to remain volatile this week",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-may-4-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Homebuying Demand Ticks Up, Mortgage Rates Tick Down",
         "url": "https://www.redfin.com/news/housing-market-update-homebuying-demand-picks-up-spring/",
@@ -275,15 +284,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/luxury-home-sales-san-francisco-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "‘Deliver The Kind of Service People Remember and Trust’: How Maryam Amiri Became The First Redfin Agent to Sell $1 Billion Worth of Homes",
-        "url": "https://www.redfin.com/news/maryam-amiri-redfin-agent-profile/",
-        "what": "In 2001, Maryam Amiri immigrated to the United States from Iran",
-        "numbers": "2001,, $1 billion",
-        "justified": "redfin.com — https://www.redfin.com/news/maryam-amiri-redfin-agent-profile/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
