@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-05 11:37 UTC",
+  "as_of": "2026-05-05 14:23 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "CoStar CEO Andy Florance buys over 70,000 shares via options",
+      "link": "https://www.housingwire.com/articles/costar-florance-options-shares/",
+      "published": "Tue, 05 May 2026"
+    },
+    {
+      "title": "Veterans cite upfront costs as top VA loan barrier in 2026",
+      "link": "https://www.housingwire.com/articles/va-loan-misconceptions-veterans/",
+      "published": "Tue, 05 May 2026"
+    },
+    {
       "title": "Generic AI won’t fix mortgage lending. Intelligent AI will.",
       "link": "https://www.housingwire.com/articles/generic-ai-wont-fix-mortgage-lending-intelligent-ai-will/",
       "published": "Tue, 05 May 2026"
@@ -160,14 +170,9 @@
       "published": "Mon, 04 May 2026"
     },
     {
-      "title": "The Gathering takeaway: how Olivia Clarke Homes wins in DFW",
-      "link": "https://www.housingwire.com/articles/gathering-homebuilding-customer-insight/",
-      "published": "Mon, 04 May 2026"
-    },
-    {
-      "title": "Green Brick leverages industry-leading margins to drive optionality",
-      "link": "https://www.housingwire.com/articles/green-brick-partners-earnings-q1-2026/",
-      "published": "Mon, 04 May 2026"
+      "title": "Bay Area Luxury Home Prices Have Jumped 13% Since Launch of ChatGPT",
+      "link": "https://www.redfin.com/news/san-francisco-luxury-home-prices-chatgpt/",
+      "published": "Tue, 05 May 2026"
     },
     {
       "title": "Redfin Economists’ Weekly Take: Volatile Rates Ahead as Fed Turns Hawkish and Energy Shock Builds",
@@ -193,11 +198,6 @@
       "title": "Homebuying Demand Ticks Up, Mortgage Rates Tick Down",
       "link": "https://www.redfin.com/news/housing-market-update-homebuying-demand-picks-up-spring/",
       "published": "Thu, 30 Apr 2026"
-    },
-    {
-      "title": "Fed Holds Rates Steady, But Rare Dissents Signal Cloudy Outlook For Future Path",
-      "link": "https://www.redfin.com/news/fed-meeting-april-2026/",
-      "published": "Wed, 29 Apr 2026"
     }
   ],
   "feed_101020": {
@@ -219,18 +219,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-homebuying-demand-picks-up-spring/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Fed Holds Rates Steady, But Rare Dissents Signal Cloudy Outlook For Future Path",
-        "url": "https://www.redfin.com/news/fed-meeting-april-2026/",
-        "what": "The Federal Reserve held interest rates steady at its April 29 meeting",
-        "numbers": "29",
-        "justified": "redfin.com — https://www.redfin.com/news/fed-meeting-april-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Bay Area Luxury Home Prices Have Jumped 13% Since Launch of ChatGPT",
+        "url": "https://www.redfin.com/news/san-francisco-luxury-home-prices-chatgpt/",
+        "what": "Home prices during the AI boom have surged far faster in the Bay Area’s luxury zip codes than its non luxury zip codes—a split not seen before the launch of GPT-3.5 or in other major U.S",
+        "numbers": "3.5, 13.4, 13",
+        "justified": "redfin.com — https://www.redfin.com/news/san-francisco-luxury-home-prices-chatgpt/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Generic AI won’t fix mortgage lending. Intelligent AI will.",
         "url": "https://www.housingwire.com/articles/generic-ai-wont-fix-mortgage-lending-intelligent-ai-will/",
@@ -268,15 +268,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "How real estate agent Deba Douglas turned buyer education into a 100-transaction business",
-        "url": "https://www.housingwire.com/articles/how-real-estate-agent-deba-douglas-turned-buyer-education-into-a-100-transaction-business/",
-        "what": "After 16 years in education, Deba Douglas walked away from the classroom because she saw a different kind of learning gap.",
-        "numbers": "16",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/how-real-estate-agent-deba-douglas-turned-buyer-education-into-a-100-transaction-business/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
         "title": "Nearly Half of Americans Oppose AI Data Centers in Their Neighborhoods, While 38% Support Them",
         "url": "https://www.redfin.com/news/survey-ai-data-center-neighborhoods/",
         "what": "Young Americans are more likely than older generations to support data centers in their backyards, according to a Redfin survey",
@@ -305,6 +296,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "CoStar CEO Andy Florance buys over 70,000 shares via options",
+        "url": "https://www.housingwire.com/articles/costar-florance-options-shares/",
+        "what": "CoStar CEO Andy Florance exercised options for 71,430 shares priced $34.67 to $36.00 as Q1 revenue rose 23% to $897 million.",
+        "numbers": "71,430, $34.67, $36.00, 1, 23, $897 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-florance-options-shares/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Veterans cite upfront costs as top VA loan barrier in 2026",
+        "url": "https://www.housingwire.com/articles/va-loan-misconceptions-veterans/",
+        "what": "NewDay USA found 55% hold VA loan misconceptions, including nearly 33% unaware the program can be 0% down and no PMI.",
+        "numbers": "55, 33, 0",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/va-loan-misconceptions-veterans/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Real-REMAX deal: complementary models or culture clash?",
         "url": "https://www.housingwire.com/articles/real-remax-consolidation-strategy/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/exps-wendy-forsythe-on-how-women-can-break-into-the-c-suite/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Century 21’s Mike Miedler: Recruiting Latino talent is a growth strategy, not a diversity talking point",
-        "url": "https://www.housingwire.com/articles/latino-homebuyers-growth-market/",
-        "what": "Mike Miedler said Latino homebuyer demand is rising and cited 13% Latino NAR membership, urging pipeline and training investment.",
-        "numbers": "13",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/latino-homebuyers-growth-market/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
