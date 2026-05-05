@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-05 14:23 UTC",
+  "as_of": "2026-05-05 16:54 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "CoStar CEO Andy Florance buys over 70,000 shares via options",
+      "title": "Darryl Davis: Market shifts reward the skilled — why now is your moment",
+      "link": "https://www.housingwire.com/articles/darryl-davis-experienced-agents-take-share/",
+      "published": "Tue, 05 May 2026"
+    },
+    {
+      "title": "‘Lock it in!’: Mortgage rates climb to 6.5% amid global volatility",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-6-5/",
+      "published": "Tue, 05 May 2026"
+    },
+    {
+      "title": "Rocket Pro extends 100 bps broker credit into May",
+      "link": "https://www.housingwire.com/articles/rocket-pro-extends-broker-credit/",
+      "published": "Tue, 05 May 2026"
+    },
+    {
+      "title": "Marty Preston moves to Rate to run profit and loss platform",
+      "link": "https://www.housingwire.com/articles/marty-preston-joins-rate/",
+      "published": "Tue, 05 May 2026"
+    },
+    {
+      "title": "One portal’s share of agent discovery traffic dropped for the first time ever. Here’s why.",
+      "link": "https://www.housingwire.com/articles/agents-invisible-ai-search/",
+      "published": "Tue, 05 May 2026"
+    },
+    {
+      "title": "CoStar CEO Andy Florance buys over 70,000 shares",
       "link": "https://www.housingwire.com/articles/costar-florance-options-shares/",
       "published": "Tue, 05 May 2026"
-    },
-    {
-      "title": "Veterans cite upfront costs as top VA loan barrier in 2026",
-      "link": "https://www.housingwire.com/articles/va-loan-misconceptions-veterans/",
-      "published": "Tue, 05 May 2026"
-    },
-    {
-      "title": "Generic AI won’t fix mortgage lending. Intelligent AI will.",
-      "link": "https://www.housingwire.com/articles/generic-ai-wont-fix-mortgage-lending-intelligent-ai-will/",
-      "published": "Tue, 05 May 2026"
-    },
-    {
-      "title": "Inside the 2026 housing market outlook: Key trends shaping homebuilders, capital and strategy",
-      "link": "https://www.housingwire.com/articles/2026-housing-outlook-builders-capital-strategy/",
-      "published": "Tue, 05 May 2026"
-    },
-    {
-      "title": "UWM challenges Two Harbors board over rejection of $12 per share bid",
-      "link": "https://www.housingwire.com/articles/uwm-two-harbors-12-offer/",
-      "published": "Mon, 04 May 2026"
-    },
-    {
-      "title": "Real-REMAX deal: complementary models or culture clash?",
-      "link": "https://www.housingwire.com/articles/real-remax-consolidation-strategy/",
-      "published": "Mon, 04 May 2026"
     },
     {
       "title": "Bay Area Luxury Home Prices Have Jumped 13% Since Launch of ChatGPT",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "‘Lock it in!’: Mortgage rates climb to 6.5% amid global volatility",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-6-5/",
+        "what": "Mortgage rates have returned to the 6.5% level as financial markets shift their focus from economic data to escalating geopolitical events.",
+        "numbers": "6.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-6-5/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Redfin Economists’ Weekly Take: Volatile Rates Ahead as Fed Turns Hawkish and Energy Shock Builds",
         "url": "https://www.redfin.com/news/weekly-economic-update-may-4-2026/",
@@ -259,15 +268,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Iowa just reset property taxes to assist first-time homebuyers",
-        "url": "https://www.housingwire.com/articles/iowa-reset-property-taxes-for-first-time-homebuyers/",
-        "what": "Home builders now have a sharper incentive to pitch to prospective first-time homebuyers in Iowa after lawmakers passed a sweeping property tax overhaul on Sunday, the final day of the legislative session",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/iowa-reset-property-taxes-for-first-time-homebuyers/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Nearly Half of Americans Oppose AI Data Centers in Their Neighborhoods, While 38% Support Them",
         "url": "https://www.redfin.com/news/survey-ai-data-center-neighborhoods/",
         "what": "Young Americans are more likely than older generations to support data centers in their backyards, according to a Redfin survey",
@@ -297,9 +297,45 @@
     ],
     "notables": [
       {
-        "title": "CoStar CEO Andy Florance buys over 70,000 shares via options",
+        "title": "Darryl Davis: Market shifts reward the skilled — why now is your moment",
+        "url": "https://www.housingwire.com/articles/darryl-davis-experienced-agents-take-share/",
+        "what": "Experienced real estate agents can gain share in a cooler market by staying visible, sharing market updates, and proving negotiation skill.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/darryl-davis-experienced-agents-take-share/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Rocket Pro extends 100 bps broker credit into May",
+        "url": "https://www.housingwire.com/articles/rocket-pro-extends-broker-credit/",
+        "what": "Rocket Pro's second Power Play includes the extension of its stacked 100 bps broker pricing credit through May and expanded non-QM limits.",
+        "numbers": "100",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-pro-extends-broker-credit/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Marty Preston moves to Rate to run profit and loss platform",
+        "url": "https://www.housingwire.com/articles/marty-preston-joins-rate/",
+        "what": "Former Benchmark retail president Marty Preston joins Rate’s profit and loss platform after evaluating 20+ lenders.",
+        "numbers": "20",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/marty-preston-joins-rate/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "One portal’s share of agent discovery traffic dropped for the first time ever. Here’s why.",
+        "url": "https://www.housingwire.com/articles/agents-invisible-ai-search/",
+        "what": "A 2026 report says only 8.4% of agents appear in AI responses and the top 1% hold 47% of citation share across metros.",
+        "numbers": "2026, 8.4, 1, 47",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/agents-invisible-ai-search/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "CoStar CEO Andy Florance buys over 70,000 shares",
         "url": "https://www.housingwire.com/articles/costar-florance-options-shares/",
-        "what": "CoStar CEO Andy Florance exercised options for 71,430 shares priced $34.67 to $36.00 as Q1 revenue rose 23% to $897 million.",
+        "what": "CoStar CEO Andy Florance purchased 71,430 shares priced $34.67 to $36.00 as Q1 revenue rose 23% to $897 million.",
         "numbers": "71,430, $34.67, $36.00, 1, 23, $897 million",
         "justified": "housingwire.com — https://www.housingwire.com/articles/costar-florance-options-shares/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
@@ -311,42 +347,6 @@
         "what": "NewDay USA found 55% hold VA loan misconceptions, including nearly 33% unaware the program can be 0% down and no PMI.",
         "numbers": "55, 33, 0",
         "justified": "housingwire.com — https://www.housingwire.com/articles/va-loan-misconceptions-veterans/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Real-REMAX deal: complementary models or culture clash?",
-        "url": "https://www.housingwire.com/articles/real-remax-consolidation-strategy/",
-        "what": "Real’s REMAX acquisition adds $400 million in debt and raises questions on franchise execution, recruiting and durable profitability at scale.",
-        "numbers": "$400 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-remax-consolidation-strategy/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The Gathering takeaway: how Olivia Clarke Homes wins in DFW",
-        "url": "https://www.housingwire.com/articles/gathering-homebuilding-customer-insight/",
-        "what": "The story of American homebuilding is mostly one of bootstrapped businesses",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/gathering-homebuilding-customer-insight/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Green Brick leverages industry-leading margins to drive optionality",
-        "url": "https://www.housingwire.com/articles/green-brick-partners-earnings-q1-2026/",
-        "what": "Green Brick Partners posted a 28.9% Q1 2026 gross margin as incentives rose to 10.1% and Trophy backlog reached 40%.",
-        "numbers": "28.9, 1, 2026, 10.1, 40",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/green-brick-partners-earnings-q1-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "eXp’s Wendy Forsythe on how women can break into the C-suite",
-        "url": "https://www.housingwire.com/articles/exps-wendy-forsythe-on-how-women-can-break-into-the-c-suite/",
-        "what": "Forsythe urged women to not wait until the most comfortable moments to make big moves, and to not be afraid to \"build their own tables.\"",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/exps-wendy-forsythe-on-how-women-can-break-into-the-c-suite/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
