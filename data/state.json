@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-05-05 16:54 UTC",
+  "as_of": "2026-05-05 22:12 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.39,
-      "delta_bp_1d": -1.0000000000000675
+      "yield_pct": 4.45,
+      "delta_bp_1d": 6.00000000000005
     },
     "mortgage_30y": {
       "rate_pct": 6.3,
@@ -17,36 +17,36 @@
   },
   "permits": {
     "florida": {
-      "latest": 11132,
-      "latest_date": "2026-01",
-      "mom": -0.15794251134644477,
-      "yoy": -0.3402086296823139,
-      "ytd": -0.3402086296823139,
-      "ytd_count": 11132,
+      "latest": 12449,
+      "latest_date": "2026-03",
+      "mom": 0.03054635761589397,
+      "yoy": -0.15719991875973194,
+      "ytd": -0.23309677419354835,
+      "ytd_count": 35661,
       "latest_year": 2026,
-      "latest_month_name": "Jan"
+      "latest_month_name": "Mar"
     },
     "msa": {
       "Orlando–Kissimmee–Sanford": {
         "total": {
-          "latest": 1394,
+          "latest": 1432,
           "latest_year": 2026,
-          "latest_month": 1,
-          "latest_month_name": "Jan",
-          "mom": -0.3611365719523373,
-          "yoy": -0.6161894273127753,
-          "ytd_yoy": -0.6161894273127753,
-          "ytd_count": 1394
+          "latest_month": 3,
+          "latest_month_name": "Mar",
+          "mom": 0.07426856714178554,
+          "yoy": -0.5466919911364356,
+          "ytd_yoy": -0.542715777899945,
+          "ytd_count": 4159
         },
         "one_unit": {
-          "latest": 956,
+          "latest": 1122,
           "latest_year": 2026,
-          "latest_month": 1,
-          "latest_month_name": "Jan",
-          "mom": 0.10520231213872822,
-          "yoy": -0.3137114142139268,
-          "ytd_yoy": -0.3137114142139268,
-          "ytd_count": 956
+          "latest_month": 3,
+          "latest_month_name": "Mar",
+          "mom": 0.2411504424778761,
+          "yoy": -0.1816192560175055,
+          "ytd_yoy": -0.2602331927561399,
+          "ytd_count": 2982
         },
         "dom": {
           "days": 68,
@@ -56,24 +56,24 @@
       },
       "Tampa–St. Petersburg–Clearwater": {
         "total": {
-          "latest": 1255,
+          "latest": 1586,
           "latest_year": 2026,
-          "latest_month": 1,
-          "latest_month_name": "Jan",
-          "mom": 0.017842660178426506,
-          "yoy": -0.42219152854511965,
-          "ytd_yoy": -0.42219152854511965,
-          "ytd_count": 1255
+          "latest_month": 3,
+          "latest_month_name": "Mar",
+          "mom": -0.10698198198198194,
+          "yoy": 0.1696165191740413,
+          "ytd_yoy": -0.12903225806451613,
+          "ytd_count": 4617
         },
         "one_unit": {
-          "latest": 1120,
+          "latest": 1176,
           "latest_year": 2026,
-          "latest_month": 1,
-          "latest_month_name": "Jan",
-          "mom": 0.20042872454448024,
-          "yoy": 0.02658111824014675,
-          "ytd_yoy": 0.02658111824014675,
-          "ytd_count": 1120
+          "latest_month": 3,
+          "latest_month_name": "Mar",
+          "mom": 0.01906412478336228,
+          "yoy": -0.028099173553719048,
+          "ytd_yoy": 0.08082706766917291,
+          "ytd_count": 3450
         },
         "dom": {
           "days": 67,
@@ -83,24 +83,24 @@
       },
       "Ocala": {
         "total": {
-          "latest": 504,
+          "latest": 618,
           "latest_year": 2026,
-          "latest_month": 1,
-          "latest_month_name": "Jan",
-          "mom": 0.23529411764705888,
-          "yoy": -0.2186046511627907,
-          "ytd_yoy": -0.2186046511627907,
-          "ytd_count": 504
+          "latest_month": 3,
+          "latest_month_name": "Mar",
+          "mom": 0.006514657980456029,
+          "yoy": -0.07067669172932334,
+          "ytd_yoy": -0.09677419354838712,
+          "ytd_count": 1736
         },
         "one_unit": {
-          "latest": 486,
+          "latest": 618,
           "latest_year": 2026,
-          "latest_month": 1,
-          "latest_month_name": "Jan",
-          "mom": 0.21500000000000008,
-          "yoy": -0.18592964824120606,
-          "ytd_yoy": -0.18592964824120606,
-          "ytd_count": 486
+          "latest_month": 3,
+          "latest_month_name": "Mar",
+          "mom": 0.04391891891891886,
+          "yoy": 0.08231173380035028,
+          "ytd_yoy": -0.033067274800456126,
+          "ytd_count": 1696
         },
         "dom": {
           "days": 75,
@@ -110,24 +110,24 @@
       },
       "Palm Bay–Melbourne–Titusville": {
         "total": {
-          "latest": 198,
+          "latest": 330,
           "latest_year": 2026,
-          "latest_month": 1,
-          "latest_month_name": "Jan",
-          "mom": -0.6292134831460674,
-          "yoy": -0.5560538116591929,
-          "ytd_yoy": -0.5560538116591929,
-          "ytd_count": 198
+          "latest_month": 3,
+          "latest_month_name": "Mar",
+          "mom": 0.346938775510204,
+          "yoy": 0.13793103448275867,
+          "ytd_yoy": -0.22699999999999998,
+          "ytd_count": 773
         },
         "one_unit": {
-          "latest": 198,
+          "latest": 330,
           "latest_year": 2026,
-          "latest_month": 1,
-          "latest_month_name": "Jan",
-          "mom": -0.2639405204460966,
-          "yoy": -0.28776978417266186,
-          "ytd_yoy": -0.28776978417266186,
-          "ytd_count": 198
+          "latest_month": 3,
+          "latest_month_name": "Mar",
+          "mom": 0.346938775510204,
+          "yoy": 0.13793103448275867,
+          "ytd_yoy": -0.06416464891041163,
+          "ytd_count": 773
         },
         "dom": {
           "days": 67,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Darryl Davis: Market shifts reward the skilled — why now is your moment",
-      "link": "https://www.housingwire.com/articles/darryl-davis-experienced-agents-take-share/",
+      "title": "PennyMac Q1 earnings: Strong mortgage production offsets weaker servicing results",
+      "link": "https://www.housingwire.com/articles/pennymac-q1-earnings/",
       "published": "Tue, 05 May 2026"
     },
     {
-      "title": "‘Lock it in!’: Mortgage rates climb to 6.5% amid global volatility",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-6-5/",
+      "title": "Donna Schmidt on leadership, longevity and navigating change in mortgage servicing",
+      "link": "https://www.housingwire.com/articles/donna-schmidt-on-leadership-longevity-and-navigating-change-in-mortgage-servicing/",
       "published": "Tue, 05 May 2026"
     },
     {
-      "title": "Rocket Pro extends 100 bps broker credit into May",
-      "link": "https://www.housingwire.com/articles/rocket-pro-extends-broker-credit/",
+      "title": "Missouri may expand its first-time homebuyer savings tax break",
+      "link": "https://www.housingwire.com/articles/missouri-sb1001-homebuyer-savings/",
       "published": "Tue, 05 May 2026"
     },
     {
-      "title": "Marty Preston moves to Rate to run profit and loss platform",
-      "link": "https://www.housingwire.com/articles/marty-preston-joins-rate/",
+      "title": "Scarcity buoyed March new home sales; builder pressures mount",
+      "link": "https://www.housingwire.com/articles/new-home-sales-march-2026/",
       "published": "Tue, 05 May 2026"
     },
     {
-      "title": "One portal’s share of agent discovery traffic dropped for the first time ever. Here’s why.",
-      "link": "https://www.housingwire.com/articles/agents-invisible-ai-search/",
+      "title": "New Jersey real estate teams merge and join eXp Realty",
+      "link": "https://www.housingwire.com/articles/nj-teams-merge-exp/",
       "published": "Tue, 05 May 2026"
     },
     {
-      "title": "CoStar CEO Andy Florance buys over 70,000 shares",
-      "link": "https://www.housingwire.com/articles/costar-florance-options-shares/",
+      "title": "Zillow, Realtor.com team up to broaden pre-market home access",
+      "link": "https://www.housingwire.com/articles/premarket-listings-zillow-realtor/",
       "published": "Tue, 05 May 2026"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "‘Lock it in!’: Mortgage rates climb to 6.5% amid global volatility",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-6-5/",
-        "what": "Mortgage rates have returned to the 6.5% level as financial markets shift their focus from economic data to escalating geopolitical events.",
-        "numbers": "6.5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-6-5/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Economists’ Weekly Take: Volatile Rates Ahead as Fed Turns Hawkish and Energy Shock Builds",
         "url": "https://www.redfin.com/news/weekly-economic-update-may-4-2026/",
         "what": "This Week In A Nutshell: Rates are likely to remain volatile this week",
@@ -232,6 +223,51 @@
     ],
     "housing": [
       {
+        "title": "PennyMac Q1 earnings: Strong mortgage production offsets weaker servicing results",
+        "url": "https://www.housingwire.com/articles/pennymac-q1-earnings/",
+        "what": "PennyMac earned $82.3M in Q1, adjusted $117.7M",
+        "numbers": "$82.3, 1,, $117.7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pennymac-q1-earnings/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Donna Schmidt on leadership, longevity and navigating change in mortgage servicing",
+        "url": "https://www.housingwire.com/articles/donna-schmidt-on-leadership-longevity-and-navigating-change-in-mortgage-servicing/",
+        "what": "In this Women of Influence spotlight, Donna Schmidt, President and CEO of DLS Servicing and WaterfallCalc, shares how a pivotal career move led her to servicing, the mindset that s",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/donna-schmidt-on-leadership-longevity-and-navigating-change-in-mortgage-servicing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Missouri may expand its first-time homebuyer savings tax break",
+        "url": "https://www.housingwire.com/articles/missouri-sb1001-homebuyer-savings/",
+        "what": "Saving for a first home in Missouri is about to get a significant tax break – with a big if – provided the state Senate’s latest housing bill makes it through the House",
+        "numbers": "1001",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/missouri-sb1001-homebuyer-savings/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Scarcity buoyed March new home sales; builder pressures mount",
+        "url": "https://www.housingwire.com/articles/new-home-sales-march-2026/",
+        "what": "March new home sales rose 3.3% to 682,000 SAAR, while the median price fell 6.2% to $387,400, lowest since July 2021.",
+        "numbers": "3.3, 682,000, 6.2, $387,400,, 2021.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-sales-march-2026/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Zillow, Realtor.com team up to broaden pre-market home access",
+        "url": "https://www.housingwire.com/articles/premarket-listings-zillow-realtor/",
+        "what": "Zillow Preview listings will syndicate to Realtor.com starting this summer, as the two listings portals partner.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/premarket-listings-zillow-realtor/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Bay Area Luxury Home Prices Have Jumped 13% Since Launch of ChatGPT",
         "url": "https://www.redfin.com/news/san-francisco-luxury-home-prices-chatgpt/",
         "what": "Home prices during the AI boom have surged far faster in the Bay Area’s luxury zip codes than its non luxury zip codes—a split not seen before the launch of GPT-3.5 or in other major U.S",
@@ -239,33 +275,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/san-francisco-luxury-home-prices-chatgpt/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Generic AI won’t fix mortgage lending. Intelligent AI will.",
-        "url": "https://www.housingwire.com/articles/generic-ai-wont-fix-mortgage-lending-intelligent-ai-will/",
-        "what": "Mortgage lenders are rushing to adopt AI, but many are repeating a familiar mistake: using new technology to accelerate old processes",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/generic-ai-wont-fix-mortgage-lending-intelligent-ai-will/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Inside the 2026 housing market outlook: Key trends shaping homebuilders, capital and strategy",
-        "url": "https://www.housingwire.com/articles/2026-housing-outlook-builders-capital-strategy/",
-        "what": "Top homebuilding executives share 2026 housing market trends, capital shifts and strategic insights from the annual housing executives forum.",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-housing-outlook-builders-capital-strategy/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "UWM challenges Two Harbors board over rejection of $12 per share bid",
-        "url": "https://www.housingwire.com/articles/uwm-two-harbors-12-offer/",
-        "what": "UWM Holdings Corp",
-        "numbers": "$12, $11.30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-two-harbors-12-offer/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Nearly Half of Americans Oppose AI Data Centers in Their Neighborhoods, While 38% Support Them",
@@ -297,56 +306,47 @@
     ],
     "notables": [
       {
+        "title": "New Jersey real estate teams merge and join eXp Realty",
+        "url": "https://www.housingwire.com/articles/nj-teams-merge-exp/",
+        "what": "Hatab moved from BHHS FOX & ROACH and merged with Boutros at eXp Realty, forming Unify with $120 million and 309 deals.",
+        "numbers": "$120 million, 309",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nj-teams-merge-exp/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Independents aren’t on an island: FirstTeam, Brown Harris Stevens bet on collaboration",
+        "url": "https://www.housingwire.com/articles/firstteam-bhs-marketing-partnership/",
+        "what": "FirstTeam and Brown Harris Stevens launched a multi-year marketing partnership to expand cross marketing, referrals and listing exposure.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/firstteam-bhs-marketing-partnership/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "‘Motivated Mover Method’ offers framework to build a more predictable real estate pipeline",
+        "url": "https://www.housingwire.com/articles/kendall-bonner-motivated-mover-method-book-real-estate-pipeline/",
+        "what": "Real estate agent Kendall Bonner’s book outlines the Motivated Mover Method, a life-event-focused system to build a predictable pipeline.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kendall-bonner-motivated-mover-method-book-real-estate-pipeline/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Onity Group cuts 2026 ROE outlook as servicing losses weigh on Q1",
+        "url": "https://www.housingwire.com/articles/onity-group-roe-outlook/",
+        "what": "Onity servicing UPB rose to $338B in Q1 2026, but the segment posted a $16M adjusted pre-tax loss as MSR runoff increased.",
+        "numbers": "$338, 1, 2026,, $16",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/onity-group-roe-outlook/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Darryl Davis: Market shifts reward the skilled — why now is your moment",
         "url": "https://www.housingwire.com/articles/darryl-davis-experienced-agents-take-share/",
         "what": "Experienced real estate agents can gain share in a cooler market by staying visible, sharing market updates, and proving negotiation skill.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/darryl-davis-experienced-agents-take-share/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Rocket Pro extends 100 bps broker credit into May",
-        "url": "https://www.housingwire.com/articles/rocket-pro-extends-broker-credit/",
-        "what": "Rocket Pro's second Power Play includes the extension of its stacked 100 bps broker pricing credit through May and expanded non-QM limits.",
-        "numbers": "100",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-pro-extends-broker-credit/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Marty Preston moves to Rate to run profit and loss platform",
-        "url": "https://www.housingwire.com/articles/marty-preston-joins-rate/",
-        "what": "Former Benchmark retail president Marty Preston joins Rate’s profit and loss platform after evaluating 20+ lenders.",
-        "numbers": "20",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/marty-preston-joins-rate/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "One portal’s share of agent discovery traffic dropped for the first time ever. Here’s why.",
-        "url": "https://www.housingwire.com/articles/agents-invisible-ai-search/",
-        "what": "A 2026 report says only 8.4% of agents appear in AI responses and the top 1% hold 47% of citation share across metros.",
-        "numbers": "2026, 8.4, 1, 47",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/agents-invisible-ai-search/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CoStar CEO Andy Florance buys over 70,000 shares",
-        "url": "https://www.housingwire.com/articles/costar-florance-options-shares/",
-        "what": "CoStar CEO Andy Florance purchased 71,430 shares priced $34.67 to $36.00 as Q1 revenue rose 23% to $897 million.",
-        "numbers": "71,430, $34.67, $36.00, 1, 23, $897 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-florance-options-shares/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Veterans cite upfront costs as top VA loan barrier in 2026",
-        "url": "https://www.housingwire.com/articles/va-loan-misconceptions-veterans/",
-        "what": "NewDay USA found 55% hold VA loan misconceptions, including nearly 33% unaware the program can be 0% down and no PMI.",
-        "numbers": "55, 33, 0",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/va-loan-misconceptions-veterans/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
