@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-06 16:53 UTC",
+  "as_of": "2026-05-06 18:58 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Build-to-rent explodes in Atlanta — and agents are taking notice",
+      "link": "https://www.housingwire.com/articles/atlanta-build-to-rent-surge/",
+      "published": "Wed, 06 May 2026"
+    },
+    {
       "title": "UWM posts Q1 profit, Ishbia slams Two Harbors board in M&A battle",
       "link": "https://www.housingwire.com/articles/uwm-profitable-q1-originations-dip/",
       "published": "Wed, 06 May 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Deephaven Mortgage broadens Equity Advantage HELOC options",
       "link": "https://www.housingwire.com/articles/deephaven-expands-equity-advantage-heloc/",
-      "published": "Wed, 06 May 2026"
-    },
-    {
-      "title": "Why Veev’s latest CEO exit raises questions about prefab scale",
-      "link": "https://www.housingwire.com/articles/veev-leadership-prefab-scale/",
       "published": "Wed, 06 May 2026"
     },
     {
@@ -223,6 +223,15 @@
     ],
     "housing": [
       {
+        "title": "Build-to-rent explodes in Atlanta — and agents are taking notice",
+        "url": "https://www.housingwire.com/articles/atlanta-build-to-rent-surge/",
+        "what": "Large institutional investors now own roughly 30% of Atlanta's single-family rental market, a share 10 times the national average.",
+        "numbers": "30, 10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/atlanta-build-to-rent-surge/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
         "title": "UWM posts Q1 profit, Ishbia slams Two Harbors board in M&A battle",
         "url": "https://www.housingwire.com/articles/uwm-profitable-q1-originations-dip/",
         "what": "United Wholesale Mortgage (UWM) saw its origination engine cool in the first quarter compared to the previous three months, but the lender held the line on margins and remained pro",
@@ -273,15 +282,6 @@
         "what": "MBA says mortgage applications fell 4.4% as the 30-year fixed rate rose to 6.45% and refinance share slipped to 42.0%.",
         "numbers": "4.4, 30, 6.45, 42.0",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-fall-44/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "CCM touts new $1.4B Citi financing in fight against UWM for Two Harbors",
-        "url": "https://www.housingwire.com/articles/crosscountry-two-harbors-uwm-bid/",
-        "what": "CrossCountry Mortgage (CCM) is pushing back on UWM Holdings Corporation's rival bid for Two Harbors Investment Corp., telling stockholders that only its signed, fully financed all-",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/crosscountry-two-harbors-uwm-bid/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
