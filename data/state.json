@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-07 10:34 UTC",
+  "as_of": "2026-05-07 13:02 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "MoxiWorks expands AI platform to enhance follow-ups, marketing",
+      "link": "https://www.housingwire.com/articles/moxiworks-rise-ai-expansion/",
+      "published": "Thu, 07 May 2026"
+    },
+    {
+      "title": "Estridge launches 345-acre Millbrook MPC in West Lafayette",
+      "link": "https://www.housingwire.com/articles/estridge-millbrook-master-planned-community-west-lafayette/",
+      "published": "Thu, 07 May 2026"
+    },
+    {
       "title": "Housing market inertia grows as 48% skip moving plans, Point finds",
       "link": "https://www.housingwire.com/articles/homeowners-staying-put-point-study/",
       "published": "Thu, 07 May 2026"
@@ -160,14 +170,14 @@
       "published": "Wed, 06 May 2026"
     },
     {
-      "title": "NAR says policies already align with new HUD stance on sharing school, crime data",
-      "link": "https://www.housingwire.com/articles/nar-says-policies-already-align-with-new-hud-stance-on-sharing-school-crime-data/",
-      "published": "Wed, 06 May 2026"
+      "title": "Viral HomeGoods Finds Are Everywhere—Here’s How to Use Them to Boost Your Home’s Value",
+      "link": "https://www.redfin.com/news/viral-homegoods-finds-how-to-use-to-boost-home-value/",
+      "published": "Thu, 07 May 2026"
     },
     {
-      "title": "Millrose Properties one-year report card, Q1 2026 earnings",
-      "link": "https://www.housingwire.com/articles/millrose-1-year-q1-earnings/",
-      "published": "Wed, 06 May 2026"
+      "title": "Pending Home Sales Hit Highest Level in Nearly 4 Years",
+      "link": "https://www.redfin.com/news/pending-home-sales-rise-spring/",
+      "published": "Thu, 07 May 2026"
     },
     {
       "title": "Coming Soon in Michigan: A $260,000 Turnkey Home in a Lansing Suburb",
@@ -188,35 +198,25 @@
       "title": "Redfin Economists’ Weekly Take: Volatile Rates Ahead as Fed Turns Hawkish and Energy Shock Builds",
       "link": "https://www.redfin.com/news/weekly-economic-update-may-4-2026/",
       "published": "Mon, 04 May 2026"
-    },
-    {
-      "title": "Nearly Half of Americans Oppose AI Data Centers in Their Neighborhoods, While 38% Support Them",
-      "link": "https://www.redfin.com/news/survey-ai-data-center-neighborhoods/",
-      "published": "Mon, 04 May 2026"
-    },
-    {
-      "title": "The Price Point: What $1 Million Buys in These Charming Small Cities",
-      "link": "https://www.redfin.com/news/the-price-point-what-1-million-buys-may-1-2026/",
-      "published": "Fri, 01 May 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Pending Home Sales Hit Highest Level in Nearly 4 Years",
+        "url": "https://www.redfin.com/news/pending-home-sales-rise-spring/",
+        "what": "More homebuyers jumped into the market as mortgage rates came down temporarily last week, but it’s still slower than past springs",
+        "numbers": "2022, 3., 7.7, 4",
+        "justified": "redfin.com — https://www.redfin.com/news/pending-home-sales-rise-spring/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Housing market inertia grows as 48% skip moving plans, Point finds",
         "url": "https://www.housingwire.com/articles/homeowners-staying-put-point-study/",
         "what": "Point reports 48% did not consider moving, 83% want rates below 5% and 49% plan to renovate instead of listing.",
         "numbers": "48, 83, 5, 49",
         "justified": "housingwire.com — https://www.housingwire.com/articles/homeowners-staying-put-point-study/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "How AI accelerates construction draws and cuts review times",
-        "url": "https://www.housingwire.com/articles/ai-transforming-construction-draws/",
-        "what": "Built Technologies says its Draw Agent cuts construction draws from about 7 business days to 3, with audit, assist, and automate review modes.",
-        "numbers": "7, 3,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-transforming-construction-draws/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -240,6 +240,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Viral HomeGoods Finds Are Everywhere—Here’s How to Use Them to Boost Your Home’s Value",
+        "url": "https://www.redfin.com/news/viral-homegoods-finds-how-to-use-to-boost-home-value/",
+        "what": "Viral decor from retailers like HomeGoods can help a listing stand out—but agents say bold pieces should make up no more than 10% of a home’s overall design",
+        "numbers": "10",
+        "justified": "redfin.com — https://www.redfin.com/news/viral-homegoods-finds-how-to-use-to-boost-home-value/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Estridge launches 345-acre Millbrook MPC in West Lafayette",
+        "url": "https://www.housingwire.com/articles/estridge-millbrook-master-planned-community-west-lafayette/",
+        "what": "WEST LAFAYETTE, Ind",
+        "numbers": "345, 1,000, 28",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/estridge-millbrook-master-planned-community-west-lafayette/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
       {
         "title": "Women take the leadership reins at Reverse Mastermind Summit",
         "url": "https://www.housingwire.com/articles/reverse-mastermind-summit-leadership-sales/",
@@ -268,15 +286,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Amended class-action lawsuit accuses Veterans United of ‘bait-and-switch’ tactics",
-        "url": "https://www.housingwire.com/articles/veterans-united-lawsuit-bait-switch/",
-        "what": "Plaintiffs filed an amended complaint against Veterans United Home Loans, owned by Mortgage Research Center, adding claims of “bait-and-switch” and misleading advertising tactics,",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/veterans-united-lawsuit-bait-switch/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Coming Soon in Michigan: A $260,000 Turnkey Home in a Lansing Suburb",
         "url": "https://www.redfin.com/news/251-ware-st-lansing-michigan-listing/",
         "what": "In this edition of Coming Soon–a series from Redfin News that explores new listings that house hunters can find early only on Redfin.com and Compass.com–we’re exploring a traditional two-story home in Mason, a popular suburb of Lansing, MI",
@@ -293,27 +302,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/san-francisco-luxury-home-prices-chatgpt/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Nearly Half of Americans Oppose AI Data Centers in Their Neighborhoods, While 38% Support Them",
-        "url": "https://www.redfin.com/news/survey-ai-data-center-neighborhoods/",
-        "what": "Young Americans are more likely than older generations to support data centers in their backyards, according to a Redfin survey",
-        "numbers": "38",
-        "justified": "redfin.com — https://www.redfin.com/news/survey-ai-data-center-neighborhoods/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The Price Point: What $1 Million Buys in These Charming Small Cities",
-        "url": "https://www.redfin.com/news/the-price-point-what-1-million-buys-may-1-2026/",
-        "what": "In this edition of The Price Point—a weekly series where Redfin data journalists explore current housing inventory across a rotating combination of budgets and metro areas—we’re looking at the million-dollar market",
-        "numbers": "$1 million",
-        "justified": "redfin.com — https://www.redfin.com/news/the-price-point-what-1-million-buys-may-1-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
+      {
+        "title": "MoxiWorks expands AI platform to enhance follow-ups, marketing",
+        "url": "https://www.housingwire.com/articles/moxiworks-rise-ai-expansion/",
+        "what": "The latest version expands the platform’s ability to combine marketing outreach and transaction execution into a single workflow.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/moxiworks-rise-ai-expansion/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "HomeServices names Jason Waugh as next HSF Affiliates CEO",
         "url": "https://www.housingwire.com/articles/jason-waugh-hsf-affiliates-ceo/",
