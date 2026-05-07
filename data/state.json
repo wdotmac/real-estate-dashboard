@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-07 07:17 UTC",
+  "as_of": "2026-05-07 10:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Housing market inertia grows as 48% skip moving plans, Point finds",
+      "link": "https://www.housingwire.com/articles/homeowners-staying-put-point-study/",
+      "published": "Thu, 07 May 2026"
+    },
+    {
       "title": "Women take the leadership reins at Reverse Mastermind Summit",
       "link": "https://www.housingwire.com/articles/reverse-mastermind-summit-leadership-sales/",
       "published": "Wed, 06 May 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Millrose Properties one-year report card, Q1 2026 earnings",
       "link": "https://www.housingwire.com/articles/millrose-1-year-q1-earnings/",
-      "published": "Wed, 06 May 2026"
-    },
-    {
-      "title": "Zillow bets on pre-marketing to unlock new growth",
-      "link": "https://www.housingwire.com/articles/zillow-q1-2026-revenue-profit/",
       "published": "Wed, 06 May 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Housing market inertia grows as 48% skip moving plans, Point finds",
+        "url": "https://www.housingwire.com/articles/homeowners-staying-put-point-study/",
+        "what": "Point reports 48% did not consider moving, 83% want rates below 5% and 49% plan to renovate instead of listing.",
+        "numbers": "48, 83, 5, 49",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homeowners-staying-put-point-study/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "How AI accelerates construction draws and cuts review times",
         "url": "https://www.housingwire.com/articles/ai-transforming-construction-draws/",
@@ -266,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/veterans-united-lawsuit-bait-switch/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Build-to-rent explodes in Atlanta — and agents are taking notice",
-        "url": "https://www.housingwire.com/articles/atlanta-build-to-rent-surge/",
-        "what": "Large institutional investors now own roughly 30% of Atlanta's single-family rental market, a share 10 times the national average.",
-        "numbers": "30, 10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/atlanta-build-to-rent-surge/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "Coming Soon in Michigan: A $260,000 Turnkey Home in a Lansing Suburb",
