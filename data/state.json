@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-08 09:52 UTC",
+  "as_of": "2026-05-08 14:16 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Growth starts with risk: Amy Butler on leadership, culture and scaling success",
+      "link": "https://www.housingwire.com/articles/growth-starts-with-risk-amy-butler-on-leadership-culture-and-scaling-success/",
+      "published": "Fri, 08 May 2026"
+    },
+    {
+      "title": "CCM raises Two Harbors offer to $12 to fend off UWM",
+      "link": "https://www.housingwire.com/articles/ccm-two-harbors-bid/",
+      "published": "Fri, 08 May 2026"
+    },
+    {
       "title": "Innovation through mortgage advocacy: Why our industry needs to stop treating policy like background noise",
       "link": "https://www.housingwire.com/articles/mortgage-policy-advocacy-risk/",
       "published": "Fri, 08 May 2026"
@@ -160,14 +170,14 @@
       "published": "Thu, 07 May 2026"
     },
     {
-      "title": "Rocket beats earnings guidance with strongest quarterly profit in four years",
-      "link": "https://www.housingwire.com/articles/rocket-q1-2026-earnings/",
-      "published": "Thu, 07 May 2026"
+      "title": "Mortgage Rates Likely to Hold Steady After April Jobs Report Shows Stronger Hiring, Softer Wages",
+      "link": "https://www.redfin.com/news/april-2026-jobs-report/",
+      "published": "Fri, 08 May 2026"
     },
     {
-      "title": "Thomas James Homes’ new CEO details the firm’s go-forward plan",
-      "link": "https://www.housingwire.com/articles/thomas-james-homes-ceo-schlageter/",
-      "published": "Thu, 07 May 2026"
+      "title": "The Price Point: What $250,000 Buys in These Best Cities for New Grads",
+      "link": "https://www.redfin.com/news/the-price-point-what-250000-buys-best-cities-new-college-grads/",
+      "published": "Fri, 08 May 2026"
     },
     {
       "title": "Just Listed in Texas: A $12 Million Lakefront Estate That’s Luxurious Inside and Out",
@@ -188,20 +198,19 @@
       "title": "Pending Home Sales Hit Highest Level in Nearly 4 Years",
       "link": "https://www.redfin.com/news/pending-home-sales-rise-spring/",
       "published": "Thu, 07 May 2026"
-    },
-    {
-      "title": "Coming Soon in Michigan: A $260,000 Turnkey Home in a Lansing Suburb",
-      "link": "https://www.redfin.com/news/251-ware-st-lansing-michigan-listing/",
-      "published": "Wed, 06 May 2026"
-    },
-    {
-      "title": "Land O’ Lakes, Florida is Redfin’s Hottest Neighborhood of 2026–See Which Other Places Made The Top-10 List",
-      "link": "https://www.redfin.com/news/hottest-neighborhood-2026/",
-      "published": "Wed, 06 May 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage Rates Likely to Hold Steady After April Jobs Report Shows Stronger Hiring, Softer Wages",
+        "url": "https://www.redfin.com/news/april-2026-jobs-report/",
+        "what": "Takeaway: A mixed bag April jobs report will keep mortgage rates mostly steady as stronger-than-expected hiring lowers recession risk",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/april-2026-jobs-report/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "For solutions to the housing affordability crisis, we need to use every tool available",
         "url": "https://www.housingwire.com/articles/for-solutions-to-the-housing-affordability-crisis-we-need-to-use-every-tool-available/",
@@ -228,18 +237,36 @@
         "justified": "redfin.com — https://www.redfin.com/news/pending-home-sales-rise-spring/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Land O’ Lakes, Florida is Redfin’s Hottest Neighborhood of 2026–See Which Other Places Made The Top-10 List",
-        "url": "https://www.redfin.com/news/hottest-neighborhood-2026/",
-        "what": "Two Florida neighborhoods–Land O’ Lakes and Plant City–top Redfin’s list of this year’s hottest neighborhoods",
-        "numbers": "10, 2026",
-        "justified": "redfin.com — https://www.redfin.com/news/hottest-neighborhood-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "housing": [
+      {
+        "title": "Growth starts with risk: Amy Butler on leadership, culture and scaling success",
+        "url": "https://www.housingwire.com/articles/growth-starts-with-risk-amy-butler-on-leadership-culture-and-scaling-success/",
+        "what": "Amy Butler, EVP of National Sales at Northpointe Bank, shares how stepping outside her comfort zone shaped her leadership approach—and why building strong teams and culture is key",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/growth-starts-with-risk-amy-butler-on-leadership-culture-and-scaling-success/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "CCM raises Two Harbors offer to $12 to fend off UWM",
+        "url": "https://www.housingwire.com/articles/ccm-two-harbors-bid/",
+        "what": "CrossCountry Mortgage (CCM) once again raised its bid for Two Harbors Investment Corp., matching UWM Holdings Corp.’s rival offer.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ccm-two-harbors-bid/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "The Price Point: What $250,000 Buys in These Best Cities for New Grads",
+        "url": "https://www.redfin.com/news/the-price-point-what-250000-buys-best-cities-new-college-grads/",
+        "what": "In this edition of The Price Point—a weekly series where Redfin data journalists explore current housing inventory across a rotating combination of budgets and metro areas—we’re shifting our focus toward a few of the best cities for new college grads, according to Redfin’s latest report on the subject (conducted in partnership with Glassdoor)",
+        "numbers": "$250,000",
+        "justified": "redfin.com — https://www.redfin.com/news/the-price-point-what-250000-buys-best-cities-new-college-grads/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Innovation through mortgage advocacy: Why our industry needs to stop treating policy like background noise",
         "url": "https://www.housingwire.com/articles/mortgage-policy-advocacy-risk/",
@@ -295,15 +322,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "OneTrust reverse mortgage leader Gabe Bodner on personal branding tactics",
-        "url": "https://www.housingwire.com/articles/reverse-mortgage-branding-tactics/",
-        "what": "OneTrust Home Loans’ Gabe Bodner shares a three-part branding plan for reverse mortgage LOs: visibility, consistency and credibility.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-branding-tactics/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Should You Buy a Home Before Getting Married? Economist Says Yes.",
         "url": "https://www.redfin.com/news/should-you-buy-a-home-before-getting-married/",
         "what": "A social norm that ties homebuying to marriage is delaying women’s path to homeownership, even when they can afford to buy on their own",
@@ -311,24 +329,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/should-you-buy-a-home-before-getting-married/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Viral HomeGoods Finds Are Everywhere—Here’s How to Use Them to Boost Your Home’s Value",
-        "url": "https://www.redfin.com/news/viral-homegoods-finds-how-to-use-to-boost-home-value/",
-        "what": "Viral decor from retailers like HomeGoods can help a listing stand out—but agents say bold pieces should make up no more than 10% of a home’s overall design",
-        "numbers": "10",
-        "justified": "redfin.com — https://www.redfin.com/news/viral-homegoods-finds-how-to-use-to-boost-home-value/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Coming Soon in Michigan: A $260,000 Turnkey Home in a Lansing Suburb",
-        "url": "https://www.redfin.com/news/251-ware-st-lansing-michigan-listing/",
-        "what": "In this edition of Coming Soon–a series from Redfin News that explores new listings that house hunters can find early only on Redfin.com and Compass.com–we’re exploring a traditional two-story home in Mason, a popular suburb of Lansing, MI",
-        "numbers": "2009,, $260,000, 1,454",
-        "justified": "redfin.com — https://www.redfin.com/news/251-ware-st-lansing-michigan-listing/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
@@ -338,15 +338,6 @@
         "what": "The company said Alvarez’s move reflects a broader trend among senior commercial real estate advisors toward greater autonomy.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mario-alvarez-jr-brings-1b-track-record-to-exp-commercial/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How Captions turned busy real estate agents into AI video creators",
-        "url": "https://www.housingwire.com/articles/mirage-captions-real-estate-agents-ai-video-creators/",
-        "what": "Mirage's AI video creation platform Captions has gained significant popularity among real estate professionals.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mirage-captions-real-estate-agents-ai-video-creators/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
