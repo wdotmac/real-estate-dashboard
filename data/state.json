@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-08 14:16 UTC",
+  "as_of": "2026-05-08 18:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Growth starts with risk: Amy Butler on leadership, culture and scaling success",
-      "link": "https://www.housingwire.com/articles/growth-starts-with-risk-amy-butler-on-leadership-culture-and-scaling-success/",
+      "title": "Real estate investor Jackie Coffey launches app targeting after-repair values",
+      "link": "https://www.housingwire.com/articles/jackie-coffey-real-estate-investor-after-repair-app/",
       "published": "Fri, 08 May 2026"
     },
     {
-      "title": "CCM raises Two Harbors offer to $12 to fend off UWM",
-      "link": "https://www.housingwire.com/articles/ccm-two-harbors-bid/",
+      "title": "FTC puts Mortgage Connect on notice over worker noncompetes",
+      "link": "https://www.housingwire.com/articles/ftc-warns-mortgage-connect-noncompetes/",
       "published": "Fri, 08 May 2026"
     },
     {
-      "title": "Innovation through mortgage advocacy: Why our industry needs to stop treating policy like background noise",
-      "link": "https://www.housingwire.com/articles/mortgage-policy-advocacy-risk/",
+      "title": "Blend reports profitable Q1, issues cautious outlook amid macro headwinds",
+      "link": "https://www.housingwire.com/articles/blend-labs-q1-earnings-outlook/",
       "published": "Fri, 08 May 2026"
     },
     {
-      "title": "For solutions to the housing affordability crisis, we need to use every tool available",
-      "link": "https://www.housingwire.com/articles/for-solutions-to-the-housing-affordability-crisis-we-need-to-use-every-tool-available/",
+      "title": "Jobs data stabilizes, giving Fed hawks more reason not to cut rates",
+      "link": "https://www.housingwire.com/articles/jobs-data-stabilizes-giving-fed-hawks-more-reason-not-to-cut-rates/",
       "published": "Fri, 08 May 2026"
     },
     {
-      "title": "Mortgage’s AI crisis is coming. The industry isn’t ready to talk about it.",
-      "link": "https://www.housingwire.com/articles/mortgages-ai-crisis-is-coming-the-industry-isnt-ready-to-talk-about-it/",
+      "title": "REMAX Q1 financial results show $436M debt, declining revenue",
+      "link": "https://www.housingwire.com/articles/remax-q1-2026-debt-loss/",
       "published": "Fri, 08 May 2026"
     },
     {
-      "title": "Mario Alvarez Jr. brings $1B+ track record to eXp Commercial",
-      "link": "https://www.housingwire.com/articles/mario-alvarez-jr-brings-1b-track-record-to-exp-commercial/",
-      "published": "Thu, 07 May 2026"
+      "title": "Q1 2026 earnings for publicly traded mortgage, real estate and homebuilder companies",
+      "link": "https://www.housingwire.com/articles/q1-2026-earnings-mortgage-real-estate-homebuilding/",
+      "published": "Fri, 08 May 2026"
     },
     {
       "title": "Mortgage Rates Likely to Hold Steady After April Jobs Report Shows Stronger Hiring, Softer Wages",
@@ -203,29 +203,38 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "FTC puts Mortgage Connect on notice over worker noncompetes",
+        "url": "https://www.housingwire.com/articles/ftc-warns-mortgage-connect-noncompetes/",
+        "what": "The Federal Trade Commission is warning mortgage services provider Mortgage Connect about its use of noncompete agreements, urging the company to review and potentially discontinue",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ftc-warns-mortgage-connect-noncompetes/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Jobs data stabilizes, giving Fed hawks more reason not to cut rates",
+        "url": "https://www.housingwire.com/articles/jobs-data-stabilizes-giving-fed-hawks-more-reason-not-to-cut-rates/",
+        "what": "Payrolls are improving versus 2025, with unemployment at 4.3% and claims low, giving Fed hawks more room to oppose 2026 cuts.",
+        "numbers": "2025,, 4.3, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/jobs-data-stabilizes-giving-fed-hawks-more-reason-not-to-cut-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "April jobs report shows 115K payroll gains, unemployment rate at 4.3%",
+        "url": "https://www.housingwire.com/articles/april-jobs-report-payrolls/",
+        "what": "April payrolls rose by 115,000 and unemployment held at 4.3%, but revisions cut the three-month average to 48,000.",
+        "numbers": "115,000, 4.3, 48,000.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/april-jobs-report-payrolls/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage Rates Likely to Hold Steady After April Jobs Report Shows Stronger Hiring, Softer Wages",
         "url": "https://www.redfin.com/news/april-2026-jobs-report/",
         "what": "Takeaway: A mixed bag April jobs report will keep mortgage rates mostly steady as stronger-than-expected hiring lowers recession risk",
         "numbers": "",
         "justified": "redfin.com — https://www.redfin.com/news/april-2026-jobs-report/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "For solutions to the housing affordability crisis, we need to use every tool available",
-        "url": "https://www.housingwire.com/articles/for-solutions-to-the-housing-affordability-crisis-we-need-to-use-every-tool-available/",
-        "what": "Across the country, roughly 65% of households are priced out of the median-priced new home",
-        "numbers": "65",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/for-solutions-to-the-housing-affordability-crisis-we-need-to-use-every-tool-available/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Homebuyer aid broadens to middle class amid price pressures",
-        "url": "https://www.housingwire.com/articles/homebuyer-aid-middle-class-price-pressures/",
-        "what": "Homebuyer assistance has moved far beyond the scope of poverty relief",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuyer-aid-middle-class-price-pressures/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -240,6 +249,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Real estate investor Jackie Coffey launches app targeting after-repair values",
+        "url": "https://www.housingwire.com/articles/jackie-coffey-real-estate-investor-after-repair-app/",
+        "what": "Users can analyze properties, review comparable home sales and estimate after-repair values by entering a U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/jackie-coffey-real-estate-investor-after-repair-app/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Q1 2026 earnings for publicly traded mortgage, real estate and homebuilder companies",
+        "url": "https://www.housingwire.com/articles/q1-2026-earnings-mortgage-real-estate-homebuilding/",
+        "what": "As earnings results wrap up for Q1 2026, here's a rundown of what's happened for major lenders, brokerages, homebuilders, listing portals and title firms.",
+        "numbers": "1, 2026,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/q1-2026-earnings-mortgage-real-estate-homebuilding/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Growth starts with risk: Amy Butler on leadership, culture and scaling success",
         "url": "https://www.housingwire.com/articles/growth-starts-with-risk-amy-butler-on-leadership-culture-and-scaling-success/",
@@ -277,24 +304,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage’s AI crisis is coming. The industry isn’t ready to talk about it.",
-        "url": "https://www.housingwire.com/articles/mortgages-ai-crisis-is-coming-the-industry-isnt-ready-to-talk-about-it/",
-        "what": "A borrower in forbearance gets the wrong information about their reinstatement options",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgages-ai-crisis-is-coming-the-industry-isnt-ready-to-talk-about-it/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Rocket beats earnings guidance with strongest quarterly profit in four years",
-        "url": "https://www.housingwire.com/articles/rocket-q1-2026-earnings/",
-        "what": "Rocket Companies reported its most profitable quarter in four years as artificial intelligence initiatives, a larger servicing portfolio and recent acquisitions helped the Detroit-",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-q1-2026-earnings/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Just Listed in Texas: A $12 Million Lakefront Estate That’s Luxurious Inside and Out",
         "url": "https://www.redfin.com/news/3104-rivercrest-drive-austin-texas-listing/",
         "what": "In this edition of Just Listed–a series from Redfin News that explores listings that are listed by Redfin or Compass agents on Redfin.com–we’re exploring a Mediterranean-inspired estate in Austin, Texas",
@@ -304,24 +313,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Thomas James Homes’ new CEO details the firm’s go-forward plan",
-        "url": "https://www.housingwire.com/articles/thomas-james-homes-ceo-schlageter/",
-        "what": "New CEO Steve Schlageter says Thomas James Homes will keep prioritizing premium single-lot infill where demand is steady and supply is limited",
-        "numbers": "2027, 2029.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/thomas-james-homes-ceo-schlageter/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Sparks flare over Florida law to target idle golf courses for housing",
-        "url": "https://www.housingwire.com/articles/sparks-flare-over-florida-law-to-target-idle-golf-courses-for-housing/",
-        "what": "A bill overriding local zoning authority to allow housing on idle Southeast Florida golf courses drew little public attention during Florida’s legislative session",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sparks-flare-over-florida-law-to-target-idle-golf-courses-for-housing/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Should You Buy a Home Before Getting Married? Economist Says Yes.",
         "url": "https://www.redfin.com/news/should-you-buy-a-home-before-getting-married/",
         "what": "A social norm that ties homebuying to marriage is delaying women’s path to homeownership, even when they can afford to buy on their own",
@@ -329,15 +320,33 @@
         "justified": "redfin.com — https://www.redfin.com/news/should-you-buy-a-home-before-getting-married/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Viral HomeGoods Finds Are Everywhere—Here’s How to Use Them to Boost Your Home’s Value",
+        "url": "https://www.redfin.com/news/viral-homegoods-finds-how-to-use-to-boost-home-value/",
+        "what": "Viral decor from retailers like HomeGoods can help a listing stand out—but agents say bold pieces should make up no more than 10% of a home’s overall design",
+        "numbers": "10",
+        "justified": "redfin.com — https://www.redfin.com/news/viral-homegoods-finds-how-to-use-to-boost-home-value/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
       {
-        "title": "Mario Alvarez Jr. brings $1B+ track record to eXp Commercial",
-        "url": "https://www.housingwire.com/articles/mario-alvarez-jr-brings-1b-track-record-to-exp-commercial/",
-        "what": "The company said Alvarez’s move reflects a broader trend among senior commercial real estate advisors toward greater autonomy.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mario-alvarez-jr-brings-1b-track-record-to-exp-commercial/",
+        "title": "Blend reports profitable Q1, issues cautious outlook amid macro headwinds",
+        "url": "https://www.housingwire.com/articles/blend-labs-q1-earnings-outlook/",
+        "what": "The company reported non-GAAP operating income of $4.1 million for the quarter ending in March, a significant improvement from $0.7 million during the same period last year.",
+        "numbers": "$4.1 million, $0.7 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/blend-labs-q1-earnings-outlook/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "REMAX Q1 financial results show $436M debt, declining revenue",
+        "url": "https://www.housingwire.com/articles/remax-q1-2026-debt-loss/",
+        "what": "REMAX Q1 2026 revenue fell 5.7% to $70.2 million, while its net loss widened to $9.7 million and debt totaled $436 million.",
+        "numbers": "1, 2026, 5.7, $70.2 million, $9.7 million, $436 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/remax-q1-2026-debt-loss/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
