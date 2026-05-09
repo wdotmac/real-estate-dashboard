@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-05-08 18:44 UTC",
+  "as_of": "2026-05-09 00:09 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.36,
-      "delta_bp_1d": -6.99999999999994
+      "yield_pct": 4.41,
+      "delta_bp_1d": 4.999999999999982
     },
     "mortgage_30y": {
       "rate_pct": 6.37,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Real estate investor Jackie Coffey launches app targeting after-repair values",
-      "link": "https://www.housingwire.com/articles/jackie-coffey-real-estate-investor-after-repair-app/",
+      "title": "Realtor.com operator sees revenue rise 10% in News Corp’s Q3 earnings",
+      "link": "https://www.housingwire.com/articles/move-realtor-com-news-corp-q3-earnings/",
       "published": "Fri, 08 May 2026"
     },
     {
-      "title": "FTC puts Mortgage Connect on notice over worker noncompetes",
-      "link": "https://www.housingwire.com/articles/ftc-warns-mortgage-connect-noncompetes/",
+      "title": "AI agent aims to reshape how builders screen sites, spot deal risk",
+      "link": "https://www.housingwire.com/articles/ai-agent-land-acquisition/",
       "published": "Fri, 08 May 2026"
     },
     {
-      "title": "Blend reports profitable Q1, issues cautious outlook amid macro headwinds",
-      "link": "https://www.housingwire.com/articles/blend-labs-q1-earnings-outlook/",
+      "title": "Poll: Americans want Congress to act on lowering housing costs",
+      "link": "https://www.housingwire.com/articles/bipartisan-policy-center-poll-lower-housing-costs/",
       "published": "Fri, 08 May 2026"
     },
     {
-      "title": "Jobs data stabilizes, giving Fed hawks more reason not to cut rates",
-      "link": "https://www.housingwire.com/articles/jobs-data-stabilizes-giving-fed-hawks-more-reason-not-to-cut-rates/",
+      "title": "Huntington & Ellis rolls out Smart by h&e to support agents in deals",
+      "link": "https://www.housingwire.com/articles/smart-by-he-ai-platform/",
       "published": "Fri, 08 May 2026"
     },
     {
-      "title": "REMAX Q1 financial results show $436M debt, declining revenue",
-      "link": "https://www.housingwire.com/articles/remax-q1-2026-debt-loss/",
+      "title": "After pushback, New Hampshire course-corrects pro-housing laws",
+      "link": "https://www.housingwire.com/articles/nh-hb-1010-multifamily-zoning/",
       "published": "Fri, 08 May 2026"
     },
     {
-      "title": "Q1 2026 earnings for publicly traded mortgage, real estate and homebuilder companies",
-      "link": "https://www.housingwire.com/articles/q1-2026-earnings-mortgage-real-estate-homebuilding/",
+      "title": "Coldwell Banker names Mary Lee Blaylock president of affiliates",
+      "link": "https://www.housingwire.com/articles/blaylock-coldwell-banker-affiliates-president/",
       "published": "Fri, 08 May 2026"
     },
     {
@@ -203,33 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "FTC puts Mortgage Connect on notice over worker noncompetes",
-        "url": "https://www.housingwire.com/articles/ftc-warns-mortgage-connect-noncompetes/",
-        "what": "The Federal Trade Commission is warning mortgage services provider Mortgage Connect about its use of noncompete agreements, urging the company to review and potentially discontinue",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ftc-warns-mortgage-connect-noncompetes/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Jobs data stabilizes, giving Fed hawks more reason not to cut rates",
-        "url": "https://www.housingwire.com/articles/jobs-data-stabilizes-giving-fed-hawks-more-reason-not-to-cut-rates/",
-        "what": "Payrolls are improving versus 2025, with unemployment at 4.3% and claims low, giving Fed hawks more room to oppose 2026 cuts.",
-        "numbers": "2025,, 4.3, 2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/jobs-data-stabilizes-giving-fed-hawks-more-reason-not-to-cut-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "April jobs report shows 115K payroll gains, unemployment rate at 4.3%",
-        "url": "https://www.housingwire.com/articles/april-jobs-report-payrolls/",
-        "what": "April payrolls rose by 115,000 and unemployment held at 4.3%, but revisions cut the three-month average to 48,000.",
-        "numbers": "115,000, 4.3, 48,000.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/april-jobs-report-payrolls/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Mortgage Rates Likely to Hold Steady After April Jobs Report Shows Stronger Hiring, Softer Wages",
         "url": "https://www.redfin.com/news/april-2026-jobs-report/",
         "what": "Takeaway: A mixed bag April jobs report will keep mortgage rates mostly steady as stronger-than-expected hiring lowers recession risk",
@@ -250,6 +223,42 @@
     ],
     "housing": [
       {
+        "title": "Realtor.com operator sees revenue rise 10% in News Corp’s Q3 earnings",
+        "url": "https://www.housingwire.com/articles/move-realtor-com-news-corp-q3-earnings/",
+        "what": "News Corp revenue rose 9% to $2.19B and net income rose 13% to $121M, while Move revenue increased 10% to $148M.",
+        "numbers": "9, $2.19, 13, $121, 10, $148",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/move-realtor-com-news-corp-q3-earnings/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "AI agent aims to reshape how builders screen sites, spot deal risk",
+        "url": "https://www.housingwire.com/articles/ai-agent-land-acquisition/",
+        "what": "Warren Buffett, no stranger to the residential real estate business and to the incalculable role of homebuilding and development within it, is quoted as saying, “Valuing a business",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-agent-land-acquisition/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Poll: Americans want Congress to act on lowering housing costs",
+        "url": "https://www.housingwire.com/articles/bipartisan-policy-center-poll-lower-housing-costs/",
+        "what": "A Bipartisan Policy Center poll of 1,000 registered voters found 83% want Congress to act on housing affordability, while 89% want the House and Senate to pass a bill lowering cost",
+        "numbers": "1,000, 83, 89",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bipartisan-policy-center-poll-lower-housing-costs/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "After pushback, New Hampshire course-corrects pro-housing laws",
+        "url": "https://www.housingwire.com/articles/nh-hb-1010-multifamily-zoning/",
+        "what": "Last year, New Hampshire lawmakers jumped on the bandwagon of state legislatures targeting a worsening housing shortage by mandating that local governments permit multifamily housing in commercially zoned areas",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nh-hb-1010-multifamily-zoning/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Real estate investor Jackie Coffey launches app targeting after-repair values",
         "url": "https://www.housingwire.com/articles/jackie-coffey-real-estate-investor-after-repair-app/",
         "what": "Users can analyze properties, review comparable home sales and estimate after-repair values by entering a U.S",
@@ -259,33 +268,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Q1 2026 earnings for publicly traded mortgage, real estate and homebuilder companies",
-        "url": "https://www.housingwire.com/articles/q1-2026-earnings-mortgage-real-estate-homebuilding/",
-        "what": "As earnings results wrap up for Q1 2026, here's a rundown of what's happened for major lenders, brokerages, homebuilders, listing portals and title firms.",
-        "numbers": "1, 2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/q1-2026-earnings-mortgage-real-estate-homebuilding/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Growth starts with risk: Amy Butler on leadership, culture and scaling success",
-        "url": "https://www.housingwire.com/articles/growth-starts-with-risk-amy-butler-on-leadership-culture-and-scaling-success/",
-        "what": "Amy Butler, EVP of National Sales at Northpointe Bank, shares how stepping outside her comfort zone shaped her leadership approach—and why building strong teams and culture is key",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/growth-starts-with-risk-amy-butler-on-leadership-culture-and-scaling-success/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "CCM raises Two Harbors offer to $12 to fend off UWM",
-        "url": "https://www.housingwire.com/articles/ccm-two-harbors-bid/",
-        "what": "CrossCountry Mortgage (CCM) once again raised its bid for Two Harbors Investment Corp., matching UWM Holdings Corp.’s rival offer.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ccm-two-harbors-bid/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "The Price Point: What $250,000 Buys in These Best Cities for New Grads",
         "url": "https://www.redfin.com/news/the-price-point-what-250000-buys-best-cities-new-college-grads/",
         "what": "In this edition of The Price Point—a weekly series where Redfin data journalists explore current housing inventory across a rotating combination of budgets and metro areas—we’re shifting our focus toward a few of the best cities for new college grads, according to Redfin’s latest report on the subject (conducted in partnership with Glassdoor)",
@@ -293,15 +275,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/the-price-point-what-250000-buys-best-cities-new-college-grads/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Innovation through mortgage advocacy: Why our industry needs to stop treating policy like background noise",
-        "url": "https://www.housingwire.com/articles/mortgage-policy-advocacy-risk/",
-        "what": "California MBA President Paul Gigliotti explains why mortgage advocacy must be part of industry innovation as California considers new emergency relief bills",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-policy-advocacy-risk/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Just Listed in Texas: A $12 Million Lakefront Estate That’s Luxurious Inside and Out",
@@ -333,20 +306,47 @@
     ],
     "notables": [
       {
-        "title": "Blend reports profitable Q1, issues cautious outlook amid macro headwinds",
-        "url": "https://www.housingwire.com/articles/blend-labs-q1-earnings-outlook/",
-        "what": "The company reported non-GAAP operating income of $4.1 million for the quarter ending in March, a significant improvement from $0.7 million during the same period last year.",
-        "numbers": "$4.1 million, $0.7 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/blend-labs-q1-earnings-outlook/",
+        "title": "Huntington & Ellis rolls out Smart by h&e to support agents in deals",
+        "url": "https://www.housingwire.com/articles/smart-by-he-ai-platform/",
+        "what": "Huntington & Ellis launched Smart by h&e, an in-house AI trained on Nevada compliance to support contracts, timelines, and marketing.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/smart-by-he-ai-platform/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "REMAX Q1 financial results show $436M debt, declining revenue",
-        "url": "https://www.housingwire.com/articles/remax-q1-2026-debt-loss/",
-        "what": "REMAX Q1 2026 revenue fell 5.7% to $70.2 million, while its net loss widened to $9.7 million and debt totaled $436 million.",
-        "numbers": "1, 2026, 5.7, $70.2 million, $9.7 million, $436 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/remax-q1-2026-debt-loss/",
+        "title": "Coldwell Banker names Mary Lee Blaylock president of affiliates",
+        "url": "https://www.housingwire.com/articles/blaylock-coldwell-banker-affiliates-president/",
+        "what": "Coldwell Banker names Mary Lee Blaylock president of affiliates, overseeing about 93,000 agents across 50+ countries and territories.",
+        "numbers": "93,000, 50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/blaylock-coldwell-banker-affiliates-president/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Benutech offers predictive analytics suite for agent and loan officer prospecting",
+        "url": "https://www.housingwire.com/articles/benutech-predictive-analytics-real-estate-agent-mortgage-loan-officer/",
+        "what": "Tools aim to help real estate agents and loan officers identify potential home sellers and refinance candidates before they enter the market.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/benutech-predictive-analytics-real-estate-agent-mortgage-loan-officer/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Roomvu expands AI marketing platform for agents",
+        "url": "https://www.housingwire.com/articles/roomvu-expands-ai-marketing-platform-for-agents/",
+        "what": "The company said automation updates are intended to address challenges in maintaining consistent local marketing.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/roomvu-expands-ai-marketing-platform-for-agents/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Does eXp’s NextHome deal signal a new brokerage trend?",
+        "url": "https://www.housingwire.com/articles/exp-buys-nexthome-franchise/",
+        "what": "Experts weigh in on the eXp NextHome acquisition and whether adding franchise operations will work for other brokerages.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-buys-nexthome-franchise/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
