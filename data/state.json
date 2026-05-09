@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-09 21:02 UTC",
+  "as_of": "2026-05-09 23:04 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Positive housing demand leads to inventory almost going negative YOY",
+      "link": "https://www.housingwire.com/articles/positive-housing-demand-leads-to-inventory-almost-going-negative-yoy/",
+      "published": "Sat, 09 May 2026"
+    },
+    {
       "title": "Realtor.com operator sees revenue rise 10% in News Corp’s Q3 earnings",
       "link": "https://www.housingwire.com/articles/move-realtor-com-news-corp-q3-earnings/",
       "published": "Fri, 08 May 2026"
@@ -162,11 +167,6 @@
     {
       "title": "After pushback, New Hampshire course-corrects pro-housing laws",
       "link": "https://www.housingwire.com/articles/nh-hb-1010-multifamily-zoning/",
-      "published": "Fri, 08 May 2026"
-    },
-    {
-      "title": "Coldwell Banker names Mary Lee Blaylock president of affiliates",
-      "link": "https://www.housingwire.com/articles/blaylock-coldwell-banker-affiliates-president/",
       "published": "Fri, 08 May 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Positive housing demand leads to inventory almost going negative YOY",
+        "url": "https://www.housingwire.com/articles/positive-housing-demand-leads-to-inventory-almost-going-negative-yoy/",
+        "what": "Pending sales rose to 79,220 vs 74,212 last year as rates dipped to 6.42% and inventory growth slowed to 1.49% year over year.",
+        "numbers": "79,220, 74,212, 6.42, 1.49",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/positive-housing-demand-leads-to-inventory-almost-going-negative-yoy/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage Rates Likely to Hold Steady After April Jobs Report Shows Stronger Hiring, Softer Wages",
         "url": "https://www.redfin.com/news/april-2026-jobs-report/",
@@ -257,15 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/nh-hb-1010-multifamily-zoning/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Real estate investor Jackie Coffey launches app targeting after-repair values",
-        "url": "https://www.housingwire.com/articles/jackie-coffey-real-estate-investor-after-repair-app/",
-        "what": "Users can analyze properties, review comparable home sales and estimate after-repair values by entering a U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/jackie-coffey-real-estate-investor-after-repair-app/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "The Price Point: What $250,000 Buys in These Best Cities for New Grads",
