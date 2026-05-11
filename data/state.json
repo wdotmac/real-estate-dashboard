@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-11 18:04 UTC",
+  "as_of": "2026-05-11 20:03 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Policy uncertainty takes center stage as AMH reports revenue gains",
+      "link": "https://www.housingwire.com/articles/amh-reports-revenue-gains-q1-2026/",
+      "published": "Mon, 11 May 2026"
+    },
+    {
+      "title": "Bright MLS launches Bright Promote ad tool in listing platform",
+      "link": "https://www.housingwire.com/articles/bright-promote-listing-ads/",
+      "published": "Mon, 11 May 2026"
+    },
+    {
+      "title": "PropLogix releases sales outreach tool for title companies",
+      "link": "https://www.housingwire.com/articles/proplogix-releases-sales-outreach-tool-for-title-companies/",
+      "published": "Mon, 11 May 2026"
+    },
+    {
+      "title": "Equity-rich home share falls to lowest level since 2021",
+      "link": "https://www.housingwire.com/articles/equity-rich-home-share-falls-to-lowest-level-since-2021/",
+      "published": "Mon, 11 May 2026"
+    },
+    {
+      "title": "CEO Kaz Nejatian says Opendoor has fixed its ‘fatal flaw’",
+      "link": "https://www.housingwire.com/articles/opendoor-resale-velocity-loss/",
+      "published": "Mon, 11 May 2026"
+    },
+    {
       "title": "eXp’s next act: ‘Maximum optionality’ for agents and brokers says Leo Pareja",
       "link": "https://www.housingwire.com/articles/exps-next-act-maximum-optionality-for-agents-and-brokers-says-leo-pareja/",
-      "published": "Mon, 11 May 2026"
-    },
-    {
-      "title": "Kim Hoffman on leadership, AI and pushing beyond self-imposed limits",
-      "link": "https://www.housingwire.com/articles/kim-hoffman-on-leadership-ai-and-pushing-beyond-self-imposed-limits/",
-      "published": "Mon, 11 May 2026"
-    },
-    {
-      "title": "UWM controlling shareholder stops structured stock sales",
-      "link": "https://www.housingwire.com/articles/uwmc-float-sfs-plan/",
-      "published": "Mon, 11 May 2026"
-    },
-    {
-      "title": "Existing home sales rise 0.2% in April as inventory grows",
-      "link": "https://www.housingwire.com/articles/april-existing-home-sales-inventory/",
-      "published": "Mon, 11 May 2026"
-    },
-    {
-      "title": "loanDepot seeks flexibility to raise capital through $250M shelf filing",
-      "link": "https://www.housingwire.com/articles/loandepot-250m-shelf-registration/",
-      "published": "Mon, 11 May 2026"
-    },
-    {
-      "title": "Blackstone unveils lending platform to fill builders’ financing gap",
-      "link": "https://www.housingwire.com/articles/blackstone-homebuilder-lending-platform/",
       "published": "Mon, 11 May 2026"
     },
     {
@@ -203,24 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Homebuilder consolidation heats up with Dream Finders bid",
-        "url": "https://www.housingwire.com/articles/homebuilder-ma-consolidation/",
-        "what": "Dream Finders Homes’ now-public pursuit of Beazer Homes – after two previously rejected private offers – is a headline-grabbing hostile bid",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-ma-consolidation/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Judge denies motion to dismiss Zillow-Redfin FTC lawsuit",
-        "url": "https://www.housingwire.com/articles/zillow-redfin-ftc-lawsuit-2/",
-        "what": "A Virginia federal judge denied Zillow and Redfin’s motion to dismiss the FTC antitrust suit over a $100M rentals agreement.",
-        "numbers": "$100",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-redfin-ftc-lawsuit-2/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Launches Sunscore to Show Exactly How Much Sunlight Homes Get",
         "url": "https://www.redfin.com/news/redfin-launches-sunscore-to-show-exactly-how-much-sunlight-homes-get/",
         "what": "This 0-100 score is available exclusively on Redfin.com and helps home searchers easily understand property-level sun exposure",
@@ -241,6 +223,15 @@
     ],
     "housing": [
       {
+        "title": "Policy uncertainty takes center stage as AMH reports revenue gains",
+        "url": "https://www.housingwire.com/articles/amh-reports-revenue-gains-q1-2026/",
+        "what": "AMH reported record spring leasing activity, 2.8% year-over-year revenue growth, and 95.1% occupied days in Q1 2026",
+        "numbers": "2.8, 95.1, 1, 2026., 901, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/amh-reports-revenue-gains-q1-2026/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Kim Hoffman on leadership, AI and pushing beyond self-imposed limits",
         "url": "https://www.housingwire.com/articles/kim-hoffman-on-leadership-ai-and-pushing-beyond-self-imposed-limits/",
         "what": "Kim Hoffman, President of Mortgage Connect Risk Solutions and a multi-year Women of Influence honoree, shares how risk-taking, curiosity and a fearless mindset shaped her 40-year career in mortgage leadership",
@@ -257,24 +248,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/april-existing-home-sales-inventory/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Blackstone unveils lending platform to fill builders’ financing gap",
-        "url": "https://www.housingwire.com/articles/blackstone-homebuilder-lending-platform/",
-        "what": "Blackstone Real Estate Debt Strategies launched a U.S",
-        "numbers": "50,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/blackstone-homebuilder-lending-platform/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "UWM boosts cash bid for TWO to $12.50 per share, topping CCM offer",
-        "url": "https://www.housingwire.com/articles/uwmc-two-harbors-bid-12-50/",
-        "what": "UWM Holdings Corp",
-        "numbers": "$12.50, 2.3328",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwmc-two-harbors-bid-12-50/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Redfin Survey: U.S. Residents Prioritize Sunlight Over Home Size—and It Affects How Happy They Are at Home",
@@ -315,6 +288,42 @@
     ],
     "notables": [
       {
+        "title": "Bright MLS launches Bright Promote ad tool in listing platform",
+        "url": "https://www.housingwire.com/articles/bright-promote-listing-ads/",
+        "what": "Bright MLS launched Bright Promote, letting agents run Facebook, Instagram and mail campaigns in-platform with budgets and insights.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bright-promote-listing-ads/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "PropLogix releases sales outreach tool for title companies",
+        "url": "https://www.housingwire.com/articles/proplogix-releases-sales-outreach-tool-for-title-companies/",
+        "what": "The platform monitors listing activity, evaluates context around transactions and helps trigger personalized outreach opportunities.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/proplogix-releases-sales-outreach-tool-for-title-companies/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Equity-rich home share falls to lowest level since 2021",
+        "url": "https://www.housingwire.com/articles/equity-rich-home-share-falls-to-lowest-level-since-2021/",
+        "what": "The Q1 share of equity-rich homes rose in only three states from the fourth quarter of 2025 and in six states from a year earlier.",
+        "numbers": "1, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/equity-rich-home-share-falls-to-lowest-level-since-2021/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "CEO Kaz Nejatian says Opendoor has fixed its ‘fatal flaw’",
+        "url": "https://www.housingwire.com/articles/opendoor-resale-velocity-loss/",
+        "what": "Opendoor reported $720 million Q1 2026 revenue and a $173 million net loss, while claiming faster resales and better cohort stability.",
+        "numbers": "$720 million, 1, 2026, $173 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-resale-velocity-loss/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "eXp’s next act: ‘Maximum optionality’ for agents and brokers says Leo Pareja",
         "url": "https://www.housingwire.com/articles/exps-next-act-maximum-optionality-for-agents-and-brokers-says-leo-pareja/",
         "what": "The company reported first quarter revenue of $1.0 billion, up 5% year-over-year, while adjusted EBITDA rose 88% to $4.1 million.",
@@ -338,15 +347,6 @@
         "what": "loanDepot has filed a $250 million shelf registration statement, giving the company flexibility to issue a range of securities over time to raise capital, according to a filing wit",
         "numbers": "$250 million",
         "justified": "housingwire.com — https://www.housingwire.com/articles/loandepot-250m-shelf-registration/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Longbridge sets Q1 record, surpasses its 2025 full-year profit",
-        "url": "https://www.housingwire.com/articles/longbridge-record-quarter/",
-        "what": "Ellington Financial's reverse subsidiary, Longbridge Financial, reported $57.5 million Q1 net income, exceeding its 2025 full-year total.",
-        "numbers": "$57.5 million, 1, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/longbridge-record-quarter/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
