@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-05-11 20:03 UTC",
+  "as_of": "2026-05-11 21:41 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.41,
-      "delta_bp_1d": 4.999999999999982
+      "yield_pct": 4.38,
+      "delta_bp_1d": -3.000000000000025
     },
     "mortgage_30y": {
       "rate_pct": 6.37,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Greg Hague of 72SOLD on why ‘private’ listings will save our industry",
+      "link": "https://www.housingwire.com/articles/greg-hague-of-72sold-on-why-private-listings-will-save-our-industry/",
+      "published": "Mon, 11 May 2026"
+    },
+    {
+      "title": "Inventory growth making housing more affordable",
+      "link": "https://www.housingwire.com/articles/inventory-growth-making-housing-more-affordable/",
+      "published": "Mon, 11 May 2026"
+    },
+    {
       "title": "Policy uncertainty takes center stage as AMH reports revenue gains",
       "link": "https://www.housingwire.com/articles/amh-reports-revenue-gains-q1-2026/",
       "published": "Mon, 11 May 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Equity-rich home share falls to lowest level since 2021",
       "link": "https://www.housingwire.com/articles/equity-rich-home-share-falls-to-lowest-level-since-2021/",
-      "published": "Mon, 11 May 2026"
-    },
-    {
-      "title": "CEO Kaz Nejatian says Opendoor has fixed its ‘fatal flaw’",
-      "link": "https://www.housingwire.com/articles/opendoor-resale-velocity-loss/",
-      "published": "Mon, 11 May 2026"
-    },
-    {
-      "title": "eXp’s next act: ‘Maximum optionality’ for agents and brokers says Leo Pareja",
-      "link": "https://www.housingwire.com/articles/exps-next-act-maximum-optionality-for-agents-and-brokers-says-leo-pareja/",
       "published": "Mon, 11 May 2026"
     },
     {
@@ -223,6 +223,24 @@
     ],
     "housing": [
       {
+        "title": "Greg Hague of 72SOLD on why ‘private’ listings will save our industry",
+        "url": "https://www.housingwire.com/articles/greg-hague-of-72sold-on-why-private-listings-will-save-our-industry/",
+        "what": "Greg Hague says state regulators handle fair housing, and argues private listings do not require MLS policing of agents.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/greg-hague-of-72sold-on-why-private-listings-will-save-our-industry/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Inventory growth making housing more affordable",
+        "url": "https://www.housingwire.com/articles/inventory-growth-making-housing-more-affordable/",
+        "what": "With inventory at multiyear highs, NAR prices are up 0.9% year over year versus 3.6% wage growth, easing affordability pressure.",
+        "numbers": "0.9, 3.6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/inventory-growth-making-housing-more-affordable/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Policy uncertainty takes center stage as AMH reports revenue gains",
         "url": "https://www.housingwire.com/articles/amh-reports-revenue-gains-q1-2026/",
         "what": "AMH reported record spring leasing activity, 2.8% year-over-year revenue growth, and 95.1% occupied days in Q1 2026",
@@ -239,15 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/kim-hoffman-on-leadership-ai-and-pushing-beyond-self-imposed-limits/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Existing home sales rise 0.2% in April as inventory grows",
-        "url": "https://www.housingwire.com/articles/april-existing-home-sales-inventory/",
-        "what": "April existing home sales rose 0.2% to 4.02 million, inventory grew to 1.47 million and the median price increased 0.9% to $417,700.",
-        "numbers": "0.2, 4.02 million, 1.47 million, 0.9, $417,700.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/april-existing-home-sales-inventory/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "Redfin Survey: U.S. Residents Prioritize Sunlight Over Home Size—and It Affects How Happy They Are at Home",
@@ -338,15 +347,6 @@
         "what": "Mat Ishbia’s effort to expand the public float and trading liquidity of UWM Holdings Corporation has come to an end as the company pursues its acquisition of Two Harbors Investment",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/uwmc-float-sfs-plan/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "loanDepot seeks flexibility to raise capital through $250M shelf filing",
-        "url": "https://www.housingwire.com/articles/loandepot-250m-shelf-registration/",
-        "what": "loanDepot has filed a $250 million shelf registration statement, giving the company flexibility to issue a range of securities over time to raise capital, according to a filing wit",
-        "numbers": "$250 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/loandepot-250m-shelf-registration/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
