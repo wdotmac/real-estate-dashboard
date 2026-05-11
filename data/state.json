@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-11 04:36 UTC",
+  "as_of": "2026-05-11 08:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Opinion: The CDFI Fund cut is the wrong answer to a real question",
+      "link": "https://www.housingwire.com/articles/cdfi-fund-cut-wrong-answer/",
+      "published": "Mon, 11 May 2026"
+    },
+    {
+      "title": "The new age of smart security: Top builder technology trends reshaping home safety",
+      "link": "https://www.housingwire.com/articles/the-new-age-of-smart-security-top-builder-technology-trends-reshaping-home-safety/",
+      "published": "Mon, 11 May 2026"
+    },
+    {
+      "title": "The next phase of AI in homebuilding starts with connected data",
+      "link": "https://www.housingwire.com/articles/ai-homebuilding-connected-data/",
+      "published": "Mon, 11 May 2026"
+    },
+    {
       "title": "Positive housing demand leads to inventory almost going negative YOY",
       "link": "https://www.housingwire.com/articles/positive-housing-demand-leads-to-inventory-almost-going-negative-yoy/",
       "published": "Sat, 09 May 2026"
@@ -152,21 +167,6 @@
     {
       "title": "AI agent aims to reshape how builders screen sites, spot deal risk",
       "link": "https://www.housingwire.com/articles/ai-agent-land-acquisition/",
-      "published": "Fri, 08 May 2026"
-    },
-    {
-      "title": "Poll: Americans want Congress to act on lowering housing costs",
-      "link": "https://www.housingwire.com/articles/bipartisan-policy-center-poll-lower-housing-costs/",
-      "published": "Fri, 08 May 2026"
-    },
-    {
-      "title": "Huntington & Ellis rolls out Smart by h&e to support agents in deals",
-      "link": "https://www.housingwire.com/articles/smart-by-he-ai-platform/",
-      "published": "Fri, 08 May 2026"
-    },
-    {
-      "title": "After pushback, New Hampshire course-corrects pro-housing laws",
-      "link": "https://www.housingwire.com/articles/nh-hb-1010-multifamily-zoning/",
       "published": "Fri, 08 May 2026"
     },
     {
@@ -231,6 +231,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "The new age of smart security: Top builder technology trends reshaping home safety",
+        "url": "https://www.housingwire.com/articles/the-new-age-of-smart-security-top-builder-technology-trends-reshaping-home-safety/",
+        "what": "When I started in the security technology industry two decades ago, we were selling VCRs with tape-based recording systems that lasted less than a week before you had to swap out the cassette and write on it with a marker",
+        "numbers": "23",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-new-age-of-smart-security-top-builder-technology-trends-reshaping-home-safety/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "The next phase of AI in homebuilding starts with connected data",
+        "url": "https://www.housingwire.com/articles/ai-homebuilding-connected-data/",
+        "what": "Builders face rising costs and inefficiencies, making connected workflows and centralized data essential in 2026.",
+        "numbers": "2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-homebuilding-connected-data/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "Realtor.com operator sees revenue rise 10% in News Corp’s Q3 earnings",
         "url": "https://www.housingwire.com/articles/move-realtor-com-news-corp-q3-earnings/",
@@ -306,6 +324,15 @@
     ],
     "notables": [
       {
+        "title": "Opinion: The CDFI Fund cut is the wrong answer to a real question",
+        "url": "https://www.housingwire.com/articles/cdfi-fund-cut-wrong-answer/",
+        "what": "Administration proposes a 63% cut to the CDFI Fund for FY27, reducing funding from $324M to $119.5M and limiting capacity.",
+        "numbers": "63, 27,, $324, $119.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cdfi-fund-cut-wrong-answer/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Huntington & Ellis rolls out Smart by h&e to support agents in deals",
         "url": "https://www.housingwire.com/articles/smart-by-he-ai-platform/",
         "what": "Huntington & Ellis launched Smart by h&e, an in-house AI trained on Nevada compliance to support contracts, timelines, and marketing.",
@@ -320,33 +347,6 @@
         "what": "Coldwell Banker names Mary Lee Blaylock president of affiliates, overseeing about 93,000 agents across 50+ countries and territories.",
         "numbers": "93,000, 50",
         "justified": "housingwire.com — https://www.housingwire.com/articles/blaylock-coldwell-banker-affiliates-president/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Benutech offers predictive analytics suite for agent and loan officer prospecting",
-        "url": "https://www.housingwire.com/articles/benutech-predictive-analytics-real-estate-agent-mortgage-loan-officer/",
-        "what": "Tools aim to help real estate agents and loan officers identify potential home sellers and refinance candidates before they enter the market.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/benutech-predictive-analytics-real-estate-agent-mortgage-loan-officer/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Roomvu expands AI marketing platform for agents",
-        "url": "https://www.housingwire.com/articles/roomvu-expands-ai-marketing-platform-for-agents/",
-        "what": "The company said automation updates are intended to address challenges in maintaining consistent local marketing.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/roomvu-expands-ai-marketing-platform-for-agents/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Does eXp’s NextHome deal signal a new brokerage trend?",
-        "url": "https://www.housingwire.com/articles/exp-buys-nexthome-franchise/",
-        "what": "Experts weigh in on the eXp NextHome acquisition and whether adding franchise operations will work for other brokerages.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-buys-nexthome-franchise/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
