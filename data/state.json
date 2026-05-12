@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-05-12 12:17 UTC",
+  "as_of": "2026-05-12 20:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.38,
-      "delta_bp_1d": -3.000000000000025
+      "yield_pct": 4.42,
+      "delta_bp_1d": 4.0000000000000036
     },
     "mortgage_30y": {
       "rate_pct": 6.37,
@@ -140,34 +140,44 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Cotality launches Broker Listing Exchange with KW, HomeServices",
-      "link": "https://www.housingwire.com/articles/cotality-blx-listing-exchange/",
+      "title": "Broker Public Portal, RPR bring valuation data to Cribio platform",
+      "link": "https://www.housingwire.com/articles/broker-public-portal-rpr-bring-valuation-data-to-cribio-platform/",
       "published": "Tue, 12 May 2026"
     },
     {
-      "title": "What lenders are really saying about efficiency in 2026",
-      "link": "https://www.housingwire.com/articles/what-lenders-are-really-saying-about-efficiency-in-2026/",
+      "title": "Ivory Prize honors solutions in a higher rate, higher risk backdrop",
+      "link": "https://www.housingwire.com/articles/ivory-prize-honors-solutions-in-a-higher-rate-higher-risk-backdrop/",
       "published": "Tue, 12 May 2026"
     },
     {
-      "title": "Greg Hague of 72SOLD on why ‘private’ listings will save our industry",
-      "link": "https://www.housingwire.com/articles/greg-hague-of-72sold-on-why-private-listings-will-save-our-industry/",
-      "published": "Mon, 11 May 2026"
+      "title": "Supreme Lending brings on $100M Lasso Lending team in Houston",
+      "link": "https://www.housingwire.com/articles/supreme-lending-lasso-lending-team/",
+      "published": "Tue, 12 May 2026"
     },
     {
-      "title": "Inventory growth making housing more affordable",
-      "link": "https://www.housingwire.com/articles/inventory-growth-making-housing-more-affordable/",
-      "published": "Mon, 11 May 2026"
+      "title": "Real estate’s consolidation math has changed. The industry hasn’t caught up.",
+      "link": "https://www.housingwire.com/articles/brokerage-consolidation-lead-routing/",
+      "published": "Tue, 12 May 2026"
     },
     {
-      "title": "Policy uncertainty takes center stage as AMH reports revenue gains",
-      "link": "https://www.housingwire.com/articles/amh-reports-revenue-gains-q1-2026/",
-      "published": "Mon, 11 May 2026"
+      "title": "Mortgage Connect noncompete agreement ruled unenforceable by Pennsylvania judge",
+      "link": "https://www.housingwire.com/articles/mortgage-connect-noncompete-unenforceable/",
+      "published": "Tue, 12 May 2026"
     },
     {
-      "title": "Bright MLS launches Bright Promote ad tool in listing platform",
-      "link": "https://www.housingwire.com/articles/bright-promote-listing-ads/",
-      "published": "Mon, 11 May 2026"
+      "title": "Sagent unveils Dara platform’s new AI capabilities at Ignite",
+      "link": "https://www.housingwire.com/articles/sagent-ai-dara-servicing/",
+      "published": "Tue, 12 May 2026"
+    },
+    {
+      "title": "Fed in Wait-and-See Mode on Hot Inflation Report; Mortgage Rates to Track Oil Prices, Mideast Talks",
+      "link": "https://www.redfin.com/news/cpi-april-2026/",
+      "published": "Tue, 12 May 2026"
+    },
+    {
+      "title": "America’s Housing Market Favors Buyers—But Their Advantage Is Finally Starting to Shrink",
+      "link": "https://www.redfin.com/news/buyers-vs-sellers-april-2026/",
+      "published": "Tue, 12 May 2026"
     },
     {
       "title": "Home Prices Posted the Biggest Increase in Over a Year in April",
@@ -188,20 +198,46 @@
       "title": "Redfin Survey: U.S. Residents Prioritize Sunlight Over Home Size—and It Affects How Happy They Are at Home",
       "link": "https://www.redfin.com/news/sunlight-home-satisfaction-2026/",
       "published": "Mon, 11 May 2026"
-    },
-    {
-      "title": "Redfin Launches Sunscore to Show Exactly How Much Sunlight Homes Get",
-      "link": "https://www.redfin.com/news/redfin-launches-sunscore-to-show-exactly-how-much-sunlight-homes-get/",
-      "published": "Mon, 11 May 2026"
-    },
-    {
-      "title": "Mortgage Rates Likely to Hold Steady After April Jobs Report Shows Stronger Hiring, Softer Wages",
-      "link": "https://www.redfin.com/news/april-2026-jobs-report/",
-      "published": "Fri, 08 May 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Ivory Prize honors solutions in a higher rate, higher risk backdrop",
+        "url": "https://www.housingwire.com/articles/ivory-prize-honors-solutions-in-a-higher-rate-higher-risk-backdrop/",
+        "what": "The affordability crisis in American housing demands more invention, more experimentation and more scalable models to break through the chronic chokeholds of economic, building-technology, and political will",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ivory-prize-honors-solutions-in-a-higher-rate-higher-risk-backdrop/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Big mortgage lenders stay profitable, but cracks emerge as rates climb",
+        "url": "https://www.housingwire.com/articles/mortgage-earnings-q2-2026-outlook/",
+        "what": "A consistent theme emerged from the latest mortgage earnings season: higher interest rates and macroeconomic volatility are dampening second-quarter expectations.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-earnings-q2-2026-outlook/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Inflation is rising, but mortgage spreads have kept rates under 7%",
+        "url": "https://www.housingwire.com/articles/inflation-is-rising-but-mortgage-spreads-have-kept-rates-under-7/",
+        "what": "CPI rose 0.6% in April and inflation is 3.8%, but a 1.96% spread helps keep mortgage rates near 6.52% not 7%+.",
+        "numbers": "0.6, 3.8, 1.96, 6.52, 7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/inflation-is-rising-but-mortgage-spreads-have-kept-rates-under-7/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Fed in Wait-and-See Mode on Hot Inflation Report; Mortgage Rates to Track Oil Prices, Mideast Talks",
+        "url": "https://www.redfin.com/news/cpi-april-2026/",
+        "what": "Takeaway: A slightly hotter than expected CPI report will keep the Fed on hold and may push officials slightly closer to considering hikes",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/cpi-april-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage Rates May Swing This Week As Markets Watch Inflation and Iran Developments",
         "url": "https://www.redfin.com/news/weekly-economic-update-may-11-2026/",
@@ -210,27 +246,45 @@
         "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-may-11-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      }
+    ],
+    "housing": [
+      {
+        "title": "Real estate’s consolidation math has changed. The industry hasn’t caught up.",
+        "url": "https://www.housingwire.com/articles/brokerage-consolidation-lead-routing/",
+        "what": "Compass, Anywhere, Real, REMAX, and eXp deals signal platform consolidation, shifting lead routing, retention and embedded mortgage.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/brokerage-consolidation-lead-routing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Redfin Launches Sunscore to Show Exactly How Much Sunlight Homes Get",
-        "url": "https://www.redfin.com/news/redfin-launches-sunscore-to-show-exactly-how-much-sunlight-homes-get/",
-        "what": "This 0-100 score is available exclusively on Redfin.com and helps home searchers easily understand property-level sun exposure",
-        "numbers": "0, 100",
-        "justified": "redfin.com — https://www.redfin.com/news/redfin-launches-sunscore-to-show-exactly-how-much-sunlight-homes-get/",
+        "title": "Mortgage Connect noncompete agreement ruled unenforceable by Pennsylvania judge",
+        "url": "https://www.housingwire.com/articles/mortgage-connect-noncompete-unenforceable/",
+        "what": "A Pennsylvania judge voided Mortgage Connect’s noncompete contract as overly broad as the FTC warned against restrictive covenants.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-connect-noncompete-unenforceable/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Zillow alleges MRED, Compass conspired over private listings",
+        "url": "https://www.housingwire.com/articles/zillow-mred-compass-lawsuit/",
+        "what": "Zillow filed a Sherman Act suit, claiming MRED used Chicagoland MLS data leverage to force Compass private listings onto Zillow.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-mred-compass-lawsuit/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Mortgage Rates Likely to Hold Steady After April Jobs Report Shows Stronger Hiring, Softer Wages",
-        "url": "https://www.redfin.com/news/april-2026-jobs-report/",
-        "what": "Takeaway: A mixed bag April jobs report will keep mortgage rates mostly steady as stronger-than-expected hiring lowers recession risk",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/april-2026-jobs-report/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      }
-    ],
-    "housing": [
+        "title": "America’s Housing Market Favors Buyers—But Their Advantage Is Finally Starting to Shrink",
+        "url": "https://www.redfin.com/news/buyers-vs-sellers-april-2026/",
+        "what": "There were an estimated 47% more sellers than buyers in April, down from 48% the month before and a peak of 49% at the end of last year",
+        "numbers": "47, 48, 49",
+        "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-april-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Home Prices Posted the Biggest Increase in Over a Year in April",
         "url": "https://www.redfin.com/news/home-prices-rise-april-2026/",
@@ -250,42 +304,6 @@
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
-        "title": "What lenders are really saying about efficiency in 2026",
-        "url": "https://www.housingwire.com/articles/what-lenders-are-really-saying-about-efficiency-in-2026/",
-        "what": "If you want to understand where the mortgage industry is headed, spend a few days listening to lenders at gatherings like ICE Experience, HousingWire’s The Gathering or Texas MBA’s annual convention when they are not presenting, not pitching and not on panels",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/what-lenders-are-really-saying-about-efficiency-in-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Greg Hague of 72SOLD on why ‘private’ listings will save our industry",
-        "url": "https://www.housingwire.com/articles/greg-hague-of-72sold-on-why-private-listings-will-save-our-industry/",
-        "what": "Greg Hague says state regulators handle fair housing, and argues private listings do not require MLS policing of agents.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/greg-hague-of-72sold-on-why-private-listings-will-save-our-industry/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Inventory growth making housing more affordable",
-        "url": "https://www.housingwire.com/articles/inventory-growth-making-housing-more-affordable/",
-        "what": "With inventory at multiyear highs, NAR prices are up 0.9% year over year versus 3.6% wage growth, easing affordability pressure.",
-        "numbers": "0.9, 3.6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/inventory-growth-making-housing-more-affordable/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Policy uncertainty takes center stage as AMH reports revenue gains",
-        "url": "https://www.housingwire.com/articles/amh-reports-revenue-gains-q1-2026/",
-        "what": "AMH reported record spring leasing activity, 2.8% year-over-year revenue growth, and 95.1% occupied days in Q1 2026",
-        "numbers": "2.8, 95.1, 1, 2026., 901, 2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/amh-reports-revenue-gains-q1-2026/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Redfin Survey: U.S. Residents Prioritize Sunlight Over Home Size—and It Affects How Happy They Are at Home",
         "url": "https://www.redfin.com/news/sunlight-home-satisfaction-2026/",
         "what": "Close to half (44%) of U.S",
@@ -297,56 +315,38 @@
     ],
     "notables": [
       {
-        "title": "Cotality launches Broker Listing Exchange with KW, HomeServices",
-        "url": "https://www.housingwire.com/articles/cotality-blx-listing-exchange/",
-        "what": "Cotality launches BLX with Keller Williams and HomeServices, aiming to centralize listing entry and control MLS and portal syndication.",
+        "title": "Broker Public Portal, RPR bring valuation data to Cribio platform",
+        "url": "https://www.housingwire.com/articles/broker-public-portal-rpr-bring-valuation-data-to-cribio-platform/",
+        "what": "Broker Public Portal and Realtors Property Resource (RPR) have formed a new collaboration that will integrate RPR’s Realtors Valuation Model.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cotality-blx-listing-exchange/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/broker-public-portal-rpr-bring-valuation-data-to-cribio-platform/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Bright MLS launches Bright Promote ad tool in listing platform",
-        "url": "https://www.housingwire.com/articles/bright-promote-listing-ads/",
-        "what": "Bright MLS launched Bright Promote, letting agents run Facebook, Instagram and mail campaigns in-platform with budgets and insights.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bright-promote-listing-ads/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "PropLogix releases sales outreach tool for title companies",
-        "url": "https://www.housingwire.com/articles/proplogix-releases-sales-outreach-tool-for-title-companies/",
-        "what": "The platform monitors listing activity, evaluates context around transactions and helps trigger personalized outreach opportunities.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/proplogix-releases-sales-outreach-tool-for-title-companies/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Equity-rich home share falls to lowest level since 2021",
-        "url": "https://www.housingwire.com/articles/equity-rich-home-share-falls-to-lowest-level-since-2021/",
-        "what": "The Q1 share of equity-rich homes rose in only three states from the fourth quarter of 2025 and in six states from a year earlier.",
-        "numbers": "1, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/equity-rich-home-share-falls-to-lowest-level-since-2021/",
+        "title": "Supreme Lending brings on $100M Lasso Lending team in Houston",
+        "url": "https://www.housingwire.com/articles/supreme-lending-lasso-lending-team/",
+        "what": "Supreme Lending hired Austin Baker’s Houston team, operating as Lasso Lending, bringing $100 million-plus in annual loan production.",
+        "numbers": "$100 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/supreme-lending-lasso-lending-team/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "CEO Kaz Nejatian says Opendoor has fixed its ‘fatal flaw’",
-        "url": "https://www.housingwire.com/articles/opendoor-resale-velocity-loss/",
-        "what": "Opendoor reported $720 million Q1 2026 revenue and a $173 million net loss, while claiming faster resales and better cohort stability.",
-        "numbers": "$720 million, 1, 2026, $173 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-resale-velocity-loss/",
+        "title": "Sagent unveils Dara platform’s new AI capabilities at Ignite",
+        "url": "https://www.housingwire.com/articles/sagent-ai-dara-servicing/",
+        "what": "Sagent unveiled Dara AI tools at Ignite",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/sagent-ai-dara-servicing/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "eXp’s next act: ‘Maximum optionality’ for agents and brokers says Leo Pareja",
-        "url": "https://www.housingwire.com/articles/exps-next-act-maximum-optionality-for-agents-and-brokers-says-leo-pareja/",
-        "what": "The company reported first quarter revenue of $1.0 billion, up 5% year-over-year, while adjusted EBITDA rose 88% to $4.1 million.",
-        "numbers": "$1.0 billion, 5, 88, $4.1 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/exps-next-act-maximum-optionality-for-agents-and-brokers-says-leo-pareja/",
+        "title": "LiveBy aims to close neighborhood data gap in real estate tech",
+        "url": "https://www.housingwire.com/articles/liveby-aims-to-close-neighborhood-data-gap-in-real-estate-tech/",
+        "what": "The integration aims to fuel more localized home search experiences powered by neighborhood, school district and demographic information.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/liveby-aims-to-close-neighborhood-data-gap-in-real-estate-tech/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
