@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-13 10:42 UTC",
+  "as_of": "2026-05-13 13:28 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage demand rises 1.7% even as rates reach five-week peak",
+      "link": "https://www.housingwire.com/articles/mba-applications-rise-mba-may-8/",
+      "published": "Wed, 13 May 2026"
+    },
+    {
       "title": "From addiction to advocacy: How the mortgage industry gave me a second chance",
       "link": "https://www.housingwire.com/articles/from-addiction-to-advocacy-how-the-mortgage-industry-gave-me-a-second-chance/",
       "published": "Wed, 13 May 2026"
@@ -165,9 +170,9 @@
       "published": "Tue, 12 May 2026"
     },
     {
-      "title": "Broker Public Portal, RPR bring valuation data to Cribio platform",
-      "link": "https://www.housingwire.com/articles/broker-public-portal-rpr-bring-valuation-data-to-cribio-platform/",
-      "published": "Tue, 12 May 2026"
+      "title": "$60 Million Montecito Mansion Tops List of April’s Priciest Home Sales",
+      "link": "https://www.redfin.com/news/most-expensive-home-sales-april-2026/",
+      "published": "Wed, 13 May 2026"
     },
     {
       "title": "Fed in Wait-and-See Mode on Hot Inflation Report; Mortgage Rates to Track Oil Prices, Mideast Talks",
@@ -193,15 +198,19 @@
       "title": "Mortgage Rates May Swing This Week As Markets Watch Inflation and Iran Developments",
       "link": "https://www.redfin.com/news/weekly-economic-update-may-11-2026/",
       "published": "Mon, 11 May 2026"
-    },
-    {
-      "title": "Redfin Survey: U.S. Residents Prioritize Sunlight Over Home Size—and It Affects How Happy They Are at Home",
-      "link": "https://www.redfin.com/news/sunlight-home-satisfaction-2026/",
-      "published": "Mon, 11 May 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage demand rises 1.7% even as rates reach five-week peak",
+        "url": "https://www.housingwire.com/articles/mba-applications-rise-mba-may-8/",
+        "what": "Mortgage applications rose 1.7% in MBA’s weekly survey as purchase demand climbed 4% and the 30-year fixed rate increased to 6.46%.",
+        "numbers": "1.7, 4, 30, 6.46",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-applications-rise-mba-may-8/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Ivory Prize honors solutions in a higher rate, higher risk backdrop",
         "url": "https://www.housingwire.com/articles/ivory-prize-honors-solutions-in-a-higher-rate-higher-risk-backdrop/",
@@ -231,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "$60 Million Montecito Mansion Tops List of April’s Priciest Home Sales",
+        "url": "https://www.redfin.com/news/most-expensive-home-sales-april-2026/",
+        "what": "Bruce Willis’ former Beverly Hills home and a mountain retreat in Vail are also among April’s most expensive home sales",
+        "numbers": "$60 million, 2, 3",
+        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-april-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "From addiction to advocacy: How the mortgage industry gave me a second chance",
         "url": "https://www.housingwire.com/articles/from-addiction-to-advocacy-how-the-mortgage-industry-gave-me-a-second-chance/",
@@ -277,15 +295,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage Connect noncompete agreement ruled unenforceable by Pennsylvania judge",
-        "url": "https://www.housingwire.com/articles/mortgage-connect-noncompete-unenforceable/",
-        "what": "A Pennsylvania judge voided Mortgage Connect’s noncompete contract as overly broad as the FTC warned against restrictive covenants.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-connect-noncompete-unenforceable/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "America’s Housing Market Favors Buyers—But Their Advantage Is Finally Starting to Shrink",
         "url": "https://www.redfin.com/news/buyers-vs-sellers-april-2026/",
         "what": "There were an estimated 47% more sellers than buyers in April, down from 48% the month before and a peak of 49% at the end of last year",
@@ -311,15 +320,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/new-redfin-data-center/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Redfin Survey: U.S. Residents Prioritize Sunlight Over Home Size—and It Affects How Happy They Are at Home",
-        "url": "https://www.redfin.com/news/sunlight-home-satisfaction-2026/",
-        "what": "Close to half (44%) of U.S",
-        "numbers": "44, 24, 54, 57, 1, 10",
-        "justified": "redfin.com — https://www.redfin.com/news/sunlight-home-satisfaction-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
