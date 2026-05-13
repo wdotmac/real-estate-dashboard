@@ -1,9 +1,9 @@
 {
-  "as_of": "2026-05-13 19:05 UTC",
+  "as_of": "2026-05-13 22:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.42,
+      "yield_pct": 4.46,
       "delta_bp_1d": 4.0000000000000036
     },
     "mortgage_30y": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Kevin Warsh confirmed as Fed chair as mortgage lenders look for stability",
-      "link": "https://www.housingwire.com/articles/kevin-warsh-fed-chair-confirmed/",
+      "title": "Housing demand is concentrating where affordability still works",
+      "link": "https://www.housingwire.com/articles/housing-demand-pricing-alignment-transaction-viability/",
       "published": "Wed, 13 May 2026"
     },
     {
-      "title": "With a permit shot clock, Georgia builders gain leverage",
-      "link": "https://www.housingwire.com/articles/georgia-permit-shot-clock/",
+      "title": "Seth Ring elevated to president and COO at Toll Brothers",
+      "link": "https://www.housingwire.com/articles/toll-brothers-seth-ring-president-coo-leadership-succession/",
       "published": "Wed, 13 May 2026"
     },
     {
-      "title": "Zillow lawsuit sparks LinkedIn debate over listings transparency, control",
-      "link": "https://www.housingwire.com/articles/zillow-lawsuit-linkedin-debate/",
+      "title": "What real estate agents need to know about HOA governance risk",
+      "link": "https://www.housingwire.com/articles/what-real-estate-agents-need-to-know-about-hoa-governance-risk/",
       "published": "Wed, 13 May 2026"
     },
     {
-      "title": "Winning listings in today’s market requires a different conversation",
-      "link": "https://www.housingwire.com/articles/listing-consultation-coaching/",
+      "title": "From top producer to CEO: Laurie Mecier-Brochu’s leadership journey",
+      "link": "https://www.housingwire.com/articles/laurie-mecier-brochu-real-estate-leadership-journey/",
       "published": "Wed, 13 May 2026"
     },
     {
-      "title": "Movement’s reverse mortgage leaders on forming better sales strategies",
-      "link": "https://www.housingwire.com/articles/reverse-mortgage-specialization-organic-leads/",
+      "title": "Linkhome signs deal for Mortgage One Group to expand AI-driven lending footprint",
+      "link": "https://www.housingwire.com/articles/linkhome-ai-mortgage-one/",
       "published": "Wed, 13 May 2026"
     },
     {
-      "title": "Why mortgage purchase apps are holding up even with rising rates",
-      "link": "https://www.housingwire.com/articles/why-mortgage-purchase-apps-are-holding-up-even-with-rising-rates/",
+      "title": "Miami Realtors + RWorld champions south Florida internationally",
+      "link": "https://www.housingwire.com/articles/miami-realtors-rworld-champions-south-florida-internationally/",
       "published": "Wed, 13 May 2026"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Why mortgage purchase apps are holding up even with rising rates",
-        "url": "https://www.housingwire.com/articles/why-mortgage-purchase-apps-are-holding-up-even-with-rising-rates/",
-        "what": "As inflation runs hotter and the 10-year yield hits a yearly high, improved spreads help keep rates under 6.64% and demand steady.",
-        "numbers": "10, 6.64",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/why-mortgage-purchase-apps-are-holding-up-even-with-rising-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Fed in Wait-and-See Mode on Hot Inflation Report; Mortgage Rates to Track Oil Prices, Mideast Talks",
         "url": "https://www.redfin.com/news/cpi-april-2026/",
         "what": "Takeaway: A slightly hotter than expected CPI report will keep the Fed on hold and may push officials slightly closer to considering hikes",
@@ -232,20 +223,47 @@
     ],
     "housing": [
       {
-        "title": "With a permit shot clock, Georgia builders gain leverage",
-        "url": "https://www.housingwire.com/articles/georgia-permit-shot-clock/",
-        "what": "Georgia home builders are set to see faster, more predictable permitting timelines after Gov",
-        "numbers": "1,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/georgia-permit-shot-clock/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+        "title": "Housing demand is concentrating where affordability still works",
+        "url": "https://www.housingwire.com/articles/housing-demand-pricing-alignment-transaction-viability/",
+        "what": "Housing demand in 2026 is concentrating in markets where pricing, affordability and transaction activity remain aligned.",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-demand-pricing-alignment-transaction-viability/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Zillow lawsuit sparks LinkedIn debate over listings transparency, control",
-        "url": "https://www.housingwire.com/articles/zillow-lawsuit-linkedin-debate/",
-        "what": "Zillow’s antitrust suit against MRED and Compass spilled onto LinkedIn, where Samuelson’s post drew 200 plus comments in 24 hours.",
-        "numbers": "200, 24",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-lawsuit-linkedin-debate/",
+        "title": "What real estate agents need to know about HOA governance risk",
+        "url": "https://www.housingwire.com/articles/what-real-estate-agents-need-to-know-about-hoa-governance-risk/",
+        "what": "New data shows how unverifiable HOA governance erodes housing affordability and what agents should watch for during due diligence.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/what-real-estate-agents-need-to-know-about-hoa-governance-risk/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Linkhome signs deal for Mortgage One Group to expand AI-driven lending footprint",
+        "url": "https://www.housingwire.com/articles/linkhome-ai-mortgage-one/",
+        "what": "Linkhome will acquire Mortgage One Group to integrate AI into origination, adding 18-state licenses, eight branches and an $18 million warehouse line of credit.",
+        "numbers": "18, $18 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/linkhome-ai-mortgage-one/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Crypto rewards eye renters who want to save for a down payment",
+        "url": "https://www.housingwire.com/articles/megprime-launches-crypto-rental-rewards/",
+        "what": "MegPrime launched a rent payment rewards program that returns 2% on any property when paid in MP token, and 10% to 20% at partner communities",
+        "numbers": "2, 10, 20, 200,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/megprime-launches-crypto-rental-rewards/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Bright MLS adds Compass nationwide listings feed",
+        "url": "https://www.housingwire.com/articles/bright-mls-compass-feed/",
+        "what": "Bright MLS will add Compass nationwide listings feed and Compass will subsidize some subscriptions, with new flexibility coming this summer.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bright-mls-compass-feed/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
@@ -257,42 +275,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/40325-charles-town-pike-hamilton-virginia-listing/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Winning listings in today’s market requires a different conversation",
-        "url": "https://www.housingwire.com/articles/listing-consultation-coaching/",
-        "what": "Ditch the slide deck, lead with diagnostic questions, then recommend a pricing and timing strategy built for the seller.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/listing-consultation-coaching/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Movement’s reverse mortgage leaders on forming better sales strategies",
-        "url": "https://www.housingwire.com/articles/reverse-mortgage-specialization-organic-leads/",
-        "what": "At a time when some reverse mortgage lenders are struggling to bring new business through the door, Movement Mortgage is an example of a company that’s posting modest growth throug",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-specialization-organic-leads/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "GO Mortgage expands by launching TPO channel",
-        "url": "https://www.housingwire.com/articles/go-mortgage-debuts-tpo/",
-        "what": "GO Mortgage has launched a third-party origination channel built on a new wholesale platform",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/go-mortgage-debuts-tpo/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mungo appoints Ric Rojas president of its new Mid-Atlantic region",
-        "url": "https://www.housingwire.com/articles/mungo-homes-appoints-ric-rojas-mid-atlantic-regional-president/",
-        "what": "Mungo Homes named 32-year industry veteran Ric Rojas regional president of its new Mid-Atlantic region, overseeing Raleigh, Richmond and Triad markets and joining the executive lea",
-        "numbers": "32",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mungo-homes-appoints-ric-rojas-mid-atlantic-regional-president/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "$60 Million Montecito Mansion Tops List of April’s Priciest Home Sales",
@@ -320,26 +302,53 @@
         "justified": "redfin.com — https://www.redfin.com/news/home-prices-rise-april-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Introducing the New & Improved Redfin Data Center",
+        "url": "https://www.redfin.com/news/new-redfin-data-center/",
+        "what": "Monthly housing market data is now available sooner New metrics—including home purchase cancellations, price drops, financing trends, and luxury and starter home data—are now avail",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/new-redfin-data-center/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
       {
-        "title": "Rithm Capital raises $500M in unsecured debt",
-        "url": "https://www.housingwire.com/articles/rithm-500m-notes-2031/",
-        "what": "New York-based Rithm Capital Corp",
-        "numbers": "$500 million, 2031,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rithm-500m-notes-2031/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Rohit Chopra to head California consumer services agency",
-        "url": "https://www.housingwire.com/articles/rohit-chopra-california-bcsa/",
-        "what": "Gov",
-        "numbers": "1.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rohit-chopra-california-bcsa/",
+        "title": "Seth Ring elevated to president and COO at Toll Brothers",
+        "url": "https://www.housingwire.com/articles/toll-brothers-seth-ring-president-coo-leadership-succession/",
+        "what": "Toll Brothers has promoted Executive Vice President Seth J",
+        "numbers": "22, 40",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/toll-brothers-seth-ring-president-coo-leadership-succession/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "From top producer to CEO: Laurie Mecier-Brochu’s leadership journey",
+        "url": "https://www.housingwire.com/articles/laurie-mecier-brochu-real-estate-leadership-journey/",
+        "what": "Laurie Mecier-Brochu, CEO and president of Four Seasons Sotheby’s International Realty, shares leadership lessons on strategic growth, navigating change and the career decision tha",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/laurie-mecier-brochu-real-estate-leadership-journey/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Miami Realtors + RWorld champions south Florida internationally",
+        "url": "https://www.housingwire.com/articles/miami-realtors-rworld-champions-south-florida-internationally/",
+        "what": "The newly merged organization is set to promote international buying in south Florida to peers in Spain and Canada.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/miami-realtors-rworld-champions-south-florida-internationally/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Lofty debuts Canva integration to streamline real estate listing design",
+        "url": "https://www.housingwire.com/articles/lofty-debuts-canva-integration-to-streamline-real-estate-listing-design/",
+        "what": "Lofty said the Canva integration was one of the most requested features from customers, with nearly 250 support requests over the past year.",
+        "numbers": "250",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lofty-debuts-canva-integration-to-streamline-real-estate-listing-design/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
