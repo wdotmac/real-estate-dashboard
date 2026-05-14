@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-05-14 18:06 UTC",
+  "as_of": "2026-05-14 23:12 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
       "yield_pct": 4.46,
-      "delta_bp_1d": 4.0000000000000036
+      "delta_bp_1d": 0.0
     },
     "mortgage_30y": {
       "rate_pct": 6.36,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Sumitomo closes Tri Pointe deal, vaulting into a top-10 U.S. builder",
-      "link": "https://www.housingwire.com/articles/sumitomo-forestry-completes-tri-pointe-acquisition/",
+      "title": "Real estate agents hope Kevin Warsh can calm roller coaster housing market",
+      "link": "https://www.housingwire.com/articles/real-estate-agents-hope-kevin-warsh-can-calm-roller-coaster-housing-market/",
       "published": "Thu, 14 May 2026"
     },
     {
-      "title": "Title giants lean on commercial deals and AI to boost Q1 profitability",
-      "link": "https://www.housingwire.com/articles/title-giants-lean-on-commercial-deals-and-ai-to-boost-q1-profitability/",
+      "title": "The Clarity Act is coming: How real estate tokenization unlocks $40 trillion in dead equity",
+      "link": "https://www.housingwire.com/articles/tokenized-equity-down-payments/",
       "published": "Thu, 14 May 2026"
     },
     {
-      "title": "To the abyss and back: how fintech firm Flyhomes survived a boom-bust housing cycle",
-      "link": "https://www.housingwire.com/articles/flyhomes-profitable-wholesale-strategy/",
+      "title": "A tale of two M&As: DFH’s hostile bid sharpens homebuilder tiers",
+      "link": "https://www.housingwire.com/articles/beazer-book-value-bid/",
       "published": "Thu, 14 May 2026"
     },
     {
-      "title": "Renovo secures $74.5M investment-grade note deal to fuel expansion",
-      "link": "https://www.housingwire.com/articles/renovo-74-5-million-investment-grade-corporate-note-financing/",
+      "title": "Why a 2008 housing crash can’t happen again",
+      "link": "https://www.housingwire.com/articles/why-a-2008-housing-crash-cant-happen-again/",
       "published": "Thu, 14 May 2026"
     },
     {
-      "title": "Rocket sues UWM for $100M, claiming contractual breaches across Mr. Cooper book",
-      "link": "https://www.housingwire.com/articles/rocket-sues-uwm-100m/",
+      "title": "Reverse mortgage vet Bruce Simmons on success in sales: ‘What is my why?’",
+      "link": "https://www.housingwire.com/articles/reverse-mortgage-sales-mindset-tips/",
       "published": "Thu, 14 May 2026"
     },
     {
-      "title": "UWM launches Refi ’86 pricing incentive, upgrades to Mia AI assistant",
-      "link": "https://www.housingwire.com/articles/uwm-refi-86-mia-updates/",
+      "title": "Newrez debuts Rezi Mortgage Assistant in ChatGPT for lender-specific guidance",
+      "link": "https://www.housingwire.com/articles/newrez-rezi-mortgage-assistant-chatgpt-launch/",
       "published": "Thu, 14 May 2026"
     },
     {
@@ -223,38 +223,47 @@
     ],
     "housing": [
       {
-        "title": "To the abyss and back: how fintech firm Flyhomes survived a boom-bust housing cycle",
-        "url": "https://www.housingwire.com/articles/flyhomes-profitable-wholesale-strategy/",
-        "what": "Flyhomes said its wholesale pivot helped it become profitable, as it focused on buy before you sell and expanded to 44 states and D.C.",
-        "numbers": "44",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/flyhomes-profitable-wholesale-strategy/",
+        "title": "Real estate agents hope Kevin Warsh can calm roller coaster housing market",
+        "url": "https://www.housingwire.com/articles/real-estate-agents-hope-kevin-warsh-can-calm-roller-coaster-housing-market/",
+        "what": "For agents, the questions are straightforward",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-agents-hope-kevin-warsh-can-calm-roller-coaster-housing-market/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Rocket sues UWM for $100M, claiming contractual breaches across Mr. Cooper book",
-        "url": "https://www.housingwire.com/articles/rocket-sues-uwm-100m/",
-        "what": "Rocket Mortgage has filed a lawsuit against United Wholesale Mortgage (UWM), claiming the rival intentionally breached contractual nonsolicitation obligations it owes to servicer Mr",
+        "title": "A tale of two M&As: DFH’s hostile bid sharpens homebuilder tiers",
+        "url": "https://www.housingwire.com/articles/beazer-book-value-bid/",
+        "what": "While Wall Street waits to see if and when Dream Finders Homes returns with a sweeter bid after Beazer Homes’ board rejected its third unsolicited takeover proposal, another provocative question may be lurking across the sector",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-sues-uwm-100m/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/beazer-book-value-bid/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Why a 2008 housing crash can’t happen again",
+        "url": "https://www.housingwire.com/articles/why-a-2008-housing-crash-cant-happen-again/",
+        "what": "Housing credit changed after 2005 bankruptcy reform and the qualified mortgage rule, limiting leverage and curbing ARM-era risk.",
+        "numbers": "2005",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-a-2008-housing-crash-cant-happen-again/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "House spares BTR from institutional investor ban; plans vote next week",
-        "url": "https://www.housingwire.com/articles/house-exempts-btr-road-to-housing/",
-        "what": "The House posted amended ROAD to Housing Act text that keeps a ban on investors owning 350-plus homes from buying more single-family properties, but adds carve-outs for build-to-rent and renovate-to-rent",
-        "numbers": "350, 7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/house-exempts-btr-road-to-housing/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+        "title": "Reverse mortgage vet Bruce Simmons on success in sales: ‘What is my why?’",
+        "url": "https://www.housingwire.com/articles/reverse-mortgage-sales-mindset-tips/",
+        "what": "Bruce Simmons talked about reverse mortgage sales habits, goal setting, time blocking and why 80% of sales need at least five follow-ups.",
+        "numbers": "80",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-sales-mindset-tips/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Chattanooga creates unit-level PILOT for mixed-income apartments",
-        "url": "https://www.housingwire.com/articles/chattanooga-unit-based-pilot-affordable/",
-        "what": "For more than two decades, Chattanooga has used payment-in-lieu-of-taxes agreements to reshape its downtown",
-        "numbers": "10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/chattanooga-unit-based-pilot-affordable/",
+        "title": "Newrez debuts Rezi Mortgage Assistant in ChatGPT for lender-specific guidance",
+        "url": "https://www.housingwire.com/articles/newrez-rezi-mortgage-assistant-chatgpt-launch/",
+        "what": "Newrez launches Rezi Mortgage Assistant in ChatGPT, delivering lender-specific mortgage guidance as more consumers turn to AI for financial advice.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/newrez-rezi-mortgage-assistant-chatgpt-launch/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -306,47 +315,38 @@
     ],
     "notables": [
       {
+        "title": "The Clarity Act is coming: How real estate tokenization unlocks $40 trillion in dead equity",
+        "url": "https://www.housingwire.com/articles/tokenized-equity-down-payments/",
+        "what": "Tokenized equity could fund down payments, change PMI use, and lower HELOC-like borrowing costs if the Clarity Act passes.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tokenized-equity-down-payments/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "UWM’s Jason Bressler says in-house AI agents are changing underwriting, servicing work",
+        "url": "https://www.housingwire.com/articles/uwm-in-house-ai-mortgage-underwriting-servicing/",
+        "what": "UWM CTO Jason Bressler says in-house AI helps underwriters process 16 loans daily and supports new servicing call handling.",
+        "numbers": "16",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-in-house-ai-mortgage-underwriting-servicing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Douglas Elliman enters New Hampshire with Sarkis Team addition",
+        "url": "https://www.housingwire.com/articles/douglas-elliman-sarkis-pettitt-nh/",
+        "what": "Douglas Elliman expands into New Hampshire as the Sarkis Team adds Adam Pettitt and lists LOOKOUT Lake Winnipesaukee units.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/douglas-elliman-sarkis-pettitt-nh/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Title giants lean on commercial deals and AI to boost Q1 profitability",
         "url": "https://www.housingwire.com/articles/title-giants-lean-on-commercial-deals-and-ai-to-boost-q1-profitability/",
         "what": "Executives pointed to improving order counts, larger commercial deal sizes, expense management and growing investment in AI.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/title-giants-lean-on-commercial-deals-and-ai-to-boost-q1-profitability/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Renovo secures $74.5M investment-grade note deal to fuel expansion",
-        "url": "https://www.housingwire.com/articles/renovo-74-5-million-investment-grade-corporate-note-financing/",
-        "what": "Renovo closed $74.5M in investment-grade senior secured corporate notes to expand its business-purpose lending platform across key U.S",
-        "numbers": "$74.5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/renovo-74-5-million-investment-grade-corporate-note-financing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "UWM launches Refi ’86 pricing incentive, upgrades to Mia AI assistant",
-        "url": "https://www.housingwire.com/articles/uwm-refi-86-mia-updates/",
-        "what": "UWM launched Refi ’86, an 86-bps refi pricing incentive through June 30, and added Mia On Demand plus Mia Español updates.",
-        "numbers": "86,, 86, 30,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-refi-86-mia-updates/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CCM boosts cash payout in bid for Two Harbors",
-        "url": "https://www.housingwire.com/articles/crosscountry-mortgage-adds-pro-rata-dividend-two-harbors-stockholders/",
-        "what": "CCM will add a pro rata dividend, lifting total cash value to as much as $12.68 per share for TWO investors as it seeks merger approval.",
-        "numbers": "$12.68",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/crosscountry-mortgage-adds-pro-rata-dividend-two-harbors-stockholders/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Houlihan Lawrence hires Vicki D’Agostino to lead Scarsdale office",
-        "url": "https://www.housingwire.com/articles/houlihan-lawrence-hires-dagostino/",
-        "what": "Houlihan Lawrence named Vicki D’Agostino sales leader for its Scarsdale office, after leadership roles at Compass and William Raveis.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/houlihan-lawrence-hires-dagostino/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
