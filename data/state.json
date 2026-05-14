@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-14 13:03 UTC",
+  "as_of": "2026-05-14 18:06 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": 4.0000000000000036
     },
     "mortgage_30y": {
-      "rate_pct": 6.37,
-      "delta_bp_wow": 7.000000000000028
+      "rate_pct": 6.36,
+      "delta_bp_wow": -0.9999999999999787
     },
     "starts": {
       "level_saar": 1502.0,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "We knew Compass International Holdings could lead market share, but what about Real and eXp?",
-      "link": "https://www.housingwire.com/articles/compass-anywhere-real-remax-exp-market-share/",
+      "title": "Sumitomo closes Tri Pointe deal, vaulting into a top-10 U.S. builder",
+      "link": "https://www.housingwire.com/articles/sumitomo-forestry-completes-tri-pointe-acquisition/",
       "published": "Thu, 14 May 2026"
     },
     {
-      "title": "Snapdocs, BNY partner on touchless mortgage collateral delivery for secondary market",
-      "link": "https://www.housingwire.com/articles/snapdocs-bny-automated-digital-mortgage-collateral-ecustody/",
+      "title": "Title giants lean on commercial deals and AI to boost Q1 profitability",
+      "link": "https://www.housingwire.com/articles/title-giants-lean-on-commercial-deals-and-ai-to-boost-q1-profitability/",
       "published": "Thu, 14 May 2026"
     },
     {
-      "title": "ATTOM reports 42K foreclosure filings in April, up 18% from a year ago",
-      "link": "https://www.housingwire.com/articles/foreclosure-filings-up-april-2026-attom/",
+      "title": "To the abyss and back: how fintech firm Flyhomes survived a boom-bust housing cycle",
+      "link": "https://www.housingwire.com/articles/flyhomes-profitable-wholesale-strategy/",
       "published": "Thu, 14 May 2026"
     },
     {
-      "title": "A new home gains a 10-year cost edge over resale: Realtor.com",
-      "link": "https://www.housingwire.com/articles/new-construction-10-year-total-cost-ownership-realtor-com-analysis/",
+      "title": "Renovo secures $74.5M investment-grade note deal to fuel expansion",
+      "link": "https://www.housingwire.com/articles/renovo-74-5-million-investment-grade-corporate-note-financing/",
       "published": "Thu, 14 May 2026"
     },
     {
-      "title": "The first 15 minutes that cost brokerages revenue",
-      "link": "https://www.housingwire.com/articles/the-first-15-minutes-that-cost-brokerages-revenue/",
+      "title": "Rocket sues UWM for $100M, claiming contractual breaches across Mr. Cooper book",
+      "link": "https://www.housingwire.com/articles/rocket-sues-uwm-100m/",
       "published": "Thu, 14 May 2026"
     },
     {
-      "title": "How agency lenders are winning multifamily market share through discipline and structural creativity",
-      "link": "https://www.housingwire.com/articles/how-agency-lenders-are-winning-multifamily-market-share-through-discipline-and-structural-creativity/",
+      "title": "UWM launches Refi ’86 pricing incentive, upgrades to Mia AI assistant",
+      "link": "https://www.housingwire.com/articles/uwm-refi-86-mia-updates/",
       "published": "Thu, 14 May 2026"
     },
     {
@@ -203,13 +203,13 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "A new home gains a 10-year cost edge over resale: Realtor.com",
-        "url": "https://www.housingwire.com/articles/new-construction-10-year-total-cost-ownership-realtor-com-analysis/",
-        "what": "Newly built homes carry a median list price premium of about $60,000 over existing homes nationally, but lower energy and major-system costs give new-home buyers an average $25,335 advantage in total cost of ownership over the first 10 years, according to a Realtor.com analysis using Pearl SCORE data",
-        "numbers": "$60,000, $25,335, 10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-construction-10-year-total-cost-ownership-realtor-com-analysis/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+        "title": "Sumitomo closes Tri Pointe deal, vaulting into a top-10 U.S. builder",
+        "url": "https://www.housingwire.com/articles/sumitomo-forestry-completes-tri-pointe-acquisition/",
+        "what": "Sumitomo Forestry has officially closed its acquisition of Tri Pointe Homes, moving from “agreement announced” to “deal done” on a $47-per-share, all-cash transaction that reshapes the upper tier of U.S",
+        "numbers": "$47",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/sumitomo-forestry-completes-tri-pointe-acquisition/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Fed in Wait-and-See Mode on Hot Inflation Report; Mortgage Rates to Track Oil Prices, Mideast Talks",
@@ -223,6 +223,42 @@
     ],
     "housing": [
       {
+        "title": "To the abyss and back: how fintech firm Flyhomes survived a boom-bust housing cycle",
+        "url": "https://www.housingwire.com/articles/flyhomes-profitable-wholesale-strategy/",
+        "what": "Flyhomes said its wholesale pivot helped it become profitable, as it focused on buy before you sell and expanded to 44 states and D.C.",
+        "numbers": "44",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/flyhomes-profitable-wholesale-strategy/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Rocket sues UWM for $100M, claiming contractual breaches across Mr. Cooper book",
+        "url": "https://www.housingwire.com/articles/rocket-sues-uwm-100m/",
+        "what": "Rocket Mortgage has filed a lawsuit against United Wholesale Mortgage (UWM), claiming the rival intentionally breached contractual nonsolicitation obligations it owes to servicer Mr",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-sues-uwm-100m/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "House spares BTR from institutional investor ban; plans vote next week",
+        "url": "https://www.housingwire.com/articles/house-exempts-btr-road-to-housing/",
+        "what": "The House posted amended ROAD to Housing Act text that keeps a ban on investors owning 350-plus homes from buying more single-family properties, but adds carve-outs for build-to-rent and renovate-to-rent",
+        "numbers": "350, 7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/house-exempts-btr-road-to-housing/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Chattanooga creates unit-level PILOT for mixed-income apartments",
+        "url": "https://www.housingwire.com/articles/chattanooga-unit-based-pilot-affordable/",
+        "what": "For more than two decades, Chattanooga has used payment-in-lieu-of-taxes agreements to reshape its downtown",
+        "numbers": "10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/chattanooga-unit-based-pilot-affordable/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Pending Home Sales Jump 10% From a Year Ago to Highest Level Since 2022",
         "url": "https://www.redfin.com/news/housing-market-update-pending-home-sales-jump/",
         "what": "Sale prices are rising as homebuying demand strengthens",
@@ -230,60 +266,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-home-sales-jump/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Snapdocs, BNY partner on touchless mortgage collateral delivery for secondary market",
-        "url": "https://www.housingwire.com/articles/snapdocs-bny-automated-digital-mortgage-collateral-ecustody/",
-        "what": "Snapdocs and BNY are launching an automated platform to cut manual mortgage handoffs and speed secondary market execution.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/snapdocs-bny-automated-digital-mortgage-collateral-ecustody/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "ATTOM reports 42K foreclosure filings in April, up 18% from a year ago",
-        "url": "https://www.housingwire.com/articles/foreclosure-filings-up-april-2026-attom/",
-        "what": "Delaware recorded the highest foreclosure rate at one filing for every 1,739 housing units",
-        "numbers": "1,739, 2, 1,745.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/foreclosure-filings-up-april-2026-attom/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The first 15 minutes that cost brokerages revenue",
-        "url": "https://www.housingwire.com/articles/the-first-15-minutes-that-cost-brokerages-revenue/",
-        "what": "Most lost deals in a brokerage are invisible",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-first-15-minutes-that-cost-brokerages-revenue/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "How agency lenders are winning multifamily market share through discipline and structural creativity",
-        "url": "https://www.housingwire.com/articles/how-agency-lenders-are-winning-multifamily-market-share-through-discipline-and-structural-creativity/",
-        "what": "The conventional wisdom says tighter credit slows lending volume",
-        "numbers": "$150 billion, 25, 2024,, 28, 2022, $875 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/how-agency-lenders-are-winning-multifamily-market-share-through-discipline-and-structural-creativity/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Housing demand is concentrating where affordability still works",
-        "url": "https://www.housingwire.com/articles/housing-demand-pricing-alignment-transaction-viability/",
-        "what": "Housing demand in 2026 is concentrating in markets where pricing, affordability and transaction activity remain aligned.",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-demand-pricing-alignment-transaction-viability/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "What real estate agents need to know about HOA governance risk",
-        "url": "https://www.housingwire.com/articles/what-real-estate-agents-need-to-know-about-hoa-governance-risk/",
-        "what": "New data shows how unverifiable HOA governance erodes housing affordability and what agents should watch for during due diligence.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/what-real-estate-agents-need-to-know-about-hoa-governance-risk/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Just Listed in Virginia: A One-of-a-Kind Estate That’s Part Home, Part Event Venue, Part Airbnb",
@@ -311,35 +293,62 @@
         "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-april-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Home Prices Posted the Biggest Increase in Over a Year in April",
+        "url": "https://www.redfin.com/news/home-prices-rise-april-2026/",
+        "what": "The median U.S",
+        "numbers": "2.4, 2025., 2023, 2020.",
+        "justified": "redfin.com — https://www.redfin.com/news/home-prices-rise-april-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
       {
-        "title": "We knew Compass International Holdings could lead market share, but what about Real and eXp?",
-        "url": "https://www.housingwire.com/articles/compass-anywhere-real-remax-exp-market-share/",
-        "what": "RealTrends 2025 data implies Compass International Holdings combined ecosystem at 29.13% of sides and 39.44% of volume after Anywhere deal.",
-        "numbers": "2025, 29.13, 39.44",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-anywhere-real-remax-exp-market-share/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Seth Ring elevated to president and COO at Toll Brothers",
-        "url": "https://www.housingwire.com/articles/toll-brothers-seth-ring-president-coo-leadership-succession/",
-        "what": "Toll Brothers has promoted Executive Vice President Seth J",
-        "numbers": "22, 40",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/toll-brothers-seth-ring-president-coo-leadership-succession/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "From top producer to CEO: Laurie Mecier-Brochu’s leadership journey",
-        "url": "https://www.housingwire.com/articles/laurie-mecier-brochu-real-estate-leadership-journey/",
-        "what": "Laurie Mecier-Brochu, CEO and president of Four Seasons Sotheby’s International Realty, shares leadership lessons on strategic growth, navigating change and the career decision tha",
+        "title": "Title giants lean on commercial deals and AI to boost Q1 profitability",
+        "url": "https://www.housingwire.com/articles/title-giants-lean-on-commercial-deals-and-ai-to-boost-q1-profitability/",
+        "what": "Executives pointed to improving order counts, larger commercial deal sizes, expense management and growing investment in AI.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/laurie-mecier-brochu-real-estate-leadership-journey/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/title-giants-lean-on-commercial-deals-and-ai-to-boost-q1-profitability/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Renovo secures $74.5M investment-grade note deal to fuel expansion",
+        "url": "https://www.housingwire.com/articles/renovo-74-5-million-investment-grade-corporate-note-financing/",
+        "what": "Renovo closed $74.5M in investment-grade senior secured corporate notes to expand its business-purpose lending platform across key U.S",
+        "numbers": "$74.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/renovo-74-5-million-investment-grade-corporate-note-financing/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "UWM launches Refi ’86 pricing incentive, upgrades to Mia AI assistant",
+        "url": "https://www.housingwire.com/articles/uwm-refi-86-mia-updates/",
+        "what": "UWM launched Refi ’86, an 86-bps refi pricing incentive through June 30, and added Mia On Demand plus Mia Español updates.",
+        "numbers": "86,, 86, 30,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-refi-86-mia-updates/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "CCM boosts cash payout in bid for Two Harbors",
+        "url": "https://www.housingwire.com/articles/crosscountry-mortgage-adds-pro-rata-dividend-two-harbors-stockholders/",
+        "what": "CCM will add a pro rata dividend, lifting total cash value to as much as $12.68 per share for TWO investors as it seeks merger approval.",
+        "numbers": "$12.68",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/crosscountry-mortgage-adds-pro-rata-dividend-two-harbors-stockholders/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Houlihan Lawrence hires Vicki D’Agostino to lead Scarsdale office",
+        "url": "https://www.housingwire.com/articles/houlihan-lawrence-hires-dagostino/",
+        "what": "Houlihan Lawrence named Vicki D’Agostino sales leader for its Scarsdale office, after leadership roles at Compass and William Raveis.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/houlihan-lawrence-hires-dagostino/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
