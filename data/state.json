@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-15 11:29 UTC",
+  "as_of": "2026-05-15 17:00 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,44 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "The underwriting problem crypto built: What regulators and institutions are watching",
-      "link": "https://www.housingwire.com/articles/crypto-mortgage-underwriting/",
+      "title": "IMB production profits hold steady in Q1 as costs climb",
+      "link": "https://www.housingwire.com/articles/mba-imb-profit-costs-q1-2026/",
       "published": "Fri, 15 May 2026"
     },
     {
-      "title": "Opinion: ‘This time it’s different.’ U.S. of AmeRegCorp. AARP. UMMC. MHI. MHARR. Congress and manufactured homes",
-      "link": "https://www.housingwire.com/articles/road-act-manufactured-housing/",
+      "title": "UWM brokers report use of VantageScore 4.0 improved loan terms",
+      "link": "https://www.housingwire.com/articles/vantagescore-uwm-broker-loans/",
       "published": "Fri, 15 May 2026"
     },
     {
-      "title": "The 2025 Exhibit Awards winners: Celebrating innovation at The Gathering",
-      "link": "https://www.housingwire.com/articles/2025-exhibit-awards-winners-maxa-the-gathering/",
+      "title": "Baird & Warner names Lucy Baird chief stewardship officer, Laura Ellis chief revenue officer",
+      "link": "https://www.housingwire.com/articles/baird-warner-leadership-changes/",
       "published": "Fri, 15 May 2026"
     },
     {
-      "title": "Real estate agents hope Kevin Warsh can calm roller coaster housing market",
-      "link": "https://www.housingwire.com/articles/real-estate-agents-hope-kevin-warsh-can-calm-roller-coaster-housing-market/",
-      "published": "Thu, 14 May 2026"
+      "title": "Two Harbors stockholder sues to block CCM merger vote",
+      "link": "https://www.housingwire.com/articles/two-harbors-lawsuit-merger-vote/",
+      "published": "Fri, 15 May 2026"
     },
     {
-      "title": "The Clarity Act is coming: How real estate tokenization unlocks $40 trillion in dead equity",
-      "link": "https://www.housingwire.com/articles/tokenized-equity-down-payments/",
-      "published": "Thu, 14 May 2026"
+      "title": "Mortgage rates are headed higher as the 10-year yield surges",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-are-headed-higher-as-the-10-year-yield-surges/",
+      "published": "Fri, 15 May 2026"
     },
     {
-      "title": "A tale of two M&As: DFH’s hostile bid sharpens homebuilder tiers",
-      "link": "https://www.housingwire.com/articles/beazer-book-value-bid/",
-      "published": "Thu, 14 May 2026"
+      "title": "Beyond the merger: Are real estate agent splits and autonomy the next battleground",
+      "link": "https://www.housingwire.com/articles/real-estate-consolidation-agents/",
+      "published": "Fri, 15 May 2026"
+    },
+    {
+      "title": "Inside the $150,000 Hamptons Trailer This Couple Turned Into a Dream Home",
+      "link": "https://www.redfin.com/news/couple-renovate-hamptons-mobile-home/",
+      "published": "Fri, 15 May 2026"
+    },
+    {
+      "title": "The Price Point: What $400,000 Buys in These Hot U.S. Neighborhoods",
+      "link": "https://www.redfin.com/news/the-price-point-what-400000-buys-in-these-hot-u-s-neighborhoods/",
+      "published": "Fri, 15 May 2026"
     },
     {
       "title": "Pending Home Sales Jump 10% From a Year Ago to Highest Level Since 2022",
@@ -188,20 +198,37 @@
       "title": "Fed in Wait-and-See Mode on Hot Inflation Report; Mortgage Rates to Track Oil Prices, Mideast Talks",
       "link": "https://www.redfin.com/news/cpi-april-2026/",
       "published": "Tue, 12 May 2026"
-    },
-    {
-      "title": "America’s Housing Market Favors Buyers—But Their Advantage Is Finally Starting to Shrink",
-      "link": "https://www.redfin.com/news/buyers-vs-sellers-april-2026/",
-      "published": "Tue, 12 May 2026"
-    },
-    {
-      "title": "Home Prices Posted the Biggest Increase in Over a Year in April",
-      "link": "https://www.redfin.com/news/home-prices-rise-april-2026/",
-      "published": "Tue, 12 May 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "UWM brokers report use of VantageScore 4.0 improved loan terms",
+        "url": "https://www.housingwire.com/articles/vantagescore-uwm-broker-loans/",
+        "what": "Brokers said VantageScore 4.0 reports through UWM increased some credit scores by 60-plus points, improving pricing and loan eligibility.",
+        "numbers": "4.0, 60",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/vantagescore-uwm-broker-loans/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Two Harbors stockholder sues to block CCM merger vote",
+        "url": "https://www.housingwire.com/articles/two-harbors-lawsuit-merger-vote/",
+        "what": "A Two Harbors Investment Corp",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/two-harbors-lawsuit-merger-vote/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Mortgage rates are headed higher as the 10-year yield surges",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-are-headed-higher-as-the-10-year-yield-surges/",
+        "what": "The 10-year yield rose to 4.58% as the Iran conflict drags on, pushing mortgage rates higher and pricing in future hikes.",
+        "numbers": "10, 4.58",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-are-headed-higher-as-the-10-year-yield-surges/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Fed in Wait-and-See Mode on Hot Inflation Report; Mortgage Rates to Track Oil Prices, Mideast Talks",
         "url": "https://www.redfin.com/news/cpi-april-2026/",
@@ -213,6 +240,42 @@
       }
     ],
     "housing": [
+      {
+        "title": "IMB production profits hold steady in Q1 as costs climb",
+        "url": "https://www.housingwire.com/articles/mba-imb-profit-costs-q1-2026/",
+        "what": "Independent mortgage banks (IMBs) and mortgage subsidiaries of chartered banks posted a pretax net production profit of $727 per loan in the first quarter of 2026, up from $674 per",
+        "numbers": "$727, 2026,, $674, 2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-imb-profit-costs-q1-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Inside the $150,000 Hamptons Trailer This Couple Turned Into a Dream Home",
+        "url": "https://www.redfin.com/news/couple-renovate-hamptons-mobile-home/",
+        "what": "Born and raised in Hampton Bays, NY, Taylor Jayne always imagined she’d build her life in the place that raised her",
+        "numbers": "$2,200, $150,000",
+        "justified": "redfin.com — https://www.redfin.com/news/couple-renovate-hamptons-mobile-home/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Missouri housing incentives bill hits Gov. Kehoe’s desk for sign-off",
+        "url": "https://www.housingwire.com/articles/missouri-housing-incentives-kehoe/",
+        "what": "Missouri lawmakers have passed legislation to spur housing development statewide – from downtown commercial corridors to rural communities – by establishing a new class of development zones, offering tax incentives to convert vacant buildings into housing and directing new revenue to underserved areas",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/missouri-housing-incentives-kehoe/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "The Price Point: What $400,000 Buys in These Hot U.S. Neighborhoods",
+        "url": "https://www.redfin.com/news/the-price-point-what-400000-buys-in-these-hot-u-s-neighborhoods/",
+        "what": "In this edition of The Price Point—a weekly series where Redfin data journalists explore current housing inventory across a rotating combination of budgets and metro areas—we’re looking at some of the hottest real estate markets in the country, according to Redfin’s latest analysis",
+        "numbers": "100, $400,000",
+        "justified": "redfin.com — https://www.redfin.com/news/the-price-point-what-400000-buys-in-these-hot-u-s-neighborhoods/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Opinion: ‘This time it’s different.’ U.S. of AmeRegCorp. AARP. UMMC. MHI. MHARR. Congress and manufactured homes",
         "url": "https://www.housingwire.com/articles/road-act-manufactured-housing/",
@@ -228,51 +291,6 @@
         "what": "HousingWire and MAXA Designs announced the 2025 Exhibit Awards winners, honoring top mortgage and real estate brands at The Gathering.",
         "numbers": "2025",
         "justified": "housingwire.com — https://www.housingwire.com/articles/2025-exhibit-awards-winners-maxa-the-gathering/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Real estate agents hope Kevin Warsh can calm roller coaster housing market",
-        "url": "https://www.housingwire.com/articles/real-estate-agents-hope-kevin-warsh-can-calm-roller-coaster-housing-market/",
-        "what": "For agents, the questions are straightforward",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-agents-hope-kevin-warsh-can-calm-roller-coaster-housing-market/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "A tale of two M&As: DFH’s hostile bid sharpens homebuilder tiers",
-        "url": "https://www.housingwire.com/articles/beazer-book-value-bid/",
-        "what": "While Wall Street waits to see if and when Dream Finders Homes returns with a sweeter bid after Beazer Homes’ board rejected its third unsolicited takeover proposal, another provocative question may be lurking across the sector",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/beazer-book-value-bid/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Why a 2008 housing crash can’t happen again",
-        "url": "https://www.housingwire.com/articles/why-a-2008-housing-crash-cant-happen-again/",
-        "what": "Housing credit changed after 2005 bankruptcy reform and the qualified mortgage rule, limiting leverage and curbing ARM-era risk.",
-        "numbers": "2005",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/why-a-2008-housing-crash-cant-happen-again/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Reverse mortgage vet Bruce Simmons on success in sales: ‘What is my why?’",
-        "url": "https://www.housingwire.com/articles/reverse-mortgage-sales-mindset-tips/",
-        "what": "Bruce Simmons talked about reverse mortgage sales habits, goal setting, time blocking and why 80% of sales need at least five follow-ups.",
-        "numbers": "80",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-sales-mindset-tips/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Newrez debuts Rezi Mortgage Assistant in ChatGPT for lender-specific guidance",
-        "url": "https://www.housingwire.com/articles/newrez-rezi-mortgage-assistant-chatgpt-launch/",
-        "what": "Newrez launches Rezi Mortgage Assistant in ChatGPT, delivering lender-specific mortgage guidance as more consumers turn to AI for financial advice.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/newrez-rezi-mortgage-assistant-chatgpt-launch/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -306,29 +324,29 @@
     ],
     "notables": [
       {
+        "title": "Baird & Warner names Lucy Baird chief stewardship officer, Laura Ellis chief revenue officer",
+        "url": "https://www.housingwire.com/articles/baird-warner-leadership-changes/",
+        "what": "Baird and Warner names Lucy Baird chief stewardship officer and vice chair, and promotes Laura Ellis to chief revenue officer.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/baird-warner-leadership-changes/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Beyond the merger: Are real estate agent splits and autonomy the next battleground",
+        "url": "https://www.housingwire.com/articles/real-estate-consolidation-agents/",
+        "what": "Industry consultants debate agent impact as consolidation grows, with shifts possible in splits, autonomy, and broker-provided leads.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-consolidation-agents/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "The underwriting problem crypto built: What regulators and institutions are watching",
         "url": "https://www.housingwire.com/articles/crypto-mortgage-underwriting/",
         "what": "With 30% of U.S",
         "numbers": "30",
         "justified": "housingwire.com — https://www.housingwire.com/articles/crypto-mortgage-underwriting/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The Clarity Act is coming: How real estate tokenization unlocks $40 trillion in dead equity",
-        "url": "https://www.housingwire.com/articles/tokenized-equity-down-payments/",
-        "what": "Tokenized equity could fund down payments, change PMI use, and lower HELOC-like borrowing costs if the Clarity Act passes.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tokenized-equity-down-payments/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "UWM’s Jason Bressler says in-house AI agents are changing underwriting, servicing work",
-        "url": "https://www.housingwire.com/articles/uwm-in-house-ai-mortgage-underwriting-servicing/",
-        "what": "UWM CTO Jason Bressler says in-house AI helps underwriters process 16 loans daily and supports new servicing call handling.",
-        "numbers": "16",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-in-house-ai-mortgage-underwriting-servicing/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
