@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-15 20:34 UTC",
+  "as_of": "2026-05-15 22:10 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "KBW says UWM is well positioned despite market pressures",
-      "link": "https://www.housingwire.com/articles/kbw-uwm-growth-marker/",
+      "title": "Momentum MLS adds Rayse as member benefit",
+      "link": "https://www.housingwire.com/articles/momentum-mls-adds-rayse-as-member-benefit/",
       "published": "Fri, 15 May 2026"
     },
     {
-      "title": "HUD audit warns that some HECM LESA accounts may run dry",
-      "link": "https://www.housingwire.com/articles/hecm-lesa-accounts-run-out/",
+      "title": "How loan officers are saving deals as mortgage rates cross 6.6%",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-662-loan-officers/",
       "published": "Fri, 15 May 2026"
     },
     {
-      "title": "Real estate agents: Before you paste AI copy into the MLS, run this checklist",
-      "link": "https://www.housingwire.com/articles/ai-fair-housing-remarks-checklist/",
+      "title": "Arbor Homes’ low-$200s Arrival Series battles the affordability gap",
+      "link": "https://www.housingwire.com/articles/arbor-homes-affordability/",
       "published": "Fri, 15 May 2026"
     },
     {
-      "title": "Welcome to the tech-ecosystem brokerage: How recent mergers will change how you work",
-      "link": "https://www.housingwire.com/articles/welcome-to-the-tech-ecosystem-brokerage-how-recent-mergers-will-change-how-you-work/",
+      "title": "MIAMI and RWorld merger targets unified MLS data and tools",
+      "link": "https://www.housingwire.com/articles/south-florida-mls-data/",
       "published": "Fri, 15 May 2026"
     },
     {
-      "title": "Howard Hanna launches luxury agent referral network",
-      "link": "https://www.housingwire.com/articles/howard-hanna-luxury-network/",
+      "title": "2026 HousingWire Homebuilder rankings expand the scoreboard",
+      "link": "https://www.housingwire.com/articles/2026-homebuilder-rankings-scoreboard/",
       "published": "Fri, 15 May 2026"
     },
     {
-      "title": "AD&C credit tight in Q1, but NAHB index shows pressure easing",
-      "link": "https://www.housingwire.com/articles/nahb-q1-2026-builder-credit-tightens-slightly/",
+      "title": "Supreme Lending’s John Luddy on the ‘3 deadly sins’ of reverse mortgages",
+      "link": "https://www.housingwire.com/articles/reverse-mortgage-selling-tips/",
       "published": "Fri, 15 May 2026"
     },
     {
@@ -203,13 +203,22 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "UWM brokers report use of VantageScore 4.0 improved loan terms",
-        "url": "https://www.housingwire.com/articles/vantagescore-uwm-broker-loans/",
-        "what": "Brokers said VantageScore 4.0 reports through UWM increased some credit scores by 60-plus points, improving pricing and loan eligibility.",
-        "numbers": "4.0, 60",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/vantagescore-uwm-broker-loans/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "How loan officers are saving deals as mortgage rates cross 6.6%",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-662-loan-officers/",
+        "what": "Loan officers are shifting their playbooks to keep deals alive as mortgage rates climb north of 6.6%.",
+        "numbers": "6.6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-662-loan-officers/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "2026 HousingWire Homebuilder rankings expand the scoreboard",
+        "url": "https://www.housingwire.com/articles/2026-homebuilder-rankings-scoreboard/",
+        "what": "Up to now, homebuilding rankings have mostly answered two questions: who is bigger? And who is the biggest? They remain important questions",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-homebuilder-rankings-scoreboard/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Fed in Wait-and-See Mode on Hot Inflation Report; Mortgage Rates to Track Oil Prices, Mideast Talks",
@@ -223,29 +232,11 @@
     ],
     "housing": [
       {
-        "title": "AD&C credit tight in Q1, but NAHB index shows pressure easing",
-        "url": "https://www.housingwire.com/articles/nahb-q1-2026-builder-credit-tightens-slightly/",
-        "what": "Credit conditions for residential land acquisition, development and construction (AD&C) loans tightened again in the first quarter, but at the slowest pace in four years, according to a National Association of Home Builders analysis released Friday",
-        "numbers": "2.7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nahb-q1-2026-builder-credit-tightens-slightly/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "AD Mortgage announces $407M non-QM securitization",
-        "url": "https://www.housingwire.com/articles/ad-mortgage-407m-nonqm/",
-        "what": "AD Mortgage launched a $407M non-QM securitization backed by 979 loans, with Florida properties accounting for 25% of the collateral.",
-        "numbers": "$407, 979, 25",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ad-mortgage-407m-nonqm/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "IMB production profits hold steady in Q1 as costs climb",
-        "url": "https://www.housingwire.com/articles/mba-imb-profit-costs-q1-2026/",
-        "what": "Independent mortgage banks (IMBs) and mortgage subsidiaries of chartered banks posted a pretax net production profit of $727 per loan in the first quarter of 2026, up from $674 per",
-        "numbers": "$727, 2026,, $674, 2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-imb-profit-costs-q1-2026/",
+        "title": "Supreme Lending’s John Luddy on the ‘3 deadly sins’ of reverse mortgages",
+        "url": "https://www.housingwire.com/articles/reverse-mortgage-selling-tips/",
+        "what": "At last week’s Reverse Mastermind Summit in Tennessee, Luddy took the stage to offer in-depth advice for loan officers who are new to the segment or attempting to grow their busine",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-selling-tips/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -297,6 +288,33 @@
     ],
     "notables": [
       {
+        "title": "Momentum MLS adds Rayse as member benefit",
+        "url": "https://www.housingwire.com/articles/momentum-mls-adds-rayse-as-member-benefit/",
+        "what": "Leaders said the partnership responds to growing demand for clearer communication and visibility in the home buying and selling process.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/momentum-mls-adds-rayse-as-member-benefit/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Arbor Homes’ low-$200s Arrival Series battles the affordability gap",
+        "url": "https://www.housingwire.com/articles/arbor-homes-affordability/",
+        "what": "Arbor Homes expands its Arrival Series near Louisville with detached homes from $199,995 as the affordability gap widens.",
+        "numbers": "$199,995",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/arbor-homes-affordability/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "MIAMI and RWorld merger targets unified MLS data and tools",
+        "url": "https://www.housingwire.com/articles/south-florida-mls-data/",
+        "what": "MIAMI and RWorld merged, citing overlapping members and one unified MLS data set, plus plans for Global Data Exchange participation.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/south-florida-mls-data/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "KBW says UWM is well positioned despite market pressures",
         "url": "https://www.housingwire.com/articles/kbw-uwm-growth-marker/",
         "what": "Analysts at KBW kept UWM at market perform and $4.50, citing 9% share in Q1 2026, 45% broker share, and in-house servicing by October.",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/welcome-to-the-tech-ecosystem-brokerage-how-recent-mergers-will-change-how-you-work/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Howard Hanna launches luxury agent referral network",
-        "url": "https://www.housingwire.com/articles/howard-hanna-luxury-network/",
-        "what": "Howard Hanna launched an invite-only luxury agent network across 15 states, requiring 10 $1M-plus sales in five years.",
-        "numbers": "15, 10, $1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/howard-hanna-luxury-network/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Baird & Warner names Lucy Baird chief stewardship officer, Laura Ellis chief revenue officer",
-        "url": "https://www.housingwire.com/articles/baird-warner-leadership-changes/",
-        "what": "Baird and Warner names Lucy Baird chief stewardship officer and vice chair, and promotes Laura Ellis to chief revenue officer.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/baird-warner-leadership-changes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
