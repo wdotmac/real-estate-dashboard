@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-05-15 18:52 UTC",
+  "as_of": "2026-05-15 20:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.46,
-      "delta_bp_1d": 0.0
+      "yield_pct": 4.47,
+      "delta_bp_1d": 0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.36,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "KBW says UWM is well positioned despite market pressures",
+      "link": "https://www.housingwire.com/articles/kbw-uwm-growth-marker/",
+      "published": "Fri, 15 May 2026"
+    },
+    {
+      "title": "HUD audit warns that some HECM LESA accounts may run dry",
+      "link": "https://www.housingwire.com/articles/hecm-lesa-accounts-run-out/",
+      "published": "Fri, 15 May 2026"
+    },
+    {
+      "title": "Real estate agents: Before you paste AI copy into the MLS, run this checklist",
+      "link": "https://www.housingwire.com/articles/ai-fair-housing-remarks-checklist/",
+      "published": "Fri, 15 May 2026"
+    },
+    {
+      "title": "Welcome to the tech-ecosystem brokerage: How recent mergers will change how you work",
+      "link": "https://www.housingwire.com/articles/welcome-to-the-tech-ecosystem-brokerage-how-recent-mergers-will-change-how-you-work/",
+      "published": "Fri, 15 May 2026"
+    },
+    {
       "title": "Howard Hanna launches luxury agent referral network",
       "link": "https://www.housingwire.com/articles/howard-hanna-luxury-network/",
       "published": "Fri, 15 May 2026"
@@ -147,26 +167,6 @@
     {
       "title": "AD&C credit tight in Q1, but NAHB index shows pressure easing",
       "link": "https://www.housingwire.com/articles/nahb-q1-2026-builder-credit-tightens-slightly/",
-      "published": "Fri, 15 May 2026"
-    },
-    {
-      "title": "AD Mortgage announces $407M non-QM securitization",
-      "link": "https://www.housingwire.com/articles/ad-mortgage-407m-nonqm/",
-      "published": "Fri, 15 May 2026"
-    },
-    {
-      "title": "IMB production profits hold steady in Q1 as costs climb",
-      "link": "https://www.housingwire.com/articles/mba-imb-profit-costs-q1-2026/",
-      "published": "Fri, 15 May 2026"
-    },
-    {
-      "title": "UWM brokers report use of VantageScore 4.0 improved loan terms",
-      "link": "https://www.housingwire.com/articles/vantagescore-uwm-broker-loans/",
-      "published": "Fri, 15 May 2026"
-    },
-    {
-      "title": "Baird & Warner names Lucy Baird chief stewardship officer, Laura Ellis chief revenue officer",
-      "link": "https://www.housingwire.com/articles/baird-warner-leadership-changes/",
       "published": "Fri, 15 May 2026"
     },
     {
@@ -210,24 +210,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/vantagescore-uwm-broker-loans/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Two Harbors stockholder sues to block CCM merger vote",
-        "url": "https://www.housingwire.com/articles/two-harbors-lawsuit-merger-vote/",
-        "what": "A Two Harbors Investment Corp",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/two-harbors-lawsuit-merger-vote/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage rates are headed higher as the 10-year yield surges",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-are-headed-higher-as-the-10-year-yield-surges/",
-        "what": "The 10-year yield rose to 4.58% as the Iran conflict drags on, pushing mortgage rates higher and pricing in future hikes.",
-        "numbers": "10, 4.58",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-are-headed-higher-as-the-10-year-yield-surges/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Fed in Wait-and-See Mode on Hot Inflation Report; Mortgage Rates to Track Oil Prices, Mideast Talks",
@@ -277,15 +259,6 @@
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
-        "title": "Missouri housing incentives bill hits Gov. Kehoe’s desk for sign-off",
-        "url": "https://www.housingwire.com/articles/missouri-housing-incentives-kehoe/",
-        "what": "Missouri lawmakers have passed legislation to spur housing development statewide – from downtown commercial corridors to rural communities – by establishing a new class of development zones, offering tax incentives to convert vacant buildings into housing and directing new revenue to underserved areas",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/missouri-housing-incentives-kehoe/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "The Price Point: What $400,000 Buys in These Hot U.S. Neighborhoods",
         "url": "https://www.redfin.com/news/the-price-point-what-400000-buys-in-these-hot-u-s-neighborhoods/",
         "what": "In this edition of The Price Point—a weekly series where Redfin data journalists explore current housing inventory across a rotating combination of budgets and metro areas—we’re looking at some of the hottest real estate markets in the country, according to Redfin’s latest analysis",
@@ -324,6 +297,42 @@
     ],
     "notables": [
       {
+        "title": "KBW says UWM is well positioned despite market pressures",
+        "url": "https://www.housingwire.com/articles/kbw-uwm-growth-marker/",
+        "what": "Analysts at KBW kept UWM at market perform and $4.50, citing 9% share in Q1 2026, 45% broker share, and in-house servicing by October.",
+        "numbers": "$4.50,, 9, 1, 2026,, 45",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kbw-uwm-growth-marker/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "HUD audit warns that some HECM LESA accounts may run dry",
+        "url": "https://www.housingwire.com/articles/hecm-lesa-accounts-run-out/",
+        "what": "HUD OIG audit says 1,237 HECM borrowers may see LESA funds depleted about six years early, with up to $258 million at risk.",
+        "numbers": "1,237, $258 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hecm-lesa-accounts-run-out/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Real estate agents: Before you paste AI copy into the MLS, run this checklist",
+        "url": "https://www.housingwire.com/articles/ai-fair-housing-remarks-checklist/",
+        "what": "Checklist for AI generated MLS remarks, avoid buyer profiling, remove coded terms, verify facts and add a required human approval step.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-fair-housing-remarks-checklist/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Welcome to the tech-ecosystem brokerage: How recent mergers will change how you work",
+        "url": "https://www.housingwire.com/articles/welcome-to-the-tech-ecosystem-brokerage-how-recent-mergers-will-change-how-you-work/",
+        "what": "Recent acquisitions by Compass, eXp World Holdings and The Real Brokerage illustrate the value of proprietary tech stacks and AI.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/welcome-to-the-tech-ecosystem-brokerage-how-recent-mergers-will-change-how-you-work/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Howard Hanna launches luxury agent referral network",
         "url": "https://www.housingwire.com/articles/howard-hanna-luxury-network/",
         "what": "Howard Hanna launched an invite-only luxury agent network across 15 states, requiring 10 $1M-plus sales in five years.",
@@ -338,15 +347,6 @@
         "what": "Baird and Warner names Lucy Baird chief stewardship officer and vice chair, and promotes Laura Ellis to chief revenue officer.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/baird-warner-leadership-changes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Beyond the merger: Are real estate agent splits and autonomy the next battleground",
-        "url": "https://www.housingwire.com/articles/real-estate-consolidation-agents/",
-        "what": "Industry consultants debate agent impact as consolidation grows, with shifts possible in splits, autonomy, and broker-provided leads.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-consolidation-agents/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
