@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-15 17:00 UTC",
+  "as_of": "2026-05-15 18:52 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Howard Hanna launches luxury agent referral network",
+      "link": "https://www.housingwire.com/articles/howard-hanna-luxury-network/",
+      "published": "Fri, 15 May 2026"
+    },
+    {
+      "title": "AD&C credit tight in Q1, but NAHB index shows pressure easing",
+      "link": "https://www.housingwire.com/articles/nahb-q1-2026-builder-credit-tightens-slightly/",
+      "published": "Fri, 15 May 2026"
+    },
+    {
+      "title": "AD Mortgage announces $407M non-QM securitization",
+      "link": "https://www.housingwire.com/articles/ad-mortgage-407m-nonqm/",
+      "published": "Fri, 15 May 2026"
+    },
+    {
       "title": "IMB production profits hold steady in Q1 as costs climb",
       "link": "https://www.housingwire.com/articles/mba-imb-profit-costs-q1-2026/",
       "published": "Fri, 15 May 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Baird & Warner names Lucy Baird chief stewardship officer, Laura Ellis chief revenue officer",
       "link": "https://www.housingwire.com/articles/baird-warner-leadership-changes/",
-      "published": "Fri, 15 May 2026"
-    },
-    {
-      "title": "Two Harbors stockholder sues to block CCM merger vote",
-      "link": "https://www.housingwire.com/articles/two-harbors-lawsuit-merger-vote/",
-      "published": "Fri, 15 May 2026"
-    },
-    {
-      "title": "Mortgage rates are headed higher as the 10-year yield surges",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-are-headed-higher-as-the-10-year-yield-surges/",
-      "published": "Fri, 15 May 2026"
-    },
-    {
-      "title": "Beyond the merger: Are real estate agent splits and autonomy the next battleground",
-      "link": "https://www.housingwire.com/articles/real-estate-consolidation-agents/",
       "published": "Fri, 15 May 2026"
     },
     {
@@ -241,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "AD&C credit tight in Q1, but NAHB index shows pressure easing",
+        "url": "https://www.housingwire.com/articles/nahb-q1-2026-builder-credit-tightens-slightly/",
+        "what": "Credit conditions for residential land acquisition, development and construction (AD&C) loans tightened again in the first quarter, but at the slowest pace in four years, according to a National Association of Home Builders analysis released Friday",
+        "numbers": "2.7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nahb-q1-2026-builder-credit-tightens-slightly/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "AD Mortgage announces $407M non-QM securitization",
+        "url": "https://www.housingwire.com/articles/ad-mortgage-407m-nonqm/",
+        "what": "AD Mortgage launched a $407M non-QM securitization backed by 979 loans, with Florida properties accounting for 25% of the collateral.",
+        "numbers": "$407, 979, 25",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ad-mortgage-407m-nonqm/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "IMB production profits hold steady in Q1 as costs climb",
         "url": "https://www.housingwire.com/articles/mba-imb-profit-costs-q1-2026/",
         "what": "Independent mortgage banks (IMBs) and mortgage subsidiaries of chartered banks posted a pretax net production profit of $727 per loan in the first quarter of 2026, up from $674 per",
@@ -277,24 +295,6 @@
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
-        "title": "Opinion: ‘This time it’s different.’ U.S. of AmeRegCorp. AARP. UMMC. MHI. MHARR. Congress and manufactured homes",
-        "url": "https://www.housingwire.com/articles/road-act-manufactured-housing/",
-        "what": "Per their website: “MBA issued a Mortgage Action Alliance (MAA) Call to Action urging members to contact their U.S",
-        "numbers": "21",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/road-act-manufactured-housing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The 2025 Exhibit Awards winners: Celebrating innovation at The Gathering",
-        "url": "https://www.housingwire.com/articles/2025-exhibit-awards-winners-maxa-the-gathering/",
-        "what": "HousingWire and MAXA Designs announced the 2025 Exhibit Awards winners, honoring top mortgage and real estate brands at The Gathering.",
-        "numbers": "2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/2025-exhibit-awards-winners-maxa-the-gathering/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Pending Home Sales Jump 10% From a Year Ago to Highest Level Since 2022",
         "url": "https://www.redfin.com/news/housing-market-update-pending-home-sales-jump/",
         "what": "Sale prices are rising as homebuying demand strengthens",
@@ -324,6 +324,15 @@
     ],
     "notables": [
       {
+        "title": "Howard Hanna launches luxury agent referral network",
+        "url": "https://www.housingwire.com/articles/howard-hanna-luxury-network/",
+        "what": "Howard Hanna launched an invite-only luxury agent network across 15 states, requiring 10 $1M-plus sales in five years.",
+        "numbers": "15, 10, $1",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/howard-hanna-luxury-network/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Baird & Warner names Lucy Baird chief stewardship officer, Laura Ellis chief revenue officer",
         "url": "https://www.housingwire.com/articles/baird-warner-leadership-changes/",
         "what": "Baird and Warner names Lucy Baird chief stewardship officer and vice chair, and promotes Laura Ellis to chief revenue officer.",
@@ -338,15 +347,6 @@
         "what": "Industry consultants debate agent impact as consolidation grows, with shifts possible in splits, autonomy, and broker-provided leads.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-consolidation-agents/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The underwriting problem crypto built: What regulators and institutions are watching",
-        "url": "https://www.housingwire.com/articles/crypto-mortgage-underwriting/",
-        "what": "With 30% of U.S",
-        "numbers": "30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/crypto-mortgage-underwriting/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
