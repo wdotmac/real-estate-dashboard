@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-18 08:52 UTC",
+  "as_of": "2026-05-18 12:47 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Panorama Mortgage Group consolidates channels into SimplyPMG",
+      "link": "https://www.housingwire.com/articles/panorama-simplypmg-rebrand/",
+      "published": "Mon, 18 May 2026"
+    },
+    {
+      "title": "NRMLA’s Steve Irwin on what reverse mortgage lenders are up against in 2026",
+      "link": "https://www.housingwire.com/articles/reverse-mortgage-2026-nrmla/",
+      "published": "Mon, 18 May 2026"
+    },
+    {
+      "title": "Beazer takeover face-off turns on geography and margins",
+      "link": "https://www.housingwire.com/articles/beazer-geography-margins-fight/",
+      "published": "Mon, 18 May 2026"
+    },
+    {
       "title": "The gap between your executive and ops teams will impact your tech stack",
       "link": "https://www.housingwire.com/articles/exec-ops-technology-alignment-title/",
       "published": "Mon, 18 May 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Momentum MLS adds Rayse as member benefit",
       "link": "https://www.housingwire.com/articles/momentum-mls-adds-rayse-as-member-benefit/",
-      "published": "Fri, 15 May 2026"
-    },
-    {
-      "title": "How loan officers are saving deals as mortgage rates cross 6.6%",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-662-loan-officers/",
-      "published": "Fri, 15 May 2026"
-    },
-    {
-      "title": "Arbor Homes’ low-$200s Arrival Series battles the affordability gap",
-      "link": "https://www.housingwire.com/articles/arbor-homes-affordability/",
-      "published": "Fri, 15 May 2026"
-    },
-    {
-      "title": "MIAMI and RWorld merger targets unified MLS data and tools",
-      "link": "https://www.housingwire.com/articles/south-florida-mls-data/",
       "published": "Fri, 15 May 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "NRMLA’s Steve Irwin on what reverse mortgage lenders are up against in 2026",
+        "url": "https://www.housingwire.com/articles/reverse-mortgage-2026-nrmla/",
+        "what": "NRMLA’s Steve Irwin says high rates, rising upfront costs and longer timelines are pressuring reverse mortgages even as tech advances.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-2026-nrmla/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage rates are at yearly highs, but housing demand is still positive",
         "url": "https://www.housingwire.com/articles/mortgage-rates-are-at-yearly-highs-but-housing-demand-is-still-positive/",
@@ -241,11 +250,11 @@
     ],
     "housing": [
       {
-        "title": "Supreme Lending’s John Luddy on the ‘3 deadly sins’ of reverse mortgages",
-        "url": "https://www.housingwire.com/articles/reverse-mortgage-selling-tips/",
-        "what": "At last week’s Reverse Mastermind Summit in Tennessee, Luddy took the stage to offer in-depth advice for loan officers who are new to the segment or attempting to grow their busine",
+        "title": "Panorama Mortgage Group consolidates channels into SimplyPMG",
+        "url": "https://www.housingwire.com/articles/panorama-simplypmg-rebrand/",
+        "what": "Las Vegas-based Panorama Mortgage Group has unified its multiple brands under a single banner",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-selling-tips/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/panorama-simplypmg-rebrand/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -297,6 +306,15 @@
     ],
     "notables": [
       {
+        "title": "Beazer takeover face-off turns on geography and margins",
+        "url": "https://www.housingwire.com/articles/beazer-geography-margins-fight/",
+        "what": "Beazer Homes is not merely rejecting a takeover bid",
+        "numbers": "$25.75, $28.50, $29.00,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/beazer-geography-margins-fight/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "The gap between your executive and ops teams will impact your tech stack",
         "url": "https://www.housingwire.com/articles/exec-ops-technology-alignment-title/",
         "what": "As many in the title industry already understand, the conversation around technology selection has become fairly sophisticated",
@@ -329,24 +347,6 @@
         "what": "MIAMI and RWorld merged, citing overlapping members and one unified MLS data set, plus plans for Global Data Exchange participation.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/south-florida-mls-data/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "KBW says UWM is well positioned despite market pressures",
-        "url": "https://www.housingwire.com/articles/kbw-uwm-growth-marker/",
-        "what": "Analysts at KBW kept UWM at market perform and $4.50, citing 9% share in Q1 2026, 45% broker share, and in-house servicing by October.",
-        "numbers": "$4.50,, 9, 1, 2026,, 45",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kbw-uwm-growth-marker/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "HUD audit warns that some HECM LESA accounts may run dry",
-        "url": "https://www.housingwire.com/articles/hecm-lesa-accounts-run-out/",
-        "what": "HUD OIG audit says 1,237 HECM borrowers may see LESA funds depleted about six years early, with up to $258 million at risk.",
-        "numbers": "1,237, $258 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hecm-lesa-accounts-run-out/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
