@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-18 12:47 UTC",
+  "as_of": "2026-05-18 16:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,39 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Panorama Mortgage Group consolidates channels into SimplyPMG",
-      "link": "https://www.housingwire.com/articles/panorama-simplypmg-rebrand/",
+      "title": "Redfin Early Access adds pre-market and coming soon listings",
+      "link": "https://www.housingwire.com/articles/redfin-early-access-listings/",
       "published": "Mon, 18 May 2026"
     },
     {
-      "title": "NRMLA’s Steve Irwin on what reverse mortgage lenders are up against in 2026",
-      "link": "https://www.housingwire.com/articles/reverse-mortgage-2026-nrmla/",
+      "title": "Rate brings on Arizona-based LO Kelsey Marquardt",
+      "link": "https://www.housingwire.com/articles/rate-adds-kelsey-marquardt/",
       "published": "Mon, 18 May 2026"
     },
     {
-      "title": "Beazer takeover face-off turns on geography and margins",
-      "link": "https://www.housingwire.com/articles/beazer-geography-margins-fight/",
+      "title": "The Clear Cooperation Policy is dead. The MRED model is what replaces it.",
+      "link": "https://www.housingwire.com/articles/ccp-private-listing-networks/",
       "published": "Mon, 18 May 2026"
     },
     {
-      "title": "The gap between your executive and ops teams will impact your tech stack",
-      "link": "https://www.housingwire.com/articles/exec-ops-technology-alignment-title/",
+      "title": "Brody Gapp launches mortgage AI governance audit",
+      "link": "https://www.housingwire.com/articles/brody-gapp-mortgage-ai-governance/",
       "published": "Mon, 18 May 2026"
     },
     {
-      "title": "Mortgage rates are at yearly highs, but housing demand is still positive",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-are-at-yearly-highs-but-housing-demand-is-still-positive/",
-      "published": "Sat, 16 May 2026"
+      "title": "Listing agent demands raise antitrust and ethics risks",
+      "link": "https://www.housingwire.com/articles/listing-agent-demands-buyer-agreement/",
+      "published": "Mon, 18 May 2026"
     },
     {
-      "title": "Momentum MLS adds Rayse as member benefit",
-      "link": "https://www.housingwire.com/articles/momentum-mls-adds-rayse-as-member-benefit/",
-      "published": "Fri, 15 May 2026"
+      "title": "Broeksmit presses regulators on cost drivers as “stubbornly high” rates persist",
+      "link": "https://www.housingwire.com/articles/mba-rollback-mortgage-rules-high-rates/",
+      "published": "Mon, 18 May 2026"
+    },
+    {
+      "title": "More Than 80% of Prospective Home Sellers Are Interested in a “Coming Soon” Approach to Listing",
+      "link": "https://www.redfin.com/news/early-access-survey/",
+      "published": "Mon, 18 May 2026"
     },
     {
       "title": "Inside the $150,000 Hamptons Trailer This Couple Turned Into a Dream Home",
@@ -193,15 +198,19 @@
       "title": "$60 Million Montecito Mansion Tops List of April’s Priciest Home Sales",
       "link": "https://www.redfin.com/news/most-expensive-home-sales-april-2026/",
       "published": "Wed, 13 May 2026"
-    },
-    {
-      "title": "Fed in Wait-and-See Mode on Hot Inflation Report; Mortgage Rates to Track Oil Prices, Mideast Talks",
-      "link": "https://www.redfin.com/news/cpi-april-2026/",
-      "published": "Tue, 12 May 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Broeksmit presses regulators on cost drivers as “stubbornly high” rates persist",
+        "url": "https://www.housingwire.com/articles/mba-rollback-mortgage-rules-high-rates/",
+        "what": "Mortgage Bankers Association (MBA) president and CEO Bob Broeksmit said regulators should prioritize rolling back rules that raise costs as mortgage rates are likely to stay “stubb",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-rollback-mortgage-rules-high-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "NRMLA’s Steve Irwin on what reverse mortgage lenders are up against in 2026",
         "url": "https://www.housingwire.com/articles/reverse-mortgage-2026-nrmla/",
@@ -210,45 +219,45 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-2026-nrmla/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage rates are at yearly highs, but housing demand is still positive",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-are-at-yearly-highs-but-housing-demand-is-still-positive/",
-        "what": "Pending sales rose to 78,006 and purchase apps rose 7% yearly, even as mortgage rates hit highs and yields neared 4.60%.",
-        "numbers": "78,006, 7, 4.60",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-are-at-yearly-highs-but-housing-demand-is-still-positive/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "How loan officers are saving deals as mortgage rates cross 6.6%",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-662-loan-officers/",
-        "what": "Loan officers are shifting their playbooks to keep deals alive as mortgage rates climb north of 6.6%.",
-        "numbers": "6.6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-662-loan-officers/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "2026 HousingWire Homebuilder rankings expand the scoreboard",
-        "url": "https://www.housingwire.com/articles/2026-homebuilder-rankings-scoreboard/",
-        "what": "Up to now, homebuilding rankings have mostly answered two questions: who is bigger? And who is the biggest? They remain important questions",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-homebuilder-rankings-scoreboard/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Fed in Wait-and-See Mode on Hot Inflation Report; Mortgage Rates to Track Oil Prices, Mideast Talks",
-        "url": "https://www.redfin.com/news/cpi-april-2026/",
-        "what": "Takeaway: A slightly hotter than expected CPI report will keep the Fed on hold and may push officials slightly closer to considering hikes",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/cpi-april-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "More Than 80% of Prospective Home Sellers Are Interested in a “Coming Soon” Approach to Listing",
+        "url": "https://www.redfin.com/news/early-access-survey/",
+        "what": "Most homeowners would move if they could–but they feel stuck",
+        "numbers": "80",
+        "justified": "redfin.com — https://www.redfin.com/news/early-access-survey/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Redfin Early Access adds pre-market and coming soon listings",
+        "url": "https://www.housingwire.com/articles/redfin-early-access-listings/",
+        "what": "Redfin adds Early Access listings from Redfin Coming Soon and Compass brands, aiming to boost inventory by up to 12%",
+        "numbers": "12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/redfin-early-access-listings/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "The Clear Cooperation Policy is dead. The MRED model is what replaces it.",
+        "url": "https://www.housingwire.com/articles/ccp-private-listing-networks/",
+        "what": "CCP remains on the books, but MLS enforcement is fading as MRED expands, Compass cuts Zillow feeds, and Zillow files an antitrust suit.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ccp-private-listing-networks/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Brody Gapp launches mortgage AI governance audit",
+        "url": "https://www.housingwire.com/articles/brody-gapp-mortgage-ai-governance/",
+        "what": "Brody Gapp launches a mortgage AI governance audit practice and plans to release a Mortgage Bankers AI Governance Guide in Q3 2026.",
+        "numbers": "3, 2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/brody-gapp-mortgage-ai-governance/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Panorama Mortgage Group consolidates channels into SimplyPMG",
         "url": "https://www.housingwire.com/articles/panorama-simplypmg-rebrand/",
@@ -306,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "Rate brings on Arizona-based LO Kelsey Marquardt",
+        "url": "https://www.housingwire.com/articles/rate-adds-kelsey-marquardt/",
+        "what": "Rate hired Scottsdale, Arizona-based originator Kelsey Marquardt",
+        "numbers": "$86.97, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rate-adds-kelsey-marquardt/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Listing agent demands raise antitrust and ethics risks",
+        "url": "https://www.housingwire.com/articles/listing-agent-demands-buyer-agreement/",
+        "what": "A buyer’s agent says a listing agent required a specific compensation form and demanded the buyer agreement, raising antitrust and ethics issues.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/listing-agent-demands-buyer-agreement/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Beazer takeover face-off turns on geography and margins",
         "url": "https://www.housingwire.com/articles/beazer-geography-margins-fight/",
         "what": "Beazer Homes is not merely rejecting a takeover bid",
@@ -320,33 +347,6 @@
         "what": "As many in the title industry already understand, the conversation around technology selection has become fairly sophisticated",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/exec-ops-technology-alignment-title/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Momentum MLS adds Rayse as member benefit",
-        "url": "https://www.housingwire.com/articles/momentum-mls-adds-rayse-as-member-benefit/",
-        "what": "Leaders said the partnership responds to growing demand for clearer communication and visibility in the home buying and selling process.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/momentum-mls-adds-rayse-as-member-benefit/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Arbor Homes’ low-$200s Arrival Series battles the affordability gap",
-        "url": "https://www.housingwire.com/articles/arbor-homes-affordability/",
-        "what": "Arbor Homes expands its Arrival Series near Louisville with detached homes from $199,995 as the affordability gap widens.",
-        "numbers": "$199,995",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/arbor-homes-affordability/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "MIAMI and RWorld merger targets unified MLS data and tools",
-        "url": "https://www.housingwire.com/articles/south-florida-mls-data/",
-        "what": "MIAMI and RWorld merged, citing overlapping members and one unified MLS data set, plus plans for Global Data Exchange participation.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/south-florida-mls-data/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
