@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-18 16:32 UTC",
+  "as_of": "2026-05-18 19:02 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "ONE Sotheby’s International Realty expands into New Jersey",
+      "link": "https://www.housingwire.com/articles/one-sothebys-international-realty-expands-into-new-jersey/",
+      "published": "Mon, 18 May 2026"
+    },
+    {
+      "title": "Builder confidence remains subdued; suppliers eye price hikes",
+      "link": "https://www.housingwire.com/articles/builder-confidence-building-material-suppliers-prices/",
+      "published": "Mon, 18 May 2026"
+    },
+    {
       "title": "Redfin Early Access adds pre-market and coming soon listings",
       "link": "https://www.housingwire.com/articles/redfin-early-access-listings/",
       "published": "Mon, 18 May 2026"
@@ -160,13 +170,8 @@
       "published": "Mon, 18 May 2026"
     },
     {
-      "title": "Listing agent demands raise antitrust and ethics risks",
-      "link": "https://www.housingwire.com/articles/listing-agent-demands-buyer-agreement/",
-      "published": "Mon, 18 May 2026"
-    },
-    {
-      "title": "Broeksmit presses regulators on cost drivers as “stubbornly high” rates persist",
-      "link": "https://www.housingwire.com/articles/mba-rollback-mortgage-rules-high-rates/",
+      "title": "Iran Tensions, Not Economic Data, Are Driving Mortgage Rates This Week",
+      "link": "https://www.redfin.com/news/weekly-economic-update-may-18-2026/",
       "published": "Mon, 18 May 2026"
     },
     {
@@ -193,17 +198,21 @@
       "title": "Just Listed in Virginia: A One-of-a-Kind Estate That’s Part Home, Part Event Venue, Part Airbnb",
       "link": "https://www.redfin.com/news/40325-charles-town-pike-hamilton-virginia-listing/",
       "published": "Wed, 13 May 2026"
-    },
-    {
-      "title": "$60 Million Montecito Mansion Tops List of April’s Priciest Home Sales",
-      "link": "https://www.redfin.com/news/most-expensive-home-sales-april-2026/",
-      "published": "Wed, 13 May 2026"
     }
   ],
   "feed_101020": {
     "macro": [
       {
-        "title": "Broeksmit presses regulators on cost drivers as “stubbornly high” rates persist",
+        "title": "Iran Tensions, Not Economic Data, Are Driving Mortgage Rates This Week",
+        "url": "https://www.redfin.com/news/weekly-economic-update-may-18-2026/",
+        "what": "This Week In A Nutshell: Rates are likely to move more on headlines out of Iran than on economic data",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-may-18-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Broeksmit presses regulators on cost drivers as ‘stubbornly high’ rates persist",
         "url": "https://www.housingwire.com/articles/mba-rollback-mortgage-rules-high-rates/",
         "what": "Mortgage Bankers Association (MBA) president and CEO Bob Broeksmit said regulators should prioritize rolling back rules that raise costs as mortgage rates are likely to stay “stubb",
         "numbers": "",
@@ -222,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Builder confidence remains subdued; suppliers eye price hikes",
+        "url": "https://www.housingwire.com/articles/builder-confidence-building-material-suppliers-prices/",
+        "what": "NAHB HMI increased 3 points to 37 in May, but sentiment remains negative as affordability limits demand and incentives persist",
+        "numbers": "3, 37, 6.2, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/builder-confidence-building-material-suppliers-prices/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "More Than 80% of Prospective Home Sellers Are Interested in a “Coming Soon” Approach to Listing",
         "url": "https://www.redfin.com/news/early-access-survey/",
@@ -302,18 +320,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/40325-charles-town-pike-hamilton-virginia-listing/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "$60 Million Montecito Mansion Tops List of April’s Priciest Home Sales",
-        "url": "https://www.redfin.com/news/most-expensive-home-sales-april-2026/",
-        "what": "Bruce Willis’ former Beverly Hills home and a mountain retreat in Vail are also among April’s most expensive home sales",
-        "numbers": "$60 million, 2, 3",
-        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-april-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
+      {
+        "title": "ONE Sotheby’s International Realty expands into New Jersey",
+        "url": "https://www.housingwire.com/articles/one-sothebys-international-realty-expands-into-new-jersey/",
+        "what": "The move connects two family-led affiliates and creates a new luxury real estate corridor stretching from Florida’s into the Northeast.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/one-sothebys-international-realty-expands-into-new-jersey/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Rate brings on Arizona-based LO Kelsey Marquardt",
         "url": "https://www.housingwire.com/articles/rate-adds-kelsey-marquardt/",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/listing-agent-demands-buyer-agreement/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Beazer takeover face-off turns on geography and margins",
-        "url": "https://www.housingwire.com/articles/beazer-geography-margins-fight/",
-        "what": "Beazer Homes is not merely rejecting a takeover bid",
-        "numbers": "$25.75, $28.50, $29.00,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/beazer-geography-margins-fight/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The gap between your executive and ops teams will impact your tech stack",
-        "url": "https://www.housingwire.com/articles/exec-ops-technology-alignment-title/",
-        "what": "As many in the title industry already understand, the conversation around technology selection has become fairly sophisticated",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/exec-ops-technology-alignment-title/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
