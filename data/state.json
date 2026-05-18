@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-18 04:41 UTC",
+  "as_of": "2026-05-18 08:52 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The gap between your executive and ops teams will impact your tech stack",
+      "link": "https://www.housingwire.com/articles/exec-ops-technology-alignment-title/",
+      "published": "Mon, 18 May 2026"
+    },
+    {
       "title": "Mortgage rates are at yearly highs, but housing demand is still positive",
       "link": "https://www.housingwire.com/articles/mortgage-rates-are-at-yearly-highs-but-housing-demand-is-still-positive/",
       "published": "Sat, 16 May 2026"
@@ -162,11 +167,6 @@
     {
       "title": "MIAMI and RWorld merger targets unified MLS data and tools",
       "link": "https://www.housingwire.com/articles/south-florida-mls-data/",
-      "published": "Fri, 15 May 2026"
-    },
-    {
-      "title": "2026 HousingWire Homebuilder rankings expand the scoreboard",
-      "link": "https://www.housingwire.com/articles/2026-homebuilder-rankings-scoreboard/",
       "published": "Fri, 15 May 2026"
     },
     {
@@ -297,6 +297,15 @@
     ],
     "notables": [
       {
+        "title": "The gap between your executive and ops teams will impact your tech stack",
+        "url": "https://www.housingwire.com/articles/exec-ops-technology-alignment-title/",
+        "what": "As many in the title industry already understand, the conversation around technology selection has become fairly sophisticated",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/exec-ops-technology-alignment-title/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Momentum MLS adds Rayse as member benefit",
         "url": "https://www.housingwire.com/articles/momentum-mls-adds-rayse-as-member-benefit/",
         "what": "Leaders said the partnership responds to growing demand for clearer communication and visibility in the home buying and selling process.",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/hecm-lesa-accounts-run-out/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Real estate agents: Before you paste AI copy into the MLS, run this checklist",
-        "url": "https://www.housingwire.com/articles/ai-fair-housing-remarks-checklist/",
-        "what": "Checklist for AI generated MLS remarks, avoid buyer profiling, remove coded terms, verify facts and add a required human approval step.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-fair-housing-remarks-checklist/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
