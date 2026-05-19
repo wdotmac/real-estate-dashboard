@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-19 16:30 UTC",
+  "as_of": "2026-05-19 19:17 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "CrossCountry Mortgage expands RON, eNote closings with Blend",
-      "link": "https://www.housingwire.com/articles/crosscountry-ron-enote-blend/",
+      "title": "Study: Bipartisan Social Security plan to borrow and invest unlikely to pay off",
+      "link": "https://www.housingwire.com/articles/bipartisan-social-security-plan-borrow-and-invest/",
       "published": "Tue, 19 May 2026"
     },
     {
-      "title": "New-home purchase applications slip 2.4% year over year in April",
-      "link": "https://www.housingwire.com/articles/mba-new-home-purchase-applications/",
+      "title": "Fault lines surface as projects tap California’s CEQA exemption law",
+      "link": "https://www.housingwire.com/articles/california-ceqa-exemptions-housing/",
       "published": "Tue, 19 May 2026"
     },
     {
-      "title": "Pending home sales rise 1.4% in April, NAR says",
-      "link": "https://www.housingwire.com/articles/pending-home-sales-april-nar/",
+      "title": "Cultural symbolism is influencing some homebuyers in the Year of the Fire Horse",
+      "link": "https://www.housingwire.com/articles/cultural-symbolism-is-influencing-some-homebuyers-in-the-year-of-the-fire-horse/",
       "published": "Tue, 19 May 2026"
     },
     {
-      "title": "Two Harbors delays shareholder vote on CCM deal amid UWM rivalry",
-      "link": "https://www.housingwire.com/articles/two-harbors-delays-ccm-sale-vote/",
+      "title": "Former Ohio State athletic director Gene Smith joins M/I Homes board",
+      "link": "https://www.housingwire.com/articles/gene-smith-joins-m-i-homes-board/",
       "published": "Tue, 19 May 2026"
     },
     {
-      "title": "What happens if Zillow loses MRED listings tonight?",
-      "link": "https://www.housingwire.com/articles/clear-cooperation-zillow-mred/",
+      "title": "The new listing wars and why agents need to pay attention",
+      "link": "https://www.housingwire.com/articles/the-new-listing-ai-listing-access-wars/",
       "published": "Tue, 19 May 2026"
     },
     {
-      "title": "Rocket Mortgage, Redfin introduce savings program valued at up to $20K",
-      "link": "https://www.housingwire.com/articles/rocket-mortgage-redfin-incentives/",
+      "title": "Can the housing market weather the storm as mortgage rates climb past 6.7%?",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-rise-10-year-yield/",
       "published": "Tue, 19 May 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Can the housing market weather the storm as mortgage rates climb past 6.7%?",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-rise-10-year-yield/",
+        "what": "HousingWire Data shows 30-year conforming rates at 6.77%, FHA at 6.33% and jumbo at 6.89% as the 10-year yield rises amid Iran conflict.",
+        "numbers": "30, 6.77, 6.33, 6.89, 10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-rise-10-year-yield/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "New-home purchase applications slip 2.4% year over year in April",
         "url": "https://www.housingwire.com/articles/mba-new-home-purchase-applications/",
         "what": "New-home purchase applications are down year over year in April as higher rates push more buyers into FHA and VA loans.",
@@ -223,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "Fault lines surface as projects tap California’s CEQA exemption law",
+        "url": "https://www.housingwire.com/articles/california-ceqa-exemptions-housing/",
+        "what": "Last July, California Gov",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/california-ceqa-exemptions-housing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "CrossCountry Mortgage expands RON, eNote closings with Blend",
         "url": "https://www.housingwire.com/articles/crosscountry-ron-enote-blend/",
         "what": "CrossCountry Mortgage uses Blend Close to support RON and eNote, cutting average closing time to 45 minutes and enabling quicker closings.",
@@ -239,33 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/pending-home-sales-april-nar/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Two Harbors delays shareholder vote on CCM deal amid UWM rivalry",
-        "url": "https://www.housingwire.com/articles/two-harbors-delays-ccm-sale-vote/",
-        "what": "Two Harbors Investment Corp",
-        "numbers": "28",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/two-harbors-delays-ccm-sale-vote/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "What happens if Zillow loses MRED listings tonight?",
-        "url": "https://www.housingwire.com/articles/clear-cooperation-zillow-mred/",
-        "what": "Zillow seeks an injunction as MRED threatens to cut IDX and VOW access by 11:59 p.m",
-        "numbers": "11, 59, 19",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/clear-cooperation-zillow-mred/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Rocket Mortgage, Redfin introduce savings program valued at up to $20K",
-        "url": "https://www.housingwire.com/articles/rocket-mortgage-redfin-incentives/",
-        "what": "Rocket Mortgage and Redfin introduced a select-market incentive combining lender credits and commission discounts, capped at $20,000.",
-        "numbers": "$20,000.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-mortgage-redfin-incentives/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Prices Drops Are Becoming Slightly Less Common As Housing Market Stabilizes",
@@ -315,38 +306,47 @@
     ],
     "notables": [
       {
-        "title": "Opendoor’s ‘grand reopening’: Courting agents with a new RealScout integration",
-        "url": "https://www.housingwire.com/articles/opendoors-grand-reopening-courting-agents-with-a-new-realscout-integration/",
-        "what": "The integration is embedded into the RealScout platform, allowing agents to request and manage offers within their existing workflow.",
+        "title": "Study: Bipartisan Social Security plan to borrow and invest unlikely to pay off",
+        "url": "https://www.housingwire.com/articles/bipartisan-social-security-plan-borrow-and-invest/",
+        "what": "The assessment was critical of a plan championed by Sens",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/opendoors-grand-reopening-courting-agents-with-a-new-realscout-integration/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bipartisan-social-security-plan-borrow-and-invest/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Bray Real Estate Group joins Compass in Texas",
-        "url": "https://www.housingwire.com/articles/bray-real-estate-compass-texas/",
-        "what": "Bray Real Estate Group joins Compass in Texas, adding 100-plus agents and $475M in 2025 sales volume across DFW and Austin.",
-        "numbers": "100, $475, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bray-real-estate-compass-texas/",
+        "title": "Cultural symbolism is influencing some homebuyers in the Year of the Fire Horse",
+        "url": "https://www.housingwire.com/articles/cultural-symbolism-is-influencing-some-homebuyers-in-the-year-of-the-fire-horse/",
+        "what": "In 2026’s Year of the Fire Horse, some buyers weigh feng shui cues like entries, kitchens, stairs, and numbers alongside price.",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cultural-symbolism-is-influencing-some-homebuyers-in-the-year-of-the-fire-horse/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Former Ohio State athletic director Gene Smith joins M/I Homes board",
+        "url": "https://www.housingwire.com/articles/gene-smith-joins-m-i-homes-board/",
+        "what": "M/I Homes said Gene Smith joined its board after a May 13, 2026 shareholder vote, replacing retiring director Norman L",
+        "numbers": "13,, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gene-smith-joins-m-i-homes-board/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Constellation1 enhances HouseValues seller lead platform",
-        "url": "https://www.housingwire.com/articles/constellation1-enhances-housevalues-seller-lead-platform/",
-        "what": "The updated platform expands beyond lead generation by combining exclusive seller leads with monthly homeowner equity reports and more.",
+        "title": "The new listing wars and why agents need to pay attention",
+        "url": "https://www.housingwire.com/articles/the-new-listing-ai-listing-access-wars/",
+        "what": "As private exclusives grow, AI-driven search could reduce friction and weaken listing silos, shifting agent value toward trust and advice.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/constellation1-enhances-housevalues-seller-lead-platform/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-new-listing-ai-listing-access-wars/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "RealTrends Verified names 2026 GameChangers amid brokerage consolidation wave",
-        "url": "https://www.housingwire.com/articles/realtrends-2026-gamechangers-growth/",
-        "what": "This year’s GameChangers are the brokerages that posted the highest transaction-side percentage growth over the five-year period from 2021 to 2025.",
-        "numbers": "2021, 2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realtrends-2026-gamechangers-growth/",
+        "title": "2026 GameChanger: Lamacchia Realty defies market slump with 68% growth",
+        "url": "https://www.housingwire.com/articles/2026-gamechanger-lamacchia-realty-defies-market-slump-with-68-growth/",
+        "what": "Lamacchia Realty posted 68% transaction sides growth from 2021 through 2025, according to RealTrends Verified’s annual GameChangers rankings.",
+        "numbers": "68, 2021, 2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-gamechanger-lamacchia-realty-defies-market-slump-with-68-growth/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
