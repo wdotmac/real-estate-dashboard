@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-19 04:33 UTC",
+  "as_of": "2026-05-19 08:38 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "A common-sense approach to housing affordability",
+      "link": "https://www.housingwire.com/articles/unlock-housing-supply-affordability/",
+      "published": "Tue, 19 May 2026"
+    },
+    {
+      "title": "Independent single-family rental owners insulated from broader market trends",
+      "link": "https://www.housingwire.com/articles/single-family-rental-owners-insulated/",
+      "published": "Tue, 19 May 2026"
+    },
+    {
       "title": "Ginnie Mae’s Joseph Gormley sounds the alarm on ‘risk-layered’ FHA portfolios",
       "link": "https://www.housingwire.com/articles/ginnie-mae-tpp-show-me/",
       "published": "Mon, 18 May 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Social Security COLA forecast for 2027 jumps to 3.9% in response to rising inflation",
       "link": "https://www.housingwire.com/articles/social-security-cola-forecast-2027-inflation/",
-      "published": "Mon, 18 May 2026"
-    },
-    {
-      "title": "Zillow seeks injunction as MRED threatens data feed cutoff",
-      "link": "https://www.housingwire.com/articles/zillow-injunction-mred-cutoff/",
-      "published": "Mon, 18 May 2026"
-    },
-    {
-      "title": "The battle for listings: How brokerages are reclaiming their data",
-      "link": "https://www.housingwire.com/articles/brokers-control-listing-data/",
       "published": "Mon, 18 May 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "A common-sense approach to housing affordability",
+        "url": "https://www.housingwire.com/articles/unlock-housing-supply-affordability/",
+        "what": "Our elected leaders have a unique opportunity to strengthen small businesses, sustain critical industries, combat inflation in the housing market, and make homeownership more accessible for millions of Americans",
+        "numbers": "6, 2022,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/unlock-housing-supply-affordability/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Social Security COLA forecast for 2027 jumps to 3.9% in response to rising inflation",
         "url": "https://www.housingwire.com/articles/social-security-cola-forecast-2027-inflation/",
         "what": "The average monthly benefit for retired workers is projected to rise from $2,081.16 to $2,162.33, based on April 2026 figures.",
@@ -222,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Independent single-family rental owners insulated from broader market trends",
+        "url": "https://www.housingwire.com/articles/single-family-rental-owners-insulated/",
+        "what": "Independent single-family rental owners remain insulated from rental market concessions and institutional investor pressures, according to TurboTenant.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/single-family-rental-owners-insulated/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
       {
         "title": "Google brings real estate listings back to mobile search",
         "url": "https://www.housingwire.com/articles/google-mobile-listings-return/",
@@ -266,15 +284,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/early-access-survey/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Redfin Early Access adds pre-market and coming soon listings",
-        "url": "https://www.housingwire.com/articles/redfin-early-access-listings/",
-        "what": "Redfin adds Early Access listings from Redfin Coming Soon and Compass brands, aiming to boost inventory by up to 12%",
-        "numbers": "12",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/redfin-early-access-listings/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Inside the $150,000 Hamptons Trailer This Couple Turned Into a Dream Home",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/one-sothebys-international-realty-expands-into-new-jersey/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Rate brings on Arizona-based LO Kelsey Marquardt",
-        "url": "https://www.housingwire.com/articles/rate-adds-kelsey-marquardt/",
-        "what": "Rate hired Scottsdale, Arizona-based originator Kelsey Marquardt",
-        "numbers": "$86.97, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rate-adds-kelsey-marquardt/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
