@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-20 12:03 UTC",
+  "as_of": "2026-05-20 15:55 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "ACES report shows mortgage defect rate fell to 1.38% in Q4 2025",
-      "link": "https://www.housingwire.com/articles/aces-mortgage-defects-q4/",
+      "title": "Wells Fargo mortgage oversight case ends in $110 million settlement",
+      "link": "https://www.housingwire.com/articles/wells-fargo-mortgage-oversight-deal/",
       "published": "Wed, 20 May 2026"
     },
     {
-      "title": "The guardrails that decide the outcome of a brokerage sale",
-      "link": "https://www.housingwire.com/articles/brokerage-sale-deal-guardrails/",
+      "title": "Maryland overrides municipal zoning on transit development",
+      "link": "https://www.housingwire.com/articles/maryland-overrides-municipal-zoning-on-transit-development/",
       "published": "Wed, 20 May 2026"
     },
     {
-      "title": "Escrow audit readiness: A checklist for title agencies",
-      "link": "https://www.housingwire.com/articles/escrow-audit-readiness-checklist/",
+      "title": "How much higher can mortgage rates go?",
+      "link": "https://www.housingwire.com/articles/how-much-higher-can-mortgage-rates-go/",
       "published": "Wed, 20 May 2026"
     },
     {
-      "title": "The land-light multiplier: Infrastructure finance can amplify the Land Banking Model",
-      "link": "https://www.housingwire.com/articles/infrastructure-finance-land-banking/",
+      "title": "MRED cuts Zillow access to Chicagoland listing feed",
+      "link": "https://www.housingwire.com/articles/mred-suspends-zillow-feed/",
       "published": "Wed, 20 May 2026"
     },
     {
-      "title": "Owning the first click: How digital brand ownership shapes visibility and lead generation",
-      "link": "https://www.housingwire.com/articles/digital-brand-ownership/",
+      "title": "110% growth and counting: A Kansas City broker’s GameChanger run",
+      "link": "https://www.housingwire.com/articles/110-growth-and-counting-a-kansas-city-brokers-gamechanger-run/",
       "published": "Wed, 20 May 2026"
     },
     {
-      "title": "DRB Group and Sumitomo Forestry mark a 10-year arc of growth",
-      "link": "https://www.housingwire.com/articles/drb-sumitomo-10-year-growth/",
-      "published": "Tue, 19 May 2026"
+      "title": "Mortgage applications fall 2.3% as rates hit upper sixes",
+      "link": "https://www.housingwire.com/articles/mortgage-applications-fall-rates/",
+      "published": "Wed, 20 May 2026"
     },
     {
       "title": "Prices Drops Are Becoming Slightly Less Common As Housing Market Stabilizes",
@@ -203,20 +203,29 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "The land-light multiplier: Infrastructure finance can amplify the Land Banking Model",
-        "url": "https://www.housingwire.com/articles/infrastructure-finance-land-banking/",
-        "what": "Infrastructure finance is helping builders and land bankers reduce lot costs, preserve capital and improve development economics.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/infrastructure-finance-land-banking/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+        "title": "How much higher can mortgage rates go?",
+        "url": "https://www.housingwire.com/articles/how-much-higher-can-mortgage-rates-go/",
+        "what": "Mortgage rates reached 6.75% as the 10-year yield hit 4.68%, with Iran, spreads, and Fed signals driving moves.",
+        "numbers": "6.75, 10, 4.68",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/how-much-higher-can-mortgage-rates-go/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "AI-powered data remaps builders’ landbuying art and science",
-        "url": "https://www.housingwire.com/articles/prophetic-ai-homebuilders-land/",
-        "what": "Prophetic updated SiteAI to automate parcel yield studies and generate zoning compliant site plans in minutes",
+        "title": "Mortgage applications fall 2.3% as rates hit upper sixes",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-fall-rates/",
+        "what": "MBA data show mortgage applications fell 2.3% as the 30-year fixed rate rose to 6.56% and the purchase index dropped 4%.",
+        "numbers": "2.3, 30, 6.56, 4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-fall-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "The housing market is increasingly rewarding functionality over scarcity",
+        "url": "https://www.housingwire.com/articles/price-cuts-housing-market-strength-signal/",
+        "what": "HousingWire data shows price cuts are helping some markets maintain transaction flow as higher mortgage rates pressure affordability.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/prophetic-ai-homebuilders-land/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/price-cuts-housing-market-strength-signal/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -232,6 +241,33 @@
     ],
     "housing": [
       {
+        "title": "Wells Fargo mortgage oversight case ends in $110 million settlement",
+        "url": "https://www.housingwire.com/articles/wells-fargo-mortgage-oversight-deal/",
+        "what": "Final court approval allows a $110 million Wells Fargo deal, with $100 million for grants and closing cost aid across 50-plus metros.",
+        "numbers": "$110 million, $100 million, 50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/wells-fargo-mortgage-oversight-deal/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Maryland overrides municipal zoning on transit development",
+        "url": "https://www.housingwire.com/articles/maryland-overrides-municipal-zoning-on-transit-development/",
+        "what": "Maryland’s legislative and executive branches are about to tell cities and counties what they can – and cannot – do with parcels of land sitting next to their rail stations",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/maryland-overrides-municipal-zoning-on-transit-development/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "MRED cuts Zillow access to Chicagoland listing feed",
+        "url": "https://www.housingwire.com/articles/mred-suspends-zillow-feed/",
+        "what": "Zillow lost licensed MRED listing data for Zillow and Trulia, about 43,000 active listings, as injunction and arbitration motions proceed.",
+        "numbers": "43,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mred-suspends-zillow-feed/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "ACES report shows mortgage defect rate fell to 1.38% in Q4 2025",
         "url": "https://www.housingwire.com/articles/aces-mortgage-defects-q4/",
         "what": "Mortgage quality control defects declined sharply in the fourth quarter of 2025, even as lenders continued to grapple with a rise in eligibility-related issues tied to affordabilit",
@@ -239,24 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/aces-mortgage-defects-q4/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Owning the first click: How digital brand ownership shapes visibility and lead generation",
-        "url": "https://www.housingwire.com/articles/digital-brand-ownership/",
-        "what": "Agents are shifting to owned domains and personal websites to improve SEO visibility, branding control and lead ownership.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/digital-brand-ownership/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Fault lines surface as projects tap California’s CEQA exemption law",
-        "url": "https://www.housingwire.com/articles/california-ceqa-exemptions-housing/",
-        "what": "Last July, California Gov",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/california-ceqa-exemptions-housing/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Prices Drops Are Becoming Slightly Less Common As Housing Market Stabilizes",
@@ -306,47 +324,29 @@
     ],
     "notables": [
       {
+        "title": "110% growth and counting: A Kansas City broker’s GameChanger run",
+        "url": "https://www.housingwire.com/articles/110-growth-and-counting-a-kansas-city-brokers-gamechanger-run/",
+        "what": "According to RealTrends Verified, REMAX State Line + Elite posted $563.2 million in volume across 1,558 transactions in 2025.",
+        "numbers": "$563.2 million, 1,558, 2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/110-growth-and-counting-a-kansas-city-brokers-gamechanger-run/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "2026 GameChanger: Equity Union uses agent-first model to drive 2025 production",
+        "url": "https://www.housingwire.com/articles/equity-union-agent-first-model/",
+        "what": "Equity Union closed 5,670 sides in 2025 and led RealTrends GameChanger rankings, citing agent support and early legal prep.",
+        "numbers": "5,670, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/equity-union-agent-first-model/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "The guardrails that decide the outcome of a brokerage sale",
         "url": "https://www.housingwire.com/articles/brokerage-sale-deal-guardrails/",
         "what": "Selling a real estate brokerage represents years of hard work, risk and dedication",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/brokerage-sale-deal-guardrails/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Escrow audit readiness: A checklist for title agencies",
-        "url": "https://www.housingwire.com/articles/escrow-audit-readiness-checklist/",
-        "what": "Use this escrow audit readiness checklist for title agencies, covering three-way reconciliation, required documents and aged items before review.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/escrow-audit-readiness-checklist/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "DRB Group and Sumitomo Forestry mark a 10-year arc of growth",
-        "url": "https://www.housingwire.com/articles/drb-sumitomo-10-year-growth/",
-        "what": "“Top-five-ranked U.S",
-        "numbers": "2024, $4.9 billion, $4.5 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/drb-sumitomo-10-year-growth/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Kevelyn Guzman on leadership, growth and navigating change",
-        "url": "https://www.housingwire.com/articles/kevelyn-guzman-on-leadership-growth-and-navigating-change/",
-        "what": "Kevelyn Guzman, 2024 Woman of Influence and Regional Vice President at Coldwell Banker Warburg, shares leadership insights on trusting your instincts, navigating uncertainty and su",
-        "numbers": "2024",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kevelyn-guzman-on-leadership-growth-and-navigating-change/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Study: Bipartisan Social Security plan to borrow and invest unlikely to pay off",
-        "url": "https://www.housingwire.com/articles/bipartisan-social-security-plan-borrow-and-invest/",
-        "what": "The assessment was critical of a plan championed by Sens",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bipartisan-social-security-plan-borrow-and-invest/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
