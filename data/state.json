@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-20 21:12 UTC",
+  "as_of": "2026-05-20 22:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Wed, 20 May 2026"
     },
     {
+      "title": "Coming Soon in Chicago: A $2M Move-In Ready Duplex Just Steps From Lake Michigan",
+      "link": "https://www.redfin.com/news/2006-n-mohawk-st-60614-unit-1-listing/",
+      "published": "Wed, 20 May 2026"
+    },
+    {
       "title": "Prices Drops Are Becoming Slightly Less Common As Housing Market Stabilizes",
       "link": "https://www.redfin.com/news/price-drops-april-2026/",
       "published": "Tue, 19 May 2026"
@@ -192,11 +197,6 @@
     {
       "title": "Inside the $150,000 Hamptons Trailer This Couple Turned Into a Dream Home",
       "link": "https://www.redfin.com/news/couple-renovate-hamptons-mobile-home/",
-      "published": "Fri, 15 May 2026"
-    },
-    {
-      "title": "The Price Point: What $400,000 Buys in These Hot U.S. Neighborhoods",
-      "link": "https://www.redfin.com/news/the-price-point-what-400000-buys-in-these-hot-u-s-neighborhoods/",
       "published": "Fri, 15 May 2026"
     }
   ],
@@ -240,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Coming Soon in Chicago: A $2M Move-In Ready Duplex Just Steps From Lake Michigan",
+        "url": "https://www.redfin.com/news/2006-n-mohawk-st-60614-unit-1-listing/",
+        "what": "In this edition of Coming Soon–a series from Redfin News that explores new listings that house hunters can find early only on Redfin.com and Compass.com–we’re exploring a duplex unit in Chicago’s Lincoln Park",
+        "numbers": "2024, $2 million, $2",
+        "justified": "redfin.com — https://www.redfin.com/news/2006-n-mohawk-st-60614-unit-1-listing/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Why agents will ignore your expensive AI tool — and how to fix it",
         "url": "https://www.housingwire.com/articles/why-agents-will-ignore-your-expensive-ai-tool-and-how-to-fix-it/",
@@ -302,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/couple-renovate-hamptons-mobile-home/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "The Price Point: What $400,000 Buys in These Hot U.S. Neighborhoods",
-        "url": "https://www.redfin.com/news/the-price-point-what-400000-buys-in-these-hot-u-s-neighborhoods/",
-        "what": "In this edition of The Price Point—a weekly series where Redfin data journalists explore current housing inventory across a rotating combination of budgets and metro areas—we’re looking at some of the hottest real estate markets in the country, according to Redfin’s latest analysis",
-        "numbers": "100, $400,000",
-        "justified": "redfin.com — https://www.redfin.com/news/the-price-point-what-400000-buys-in-these-hot-u-s-neighborhoods/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
