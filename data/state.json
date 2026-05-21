@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-21 13:31 UTC",
+  "as_of": "2026-05-21 16:48 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": 5.999999999999961
     },
     "mortgage_30y": {
-      "rate_pct": 6.36,
-      "delta_bp_wow": -0.9999999999999787
+      "rate_pct": 6.51,
+      "delta_bp_wow": 14.999999999999947
     },
     "starts": {
       "level_saar": 1465.0,
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Vermont bills aim to expand manufactured housing affordability",
-      "link": "https://www.housingwire.com/articles/vermont-manufactured-housing-bills/",
+      "title": "Lucky To Live Here joins SERHANT. in Long Island expansion",
+      "link": "https://www.housingwire.com/articles/lucky-live-here-serhant/",
       "published": "Thu, 21 May 2026"
     },
     {
-      "title": "Toll Brothers lifts 2026 delivery outlook as luxury demand holds",
-      "link": "https://www.housingwire.com/articles/toll-brothers-2026-delivery-guidance/",
-      "published": "Wed, 20 May 2026"
+      "title": "Southern Land adds an integrated mortgage division as it scales MPCs",
+      "link": "https://www.housingwire.com/articles/southern-land-company-launches-slc-lending-in-house-mortgage-division/",
+      "published": "Thu, 21 May 2026"
     },
     {
-      "title": "Why agents will ignore your expensive AI tool — and how to fix it",
-      "link": "https://www.housingwire.com/articles/why-agents-will-ignore-your-expensive-ai-tool-and-how-to-fix-it/",
-      "published": "Wed, 20 May 2026"
+      "title": "Rate Insurance: Home premiums rose 9% in 2025",
+      "link": "https://www.housingwire.com/articles/homeowners-insurance-2025-rate/",
+      "published": "Thu, 21 May 2026"
     },
     {
-      "title": "HUD urges states to cut fees, simplify codes and fast-track permits",
-      "link": "https://www.housingwire.com/articles/hud-report-urges-deregulation-housing/",
-      "published": "Wed, 20 May 2026"
+      "title": "KB Home enters Atlanta with first land deal and new community",
+      "link": "https://www.housingwire.com/articles/kb-home-enters-atlanta-market/",
+      "published": "Thu, 21 May 2026"
     },
     {
-      "title": "Land leases, ARM buydowns emerge as lending options while mortgage rates stay elevated",
-      "link": "https://www.housingwire.com/articles/land-leases-arm-buydowns/",
-      "published": "Wed, 20 May 2026"
+      "title": "Fearless at foreclosure auction",
+      "link": "https://www.housingwire.com/articles/foreclosure-auctions-homeownership/",
+      "published": "Thu, 21 May 2026"
     },
     {
-      "title": "ROAD wins House nod, carving BTR out from institutional investor ban",
-      "link": "https://www.housingwire.com/articles/road-wins-house-nod-carving-btr-out-from-institutional-investor-ban/",
-      "published": "Wed, 20 May 2026"
+      "title": "NEXA Lending enters investment, phased acquisition with Copper Ridge Ventures",
+      "link": "https://www.housingwire.com/articles/nexa-phased-acquisition-copper-ridge/",
+      "published": "Thu, 21 May 2026"
     },
     {
       "title": "Home Purchase Cancellations Are No Longer on the Rise As Demand Ticks Up",
@@ -212,24 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Land leases, ARM buydowns emerge as lending options while mortgage rates stay elevated",
-        "url": "https://www.housingwire.com/articles/land-leases-arm-buydowns/",
-        "what": "Mortgage lenders are getting creative to combat the housing affordability crisis fueled by rising interest rates, rolling out novel products and blending existing options to keep b",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/land-leases-arm-buydowns/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Lenders wrestle with the nuances of modern credit score pricing",
-        "url": "https://www.housingwire.com/articles/gse-modern-credit-scores/",
-        "what": "Mortgage lenders are currently wrestling with a high-stakes puzzle: how to accurately compare the new credit score models hitting the market",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/gse-modern-credit-scores/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Iran Tensions, Not Economic Data, Are Driving Mortgage Rates This Week",
         "url": "https://www.redfin.com/news/weekly-economic-update-may-18-2026/",
         "what": "This Week In A Nutshell: Rates are likely to move more on headlines out of Iran than on economic data",
@@ -240,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Southern Land adds an integrated mortgage division as it scales MPCs",
+        "url": "https://www.housingwire.com/articles/southern-land-company-launches-slc-lending-in-house-mortgage-division/",
+        "what": "Southern Land Company has launched an in-house mortgage division, SLC Lending, as the Nashville-based developer looks to tighten control of the homebuying process across its master-planned and single-family communities",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/southern-land-company-launches-slc-lending-in-house-mortgage-division/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Home Purchase Cancellations Are No Longer on the Rise As Demand Ticks Up",
         "url": "https://www.redfin.com/news/contract-cancellations-april-2026/",
@@ -268,33 +259,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Why agents will ignore your expensive AI tool — and how to fix it",
-        "url": "https://www.housingwire.com/articles/why-agents-will-ignore-your-expensive-ai-tool-and-how-to-fix-it/",
-        "what": "REMAX broker-owner Tyler Morton sat down with HousingWire to share hard-won lessons on building AI infrastructure that agents actually use.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/why-agents-will-ignore-your-expensive-ai-tool-and-how-to-fix-it/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "HUD urges states to cut fees, simplify codes and fast-track permits",
-        "url": "https://www.housingwire.com/articles/hud-report-urges-deregulation-housing/",
-        "what": "HUD urges fee caps, code limits, and faster permits, citing over $100,000 in regulatory costs per new single-family home.",
-        "numbers": "$100,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-report-urges-deregulation-housing/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "ROAD wins House nod, carving BTR out from institutional investor ban",
-        "url": "https://www.housingwire.com/articles/road-wins-house-nod-carving-btr-out-from-institutional-investor-ban/",
-        "what": "House passed the ROAD to Housing Act 396-13, removing a 7-year BTR selloff rule while keeping a 350-home investor ban with carve-outs.",
-        "numbers": "396, 13,, 7, 350",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/road-wins-house-nod-carving-btr-out-from-institutional-investor-ban/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Prices Drops Are Becoming Slightly Less Common As Housing Market Stabilizes",
         "url": "https://www.redfin.com/news/price-drops-april-2026/",
         "what": "The share of home sellers cutting their asking prices has fallen from its peak as buyers lose a bit of negotiating power, but price drops are still much more common than in years past",
@@ -315,6 +279,69 @@
     ],
     "notables": [
       {
+        "title": "Lucky To Live Here joins SERHANT. in Long Island expansion",
+        "url": "https://www.housingwire.com/articles/lucky-live-here-serhant/",
+        "what": "SERHANT",
+        "numbers": "$1 billion, $59 million, 12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lucky-live-here-serhant/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Rate Insurance: Home premiums rose 9% in 2025",
+        "url": "https://www.housingwire.com/articles/homeowners-insurance-2025-rate/",
+        "what": "Rate Insurance says average homeowners insurance rose 9.16% in 2025 to $2,205 and is up 107.6% since 2019, based on 265,000 policies.",
+        "numbers": "9.16, 2025, $2,205, 107.6, 2019,, 265,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homeowners-insurance-2025-rate/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "KB Home enters Atlanta with first land deal and new community",
+        "url": "https://www.housingwire.com/articles/kb-home-enters-atlanta-market/",
+        "what": "B Home enters the Atlanta market after buying 110 homesites, with Whitley Meadows in Gwinnett County slated for early 2027.",
+        "numbers": "110, 2027.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kb-home-enters-atlanta-market/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Fearless at foreclosure auction",
+        "url": "https://www.housingwire.com/articles/foreclosure-auctions-homeownership/",
+        "what": "More first-time homebuyers are turning to foreclosure auctions as an affordable path to homeownership, despite the challenges of all-cash homebuying.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/foreclosure-auctions-homeownership/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "NEXA Lending enters investment, phased acquisition with Copper Ridge Ventures",
+        "url": "https://www.housingwire.com/articles/nexa-phased-acquisition-copper-ridge/",
+        "what": "NEXA Lending entered an investment and phased acquisition agreement with Copper Ridge Ventures to scale joint ventures and origination.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nexa-phased-acquisition-copper-ridge/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "2026 GameChanger: How CENTURY 21 DeAnna Realty grew 110% and still kept its culture",
+        "url": "https://www.housingwire.com/articles/century-21-deanna-realty-gamechangers/",
+        "what": "The brokerage completed five M&A deals and emphasized one-on-one agent support to lift production and fuel growth.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/century-21-deanna-realty-gamechangers/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Equity Residential, AvalonBay to merge in $69 billion multifamily deal",
+        "url": "https://www.housingwire.com/articles/avalonbay-equity-residential-merger-multifamily-reit-giant/",
+        "what": "Equity Residential and AvalonBay Communities agreed to an all-stock merger of equals that will create a $69 billion multifamily giant controlling more than 180,000 apartments across the country, the companies announced Thursday",
+        "numbers": "$69 billion, 180,000, $52 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/avalonbay-equity-residential-merger-multifamily-reit-giant/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Toll Brothers lifts 2026 delivery outlook as luxury demand holds",
         "url": "https://www.housingwire.com/articles/toll-brothers-2026-delivery-guidance/",
         "what": "The late, legendary Bob Toll once laid bare the fact that he was personally incapable of installing a curtain rod in a living room, let alone knowing the first thing about building a home from the ground up",
@@ -322,33 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/toll-brothers-2026-delivery-guidance/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "“Humans over houses”: Charis Moreno on why industry noise shouldn’t distract agents from what matters",
-        "url": "https://www.housingwire.com/articles/humans-over-houses-charis-moreno-on-why-industry-noise-shouldnt-distract-agents-from-what-matters/",
-        "what": "Charis Moreno, Chief Revenue Officer at NextHome, reflects on leadership, resilience and the importance of keeping people",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/humans-over-houses-charis-moreno-on-why-industry-noise-shouldnt-distract-agents-from-what-matters/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The return of ‘legacy gold’: CENTURY 21 Real Estate embraces its iconic past while betting on Compass tech",
-        "url": "https://www.housingwire.com/articles/century-21-ceo-compass-integration/",
-        "what": "Century 21 CEO Mike Miedler outlines Compass platform integration and a renewed focus on brand trust and community presence.",
-        "numbers": "21",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/century-21-ceo-compass-integration/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Industry coalition lauds adoption of home equity investment regulations in Illinois",
-        "url": "https://www.housingwire.com/articles/illinois-comprehensive-rules-shared-equity-products/",
-        "what": "Industry group CHEP says the move makes Illinois the leading state model for governance of HEIs and could accelerate efforts toward more uniform national standards.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/illinois-comprehensive-rules-shared-equity-products/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
