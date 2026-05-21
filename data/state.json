@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-21 16:48 UTC",
+  "as_of": "2026-05-21 19:16 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "CFPB prioritizes Reg X, GSE streamline refis as LO Comp hopes fade",
+      "link": "https://www.housingwire.com/articles/cfpb-regulation-x-gse-refi/",
+      "published": "Thu, 21 May 2026"
+    },
+    {
+      "title": "Why housing construction can’t grow at current demand levels",
+      "link": "https://www.housingwire.com/articles/housing-starts-supply-demand/",
+      "published": "Thu, 21 May 2026"
+    },
+    {
+      "title": "Smaller mortgage vendors face squeeze from lenders, regulators",
+      "link": "https://www.housingwire.com/articles/mortgage-vendor-consolidation-cyber-regulation/",
+      "published": "Thu, 21 May 2026"
+    },
+    {
+      "title": "Consolidation isn’t the crisis real estate brokers think it is — but it is a wake-up call",
+      "link": "https://www.housingwire.com/articles/mergers-agent-prospecting/",
+      "published": "Thu, 21 May 2026"
+    },
+    {
       "title": "Lucky To Live Here joins SERHANT. in Long Island expansion",
       "link": "https://www.housingwire.com/articles/lucky-live-here-serhant/",
       "published": "Thu, 21 May 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Southern Land adds an integrated mortgage division as it scales MPCs",
       "link": "https://www.housingwire.com/articles/southern-land-company-launches-slc-lending-in-house-mortgage-division/",
-      "published": "Thu, 21 May 2026"
-    },
-    {
-      "title": "Rate Insurance: Home premiums rose 9% in 2025",
-      "link": "https://www.housingwire.com/articles/homeowners-insurance-2025-rate/",
-      "published": "Thu, 21 May 2026"
-    },
-    {
-      "title": "KB Home enters Atlanta with first land deal and new community",
-      "link": "https://www.housingwire.com/articles/kb-home-enters-atlanta-market/",
-      "published": "Thu, 21 May 2026"
-    },
-    {
-      "title": "Fearless at foreclosure auction",
-      "link": "https://www.housingwire.com/articles/foreclosure-auctions-homeownership/",
-      "published": "Thu, 21 May 2026"
-    },
-    {
-      "title": "NEXA Lending enters investment, phased acquisition with Copper Ridge Ventures",
-      "link": "https://www.housingwire.com/articles/nexa-phased-acquisition-copper-ridge/",
       "published": "Thu, 21 May 2026"
     },
     {
@@ -223,6 +223,24 @@
     ],
     "housing": [
       {
+        "title": "Why housing construction can’t grow at current demand levels",
+        "url": "https://www.housingwire.com/articles/housing-starts-supply-demand/",
+        "what": "April housing starts ran at 1.465 million SAAR and single-family fell to 930,000 as completed new homes for sale held at 121,000.",
+        "numbers": "1.465 million, 930,000, 121,000.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-starts-supply-demand/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Smaller mortgage vendors face squeeze from lenders, regulators",
+        "url": "https://www.housingwire.com/articles/mortgage-vendor-consolidation-cyber-regulation/",
+        "what": "Mortgage vendors are entering a new phase of consolidation as they respond to rising regulatory and cybersecurity pressures, according to a white paper released this week by invest",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-vendor-consolidation-cyber-regulation/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Southern Land adds an integrated mortgage division as it scales MPCs",
         "url": "https://www.housingwire.com/articles/southern-land-company-launches-slc-lending-in-house-mortgage-division/",
         "what": "Southern Land Company has launched an in-house mortgage division, SLC Lending, as the Nashville-based developer looks to tighten control of the homebuying process across its master-planned and single-family communities",
@@ -237,15 +255,6 @@
         "what": "Contract cancellations declined slightly in April as homebuyers and sellers gained a clearer sense of the housing market after years of volatility, and as demand picked up",
         "numbers": "",
         "justified": "redfin.com — https://www.redfin.com/news/contract-cancellations-april-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Vermont bills aim to expand manufactured housing affordability",
-        "url": "https://www.housingwire.com/articles/vermont-manufactured-housing-bills/",
-        "what": "Vermont’s legislature took two steps Wednesday to make factory-built homes easier to buy and keep affordable, advancing bills that now head to a Senate floor vote and the governor’s desk",
-        "numbers": "757,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/vermont-manufactured-housing-bills/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
@@ -278,6 +287,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "CFPB prioritizes Reg X, GSE streamline refis as LO Comp hopes fade",
+        "url": "https://www.housingwire.com/articles/cfpb-regulation-x-gse-refi/",
+        "what": "The Consumer Financial Protection Bureau could finalize changes to its Regulation X servicing rules while creating a regulatory pathway for streamlined GSE refinances by the end of",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-regulation-x-gse-refi/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Consolidation isn’t the crisis real estate brokers think it is — but it is a wake-up call",
+        "url": "https://www.housingwire.com/articles/mergers-agent-prospecting/",
+        "what": "Brokerage mergers can increase ad and recruiting spend, pressuring agents who rely on company leads and brand recognition.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mergers-agent-prospecting/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Lucky To Live Here joins SERHANT. in Long Island expansion",
         "url": "https://www.housingwire.com/articles/lucky-live-here-serhant/",
@@ -320,33 +347,6 @@
         "what": "NEXA Lending entered an investment and phased acquisition agreement with Copper Ridge Ventures to scale joint ventures and origination.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/nexa-phased-acquisition-copper-ridge/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "2026 GameChanger: How CENTURY 21 DeAnna Realty grew 110% and still kept its culture",
-        "url": "https://www.housingwire.com/articles/century-21-deanna-realty-gamechangers/",
-        "what": "The brokerage completed five M&A deals and emphasized one-on-one agent support to lift production and fuel growth.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/century-21-deanna-realty-gamechangers/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Equity Residential, AvalonBay to merge in $69 billion multifamily deal",
-        "url": "https://www.housingwire.com/articles/avalonbay-equity-residential-merger-multifamily-reit-giant/",
-        "what": "Equity Residential and AvalonBay Communities agreed to an all-stock merger of equals that will create a $69 billion multifamily giant controlling more than 180,000 apartments across the country, the companies announced Thursday",
-        "numbers": "$69 billion, 180,000, $52 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/avalonbay-equity-residential-merger-multifamily-reit-giant/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Toll Brothers lifts 2026 delivery outlook as luxury demand holds",
-        "url": "https://www.housingwire.com/articles/toll-brothers-2026-delivery-guidance/",
-        "what": "The late, legendary Bob Toll once laid bare the fact that he was personally incapable of installing a curtain rod in a living room, let alone knowing the first thing about building a home from the ground up",
-        "numbers": "1960",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/toll-brothers-2026-delivery-guidance/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
