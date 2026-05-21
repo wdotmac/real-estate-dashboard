@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-21 10:02 UTC",
+  "as_of": "2026-05-21 13:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -11,8 +11,8 @@
       "delta_bp_wow": -0.9999999999999787
     },
     "starts": {
-      "level_saar": 1502.0,
-      "mom": 0.10766961651917395
+      "level_saar": 1465.0,
+      "mom": -0.02786994027869938
     }
   },
   "permits": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Vermont bills aim to expand manufactured housing affordability",
+      "link": "https://www.housingwire.com/articles/vermont-manufactured-housing-bills/",
+      "published": "Thu, 21 May 2026"
+    },
+    {
       "title": "Toll Brothers lifts 2026 delivery outlook as luxury demand holds",
       "link": "https://www.housingwire.com/articles/toll-brothers-2026-delivery-guidance/",
       "published": "Wed, 20 May 2026"
@@ -165,9 +170,14 @@
       "published": "Wed, 20 May 2026"
     },
     {
-      "title": "“Humans over houses”: Charis Moreno on why industry noise shouldn’t distract agents from what matters",
-      "link": "https://www.housingwire.com/articles/humans-over-houses-charis-moreno-on-why-industry-noise-shouldnt-distract-agents-from-what-matters/",
-      "published": "Wed, 20 May 2026"
+      "title": "Home Purchase Cancellations Are No Longer on the Rise As Demand Ticks Up",
+      "link": "https://www.redfin.com/news/contract-cancellations-april-2026/",
+      "published": "Thu, 21 May 2026"
+    },
+    {
+      "title": "Pending Home Sales Slip for First Time Since Early April as Mortgage Rates Climb",
+      "link": "https://www.redfin.com/news/housing-market-update-pending-home-sales-slip/",
+      "published": "Thu, 21 May 2026"
     },
     {
       "title": "Coming Soon in Chicago: A $2M Move-In Ready Duplex Just Steps From Lake Michigan",
@@ -188,20 +198,19 @@
       "title": "Iran Tensions, Not Economic Data, Are Driving Mortgage Rates This Week",
       "link": "https://www.redfin.com/news/weekly-economic-update-may-18-2026/",
       "published": "Mon, 18 May 2026"
-    },
-    {
-      "title": "More Than 80% of Prospective Home Sellers Are Interested in a “Coming Soon” Approach to Listing",
-      "link": "https://www.redfin.com/news/early-access-survey/",
-      "published": "Mon, 18 May 2026"
-    },
-    {
-      "title": "Inside the $150,000 Hamptons Trailer This Couple Turned Into a Dream Home",
-      "link": "https://www.redfin.com/news/couple-renovate-hamptons-mobile-home/",
-      "published": "Fri, 15 May 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Pending Home Sales Slip for First Time Since Early April as Mortgage Rates Climb",
+        "url": "https://www.redfin.com/news/housing-market-update-pending-home-sales-slip/",
+        "what": "Mortgage rates jumped to a 10-month high, spooking would-be homebuyers and sellers after a few weeks of solid demand",
+        "numbers": "10, 1.1, 17,, 2022,",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-home-sales-slip/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Land leases, ARM buydowns emerge as lending options while mortgage rates stay elevated",
         "url": "https://www.housingwire.com/articles/land-leases-arm-buydowns/",
@@ -221,15 +230,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "MortgageOne TPO integrates with ARIVE, launches Pathway CDFI",
-        "url": "https://www.housingwire.com/articles/mortgageone-arive-pathway-cdfi/",
-        "what": "MortgageOne TPO integrated with ARIVE and launched Pathway CDFI with 620 minimum credit scores, up to $2.5 million and no income documentation.",
-        "numbers": "620, $2.5 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgageone-arive-pathway-cdfi/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Iran Tensions, Not Economic Data, Are Driving Mortgage Rates This Week",
         "url": "https://www.redfin.com/news/weekly-economic-update-may-18-2026/",
         "what": "This Week In A Nutshell: Rates are likely to move more on headlines out of Iran than on economic data",
@@ -240,6 +240,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Home Purchase Cancellations Are No Longer on the Rise As Demand Ticks Up",
+        "url": "https://www.redfin.com/news/contract-cancellations-april-2026/",
+        "what": "Contract cancellations declined slightly in April as homebuyers and sellers gained a clearer sense of the housing market after years of volatility, and as demand picked up",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/contract-cancellations-april-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Vermont bills aim to expand manufactured housing affordability",
+        "url": "https://www.housingwire.com/articles/vermont-manufactured-housing-bills/",
+        "what": "Vermont’s legislature took two steps Wednesday to make factory-built homes easier to buy and keep affordable, advancing bills that now head to a Senate floor vote and the governor’s desk",
+        "numbers": "757,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/vermont-manufactured-housing-bills/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Coming Soon in Chicago: A $2M Move-In Ready Duplex Just Steps From Lake Michigan",
         "url": "https://www.redfin.com/news/2006-n-mohawk-st-60614-unit-1-listing/",
@@ -293,24 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/home-price-index-april-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "More Than 80% of Prospective Home Sellers Are Interested in a “Coming Soon” Approach to Listing",
-        "url": "https://www.redfin.com/news/early-access-survey/",
-        "what": "Most homeowners would move if they could–but they feel stuck",
-        "numbers": "80",
-        "justified": "redfin.com — https://www.redfin.com/news/early-access-survey/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Inside the $150,000 Hamptons Trailer This Couple Turned Into a Dream Home",
-        "url": "https://www.redfin.com/news/couple-renovate-hamptons-mobile-home/",
-        "what": "Born and raised in Hampton Bays, NY, Taylor Jayne always imagined she’d build her life in the place that raised her",
-        "numbers": "$2,200, $150,000",
-        "justified": "redfin.com — https://www.redfin.com/news/couple-renovate-hamptons-mobile-home/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       }
     ],
     "notables": [
