@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-05-21 19:16 UTC",
+  "as_of": "2026-05-21 21:47 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.67,
-      "delta_bp_1d": 5.999999999999961
+      "yield_pct": 4.57,
+      "delta_bp_1d": -9.999999999999964
     },
     "mortgage_30y": {
       "rate_pct": 6.51,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "CFPB prioritizes Reg X, GSE streamline refis as LO Comp hopes fade",
-      "link": "https://www.housingwire.com/articles/cfpb-regulation-x-gse-refi/",
+      "title": "As retirement costs surge, more homeowners turn to their equity",
+      "link": "https://www.housingwire.com/articles/retirement-costs-surge-home-equity/",
       "published": "Thu, 21 May 2026"
     },
     {
-      "title": "Why housing construction can’t grow at current demand levels",
-      "link": "https://www.housingwire.com/articles/housing-starts-supply-demand/",
+      "title": "The MRED Zillow legal fight just hit agents and sellers directly",
+      "link": "https://www.housingwire.com/articles/antitrust-mred-zillow-listings/",
       "published": "Thu, 21 May 2026"
     },
     {
-      "title": "Smaller mortgage vendors face squeeze from lenders, regulators",
-      "link": "https://www.housingwire.com/articles/mortgage-vendor-consolidation-cyber-regulation/",
+      "title": "Rocket Mortgage, Rocket Pro adopt VantageScore 4.0",
+      "link": "https://www.housingwire.com/articles/rocket-adopts-vantagescore-4/",
       "published": "Thu, 21 May 2026"
     },
     {
-      "title": "Consolidation isn’t the crisis real estate brokers think it is — but it is a wake-up call",
-      "link": "https://www.housingwire.com/articles/mergers-agent-prospecting/",
+      "title": "New brokerage Showings bets on buyer leads over listing commissions",
+      "link": "https://www.housingwire.com/articles/new-brokerage-showings-bets-on-buyer-leads-over-listing-commissions/",
       "published": "Thu, 21 May 2026"
     },
     {
-      "title": "Lucky To Live Here joins SERHANT. in Long Island expansion",
-      "link": "https://www.housingwire.com/articles/lucky-live-here-serhant/",
+      "title": "Single-family housing starts fell in April, but multifamily gained momentum",
+      "link": "https://www.housingwire.com/articles/single-family-starts-april/",
       "published": "Thu, 21 May 2026"
     },
     {
-      "title": "Southern Land adds an integrated mortgage division as it scales MPCs",
-      "link": "https://www.housingwire.com/articles/southern-land-company-launches-slc-lending-in-house-mortgage-division/",
+      "title": "AI adoption in mortgage servicing is accelerating, BlackWolf says",
+      "link": "https://www.housingwire.com/articles/ai-mortgage-servicing-adoption/",
       "published": "Thu, 21 May 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Rocket Mortgage, Rocket Pro adopt VantageScore 4.0",
+        "url": "https://www.housingwire.com/articles/rocket-adopts-vantagescore-4/",
+        "what": "Rocket began using VantageScore 4.0 with Classic FICO, as FHFA pilots the model and lenders delivered $10 million in loans to Freddie Mac.",
+        "numbers": "4.0, $10 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-adopts-vantagescore-4/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Pending Home Sales Slip for First Time Since Early April as Mortgage Rates Climb",
         "url": "https://www.redfin.com/news/housing-market-update-pending-home-sales-slip/",
         "what": "Mortgage rates jumped to a 10-month high, spooking would-be homebuyers and sellers after a few weeks of solid demand",
@@ -223,6 +232,33 @@
     ],
     "housing": [
       {
+        "title": "The MRED Zillow legal fight just hit agents and sellers directly",
+        "url": "https://www.housingwire.com/articles/antitrust-mred-zillow-listings/",
+        "what": "MRED cut Zillow and Trulia listing feeds amid an antitrust suit, pulling 40,000 listings after 9 were banned under Zillow display standards.",
+        "numbers": "40,000, 9",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/antitrust-mred-zillow-listings/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Single-family housing starts fell in April, but multifamily gained momentum",
+        "url": "https://www.housingwire.com/articles/single-family-starts-april/",
+        "what": "April housing starts rose 4.6% year over year while single-family starts fell 2.4%, and new home inventory declined 4.6% from last year.",
+        "numbers": "4.6, 2.4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/single-family-starts-april/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "AI adoption in mortgage servicing is accelerating, BlackWolf says",
+        "url": "https://www.housingwire.com/articles/ai-mortgage-servicing-adoption/",
+        "what": "BlackWolf says AI adoption rose from 15% in 2023 to 38% in 2025, cutting mortgage servicing costs by 30% to 50% amid more oversight.",
+        "numbers": "15, 2023, 38, 2025,, 30, 50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-mortgage-servicing-adoption/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Why housing construction can’t grow at current demand levels",
         "url": "https://www.housingwire.com/articles/housing-starts-supply-demand/",
         "what": "April housing starts ran at 1.465 million SAAR and single-family fell to 930,000 as completed new homes for sale held at 121,000.",
@@ -237,15 +273,6 @@
         "what": "Mortgage vendors are entering a new phase of consolidation as they respond to rising regulatory and cybersecurity pressures, according to a white paper released this week by invest",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-vendor-consolidation-cyber-regulation/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Southern Land adds an integrated mortgage division as it scales MPCs",
-        "url": "https://www.housingwire.com/articles/southern-land-company-launches-slc-lending-in-house-mortgage-division/",
-        "what": "Southern Land Company has launched an in-house mortgage division, SLC Lending, as the Nashville-based developer looks to tighten control of the homebuying process across its master-planned and single-family communities",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/southern-land-company-launches-slc-lending-in-house-mortgage-division/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -288,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "As retirement costs surge, more homeowners turn to their equity",
+        "url": "https://www.housingwire.com/articles/retirement-costs-surge-home-equity/",
+        "what": "65-and-older households now spend about $122,000 annually, compared with roughly $60,000 in 2000, according to survey data.",
+        "numbers": "65, $122,000, $60,000, 2000,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/retirement-costs-surge-home-equity/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "New brokerage Showings bets on buyer leads over listing commissions",
+        "url": "https://www.housingwire.com/articles/new-brokerage-showings-bets-on-buyer-leads-over-listing-commissions/",
+        "what": "Showings said its aims to modernize the selling experience through a fee-free structure \"centered on savings, efficiency and buyer activity.\"",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-brokerage-showings-bets-on-buyer-leads-over-listing-commissions/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "CFPB prioritizes Reg X, GSE streamline refis as LO Comp hopes fade",
         "url": "https://www.housingwire.com/articles/cfpb-regulation-x-gse-refi/",
         "what": "The Consumer Financial Protection Bureau could finalize changes to its Regulation X servicing rules while creating a regulatory pathway for streamlined GSE refinances by the end of",
@@ -302,51 +347,6 @@
         "what": "Brokerage mergers can increase ad and recruiting spend, pressuring agents who rely on company leads and brand recognition.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mergers-agent-prospecting/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Lucky To Live Here joins SERHANT. in Long Island expansion",
-        "url": "https://www.housingwire.com/articles/lucky-live-here-serhant/",
-        "what": "SERHANT",
-        "numbers": "$1 billion, $59 million, 12",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lucky-live-here-serhant/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Rate Insurance: Home premiums rose 9% in 2025",
-        "url": "https://www.housingwire.com/articles/homeowners-insurance-2025-rate/",
-        "what": "Rate Insurance says average homeowners insurance rose 9.16% in 2025 to $2,205 and is up 107.6% since 2019, based on 265,000 policies.",
-        "numbers": "9.16, 2025, $2,205, 107.6, 2019,, 265,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homeowners-insurance-2025-rate/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "KB Home enters Atlanta with first land deal and new community",
-        "url": "https://www.housingwire.com/articles/kb-home-enters-atlanta-market/",
-        "what": "B Home enters the Atlanta market after buying 110 homesites, with Whitley Meadows in Gwinnett County slated for early 2027.",
-        "numbers": "110, 2027.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kb-home-enters-atlanta-market/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Fearless at foreclosure auction",
-        "url": "https://www.housingwire.com/articles/foreclosure-auctions-homeownership/",
-        "what": "More first-time homebuyers are turning to foreclosure auctions as an affordable path to homeownership, despite the challenges of all-cash homebuying.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/foreclosure-auctions-homeownership/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "NEXA Lending enters investment, phased acquisition with Copper Ridge Ventures",
-        "url": "https://www.housingwire.com/articles/nexa-phased-acquisition-copper-ridge/",
-        "what": "NEXA Lending entered an investment and phased acquisition agreement with Copper Ridge Ventures to scale joint ventures and origination.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nexa-phased-acquisition-copper-ridge/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
