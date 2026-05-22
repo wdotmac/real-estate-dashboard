@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-22 04:35 UTC",
+  "as_of": "2026-05-22 08:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Homeowners need more than a mortgage — they need the tools to stay",
+      "link": "https://www.housingwire.com/articles/r-pace-florida-home-resilience/",
+      "published": "Fri, 22 May 2026"
+    },
+    {
       "title": "As retirement costs surge, more homeowners turn to their equity",
       "link": "https://www.housingwire.com/articles/retirement-costs-surge-home-equity/",
       "published": "Thu, 21 May 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Single-family housing starts fell in April, but multifamily gained momentum",
       "link": "https://www.housingwire.com/articles/single-family-starts-april/",
-      "published": "Thu, 21 May 2026"
-    },
-    {
-      "title": "AI adoption in mortgage servicing is accelerating, BlackWolf says",
-      "link": "https://www.housingwire.com/articles/ai-mortgage-servicing-adoption/",
       "published": "Thu, 21 May 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Homeowners need more than a mortgage — they need the tools to stay",
+        "url": "https://www.housingwire.com/articles/r-pace-florida-home-resilience/",
+        "what": "As Florida homeowners face an escalating property insurance and affordability crisis, access to accessible financing like R-PACE is essential for funding critical, storm-resilient home upgrades",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/r-pace-florida-home-resilience/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Rocket Mortgage, Rocket Pro adopt VantageScore 4.0",
         "url": "https://www.housingwire.com/articles/rocket-adopts-vantagescore-4/",
@@ -338,15 +347,6 @@
         "what": "The Consumer Financial Protection Bureau could finalize changes to its Regulation X servicing rules while creating a regulatory pathway for streamlined GSE refinances by the end of",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-regulation-x-gse-refi/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Consolidation isn’t the crisis real estate brokers think it is — but it is a wake-up call",
-        "url": "https://www.housingwire.com/articles/mergers-agent-prospecting/",
-        "what": "Brokerage mergers can increase ad and recruiting spend, pressuring agents who rely on company leads and brand recognition.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mergers-agent-prospecting/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
