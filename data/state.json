@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-22 12:00 UTC",
+  "as_of": "2026-05-22 15:21 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Radian names Mike Weinbach CEO-elect with Rick Thornberry set to retire",
+      "link": "https://www.housingwire.com/articles/mike-weinbach-radian-ceo-elect/",
+      "published": "Fri, 22 May 2026"
+    },
+    {
+      "title": "Broker Public Portal expands Cribio as data control debate grows",
+      "link": "https://www.housingwire.com/articles/broker-public-portal-cribio-expands/",
+      "published": "Fri, 22 May 2026"
+    },
+    {
+      "title": "California legislators re-try to ‘loophole-proof’ starter home law",
+      "link": "https://www.housingwire.com/articles/starter-home-law-cleanup-bill/",
+      "published": "Fri, 22 May 2026"
+    },
+    {
+      "title": "The transaction is no longer the center of the business",
+      "link": "https://www.housingwire.com/articles/clients-want-advisory-agents/",
+      "published": "Fri, 22 May 2026"
+    },
+    {
       "title": "Stay independent, compete at scale: AI is rewriting the brokerage playbook",
       "link": "https://www.housingwire.com/articles/stay-independent-compete-at-scale-ai-is-rewriting-the-brokerage-playbook/",
       "published": "Fri, 22 May 2026"
@@ -148,26 +168,6 @@
       "title": "Homeowners need more than a mortgage — they need the tools to stay",
       "link": "https://www.housingwire.com/articles/r-pace-florida-home-resilience/",
       "published": "Fri, 22 May 2026"
-    },
-    {
-      "title": "As retirement costs surge, more homeowners turn to their equity",
-      "link": "https://www.housingwire.com/articles/retirement-costs-surge-home-equity/",
-      "published": "Thu, 21 May 2026"
-    },
-    {
-      "title": "The MRED Zillow legal fight just hit agents and sellers directly",
-      "link": "https://www.housingwire.com/articles/antitrust-mred-zillow-listings/",
-      "published": "Thu, 21 May 2026"
-    },
-    {
-      "title": "Rocket Mortgage, Rocket Pro adopt VantageScore 4.0",
-      "link": "https://www.housingwire.com/articles/rocket-adopts-vantagescore-4/",
-      "published": "Thu, 21 May 2026"
-    },
-    {
-      "title": "New brokerage Showings bets on buyer leads over listing commissions",
-      "link": "https://www.housingwire.com/articles/new-brokerage-showings-bets-on-buyer-leads-over-listing-commissions/",
-      "published": "Thu, 21 May 2026"
     },
     {
       "title": "Home Purchase Cancellations Are No Longer on the Rise As Demand Ticks Up",
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "Radian names Mike Weinbach CEO-elect with Rick Thornberry set to retire",
+        "url": "https://www.housingwire.com/articles/mike-weinbach-radian-ceo-elect/",
+        "what": "Mortgage insurer Radian named Mike Weinbach CEO-elect effective June 1 as Rick Thornberry plans to retire end of 2026.",
+        "numbers": "1, 2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mike-weinbach-radian-ceo-elect/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "The MRED Zillow legal fight just hit agents and sellers directly",
         "url": "https://www.housingwire.com/articles/antitrust-mred-zillow-listings/",
         "what": "MRED cut Zillow and Trulia listing feeds amid an antitrust suit, pulling 40,000 listings after 9 were banned under Zillow display standards.",
@@ -248,33 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/antitrust-mred-zillow-listings/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Single-family housing starts fell in April, but multifamily gained momentum",
-        "url": "https://www.housingwire.com/articles/single-family-starts-april/",
-        "what": "April housing starts rose 4.6% year over year while single-family starts fell 2.4%, and new home inventory declined 4.6% from last year.",
-        "numbers": "4.6, 2.4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/single-family-starts-april/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "AI adoption in mortgage servicing is accelerating, BlackWolf says",
-        "url": "https://www.housingwire.com/articles/ai-mortgage-servicing-adoption/",
-        "what": "BlackWolf says AI adoption rose from 15% in 2023 to 38% in 2025, cutting mortgage servicing costs by 30% to 50% amid more oversight.",
-        "numbers": "15, 2023, 38, 2025,, 30, 50",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-mortgage-servicing-adoption/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Why housing construction can’t grow at current demand levels",
-        "url": "https://www.housingwire.com/articles/housing-starts-supply-demand/",
-        "what": "April housing starts ran at 1.465 million SAAR and single-family fell to 930,000 as completed new homes for sale held at 121,000.",
-        "numbers": "1.465 million, 930,000, 121,000.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-starts-supply-demand/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Home Purchase Cancellations Are No Longer on the Rise As Demand Ticks Up",
@@ -315,6 +297,33 @@
     ],
     "notables": [
       {
+        "title": "Broker Public Portal expands Cribio as data control debate grows",
+        "url": "https://www.housingwire.com/articles/broker-public-portal-cribio-expands/",
+        "what": "Broker Public Portal says Cribio is adding MLSs, supporting nearly 400,000 agents with three market launches planned next quarter.",
+        "numbers": "400,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/broker-public-portal-cribio-expands/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "California legislators re-try to ‘loophole-proof’ starter home law",
+        "url": "https://www.housingwire.com/articles/starter-home-law-cleanup-bill/",
+        "what": "California lawmakers are adding muscle to the state’s five-year-old starter home law to prevent cities and counties from quietly neutralizing it through local rules",
+        "numbers": "1116,, 20, 2021",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/starter-home-law-cleanup-bill/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "The transaction is no longer the center of the business",
+        "url": "https://www.housingwire.com/articles/clients-want-advisory-agents/",
+        "what": "As clients become more selective, agents who invest in long-term relationships and advice are seeing more trust and referrals.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/clients-want-advisory-agents/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Stay independent, compete at scale: AI is rewriting the brokerage playbook",
         "url": "https://www.housingwire.com/articles/stay-independent-compete-at-scale-ai-is-rewriting-the-brokerage-playbook/",
         "what": "A new platform from Rodland Real Estate is helping independent brokerages compete at scale without losing their identity.",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/new-brokerage-showings-bets-on-buyer-leads-over-listing-commissions/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "CFPB prioritizes Reg X, GSE streamline refis as LO Comp hopes fade",
-        "url": "https://www.housingwire.com/articles/cfpb-regulation-x-gse-refi/",
-        "what": "The Consumer Financial Protection Bureau could finalize changes to its Regulation X servicing rules while creating a regulatory pathway for streamlined GSE refinances by the end of",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-regulation-x-gse-refi/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
