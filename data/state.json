@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-22 18:04 UTC",
+  "as_of": "2026-05-22 20:10 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "House passes bill hiking VA mortgage refi fees to fund expanded veterans’ benefits",
+      "link": "https://www.housingwire.com/articles/hr-6047-va-loan-fees/",
+      "published": "Fri, 22 May 2026"
+    },
+    {
+      "title": "Judge orders MRED to restore Zillow listing feeds in Chicago",
+      "link": "https://www.housingwire.com/articles/judge-restores-zillow-mred-feeds/",
+      "published": "Fri, 22 May 2026"
+    },
+    {
+      "title": "California MBA backs $100M fund in governor’s budget proposal for wildfire rebuilding",
+      "link": "https://www.housingwire.com/articles/california-mba-backs-100-million-southern-california-rebuild-fund/",
+      "published": "Fri, 22 May 2026"
+    },
+    {
+      "title": "Everything you need to know about Zillow’s listing war with MRED and Compass",
+      "link": "https://www.housingwire.com/articles/zillow-injunction-mred-idx-vow/",
+      "published": "Fri, 22 May 2026"
+    },
+    {
+      "title": "Epcon Communities, 40 years in, charts new pathways to growth",
+      "link": "https://www.housingwire.com/articles/epcon-communities-40-years-in-charts-new-pathways-to-growth/",
+      "published": "Fri, 22 May 2026"
+    },
+    {
       "title": "Is a new portal model coming for our listing inventory?",
       "link": "https://www.housingwire.com/articles/google-listing-pilot-risks/",
-      "published": "Fri, 22 May 2026"
-    },
-    {
-      "title": "New Fed Chair Warsh loses dove as Waller turns hawkish",
-      "link": "https://www.housingwire.com/articles/new-fed-chair-warsh-loses-dove-as-waller-turns-hawkish/",
-      "published": "Fri, 22 May 2026"
-    },
-    {
-      "title": "We have met one enemy of housing affordability … it is us",
-      "link": "https://www.housingwire.com/articles/starter-homes-move-up-affordability/",
-      "published": "Fri, 22 May 2026"
-    },
-    {
-      "title": "From the credit crisis to AI: Kim Nelson on evolving through every market cycle",
-      "link": "https://www.housingwire.com/articles/from-the-credit-crisis-to-ai-kim-nelson-on-evolving-through-every-market-cycle/",
-      "published": "Fri, 22 May 2026"
-    },
-    {
-      "title": "Study flags $880M in subordinate liens on 2023 vintage FHA mortgages",
-      "link": "https://www.housingwire.com/articles/hidden-liens-2023-fha-loans/",
-      "published": "Fri, 22 May 2026"
-    },
-    {
-      "title": "Raena Pinchuk joins CrossCountry Mortgage as sales manager",
-      "link": "https://www.housingwire.com/articles/raena-pinchuk-crosscountry-mortgage/",
       "published": "Fri, 22 May 2026"
     },
     {
@@ -223,6 +223,42 @@
     ],
     "housing": [
       {
+        "title": "House passes bill hiking VA mortgage refi fees to fund expanded veterans’ benefits",
+        "url": "https://www.housingwire.com/articles/hr-6047-va-loan-fees/",
+        "what": "The U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hr-6047-va-loan-fees/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Judge orders MRED to restore Zillow listing feeds in Chicago",
+        "url": "https://www.housingwire.com/articles/judge-restores-zillow-mred-feeds/",
+        "what": "Judge John Tharp Jr",
+        "numbers": "43,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/judge-restores-zillow-mred-feeds/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Everything you need to know about Zillow’s listing war with MRED and Compass",
+        "url": "https://www.housingwire.com/articles/zillow-injunction-mred-idx-vow/",
+        "what": "MRED suspended IDX and VOW feeds to Zillow and Trulia, prompting a preliminary injunction bid in an antitrust lawsuit.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-injunction-mred-idx-vow/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Epcon Communities, 40 years in, charts new pathways to growth",
+        "url": "https://www.housingwire.com/articles/epcon-communities-40-years-in-charts-new-pathways-to-growth/",
+        "what": "Epcon Communities delivered nearly 600 homes corporately and 600-plus via franchise builders last year, as 55+ demand supports expansion.",
+        "numbers": "600, 55",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/epcon-communities-40-years-in-charts-new-pathways-to-growth/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Is a new portal model coming for our listing inventory?",
         "url": "https://www.housingwire.com/articles/google-listing-pilot-risks/",
         "what": "Google pilot is live in 8 markets, routing listing leads via ComeHome, raising questions on broker data use and future fees.",
@@ -268,33 +304,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Raena Pinchuk joins CrossCountry Mortgage as sales manager",
-        "url": "https://www.housingwire.com/articles/raena-pinchuk-crosscountry-mortgage/",
-        "what": "CrossCountry Mortgage hired Raena Pinchuk as sales manager for Coeur d’Alene, Idaho, and the Pacific Northwest.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/raena-pinchuk-crosscountry-mortgage/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Thinking differently in the age of AI: Sara Holtz on leadership, clarity and building stronger teams",
-        "url": "https://www.housingwire.com/articles/sara-holtz-optimal-blue-ai-leadership/",
-        "what": "Sara Holtz, chief marketing officer at Optimal Blue, shares leadership insights on AI, self-awareness and helping teams think differently in a rapidly evolving housing market.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sara-holtz-optimal-blue-ai-leadership/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Radian names Mike Weinbach CEO-elect with Rick Thornberry set to retire",
-        "url": "https://www.housingwire.com/articles/mike-weinbach-radian-ceo-elect/",
-        "what": "Mortgage insurer Radian named Mike Weinbach CEO-elect effective June 1 as Rick Thornberry plans to retire end of 2026.",
-        "numbers": "1, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mike-weinbach-radian-ceo-elect/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Home Purchase Cancellations Are No Longer on the Rise As Demand Ticks Up",
         "url": "https://www.redfin.com/news/contract-cancellations-april-2026/",
         "what": "Contract cancellations declined slightly in April as homebuyers and sellers gained a clearer sense of the housing market after years of volatility, and as demand picked up",
@@ -302,33 +311,15 @@
         "justified": "redfin.com — https://www.redfin.com/news/contract-cancellations-april-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Coming Soon in Chicago: A $2M Move-In Ready Duplex Just Steps From Lake Michigan",
-        "url": "https://www.redfin.com/news/2006-n-mohawk-st-60614-unit-1-listing/",
-        "what": "In this edition of Coming Soon–a series from Redfin News that explores new listings that house hunters can find early only on Redfin.com and Compass.com–we’re exploring a duplex unit in Chicago’s Lincoln Park",
-        "numbers": "2024, $2 million, $2",
-        "justified": "redfin.com — https://www.redfin.com/news/2006-n-mohawk-st-60614-unit-1-listing/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
       {
-        "title": "Title insurance premium volume jumped nearly 14% in 2025",
-        "url": "https://www.housingwire.com/articles/title-insurance-premium-volume-jumped-nearly-14-in-2025/",
-        "what": "The industry paid more than $667 million in claims during 2025, slightly down from $676 million paid in 2024.",
-        "numbers": "$667 million, 2025,, $676 million, 2024.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/title-insurance-premium-volume-jumped-nearly-14-in-2025/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Broker Public Portal expands Cribio as data control debate grows",
-        "url": "https://www.housingwire.com/articles/broker-public-portal-cribio-expands/",
-        "what": "Broker Public Portal says Cribio is adding MLSs, supporting nearly 400,000 agents with three market launches planned next quarter.",
-        "numbers": "400,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/broker-public-portal-cribio-expands/",
+        "title": "California MBA backs $100M fund in governor’s budget proposal for wildfire rebuilding",
+        "url": "https://www.housingwire.com/articles/california-mba-backs-100-million-southern-california-rebuild-fund/",
+        "what": "The proposed funding is designed to expand access to construction financing for homeowners affected by last year's Southern California wildfires by helping to bridge the gap betwee",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/california-mba-backs-100-million-southern-california-rebuild-fund/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
