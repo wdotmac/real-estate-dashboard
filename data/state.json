@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-25 17:56 UTC",
+  "as_of": "2026-05-25 19:58 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "What happens to mortgage rates if the Iran conflict is over?",
+      "link": "https://www.housingwire.com/articles/what-happens-to-mortgage-rates-if-the-iran-conflict-is-over/",
+      "published": "Mon, 25 May 2026"
+    },
+    {
       "title": "Clients are interviewing real estate agents differently. Here’s what they’re really looking for",
       "link": "https://www.housingwire.com/articles/clients-want-advisors-real-estate-agents/",
       "published": "Mon, 25 May 2026"
@@ -163,11 +168,6 @@
       "title": "Your LOS has 300 integrations. That’s the problem.",
       "link": "https://www.housingwire.com/articles/los-integrations-ai-future/",
       "published": "Mon, 25 May 2026"
-    },
-    {
-      "title": "Housing demand stays firm, pushing inventory close to negative YOY",
-      "link": "https://www.housingwire.com/articles/housing-demand-stays-firm-pushing-inventory-close-to-negative-yoy/",
-      "published": "Sun, 24 May 2026"
     },
     {
       "title": "Price Point: The Typical U.S. Home Costs $400,000. Here’s What That Buys in 3 Cities",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "What happens to mortgage rates if the Iran conflict is over?",
+        "url": "https://www.housingwire.com/articles/what-happens-to-mortgage-rates-if-the-iran-conflict-is-over/",
+        "what": "Getting the 10-year yield and mortgage rates to pre-conflict lows will be harder than people think even if this conflict is truly over.",
+        "numbers": "10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/what-happens-to-mortgage-rates-if-the-iran-conflict-is-over/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "New federal funding a mixed bag for housing programs",
         "url": "https://www.housingwire.com/articles/new-federal-funding-a-mixed-bag-for-housing-programs/",
@@ -277,15 +286,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Judge orders MRED to restore Zillow listing feeds in Chicago",
-        "url": "https://www.housingwire.com/articles/judge-restores-zillow-mred-feeds/",
-        "what": "Judge John Tharp Jr",
-        "numbers": "43,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/judge-restores-zillow-mred-feeds/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "Just Listed in Chicago: A $1 Million Penthouse Condo in a Former Cookie Factory",
         "url": "https://www.redfin.com/news/958-w-willow-st-unit-4-listing/",
         "what": "In this edition of Just Listed–a series from Redfin News that explores homes that are listed by Redfin or Compass agents on Redfin.com–we’re exploring a penthouse in Lincoln Park, Chicago",
@@ -311,6 +311,15 @@
         "justified": "redfin.com — https://www.redfin.com/news/2006-n-mohawk-st-60614-unit-1-listing/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Prices Drops Are Becoming Slightly Less Common As Housing Market Stabilizes",
+        "url": "https://www.redfin.com/news/price-drops-april-2026/",
+        "what": "The share of home sellers cutting their asking prices has fallen from its peak as buyers lose a bit of negotiating power, but price drops are still much more common than in years past",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/price-drops-april-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
