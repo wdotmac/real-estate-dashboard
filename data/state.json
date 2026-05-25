@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-25 04:55 UTC",
+  "as_of": "2026-05-25 12:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "New federal funding a mixed bag for housing programs",
+      "link": "https://www.housingwire.com/articles/new-federal-funding-a-mixed-bag-for-housing-programs/",
+      "published": "Mon, 25 May 2026"
+    },
+    {
+      "title": "Meet the AI platform giving every agent a personal coach",
+      "link": "https://www.housingwire.com/articles/meet-the-ai-platform-giving-every-agent-a-personal-coach/",
+      "published": "Mon, 25 May 2026"
+    },
+    {
+      "title": "Atlas VMS’s Erik Morin on HECM second appraisals, AIM-Port acquisition",
+      "link": "https://www.housingwire.com/articles/hecm-second-appraisals-atlas-vms/",
+      "published": "Mon, 25 May 2026"
+    },
+    {
+      "title": "Your LOS has 300 integrations. That’s the problem.",
+      "link": "https://www.housingwire.com/articles/los-integrations-ai-future/",
+      "published": "Mon, 25 May 2026"
+    },
+    {
       "title": "Housing demand stays firm, pushing inventory close to negative YOY",
       "link": "https://www.housingwire.com/articles/housing-demand-stays-firm-pushing-inventory-close-to-negative-yoy/",
       "published": "Sun, 24 May 2026"
@@ -147,26 +167,6 @@
     {
       "title": "As HEI regulations expand, states debate loan classification",
       "link": "https://www.housingwire.com/articles/hei-loan-classification-states/",
-      "published": "Fri, 22 May 2026"
-    },
-    {
-      "title": "HouseAmerica Financial joins All Western Mortgage",
-      "link": "https://www.housingwire.com/articles/all-western-houseamerica-expansion/",
-      "published": "Fri, 22 May 2026"
-    },
-    {
-      "title": "House passes bill hiking VA mortgage refi fees to fund expanded veterans’ benefits",
-      "link": "https://www.housingwire.com/articles/hr-6047-va-loan-fees/",
-      "published": "Fri, 22 May 2026"
-    },
-    {
-      "title": "Judge orders MRED to restore Zillow listing feeds in Chicago",
-      "link": "https://www.housingwire.com/articles/judge-restores-zillow-mred-feeds/",
-      "published": "Fri, 22 May 2026"
-    },
-    {
-      "title": "California MBA backs $100M fund in governor’s budget proposal for wildfire rebuilding",
-      "link": "https://www.housingwire.com/articles/california-mba-backs-100-million-southern-california-rebuild-fund/",
       "published": "Fri, 22 May 2026"
     },
     {
@@ -203,11 +203,11 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "New Fed Chair Warsh loses dove as Waller turns hawkish",
-        "url": "https://www.housingwire.com/articles/new-fed-chair-warsh-loses-dove-as-waller-turns-hawkish/",
-        "what": "Markets pushed the 10-year yield up from 4.53% to 4.58% after Christopher Waller warned supply disruptions may continue.",
-        "numbers": "10, 4.53, 4.58",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-fed-chair-warsh-loses-dove-as-waller-turns-hawkish/",
+        "title": "New federal funding a mixed bag for housing programs",
+        "url": "https://www.housingwire.com/articles/new-federal-funding-a-mixed-bag-for-housing-programs/",
+        "what": "Just under $35 billion is provided for HUD’s tenant-based rental assistance account",
+        "numbers": "$35 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-federal-funding-a-mixed-bag-for-housing-programs/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -222,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Your LOS has 300 integrations. That’s the problem.",
+        "url": "https://www.housingwire.com/articles/los-integrations-ai-future/",
+        "what": "While the mortgage industry has long celebrated having endless software integrations, these complex connections often create hidden dependencies and inefficient workflows",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/los-integrations-ai-future/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Housing demand stays firm, pushing inventory close to negative YOY",
         "url": "https://www.housingwire.com/articles/housing-demand-stays-firm-pushing-inventory-close-to-negative-yoy/",
@@ -268,33 +277,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Everything you need to know about Zillow’s listing war with MRED and Compass",
-        "url": "https://www.housingwire.com/articles/zillow-injunction-mred-idx-vow/",
-        "what": "MRED suspended IDX and VOW feeds to Zillow and Trulia, prompting a preliminary injunction bid in an antitrust lawsuit.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-injunction-mred-idx-vow/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Epcon Communities, 40 years in, charts new pathways to growth",
-        "url": "https://www.housingwire.com/articles/epcon-communities-40-years-in-charts-new-pathways-to-growth/",
-        "what": "Epcon Communities delivered nearly 600 homes corporately and 600-plus via franchise builders last year, as 55+ demand supports expansion.",
-        "numbers": "600, 55",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/epcon-communities-40-years-in-charts-new-pathways-to-growth/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Is a new portal model coming for our listing inventory?",
-        "url": "https://www.housingwire.com/articles/google-listing-pilot-risks/",
-        "what": "Google pilot is live in 8 markets, routing listing leads via ComeHome, raising questions on broker data use and future fees.",
-        "numbers": "8",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/google-listing-pilot-risks/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "Just Listed in Chicago: A $1 Million Penthouse Condo in a Former Cookie Factory",
         "url": "https://www.redfin.com/news/958-w-willow-st-unit-4-listing/",
         "what": "In this edition of Just Listed–a series from Redfin News that explores homes that are listed by Redfin or Compass agents on Redfin.com–we’re exploring a penthouse in Lincoln Park, Chicago",
@@ -311,9 +293,45 @@
         "justified": "redfin.com — https://www.redfin.com/news/contract-cancellations-april-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Coming Soon in Chicago: A $2M Move-In Ready Duplex Just Steps From Lake Michigan",
+        "url": "https://www.redfin.com/news/2006-n-mohawk-st-60614-unit-1-listing/",
+        "what": "In this edition of Coming Soon–a series from Redfin News that explores new listings that house hunters can find early only on Redfin.com and Compass.com–we’re exploring a duplex unit in Chicago’s Lincoln Park",
+        "numbers": "2024, $2 million, $2",
+        "justified": "redfin.com — https://www.redfin.com/news/2006-n-mohawk-st-60614-unit-1-listing/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Prices Drops Are Becoming Slightly Less Common As Housing Market Stabilizes",
+        "url": "https://www.redfin.com/news/price-drops-april-2026/",
+        "what": "The share of home sellers cutting their asking prices has fallen from its peak as buyers lose a bit of negotiating power, but price drops are still much more common than in years past",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/price-drops-april-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
+      {
+        "title": "Meet the AI platform giving every agent a personal coach",
+        "url": "https://www.housingwire.com/articles/meet-the-ai-platform-giving-every-agent-a-personal-coach/",
+        "what": "With 12 coaching personas covering everything from objection handling to mindset, Power Mentor gives every agent access to an AI coach.",
+        "numbers": "12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/meet-the-ai-platform-giving-every-agent-a-personal-coach/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Atlas VMS’s Erik Morin on HECM second appraisals, AIM-Port acquisition",
+        "url": "https://www.housingwire.com/articles/hecm-second-appraisals-atlas-vms/",
+        "what": "Atlas VMS says 8.3% of HECM loans needed a second appraisal in Q1 2026 versus 10.4% in Q4 2025, adding cost and time.",
+        "numbers": "8.3, 1, 2026, 10.4, 4, 2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hecm-second-appraisals-atlas-vms/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "As HEI regulations expand, states debate loan classification",
         "url": "https://www.housingwire.com/articles/hei-loan-classification-states/",
