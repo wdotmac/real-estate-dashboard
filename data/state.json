@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-26 04:33 UTC",
+  "as_of": "2026-05-26 08:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage lock-in has become life lock-in",
+      "link": "https://www.housingwire.com/articles/mortgage-lock-in/",
+      "published": "Tue, 26 May 2026"
+    },
+    {
+      "title": "Homebuilders adopt disciplined growth strategies as market pressures reshape housing in 2026",
+      "link": "https://www.housingwire.com/articles/homebuilders-disciplined-growth-strategies/",
+      "published": "Tue, 26 May 2026"
+    },
+    {
       "title": "What happens to mortgage rates if the Iran conflict is over?",
       "link": "https://www.housingwire.com/articles/what-happens-to-mortgage-rates-if-the-iran-conflict-is-over/",
       "published": "Mon, 25 May 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Meet the AI platform giving every agent a personal coach",
       "link": "https://www.housingwire.com/articles/meet-the-ai-platform-giving-every-agent-a-personal-coach/",
-      "published": "Mon, 25 May 2026"
-    },
-    {
-      "title": "Atlas VMS’s Erik Morin on HECM second appraisals, AIM-Port acquisition",
-      "link": "https://www.housingwire.com/articles/hecm-second-appraisals-atlas-vms/",
-      "published": "Mon, 25 May 2026"
-    },
-    {
-      "title": "Your LOS has 300 integrations. That’s the problem.",
-      "link": "https://www.housingwire.com/articles/los-integrations-ai-future/",
       "published": "Mon, 25 May 2026"
     },
     {
@@ -202,6 +202,24 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage lock-in has become life lock-in",
+        "url": "https://www.housingwire.com/articles/mortgage-lock-in/",
+        "what": "For the past three years, the housing market has been fixated on mortgage rates, as they dictate monthly payments and determine who can buy, refinance or move",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-lock-in/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Homebuilders adopt disciplined growth strategies as market pressures reshape housing in 2026",
+        "url": "https://www.housingwire.com/articles/homebuilders-disciplined-growth-strategies/",
+        "what": "Homebuilders are tightening inventory, refining product mix and pursuing M&A opportunities as elevated rates and affordability pressures reshape the 2026 housing market.",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilders-disciplined-growth-strategies/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "What happens to mortgage rates if the Iran conflict is over?",
         "url": "https://www.housingwire.com/articles/what-happens-to-mortgage-rates-if-the-iran-conflict-is-over/",
@@ -266,24 +284,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/price-point-what-400000-buys-around-united-states/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "HouseAmerica Financial joins All Western Mortgage",
-        "url": "https://www.housingwire.com/articles/all-western-houseamerica-expansion/",
-        "what": "HouseAmerica Financial joins All Western Mortgage, a $500M lender, as AWM targets $3B in 2026 funding and expands in California.",
-        "numbers": "$500, $3, 2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/all-western-houseamerica-expansion/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "House passes bill hiking VA mortgage refi fees to fund expanded veterans’ benefits",
-        "url": "https://www.housingwire.com/articles/hr-6047-va-loan-fees/",
-        "what": "The U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hr-6047-va-loan-fees/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Just Listed in Chicago: A $1 Million Penthouse Condo in a Former Cookie Factory",
