@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-26 08:42 UTC",
+  "as_of": "2026-05-26 16:52 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,49 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Case-Shiller shows further cooling of US home prices in March",
+      "link": "https://www.housingwire.com/articles/home-price-growth-cools-case-shiller/",
+      "published": "Tue, 26 May 2026"
+    },
+    {
+      "title": "Lower hires Paul Zinn as EVP of retail lending",
+      "link": "https://www.housingwire.com/articles/lower-paul-zinn-evp-retail/",
+      "published": "Tue, 26 May 2026"
+    },
+    {
+      "title": "Mortgage delinquencies hold at 3.35% in April",
+      "link": "https://www.housingwire.com/articles/mortgage-delinquencies-april-2026/",
+      "published": "Tue, 26 May 2026"
+    },
+    {
+      "title": "FHA will keep tri-merge credit reports amid shift to new scoring models",
+      "link": "https://www.housingwire.com/articles/fha-tri-merge-credit-reports/",
+      "published": "Tue, 26 May 2026"
+    },
+    {
+      "title": "Real estate always has a new crisis, how top leaders stay steady",
+      "link": "https://www.housingwire.com/articles/long-game-mindset-disruption/",
+      "published": "Tue, 26 May 2026"
+    },
+    {
       "title": "Mortgage lock-in has become life lock-in",
       "link": "https://www.housingwire.com/articles/mortgage-lock-in/",
       "published": "Tue, 26 May 2026"
     },
     {
-      "title": "Homebuilders adopt disciplined growth strategies as market pressures reshape housing in 2026",
-      "link": "https://www.housingwire.com/articles/homebuilders-disciplined-growth-strategies/",
+      "title": "Mortgage Rates Remain Tied to Iran War, Oil Prices",
+      "link": "https://www.redfin.com/news/weekly-economic-update-may-26-2026/",
       "published": "Tue, 26 May 2026"
     },
     {
-      "title": "What happens to mortgage rates if the Iran conflict is over?",
-      "link": "https://www.housingwire.com/articles/what-happens-to-mortgage-rates-if-the-iran-conflict-is-over/",
-      "published": "Mon, 25 May 2026"
+      "title": "The Income Needed to Afford a Home Declined For Seventh Straight Month in April",
+      "link": "https://www.redfin.com/news/income-needed-to-buy-home-declines/",
+      "published": "Tue, 26 May 2026"
     },
     {
-      "title": "Clients are interviewing real estate agents differently. Here’s what they’re really looking for",
-      "link": "https://www.housingwire.com/articles/clients-want-advisors-real-estate-agents/",
-      "published": "Mon, 25 May 2026"
-    },
-    {
-      "title": "New federal funding a mixed bag for housing programs",
-      "link": "https://www.housingwire.com/articles/new-federal-funding-a-mixed-bag-for-housing-programs/",
-      "published": "Mon, 25 May 2026"
-    },
-    {
-      "title": "Meet the AI platform giving every agent a personal coach",
-      "link": "https://www.housingwire.com/articles/meet-the-ai-platform-giving-every-agent-a-personal-coach/",
-      "published": "Mon, 25 May 2026"
+      "title": "Luxury Home Prices Rise Amid Uptick in High-End Homebuying and Selling",
+      "link": "https://www.redfin.com/news/luxury-housing-market-april-2026/",
+      "published": "Tue, 26 May 2026"
     },
     {
       "title": "Price Point: The Typical U.S. Home Costs $400,000. Here’s What That Buys in 3 Cities",
@@ -183,25 +198,46 @@
       "title": "Home Purchase Cancellations Are No Longer on the Rise As Demand Ticks Up",
       "link": "https://www.redfin.com/news/contract-cancellations-april-2026/",
       "published": "Thu, 21 May 2026"
-    },
-    {
-      "title": "Pending Home Sales Slip for First Time Since Early April as Mortgage Rates Climb",
-      "link": "https://www.redfin.com/news/housing-market-update-pending-home-sales-slip/",
-      "published": "Thu, 21 May 2026"
-    },
-    {
-      "title": "Coming Soon in Chicago: A $2M Move-In Ready Duplex Just Steps From Lake Michigan",
-      "link": "https://www.redfin.com/news/2006-n-mohawk-st-60614-unit-1-listing/",
-      "published": "Wed, 20 May 2026"
-    },
-    {
-      "title": "Prices Drops Are Becoming Slightly Less Common As Housing Market Stabilizes",
-      "link": "https://www.redfin.com/news/price-drops-april-2026/",
-      "published": "Tue, 19 May 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Case-Shiller shows further cooling of US home prices in March",
+        "url": "https://www.housingwire.com/articles/home-price-growth-cools-case-shiller/",
+        "what": "Case-Shiller data shows prices up 0.7% year over year, down 0.2% month over month, and inflation running 2.6 points higher in March.",
+        "numbers": "0.7, 0.2, 2.6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/home-price-growth-cools-case-shiller/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Mortgage Rates Remain Tied to Iran War, Oil Prices",
+        "url": "https://www.redfin.com/news/weekly-economic-update-may-26-2026/",
+        "what": "This Week In A Nutshell: Three months in, the Iran war is still driving rates more than economic data",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-may-26-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "FHA will keep tri-merge credit reports amid shift to new scoring models",
+        "url": "https://www.housingwire.com/articles/fha-tri-merge-credit-reports/",
+        "what": "The Federal Housing Administration (FHA) announced last week that it will continue requiring tri-merge credit reports to maintain \"prudent risk management\" as it transitions to new",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-tri-merge-credit-reports/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "The Income Needed to Afford a Home Declined For Seventh Straight Month in April",
+        "url": "https://www.redfin.com/news/income-needed-to-buy-home-declines/",
+        "what": "Homebuying affordability improved slightly in April because mortgage rates declined while incomes rose",
+        "numbers": "$29,000",
+        "justified": "redfin.com — https://www.redfin.com/news/income-needed-to-buy-home-declines/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage lock-in has become life lock-in",
         "url": "https://www.housingwire.com/articles/mortgage-lock-in/",
@@ -237,18 +273,36 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/new-federal-funding-a-mixed-bag-for-housing-programs/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Pending Home Sales Slip for First Time Since Early April as Mortgage Rates Climb",
-        "url": "https://www.redfin.com/news/housing-market-update-pending-home-sales-slip/",
-        "what": "Mortgage rates jumped to a 10-month high, spooking would-be homebuyers and sellers after a few weeks of solid demand",
-        "numbers": "10, 1.1, 17,, 2022,",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-home-sales-slip/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Lower hires Paul Zinn as EVP of retail lending",
+        "url": "https://www.housingwire.com/articles/lower-paul-zinn-evp-retail/",
+        "what": "Lower has hired veteran mortgage executive Paul Zinn as EVP of retail lending and divisional manager to lead its national retail expansion.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lower-paul-zinn-evp-retail/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Mortgage delinquencies hold at 3.35% in April",
+        "url": "https://www.housingwire.com/articles/mortgage-delinquencies-april-2026/",
+        "what": "ICE's April 2026 First Look shows April delinquencies held at 3.35% of all loans and serious delinquencies rose to 577,000.",
+        "numbers": "2026, 3.35, 577,000.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-delinquencies-april-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Luxury Home Prices Rise Amid Uptick in High-End Homebuying and Selling",
+        "url": "https://www.redfin.com/news/luxury-housing-market-april-2026/",
+        "what": "The median luxury sale price is up 4% year over year—more than double the gain in non luxury prices",
+        "numbers": "4, 50",
+        "justified": "redfin.com — https://www.redfin.com/news/luxury-housing-market-april-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Clients are interviewing real estate agents differently. Here’s what they’re really looking for",
         "url": "https://www.housingwire.com/articles/clients-want-advisors-real-estate-agents/",
@@ -257,24 +311,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/clients-want-advisors-real-estate-agents/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Your LOS has 300 integrations. That’s the problem.",
-        "url": "https://www.housingwire.com/articles/los-integrations-ai-future/",
-        "what": "While the mortgage industry has long celebrated having endless software integrations, these complex connections often create hidden dependencies and inefficient workflows",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/los-integrations-ai-future/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Housing demand stays firm, pushing inventory close to negative YOY",
-        "url": "https://www.housingwire.com/articles/housing-demand-stays-firm-pushing-inventory-close-to-negative-yoy/",
-        "what": "Even if we go negative year over year soon, we are in a much healthier spot with inventory than we were from 2020 to 2023.",
-        "numbers": "2020, 2023.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-demand-stays-firm-pushing-inventory-close-to-negative-yoy/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Price Point: The Typical U.S. Home Costs $400,000. Here’s What That Buys in 3 Cities",
@@ -302,51 +338,15 @@
         "justified": "redfin.com — https://www.redfin.com/news/contract-cancellations-april-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Coming Soon in Chicago: A $2M Move-In Ready Duplex Just Steps From Lake Michigan",
-        "url": "https://www.redfin.com/news/2006-n-mohawk-st-60614-unit-1-listing/",
-        "what": "In this edition of Coming Soon–a series from Redfin News that explores new listings that house hunters can find early only on Redfin.com and Compass.com–we’re exploring a duplex unit in Chicago’s Lincoln Park",
-        "numbers": "2024, $2 million, $2",
-        "justified": "redfin.com — https://www.redfin.com/news/2006-n-mohawk-st-60614-unit-1-listing/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Prices Drops Are Becoming Slightly Less Common As Housing Market Stabilizes",
-        "url": "https://www.redfin.com/news/price-drops-april-2026/",
-        "what": "The share of home sellers cutting their asking prices has fallen from its peak as buyers lose a bit of negotiating power, but price drops are still much more common than in years past",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/price-drops-april-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
       {
-        "title": "Meet the AI platform giving every agent a personal coach",
-        "url": "https://www.housingwire.com/articles/meet-the-ai-platform-giving-every-agent-a-personal-coach/",
-        "what": "With 12 coaching personas covering everything from objection handling to mindset, Power Mentor gives every agent access to an AI coach.",
-        "numbers": "12",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/meet-the-ai-platform-giving-every-agent-a-personal-coach/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Atlas VMS’s Erik Morin on HECM second appraisals, AIM-Port acquisition",
-        "url": "https://www.housingwire.com/articles/hecm-second-appraisals-atlas-vms/",
-        "what": "Atlas VMS says 8.3% of HECM loans needed a second appraisal in Q1 2026 versus 10.4% in Q4 2025, adding cost and time.",
-        "numbers": "8.3, 1, 2026, 10.4, 4, 2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hecm-second-appraisals-atlas-vms/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "As HEI regulations expand, states debate loan classification",
-        "url": "https://www.housingwire.com/articles/hei-loan-classification-states/",
-        "what": "State HEI legislation is expanding as Maine sets standards, Illinois updates licensing and other states debate whether HEIs are loans.",
+        "title": "Real estate always has a new crisis, how top leaders stay steady",
+        "url": "https://www.housingwire.com/articles/long-game-mindset-disruption/",
+        "what": "Markets swing and disruption hits",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hei-loan-classification-states/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/long-game-mindset-disruption/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
