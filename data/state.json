@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-05-26 19:27 UTC",
+  "as_of": "2026-05-26 21:57 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.57,
-      "delta_bp_1d": 0.0
+      "yield_pct": 4.56,
+      "delta_bp_1d": -1.0000000000000675
     },
     "mortgage_30y": {
       "rate_pct": 6.51,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "How Sunlife Homes jump-started in one of the U.S.’s toughest arenas",
-      "link": "https://www.housingwire.com/articles/sunlife-homes-growth-florida/",
+      "title": "Eastwood Homes lands Peachtree Building Group in Atlanta",
+      "link": "https://www.housingwire.com/articles/eastwood-peachtree-acquisition-atlanta/",
       "published": "Tue, 26 May 2026"
     },
     {
-      "title": "Unanswered calls are costing real estate agents closings",
-      "link": "https://www.housingwire.com/articles/missed-calls-cost-agents-deals/",
+      "title": "Home equity cap tied to Medicaid eligibility is set to change",
+      "link": "https://www.housingwire.com/articles/medicaid-long-term-care-home-equity-cap/",
       "published": "Tue, 26 May 2026"
     },
     {
-      "title": "Case-Shiller shows further cooling of US home prices in March",
-      "link": "https://www.housingwire.com/articles/home-price-growth-cools-case-shiller/",
+      "title": "Compass agent with no coding experience builds local real estate hub using AI",
+      "link": "https://www.housingwire.com/articles/compass-agent-with-no-coding-experience-builds-local-real-estate-hub-using-ai/",
       "published": "Tue, 26 May 2026"
     },
     {
-      "title": "Lower hires Paul Zinn as EVP of retail lending",
-      "link": "https://www.housingwire.com/articles/lower-paul-zinn-evp-retail/",
+      "title": "CMLS, this one is for you: Build the alliance now or watch Compass build it instead",
+      "link": "https://www.housingwire.com/articles/cms-2026-mls-alliance/",
       "published": "Tue, 26 May 2026"
     },
     {
-      "title": "Mortgage delinquencies hold at 3.35% in April",
-      "link": "https://www.housingwire.com/articles/mortgage-delinquencies-april-2026/",
+      "title": "Smartfi offers 50-bps reverse mortgage discount for veterans",
+      "link": "https://www.housingwire.com/articles/reverse-mortgage-discount-veterans/",
       "published": "Tue, 26 May 2026"
     },
     {
-      "title": "FHA will keep tri-merge credit reports amid shift to new scoring models",
-      "link": "https://www.housingwire.com/articles/fha-tri-merge-credit-reports/",
+      "title": "MISMO white paper details path to standardize mortgage fee descriptions",
+      "link": "https://www.housingwire.com/articles/mismo-fee-standardization-mortgage/",
       "published": "Tue, 26 May 2026"
     },
     {
@@ -203,29 +203,11 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Case-Shiller shows further cooling of US home prices in March",
-        "url": "https://www.housingwire.com/articles/home-price-growth-cools-case-shiller/",
-        "what": "Case-Shiller data shows prices up 0.7% year over year, down 0.2% month over month, and inflation running 2.6 points higher in March.",
-        "numbers": "0.7, 0.2, 2.6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/home-price-growth-cools-case-shiller/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Mortgage Rates Remain Tied to Iran War, Oil Prices",
         "url": "https://www.redfin.com/news/weekly-economic-update-may-26-2026/",
         "what": "This Week In A Nutshell: Three months in, the Iran war is still driving rates more than economic data",
         "numbers": "",
         "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-may-26-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "FHA will keep tri-merge credit reports amid shift to new scoring models",
-        "url": "https://www.housingwire.com/articles/fha-tri-merge-credit-reports/",
-        "what": "The Federal Housing Administration (FHA) announced last week that it will continue requiring tri-merge credit reports to maintain \"prudent risk management\" as it transitions to new",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-tri-merge-credit-reports/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -237,36 +219,54 @@
         "justified": "redfin.com — https://www.redfin.com/news/income-needed-to-buy-home-declines/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage lock-in has become life lock-in",
-        "url": "https://www.housingwire.com/articles/mortgage-lock-in/",
-        "what": "For the past three years, the housing market has been fixated on mortgage rates, as they dictate monthly payments and determine who can buy, refinance or move",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-lock-in/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Homebuilders adopt disciplined growth strategies as market pressures reshape housing in 2026",
-        "url": "https://www.housingwire.com/articles/homebuilders-disciplined-growth-strategies/",
-        "what": "Homebuilders are tightening inventory, refining product mix and pursuing M&A opportunities as elevated rates and affordability pressures reshape the 2026 housing market.",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilders-disciplined-growth-strategies/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "What happens to mortgage rates if the Iran conflict is over?",
-        "url": "https://www.housingwire.com/articles/what-happens-to-mortgage-rates-if-the-iran-conflict-is-over/",
-        "what": "Getting the 10-year yield and mortgage rates to pre-conflict lows will be harder than people think even if this conflict is truly over.",
-        "numbers": "10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/what-happens-to-mortgage-rates-if-the-iran-conflict-is-over/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Eastwood Homes lands Peachtree Building Group in Atlanta",
+        "url": "https://www.housingwire.com/articles/eastwood-peachtree-acquisition-atlanta/",
+        "what": "Eastwood Homes’ acquisition of Atlanta-based Peachtree Building Group – announced today – maps out on its surface as a straightforward expansion move",
+        "numbers": "11",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/eastwood-peachtree-acquisition-atlanta/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "CMLS, this one is for you: Build the alliance now or watch Compass build it instead",
+        "url": "https://www.housingwire.com/articles/cms-2026-mls-alliance/",
+        "what": "Darryl Davis urges CMLS to launch an MLS-controlled alliance by Sep 29, after four Compass MLS deals and a Zillow antitrust suit.",
+        "numbers": "29,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cms-2026-mls-alliance/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Smartfi offers 50-bps reverse mortgage discount for veterans",
+        "url": "https://www.housingwire.com/articles/reverse-mortgage-discount-veterans/",
+        "what": "Smartfi Home Loans introduced Choice Service, a 50-bps rate reduction on its proprietary reverse mortgage for eligible veterans.",
+        "numbers": "50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-discount-veterans/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "MISMO white paper details path to standardize mortgage fee descriptions",
+        "url": "https://www.housingwire.com/articles/mismo-fee-standardization-mortgage/",
+        "what": "MISMO’s new white paper explains how standardized consumer-facing fee naming can cut TRID cure costs and improve mortgage fee transparency.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mismo-fee-standardization-mortgage/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Leading beyond the process: Dawn Kernicky on mentorship, adaptability and customer empathy",
+        "url": "https://www.housingwire.com/articles/dawn-kernicky-servicemac-housingwire-women-of-influence/",
+        "what": "HousingWire spoke with Dawn Kernicky, senior vice president of late stage default at ServiceMac, about leadership, navigating industry change and the importance of balancing operat",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/dawn-kernicky-servicemac-housingwire-women-of-influence/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "How Designers and Real Estate Pros Use Facebook Marketplace to Add Character to a Home",
         "url": "https://www.redfin.com/news/facebook-marketplace-secondhand-interior-design/",
@@ -282,24 +282,6 @@
         "what": "Sunlife Homes grew residential sales volume 31.8% in 2025, placing 11th in HousingWire’s homebuilder growth rankings",
         "numbers": "31.8, 2025,, 11, 43, 19, 2026,",
         "justified": "housingwire.com — https://www.housingwire.com/articles/sunlife-homes-growth-florida/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Lower hires Paul Zinn as EVP of retail lending",
-        "url": "https://www.housingwire.com/articles/lower-paul-zinn-evp-retail/",
-        "what": "Lower has hired veteran mortgage executive Paul Zinn as EVP of retail lending and divisional manager to lead its national retail expansion.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lower-paul-zinn-evp-retail/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage delinquencies hold at 3.35% in April",
-        "url": "https://www.housingwire.com/articles/mortgage-delinquencies-april-2026/",
-        "what": "ICE's April 2026 First Look shows April delinquencies held at 3.35% of all loans and serious delinquencies rose to 577,000.",
-        "numbers": "2026, 3.35, 577,000.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-delinquencies-april-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -333,20 +315,38 @@
     ],
     "notables": [
       {
+        "title": "Home equity cap tied to Medicaid eligibility is set to change",
+        "url": "https://www.housingwire.com/articles/medicaid-long-term-care-home-equity-cap/",
+        "what": "New Medicaid rule will cap home equity at $1 million for long-term care eligibility beginning in 2028, potentially affecting senior homeowners.",
+        "numbers": "$1 million, 2028,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/medicaid-long-term-care-home-equity-cap/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Compass agent with no coding experience builds local real estate hub using AI",
+        "url": "https://www.housingwire.com/articles/compass-agent-with-no-coding-experience-builds-local-real-estate-hub-using-ai/",
+        "what": "Irina Norrell, who leads the Irina Norrell Team in the Washington, D.C., metro area, said she wanted to raise local education standards.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-agent-with-no-coding-experience-builds-local-real-estate-hub-using-ai/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "2026 GameChanger: REMAX Select credits collaboration for transaction side growth",
+        "url": "https://www.housingwire.com/articles/remax-select-sides-growth/",
+        "what": "REMAX Select grew sides 67% from 2021 to 2025, reaching 7,005 in 2025, with leaders citing collaboration and internal referrals.",
+        "numbers": "67, 2021, 2025,, 7,005",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/remax-select-sides-growth/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Unanswered calls are costing real estate agents closings",
         "url": "https://www.housingwire.com/articles/missed-calls-cost-agents-deals/",
         "what": "Agents can lose about $16,000 a month when 10 leads go unanswered and 20% would have converted, at $8,000 per closing.",
         "numbers": "$16,000, 10, 20, $8,000",
         "justified": "housingwire.com — https://www.housingwire.com/articles/missed-calls-cost-agents-deals/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Real estate always has a new crisis, how top leaders stay steady",
-        "url": "https://www.housingwire.com/articles/long-game-mindset-disruption/",
-        "what": "Markets swing and disruption hits",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/long-game-mindset-disruption/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
