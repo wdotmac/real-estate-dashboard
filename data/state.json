@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-27 08:48 UTC",
+  "as_of": "2026-05-27 12:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,39 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Exclusive: Xactus buys Mortgage Credit Link from MeridianLink",
+      "link": "https://www.housingwire.com/articles/mortgage-credit-link-xactus-xedalink/",
+      "published": "Wed, 27 May 2026"
+    },
+    {
+      "title": "Rhode Island Senate will vote on faith-based affordable housing bill",
+      "link": "https://www.housingwire.com/articles/rhode-island-faith-based-housing/",
+      "published": "Wed, 27 May 2026"
+    },
+    {
+      "title": "Champion Homes to bolster operations with Homes Direct deal",
+      "link": "https://www.housingwire.com/articles/champion-homes-homes-direct-acquisition/",
+      "published": "Wed, 27 May 2026"
+    },
+    {
+      "title": "Mortgage demand slides 8.5%, driven by 18% drop in refi applications",
+      "link": "https://www.housingwire.com/articles/mortgage-applications-fall-refinance/",
+      "published": "Wed, 27 May 2026"
+    },
+    {
+      "title": "HouseWhisper adds AI lead nurturing and routing tools",
+      "link": "https://www.housingwire.com/articles/ai-lead-nurturing-routing/",
+      "published": "Wed, 27 May 2026"
+    },
+    {
       "title": "Eastwood Homes lands Peachtree Building Group in Atlanta",
       "link": "https://www.housingwire.com/articles/eastwood-peachtree-acquisition-atlanta/",
       "published": "Tue, 26 May 2026"
     },
     {
-      "title": "Home equity cap tied to Medicaid eligibility is set to change",
-      "link": "https://www.housingwire.com/articles/medicaid-long-term-care-home-equity-cap/",
-      "published": "Tue, 26 May 2026"
-    },
-    {
-      "title": "Compass agent with no coding experience builds local real estate hub using AI",
-      "link": "https://www.housingwire.com/articles/compass-agent-with-no-coding-experience-builds-local-real-estate-hub-using-ai/",
-      "published": "Tue, 26 May 2026"
-    },
-    {
-      "title": "CMLS, this one is for you: Build the alliance now or watch Compass build it instead",
-      "link": "https://www.housingwire.com/articles/cms-2026-mls-alliance/",
-      "published": "Tue, 26 May 2026"
-    },
-    {
-      "title": "Smartfi offers 50-bps reverse mortgage discount for veterans",
-      "link": "https://www.housingwire.com/articles/reverse-mortgage-discount-veterans/",
-      "published": "Tue, 26 May 2026"
-    },
-    {
-      "title": "MISMO white paper details path to standardize mortgage fee descriptions",
-      "link": "https://www.housingwire.com/articles/mismo-fee-standardization-mortgage/",
-      "published": "Tue, 26 May 2026"
+      "title": "29% of U.S. Homebuyers Paid Cash in March–the Lowest Share For That Month Since 2020",
+      "link": "https://www.redfin.com/news/all-cash-homebuyers-march-2026/",
+      "published": "Wed, 27 May 2026"
     },
     {
       "title": "How Designers and Real Estate Pros Use Facebook Marketplace to Add Character to a Home",
@@ -193,15 +198,19 @@
       "title": "Price Point: The Typical U.S. Home Costs $400,000. Here’s What That Buys in 3 Cities",
       "link": "https://www.redfin.com/news/price-point-what-400000-buys-around-united-states/",
       "published": "Fri, 22 May 2026"
-    },
-    {
-      "title": "Just Listed in Chicago: A $1 Million Penthouse Condo in a Former Cookie Factory",
-      "link": "https://www.redfin.com/news/958-w-willow-st-unit-4-listing/",
-      "published": "Fri, 22 May 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "29% of U.S. Homebuyers Paid Cash in March–the Lowest Share For That Month Since 2020",
+        "url": "https://www.redfin.com/news/all-cash-homebuyers-march-2026/",
+        "what": "With hundreds of thousands more home sellers than buyers in the market, fewer house hunters feel inclined to make cash offers to stand out in bidding wars",
+        "numbers": "10, 28.8, 29, 2020",
+        "justified": "redfin.com — https://www.redfin.com/news/all-cash-homebuyers-march-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Mortgage Rates Remain Tied to Iran War, Oil Prices",
         "url": "https://www.redfin.com/news/weekly-economic-update-may-26-2026/",
@@ -222,6 +231,33 @@
       }
     ],
     "housing": [
+      {
+        "title": "Exclusive: Xactus buys Mortgage Credit Link from MeridianLink",
+        "url": "https://www.housingwire.com/articles/mortgage-credit-link-xactus-xedalink/",
+        "what": "Xactus has acquired Mortgage Credit Link, a web-based order fulfillment hub for credit and verification data, from MeridianLink in a carve-out transaction, the company announced Wednesday",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-credit-link-xactus-xedalink/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Rhode Island Senate will vote on faith-based affordable housing bill",
+        "url": "https://www.housingwire.com/articles/rhode-island-faith-based-housing/",
+        "what": "Rhode Island moved closer to joining a small group of states whose lawmakers are working to unlock religious institution land for affordable housing development",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rhode-island-faith-based-housing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Mortgage demand slides 8.5%, driven by 18% drop in refi applications",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-fall-refinance/",
+        "what": "MBA reports applications fell 8.5% as the 30-year fixed rate rose to 6.65%",
+        "numbers": "8.5, 30, 6.65, 18, 0.4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-fall-refinance/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Eastwood Homes lands Peachtree Building Group in Atlanta",
         "url": "https://www.housingwire.com/articles/eastwood-peachtree-acquisition-atlanta/",
@@ -250,24 +286,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "MISMO white paper details path to standardize mortgage fee descriptions",
-        "url": "https://www.housingwire.com/articles/mismo-fee-standardization-mortgage/",
-        "what": "MISMO’s new white paper explains how standardized consumer-facing fee naming can cut TRID cure costs and improve mortgage fee transparency.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mismo-fee-standardization-mortgage/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Leading beyond the process: Dawn Kernicky on mentorship, adaptability and customer empathy",
-        "url": "https://www.housingwire.com/articles/dawn-kernicky-servicemac-housingwire-women-of-influence/",
-        "what": "HousingWire spoke with Dawn Kernicky, senior vice president of late stage default at ServiceMac, about leadership, navigating industry change and the importance of balancing operat",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/dawn-kernicky-servicemac-housingwire-women-of-influence/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "How Designers and Real Estate Pros Use Facebook Marketplace to Add Character to a Home",
         "url": "https://www.redfin.com/news/facebook-marketplace-secondhand-interior-design/",
         "what": "Interior designers and real estate experts are turning to Facebook Marketplace, thrift stores, and estate sales to find one-of-a-kind pieces that add personality and warmth to a home",
@@ -275,15 +293,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/facebook-marketplace-secondhand-interior-design/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How Sunlife Homes jump-started in one of the U.S.’s toughest arenas",
-        "url": "https://www.housingwire.com/articles/sunlife-homes-growth-florida/",
-        "what": "Sunlife Homes grew residential sales volume 31.8% in 2025, placing 11th in HousingWire’s homebuilder growth rankings",
-        "numbers": "31.8, 2025,, 11, 43, 19, 2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sunlife-homes-growth-florida/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Luxury Home Prices Rise Amid Uptick in High-End Homebuying and Selling",
@@ -302,18 +311,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/price-point-what-400000-buys-around-united-states/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Just Listed in Chicago: A $1 Million Penthouse Condo in a Former Cookie Factory",
-        "url": "https://www.redfin.com/news/958-w-willow-st-unit-4-listing/",
-        "what": "In this edition of Just Listed–a series from Redfin News that explores homes that are listed by Redfin or Compass agents on Redfin.com–we’re exploring a penthouse in Lincoln Park, Chicago",
-        "numbers": "$1 Million",
-        "justified": "redfin.com — https://www.redfin.com/news/958-w-willow-st-unit-4-listing/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
+      {
+        "title": "Champion Homes to bolster operations with Homes Direct deal",
+        "url": "https://www.housingwire.com/articles/champion-homes-homes-direct-acquisition/",
+        "what": "Champion Homes will acquire Homes Direct, adding 11 western stores and taking its retail total to 95 locations nationwide.",
+        "numbers": "11, 95",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/champion-homes-homes-direct-acquisition/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "HouseWhisper adds AI lead nurturing and routing tools",
+        "url": "https://www.housingwire.com/articles/ai-lead-nurturing-routing/",
+        "what": "HouseWhisper introduced Lead Engine and Rules Engine to automate outreach and lead routing, with rules by ZIP code, language and price range.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-lead-nurturing-routing/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Home equity cap tied to Medicaid eligibility is set to change",
         "url": "https://www.housingwire.com/articles/medicaid-long-term-care-home-equity-cap/",
@@ -329,24 +347,6 @@
         "what": "Irina Norrell, who leads the Irina Norrell Team in the Washington, D.C., metro area, said she wanted to raise local education standards.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/compass-agent-with-no-coding-experience-builds-local-real-estate-hub-using-ai/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "2026 GameChanger: REMAX Select credits collaboration for transaction side growth",
-        "url": "https://www.housingwire.com/articles/remax-select-sides-growth/",
-        "what": "REMAX Select grew sides 67% from 2021 to 2025, reaching 7,005 in 2025, with leaders citing collaboration and internal referrals.",
-        "numbers": "67, 2021, 2025,, 7,005",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/remax-select-sides-growth/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Unanswered calls are costing real estate agents closings",
-        "url": "https://www.housingwire.com/articles/missed-calls-cost-agents-deals/",
-        "what": "Agents can lose about $16,000 a month when 10 leads go unanswered and 20% would have converted, at $8,000 per closing.",
-        "numbers": "$16,000, 10, 20, $8,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/missed-calls-cost-agents-deals/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
