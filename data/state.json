@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-05-27 19:32 UTC",
+  "as_of": "2026-05-27 22:09 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.56,
-      "delta_bp_1d": -1.0000000000000675
+      "yield_pct": 4.5,
+      "delta_bp_1d": -5.999999999999961
     },
     "mortgage_30y": {
       "rate_pct": 6.51,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Scale is now table stakes for private builders, Eastwood proves it",
+      "link": "https://www.housingwire.com/articles/eastwood-atlanta-builder-ma/",
+      "published": "Wed, 27 May 2026"
+    },
+    {
+      "title": "Zillow and CoStar continue to spar over Matterport 3D tours",
+      "link": "https://www.housingwire.com/articles/zillow-matterport-3d-tours/",
+      "published": "Wed, 27 May 2026"
+    },
+    {
+      "title": "Pennsylvania lawmakers set to vote on home equity investment regulations",
+      "link": "https://www.housingwire.com/articles/pennsylvania-regulation-home-equity-investment-products/",
+      "published": "Wed, 27 May 2026"
+    },
+    {
+      "title": "Mamdani’s $22 billion ‘grand bargain’ for NYC affordable housing",
+      "link": "https://www.housingwire.com/articles/nyc-affordable-housing-200000/",
+      "published": "Wed, 27 May 2026"
+    },
+    {
       "title": "Zillow, MRED face July 1 hearing after restraining order on feeds",
       "link": "https://www.housingwire.com/articles/zillow-mred-discovery-schedule/",
       "published": "Wed, 27 May 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Title companies may still have to follow anti-money laundering rule after FinCEN appeal",
       "link": "https://www.housingwire.com/articles/title-companies-may-still-have-to-follow-anti-money-laundering-rule-after-fincen-appeal/",
-      "published": "Wed, 27 May 2026"
-    },
-    {
-      "title": "Realtracs may suspend Zillow listing feed on June 1 over IDX rules",
-      "link": "https://www.housingwire.com/articles/realtracs-zillow-idx-feed/",
-      "published": "Wed, 27 May 2026"
-    },
-    {
-      "title": "Housing markets are adapting to higher rates instead of freezing",
-      "link": "https://www.housingwire.com/articles/housing-markets-adapting-to-higher-rates/",
-      "published": "Wed, 27 May 2026"
-    },
-    {
-      "title": "Insurer Nationwide Mutual claims consumer confusion in trademark suit against lender",
-      "link": "https://www.housingwire.com/articles/nationwide-sues-mortgage-bankers/",
-      "published": "Wed, 27 May 2026"
-    },
-    {
-      "title": "OnCourse Learning rolls out AI tools for mortgage education, LO exam prep",
-      "link": "https://www.housingwire.com/articles/oncourse-learning-ai-tools-mortgage-education-mlo-exam-prep/",
       "published": "Wed, 27 May 2026"
     },
     {
@@ -241,6 +241,33 @@
     ],
     "housing": [
       {
+        "title": "Scale is now table stakes for private builders, Eastwood proves it",
+        "url": "https://www.housingwire.com/articles/eastwood-atlanta-builder-ma/",
+        "what": "Word that Eastwood Homes would acquire Atlanta-based Peachtree Building Group on Tuesday came as any private-to-private combination might",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/eastwood-atlanta-builder-ma/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Zillow and CoStar continue to spar over Matterport 3D tours",
+        "url": "https://www.housingwire.com/articles/zillow-matterport-3d-tours/",
+        "what": "Matterport says Zillow can show customer tours, while Zillow wants CoStar to make a pledge not to sue, citing legal risk.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-matterport-3d-tours/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Mamdani’s $22 billion ‘grand bargain’ for NYC affordable housing",
+        "url": "https://www.housingwire.com/articles/nyc-affordable-housing-200000/",
+        "what": "Zohran Mamdani ran for mayor on one promise: make New York City affordable again",
+        "numbers": "10, 200,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-affordable-housing-200000/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Zillow, MRED face July 1 hearing after restraining order on feeds",
         "url": "https://www.housingwire.com/articles/zillow-mred-discovery-schedule/",
         "what": "Court sets expedited discovery and a July 1-2 hearing on Zillow’s bid to block MRED from suspending listing feeds after a temporary order.",
@@ -277,24 +304,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Exclusive: Xactus buys Mortgage Credit Link from MeridianLink",
-        "url": "https://www.housingwire.com/articles/mortgage-credit-link-xactus-xedalink/",
-        "what": "Xactus has acquired Mortgage Credit Link, a web-based order fulfillment hub for credit and verification data, from MeridianLink in a carve-out transaction, the company announced Wednesday",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-credit-link-xactus-xedalink/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Rhode Island Senate will vote on faith-based affordable housing bill",
-        "url": "https://www.housingwire.com/articles/rhode-island-faith-based-housing/",
-        "what": "Rhode Island moved closer to joining a small group of states whose lawmakers are working to unlock religious institution land for affordable housing development",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rhode-island-faith-based-housing/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "How Designers and Real Estate Pros Use Facebook Marketplace to Add Character to a Home",
         "url": "https://www.redfin.com/news/facebook-marketplace-secondhand-interior-design/",
         "what": "Interior designers and real estate experts are turning to Facebook Marketplace, thrift stores, and estate sales to find one-of-a-kind pieces that add personality and warmth to a home",
@@ -324,29 +333,20 @@
     ],
     "notables": [
       {
+        "title": "Pennsylvania lawmakers set to vote on home equity investment regulations",
+        "url": "https://www.housingwire.com/articles/pennsylvania-regulation-home-equity-investment-products/",
+        "what": "House Bill 2120 would place shared appreciation agreements under the same statutory safeguards as other home-secured financial products.",
+        "numbers": "2120",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pennsylvania-regulation-home-equity-investment-products/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Title companies may still have to follow anti-money laundering rule after FinCEN appeal",
         "url": "https://www.housingwire.com/articles/title-companies-may-still-have-to-follow-anti-money-laundering-rule-after-fincen-appeal/",
         "what": "FinCEN filed the notice of appeal with the U.S",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/title-companies-may-still-have-to-follow-anti-money-laundering-rule-after-fincen-appeal/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Corcoran opens first Long Island affiliate",
-        "url": "https://www.housingwire.com/articles/corcoran-opens-first-long-island-affiliate/",
-        "what": "The affiliate specializes in residential brokerage, new development and investment-focused transactions throughout Long Island.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/corcoran-opens-first-long-island-affiliate/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Productivity per agent is the metric real estate teams miss",
-        "url": "https://www.housingwire.com/articles/productivity-per-agent-metric/",
-        "what": "Teams chase recruiting and new leads, but Productivity Per Agent rises when agents book appointments faster, including a 3.6 to 1.4 improvement.",
-        "numbers": "3.6, 1.4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/productivity-per-agent-metric/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
