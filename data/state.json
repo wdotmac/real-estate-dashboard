@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-05-28 19:44 UTC",
+  "as_of": "2026-05-28 22:06 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.5,
-      "delta_bp_1d": -5.999999999999961
+      "yield_pct": 4.48,
+      "delta_bp_1d": -1.9999999999999574
     },
     "mortgage_30y": {
       "rate_pct": 6.53,
@@ -140,33 +140,38 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Fidelity data shows record retirement savings, rising Roth adoption",
+      "link": "https://www.housingwire.com/articles/fidelity-data-shows-record-retirement-savings-rising-roth-adoption/",
+      "published": "Thu, 28 May 2026"
+    },
+    {
+      "title": "New home sales stumble in April, as affordability pressures mount",
+      "link": "https://www.housingwire.com/articles/new-home-sales-april-2026/",
+      "published": "Thu, 28 May 2026"
+    },
+    {
+      "title": "Elizabeth Warren presses Bilt on payment disruptions during bank shift",
+      "link": "https://www.housingwire.com/articles/warren-bilt-payment-disruptions/",
+      "published": "Thu, 28 May 2026"
+    },
+    {
+      "title": "Rent stabilization fracas shapes Providence mayoral contest",
+      "link": "https://www.housingwire.com/articles/providence-rent-stabilization-race/",
+      "published": "Thu, 28 May 2026"
+    },
+    {
+      "title": "Epique Realty bets on specialized AI tools to modernize agent workflow",
+      "link": "https://www.housingwire.com/articles/epique-realty-bets-on-specialized-ai-tools-to-modernize-agent-workflow/",
+      "published": "Thu, 28 May 2026"
+    },
+    {
       "title": "Compass adds Miguel Salvat and Daniel Golik in Miami",
       "link": "https://www.housingwire.com/articles/compass-salvat-golik-miami/",
       "published": "Thu, 28 May 2026"
     },
     {
-      "title": "Urban Institute study makes the case for a 100% LTV FHA mortgage",
-      "link": "https://www.housingwire.com/articles/fha-zero-down-loans-risk/",
-      "published": "Thu, 28 May 2026"
-    },
-    {
-      "title": "Is Zillow a public utility? Attorneys weigh in on MRED, Compass suit",
-      "link": "https://www.housingwire.com/articles/zillow-antitrust-mred-compass/",
-      "published": "Thu, 28 May 2026"
-    },
-    {
-      "title": "Margy Grant on leadership, resilience and guiding one of housing’s largest trade organizations",
-      "link": "https://www.housingwire.com/articles/margy-grant-on-leadership-resilience-and-guiding-one-of-housings-largest-trade-organizations/",
-      "published": "Thu, 28 May 2026"
-    },
-    {
-      "title": "Longbridge partners with Friday Harbor on AI pre-underwriting",
-      "link": "https://www.housingwire.com/articles/longbridge-friday-harbor-ai-pre-underwriting/",
-      "published": "Thu, 28 May 2026"
-    },
-    {
-      "title": "CertifID launches unified closing platform",
-      "link": "https://www.housingwire.com/articles/certifid-launches-unified-closing-platform/",
+      "title": "Coming Soon in Chicago: A One-Bedroom Condo in the City, a Big House in the Suburbs and More",
+      "link": "https://www.redfin.com/news/redfin-coming-soon-listings-week-may-25/",
       "published": "Thu, 28 May 2026"
     },
     {
@@ -193,11 +198,6 @@
       "title": "How Designers and Real Estate Pros Use Facebook Marketplace to Add Character to a Home",
       "link": "https://www.redfin.com/news/facebook-marketplace-secondhand-interior-design/",
       "published": "Tue, 26 May 2026"
-    },
-    {
-      "title": "Mortgage Rates Remain Tied to Iran War, Oil Prices",
-      "link": "https://www.redfin.com/news/weekly-economic-update-may-26-2026/",
-      "published": "Tue, 26 May 2026"
     }
   ],
   "feed_101020": {
@@ -219,18 +219,45 @@
         "justified": "redfin.com — https://www.redfin.com/news/all-cash-homebuyers-march-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Mortgage Rates Remain Tied to Iran War, Oil Prices",
-        "url": "https://www.redfin.com/news/weekly-economic-update-may-26-2026/",
-        "what": "This Week In A Nutshell: Three months in, the Iran war is still driving rates more than economic data",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-may-26-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Coming Soon in Chicago: A One-Bedroom Condo in the City, a Big House in the Suburbs and More",
+        "url": "https://www.redfin.com/news/redfin-coming-soon-listings-week-may-25/",
+        "what": "In this edition of Coming Soon–a series from Redfin News that explores new listings that house hunters can find early only on Redfin.com and Compass.com–we’re exploring five different listings in the Chicago metro area",
+        "numbers": "6010, $550,000, 30",
+        "justified": "redfin.com — https://www.redfin.com/news/redfin-coming-soon-listings-week-may-25/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "New home sales stumble in April, as affordability pressures mount",
+        "url": "https://www.housingwire.com/articles/new-home-sales-april-2026/",
+        "what": "U.S",
+        "numbers": "622,000, 6.2, 11.3, $422,500, 9.4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-sales-april-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Rent stabilization fracas shapes Providence mayoral contest",
+        "url": "https://www.housingwire.com/articles/providence-rent-stabilization-race/",
+        "what": "Providence, Rhode Island’s city council passed rent stabilization but failed to override the mayor’s veto",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/providence-rent-stabilization-race/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Epique Realty bets on specialized AI tools to modernize agent workflow",
+        "url": "https://www.housingwire.com/articles/epique-realty-bets-on-specialized-ai-tools-to-modernize-agent-workflow/",
+        "what": "Epique Realty CEO and co-founder Josh Miller sat down with HousingWire as the brokerage prepares to lauch its EpiqueX platform.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/epique-realty-bets-on-specialized-ai-tools-to-modernize-agent-workflow/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Urban Institute study makes the case for a 100% LTV FHA mortgage",
         "url": "https://www.housingwire.com/articles/fha-zero-down-loans-risk/",
@@ -277,24 +304,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Small investors, not Wall Street, are tightening the path to homeownership",
-        "url": "https://www.housingwire.com/articles/small-investors-rents-up-30-percent-squeezing-first-time-buyers/",
-        "what": "Small real estate investors are reshaping the first-time homebuyer pipeline by purchasing and holding more single-family homes, pushing rents higher and making it harder for to sav",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/small-investors-rents-up-30-percent-squeezing-first-time-buyers/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "New home sales fall, but the trend is still sideways",
-        "url": "https://www.housingwire.com/articles/new-home-sales-fall-but-the-trend-is-still-sideways/",
-        "what": "Monthly numbers can swing wildly, but new home sales have been stuck for many years in a range that doesn’t show any real growth.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-sales-fall-but-the-trend-is-still-sideways/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Investor Home Purchases Fall to Lowest Level Since 2020",
         "url": "https://www.redfin.com/news/investor-report-q1-2026/",
         "what": "Elevated housing costs, a slower-than-usual housing market and a cooling rental market are squeezing potential returns for U.S",
@@ -302,18 +311,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/investor-report-q1-2026/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "How Designers and Real Estate Pros Use Facebook Marketplace to Add Character to a Home",
-        "url": "https://www.redfin.com/news/facebook-marketplace-secondhand-interior-design/",
-        "what": "Interior designers and real estate experts are turning to Facebook Marketplace, thrift stores, and estate sales to find one-of-a-kind pieces that add personality and warmth to a home",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/facebook-marketplace-secondhand-interior-design/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
+      {
+        "title": "Fidelity data shows record retirement savings, rising Roth adoption",
+        "url": "https://www.housingwire.com/articles/fidelity-data-shows-record-retirement-savings-rising-roth-adoption/",
+        "what": "Combined employer and employee contributions for 401(k) savers hit 14.4%, approaching Fidelity’s suggested 15% target.",
+        "numbers": "401, 14.4, 15",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fidelity-data-shows-record-retirement-savings-rising-roth-adoption/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Elizabeth Warren presses Bilt on payment disruptions during bank shift",
+        "url": "https://www.housingwire.com/articles/warren-bilt-payment-disruptions/",
+        "what": "U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/warren-bilt-payment-disruptions/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Compass adds Miguel Salvat and Daniel Golik in Miami",
         "url": "https://www.housingwire.com/articles/compass-salvat-golik-miami/",
@@ -322,33 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/compass-salvat-golik-miami/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "CertifID launches unified closing platform",
-        "url": "https://www.housingwire.com/articles/certifid-launches-unified-closing-platform/",
-        "what": "The platform is designed to centralize every step of the closing process, eliminating the need to send sensitive information through email.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/certifid-launches-unified-closing-platform/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Rachel Glazer returns to Brown Harris Stevens from Compass",
-        "url": "https://www.housingwire.com/articles/rachel-glazer-returns-bhs/",
-        "what": "Rachel Glazer returned to Brown Harris Stevens from Compass, bringing her team and $1B+ career sales plus $119M in 2024 volume.",
-        "numbers": "$1, $119, 2024",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rachel-glazer-returns-bhs/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Bank of America extends Community Homeownership Commitment program",
-        "url": "https://www.housingwire.com/articles/bank-of-america-homeownership/",
-        "what": "Bank of America will continue its program after $15B in loans and $600M in grants for 57,000 homebuyers since 2019.",
-        "numbers": "$15, $600, 57,000, 2019.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bank-of-america-homeownership/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
