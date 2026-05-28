@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-28 04:39 UTC",
+  "as_of": "2026-05-28 08:52 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "AI paralysis is real. Here’s how to move past it",
+      "link": "https://www.housingwire.com/articles/move-past-ai-paralysis/",
+      "published": "Thu, 28 May 2026"
+    },
+    {
+      "title": "The insurance market at halftime: What builders need to know for the rest of 2026",
+      "link": "https://www.housingwire.com/articles/homeowners-insurance-outlook-builders-2026/",
+      "published": "Thu, 28 May 2026"
+    },
+    {
+      "title": "New research: Homebuyers value digital mortgage solutions",
+      "link": "https://www.housingwire.com/articles/digital-mortgage-solutions-demand/",
+      "published": "Thu, 28 May 2026"
+    },
+    {
+      "title": "Make payments with a reverse mortgage?",
+      "link": "https://www.housingwire.com/articles/reverse-mortgage-payments-hecm/",
+      "published": "Thu, 28 May 2026"
+    },
+    {
       "title": "Scale is now table stakes for private builders, Eastwood proves it",
       "link": "https://www.housingwire.com/articles/eastwood-atlanta-builder-ma/",
       "published": "Wed, 27 May 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Zillow and CoStar continue to spar over Matterport 3D tours",
       "link": "https://www.housingwire.com/articles/zillow-matterport-3d-tours/",
-      "published": "Wed, 27 May 2026"
-    },
-    {
-      "title": "Pennsylvania lawmakers set to vote on home equity investment regulations",
-      "link": "https://www.housingwire.com/articles/pennsylvania-regulation-home-equity-investment-products/",
-      "published": "Wed, 27 May 2026"
-    },
-    {
-      "title": "Mamdani’s $22 billion ‘grand bargain’ for NYC affordable housing",
-      "link": "https://www.housingwire.com/articles/nyc-affordable-housing-200000/",
-      "published": "Wed, 27 May 2026"
-    },
-    {
-      "title": "Zillow, MRED face July 1 hearing after restraining order on feeds",
-      "link": "https://www.housingwire.com/articles/zillow-mred-discovery-schedule/",
-      "published": "Wed, 27 May 2026"
-    },
-    {
-      "title": "Title companies may still have to follow anti-money laundering rule after FinCEN appeal",
-      "link": "https://www.housingwire.com/articles/title-companies-may-still-have-to-follow-anti-money-laundering-rule-after-fincen-appeal/",
       "published": "Wed, 27 May 2026"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Housing markets are adapting to higher rates instead of freezing",
-        "url": "https://www.housingwire.com/articles/housing-markets-adapting-to-higher-rates/",
-        "what": "HousingWire data shows housing markets adapting to higher rates as sellers adjust pricing and transaction activity holds up.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-markets-adapting-to-higher-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "29% of U.S. Homebuyers Paid Cash in March–the Lowest Share For That Month Since 2020",
         "url": "https://www.redfin.com/news/all-cash-homebuyers-march-2026/",
         "what": "With hundreds of thousands more home sellers than buyers in the market, fewer house hunters feel inclined to make cash offers to stand out in bidding wars",
@@ -240,6 +231,33 @@
       }
     ],
     "housing": [
+      {
+        "title": "The insurance market at halftime: What builders need to know for the rest of 2026",
+        "url": "https://www.housingwire.com/articles/homeowners-insurance-outlook-builders-2026/",
+        "what": "Don't let homeowners insurance disrupt your closings",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homeowners-insurance-outlook-builders-2026/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "New research: Homebuyers value digital mortgage solutions",
+        "url": "https://www.housingwire.com/articles/digital-mortgage-solutions-demand/",
+        "what": "New research from ServiceLink reveals how digital mortgage tools, faster timelines and borrower expectations are reshaping the lending experience in 2026.",
+        "numbers": "2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/digital-mortgage-solutions-demand/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Make payments with a reverse mortgage?",
+        "url": "https://www.housingwire.com/articles/reverse-mortgage-payments-hecm/",
+        "what": "While most homeowners use a reverse mortgage to eliminate their monthly payments, adjustable-rate HECMs offer the hidden flexibility of making voluntary prepayments without penalty",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-payments-hecm/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Scale is now table stakes for private builders, Eastwood proves it",
         "url": "https://www.housingwire.com/articles/eastwood-atlanta-builder-ma/",
@@ -277,33 +295,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Realtracs may suspend Zillow listing feed on June 1 over IDX rules",
-        "url": "https://www.housingwire.com/articles/realtracs-zillow-idx-feed/",
-        "what": "Realtracs says Zillow is not compliant with updated IDX display rules due May 31, and may suspend the MLS feed on June 1.",
-        "numbers": "31,, 1.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realtracs-zillow-idx-feed/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Insurer Nationwide Mutual claims consumer confusion in trademark suit against lender",
-        "url": "https://www.housingwire.com/articles/nationwide-sues-mortgage-bankers/",
-        "what": "Nationwide Mutual Insurance Co",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nationwide-sues-mortgage-bankers/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "OnCourse Learning rolls out AI tools for mortgage education, LO exam prep",
-        "url": "https://www.housingwire.com/articles/oncourse-learning-ai-tools-mortgage-education-mlo-exam-prep/",
-        "what": "OnCourse Learning has launched a suite of AI-powered tools, including a learning assistant called Rubi and a new AI for MLOs Certificate program.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/oncourse-learning-ai-tools-mortgage-education-mlo-exam-prep/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "How Designers and Real Estate Pros Use Facebook Marketplace to Add Character to a Home",
         "url": "https://www.redfin.com/news/facebook-marketplace-secondhand-interior-design/",
         "what": "Interior designers and real estate experts are turning to Facebook Marketplace, thrift stores, and estate sales to find one-of-a-kind pieces that add personality and warmth to a home",
@@ -332,6 +323,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "AI paralysis is real. Here’s how to move past it",
+        "url": "https://www.housingwire.com/articles/move-past-ai-paralysis/",
+        "what": "Many professionals experience \"AI paralysis\" from being overwhelmed rather than skeptical of the technology's potential",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/move-past-ai-paralysis/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Pennsylvania lawmakers set to vote on home equity investment regulations",
         "url": "https://www.housingwire.com/articles/pennsylvania-regulation-home-equity-investment-products/",
