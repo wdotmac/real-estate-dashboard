@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-28 12:44 UTC",
+  "as_of": "2026-05-28 17:01 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": -5.999999999999961
     },
     "mortgage_30y": {
-      "rate_pct": 6.51,
-      "delta_bp_wow": 14.999999999999947
+      "rate_pct": 6.53,
+      "delta_bp_wow": 2.000000000000046
     },
     "starts": {
       "level_saar": 1465.0,
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "A start-up with a deep tech pedigree launches AI to train the trades",
-      "link": "https://www.housingwire.com/articles/a-start-up-with-a-deep-tech-pedigree-launches-ai-to-train-the-trades/",
+      "title": "New home sales fall, but the trend is still sideways",
+      "link": "https://www.housingwire.com/articles/new-home-sales-fall-but-the-trend-is-still-sideways/",
       "published": "Thu, 28 May 2026"
     },
     {
-      "title": "AI paralysis is real. Here’s how to move past it",
-      "link": "https://www.housingwire.com/articles/move-past-ai-paralysis/",
+      "title": "Bank of America extends Community Homeownership Commitment program",
+      "link": "https://www.housingwire.com/articles/bank-of-america-homeownership/",
       "published": "Thu, 28 May 2026"
     },
     {
-      "title": "The insurance market at halftime: What builders need to know for the rest of 2026",
-      "link": "https://www.housingwire.com/articles/homeowners-insurance-outlook-builders-2026/",
+      "title": "Homebuyer affordability slips in April as median mortgage payment rises to $2,152",
+      "link": "https://www.housingwire.com/articles/mba-april-2026-homebuyer-affordabilit/",
       "published": "Thu, 28 May 2026"
     },
     {
-      "title": "New research: Homebuyers value digital mortgage solutions",
-      "link": "https://www.housingwire.com/articles/digital-mortgage-solutions-demand/",
+      "title": "Fair housing groups sue CFPB, Vought over ECOA fair lending rule",
+      "link": "https://www.housingwire.com/articles/fair-lending-cfpb-vought/",
       "published": "Thu, 28 May 2026"
     },
     {
-      "title": "Make payments with a reverse mortgage?",
-      "link": "https://www.housingwire.com/articles/reverse-mortgage-payments-hecm/",
+      "title": "The wait continues: Two Harbors stalls on CCM merger approval",
+      "link": "https://www.housingwire.com/articles/two-harbors-ccm-vote-adjourned/",
       "published": "Thu, 28 May 2026"
     },
     {
-      "title": "Scale is now table stakes for private builders, Eastwood proves it",
-      "link": "https://www.housingwire.com/articles/eastwood-atlanta-builder-ma/",
-      "published": "Wed, 27 May 2026"
+      "title": "MasterBrand completes all-stock merger with American Woodmark",
+      "link": "https://www.housingwire.com/articles/masterbrand-american-woodmark-merger-homebuilder-cabinet-supply/",
+      "published": "Thu, 28 May 2026"
     },
     {
       "title": "Investor Home Purchases Fall to Lowest Level Since 2020",
@@ -241,6 +241,60 @@
     ],
     "housing": [
       {
+        "title": "New home sales fall, but the trend is still sideways",
+        "url": "https://www.housingwire.com/articles/new-home-sales-fall-but-the-trend-is-still-sideways/",
+        "what": "Monthly numbers can swing wildly, but new home sales have been stuck for many years in a range that doesn’t show any real growth.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-sales-fall-but-the-trend-is-still-sideways/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Homebuyer affordability slips in April as median mortgage payment rises to $2,152",
+        "url": "https://www.housingwire.com/articles/mba-april-2026-homebuyer-affordabilit/",
+        "what": "MBA’s April 2026 PAPI shows homebuyer affordability slipped month over month as median payments rose to $2,152.",
+        "numbers": "2026, $2,152.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-april-2026-homebuyer-affordabilit/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Fair housing groups sue CFPB, Vought over ECOA fair lending rule",
+        "url": "https://www.housingwire.com/articles/fair-lending-cfpb-vought/",
+        "what": "Fair housing groups sued the CFPB and Russell Vought, seeking to block Regulation B changes ending disparate impact and limiting SPCPs.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fair-lending-cfpb-vought/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "The wait continues: Two Harbors stalls on CCM merger approval",
+        "url": "https://www.housingwire.com/articles/two-harbors-ccm-vote-adjourned/",
+        "what": "Two Harbors Investment Corp",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/two-harbors-ccm-vote-adjourned/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "MasterBrand completes all-stock merger with American Woodmark",
+        "url": "https://www.housingwire.com/articles/masterbrand-american-woodmark-merger-homebuilder-cabinet-supply/",
+        "what": "MasterBrand Inc",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/masterbrand-american-woodmark-merger-homebuilder-cabinet-supply/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "LadderUp expands rent-to-homeownership model",
+        "url": "https://www.housingwire.com/articles/ladderup-expands-rent-homeownership/",
+        "what": "LadderUp Housing is expanding its reach into Allegheny and Westmoreland counties, using an investment to acquire homes.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ladderup-expands-rent-homeownership/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
         "title": "Investor Home Purchases Fall to Lowest Level Since 2020",
         "url": "https://www.redfin.com/news/investor-report-q1-2026/",
         "what": "Elevated housing costs, a slower-than-usual housing market and a cooling rental market are squeezing potential returns for U.S",
@@ -248,69 +302,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/investor-report-q1-2026/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "The insurance market at halftime: What builders need to know for the rest of 2026",
-        "url": "https://www.housingwire.com/articles/homeowners-insurance-outlook-builders-2026/",
-        "what": "Don't let homeowners insurance disrupt your closings",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homeowners-insurance-outlook-builders-2026/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "New research: Homebuyers value digital mortgage solutions",
-        "url": "https://www.housingwire.com/articles/digital-mortgage-solutions-demand/",
-        "what": "New research from ServiceLink reveals how digital mortgage tools, faster timelines and borrower expectations are reshaping the lending experience in 2026.",
-        "numbers": "2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/digital-mortgage-solutions-demand/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Make payments with a reverse mortgage?",
-        "url": "https://www.housingwire.com/articles/reverse-mortgage-payments-hecm/",
-        "what": "While most homeowners use a reverse mortgage to eliminate their monthly payments, adjustable-rate HECMs offer the hidden flexibility of making voluntary prepayments without penalty",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-payments-hecm/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Scale is now table stakes for private builders, Eastwood proves it",
-        "url": "https://www.housingwire.com/articles/eastwood-atlanta-builder-ma/",
-        "what": "Word that Eastwood Homes would acquire Atlanta-based Peachtree Building Group on Tuesday came as any private-to-private combination might",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/eastwood-atlanta-builder-ma/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Zillow and CoStar continue to spar over Matterport 3D tours",
-        "url": "https://www.housingwire.com/articles/zillow-matterport-3d-tours/",
-        "what": "Matterport says Zillow can show customer tours, while Zillow wants CoStar to make a pledge not to sue, citing legal risk.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-matterport-3d-tours/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Mamdani’s $22 billion ‘grand bargain’ for NYC affordable housing",
-        "url": "https://www.housingwire.com/articles/nyc-affordable-housing-200000/",
-        "what": "Zohran Mamdani ran for mayor on one promise: make New York City affordable again",
-        "numbers": "10, 200,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-affordable-housing-200000/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Zillow, MRED face July 1 hearing after restraining order on feeds",
-        "url": "https://www.housingwire.com/articles/zillow-mred-discovery-schedule/",
-        "what": "Court sets expedited discovery and a July 1-2 hearing on Zillow’s bid to block MRED from suspending listing feeds after a temporary order.",
-        "numbers": "1, 2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-mred-discovery-schedule/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "How Designers and Real Estate Pros Use Facebook Marketplace to Add Character to a Home",
@@ -324,29 +315,38 @@
     ],
     "notables": [
       {
-        "title": "A start-up with a deep tech pedigree launches AI to train the trades",
-        "url": "https://www.housingwire.com/articles/a-start-up-with-a-deep-tech-pedigree-launches-ai-to-train-the-trades/",
-        "what": "Navigate.AI launches with $25 million in funding, aiming to leverage AI in construction to boost job site training and worker efficiency.",
-        "numbers": "$25 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/a-start-up-with-a-deep-tech-pedigree-launches-ai-to-train-the-trades/",
+        "title": "Bank of America extends Community Homeownership Commitment program",
+        "url": "https://www.housingwire.com/articles/bank-of-america-homeownership/",
+        "what": "Bank of America will continue its program after $15B in loans and $600M in grants for 57,000 homebuyers since 2019.",
+        "numbers": "$15, $600, 57,000, 2019.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bank-of-america-homeownership/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "AI paralysis is real. Here’s how to move past it",
-        "url": "https://www.housingwire.com/articles/move-past-ai-paralysis/",
-        "what": "Many professionals experience \"AI paralysis\" from being overwhelmed rather than skeptical of the technology's potential",
+        "title": "Wells Fargo to offer 50-bps incentive for ICON 3D-printed homes",
+        "url": "https://www.housingwire.com/articles/wells-fargo-icon-3d-homes/",
+        "what": "Wells Fargo has reached an agreement with construction technology company ICON to serve as the preferred lender for its new 3D-printed residential properties.",
+        "numbers": "3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/wells-fargo-icon-3d-homes/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Felicia Grumet on why the best career moves often feel uncomfortable",
+        "url": "https://www.housingwire.com/articles/felicia-grumet-on-why-the-best-career-moves-often-feel-uncomfortable/",
+        "what": "Felicia Grumet, CFO of Newrez, reflects on leadership, career reinvention and why stepping outside your comfort zone can create the strongest opportunities for growth.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/move-past-ai-paralysis/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/felicia-grumet-on-why-the-best-career-moves-often-feel-uncomfortable/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Pennsylvania lawmakers set to vote on home equity investment regulations",
-        "url": "https://www.housingwire.com/articles/pennsylvania-regulation-home-equity-investment-products/",
-        "what": "House Bill 2120 would place shared appreciation agreements under the same statutory safeguards as other home-secured financial products.",
-        "numbers": "2120",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pennsylvania-regulation-home-equity-investment-products/",
+        "title": "NAR REACH taps real estate firms for tech program",
+        "url": "https://www.housingwire.com/articles/nar-reach-taps-real-estate-firms-for-tech-program/",
+        "what": "The REACH program focuses on identifying and accelerating technology companies serving the residential real estate industry.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-reach-taps-real-estate-firms-for-tech-program/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
