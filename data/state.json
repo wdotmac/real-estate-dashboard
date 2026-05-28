@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-28 17:01 UTC",
+  "as_of": "2026-05-28 19:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,38 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "New home sales fall, but the trend is still sideways",
-      "link": "https://www.housingwire.com/articles/new-home-sales-fall-but-the-trend-is-still-sideways/",
+      "title": "Compass adds Miguel Salvat and Daniel Golik in Miami",
+      "link": "https://www.housingwire.com/articles/compass-salvat-golik-miami/",
       "published": "Thu, 28 May 2026"
     },
     {
-      "title": "Bank of America extends Community Homeownership Commitment program",
-      "link": "https://www.housingwire.com/articles/bank-of-america-homeownership/",
+      "title": "Urban Institute study makes the case for a 100% LTV FHA mortgage",
+      "link": "https://www.housingwire.com/articles/fha-zero-down-loans-risk/",
       "published": "Thu, 28 May 2026"
     },
     {
-      "title": "Homebuyer affordability slips in April as median mortgage payment rises to $2,152",
-      "link": "https://www.housingwire.com/articles/mba-april-2026-homebuyer-affordabilit/",
+      "title": "Is Zillow a public utility? Attorneys weigh in on MRED, Compass suit",
+      "link": "https://www.housingwire.com/articles/zillow-antitrust-mred-compass/",
       "published": "Thu, 28 May 2026"
     },
     {
-      "title": "Fair housing groups sue CFPB, Vought over ECOA fair lending rule",
-      "link": "https://www.housingwire.com/articles/fair-lending-cfpb-vought/",
+      "title": "Margy Grant on leadership, resilience and guiding one of housing’s largest trade organizations",
+      "link": "https://www.housingwire.com/articles/margy-grant-on-leadership-resilience-and-guiding-one-of-housings-largest-trade-organizations/",
       "published": "Thu, 28 May 2026"
     },
     {
-      "title": "The wait continues: Two Harbors stalls on CCM merger approval",
-      "link": "https://www.housingwire.com/articles/two-harbors-ccm-vote-adjourned/",
+      "title": "Longbridge partners with Friday Harbor on AI pre-underwriting",
+      "link": "https://www.housingwire.com/articles/longbridge-friday-harbor-ai-pre-underwriting/",
       "published": "Thu, 28 May 2026"
     },
     {
-      "title": "MasterBrand completes all-stock merger with American Woodmark",
-      "link": "https://www.housingwire.com/articles/masterbrand-american-woodmark-merger-homebuilder-cabinet-supply/",
+      "title": "CertifID launches unified closing platform",
+      "link": "https://www.housingwire.com/articles/certifid-launches-unified-closing-platform/",
+      "published": "Thu, 28 May 2026"
+    },
+    {
+      "title": "Just Listed in Maryland for $5M: An Unfinished Estate on 38 Acres That’s a Blank Canvas for Luxury Living",
+      "link": "https://www.redfin.com/news/15125-delvin-drive-maryland-listing/",
       "published": "Thu, 28 May 2026"
     },
     {
@@ -192,11 +197,6 @@
     {
       "title": "Mortgage Rates Remain Tied to Iran War, Oil Prices",
       "link": "https://www.redfin.com/news/weekly-economic-update-may-26-2026/",
-      "published": "Tue, 26 May 2026"
-    },
-    {
-      "title": "The Income Needed to Afford a Home Declined For Seventh Straight Month in April",
-      "link": "https://www.redfin.com/news/income-needed-to-buy-home-declines/",
       "published": "Tue, 26 May 2026"
     }
   ],
@@ -228,18 +228,63 @@
         "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-may-26-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The Income Needed to Afford a Home Declined For Seventh Straight Month in April",
-        "url": "https://www.redfin.com/news/income-needed-to-buy-home-declines/",
-        "what": "Homebuying affordability improved slightly in April because mortgage rates declined while incomes rose",
-        "numbers": "$29,000",
-        "justified": "redfin.com — https://www.redfin.com/news/income-needed-to-buy-home-declines/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Urban Institute study makes the case for a 100% LTV FHA mortgage",
+        "url": "https://www.housingwire.com/articles/fha-zero-down-loans-risk/",
+        "what": "Researchers propose a slight bump to upfront mortgage insurance premiums to offset the risks of a zero-down FHA product.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-zero-down-loans-risk/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Just Listed in Maryland for $5M: An Unfinished Estate on 38 Acres That’s a Blank Canvas for Luxury Living",
+        "url": "https://www.redfin.com/news/15125-delvin-drive-maryland-listing/",
+        "what": "In this edition of Just Listed–a series from Redfin News that explores homes that are listed by Redfin or Compass agents on Redfin.com–we’re exploring an unfinished estate in Maryland",
+        "numbers": "38, $5 million, $5",
+        "justified": "redfin.com — https://www.redfin.com/news/15125-delvin-drive-maryland-listing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Is Zillow a public utility? Attorneys weigh in on MRED, Compass suit",
+        "url": "https://www.housingwire.com/articles/zillow-antitrust-mred-compass/",
+        "what": "Attorneys say Zillow’s antitrust suit vs MRED and Compass tests listing data control, consumer harm and MLS broker agreements post Sitzer.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-antitrust-mred-compass/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Margy Grant on leadership, resilience and guiding one of housing’s largest trade organizations",
+        "url": "https://www.housingwire.com/articles/margy-grant-on-leadership-resilience-and-guiding-one-of-housings-largest-trade-organizations/",
+        "what": "Florida Realtors CEO Margy Grant shares leadership lessons on perseverance, industry advocacy and supporting members through an evolving housing market.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/margy-grant-on-leadership-resilience-and-guiding-one-of-housings-largest-trade-organizations/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Longbridge partners with Friday Harbor on AI pre-underwriting",
+        "url": "https://www.housingwire.com/articles/longbridge-friday-harbor-ai-pre-underwriting/",
+        "what": "Longbridge will use Friday Harbor AI to review reverse mortgage borrower documents, flagging issues earlier with human oversight.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/longbridge-friday-harbor-ai-pre-underwriting/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Small investors, not Wall Street, are tightening the path to homeownership",
+        "url": "https://www.housingwire.com/articles/small-investors-rents-up-30-percent-squeezing-first-time-buyers/",
+        "what": "Small real estate investors are reshaping the first-time homebuyer pipeline by purchasing and holding more single-family homes, pushing rents higher and making it harder for to sav",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/small-investors-rents-up-30-percent-squeezing-first-time-buyers/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
       {
         "title": "New home sales fall, but the trend is still sideways",
         "url": "https://www.housingwire.com/articles/new-home-sales-fall-but-the-trend-is-still-sideways/",
@@ -248,51 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-sales-fall-but-the-trend-is-still-sideways/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Homebuyer affordability slips in April as median mortgage payment rises to $2,152",
-        "url": "https://www.housingwire.com/articles/mba-april-2026-homebuyer-affordabilit/",
-        "what": "MBA’s April 2026 PAPI shows homebuyer affordability slipped month over month as median payments rose to $2,152.",
-        "numbers": "2026, $2,152.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-april-2026-homebuyer-affordabilit/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Fair housing groups sue CFPB, Vought over ECOA fair lending rule",
-        "url": "https://www.housingwire.com/articles/fair-lending-cfpb-vought/",
-        "what": "Fair housing groups sued the CFPB and Russell Vought, seeking to block Regulation B changes ending disparate impact and limiting SPCPs.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fair-lending-cfpb-vought/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The wait continues: Two Harbors stalls on CCM merger approval",
-        "url": "https://www.housingwire.com/articles/two-harbors-ccm-vote-adjourned/",
-        "what": "Two Harbors Investment Corp",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/two-harbors-ccm-vote-adjourned/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "MasterBrand completes all-stock merger with American Woodmark",
-        "url": "https://www.housingwire.com/articles/masterbrand-american-woodmark-merger-homebuilder-cabinet-supply/",
-        "what": "MasterBrand Inc",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/masterbrand-american-woodmark-merger-homebuilder-cabinet-supply/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "LadderUp expands rent-to-homeownership model",
-        "url": "https://www.housingwire.com/articles/ladderup-expands-rent-homeownership/",
-        "what": "LadderUp Housing is expanding its reach into Allegheny and Westmoreland counties, using an investment to acquire homes.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ladderup-expands-rent-homeownership/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "Investor Home Purchases Fall to Lowest Level Since 2020",
@@ -315,38 +315,38 @@
     ],
     "notables": [
       {
+        "title": "Compass adds Miguel Salvat and Daniel Golik in Miami",
+        "url": "https://www.housingwire.com/articles/compass-salvat-golik-miami/",
+        "what": "Miami agents Miguel Salvat and Daniel Golik joined Compass from CENTURY 21 BE3, bringing 1,500 transactions and 35 years combined.",
+        "numbers": "21, 3,, 1,500, 35",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-salvat-golik-miami/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "CertifID launches unified closing platform",
+        "url": "https://www.housingwire.com/articles/certifid-launches-unified-closing-platform/",
+        "what": "The platform is designed to centralize every step of the closing process, eliminating the need to send sensitive information through email.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/certifid-launches-unified-closing-platform/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Rachel Glazer returns to Brown Harris Stevens from Compass",
+        "url": "https://www.housingwire.com/articles/rachel-glazer-returns-bhs/",
+        "what": "Rachel Glazer returned to Brown Harris Stevens from Compass, bringing her team and $1B+ career sales plus $119M in 2024 volume.",
+        "numbers": "$1, $119, 2024",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rachel-glazer-returns-bhs/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Bank of America extends Community Homeownership Commitment program",
         "url": "https://www.housingwire.com/articles/bank-of-america-homeownership/",
         "what": "Bank of America will continue its program after $15B in loans and $600M in grants for 57,000 homebuyers since 2019.",
         "numbers": "$15, $600, 57,000, 2019.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/bank-of-america-homeownership/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Wells Fargo to offer 50-bps incentive for ICON 3D-printed homes",
-        "url": "https://www.housingwire.com/articles/wells-fargo-icon-3d-homes/",
-        "what": "Wells Fargo has reached an agreement with construction technology company ICON to serve as the preferred lender for its new 3D-printed residential properties.",
-        "numbers": "3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/wells-fargo-icon-3d-homes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Felicia Grumet on why the best career moves often feel uncomfortable",
-        "url": "https://www.housingwire.com/articles/felicia-grumet-on-why-the-best-career-moves-often-feel-uncomfortable/",
-        "what": "Felicia Grumet, CFO of Newrez, reflects on leadership, career reinvention and why stepping outside your comfort zone can create the strongest opportunities for growth.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/felicia-grumet-on-why-the-best-career-moves-often-feel-uncomfortable/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "NAR REACH taps real estate firms for tech program",
-        "url": "https://www.housingwire.com/articles/nar-reach-taps-real-estate-firms-for-tech-program/",
-        "what": "The REACH program focuses on identifying and accelerating technology companies serving the residential real estate industry.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-reach-taps-real-estate-firms-for-tech-program/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
