@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-29 04:42 UTC",
+  "as_of": "2026-05-29 08:51 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The case for Non-QM: Serving the new American workforce",
+      "link": "https://www.housingwire.com/articles/non-qm-new-workforce/",
+      "published": "Fri, 29 May 2026"
+    },
+    {
       "title": "Anthony Lamacchia: Zillow-MRED battle shows risks of ‘listing war’",
       "link": "https://www.housingwire.com/articles/lamacchia-mls-listing-war-zillow-compass-chicago/",
       "published": "Fri, 29 May 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Elizabeth Warren presses Bilt on payment disruptions during bank shift",
       "link": "https://www.housingwire.com/articles/warren-bilt-payment-disruptions/",
-      "published": "Thu, 28 May 2026"
-    },
-    {
-      "title": "Rent stabilization fracas shapes Providence mayoral contest",
-      "link": "https://www.housingwire.com/articles/providence-rent-stabilization-race/",
       "published": "Thu, 28 May 2026"
     },
     {
@@ -222,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "The case for Non-QM: Serving the new American workforce",
+        "url": "https://www.housingwire.com/articles/non-qm-new-workforce/",
+        "what": "The modern American workforce is increasingly composed of freelancers, gig workers and entrepreneurs whose complex incomes don't fit traditional mortgage underwriting standards",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/non-qm-new-workforce/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Anthony Lamacchia: Zillow-MRED battle shows risks of ‘listing war’",
         "url": "https://www.housingwire.com/articles/lamacchia-mls-listing-war-zillow-compass-chicago/",
@@ -284,15 +293,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/15125-delvin-drive-maryland-listing/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Is Zillow a public utility? Attorneys weigh in on MRED, Compass suit",
-        "url": "https://www.housingwire.com/articles/zillow-antitrust-mred-compass/",
-        "what": "Attorneys say Zillow’s antitrust suit vs MRED and Compass tests listing data control, consumer harm and MLS broker agreements post Sitzer.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-antitrust-mred-compass/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Investor Home Purchases Fall to Lowest Level Since 2020",
