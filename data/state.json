@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-28 22:06 UTC",
+  "as_of": "2026-05-29 04:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Anthony Lamacchia: Zillow-MRED battle shows risks of ‘listing war’",
+      "link": "https://www.housingwire.com/articles/lamacchia-mls-listing-war-zillow-compass-chicago/",
+      "published": "Fri, 29 May 2026"
+    },
+    {
+      "title": "CMLS urges antitrust regulators to back MLS collaboration",
+      "link": "https://www.housingwire.com/articles/cmls-mls-antitrust-guidance/",
+      "published": "Thu, 28 May 2026"
+    },
+    {
       "title": "Fidelity data shows record retirement savings, rising Roth adoption",
       "link": "https://www.housingwire.com/articles/fidelity-data-shows-record-retirement-savings-rising-roth-adoption/",
       "published": "Thu, 28 May 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Rent stabilization fracas shapes Providence mayoral contest",
       "link": "https://www.housingwire.com/articles/providence-rent-stabilization-race/",
-      "published": "Thu, 28 May 2026"
-    },
-    {
-      "title": "Epique Realty bets on specialized AI tools to modernize agent workflow",
-      "link": "https://www.housingwire.com/articles/epique-realty-bets-on-specialized-ai-tools-to-modernize-agent-workflow/",
-      "published": "Thu, 28 May 2026"
-    },
-    {
-      "title": "Compass adds Miguel Salvat and Daniel Golik in Miami",
-      "link": "https://www.housingwire.com/articles/compass-salvat-golik-miami/",
       "published": "Thu, 28 May 2026"
     },
     {
@@ -222,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Anthony Lamacchia: Zillow-MRED battle shows risks of ‘listing war’",
+        "url": "https://www.housingwire.com/articles/lamacchia-mls-listing-war-zillow-compass-chicago/",
+        "what": "Anthony Lamacchia breaks down the Chicago Zillow–MRED fight, Clear Cooperation and why an MLS “listing war” would hurt consumers and agents.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lamacchia-mls-listing-war-zillow-compass-chicago/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Coming Soon in Chicago: A One-Bedroom Condo in the City, a Big House in the Suburbs and More",
         "url": "https://www.redfin.com/news/redfin-coming-soon-listings-week-may-25/",
@@ -286,24 +295,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Margy Grant on leadership, resilience and guiding one of housing’s largest trade organizations",
-        "url": "https://www.housingwire.com/articles/margy-grant-on-leadership-resilience-and-guiding-one-of-housings-largest-trade-organizations/",
-        "what": "Florida Realtors CEO Margy Grant shares leadership lessons on perseverance, industry advocacy and supporting members through an evolving housing market.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/margy-grant-on-leadership-resilience-and-guiding-one-of-housings-largest-trade-organizations/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Longbridge partners with Friday Harbor on AI pre-underwriting",
-        "url": "https://www.housingwire.com/articles/longbridge-friday-harbor-ai-pre-underwriting/",
-        "what": "Longbridge will use Friday Harbor AI to review reverse mortgage borrower documents, flagging issues earlier with human oversight.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/longbridge-friday-harbor-ai-pre-underwriting/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Investor Home Purchases Fall to Lowest Level Since 2020",
         "url": "https://www.redfin.com/news/investor-report-q1-2026/",
         "what": "Elevated housing costs, a slower-than-usual housing market and a cooling rental market are squeezing potential returns for U.S",
@@ -311,9 +302,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/investor-report-q1-2026/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "How Designers and Real Estate Pros Use Facebook Marketplace to Add Character to a Home",
+        "url": "https://www.redfin.com/news/facebook-marketplace-secondhand-interior-design/",
+        "what": "Interior designers and real estate experts are turning to Facebook Marketplace, thrift stores, and estate sales to find one-of-a-kind pieces that add personality and warmth to a home",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/facebook-marketplace-secondhand-interior-design/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
+      {
+        "title": "CMLS urges antitrust regulators to back MLS collaboration",
+        "url": "https://www.housingwire.com/articles/cmls-mls-antitrust-guidance/",
+        "what": "CMLS asked DOJ and FTC to recognize MLSs as pro-competitive, citing 230 MLSs, 1.7 million subscribers and data access benefits.",
+        "numbers": "230, 1.7 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cmls-mls-antitrust-guidance/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Fidelity data shows record retirement savings, rising Roth adoption",
         "url": "https://www.housingwire.com/articles/fidelity-data-shows-record-retirement-savings-rising-roth-adoption/",
