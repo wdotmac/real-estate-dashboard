@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-29 12:26 UTC",
+  "as_of": "2026-05-29 16:52 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Tuccori opt-in settlements win preliminary approval",
+      "link": "https://www.housingwire.com/articles/tuccori-opt-in-settlements-106m/",
+      "published": "Fri, 29 May 2026"
+    },
+    {
+      "title": "HMDA analysis shows wide gap in down payment assistance use",
+      "link": "https://www.housingwire.com/articles/down-payment-assistance-gap/",
+      "published": "Fri, 29 May 2026"
+    },
+    {
+      "title": "Why customer value matters more than ever: Elisha Elliott on leadership, growth and innovation",
+      "link": "https://www.housingwire.com/articles/why-customer-value-matters-more-than-ever-elisha-elliott-on-leadership-growth-and-innovation/",
+      "published": "Fri, 29 May 2026"
+    },
+    {
+      "title": "NAR urges DOJ and FTC to issue clear guidance on MLSs",
+      "link": "https://www.housingwire.com/articles/nar-doj-ftc-mls-procompetitive/",
+      "published": "Fri, 29 May 2026"
+    },
+    {
+      "title": "CoStar to buy Zonda from MidOcean Partners",
+      "link": "https://www.housingwire.com/articles/costar-buy-zonda-midocean/",
+      "published": "Fri, 29 May 2026"
+    },
+    {
       "title": "Erica Acie on AI, leadership and why curiosity drives lasting impact",
       "link": "https://www.housingwire.com/articles/erica-acie-on-ai-leadership-and-why-curiosity-drives-lasting-impact/",
       "published": "Fri, 29 May 2026"
-    },
-    {
-      "title": "The case for Non-QM: Serving the new American workforce",
-      "link": "https://www.housingwire.com/articles/non-qm-new-workforce/",
-      "published": "Fri, 29 May 2026"
-    },
-    {
-      "title": "Anthony Lamacchia: Zillow-MRED battle shows risks of ‘listing war’",
-      "link": "https://www.housingwire.com/articles/lamacchia-mls-listing-war-zillow-compass-chicago/",
-      "published": "Fri, 29 May 2026"
-    },
-    {
-      "title": "CMLS urges antitrust regulators to back MLS collaboration",
-      "link": "https://www.housingwire.com/articles/cmls-mls-antitrust-guidance/",
-      "published": "Thu, 28 May 2026"
-    },
-    {
-      "title": "Fidelity data shows record retirement savings, rising Roth adoption",
-      "link": "https://www.housingwire.com/articles/fidelity-data-shows-record-retirement-savings-rising-roth-adoption/",
-      "published": "Thu, 28 May 2026"
-    },
-    {
-      "title": "New home sales stumble in April, as affordability pressures mount",
-      "link": "https://www.housingwire.com/articles/new-home-sales-april-2026/",
-      "published": "Thu, 28 May 2026"
     },
     {
       "title": "Coming Soon in Chicago: A One-Bedroom Condo in the City, a Big House in the Suburbs and More",
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Tuccori opt-in settlements win preliminary approval",
+        "url": "https://www.housingwire.com/articles/tuccori-opt-in-settlements-106m/",
+        "what": "A federal judge granted preliminary approval to $106M in Tuccori opt-in settlements, including $52.25M from NAR and $30M from HomeServices.",
+        "numbers": "$106, $52.25, $30",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tuccori-opt-in-settlements-106m/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Higher Mortgage Rates Push Pending Home Sales Down for Second Straight Week",
         "url": "https://www.redfin.com/news/housing-market-update-pending-sales-drop-rates-rise/",
         "what": "Some would-be homebuyers are hesitating as housing costs rise and the ongoing Iran war makes the economy feel shaky",
@@ -222,6 +231,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "HMDA analysis shows wide gap in down payment assistance use",
+        "url": "https://www.housingwire.com/articles/down-payment-assistance-gap/",
+        "what": "An analysis of HMDA data by Down Payment Resource and Urban Institute found 43.6% of purchase mortgages are eligible for DPA, but usage lags.",
+        "numbers": "43.6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/down-payment-assistance-gap/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "CoStar to buy Zonda from MidOcean Partners",
+        "url": "https://www.housingwire.com/articles/costar-buy-zonda-midocean/",
+        "what": "CoStar agreed to buy Zonda from MidOcean, adding NewHomeSource, Livabl and builder data",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-buy-zonda-midocean/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "The case for Non-QM: Serving the new American workforce",
         "url": "https://www.housingwire.com/articles/non-qm-new-workforce/",
@@ -248,33 +275,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/redfin-coming-soon-listings-week-may-25/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "New home sales stumble in April, as affordability pressures mount",
-        "url": "https://www.housingwire.com/articles/new-home-sales-april-2026/",
-        "what": "U.S",
-        "numbers": "622,000, 6.2, 11.3, $422,500, 9.4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-sales-april-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Rent stabilization fracas shapes Providence mayoral contest",
-        "url": "https://www.housingwire.com/articles/providence-rent-stabilization-race/",
-        "what": "Providence, Rhode Island’s city council passed rent stabilization but failed to override the mayor’s veto",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/providence-rent-stabilization-race/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Epique Realty bets on specialized AI tools to modernize agent workflow",
-        "url": "https://www.housingwire.com/articles/epique-realty-bets-on-specialized-ai-tools-to-modernize-agent-workflow/",
-        "what": "Epique Realty CEO and co-founder Josh Miller sat down with HousingWire as the brokerage prepares to lauch its EpiqueX platform.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/epique-realty-bets-on-specialized-ai-tools-to-modernize-agent-workflow/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Just Listed in Maryland for $5M: An Unfinished Estate on 38 Acres That’s a Blank Canvas for Luxury Living",
@@ -306,6 +306,24 @@
     ],
     "notables": [
       {
+        "title": "Why customer value matters more than ever: Elisha Elliott on leadership, growth and innovation",
+        "url": "https://www.housingwire.com/articles/why-customer-value-matters-more-than-ever-elisha-elliott-on-leadership-growth-and-innovation/",
+        "what": "Elisha Elliott, SVP of Customer Experience and Corporate Marketing at Constellation1, reflects on leadership, scaling customer value and why the future belongs to companies that su",
+        "numbers": "1,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-customer-value-matters-more-than-ever-elisha-elliott-on-leadership-growth-and-innovation/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "NAR urges DOJ and FTC to issue clear guidance on MLSs",
+        "url": "https://www.housingwire.com/articles/nar-doj-ftc-mls-procompetitive/",
+        "what": "NAR asked DOJ and FTC to recognize MLSs as procompetitive and clarify low-risk sharing of historical property data and AI use.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-doj-ftc-mls-procompetitive/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Erica Acie on AI, leadership and why curiosity drives lasting impact",
         "url": "https://www.housingwire.com/articles/erica-acie-on-ai-leadership-and-why-curiosity-drives-lasting-impact/",
         "what": "Truist Head of Originations Erica Acie reflects on AI, leadership and the importance of combining technology, data and human expertise to improve both performance and the client ex",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/fidelity-data-shows-record-retirement-savings-rising-roth-adoption/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Elizabeth Warren presses Bilt on payment disruptions during bank shift",
-        "url": "https://www.housingwire.com/articles/warren-bilt-payment-disruptions/",
-        "what": "U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/warren-bilt-payment-disruptions/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Compass adds Miguel Salvat and Daniel Golik in Miami",
-        "url": "https://www.housingwire.com/articles/compass-salvat-golik-miami/",
-        "what": "Miami agents Miguel Salvat and Daniel Golik joined Compass from CENTURY 21 BE3, bringing 1,500 transactions and 35 years combined.",
-        "numbers": "21, 3,, 1,500, 35",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-salvat-golik-miami/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
