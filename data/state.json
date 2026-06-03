@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-05-30 12:15 UTC",
+  "as_of": "2026-06-03 21:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.45,
-      "delta_bp_1d": -3.000000000000025
+      "yield_pct": 4.46,
+      "delta_bp_1d": -0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.53,
@@ -17,36 +17,36 @@
   },
   "permits": {
     "florida": {
-      "latest": 12449,
-      "latest_date": "2026-03",
-      "mom": 0.03054635761589397,
-      "yoy": -0.15719991875973194,
-      "ytd": -0.23309677419354835,
-      "ytd_count": 35661,
+      "latest": 14596,
+      "latest_date": "2026-04",
+      "mom": 0.17246365169893174,
+      "yoy": 0.05378673019998548,
+      "ytd": -0.16725489221388212,
+      "ytd_count": 50257,
       "latest_year": 2026,
-      "latest_month_name": "Mar"
+      "latest_month_name": "Apr"
     },
     "msa": {
       "Orlando–Kissimmee–Sanford": {
         "total": {
-          "latest": 1432,
+          "latest": 1926,
           "latest_year": 2026,
-          "latest_month": 3,
-          "latest_month_name": "Mar",
-          "mom": 0.07426856714178554,
-          "yoy": -0.5466919911364356,
-          "ytd_yoy": -0.542715777899945,
-          "ytd_count": 4159
+          "latest_month": 4,
+          "latest_month_name": "Apr",
+          "mom": 0.3449720670391061,
+          "yoy": -0.21675477836518908,
+          "ytd_yoy": -0.4733425653453349,
+          "ytd_count": 6085
         },
         "one_unit": {
-          "latest": 1122,
+          "latest": 1124,
           "latest_year": 2026,
-          "latest_month": 3,
-          "latest_month_name": "Mar",
-          "mom": 0.2411504424778761,
-          "yoy": -0.1816192560175055,
-          "ytd_yoy": -0.2602331927561399,
-          "ytd_count": 2982
+          "latest_month": 4,
+          "latest_month_name": "Apr",
+          "mom": 0.0017825311942958333,
+          "yoy": -0.2629508196721312,
+          "ytd_yoy": -0.2609791216702664,
+          "ytd_count": 4106
         },
         "dom": {
           "days": 68,
@@ -56,24 +56,24 @@
       },
       "Tampa–St. Petersburg–Clearwater": {
         "total": {
-          "latest": 1586,
+          "latest": 1599,
           "latest_year": 2026,
-          "latest_month": 3,
-          "latest_month_name": "Mar",
-          "mom": -0.10698198198198194,
-          "yoy": 0.1696165191740413,
-          "ytd_yoy": -0.12903225806451613,
-          "ytd_count": 4617
+          "latest_month": 4,
+          "latest_month_name": "Apr",
+          "mom": 0.008196721311475308,
+          "yoy": -0.08156232050545664,
+          "ytd_yoy": -0.11729622266401596,
+          "ytd_count": 6216
         },
         "one_unit": {
-          "latest": 1176,
+          "latest": 1198,
           "latest_year": 2026,
-          "latest_month": 3,
-          "latest_month_name": "Mar",
-          "mom": 0.01906412478336228,
-          "yoy": -0.028099173553719048,
-          "ytd_yoy": 0.08082706766917291,
-          "ytd_count": 3450
+          "latest_month": 4,
+          "latest_month_name": "Apr",
+          "mom": 0.018707482993197244,
+          "yoy": -0.07347254447022433,
+          "ytd_yoy": 0.03634336677814942,
+          "ytd_count": 4648
         },
         "dom": {
           "days": 67,
@@ -83,24 +83,24 @@
       },
       "Ocala": {
         "total": {
-          "latest": 618,
+          "latest": 588,
           "latest_year": 2026,
-          "latest_month": 3,
-          "latest_month_name": "Mar",
-          "mom": 0.006514657980456029,
-          "yoy": -0.07067669172932334,
-          "ytd_yoy": -0.09677419354838712,
-          "ytd_count": 1736
+          "latest_month": 4,
+          "latest_month_name": "Apr",
+          "mom": -0.04854368932038833,
+          "yoy": 0.27826086956521734,
+          "ytd_yoy": -0.02434928631402178,
+          "ytd_count": 2324
         },
         "one_unit": {
-          "latest": 618,
+          "latest": 588,
           "latest_year": 2026,
-          "latest_month": 3,
-          "latest_month_name": "Mar",
-          "mom": 0.04391891891891886,
-          "yoy": 0.08231173380035028,
-          "ytd_yoy": -0.033067274800456126,
-          "ytd_count": 1696
+          "latest_month": 4,
+          "latest_month_name": "Apr",
+          "mom": -0.04854368932038833,
+          "yoy": 0.3183856502242153,
+          "ytd_yoy": 0.038181818181818095,
+          "ytd_count": 2284
         },
         "dom": {
           "days": 75,
@@ -110,24 +110,24 @@
       },
       "Palm Bay–Melbourne–Titusville": {
         "total": {
-          "latest": 330,
+          "latest": 303,
           "latest_year": 2026,
-          "latest_month": 3,
-          "latest_month_name": "Mar",
-          "mom": 0.346938775510204,
-          "yoy": 0.13793103448275867,
-          "ytd_yoy": -0.22699999999999998,
-          "ytd_count": 773
+          "latest_month": 4,
+          "latest_month_name": "Apr",
+          "mom": -0.08181818181818179,
+          "yoy": -0.03809523809523807,
+          "ytd_yoy": -0.18174904942965775,
+          "ytd_count": 1076
         },
         "one_unit": {
-          "latest": 330,
+          "latest": 303,
           "latest_year": 2026,
-          "latest_month": 3,
-          "latest_month_name": "Mar",
-          "mom": 0.346938775510204,
-          "yoy": 0.13793103448275867,
-          "ytd_yoy": -0.06416464891041163,
-          "ytd_count": 773
+          "latest_month": 4,
+          "latest_month_name": "Apr",
+          "mom": -0.08181818181818179,
+          "yoy": -0.025723472668810254,
+          "ytd_yoy": -0.05364995602462619,
+          "ytd_count": 1076
         },
         "dom": {
           "days": 67,
@@ -140,34 +140,54 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "How social media became 100% of a Las Vegas real estate agent’s pipeline",
-      "link": "https://www.housingwire.com/articles/real-estate-agent-business-social-media/",
-      "published": "Sat, 30 May 2026"
+      "title": "Who can buy a top-20 builder now? Berkshire resets  board calculus",
+      "link": "https://www.housingwire.com/articles/homebuilder-buyer-universe-berkshire/",
+      "published": "Wed, 03 Jun 2026"
     },
     {
-      "title": "Beazer takeover bid tests book value and returns",
-      "link": "https://www.housingwire.com/articles/dream-finders-beazer-hostile-takeover/",
-      "published": "Fri, 29 May 2026"
+      "title": "Social Security, Medicare solvency could be examined by bipartisan commission",
+      "link": "https://www.housingwire.com/articles/social-security-medicare-solvency-bipartisan-commission/",
+      "published": "Wed, 03 Jun 2026"
     },
     {
-      "title": "As Florida’s housing market finds its footing, sellers still face pricing realities",
-      "link": "https://www.housingwire.com/articles/florida-housing-market-pricing-reality/",
-      "published": "Fri, 29 May 2026"
+      "title": "PulteGroup unveils its first Florida Del Webb Explore community",
+      "link": "https://www.housingwire.com/articles/pultegroup-hosts-grand-opening-florida-del-webb-explore/",
+      "published": "Wed, 03 Jun 2026"
     },
     {
-      "title": "Tennessee brokers brace for Zillow listing cutoff amid Realtracs dispute",
-      "link": "https://www.housingwire.com/articles/tennessee-zillow-listings-realtracs/",
-      "published": "Fri, 29 May 2026"
+      "title": "Trump’s AI order unlikely to slow adoption of AI in real estate",
+      "link": "https://www.housingwire.com/articles/trumps-ai-order-unlikely-to-slow-adoption-of-ai-in-real-estate/",
+      "published": "Wed, 03 Jun 2026"
     },
     {
-      "title": "Will getting rid of property taxes make Florida more affordable?",
-      "link": "https://www.housingwire.com/articles/will-getting-rid-of-property-taxes-make-florida-more-affordable/",
-      "published": "Fri, 29 May 2026"
+      "title": "New York AG probes Compass-Anywhere acquisition",
+      "link": "https://www.housingwire.com/articles/ny-ag-compass-anywhere-probe/",
+      "published": "Wed, 03 Jun 2026"
     },
     {
-      "title": "Scissor stairs may lower Washington multifamily building costs",
-      "link": "https://www.housingwire.com/articles/scissor-stairs-washington-costs/",
-      "published": "Fri, 29 May 2026"
+      "title": "Mortgage demand resilient in the first half of 2026",
+      "link": "https://www.housingwire.com/articles/mortgage-demand-holds-2026/",
+      "published": "Wed, 03 Jun 2026"
+    },
+    {
+      "title": "Sellers Are Pulling Their Homes Off the Market at Near-Record Rates as Buyers Reject High Prices",
+      "link": "https://www.redfin.com/news/delistings-relistings-april-2026/",
+      "published": "Wed, 03 Jun 2026"
+    },
+    {
+      "title": "A Look at Listings in Summer Vacation Hotspots, From Myrtle Beach to Cape Cod",
+      "link": "https://www.redfin.com/news/vacation-home-listings-in-the-united-states/",
+      "published": "Tue, 02 Jun 2026"
+    },
+    {
+      "title": "Typical Homebuyer’s Down Payment Falls to $64,000 As Americans Hold Onto Cash",
+      "link": "https://www.redfin.com/news/down-payments-fall-2026/",
+      "published": "Tue, 02 Jun 2026"
+    },
+    {
+      "title": "Mortgage Rates Poised for Volatility This Week as Jobs Data, Iran News Loom",
+      "link": "https://www.redfin.com/news/weekly-economic-update-june-1-2026/",
+      "published": "Mon, 01 Jun 2026"
     },
     {
       "title": "Coming Soon in Chicago: A One-Bedroom Condo in the City, a Big House in the Suburbs and More",
@@ -178,112 +198,83 @@
       "title": "Just Listed in Maryland for $5M: An Unfinished Estate on 38 Acres That’s a Blank Canvas for Luxury Living",
       "link": "https://www.redfin.com/news/15125-delvin-drive-maryland-listing/",
       "published": "Thu, 28 May 2026"
-    },
-    {
-      "title": "Investor Home Purchases Fall to Lowest Level Since 2020",
-      "link": "https://www.redfin.com/news/investor-report-q1-2026/",
-      "published": "Thu, 28 May 2026"
-    },
-    {
-      "title": "Higher Mortgage Rates Push Pending Home Sales Down for Second Straight Week",
-      "link": "https://www.redfin.com/news/housing-market-update-pending-sales-drop-rates-rise/",
-      "published": "Thu, 28 May 2026"
-    },
-    {
-      "title": "29% of U.S. Homebuyers Paid Cash in March–the Lowest Share For That Month Since 2020",
-      "link": "https://www.redfin.com/news/all-cash-homebuyers-march-2026/",
-      "published": "Wed, 27 May 2026"
-    },
-    {
-      "title": "How Designers and Real Estate Pros Use Facebook Marketplace to Add Character to a Home",
-      "link": "https://www.redfin.com/news/facebook-marketplace-secondhand-interior-design/",
-      "published": "Tue, 26 May 2026"
     }
   ],
   "feed_101020": {
     "macro": [
       {
-        "title": "Rocket expands on VantageScore 4.0 pilot for agency, VA loans",
-        "url": "https://www.housingwire.com/articles/rocket-vantagescore-4-rollout/",
-        "what": "Rocket Mortgage and Rocket Pro provided additional details this week on their rollout of VantageScore 4.0 in mortgage lending after officially announcing last week that they have s",
-        "numbers": "4.0",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-vantagescore-4-rollout/",
+        "title": "Who can buy a top-20 builder now? Berkshire resets  board calculus",
+        "url": "https://www.housingwire.com/articles/homebuilder-buyer-universe-berkshire/",
+        "what": "Berkshire Hathaway‘s planned acquisition of No",
+        "numbers": "6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-buyer-universe-berkshire/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Mortgage demand resilient in the first half of 2026",
+        "url": "https://www.housingwire.com/articles/mortgage-demand-holds-2026/",
+        "what": "Demand for mortgage purchase applications has shown resilience in the first half of 2026, even as rates ticked up.",
+        "numbers": "2026,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-demand-holds-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Higher Mortgage Rates Push Pending Home Sales Down for Second Straight Week",
-        "url": "https://www.redfin.com/news/housing-market-update-pending-sales-drop-rates-rise/",
-        "what": "Some would-be homebuyers are hesitating as housing costs rise and the ongoing Iran war makes the economy feel shaky",
-        "numbers": "1.5, 24,",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-drop-rates-rise/",
+        "title": "Sellers Are Pulling Their Homes Off the Market at Near-Record Rates as Buyers Reject High Prices",
+        "url": "https://www.redfin.com/news/delistings-relistings-april-2026/",
+        "what": "More sellers are delisting in today’s buyer’s market as their homes sit on the market longer than they’d like and/or they’re unable to fetch the price they want",
+        "numbers": "2.5",
+        "justified": "redfin.com — https://www.redfin.com/news/delistings-relistings-april-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "29% of U.S. Homebuyers Paid Cash in March–the Lowest Share For That Month Since 2020",
-        "url": "https://www.redfin.com/news/all-cash-homebuyers-march-2026/",
-        "what": "With hundreds of thousands more home sellers than buyers in the market, fewer house hunters feel inclined to make cash offers to stand out in bidding wars",
-        "numbers": "10, 28.8, 29, 2020",
-        "justified": "redfin.com — https://www.redfin.com/news/all-cash-homebuyers-march-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "Mortgage Rates Poised for Volatility This Week as Jobs Data, Iran News Loom",
+        "url": "https://www.redfin.com/news/weekly-economic-update-june-1-2026/",
+        "what": "This Week In A Nutshell: Rates are likely to stay volatile this week as markets balance several important pieces of jobs market data against the tumultuous peace talks with Iran",
+        "numbers": "60k, 90k",
+        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-june-1-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
       {
-        "title": "As Florida’s housing market finds its footing, sellers still face pricing realities",
-        "url": "https://www.housingwire.com/articles/florida-housing-market-pricing-reality/",
-        "what": "HousingWire Data shows the median list price of homes in Florida at $495,000, with the median price of new listings at $450,000.",
-        "numbers": "$495,000,, $450,000.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/florida-housing-market-pricing-reality/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+        "title": "FTC wins court order to shut down alleged mortgage relief scheme",
+        "url": "https://www.housingwire.com/articles/ftc-mortgage-relief-scheme/",
+        "what": "The FTC secured a temporary restraining order against NAA and other defendants over an alleged mortgage relief scheme.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ftc-mortgage-relief-scheme/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Tennessee brokers brace for Zillow listing cutoff amid Realtracs dispute",
-        "url": "https://www.housingwire.com/articles/tennessee-zillow-listings-realtracs/",
-        "what": "Tennessee MLS Realtracs plans to cut Zillow feed June 1 over IDX display compliance, as brokers work on direct listing feeds.",
-        "numbers": "1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tennessee-zillow-listings-realtracs/",
+        "title": "PadSplit, Furnished Finder announce rental housing partnership",
+        "url": "https://www.housingwire.com/articles/padsplit-furnished-finder-partnership/",
+        "what": "The partnership represents Furnished Finder’s largest inventory integration to date and responds to growing demand for private room rentals.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/padsplit-furnished-finder-partnership/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Will getting rid of property taxes make Florida more affordable?",
-        "url": "https://www.housingwire.com/articles/will-getting-rid-of-property-taxes-make-florida-more-affordable/",
-        "what": "Supporters argue it could ease affordability pressures while critics warn it may fuel higher home prices and reshape local tax structures.",
+        "title": "A Look at Listings in Summer Vacation Hotspots, From Myrtle Beach to Cape Cod",
+        "url": "https://www.redfin.com/news/vacation-home-listings-in-the-united-states/",
+        "what": "Dreaming of a second home in a summer hot spot? We took a look at listings of homes in places known for vacation vibes, from a waterfront home in Myrtle Beach to a castle in the Smoky Mountains",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/will-getting-rid-of-property-taxes-make-florida-more-affordable/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+        "justified": "redfin.com — https://www.redfin.com/news/vacation-home-listings-in-the-united-states/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Scissor stairs may lower Washington multifamily building costs",
-        "url": "https://www.housingwire.com/articles/scissor-stairs-washington-costs/",
-        "what": "Zoning reform has grabbed most of the attention in housing policy circles, but sometimes it’s the unglamorous, technical building code changes that save builders real money",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/scissor-stairs-washington-costs/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "StreetMatrix adds Arizona and Utah to its housing index",
-        "url": "https://www.housingwire.com/articles/streetmatrix-arizona-utah-expansion/",
-        "what": "StreetMatrix expanded its housing index to Arizona and Utah, adding monthly state and city reports with 1-year to 3-year comparisons.",
-        "numbers": "1, 3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/streetmatrix-arizona-utah-expansion/",
+        "title": "Typical Homebuyer’s Down Payment Falls to $64,000 As Americans Hold Onto Cash",
+        "url": "https://www.redfin.com/news/down-payments-fall-2026/",
+        "what": "The typical U.S",
+        "numbers": "$64,000, 1.5, 15, 16.1, 25, 2",
+        "justified": "redfin.com — https://www.redfin.com/news/down-payments-fall-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Clariti AI Studio launches to help cities solve permitting delays",
-        "url": "https://www.housingwire.com/articles/clariti-ai-permitting-studio/",
-        "what": "As more states adopt shot clock laws for permitting timelines, municipalities are piloting AI to reduce delays and improve consistency",
-        "numbers": "70",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/clariti-ai-permitting-studio/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Coming Soon in Chicago: A One-Bedroom Condo in the City, a Big House in the Suburbs and More",
@@ -302,51 +293,60 @@
         "justified": "redfin.com — https://www.redfin.com/news/15125-delvin-drive-maryland-listing/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Investor Home Purchases Fall to Lowest Level Since 2020",
-        "url": "https://www.redfin.com/news/investor-report-q1-2026/",
-        "what": "Elevated housing costs, a slower-than-usual housing market and a cooling rental market are squeezing potential returns for U.S",
-        "numbers": "19, 2020",
-        "justified": "redfin.com — https://www.redfin.com/news/investor-report-q1-2026/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "How Designers and Real Estate Pros Use Facebook Marketplace to Add Character to a Home",
-        "url": "https://www.redfin.com/news/facebook-marketplace-secondhand-interior-design/",
-        "what": "Interior designers and real estate experts are turning to Facebook Marketplace, thrift stores, and estate sales to find one-of-a-kind pieces that add personality and warmth to a home",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/facebook-marketplace-secondhand-interior-design/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
       {
-        "title": "How social media became 100% of a Las Vegas real estate agent’s pipeline",
-        "url": "https://www.housingwire.com/articles/real-estate-agent-business-social-media/",
-        "what": "A Las Vegas Realtor says social media now drives 100% of her pipeline, including 5 closings from a 320,000 view video.",
-        "numbers": "100, 5, 320,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-agent-business-social-media/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Beazer takeover bid tests book value and returns",
-        "url": "https://www.housingwire.com/articles/dream-finders-beazer-hostile-takeover/",
-        "what": "Hostile takeovers don’t happen often among publicly traded companies in America, and they’re even rarer in U.S",
+        "title": "Social Security, Medicare solvency could be examined by bipartisan commission",
+        "url": "https://www.housingwire.com/articles/social-security-medicare-solvency-bipartisan-commission/",
+        "what": "Rather than advancing immediate policy changes, the panel would study financial outlooks and submit recommendations for lawmakers to consider.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/dream-finders-beazer-hostile-takeover/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/social-security-medicare-solvency-bipartisan-commission/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Realty ONE Group launches ZONE Pro AI platform",
-        "url": "https://www.housingwire.com/articles/realty-one-group-zone-pro/",
-        "what": "Realty ONE Group launched ZONE Pro, an AI platform for 20,000 agents that centralizes operations, referrals and training across 30 markets.",
-        "numbers": "20,000, 30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realty-one-group-zone-pro/",
+        "title": "PulteGroup unveils its first Florida Del Webb Explore community",
+        "url": "https://www.housingwire.com/articles/pultegroup-hosts-grand-opening-florida-del-webb-explore/",
+        "what": "Del Webb Explore at North River Ranch opened May 30 with gated amenities, as the Sarasota market posted a 6.0% price drop in 2025.",
+        "numbers": "30, 6.0, 2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pultegroup-hosts-grand-opening-florida-del-webb-explore/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Trump’s AI order unlikely to slow adoption of AI in real estate",
+        "url": "https://www.housingwire.com/articles/trumps-ai-order-unlikely-to-slow-adoption-of-ai-in-real-estate/",
+        "what": "eXp CTO Carrie Lysenko warned of three risks that matter most for real estate operators right now",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trumps-ai-order-unlikely-to-slow-adoption-of-ai-in-real-estate/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "New York AG probes Compass-Anywhere acquisition",
+        "url": "https://www.housingwire.com/articles/ny-ag-compass-anywhere-probe/",
+        "what": "New York AG Letitia James is seeking information on Compass’s $1.6 billion Anywhere deal amid antitrust and market share concerns.",
+        "numbers": "$1.6 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ny-ag-compass-anywhere-probe/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Canopy MLS opens participation to brokers nationwide",
+        "url": "https://www.housingwire.com/articles/canopy-mls-nationwide-participation-model/",
+        "what": "Canopy MLS will allow nationwide participation and approved third-party listing submissions, citing compliance, accuracy and data integrity.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/canopy-mls-nationwide-participation-model/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "2026 GameChanger: Agent recruitment pushed REMAX Premier to 171% growth",
+        "url": "https://www.housingwire.com/articles/remax-premier-gamechanger-growth/",
+        "what": "RealTrends Verified shows REMAXPremier at 1,813 sides and $530.57M volume, up 171% from 2021–2025.",
+        "numbers": "1,813, $530.57, 171, 2021, 2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/remax-premier-gamechanger-growth/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
