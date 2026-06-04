@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-04 12:17 UTC",
+  "as_of": "2026-06-04 16:28 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": -0.9999999999999787
     },
     "mortgage_30y": {
-      "rate_pct": 6.53,
-      "delta_bp_wow": 2.000000000000046
+      "rate_pct": 6.48,
+      "delta_bp_wow": -4.999999999999982
     },
     "starts": {
       "level_saar": 1465.0,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Plaintiffs’ attorney offers to exit loanDepot class action over conflict of interest",
+      "link": "https://www.housingwire.com/articles/loandepot-conflict-withdrawal-order/",
+      "published": "Thu, 04 Jun 2026"
+    },
+    {
+      "title": "Lofty launches client transaction portal",
+      "link": "https://www.housingwire.com/articles/lofty-launches-client-transaction-portal/",
+      "published": "Thu, 04 Jun 2026"
+    },
+    {
+      "title": "The Real Brokerage adds NŌVEM team across NYC markets",
+      "link": "https://www.housingwire.com/articles/the-real-brokerage-novem-ethan-leifer-new-york-city/",
+      "published": "Thu, 04 Jun 2026"
+    },
+    {
       "title": "Hollywood, Florida invokes Live Local 4.0 to battle Broward County",
       "link": "https://www.housingwire.com/articles/broward-hollywood-live-local/",
       "published": "Thu, 04 Jun 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Who can buy a top-20 builder now? Berkshire resets  board calculus",
       "link": "https://www.housingwire.com/articles/homebuilder-buyer-universe-berkshire/",
-      "published": "Wed, 03 Jun 2026"
-    },
-    {
-      "title": "Social Security, Medicare solvency could be examined by bipartisan commission",
-      "link": "https://www.housingwire.com/articles/social-security-medicare-solvency-bipartisan-commission/",
-      "published": "Wed, 03 Jun 2026"
-    },
-    {
-      "title": "PulteGroup unveils its first Florida Del Webb Explore community",
-      "link": "https://www.housingwire.com/articles/pultegroup-hosts-grand-opening-florida-del-webb-explore/",
-      "published": "Wed, 03 Jun 2026"
-    },
-    {
-      "title": "Trump’s executive order unlikely to slow adoption of AI in real estate",
-      "link": "https://www.housingwire.com/articles/trumps-ai-order-unlikely-to-slow-adoption-of-ai-in-real-estate/",
       "published": "Wed, 03 Jun 2026"
     },
     {
@@ -230,15 +230,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Mortgage demand resilient in the first half of 2026",
-        "url": "https://www.housingwire.com/articles/mortgage-demand-holds-2026/",
-        "what": "Demand for mortgage purchase applications has shown resilience in the first half of 2026, even as rates ticked up.",
-        "numbers": "2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-demand-holds-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Sellers Are Pulling Their Homes Off the Market at Near-Record Rates as Buyers Reject High Prices",
         "url": "https://www.redfin.com/news/delistings-relistings-april-2026/",
         "what": "More sellers are delisting in today’s buyer’s market as their homes sit on the market longer than they’d like and/or they’re unable to fetch the price they want",
@@ -258,15 +249,6 @@
       }
     ],
     "housing": [
-      {
-        "title": "FTC wins court order to shut down alleged mortgage relief scheme",
-        "url": "https://www.housingwire.com/articles/ftc-mortgage-relief-scheme/",
-        "what": "The FTC secured a temporary restraining order against NAA and other defendants over an alleged mortgage relief scheme.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ftc-mortgage-relief-scheme/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
       {
         "title": "A Look at Listings in Summer Vacation Hotspots, From Myrtle Beach to Cape Cod",
         "url": "https://www.redfin.com/news/vacation-home-listings-in-the-united-states/",
@@ -296,6 +278,33 @@
       }
     ],
     "notables": [
+      {
+        "title": "Plaintiffs’ attorney offers to exit loanDepot class action over conflict of interest",
+        "url": "https://www.housingwire.com/articles/loandepot-conflict-withdrawal-order/",
+        "what": "Ari Karen, a partner at Mitchell Sandler PLLC, has submitted a motion to withdraw as counsel for borrowers who filed a class-action lawsuit against loanDepot in July 2025 amid a di",
+        "numbers": "2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/loandepot-conflict-withdrawal-order/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Lofty launches client transaction portal",
+        "url": "https://www.housingwire.com/articles/lofty-launches-client-transaction-portal/",
+        "what": "The portal provides secure access to transaction updates, documents and e-signature requests without exposing internal brokerage workflows.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lofty-launches-client-transaction-portal/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "The Real Brokerage adds NŌVEM team across NYC markets",
+        "url": "https://www.housingwire.com/articles/the-real-brokerage-novem-ethan-leifer-new-york-city/",
+        "what": "The Real Brokerage said NŌVEM Real Estate has joined the firm, extending its reach across NYC boroughs, Long Island and Westchester.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-real-brokerage-novem-ethan-leifer-new-york-city/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Hollywood, Florida invokes Live Local 4.0 to battle Broward County",
         "url": "https://www.housingwire.com/articles/broward-hollywood-live-local/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/ny-ag-compass-anywhere-probe/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Canopy MLS opens participation to brokers nationwide",
-        "url": "https://www.housingwire.com/articles/canopy-mls-nationwide-participation-model/",
-        "what": "Canopy MLS will allow nationwide participation and approved third-party listing submissions, citing compliance, accuracy and data integrity.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/canopy-mls-nationwide-participation-model/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
