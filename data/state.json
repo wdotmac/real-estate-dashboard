@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-05 16:08 UTC",
+  "as_of": "2026-06-05 18:08 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Brian Davidson named Central Virginia president at Atlantic Builders",
+      "link": "https://www.housingwire.com/articles/atlantic-builders-appoints-brian-davidson-central-virginia-president/",
+      "published": "Fri, 05 Jun 2026"
+    },
+    {
+      "title": "FHA Commissioner Frank Cassidy steps down",
+      "link": "https://www.housingwire.com/articles/cassidy-resigns-fha-commissioner/",
+      "published": "Fri, 05 Jun 2026"
+    },
+    {
+      "title": "Florida jury awards damages of $47.8M in buyer broker agreement dispute",
+      "link": "https://www.housingwire.com/articles/florida-buyer-broker-verdict/",
+      "published": "Fri, 05 Jun 2026"
+    },
+    {
       "title": "2026 The Thousand: TruAdvantage Team builds on growth with new agent support hub",
       "link": "https://www.housingwire.com/articles/truadvantage-team-pennsylvia-realtrends-verified-2026-the-thousand/",
       "published": "Fri, 05 Jun 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Trump says FHFA Director Bill Pulte will not serve as permanent DNI",
       "link": "https://www.housingwire.com/articles/trump-pulte-not-permanent-dni/",
-      "published": "Fri, 05 Jun 2026"
-    },
-    {
-      "title": "US adds 172,000 jobs in May, April data revised up",
-      "link": "https://www.housingwire.com/articles/may-jobs-report-172k/",
-      "published": "Fri, 05 Jun 2026"
-    },
-    {
-      "title": "2026 The Thousand: Yeatman Group scales after 747 sides in 2025",
-      "link": "https://www.housingwire.com/articles/kyle-yeatman-mega-team/",
-      "published": "Fri, 05 Jun 2026"
-    },
-    {
-      "title": "RealTrends Verified 2026 shows higher sales volume for teams, agents in 2025",
-      "link": "https://www.housingwire.com/articles/realtrends-verified-2026-rankings/",
       "published": "Fri, 05 Jun 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "FHA Commissioner Frank Cassidy steps down",
+        "url": "https://www.housingwire.com/articles/cassidy-resigns-fha-commissioner/",
+        "what": "Frank Cassidy is stepping down from his role as Federal Housing Administration commissioner and principal deputy assistant secretary for the U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cassidy-resigns-fha-commissioner/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "The real truth about the jobs data in 2026",
         "url": "https://www.housingwire.com/articles/labor-market-rebounds-2026/",
@@ -239,15 +248,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Secondary mortgage market waits for data, creates workarounds amid shift to alternative credit scores",
-        "url": "https://www.housingwire.com/articles/rmbs-credit-score-data/",
-        "what": "In the secondary market, investors and credit rating agencies are awaiting additional performance data while developing workarounds to keep loans moving through the system.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rmbs-credit-score-data/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "New Listings Fall 1.3%, One of the Biggest Weekly Declines of 2026",
         "url": "https://www.redfin.com/news/housing-market-update-new-listings-decline-rising-rates/",
         "what": "Would-be home sellers are stepping back as high rates and economic jitters keep buyers on the sidelines",
@@ -268,6 +268,24 @@
     ],
     "housing": [
       {
+        "title": "Brian Davidson named Central Virginia president at Atlantic Builders",
+        "url": "https://www.housingwire.com/articles/atlantic-builders-appoints-brian-davidson-central-virginia-president/",
+        "what": "Atlantic Builders appointed Brian Davidson as Central Virginia president and Robert L",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/atlantic-builders-appoints-brian-davidson-central-virginia-president/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Florida jury awards damages of $47.8M in buyer broker agreement dispute",
+        "url": "https://www.housingwire.com/articles/florida-buyer-broker-verdict/",
+        "what": "A Miami-Dade County jury awarded $47.8 million to broker Alex Goldstein over a $2.8 million deal and alleged fraud, with judgment pending.",
+        "numbers": "$47.8 million, $2.8 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/florida-buyer-broker-verdict/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Redfin Agents Shine in National RealTrends Verified Rankings",
         "url": "https://www.redfin.com/news/realtrends-verified-2026/",
         "what": "More than 1,200 Redfin agents were named among the country’s best real estate professionals by RealTrends Verified, an independently verified ranking of the top real estate agents and teams in the U.S",
@@ -284,15 +302,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/berkshire-vertical-integration-homebuilding/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "NALHFA: HUD cuts would worsen housing affordability challenges",
-        "url": "https://www.housingwire.com/articles/nalhfa-hud-cuts-housing-affordability-challenges/",
-        "what": "Jonathan Paine, executive director of NALHFA, says proposed cuts will only exacerbate existing hurdles for many Americans.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nalhfa-hud-cuts-housing-affordability-challenges/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "A Look at Listings in Summer Vacation Hotspots, From Myrtle Beach to Cape Cod",
@@ -338,15 +347,6 @@
         "what": "RealTrends Verified 2026 ranks over 50,000 agents and teams",
         "numbers": "2026, 50,000, 186,089.5, $164.096 billion, 2025.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/realtrends-verified-2026-rankings/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Ten years after: Schaefer Homes revs up its engines for growth",
-        "url": "https://www.housingwire.com/articles/ten-years-after-schaefer-homes-revs-up-its-engines-for-growth/",
-        "what": "Schaefer Homes increased sales 68.3% to 31 homes in 2025, while building a 14-person team and tightening operations for growth",
-        "numbers": "68.3, 31, 2025,, 14",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ten-years-after-schaefer-homes-revs-up-its-engines-for-growth/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
