@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-06 18:20 UTC",
+  "as_of": "2026-06-06 20:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Housing demand stays positive with mortgage rates near 2026 highs",
+      "link": "https://www.housingwire.com/articles/housing-demand-positive-as-mortgage-rates-near-2026-highs/",
+      "published": "Sat, 06 Jun 2026"
+    },
+    {
       "title": "Boston’s international business boom equals more demand for housing",
       "link": "https://www.housingwire.com/articles/boston-international-business-boom-housing-demand/",
       "published": "Fri, 05 Jun 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Nest Egg Protection Act would raise capital gains tax exclusion for senior home sellers",
       "link": "https://www.housingwire.com/articles/malliotakis-nest-egg-protection-act-capital-gains-exclusion-senior-homeowners/",
-      "published": "Fri, 05 Jun 2026"
-    },
-    {
-      "title": "Drees Homes bets on operational leadership for next century",
-      "link": "https://www.housingwire.com/articles/drees-operational-leadership/",
       "published": "Fri, 05 Jun 2026"
     },
     {
@@ -203,20 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Housing demand stays positive with mortgage rates near 2026 highs",
+        "url": "https://www.housingwire.com/articles/housing-demand-positive-as-mortgage-rates-near-2026-highs/",
+        "what": "Weekly pending sales increased to 75,935 versus 69,636, and purchase apps were up 7% year over year despite higher mortgage rates.",
+        "numbers": "75,935, 69,636,, 7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-demand-positive-as-mortgage-rates-near-2026-highs/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage Forward to acquire First Federal Bank’s TPO division",
         "url": "https://www.housingwire.com/articles/mortgage-forward-first-federal-tpo/",
         "what": "Mortgage Forward will acquire First Federal Bank’s TPO unit, including QRL Financial, with closing expected in Q3 2026.",
         "numbers": "3, 2026.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-forward-first-federal-tpo/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Zillow’s MRED feed remains safe, but Realtracs showdown nears June 8 deadline",
-        "url": "https://www.housingwire.com/articles/zillow-tro-mred-extended/",
-        "what": "A federal judge extended Zillow’s restraining order forcing MRED to restore its listing feed, with a preliminary injunction hearing in July.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-tro-mred-extended/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
