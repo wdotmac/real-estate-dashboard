@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-06-08 19:34 UTC",
+  "as_of": "2026-06-08 23:36 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.47,
-      "delta_bp_1d": -2.000000000000046
+      "yield_pct": 4.55,
+      "delta_bp_1d": 8.000000000000007
     },
     "mortgage_30y": {
       "rate_pct": 6.48,
@@ -140,33 +140,38 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Many older Americans stuck in homes that no longer fit",
+      "link": "https://www.housingwire.com/articles/many-older-americans-stuck-in-homes-that-no-longer-fit/",
+      "published": "Mon, 08 Jun 2026"
+    },
+    {
+      "title": "Class Valuation adds Makena InstaPlan ahead of UAD 3.6 shift",
+      "link": "https://www.housingwire.com/articles/class-valuation-makena-uad-36/",
+      "published": "Mon, 08 Jun 2026"
+    },
+    {
+      "title": "May rent trends run sideways as multifamily supply stays strong",
+      "link": "https://www.housingwire.com/articles/apartment-supply-rent-growth/",
+      "published": "Mon, 08 Jun 2026"
+    },
+    {
+      "title": "Mortgage and real estate battle for the top of the funnel",
+      "link": "https://www.housingwire.com/articles/consolidation-lenders-realestate/",
+      "published": "Mon, 08 Jun 2026"
+    },
+    {
+      "title": "HUD pilots robotics-built housing and automated permitting",
+      "link": "https://www.housingwire.com/articles/hud-robotics-built-housing-permitting/",
+      "published": "Mon, 08 Jun 2026"
+    },
+    {
       "title": "Top agent Kris Zacuto joins Christie’s International Real Estate Southern California",
       "link": "https://www.housingwire.com/articles/top-agent-kris-zacuto-joins-christies-international-real-estate-southern-california/",
       "published": "Mon, 08 Jun 2026"
     },
     {
-      "title": "Sotheby’s International Realty names Marissa Ghesquiere regional president",
-      "link": "https://www.housingwire.com/articles/sothebys-new-regional-president/",
-      "published": "Mon, 08 Jun 2026"
-    },
-    {
-      "title": "How Nicholas Hartigan helps turn strategy into execution",
-      "link": "https://www.housingwire.com/articles/how-nicholas-hartigan-helps-turn-strategy-into-execution/",
-      "published": "Mon, 08 Jun 2026"
-    },
-    {
-      "title": "Equity Residential, AvalonBay name C-suite for multifamily giant",
-      "link": "https://www.housingwire.com/articles/equity-residential-avalonbay-set-c-suite-team/",
-      "published": "Mon, 08 Jun 2026"
-    },
-    {
-      "title": "Modular builder Kinexx eyes ‘hidden-in-plain-sight’ lots for growth",
-      "link": "https://www.housingwire.com/articles/modular-builder-kinexx-eyes-hidden-in-plain-sight-lots-for-growth/",
-      "published": "Mon, 08 Jun 2026"
-    },
-    {
-      "title": "ICE Mortgage Monitor: Lock-in effect drives surge in home equity lending",
-      "link": "https://www.housingwire.com/articles/ice-home-equity-lending/",
+      "title": "This Week’s Inflation and Sentiment Data May Clarify the Fed’s Path",
+      "link": "https://www.redfin.com/news/mortage-rates-still-risk-of-rising-strait-hormuz-still-closed/",
       "published": "Mon, 08 Jun 2026"
     },
     {
@@ -193,15 +198,28 @@
       "title": "Sellers Are Pulling Their Homes Off the Market at Near-Record Rates as Buyers Reject High Prices",
       "link": "https://www.redfin.com/news/delistings-relistings-april-2026/",
       "published": "Wed, 03 Jun 2026"
-    },
-    {
-      "title": "A Look at Listings in Summer Vacation Hotspots, From Myrtle Beach to Cape Cod",
-      "link": "https://www.redfin.com/news/vacation-home-listings-in-the-united-states/",
-      "published": "Tue, 02 Jun 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "This Week’s Inflation and Sentiment Data May Clarify the Fed’s Path",
+        "url": "https://www.redfin.com/news/mortage-rates-still-risk-of-rising-strait-hormuz-still-closed/",
+        "what": "This Week In A Nutshell: With the Strait of Hormuz still closed and fresh off a hot jobs report last week, rates are at risk of climbing further this week if Wednesday’s inflation data comes in above expectations",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/mortage-rates-still-risk-of-rising-strait-hormuz-still-closed/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Mortgage and real estate battle for the top of the funnel",
+        "url": "https://www.housingwire.com/articles/consolidation-lenders-realestate/",
+        "what": "With interest rates in a higher-for-longer environment, mortgage and real estate companies have realized that long-term survival requires market share growth via M&A.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/consolidation-lenders-realestate/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Rising Rates Stall Housing Market Momentum Just After Closed Home Sales Hit Highest Level Since 2022",
         "url": "https://www.redfin.com/news/rising-rates-stall-housing-market-momentum/",
@@ -241,6 +259,33 @@
     ],
     "housing": [
       {
+        "title": "Many older Americans stuck in homes that no longer fit",
+        "url": "https://www.housingwire.com/articles/many-older-americans-stuck-in-homes-that-no-longer-fit/",
+        "what": "Housing professionals say that many older Americans are staying put because moving no longer makes financial sense.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/many-older-americans-stuck-in-homes-that-no-longer-fit/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "May rent trends run sideways as multifamily supply stays strong",
+        "url": "https://www.housingwire.com/articles/apartment-supply-rent-growth/",
+        "what": "Policymakers have been making the case that more supply is a better check on housing costs than rent stabilization",
+        "numbers": "2010,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/apartment-supply-rent-growth/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "HUD pilots robotics-built housing and automated permitting",
+        "url": "https://www.housingwire.com/articles/hud-robotics-built-housing-permitting/",
+        "what": "A pair of ultra-modest, little-noticed funding opportunities from the U.S",
+        "numbers": "$13 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-robotics-built-housing-permitting/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "How Nicholas Hartigan helps turn strategy into execution",
         "url": "https://www.housingwire.com/articles/how-nicholas-hartigan-helps-turn-strategy-into-execution/",
         "what": "Nicholas Hartigan, director of program management at DocMagic and a 2025 HousingWire Insider, discusses the experiences that shaped his career, the future of digital mortgage adopt",
@@ -259,33 +304,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "ICE Mortgage Monitor: Lock-in effect drives surge in home equity lending",
-        "url": "https://www.housingwire.com/articles/ice-home-equity-lending/",
-        "what": "ICE says Q1 2026 equity withdrawals hit $47B, second liens pulled $25B and refinance-incentivized buyers fell to 1.8 million in May.",
-        "numbers": "1, 2026, $47, $25, 1.8 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-home-equity-lending/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Realtracs extends Zillow listing feed past June 8 deadline",
-        "url": "https://www.housingwire.com/articles/realtracs-zillow-feed-extended/",
-        "what": "Realtracs says Zillow listing distribution will continue past June 8 as licensing talks continue and brokers can use MLS GRID exports.",
-        "numbers": "8",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realtracs-zillow-feed-extended/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "TWO delays shareholder vote, presses UWM for all-cash offer",
-        "url": "https://www.housingwire.com/articles/two-harbors-uwm-cash-offer/",
-        "what": "Two Harbors Investment Corp",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/two-harbors-uwm-cash-offer/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Agents Shine in National RealTrends Verified Rankings",
         "url": "https://www.redfin.com/news/realtrends-verified-2026/",
         "what": "More than 1,200 Redfin agents were named among the country’s best real estate professionals by RealTrends Verified, an independently verified ranking of the top real estate agents and teams in the U.S",
@@ -293,18 +311,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/realtrends-verified-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "A Look at Listings in Summer Vacation Hotspots, From Myrtle Beach to Cape Cod",
-        "url": "https://www.redfin.com/news/vacation-home-listings-in-the-united-states/",
-        "what": "Dreaming of a second home in a summer hot spot? We took a look at listings of homes in places known for vacation vibes, from a waterfront home in Myrtle Beach to a castle in the Smoky Mountains",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/vacation-home-listings-in-the-united-states/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
+      {
+        "title": "Class Valuation adds Makena InstaPlan ahead of UAD 3.6 shift",
+        "url": "https://www.housingwire.com/articles/class-valuation-makena-uad-36/",
+        "what": "Class Valuation gives appraisers Makena InstaPlan ahead of the Nov",
+        "numbers": "2,, 2026, 3.6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/class-valuation-makena-uad-36/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Top agent Kris Zacuto joins Christie’s International Real Estate Southern California",
         "url": "https://www.housingwire.com/articles/top-agent-kris-zacuto-joins-christies-international-real-estate-southern-california/",
@@ -329,24 +347,6 @@
         "what": "Equity Residential and AvalonBay Communities have outlined who will run the combined multifamily REIT after their planned merger of equals, naming a C-suite team that blends leaders from both companies",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/equity-residential-avalonbay-set-c-suite-team/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Is KB Home a more likely purchase target as its lot pipeline tightens?",
-        "url": "https://www.housingwire.com/articles/mergers-and-acquisitions/",
-        "what": "Author’s note: I worked for KB Home during two periods of my career and remain grateful for the experience",
-        "numbers": "2024, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mergers-and-acquisitions/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "California reaches $4.6M settlement with Select Portfolio Servicing",
-        "url": "https://www.housingwire.com/articles/california-sps-settlement/",
-        "what": "Under the agreement, which is subject to court approval, SPS will pay $1.6 million in civil penalties and provide $3 million in consumer restitution to affected borrowers.",
-        "numbers": "$1.6 million, $3 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/california-sps-settlement/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
