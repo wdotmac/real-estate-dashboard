@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-07 22:17 UTC",
+  "as_of": "2026-06-08 01:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Continued Iran conflict raises mortgage rate risk into late 2026",
+      "link": "https://www.housingwire.com/articles/iran-conflict-mortgage-rates/",
+      "published": "Sun, 07 Jun 2026"
+    },
+    {
       "title": "Housing demand stays positive with mortgage rates near 2026 highs",
       "link": "https://www.housingwire.com/articles/housing-demand-positive-as-mortgage-rates-near-2026-highs/",
       "published": "Sat, 06 Jun 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Mortgage Forward to acquire First Federal Bank’s TPO division",
       "link": "https://www.housingwire.com/articles/mortgage-forward-first-federal-tpo/",
-      "published": "Fri, 05 Jun 2026"
-    },
-    {
-      "title": "Nest Egg Protection Act would raise capital gains tax exclusion for senior home sellers",
-      "link": "https://www.housingwire.com/articles/malliotakis-nest-egg-protection-act-capital-gains-exclusion-senior-homeowners/",
       "published": "Fri, 05 Jun 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Continued Iran conflict raises mortgage rate risk into late 2026",
+        "url": "https://www.housingwire.com/articles/iran-conflict-mortgage-rates/",
+        "what": "If the Iran conflict lasts five to six more months, the peak mortgage rate could run 0.375% to 0.435% above 6.75% despite better spreads.",
+        "numbers": "0.375, 0.435, 6.75",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/iran-conflict-mortgage-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Housing demand stays positive with mortgage rates near 2026 highs",
         "url": "https://www.housingwire.com/articles/housing-demand-positive-as-mortgage-rates-near-2026-highs/",
@@ -264,15 +273,6 @@
         "what": "American Pacific Mortgage has closed a merger deal to bring Synergy One Lending under its umbrella as a DBA, creating a mortgage production platform with roughly $14 billion in ann",
         "numbers": "$14 billion",
         "justified": "housingwire.com — https://www.housingwire.com/articles/apm-synergy-one-merger/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Former DC housing official pleads guilty to mortgage fraud",
-        "url": "https://www.housingwire.com/articles/former-dc-housing-official-pleads-guilty-to-mortgage-fraud/",
-        "what": "Richard Cunningham pleaded guilty Wednesday in U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/former-dc-housing-official-pleads-guilty-to-mortgage-fraud/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
