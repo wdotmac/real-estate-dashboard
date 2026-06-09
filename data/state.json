@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-06-09 18:20 UTC",
+  "as_of": "2026-06-09 21:12 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.55,
-      "delta_bp_1d": 8.000000000000007
+      "yield_pct": 4.56,
+      "delta_bp_1d": 0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.48,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Senate Democrats introduce bill to automatically fund CFPB",
-      "link": "https://www.housingwire.com/articles/cfpb-funding-bill-democrats/",
+      "title": "Illinois Gov. Pritzker’s sweeping housing reform package hits a wall",
+      "link": "https://www.housingwire.com/articles/pritzker-illinois-housing-plan/",
       "published": "Tue, 09 Jun 2026"
     },
     {
-      "title": "IBHS adds neighborhood and multifamily wildfire standards for Western builders",
-      "link": "https://www.housingwire.com/articles/ibhs-wildfire-standards/",
+      "title": "MLSs compete on rules and partnerships as listing control shifts",
+      "link": "https://www.housingwire.com/articles/mls-strategies-listing-control/",
       "published": "Tue, 09 Jun 2026"
     },
     {
-      "title": "MetroList, Lundy launch AI assistant for real estate professionals",
-      "link": "https://www.housingwire.com/articles/metrolist-lundy-launch-ai-assistant-for-real-estate-professionals/",
+      "title": "Homebuilders’ spring toolbox: Incentives rose, but conversion stayed weak",
+      "link": "https://www.housingwire.com/articles/builder-incentives-weak-conversion/",
       "published": "Tue, 09 Jun 2026"
     },
     {
-      "title": "Existing home sales beat estimates, what it signals for 2026",
-      "link": "https://www.housingwire.com/articles/existing-home-sales-beat-estimates-what-it-signals-for-2026/",
+      "title": "MBA launches forum for reverse mortgages, senior lending",
+      "link": "https://www.housingwire.com/articles/mba-senior-lending-network/",
       "published": "Tue, 09 Jun 2026"
     },
     {
-      "title": "Mortgage credit availability edges higher in May",
-      "link": "https://www.housingwire.com/articles/mortgage-credit-availability-may-2026/",
+      "title": "2026 The Thousand: eXp team provides ‘Anchor’ for military families",
+      "link": "https://www.housingwire.com/articles/2026-the-thousand-exp-team-provides-anchor-for-military-families/",
       "published": "Tue, 09 Jun 2026"
     },
     {
-      "title": "UWM sanctioned after judge orders Ishbia deposition",
-      "link": "https://www.housingwire.com/articles/uwm-contempt-ishbia-deposition/",
+      "title": "MISMO updates PaVS procurement dataset for UAD 3.6",
+      "link": "https://www.housingwire.com/articles/mismo-pavs-procurement-uad-36/",
       "published": "Tue, 09 Jun 2026"
     },
     {
@@ -212,24 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "UWM sanctioned after judge orders Ishbia deposition",
-        "url": "https://www.housingwire.com/articles/uwm-contempt-ishbia-deposition/",
-        "what": "A federal judge has ordered United Wholesale Mortgage (UWM) to make its CEO, Mat Ishbia, available for a deposition in a dispute with Atlantic Trust Mortgage Corporation.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-contempt-ishbia-deposition/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Strong jobs data, inflation concerns keep mortgage rates elevated",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-jobs-inflation/",
-        "what": "Conforming averaged 6.78% and FHA 6.33% as strong jobs data and inflation kept bond yields elevated and rates sticky.",
-        "numbers": "6.78, 6.33",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-jobs-inflation/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "This Week’s Inflation and Sentiment Data May Clarify the Fed’s Path",
         "url": "https://www.redfin.com/news/mortage-rates-still-risk-of-rising-strait-hormuz-still-closed/",
         "what": "This Week In A Nutshell: With the Strait of Hormuz still closed and fresh off a hot jobs report last week, rates are at risk of climbing further this week if Wednesday’s inflation data comes in above expectations",
@@ -268,49 +250,49 @@
     ],
     "housing": [
       {
-        "title": "IBHS adds neighborhood and multifamily wildfire standards for Western builders",
-        "url": "https://www.housingwire.com/articles/ibhs-wildfire-standards/",
-        "what": "The Insurance Institute for Business & Home Safety (IBHS) has expanded its Wildfire Prepared program with new standards for neighborhoods and multifamily buildings and updated requirements for single-family homes, creating a more complete design roadmap for builders in fire-prone communities",
+        "title": "Illinois Gov. Pritzker’s sweeping housing reform package hits a wall",
+        "url": "https://www.housingwire.com/articles/pritzker-illinois-housing-plan/",
+        "what": "Illinois Gov",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ibhs-wildfire-standards/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Existing home sales beat estimates, what it signals for 2026",
-        "url": "https://www.housingwire.com/articles/existing-home-sales-beat-estimates-what-it-signals-for-2026/",
-        "what": "NAR existing home sales rose 3.2% in May and the Housing Market Tracker has shown improved demand since late March.",
-        "numbers": "3.2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/existing-home-sales-beat-estimates-what-it-signals-for-2026/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pritzker-illinois-housing-plan/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Mortgage credit availability edges higher in May",
-        "url": "https://www.housingwire.com/articles/mortgage-credit-availability-may-2026/",
-        "what": "Mortgage credit availability ticked up 0.1% in May as jumbo programs loosened slightly and government and conforming credit held steady.",
-        "numbers": "0.1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-credit-availability-may-2026/",
+        "title": "Homebuilders’ spring toolbox: Incentives rose, but conversion stayed weak",
+        "url": "https://www.housingwire.com/articles/builder-incentives-weak-conversion/",
+        "what": "Part of this is telling you what you already know",
+        "numbers": "2020, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/builder-incentives-weak-conversion/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "MBA launches forum for reverse mortgages, senior lending",
+        "url": "https://www.housingwire.com/articles/mba-senior-lending-network/",
+        "what": "The Mortgage Bankers Association (MBA) on Tuesday announced the launch of a new member forum dedicated to reverse mortgages and other senior-focused mortgage products.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-senior-lending-network/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Existing home sales rise 3.2% in May to 4.17 million",
-        "url": "https://www.housingwire.com/articles/existing-home-sales-may-417/",
-        "what": "Existing home sales rose 3.2% in May to 4.17 million, inventory hit 1.55 million and the median price climbed 1.3% to $429,300.",
-        "numbers": "3.2, 4.17 million, 1.55 million, 1.3, $429,300.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/existing-home-sales-may-417/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Martha Stewart, Trex team up on outdoor living for remodelers, builders",
-        "url": "https://www.housingwire.com/articles/martha-stewart-trex-outdoor-living-collaboration-builders-remodelers/",
-        "what": "WINCHESTER, Va",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/martha-stewart-trex-outdoor-living-collaboration-builders-remodelers/",
+        "title": "Asset agility: inside Trinity Family Builders’ fast-track to scale",
+        "url": "https://www.housingwire.com/articles/trinity-family-builders-fast-track-to-scale/",
+        "what": "Trinity Family Builders led 2025 growth rankings after 373.7% growth in year 2 and just over 200 home sales.",
+        "numbers": "2025, 373.7, 2, 200",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trinity-family-builders-fast-track-to-scale/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Outgoing Frank Cassidy on running FHA more like a business",
+        "url": "https://www.housingwire.com/articles/cassidy-leaves-fha-reforms/",
+        "what": "In this exclusive interview, Cassidy discusses his accomplishments at the agency, his stance on zero-down payment programs and his plans to continue championing the administration'",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cassidy-leaves-fha-reforms/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Nashville, Miami and Austin–Once Pandemic Homebuying Hotspots–Are This Spring’s Strongest Buyer’s Markets",
@@ -333,20 +315,38 @@
     ],
     "notables": [
       {
-        "title": "MetroList, Lundy launch AI assistant for real estate professionals",
-        "url": "https://www.housingwire.com/articles/metrolist-lundy-launch-ai-assistant-for-real-estate-professionals/",
-        "what": "Through natural language interactions, agents can manage emails, summarize communications, search property and market data and more.",
+        "title": "MLSs compete on rules and partnerships as listing control shifts",
+        "url": "https://www.housingwire.com/articles/mls-strategies-listing-control/",
+        "what": "MLSs are using partnerships and tech to compete as listing control shifts, while CMLS warns against fragmentation that limits transparency.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/metrolist-lundy-launch-ai-assistant-for-real-estate-professionals/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-strategies-listing-control/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "2026 The Thousand: eXp team provides ‘Anchor’ for military families",
+        "url": "https://www.housingwire.com/articles/2026-the-thousand-exp-team-provides-anchor-for-military-families/",
+        "what": "Anchor Real Estate has built its business around helping service members and their families navigate frequent relocations and tight timelines.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-the-thousand-exp-team-provides-anchor-for-military-families/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Wendy Forsythe promoted to COO at eXp Realty",
-        "url": "https://www.housingwire.com/articles/wendy-forsythe-exp-coo/",
-        "what": "eXp Realty promotes Wendy Forsythe to COO after two years as CMO, replacing Patrick O’Neill and leading ops and tech.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/wendy-forsythe-exp-coo/",
+        "title": "MISMO updates PaVS procurement dataset for UAD 3.6",
+        "url": "https://www.housingwire.com/articles/mismo-pavs-procurement-uad-36/",
+        "what": "MISMO updated its PaVS procurement dataset to standardize valuation orders, support UAD 3.6, and cut proprietary integrations.",
+        "numbers": "3.6,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mismo-pavs-procurement-uad-36/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Asset managers are reevaluating how security influences long-term property performance",
+        "url": "https://www.housingwire.com/articles/property-security-long-term-performance/",
+        "what": "Asset managers are using security to cut risk, as insurance costs rise, with research citing fewer incidents and up to 20% premium cuts.",
+        "numbers": "20",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/property-security-long-term-performance/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
