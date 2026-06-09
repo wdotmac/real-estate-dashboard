@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-09 21:12 UTC",
+  "as_of": "2026-06-09 22:50 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "AppFolio launches connector for Realm-X AI suite and Anthropic’s Claude",
+      "link": "https://www.housingwire.com/articles/appfolio-launches-connector-for-realm-x-ai-suite-and-anthropics-claude/",
+      "published": "Tue, 09 Jun 2026"
+    },
+    {
       "title": "Illinois Gov. Pritzker’s sweeping housing reform package hits a wall",
       "link": "https://www.housingwire.com/articles/pritzker-illinois-housing-plan/",
       "published": "Tue, 09 Jun 2026"
@@ -162,11 +167,6 @@
     {
       "title": "2026 The Thousand: eXp team provides ‘Anchor’ for military families",
       "link": "https://www.housingwire.com/articles/2026-the-thousand-exp-team-provides-anchor-for-military-families/",
-      "published": "Tue, 09 Jun 2026"
-    },
-    {
-      "title": "MISMO updates PaVS procurement dataset for UAD 3.6",
-      "link": "https://www.housingwire.com/articles/mismo-pavs-procurement-uad-36/",
       "published": "Tue, 09 Jun 2026"
     },
     {
@@ -202,15 +202,6 @@
   ],
   "feed_101020": {
     "macro": [
-      {
-        "title": "Senate Democrats introduce bill to automatically fund CFPB",
-        "url": "https://www.housingwire.com/articles/cfpb-funding-bill-democrats/",
-        "what": "Senate Democrats introduced a bill to automatically fund the CFPB via Fed transfers, aiming to limit future cuts and pressure.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-funding-bill-democrats/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
       {
         "title": "This Week’s Inflation and Sentiment Data May Clarify the Fed’s Path",
         "url": "https://www.redfin.com/news/mortage-rates-still-risk-of-rising-strait-hormuz-still-closed/",
@@ -314,6 +305,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "AppFolio launches connector for Realm-X AI suite and Anthropic’s Claude",
+        "url": "https://www.housingwire.com/articles/appfolio-launches-connector-for-realm-x-ai-suite-and-anthropics-claude/",
+        "what": "The integration combines Claude’s reasoning capabilities with Realm-X’s understanding of property management operations.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/appfolio-launches-connector-for-realm-x-ai-suite-and-anthropics-claude/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "MLSs compete on rules and partnerships as listing control shifts",
         "url": "https://www.housingwire.com/articles/mls-strategies-listing-control/",
