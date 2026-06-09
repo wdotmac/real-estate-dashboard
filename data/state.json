@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-09 08:40 UTC",
+  "as_of": "2026-06-09 12:14 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "2026 The Thousand: The Gedalje Group moves into top 10 after 468 sides in 2025",
+      "link": "https://www.housingwire.com/articles/gedalje-group-realtrends-468/",
+      "published": "Tue, 09 Jun 2026"
+    },
+    {
+      "title": "HousingWire acquires Keeping Current Matters to deepen local data for agents",
+      "link": "https://www.housingwire.com/articles/housingwire-acquires-keeping-current-matters-to-deepen-local-data-for-agents/",
+      "published": "Tue, 09 Jun 2026"
+    },
+    {
+      "title": "Mortgage lock volume slid 9% in May, Optimal Blue reports",
+      "link": "https://www.housingwire.com/articles/optimal-blue-may-mortgage-volume/",
+      "published": "Tue, 09 Jun 2026"
+    },
+    {
       "title": "The verification layer financial systems forgot to build",
       "link": "https://www.housingwire.com/articles/ai-lending-verification-layer/",
       "published": "Tue, 09 Jun 2026"
@@ -155,19 +170,9 @@
       "published": "Mon, 08 Jun 2026"
     },
     {
-      "title": "Class Valuation adds Makena InstaPlan ahead of UAD 3.6 shift",
-      "link": "https://www.housingwire.com/articles/class-valuation-makena-uad-36/",
-      "published": "Mon, 08 Jun 2026"
-    },
-    {
-      "title": "May rent trends run sideways as multifamily supply stays strong",
-      "link": "https://www.housingwire.com/articles/apartment-supply-rent-growth/",
-      "published": "Mon, 08 Jun 2026"
-    },
-    {
-      "title": "Mortgage and real estate battle for the top of the funnel",
-      "link": "https://www.housingwire.com/articles/consolidation-lenders-realestate/",
-      "published": "Mon, 08 Jun 2026"
+      "title": "Nashville, Miami and Austin–Once Pandemic Homebuying Hotspots–Are This Spring’s Strongest Buyer’s Markets",
+      "link": "https://www.redfin.com/news/buyers-vs-sellers-may-2026/",
+      "published": "Tue, 09 Jun 2026"
     },
     {
       "title": "This Week’s Inflation and Sentiment Data May Clarify the Fed’s Path",
@@ -193,11 +198,6 @@
       "title": "New Listings Fall 1.3%, One of the Biggest Weekly Declines of 2026",
       "link": "https://www.redfin.com/news/housing-market-update-new-listings-decline-rising-rates/",
       "published": "Thu, 04 Jun 2026"
-    },
-    {
-      "title": "Sellers Are Pulling Their Homes Off the Market at Near-Record Rates as Buyers Reject High Prices",
-      "link": "https://www.redfin.com/news/delistings-relistings-april-2026/",
-      "published": "Wed, 03 Jun 2026"
     }
   ],
   "feed_101020": {
@@ -255,18 +255,36 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-new-listings-decline-rising-rates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Sellers Are Pulling Their Homes Off the Market at Near-Record Rates as Buyers Reject High Prices",
-        "url": "https://www.redfin.com/news/delistings-relistings-april-2026/",
-        "what": "More sellers are delisting in today’s buyer’s market as their homes sit on the market longer than they’d like and/or they’re unable to fetch the price they want",
-        "numbers": "2.5",
-        "justified": "redfin.com — https://www.redfin.com/news/delistings-relistings-april-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Nashville, Miami and Austin–Once Pandemic Homebuying Hotspots–Are This Spring’s Strongest Buyer’s Markets",
+        "url": "https://www.redfin.com/news/buyers-vs-sellers-may-2026/",
+        "what": "35 of the 50 most populous U.S",
+        "numbers": "35, 50, 46.9, 6",
+        "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-may-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "HousingWire acquires Keeping Current Matters to deepen local data for agents",
+        "url": "https://www.housingwire.com/articles/housingwire-acquires-keeping-current-matters-to-deepen-local-data-for-agents/",
+        "what": "HousingWire acquires Keeping Current Matters, adding hyperlocal market intelligence to the tools real estate agents use to win listings and build client trust.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housingwire-acquires-keeping-current-matters-to-deepen-local-data-for-agents/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Mortgage lock volume slid 9% in May, Optimal Blue reports",
+        "url": "https://www.housingwire.com/articles/optimal-blue-may-mortgage-volume/",
+        "what": "Optimal Blue said May rate-lock volume fell 9% as the 30-year rate rose to 6.44%, purchase share was 81% and ARM share hit 11%.",
+        "numbers": "9, 30, 6.44, 81, 11",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/optimal-blue-may-mortgage-volume/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Just don’t: Why AI-generated marketing content is a regulatory minefield for mortgage lenders",
         "url": "https://www.housingwire.com/articles/ai-mortgage-marketing-compliance-risk/",
@@ -304,15 +322,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "How Nicholas Hartigan helps turn strategy into execution",
-        "url": "https://www.housingwire.com/articles/how-nicholas-hartigan-helps-turn-strategy-into-execution/",
-        "what": "Nicholas Hartigan, director of program management at DocMagic and a 2025 HousingWire Insider, discusses the experiences that shaped his career, the future of digital mortgage adopt",
-        "numbers": "2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/how-nicholas-hartigan-helps-turn-strategy-into-execution/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Redfin Agents Shine in National RealTrends Verified Rankings",
         "url": "https://www.redfin.com/news/realtrends-verified-2026/",
         "what": "More than 1,200 Redfin agents were named among the country’s best real estate professionals by RealTrends Verified, an independently verified ranking of the top real estate agents and teams in the U.S",
@@ -324,29 +333,20 @@
     ],
     "notables": [
       {
+        "title": "2026 The Thousand: The Gedalje Group moves into top 10 after 468 sides in 2025",
+        "url": "https://www.housingwire.com/articles/gedalje-group-realtrends-468/",
+        "what": "The Gedalje Group closed 468 sides and $245 million in 2025, ranking No",
+        "numbers": "468, $245 million, 2025,, 10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gedalje-group-realtrends-468/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Class Valuation adds Makena InstaPlan ahead of UAD 3.6 shift",
         "url": "https://www.housingwire.com/articles/class-valuation-makena-uad-36/",
         "what": "Class Valuation gives appraisers Makena InstaPlan ahead of the Nov",
         "numbers": "2,, 2026, 3.6",
         "justified": "housingwire.com — https://www.housingwire.com/articles/class-valuation-makena-uad-36/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Top agent Kris Zacuto joins Christie’s International Real Estate Southern California",
-        "url": "https://www.housingwire.com/articles/top-agent-kris-zacuto-joins-christies-international-real-estate-southern-california/",
-        "what": "Zacuto brings more than a decade of experience in luxury real estate and reported roughly $27.6 million in 2025 volume to RealTrends Verified.",
-        "numbers": "$27.6 million, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/top-agent-kris-zacuto-joins-christies-international-real-estate-southern-california/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Sotheby’s International Realty names Marissa Ghesquiere regional president",
-        "url": "https://www.housingwire.com/articles/sothebys-new-regional-president/",
-        "what": "Sotheby’s named Marissa Ghesquiere regional president, overseeing sales and operations across New York, Florida and other markets.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sothebys-new-regional-president/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
