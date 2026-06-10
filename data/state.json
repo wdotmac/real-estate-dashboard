@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-06-10 18:09 UTC",
+  "as_of": "2026-06-10 20:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.56,
-      "delta_bp_1d": 0.9999999999999787
+      "yield_pct": 4.53,
+      "delta_bp_1d": -2.999999999999936
     },
     "mortgage_30y": {
       "rate_pct": 6.48,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "2026 RealTrends Verified: James Harris focuses on quality over quantity to unlock top ranking",
-      "link": "https://www.housingwire.com/articles/harris-partners-realtrends-no2/",
+      "title": "Veterans United seeks dismissal of amended RESPA class-action complaint",
+      "link": "https://www.housingwire.com/articles/veterans-united-respa-dismissal/",
       "published": "Wed, 10 Jun 2026"
     },
     {
-      "title": "NRMLA targets lower HECM insurance premiums, fewer second appraisals",
-      "link": "https://www.housingwire.com/articles/nrmla-hecm-imip-second-appraisals/",
+      "title": "Who will pay Florida’s sky-high property taxes? Voters must choose",
+      "link": "https://www.housingwire.com/articles/who-will-pay-floridas-sky-high-property-taxes-voters-must-choose/",
       "published": "Wed, 10 Jun 2026"
     },
     {
-      "title": "Cost headwinds batter affordable housing developers, report finds",
-      "link": "https://www.housingwire.com/articles/affordable-housing-developers-face-mounting-headwinds-costs/",
+      "title": "Figure CEO Michael Tannenbaum on the strategy behind $717M Kiavi purchase",
+      "link": "https://www.housingwire.com/articles/figure-ceo-kiavi-deal/",
       "published": "Wed, 10 Jun 2026"
     },
     {
-      "title": "Rocket Companies upsizes bond deal to $1.5 billion",
-      "link": "https://www.housingwire.com/articles/rocket-1-5b-senior-notes/",
+      "title": "Not all housing demand growth reflects market strength",
+      "link": "https://www.housingwire.com/articles/housing-demand-growth-market-strength-2026/",
       "published": "Wed, 10 Jun 2026"
     },
     {
-      "title": "Dream Finders built scale through deals. Could KB be on the list?",
-      "link": "https://www.housingwire.com/articles/homebuilder-consolidation-kb/",
+      "title": "Brands By Integra earns GameChanger nod with 65% transaction growth",
+      "link": "https://www.housingwire.com/articles/brands-by-integra-earns-gamechanger-nod-with-65-transaction-growth/",
       "published": "Wed, 10 Jun 2026"
     },
     {
-      "title": "New York listings bill calls Compass’s bluff",
-      "link": "https://www.housingwire.com/articles/new-york-private-listings-bill/",
+      "title": "Why mortgage’s regulatory floor is an AI moat",
+      "link": "https://www.housingwire.com/articles/mortgage-ai-trust-autonomy/",
       "published": "Wed, 10 Jun 2026"
     },
     {
@@ -203,22 +203,22 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Cost headwinds batter affordable housing developers, report finds",
-        "url": "https://www.housingwire.com/articles/affordable-housing-developers-face-mounting-headwinds-costs/",
-        "what": "LISC says insurance, utilities and inflation are squeezing affordable housing, as 374,497 units near expiry and starts drop in 2026.",
-        "numbers": "374,497, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/affordable-housing-developers-face-mounting-headwinds-costs/",
+        "title": "Not all housing demand growth reflects market strength",
+        "url": "https://www.housingwire.com/articles/housing-demand-growth-market-strength-2026/",
+        "what": "HousingWire data shows how absorption rates, inventory and price cuts reveal the difference between housing recovery and market strength.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-demand-growth-market-strength-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Rocket Companies upsizes bond deal to $1.5 billion",
-        "url": "https://www.housingwire.com/articles/rocket-1-5b-senior-notes/",
-        "what": "Rocket Companies has priced the issuance of $1.5 billion in senior notes in an oversubscribed transaction, with proceeds to refinance an existing term loan.",
-        "numbers": "$1.5 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-1-5b-senior-notes/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+        "title": "Why purchase applications are rising even as mortgage rates climb",
+        "url": "https://www.housingwire.com/articles/why-purchase-applications-are-rising-even-as-mortgage-rates-climb/",
+        "what": "Purchase apps rose 17% year over year as better spreads kept the 2026 rate curve lower than 2023 to 2025 despite recent increases.",
+        "numbers": "17, 2026, 2023, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-purchase-applications-are-rising-even-as-mortgage-rates-climb/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Mortgage Rates Unaffected, Fed Likely to Hold Rates Steady on Latest Inflation Data",
@@ -226,15 +226,6 @@
         "what": "Takeaway: Today’s CPI data should have little effect on mortgage rates",
         "numbers": "",
         "justified": "redfin.com — https://www.redfin.com/news/cpi-may-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "May inflation climbs to 4.2%, Fed likely stays on hold",
-        "url": "https://www.housingwire.com/articles/cpi-may-energy-inflation/",
-        "what": "BLS said May CPI rose 4.2% y/y and 0.5% m/m, with energy driving most of the gain, as core inflation rose 2.9% y/y and 0.2% m/m.",
-        "numbers": "4.2, 0.5, 2.9, 0.2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cpi-may-energy-inflation/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -268,40 +259,31 @@
     ],
     "housing": [
       {
-        "title": "NRMLA targets lower HECM insurance premiums, fewer second appraisals",
-        "url": "https://www.housingwire.com/articles/nrmla-hecm-imip-second-appraisals/",
-        "what": "Leaders at the National Reverse Mortgage Lenders Association offered updates on key regulatory and legislative initiatives at this week's NRMLA Western Regional Meeting in Irvine,",
+        "title": "Brands By Integra earns GameChanger nod with 65% transaction growth",
+        "url": "https://www.housingwire.com/articles/brands-by-integra-earns-gamechanger-nod-with-65-transaction-growth/",
+        "what": "Founder Jim D’Amico told HousingWire the company’s growth has been driven by a focus on recruiting, retention and production.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nrmla-hecm-imip-second-appraisals/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/brands-by-integra-earns-gamechanger-nod-with-65-transaction-growth/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Why mortgage’s regulatory floor is an AI moat",
+        "url": "https://www.housingwire.com/articles/mortgage-ai-trust-autonomy/",
+        "what": "Every mortgage AI demo this year ends the same way: the loan closes itself",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-ai-trust-autonomy/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "New York listings bill calls Compass’s bluff",
-        "url": "https://www.housingwire.com/articles/new-york-private-listings-bill/",
-        "what": "New York Assembly passed a listings bill May 29, requiring concurrent public marketing or a signed opt out, with fines up to $5,000.",
-        "numbers": "29,, $5,000.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-york-private-listings-bill/",
+        "title": "Bill aims to shred red tape for Buy America housing funds access",
+        "url": "https://www.housingwire.com/articles/bill-aims-to-shred-red-tape-for-buy-america-housing-funds-access/",
+        "what": "House lawmakers introduced the Build American Efficiency Act to help HUD funding recipients document Build America, Buy America compliance",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bill-aims-to-shred-red-tape-for-buy-america-housing-funds-access/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "CoStar targets Zillow Preview in amicus filing over MRED feed",
-        "url": "https://www.housingwire.com/articles/costar-zillow-mred-brief/",
-        "what": "CoStar urged a court to deny Zillow’s injunction motion, arguing Zillow Preview and feed access requests undercut MLS competition.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-zillow-mred-brief/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Bringas Home Team Joins simpliHŌM, plans southern California expansion",
-        "url": "https://www.housingwire.com/articles/bringas-home-team-joins-simplihom-plans-southern-california-expansion/",
-        "what": "The Bringas Home Team has completed more than 450 home sales throughout its history and reported 30% year-over-year growth in 2024.",
-        "numbers": "450, 30, 2024.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bringas-home-team-joins-simplihom-plans-southern-california-expansion/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Nashville, Miami and Austin–Once Pandemic Homebuying Hotspots–Are This Spring’s Strongest Buyer’s Markets",
@@ -324,6 +306,42 @@
     ],
     "notables": [
       {
+        "title": "Veterans United seeks dismissal of amended RESPA class-action complaint",
+        "url": "https://www.housingwire.com/articles/veterans-united-respa-dismissal/",
+        "what": "Veterans United Home Loans and its real estate brokerage affiliate are pushing back against an amended class-action lawsuit accusing the companies of operating an illegal kickback",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/veterans-united-respa-dismissal/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Who will pay Florida’s sky-high property taxes? Voters must choose",
+        "url": "https://www.housingwire.com/articles/who-will-pay-floridas-sky-high-property-taxes-voters-must-choose/",
+        "what": "Florida homeowners didn’t vote for higher property tax bills, but they’re getting them anyway",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/who-will-pay-floridas-sky-high-property-taxes-voters-must-choose/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Figure CEO Michael Tannenbaum on the strategy behind $717M Kiavi purchase",
+        "url": "https://www.housingwire.com/articles/figure-ceo-kiavi-deal/",
+        "what": "Figure CEO Michael Tannenbaum discusses the $717 million Kiavi acquisition, first-lien growth, Adaptor AI and the company's M&A strategy.",
+        "numbers": "$717 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/figure-ceo-kiavi-deal/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "The Agency adds 1,200 agents in New York tri-state expansion",
+        "url": "https://www.housingwire.com/articles/agency-tri-state-expansion-one-rock/",
+        "what": "Former Christie's International Real Estate affiliate joins The Agency bringing over 1,200 agents and 26 offices across New York metro area.",
+        "numbers": "1,200, 26",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/agency-tri-state-expansion-one-rock/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "2026 RealTrends Verified: James Harris focuses on quality over quantity to unlock top ranking",
         "url": "https://www.housingwire.com/articles/harris-partners-realtrends-no2/",
         "what": "James Harris says lean team culture drove 83 sides and $938.0 million in 2025, he prioritizes retention and weekly deal reviews.",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/harris-partners-realtrends-no2/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Dream Finders built scale through deals. Could KB be on the list?",
-        "url": "https://www.housingwire.com/articles/homebuilder-consolidation-kb/",
-        "what": "Author’s Note: I worked for KB Home during two periods of my career and remain grateful for the experience",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-consolidation-kb/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Figure bolsters first-lien strategy with $717M deal for Kiavi",
-        "url": "https://www.housingwire.com/articles/figure-acquires-kiavi-investor/",
-        "what": "Figure Technology Solutions will acquire Kiavi in a $717 million deal that increases its exposure to residential investor loans and the first-lien market, the companies announced W",
-        "numbers": "$717 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/figure-acquires-kiavi-investor/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
