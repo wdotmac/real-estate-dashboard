@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-10 14:28 UTC",
+  "as_of": "2026-06-10 18:09 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,38 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "CoStar targets Zillow Preview in amicus filing over MRED feed",
-      "link": "https://www.housingwire.com/articles/costar-zillow-mred-brief/",
+      "title": "2026 RealTrends Verified: James Harris focuses on quality over quantity to unlock top ranking",
+      "link": "https://www.housingwire.com/articles/harris-partners-realtrends-no2/",
       "published": "Wed, 10 Jun 2026"
     },
     {
-      "title": "Bringas Home Team Joins simpliHŌM, plans southern California expansion",
-      "link": "https://www.housingwire.com/articles/bringas-home-team-joins-simplihom-plans-southern-california-expansion/",
+      "title": "NRMLA targets lower HECM insurance premiums, fewer second appraisals",
+      "link": "https://www.housingwire.com/articles/nrmla-hecm-imip-second-appraisals/",
       "published": "Wed, 10 Jun 2026"
     },
     {
-      "title": "PennyMac names Tiffany To, Ontollo CEO, to board of directors",
-      "link": "https://www.housingwire.com/articles/pennymac-tiffany-to-board/",
+      "title": "Cost headwinds batter affordable housing developers, report finds",
+      "link": "https://www.housingwire.com/articles/affordable-housing-developers-face-mounting-headwinds-costs/",
       "published": "Wed, 10 Jun 2026"
     },
     {
-      "title": "Refinance and purchase applications rebound in latest MBA survey",
-      "link": "https://www.housingwire.com/articles/refinance-and-purchase-applications-mba/",
+      "title": "Rocket Companies upsizes bond deal to $1.5 billion",
+      "link": "https://www.housingwire.com/articles/rocket-1-5b-senior-notes/",
       "published": "Wed, 10 Jun 2026"
     },
     {
-      "title": "The responsible AI framework every mortgage lender needs before going live",
-      "link": "https://www.housingwire.com/articles/responsible-ai-framework-mortgage/",
+      "title": "Dream Finders built scale through deals. Could KB be on the list?",
+      "link": "https://www.housingwire.com/articles/homebuilder-consolidation-kb/",
       "published": "Wed, 10 Jun 2026"
     },
     {
-      "title": "How to study for the real estate exam: AI-powered strategies that work",
-      "link": "https://www.housingwire.com/articles/ai-real-estate-exam-study/",
+      "title": "New York listings bill calls Compass’s bluff",
+      "link": "https://www.housingwire.com/articles/new-york-private-listings-bill/",
+      "published": "Wed, 10 Jun 2026"
+    },
+    {
+      "title": "Mortgage Rates Unaffected, Fed Likely to Hold Rates Steady on Latest Inflation Data",
+      "link": "https://www.redfin.com/news/cpi-may-2026/",
       "published": "Wed, 10 Jun 2026"
     },
     {
@@ -193,15 +198,46 @@
       "title": "Redfin Agents Shine in National RealTrends Verified Rankings",
       "link": "https://www.redfin.com/news/realtrends-verified-2026/",
       "published": "Fri, 05 Jun 2026"
-    },
-    {
-      "title": "New Listings Fall 1.3%, One of the Biggest Weekly Declines of 2026",
-      "link": "https://www.redfin.com/news/housing-market-update-new-listings-decline-rising-rates/",
-      "published": "Thu, 04 Jun 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Cost headwinds batter affordable housing developers, report finds",
+        "url": "https://www.housingwire.com/articles/affordable-housing-developers-face-mounting-headwinds-costs/",
+        "what": "LISC says insurance, utilities and inflation are squeezing affordable housing, as 374,497 units near expiry and starts drop in 2026.",
+        "numbers": "374,497, 2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/affordable-housing-developers-face-mounting-headwinds-costs/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Rocket Companies upsizes bond deal to $1.5 billion",
+        "url": "https://www.housingwire.com/articles/rocket-1-5b-senior-notes/",
+        "what": "Rocket Companies has priced the issuance of $1.5 billion in senior notes in an oversubscribed transaction, with proceeds to refinance an existing term loan.",
+        "numbers": "$1.5 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-1-5b-senior-notes/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Mortgage Rates Unaffected, Fed Likely to Hold Rates Steady on Latest Inflation Data",
+        "url": "https://www.redfin.com/news/cpi-may-2026/",
+        "what": "Takeaway: Today’s CPI data should have little effect on mortgage rates",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/cpi-may-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "May inflation climbs to 4.2%, Fed likely stays on hold",
+        "url": "https://www.housingwire.com/articles/cpi-may-energy-inflation/",
+        "what": "BLS said May CPI rose 4.2% y/y and 0.5% m/m, with energy driving most of the gain, as core inflation rose 2.9% y/y and 0.2% m/m.",
+        "numbers": "4.2, 0.5, 2.9, 0.2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cpi-may-energy-inflation/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "This Week’s Inflation and Sentiment Data May Clarify the Fed’s Path",
         "url": "https://www.redfin.com/news/mortage-rates-still-risk-of-rising-strait-hormuz-still-closed/",
@@ -228,18 +264,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/strong-jobs-report-pushes-mortgage-rates-higher-reopening-the-door-to-future-fed-hikes/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "New Listings Fall 1.3%, One of the Biggest Weekly Declines of 2026",
-        "url": "https://www.redfin.com/news/housing-market-update-new-listings-decline-rising-rates/",
-        "what": "Would-be home sellers are stepping back as high rates and economic jitters keep buyers on the sidelines",
-        "numbers": "1.3, 2026",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-new-listings-decline-rising-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "NRMLA targets lower HECM insurance premiums, fewer second appraisals",
+        "url": "https://www.housingwire.com/articles/nrmla-hecm-imip-second-appraisals/",
+        "what": "Leaders at the National Reverse Mortgage Lenders Association offered updates on key regulatory and legislative initiatives at this week's NRMLA Western Regional Meeting in Irvine,",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nrmla-hecm-imip-second-appraisals/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "New York listings bill calls Compass’s bluff",
+        "url": "https://www.housingwire.com/articles/new-york-private-listings-bill/",
+        "what": "New York Assembly passed a listings bill May 29, requiring concurrent public marketing or a signed opt out, with fines up to $5,000.",
+        "numbers": "29,, $5,000.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-york-private-listings-bill/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "CoStar targets Zillow Preview in amicus filing over MRED feed",
         "url": "https://www.housingwire.com/articles/costar-zillow-mred-brief/",
@@ -255,33 +300,6 @@
         "what": "The Bringas Home Team has completed more than 450 home sales throughout its history and reported 30% year-over-year growth in 2024.",
         "numbers": "450, 30, 2024.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/bringas-home-team-joins-simplihom-plans-southern-california-expansion/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The responsible AI framework every mortgage lender needs before going live",
-        "url": "https://www.housingwire.com/articles/responsible-ai-framework-mortgage/",
-        "what": "To safely navigate a strict regulatory landscape, mortgage lenders must deploy AI alongside a rigorous governance framework built on explainability, fairness and continuous human oversight",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/responsible-ai-framework-mortgage/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The danger of the single-bureau blind spot: Why the 30-year mortgage demands the Tri-Merge Standard",
-        "url": "https://www.housingwire.com/articles/tri-merge-credit-report-standard/",
-        "what": "Cutting corners on credit data to save costs creates a dangerous blind spot",
-        "numbers": "66, 30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tri-merge-credit-report-standard/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Illinois Gov. Pritzker’s sweeping housing reform package hits a wall",
-        "url": "https://www.housingwire.com/articles/pritzker-illinois-housing-plan/",
-        "what": "Illinois Gov",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pritzker-illinois-housing-plan/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
@@ -306,49 +324,31 @@
     ],
     "notables": [
       {
-        "title": "PennyMac names Tiffany To, Ontollo CEO, to board of directors",
-        "url": "https://www.housingwire.com/articles/pennymac-tiffany-to-board/",
-        "what": "PennyMac named Ontollo CEO Tiffany To to its board, citing her AI and enterprise technology experience to support tech-driven operations.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pennymac-tiffany-to-board/",
+        "title": "2026 RealTrends Verified: James Harris focuses on quality over quantity to unlock top ranking",
+        "url": "https://www.housingwire.com/articles/harris-partners-realtrends-no2/",
+        "what": "James Harris says lean team culture drove 83 sides and $938.0 million in 2025, he prioritizes retention and weekly deal reviews.",
+        "numbers": "83, $938.0 million, 2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/harris-partners-realtrends-no2/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Refinance and purchase applications rebound in latest MBA survey",
-        "url": "https://www.housingwire.com/articles/refinance-and-purchase-applications-mba/",
-        "what": "MBA says applications rose 10.8% week over week, with refinance applications up 15% and purchase applications up 7%.",
-        "numbers": "10.8, 15, 7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/refinance-and-purchase-applications-mba/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How to study for the real estate exam: AI-powered strategies that work",
-        "url": "https://www.housingwire.com/articles/ai-real-estate-exam-study/",
-        "what": "To overcome the low first-time pass rate on the real estate exam, aspiring agents must move beyond simple memorization and integrate strategic practice testing into their study routine from day one",
+        "title": "Dream Finders built scale through deals. Could KB be on the list?",
+        "url": "https://www.housingwire.com/articles/homebuilder-consolidation-kb/",
+        "what": "Author’s Note: I worked for KB Home during two periods of my career and remain grateful for the experience",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-real-estate-exam-study/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-consolidation-kb/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "AppFolio launches connector for Realm-X AI suite and Anthropic’s Claude",
-        "url": "https://www.housingwire.com/articles/appfolio-launches-connector-for-realm-x-ai-suite-and-anthropics-claude/",
-        "what": "The integration combines Claude’s reasoning capabilities with Realm-X’s understanding of property management operations.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/appfolio-launches-connector-for-realm-x-ai-suite-and-anthropics-claude/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "MLSs compete on rules and partnerships as listing control shifts",
-        "url": "https://www.housingwire.com/articles/mls-strategies-listing-control/",
-        "what": "MLSs are using partnerships and tech to compete as listing control shifts, while CMLS warns against fragmentation that limits transparency.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-strategies-listing-control/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+        "title": "Figure bolsters first-lien strategy with $717M deal for Kiavi",
+        "url": "https://www.housingwire.com/articles/figure-acquires-kiavi-investor/",
+        "what": "Figure Technology Solutions will acquire Kiavi in a $717 million deal that increases its exposure to residential investor loans and the first-lien market, the companies announced W",
+        "numbers": "$717 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/figure-acquires-kiavi-investor/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
