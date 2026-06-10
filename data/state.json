@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-10 06:41 UTC",
+  "as_of": "2026-06-10 11:03 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The responsible AI framework every mortgage lender needs before going live",
+      "link": "https://www.housingwire.com/articles/responsible-ai-framework-mortgage/",
+      "published": "Wed, 10 Jun 2026"
+    },
+    {
+      "title": "How to study for the real estate exam: AI-powered strategies that work",
+      "link": "https://www.housingwire.com/articles/ai-real-estate-exam-study/",
+      "published": "Wed, 10 Jun 2026"
+    },
+    {
+      "title": "The danger of the single-bureau blind spot: Why the 30-year mortgage demands the Tri-Merge Standard",
+      "link": "https://www.housingwire.com/articles/tri-merge-credit-report-standard/",
+      "published": "Wed, 10 Jun 2026"
+    },
+    {
       "title": "AppFolio launches connector for Realm-X AI suite and Anthropic’s Claude",
       "link": "https://www.housingwire.com/articles/appfolio-launches-connector-for-realm-x-ai-suite-and-anthropics-claude/",
       "published": "Tue, 09 Jun 2026"
@@ -152,21 +167,6 @@
     {
       "title": "MLSs compete on rules and partnerships as listing control shifts",
       "link": "https://www.housingwire.com/articles/mls-strategies-listing-control/",
-      "published": "Tue, 09 Jun 2026"
-    },
-    {
-      "title": "Homebuilders’ spring toolbox: Incentives rose, but conversion stayed weak",
-      "link": "https://www.housingwire.com/articles/builder-incentives-weak-conversion/",
-      "published": "Tue, 09 Jun 2026"
-    },
-    {
-      "title": "MBA launches forum for reverse mortgages, senior lending",
-      "link": "https://www.housingwire.com/articles/mba-senior-lending-network/",
-      "published": "Tue, 09 Jun 2026"
-    },
-    {
-      "title": "2026 The Thousand: eXp team provides ‘Anchor’ for military families",
-      "link": "https://www.housingwire.com/articles/2026-the-thousand-exp-team-provides-anchor-for-military-families/",
       "published": "Tue, 09 Jun 2026"
     },
     {
@@ -241,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "The responsible AI framework every mortgage lender needs before going live",
+        "url": "https://www.housingwire.com/articles/responsible-ai-framework-mortgage/",
+        "what": "To safely navigate a strict regulatory landscape, mortgage lenders must deploy AI alongside a rigorous governance framework built on explainability, fairness and continuous human oversight",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/responsible-ai-framework-mortgage/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "The danger of the single-bureau blind spot: Why the 30-year mortgage demands the Tri-Merge Standard",
+        "url": "https://www.housingwire.com/articles/tri-merge-credit-report-standard/",
+        "what": "Cutting corners on credit data to save costs creates a dangerous blind spot",
+        "numbers": "66, 30",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tri-merge-credit-report-standard/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Illinois Gov. Pritzker’s sweeping housing reform package hits a wall",
         "url": "https://www.housingwire.com/articles/pritzker-illinois-housing-plan/",
         "what": "Illinois Gov",
@@ -268,24 +286,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Asset agility: inside Trinity Family Builders’ fast-track to scale",
-        "url": "https://www.housingwire.com/articles/trinity-family-builders-fast-track-to-scale/",
-        "what": "Trinity Family Builders led 2025 growth rankings after 373.7% growth in year 2 and just over 200 home sales.",
-        "numbers": "2025, 373.7, 2, 200",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trinity-family-builders-fast-track-to-scale/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Outgoing Frank Cassidy on running FHA more like a business",
-        "url": "https://www.housingwire.com/articles/cassidy-leaves-fha-reforms/",
-        "what": "In this exclusive interview, Cassidy discusses his accomplishments at the agency, his stance on zero-down payment programs and his plans to continue championing the administration'",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cassidy-leaves-fha-reforms/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Nashville, Miami and Austin–Once Pandemic Homebuying Hotspots–Are This Spring’s Strongest Buyer’s Markets",
         "url": "https://www.redfin.com/news/buyers-vs-sellers-may-2026/",
         "what": "35 of the 50 most populous U.S",
@@ -305,6 +305,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "How to study for the real estate exam: AI-powered strategies that work",
+        "url": "https://www.housingwire.com/articles/ai-real-estate-exam-study/",
+        "what": "To overcome the low first-time pass rate on the real estate exam, aspiring agents must move beyond simple memorization and integrate strategic practice testing into their study routine from day one",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-real-estate-exam-study/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "AppFolio launches connector for Realm-X AI suite and Anthropic’s Claude",
         "url": "https://www.housingwire.com/articles/appfolio-launches-connector-for-realm-x-ai-suite-and-anthropics-claude/",
@@ -338,15 +347,6 @@
         "what": "MISMO updated its PaVS procurement dataset to standardize valuation orders, support UAD 3.6, and cut proprietary integrations.",
         "numbers": "3.6,",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mismo-pavs-procurement-uad-36/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Asset managers are reevaluating how security influences long-term property performance",
-        "url": "https://www.housingwire.com/articles/property-security-long-term-performance/",
-        "what": "Asset managers are using security to cut risk, as insurance costs rise, with research citing fewer incidents and up to 20% premium cuts.",
-        "numbers": "20",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/property-security-long-term-performance/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
