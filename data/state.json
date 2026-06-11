@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-11 11:47 UTC",
+  "as_of": "2026-06-11 16:19 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": -2.999999999999936
     },
     "mortgage_30y": {
-      "rate_pct": 6.48,
-      "delta_bp_wow": -4.999999999999982
+      "rate_pct": 6.52,
+      "delta_bp_wow": 3.9999999999999147
     },
     "starts": {
       "level_saar": 1465.0,
@@ -140,34 +140,39 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Opinion: Congress, don’t mock homeownership month: Fix or flush 21st Century ROAD to Housing Act",
-      "link": "https://www.housingwire.com/articles/road-act-demand-subsidies-opinion/",
+      "title": "The Iran conflict hasn’t pushed oil and yields higher this week — here’s why",
+      "link": "https://www.housingwire.com/articles/the-iran-conflict-hasnt-pushed-oil-and-yields-higher-this-week-heres-why/",
       "published": "Thu, 11 Jun 2026"
     },
     {
-      "title": "Lenders should view UAD 3.6 as a reset opportunity",
-      "link": "https://www.housingwire.com/articles/uad-3-6-lender-reset/",
+      "title": "More plaintiffs join Unison HEI class-action lawsuit in Colorado",
+      "link": "https://www.housingwire.com/articles/unison-colorado-hei-lawsuit/",
       "published": "Thu, 11 Jun 2026"
     },
     {
-      "title": "One year later: How UWM’s Mia is reshaping borrower engagement",
-      "link": "https://www.housingwire.com/articles/uwm-mia-borrower-engagement/",
+      "title": "NAHB: Input cost inflation reaccelerates, squeezing builder margins",
+      "link": "https://www.housingwire.com/articles/residential-building-input-costs-reaccelerate-nahb-may-2026/",
       "published": "Thu, 11 Jun 2026"
     },
     {
-      "title": "2026 RealTrends Verified: Joe McNally Team scores top-30 small teams ranking",
-      "link": "https://www.housingwire.com/articles/2026-realtrends-verified-joe-mcnally-team-scores-top-30-small-teams-ranking/",
-      "published": "Wed, 10 Jun 2026"
+      "title": "Google expands real estate listing ads to all 50 states",
+      "link": "https://www.housingwire.com/articles/google-listing-ads-nationwide/",
+      "published": "Thu, 11 Jun 2026"
     },
     {
-      "title": "Homebuilders are using AI-powered ERP to find margin leaks faster",
-      "link": "https://www.housingwire.com/articles/ai-erp-homebuilding-margin-leaks/",
-      "published": "Wed, 10 Jun 2026"
+      "title": "MISMO launches FRAME AI governance toolkit",
+      "link": "https://www.housingwire.com/articles/mismo-frame-ai-toolkit/",
+      "published": "Thu, 11 Jun 2026"
     },
     {
-      "title": "White House taps Brian Johnson to lead CFPB",
-      "link": "https://www.housingwire.com/articles/johnson-nominated-cfpb/",
-      "published": "Wed, 10 Jun 2026"
+      "title": "Private listings and the risk of lower home sale prices",
+      "link": "https://www.housingwire.com/articles/private-listings-and-the-risk-of-lower-home-sale-prices/",
+      "published": "Thu, 11 Jun 2026"
+    },
+    {
+      "title": "Record Home Prices, High Mortgage Rates Push Pending Sales Down for Fourth Straight Week",
+      "link": "https://www.redfin.com/news/housing-market-update-record-high-home-prices-sales-decline/",
+      "published": "Thu, 11 Jun 2026"
     },
     {
       "title": "Mortgage Rates Unaffected, Fed Likely to Hold Rates Steady on Latest Inflation Data",
@@ -193,23 +198,45 @@
       "title": "Strong Jobs Report Pushes Mortgage Rates Higher, Reopening the Door to Future Fed Hikes",
       "link": "https://www.redfin.com/news/strong-jobs-report-pushes-mortgage-rates-higher-reopening-the-door-to-future-fed-hikes/",
       "published": "Fri, 05 Jun 2026"
-    },
-    {
-      "title": "Redfin Agents Shine in National RealTrends Verified Rankings",
-      "link": "https://www.redfin.com/news/realtrends-verified-2026/",
-      "published": "Fri, 05 Jun 2026"
     }
   ],
   "feed_101020": {
     "macro": [
       {
-        "title": "2026 RealTrends Verified: Joe McNally Team scores top-30 small teams ranking",
-        "url": "https://www.housingwire.com/articles/2026-realtrends-verified-joe-mcnally-team-scores-top-30-small-teams-ranking/",
-        "what": "The Michigan firm earned the No",
-        "numbers": "28, 2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-realtrends-verified-joe-mcnally-team-scores-top-30-small-teams-ranking/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "The Iran conflict hasn’t pushed oil and yields higher this week — here’s why",
+        "url": "https://www.housingwire.com/articles/the-iran-conflict-hasnt-pushed-oil-and-yields-higher-this-week-heres-why/",
+        "what": "Mortgage rates and oil prices haven’t skyrocketed",
+        "numbers": "10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-iran-conflict-hasnt-pushed-oil-and-yields-higher-this-week-heres-why/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "More plaintiffs join Unison HEI class-action lawsuit in Colorado",
+        "url": "https://www.housingwire.com/articles/unison-colorado-hei-lawsuit/",
+        "what": "Two plaintiffs have joined a federal class-action lawsuit in Colorado against home equity investment company Unison Agreement Corp",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/unison-colorado-hei-lawsuit/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "NAHB: Input cost inflation reaccelerates, squeezing builder margins",
+        "url": "https://www.housingwire.com/articles/residential-building-input-costs-reaccelerate-nahb-may-2026/",
+        "what": "Residential construction input costs jumped in May at their fastest pace in more than three years, putting fresh pressure on builder margins and project underwriting just as many builders were counting on cost stability to offset higher mortgage rates",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/residential-building-input-costs-reaccelerate-nahb-may-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Record Home Prices, High Mortgage Rates Push Pending Sales Down for Fourth Straight Week",
+        "url": "https://www.redfin.com/news/housing-market-update-record-high-home-prices-sales-decline/",
+        "what": "High housing costs and economic instability are driving would-be buyers away",
+        "numbers": "$400,894, 7,, 1.5, $400,000,",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-record-high-home-prices-sales-decline/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Mortgage Rates Unaffected, Fed Likely to Hold Rates Steady on Latest Inflation Data",
@@ -250,6 +277,24 @@
     ],
     "housing": [
       {
+        "title": "Google expands real estate listing ads to all 50 states",
+        "url": "https://www.housingwire.com/articles/google-listing-ads-nationwide/",
+        "what": "Google is expanding enhanced LSAs for home listings to 50 states, showing listing details and routing leads to local agents.",
+        "numbers": "50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/google-listing-ads-nationwide/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Private listings and the risk of lower home sale prices",
+        "url": "https://www.housingwire.com/articles/private-listings-and-the-risk-of-lower-home-sale-prices/",
+        "what": "Op-ed warns private listings can limit buyer reach, weaken price discovery and increase conflicts for agents.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/private-listings-and-the-risk-of-lower-home-sale-prices/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Opinion: Congress, don’t mock homeownership month: Fix or flush 21st Century ROAD to Housing Act",
         "url": "https://www.housingwire.com/articles/road-act-demand-subsidies-opinion/",
         "what": "Critics argue that the 21st Century ROAD to Housing Act fails to address the root causes of the housing crisis and relies too heavily on demand-side subsidies instead of boosting supply",
@@ -268,24 +313,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Homebuilders are using AI-powered ERP to find margin leaks faster",
-        "url": "https://www.housingwire.com/articles/ai-erp-homebuilding-margin-leaks/",
-        "what": "No homebuilder would have asked for the headwinds that 2026 brought to both would-be homebuyers and the organizations that serve them",
-        "numbers": "2026, 19, 2020,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-erp-homebuilding-margin-leaks/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "MBA white paper urges unified AI framework for mortgage lenders",
-        "url": "https://www.housingwire.com/articles/mba-white-paper-ai/",
-        "what": "The Mortgage Bankers Association is urging the mortgage industry to develop a unified framework for managing artificial intelligence as lenders increasingly deploy AI tools across",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-white-paper-ai/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Nashville, Miami and Austin–Once Pandemic Homebuying Hotspots–Are This Spring’s Strongest Buyer’s Markets",
         "url": "https://www.redfin.com/news/buyers-vs-sellers-may-2026/",
         "what": "35 of the 50 most populous U.S",
@@ -293,60 +320,33 @@
         "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-may-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Redfin Agents Shine in National RealTrends Verified Rankings",
-        "url": "https://www.redfin.com/news/realtrends-verified-2026/",
-        "what": "More than 1,200 Redfin agents were named among the country’s best real estate professionals by RealTrends Verified, an independently verified ranking of the top real estate agents and teams in the U.S",
-        "numbers": "1,200",
-        "justified": "redfin.com — https://www.redfin.com/news/realtrends-verified-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
+      {
+        "title": "MISMO launches FRAME AI governance toolkit",
+        "url": "https://www.housingwire.com/articles/mismo-frame-ai-toolkit/",
+        "what": "MISMO launched FRAME, an AI governance toolkit with templates, inventories, and risk tools for lenders, servicers, and vendors.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mismo-frame-ai-toolkit/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "CMLS names Jessica Edgerton as CEO",
+        "url": "https://www.housingwire.com/articles/cmls-jessica-edgerton-ceo/",
+        "what": "CMLS appointed Jessica Edgerton as CEO effective July 1, joining from LeadingRE where she served nine years as chief legal officer.",
+        "numbers": "1,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cmls-jessica-edgerton-ceo/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "One year later: How UWM’s Mia is reshaping borrower engagement",
         "url": "https://www.housingwire.com/articles/uwm-mia-borrower-engagement/",
         "what": "UWM CTO Jason Bressler shares how Mia evolved from an AI assistant into a broker engagement tool powering millions of borrower conversations.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-mia-borrower-engagement/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "White House taps Brian Johnson to lead CFPB",
-        "url": "https://www.housingwire.com/articles/johnson-nominated-cfpb/",
-        "what": "The White House has sent the nomination of Brian Johnson to serve as director of the Consumer Financial Protection Bureau (CFPB) to the Senate, according to a notice filed on Wedne",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/johnson-nominated-cfpb/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Unlock closes $358.5M home equity agreement securitization",
-        "url": "https://www.housingwire.com/articles/unlock-3585m-hea-securitization/",
-        "what": "Unlock Technologies closed a $358.5 million home equity agreement securitization, the largest HEA deal of 2026, attracting investor demand.",
-        "numbers": "$358.5 million, 2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/unlock-3585m-hea-securitization/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Logan Finance hires Mark Luzi to lead Western sales",
-        "url": "https://www.housingwire.com/articles/logan-finance-mark-luzi/",
-        "what": "Non-QM lender Logan Finance hired Mark Luzi as Western managing director of sales, effective May 26, to lead broker and correspondent business.",
-        "numbers": "26,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/logan-finance-mark-luzi/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Veterans United seeks dismissal of amended RESPA class-action complaint",
-        "url": "https://www.housingwire.com/articles/veterans-united-respa-dismissal/",
-        "what": "Veterans United Home Loans and its real estate brokerage affiliate are pushing back against an amended class-action lawsuit accusing the companies of operating an illegal kickback",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/veterans-united-respa-dismissal/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
