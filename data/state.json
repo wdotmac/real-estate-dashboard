@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-12 11:08 UTC",
+  "as_of": "2026-06-12 14:15 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Frame the home inspection so buyers don’t walk after the report",
+      "link": "https://www.housingwire.com/articles/pre-inspection-script-buyers/",
+      "published": "Fri, 12 Jun 2026"
+    },
+    {
+      "title": "OneTrust sues UWM, E Mortgage Capital over trade secret theft",
+      "link": "https://www.housingwire.com/articles/onetrust-uwm-emc-lawsuit/",
+      "published": "Fri, 12 Jun 2026"
+    },
+    {
       "title": "Veteran housing policy needs a preservation strategy",
       "link": "https://www.housingwire.com/articles/veteran-housing-preservation-strategy/",
       "published": "Fri, 12 Jun 2026"
@@ -160,14 +170,9 @@
       "published": "Thu, 11 Jun 2026"
     },
     {
-      "title": "Rechat adds custom app building features",
-      "link": "https://www.housingwire.com/articles/rechat-adds-custom-app-building-features/",
-      "published": "Thu, 11 Jun 2026"
-    },
-    {
-      "title": "New York reform prioritizes housing production over climate review",
-      "link": "https://www.housingwire.com/articles/new-york-seqra-reform/",
-      "published": "Thu, 11 Jun 2026"
+      "title": "SpaceX Employees Could Buy 2 in 5 San Antonio Homes With Their IPO Windfall",
+      "link": "https://www.redfin.com/news/spacex-ipo-housing-wealth/",
+      "published": "Fri, 12 Jun 2026"
     },
     {
       "title": "Record Home Prices, High Mortgage Rates Push Pending Sales Down for Fourth Straight Week",
@@ -193,11 +198,6 @@
       "title": "Rising Rates Stall Housing Market Momentum Just After Closed Home Sales Hit Highest Level Since 2022",
       "link": "https://www.redfin.com/news/rising-rates-stall-housing-market-momentum/",
       "published": "Mon, 08 Jun 2026"
-    },
-    {
-      "title": "Strong Jobs Report Pushes Mortgage Rates Higher, Reopening the Door to Future Fed Hikes",
-      "link": "https://www.redfin.com/news/strong-jobs-report-pushes-mortgage-rates-higher-reopening-the-door-to-future-fed-hikes/",
-      "published": "Fri, 05 Jun 2026"
     }
   ],
   "feed_101020": {
@@ -246,18 +246,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/rising-rates-stall-housing-market-momentum/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Strong Jobs Report Pushes Mortgage Rates Higher, Reopening the Door to Future Fed Hikes",
-        "url": "https://www.redfin.com/news/strong-jobs-report-pushes-mortgage-rates-higher-reopening-the-door-to-future-fed-hikes/",
-        "what": "Takeaway: Today’s jobs report will lead to higher mortgage rates as it is strong enough to open the door for Fed officials to debate hikes at the next meeting",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/strong-jobs-report-pushes-mortgage-rates-higher-reopening-the-door-to-future-fed-hikes/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "OneTrust sues UWM, E Mortgage Capital over trade secret theft",
+        "url": "https://www.housingwire.com/articles/onetrust-uwm-emc-lawsuit/",
+        "what": "Company claims a coordinated scheme to poach staff, steal trade secrets and divert more than $31 million in loan volume.",
+        "numbers": "$31 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/onetrust-uwm-emc-lawsuit/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "SpaceX Employees Could Buy 2 in 5 San Antonio Homes With Their IPO Windfall",
+        "url": "https://www.redfin.com/news/spacex-ipo-housing-wealth/",
+        "what": "The massive IPO would create enough wealth for SpaceX employees to buy roughly 40% of all the homes in San Antonio, one of the closest major metros to where the company is headquartered",
+        "numbers": "40, 80, 2, 5",
+        "justified": "redfin.com — https://www.redfin.com/news/spacex-ipo-housing-wealth/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Veteran housing policy needs a preservation strategy",
         "url": "https://www.housingwire.com/articles/veteran-housing-preservation-strategy/",
@@ -295,15 +304,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Washington agents now face limits on private listings",
-        "url": "https://www.housingwire.com/articles/washington-listing-law-private-marketing/",
-        "what": "Washington SB 6091 now requires broad public marketing of residential listings, with a health or safety exception for sellers.",
-        "numbers": "6091",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/washington-listing-law-private-marketing/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "Nashville, Miami and Austin–Once Pandemic Homebuying Hotspots–Are This Spring’s Strongest Buyer’s Markets",
         "url": "https://www.redfin.com/news/buyers-vs-sellers-may-2026/",
         "what": "35 of the 50 most populous U.S",
@@ -314,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Frame the home inspection so buyers don’t walk after the report",
+        "url": "https://www.housingwire.com/articles/pre-inspection-script-buyers/",
+        "what": "Use a three-minute pre inspection script so buyers expect a thick report, stay calm and focus on real repairs and negotiation.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pre-inspection-script-buyers/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Buffini & Company adds three senior executives to scale coaching",
         "url": "https://www.housingwire.com/articles/buffini-adds-senior-execs/",
@@ -338,15 +347,6 @@
         "what": "The Horak Group was No",
         "numbers": "16, 2026, 247, 2025.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/2026-realtrends-verified-family-ties-drive-success-for-the-horak-group/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Jay Clayton tapped for DNI role as Congress pushes back on Pulte",
-        "url": "https://www.housingwire.com/articles/pulte-clayton-dni/",
-        "what": "President Donald Trump announced on social media the nomination of Jay Clayton, the U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pulte-clayton-dni/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
