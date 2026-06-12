@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-12 14:15 UTC",
+  "as_of": "2026-06-12 17:17 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "As housing costs outpace wages, LISC’s Michael Pugh calls for action",
+      "link": "https://www.housingwire.com/articles/lisc-housing-costs-outpace-wages/",
+      "published": "Fri, 12 Jun 2026"
+    },
+    {
+      "title": "2026 RealTrends Verified: Perry Group scales in Utah with systems and culture",
+      "link": "https://www.housingwire.com/articles/perry-group-realtrends-ranking/",
+      "published": "Fri, 12 Jun 2026"
+    },
+    {
+      "title": "Why homebuilders still tend to misread the trade labor shortage",
+      "link": "https://www.housingwire.com/articles/five-focusing-steps-labor-shortage/",
+      "published": "Fri, 12 Jun 2026"
+    },
+    {
       "title": "Frame the home inspection so buyers don’t walk after the report",
       "link": "https://www.housingwire.com/articles/pre-inspection-script-buyers/",
       "published": "Fri, 12 Jun 2026"
@@ -153,21 +168,6 @@
       "title": "Veteran housing policy needs a preservation strategy",
       "link": "https://www.housingwire.com/articles/veteran-housing-preservation-strategy/",
       "published": "Fri, 12 Jun 2026"
-    },
-    {
-      "title": "Continuity is becoming the new competitive advantage in homebuilder sales",
-      "link": "https://www.housingwire.com/articles/homebuilder-sales-continuity-advantage/",
-      "published": "Fri, 12 Jun 2026"
-    },
-    {
-      "title": "Stylecraft Builders’ micro approach to margin, pace and growth",
-      "link": "https://www.housingwire.com/articles/stylecraft-builders-margin-pace-and-growth/",
-      "published": "Thu, 11 Jun 2026"
-    },
-    {
-      "title": "Buffini & Company adds three senior executives to scale coaching",
-      "link": "https://www.housingwire.com/articles/buffini-adds-senior-execs/",
-      "published": "Thu, 11 Jun 2026"
     },
     {
       "title": "SpaceX Employees Could Buy 2 in 5 San Antonio Homes With Their IPO Windfall",
@@ -250,6 +250,24 @@
     ],
     "housing": [
       {
+        "title": "As housing costs outpace wages, LISC’s Michael Pugh calls for action",
+        "url": "https://www.housingwire.com/articles/lisc-housing-costs-outpace-wages/",
+        "what": "LISC says 69% of Americans are very concerned about housing costs and warns a 7 million-unit shortage is growing as prices outpace wages.",
+        "numbers": "69, 7 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lisc-housing-costs-outpace-wages/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Why homebuilders still tend to misread the trade labor shortage",
+        "url": "https://www.housingwire.com/articles/five-focusing-steps-labor-shortage/",
+        "what": "As new home sales decline across the country, solving the trade labor shortage has become a lower priority for most production homebuilders",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/five-focusing-steps-labor-shortage/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "OneTrust sues UWM, E Mortgage Capital over trade secret theft",
         "url": "https://www.housingwire.com/articles/onetrust-uwm-emc-lawsuit/",
         "what": "Company claims a coordinated scheme to poach staff, steal trade secrets and divert more than $31 million in loan volume.",
@@ -286,24 +304,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "New York reform prioritizes housing production over climate review",
-        "url": "https://www.housingwire.com/articles/new-york-seqra-reform/",
-        "what": "New York state’s most sweeping reform of a 50-year-old environmental review law is on the books",
-        "numbers": "50",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-york-seqra-reform/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "eXp World completes AGNT name change, relocates to Texas",
-        "url": "https://www.housingwire.com/articles/exp-world-agnt-texas/",
-        "what": "AGNT finalizes eXp World rebrand and Texas redomestication, citing Texas fiduciary rules that consider agents.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-world-agnt-texas/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "Nashville, Miami and Austin–Once Pandemic Homebuying Hotspots–Are This Spring’s Strongest Buyer’s Markets",
         "url": "https://www.redfin.com/news/buyers-vs-sellers-may-2026/",
         "what": "35 of the 50 most populous U.S",
@@ -314,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "2026 RealTrends Verified: Perry Group scales in Utah with systems and culture",
+        "url": "https://www.housingwire.com/articles/perry-group-realtrends-ranking/",
+        "what": "Perry Group, brokered by The Real Brokerage, grew to 250 licensed pros and five offices, aiming for 2,000 sides in 2026.",
+        "numbers": "250, 2,000, 2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/perry-group-realtrends-ranking/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Frame the home inspection so buyers don’t walk after the report",
         "url": "https://www.housingwire.com/articles/pre-inspection-script-buyers/",
@@ -338,15 +347,6 @@
         "what": "Developers can build custom interfaces that run directly within the Rechat environment, while still being hosted on the developer’s servers.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/rechat-adds-custom-app-building-features/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "2026 RealTrends Verified: Family ties drive success for The Horak Group",
-        "url": "https://www.housingwire.com/articles/2026-realtrends-verified-family-ties-drive-success-for-the-horak-group/",
-        "what": "The Horak Group was No",
-        "numbers": "16, 2026, 247, 2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-realtrends-verified-family-ties-drive-success-for-the-horak-group/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
