@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-13 20:40 UTC",
+  "as_of": "2026-06-13 22:18 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Why housing demand is up and inventory is down in 2026",
+      "link": "https://www.housingwire.com/articles/housing-demand-inventory-2026pending-sales-rose-to-75856-vs-72039-in-2025-as-inventory-turned-negative-year-over-year-with-mortgage-rates-near-6-58/",
+      "published": "Sat, 13 Jun 2026"
+    },
+    {
       "title": "HUD would permit multi-story manufactured homes without a permanent chassis",
       "link": "https://www.housingwire.com/articles/hud-would-permit-multi-story-manufactured-homes-without-a-permanent-chassis/",
       "published": "Fri, 12 Jun 2026"
@@ -162,11 +167,6 @@
     {
       "title": "2026 RealTrends Verified: Journey from intern to owner fuels David Banks Team’s record year",
       "link": "https://www.housingwire.com/articles/2026-realtrends-verified-journey-from-intern-to-owner-fuels-david-banks-teams-record-year/",
-      "published": "Fri, 12 Jun 2026"
-    },
-    {
-      "title": "AI-native lending platform Copperlane lands $4.1M seed round",
-      "link": "https://www.housingwire.com/articles/copperlane-ai-mortgage-seed/",
       "published": "Fri, 12 Jun 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Why housing demand is up and inventory is down in 2026",
+        "url": "https://www.housingwire.com/articles/housing-demand-inventory-2026pending-sales-rose-to-75856-vs-72039-in-2025-as-inventory-turned-negative-year-over-year-with-mortgage-rates-near-6-58/",
+        "what": "Pending sales rose to 75,856 vs 72,039 in 2025 as inventory turned negative year over year with mortgage rates near 6.58%.",
+        "numbers": "75,856, 72,039, 2025, 6.58",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-demand-inventory-2026pending-sales-rose-to-75856-vs-72039-in-2025-as-inventory-turned-negative-year-over-year-with-mortgage-rates-near-6-58/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Markets await Warsh’s first meeting as Fed chair",
         "url": "https://www.housingwire.com/articles/warsh-fed-debut-cpi/",
@@ -284,15 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/lennar-q2-2026-land-light/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Guild pushes GSEs to scale residual income analysis",
-        "url": "https://www.housingwire.com/articles/gse-residual-income-guild/",
-        "what": "Guild Mortgage is advocating for Fannie Mae and Freddie Mac to adopt residual income analysis at scale through ongoing conversations and data sharing.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/gse-residual-income-guild/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "SpaceX Employees Could Buy 2 in 5 San Antonio Homes With Their IPO Windfall",
