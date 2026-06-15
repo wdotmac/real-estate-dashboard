@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-14 22:34 UTC",
+  "as_of": "2026-06-15 01:40 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "How much will mortgage rates fall with the Iran deal and Fed week?",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-iran-fed-week/",
+      "published": "Mon, 15 Jun 2026"
+    },
+    {
       "title": "Why housing demand is up and inventory is down in 2026",
       "link": "https://www.housingwire.com/articles/housing-demand-inventory-2026pending-sales-rose-to-75856-vs-72039-in-2025-as-inventory-turned-negative-year-over-year-with-mortgage-rates-near-6-58/",
       "published": "Sat, 13 Jun 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Lennar Q2 2026 results test the land-light model",
       "link": "https://www.housingwire.com/articles/lennar-q2-2026-land-light/",
-      "published": "Fri, 12 Jun 2026"
-    },
-    {
-      "title": "2026 RealTrends Verified: Journey from intern to owner fuels David Banks Team’s record year",
-      "link": "https://www.housingwire.com/articles/2026-realtrends-verified-journey-from-intern-to-owner-fuels-david-banks-teams-record-year/",
       "published": "Fri, 12 Jun 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "How much will mortgage rates fall with the Iran deal and Fed week?",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-iran-fed-week/",
+        "what": "The 10-year yield is 4.43% and mortgage rates are 6.58%, with Fed week and inflation data setting the next move.",
+        "numbers": "10, 4.43, 6.58",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-iran-fed-week/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Why housing demand is up and inventory is down in 2026",
         "url": "https://www.housingwire.com/articles/housing-demand-inventory-2026pending-sales-rose-to-75856-vs-72039-in-2025-as-inventory-turned-negative-year-over-year-with-mortgage-rates-near-6-58/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/google-idx-licensing-questions/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "2026 RealTrends Verified: Ivan & Mike Team ride ultra-luxury wave in Miami",
-        "url": "https://www.housingwire.com/articles/2026-realtrends-verified-ivan-mike-team-ride-ultra-luxury-wave-in-miami/",
-        "what": "Led by co-founders Ivan Chorney and Michael Martirena, the team has built a business focused on affluent buyers from Miami to Palm Beach.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-realtrends-verified-ivan-mike-team-ride-ultra-luxury-wave-in-miami/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
