@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-15 07:38 UTC",
+  "as_of": "2026-06-15 14:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "The timing tax: How America’s rent calendar punishes the workers it should protect",
-      "link": "https://www.housingwire.com/articles/rent-timing-tax-workers/",
+      "title": "UWM fails to submit revised bid for Two Harbors, seller says",
+      "link": "https://www.housingwire.com/articles/uwm-revised-bid-two-harbors/",
       "published": "Mon, 15 Jun 2026"
     },
     {
-      "title": "Why your best agents leave (and the conversations you should be having now)",
-      "link": "https://www.housingwire.com/articles/real-estate-agent-retention-conversations/",
+      "title": "MLSs should negotiate data licensing together under an alliance",
+      "link": "https://www.housingwire.com/articles/mls-data-licensing-alliance/",
       "published": "Mon, 15 Jun 2026"
     },
     {
-      "title": "How much will mortgage rates fall with the Iran deal and Fed week?",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-iran-fed-week/",
+      "title": "Brokerages say 97% of real estate agents use AI, the results tell a different story",
+      "link": "https://www.housingwire.com/articles/real-estate-ai-adoption-gap/",
       "published": "Mon, 15 Jun 2026"
     },
     {
-      "title": "Why housing demand is up and inventory is down in 2026",
-      "link": "https://www.housingwire.com/articles/housing-demand-inventory-2026pending-sales-rose-to-75856-vs-72039-in-2025-as-inventory-turned-negative-year-over-year-with-mortgage-rates-near-6-58/",
-      "published": "Sat, 13 Jun 2026"
+      "title": "MLS and portal battles are an unforced error for real estate",
+      "link": "https://www.housingwire.com/articles/mls-portal-battles-unforced-error/",
+      "published": "Mon, 15 Jun 2026"
     },
     {
-      "title": "HUD would permit multi-story manufactured homes without a permanent chassis",
-      "link": "https://www.housingwire.com/articles/hud-would-permit-multi-story-manufactured-homes-without-a-permanent-chassis/",
-      "published": "Fri, 12 Jun 2026"
+      "title": "NAF’s Shannon Robinson on home equity’s central role in retirement planning",
+      "link": "https://www.housingwire.com/articles/new-american-funding-home-equity-reverse-mortgage/",
+      "published": "Mon, 15 Jun 2026"
     },
     {
-      "title": "Report lays out wealth, housing gaps facing LGBTQ+ Gen Z",
-      "link": "https://www.housingwire.com/articles/report-lays-out-wealth-housing-gaps-facing-lgbtq-gen-z/",
-      "published": "Fri, 12 Jun 2026"
+      "title": "Tribal knowledge built this business. It can’t carry it.",
+      "link": "https://www.housingwire.com/articles/tribal-knowledge-education-gap/",
+      "published": "Mon, 15 Jun 2026"
     },
     {
       "title": "SpaceX Employees Could Buy 2 in 5 San Antonio Homes With Their IPO Windfall",
@@ -246,18 +246,36 @@
         "justified": "redfin.com — https://www.redfin.com/news/mortage-rates-still-risk-of-rising-strait-hormuz-still-closed/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Rising Rates Stall Housing Market Momentum Just After Closed Home Sales Hit Highest Level Since 2022",
-        "url": "https://www.redfin.com/news/rising-rates-stall-housing-market-momentum/",
-        "what": "Closed home sales jumped in May, reflecting April’s dipping mortgage rates and a strong labor market",
-        "numbers": "2022",
-        "justified": "redfin.com — https://www.redfin.com/news/rising-rates-stall-housing-market-momentum/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Brokerages say 97% of real estate agents use AI, the results tell a different story",
+        "url": "https://www.housingwire.com/articles/real-estate-ai-adoption-gap/",
+        "what": "Brokerages report 97% AI adoption, while agents use AI mainly for marketing, with gains concentrated among power users, per RPR.",
+        "numbers": "97",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-ai-adoption-gap/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "NAF’s Shannon Robinson on home equity’s central role in retirement planning",
+        "url": "https://www.housingwire.com/articles/new-american-funding-home-equity-reverse-mortgage/",
+        "what": "New American Funding is ramping up its push into reverse mortgages",
+        "numbers": "85",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-american-funding-home-equity-reverse-mortgage/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Tribal knowledge built this business. It can’t carry it.",
+        "url": "https://www.housingwire.com/articles/tribal-knowledge-education-gap/",
+        "what": "The mortgage industry can no longer rely on outdated \"tribal knowledge\" and apprenticeships to train originators in an increasingly complex, highly regulated and AI-driven market",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tribal-knowledge-education-gap/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "The timing tax: How America’s rent calendar punishes the workers it should protect",
         "url": "https://www.housingwire.com/articles/rent-timing-tax-workers/",
@@ -266,42 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/rent-timing-tax-workers/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "HUD would permit multi-story manufactured homes without a permanent chassis",
-        "url": "https://www.housingwire.com/articles/hud-would-permit-multi-story-manufactured-homes-without-a-permanent-chassis/",
-        "what": "HUD proposes expanding manufactured home rules for multi-story designs, allowing upper sections without a chassis that can cost $5,000 to $10,000.",
-        "numbers": "$5,000, $10,000.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-would-permit-multi-story-manufactured-homes-without-a-permanent-chassis/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Report lays out wealth, housing gaps facing LGBTQ+ Gen Z",
-        "url": "https://www.housingwire.com/articles/report-lays-out-wealth-housing-gaps-facing-lgbtq-gen-z/",
-        "what": "Respondents said heterosexual individuals are more likely than a LGBTQ+ person to receive financial support, such as down payment assistance.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/report-lays-out-wealth-housing-gaps-facing-lgbtq-gen-z/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Colorado’s Drive It Home financing kicks off with affordable condos",
-        "url": "https://www.housingwire.com/articles/drive-it-home-denver-condos/",
-        "what": "A small condominium project in Denver’s West Colfax neighborhood may be the best evidence yet that Colorado’s housing reforms are producing real results",
-        "numbers": "$5.7 million, 23",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/drive-it-home-denver-condos/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Lennar Q2 2026 results test the land-light model",
-        "url": "https://www.housingwire.com/articles/lennar-q2-2026-land-light/",
-        "what": "While the world gets swept up in the euphoria of SpaceX’s IPO, some of the rest of us remain anchored to a more down-to-earth – but no less fascinating – domain, where gravity’s still a thing",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lennar-q2-2026-land-light/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "SpaceX Employees Could Buy 2 in 5 San Antonio Homes With Their IPO Windfall",
@@ -324,29 +306,38 @@
     ],
     "notables": [
       {
+        "title": "UWM fails to submit revised bid for Two Harbors, seller says",
+        "url": "https://www.housingwire.com/articles/uwm-revised-bid-two-harbors/",
+        "what": "Two Harbors Investment Corp",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-revised-bid-two-harbors/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "MLSs should negotiate data licensing together under an alliance",
+        "url": "https://www.housingwire.com/articles/mls-data-licensing-alliance/",
+        "what": "The proposal calls for an MLS alliance to standardize data licensing terms, fund legal defense, and build shared technology using RESO.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-data-licensing-alliance/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "MLS and portal battles are an unforced error for real estate",
+        "url": "https://www.housingwire.com/articles/mls-portal-battles-unforced-error/",
+        "what": "An industry veteran says MLS and portal fights, lawsuits, and theatrics waste capital and raise regulatory risks, urging a reset.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-portal-battles-unforced-error/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Why your best agents leave (and the conversations you should be having now)",
         "url": "https://www.housingwire.com/articles/real-estate-agent-retention-conversations/",
         "what": "Top producers leave after quietly outgrowing the brokerage, feeling invisible or getting recruited with more specific support",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-agent-retention-conversations/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "2026 RealTrends Verified: Journey from intern to owner fuels David Banks Team’s record year",
-        "url": "https://www.housingwire.com/articles/2026-realtrends-verified-journey-from-intern-to-owner-fuels-david-banks-teams-record-year/",
-        "what": "The Portland-based operation ranked No",
-        "numbers": "40, 240",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-realtrends-verified-journey-from-intern-to-owner-fuels-david-banks-teams-record-year/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "AI-native lending platform Copperlane lands $4.1M seed round",
-        "url": "https://www.housingwire.com/articles/copperlane-ai-mortgage-seed/",
-        "what": "Copperlane raised $4.1M in seeding funding, led by TQ Ventures, to scale Penny, an AI loan officer that reviews borrower docs in minutes.",
-        "numbers": "$4.1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/copperlane-ai-mortgage-seed/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
