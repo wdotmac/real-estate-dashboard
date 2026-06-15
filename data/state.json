@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-06-15 19:08 UTC",
+  "as_of": "2026-06-15 21:48 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.45,
-      "delta_bp_1d": -9.999999999999964
+      "yield_pct": 4.48,
+      "delta_bp_1d": 3.000000000000025
     },
     "mortgage_30y": {
       "rate_pct": 6.52,
@@ -140,33 +140,38 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Tepid spring selling, strong headwinds buffet builder confidence",
-      "link": "https://www.housingwire.com/articles/tepid-spring-selling-strong-headwinds-buffet-builder-confidence/",
+      "title": "Why more private homebuilders face a succession test now",
+      "link": "https://www.housingwire.com/articles/partners-building-succession-plan/",
       "published": "Mon, 15 Jun 2026"
     },
     {
-      "title": "Mortgage startup Copperlane targets origination inefficiencies with AI loan officer",
-      "link": "https://www.housingwire.com/articles/copperlane-founders-penny-ai/",
+      "title": "Zillow investor sues over Redfin rental syndication deal",
+      "link": "https://www.housingwire.com/articles/zillow-investor-suit-redfin-syndication/",
       "published": "Mon, 15 Jun 2026"
     },
     {
-      "title": "Ascent Developer Solutions adds Boston-area office",
-      "link": "https://www.housingwire.com/articles/ascent-developer-solutions-adds-boston-office/",
+      "title": "Saluda Grade brushes off macro concerns to bet on home equity resilience",
+      "link": "https://www.housingwire.com/articles/home-equity-credit-demand-saluda-grade/",
       "published": "Mon, 15 Jun 2026"
     },
     {
-      "title": "Title insurance premiums rise to $4.5B in Q1",
-      "link": "https://www.housingwire.com/articles/title-insurance-premiums-rise-to-4-5b-in-q1/",
+      "title": "Why hazard insurance is becoming a housing market constraint",
+      "link": "https://www.housingwire.com/articles/hazard-insurance-housing-markets/",
       "published": "Mon, 15 Jun 2026"
     },
     {
-      "title": "UWM fails to submit revised bid for Two Harbors, seller says",
-      "link": "https://www.housingwire.com/articles/uwm-revised-bid-two-harbors/",
+      "title": "HECM for Purchase has been grounded. Reverse mortgage pros are trying to give it wings",
+      "link": "https://www.housingwire.com/articles/nrmla-hecm-purchase-education/",
       "published": "Mon, 15 Jun 2026"
     },
     {
-      "title": "MLSs should negotiate data licensing together under an alliance",
-      "link": "https://www.housingwire.com/articles/mls-data-licensing-alliance/",
+      "title": "Jessica Edgerton’s plan for CMLS amid MLS uncertainty",
+      "link": "https://www.housingwire.com/articles/jessica-edgerton-cmls-mls-future/",
+      "published": "Mon, 15 Jun 2026"
+    },
+    {
+      "title": "Markets Eye Strait of Hormuz Reopening and Warsh’s First Fed Meeting as Key Tests This Week",
+      "link": "https://www.redfin.com/news/strait-hormuz-potential-reopening-kevin-warsh-first-fed-meeting/",
       "published": "Mon, 15 Jun 2026"
     },
     {
@@ -193,15 +198,19 @@
       "title": "This Week’s Inflation and Sentiment Data May Clarify the Fed’s Path",
       "link": "https://www.redfin.com/news/mortage-rates-still-risk-of-rising-strait-hormuz-still-closed/",
       "published": "Mon, 08 Jun 2026"
-    },
-    {
-      "title": "Rising Rates Stall Housing Market Momentum Just After Closed Home Sales Hit Highest Level Since 2022",
-      "link": "https://www.redfin.com/news/rising-rates-stall-housing-market-momentum/",
-      "published": "Mon, 08 Jun 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Markets Eye Strait of Hormuz Reopening and Warsh’s First Fed Meeting as Key Tests This Week",
+        "url": "https://www.redfin.com/news/strait-hormuz-potential-reopening-kevin-warsh-first-fed-meeting/",
+        "what": "This Week In A Nutshell: It’s going to be a big week with an announced deal that may open the Strait of Hormuz by Friday and Kevin Warsh’s first Fed meeting on Wednesday",
+        "numbers": "1",
+        "justified": "redfin.com — https://www.redfin.com/news/strait-hormuz-potential-reopening-kevin-warsh-first-fed-meeting/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Record Home Prices, High Mortgage Rates Push Pending Sales Down for Fourth Straight Week",
         "url": "https://www.redfin.com/news/housing-market-update-record-high-home-prices-sales-decline/",
@@ -219,18 +228,54 @@
         "justified": "redfin.com — https://www.redfin.com/news/cpi-may-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "This Week’s Inflation and Sentiment Data May Clarify the Fed’s Path",
-        "url": "https://www.redfin.com/news/mortage-rates-still-risk-of-rising-strait-hormuz-still-closed/",
-        "what": "This Week In A Nutshell: With the Strait of Hormuz still closed and fresh off a hot jobs report last week, rates are at risk of climbing further this week if Wednesday’s inflation data comes in above expectations",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/mortage-rates-still-risk-of-rising-strait-hormuz-still-closed/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Why more private homebuilders face a succession test now",
+        "url": "https://www.housingwire.com/articles/partners-building-succession-plan/",
+        "what": "A succession challenge homebuilding can no longer ignore A second U.S",
+        "numbers": "80",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/partners-building-succession-plan/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Zillow investor sues over Redfin rental syndication deal",
+        "url": "https://www.housingwire.com/articles/zillow-investor-suit-redfin-syndication/",
+        "what": "Investor sues Zillow over the Redfin rental syndication deal, alleging weak antitrust risk disclosure and stock drops after FTC action.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-investor-suit-redfin-syndication/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Saluda Grade brushes off macro concerns to bet on home equity resilience",
+        "url": "https://www.housingwire.com/articles/home-equity-credit-demand-saluda-grade/",
+        "what": "Alternative investment firm Saluda Grade doesn’t see the interest rate environment or the current signals of consumer financial stress taking the shine off home equity assets anyti",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/home-equity-credit-demand-saluda-grade/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Why hazard insurance is becoming a housing market constraint",
+        "url": "https://www.housingwire.com/articles/hazard-insurance-housing-markets/",
+        "what": "The U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hazard-insurance-housing-markets/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "HECM for Purchase has been grounded. Reverse mortgage pros are trying to give it wings",
+        "url": "https://www.housingwire.com/articles/nrmla-hecm-purchase-education/",
+        "what": "At last week’s Western Regional Meeting of the National Reverse Mortgage Lenders Association, a panel discussion focused on ways to jumpstart HECM for Purchase through educational",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nrmla-hecm-purchase-education/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Tepid spring selling, strong headwinds buffet builder confidence",
         "url": "https://www.housingwire.com/articles/tepid-spring-selling-strong-headwinds-buffet-builder-confidence/",
@@ -246,33 +291,6 @@
         "what": "Copperlane founders Athan Zhang and Brianna Lin discuss Penny, their AI-powered loan officer, and plans following a $4.1 million seed round.",
         "numbers": "$4.1 million",
         "justified": "housingwire.com — https://www.housingwire.com/articles/copperlane-founders-penny-ai/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Brokerages say 97% of real estate agents use AI, the results tell a different story",
-        "url": "https://www.housingwire.com/articles/real-estate-ai-adoption-gap/",
-        "what": "Brokerages report 97% AI adoption, while agents use AI mainly for marketing, with gains concentrated among power users, per RPR.",
-        "numbers": "97",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-ai-adoption-gap/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NAF’s Shannon Robinson on home equity’s central role in retirement planning",
-        "url": "https://www.housingwire.com/articles/new-american-funding-home-equity-reverse-mortgage/",
-        "what": "New American Funding is ramping up its push into reverse mortgages",
-        "numbers": "85",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-american-funding-home-equity-reverse-mortgage/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Tribal knowledge built this business. It can’t carry it.",
-        "url": "https://www.housingwire.com/articles/tribal-knowledge-education-gap/",
-        "what": "The mortgage industry can no longer rely on outdated \"tribal knowledge\" and apprenticeships to train originators in an increasingly complex, highly regulated and AI-driven market",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tribal-knowledge-education-gap/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -297,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "Jessica Edgerton’s plan for CMLS amid MLS uncertainty",
+        "url": "https://www.housingwire.com/articles/jessica-edgerton-cmls-mls-future/",
+        "what": "Jessica Edgerton takes over at CMLS, saying MLSs must defend neutral, timely data and engage in listing policy and broker talks.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/jessica-edgerton-cmls-mls-future/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Ascent Developer Solutions adds Boston-area office",
         "url": "https://www.housingwire.com/articles/ascent-developer-solutions-adds-boston-office/",
         "what": "Ascent launched a Boston-area hub to expand New England lending, citing demand from developers and $3B in originations since July 2024.",
@@ -311,33 +338,6 @@
         "what": "Title insurers paid nearly $151 million in claims during the first three months of 2026, down from $161 million in the first quarter of 2025.",
         "numbers": "$151 million, 2026,, $161 million, 2025.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/title-insurance-premiums-rise-to-4-5b-in-q1/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "UWM fails to submit revised bid for Two Harbors, seller says",
-        "url": "https://www.housingwire.com/articles/uwm-revised-bid-two-harbors/",
-        "what": "Two Harbors Investment Corp",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-revised-bid-two-harbors/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "MLSs should negotiate data licensing together under an alliance",
-        "url": "https://www.housingwire.com/articles/mls-data-licensing-alliance/",
-        "what": "The proposal calls for an MLS alliance to standardize data licensing terms, fund legal defense, and build shared technology using RESO.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-data-licensing-alliance/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "MLS and portal battles are an unforced error for real estate",
-        "url": "https://www.housingwire.com/articles/mls-portal-battles-unforced-error/",
-        "what": "An industry veteran says MLS and portal fights, lawsuits, and theatrics waste capital and raise regulatory risks, urging a reset.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-portal-battles-unforced-error/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
