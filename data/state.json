@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-16 11:33 UTC",
+  "as_of": "2026-06-16 17:20 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -11,8 +11,8 @@
       "delta_bp_wow": 3.9999999999999147
     },
     "starts": {
-      "level_saar": 1465.0,
-      "mom": -0.02786994027869938
+      "level_saar": 1177.0,
+      "mom": -0.15445402298850575
     }
   },
   "permits": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "The financing gap that keeps starter homes out of reach",
-      "link": "https://www.housingwire.com/articles/starter-home-financing-gap/",
+      "title": "Roomvu launches AI-built landing pages",
+      "link": "https://www.housingwire.com/articles/roomvu-launches-ai-built-landing-pages/",
       "published": "Tue, 16 Jun 2026"
     },
     {
-      "title": "What mortgage professionals need to know about reverse mortgages",
-      "link": "https://www.housingwire.com/articles/what-to-know-about-reverse-mortgages/",
+      "title": "RLTYco launches RLTYconsulting for brokerages and teams",
+      "link": "https://www.housingwire.com/articles/rltyco-launches-rltyconsulting-division/",
       "published": "Tue, 16 Jun 2026"
     },
     {
-      "title": "Fresh off seed round, BrokerBot eyes next phase of brokerage automation",
-      "link": "https://www.housingwire.com/articles/fresh-off-seed-round-brokerbot-eyes-next-phase-of-brokerage-automation/",
-      "published": "Mon, 15 Jun 2026"
+      "title": "Longevity emerges as key driver of luxury real estate demand",
+      "link": "https://www.housingwire.com/articles/longevity-emerges-as-key-driver-of-luxury-real-estate-demand/",
+      "published": "Tue, 16 Jun 2026"
     },
     {
-      "title": "Why more private homebuilders face a succession test now",
-      "link": "https://www.housingwire.com/articles/partners-building-succession-plan/",
-      "published": "Mon, 15 Jun 2026"
+      "title": "Mortgage rates recede slightly. Is there more to come as Iran conflict ends?",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-stabilize-us-iran/",
+      "published": "Tue, 16 Jun 2026"
     },
     {
-      "title": "Zillow investor sues over Redfin rental syndication deal",
-      "link": "https://www.housingwire.com/articles/zillow-investor-suit-redfin-syndication/",
-      "published": "Mon, 15 Jun 2026"
+      "title": "Mortgage brokers ask FHFA for 12-month delay of Fannie, Freddie condo rules",
+      "link": "https://www.housingwire.com/articles/fhfa-delay-condo-rules/",
+      "published": "Tue, 16 Jun 2026"
     },
     {
-      "title": "Saluda Grade brushes off macro concerns to bet on home equity resilience",
-      "link": "https://www.housingwire.com/articles/home-equity-credit-demand-saluda-grade/",
-      "published": "Mon, 15 Jun 2026"
+      "title": "Single women gain ground in affordable housing markets",
+      "link": "https://www.housingwire.com/articles/2025-hmda-single-women-affordable/",
+      "published": "Tue, 16 Jun 2026"
     },
     {
       "title": "Markets Eye Strait of Hormuz Reopening and Warsh’s First Fed Meeting as Key Tests This Week",
@@ -203,6 +203,33 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "RLTYco launches RLTYconsulting for brokerages and teams",
+        "url": "https://www.housingwire.com/articles/rltyco-launches-rltyconsulting-division/",
+        "what": "RLTYco launched RLTYconsulting, led by Danielle Garofalo and Scott Elwell, pairing growth strategy with tax, payroll and planning.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rltyco-launches-rltyconsulting-division/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Mortgage rates recede slightly. Is there more to come as Iran conflict ends?",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-stabilize-us-iran/",
+        "what": "Rates dropped slightly in the two days since President Donald Trump’s confirmation of a deal",
+        "numbers": "30, 6.73, 5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-stabilize-us-iran/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Mortgage brokers ask FHFA for 12-month delay of Fannie, Freddie condo rules",
+        "url": "https://www.housingwire.com/articles/fhfa-delay-condo-rules/",
+        "what": "The National Association of Mortgage Brokers (NAMB) is asking the Federal Housing Finance Agency (FHFA) to delay new Fannie Mae and Freddie Mac condominium project and property ins",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-delay-condo-rules/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Markets Eye Strait of Hormuz Reopening and Warsh’s First Fed Meeting as Key Tests This Week",
         "url": "https://www.redfin.com/news/strait-hormuz-potential-reopening-kevin-warsh-first-fed-meeting/",
         "what": "This Week In A Nutshell: It’s going to be a big week with an announced deal that may open the Strait of Hormuz by Friday and Kevin Warsh’s first Fed meeting on Wednesday",
@@ -232,76 +259,40 @@
     ],
     "housing": [
       {
-        "title": "The financing gap that keeps starter homes out of reach",
-        "url": "https://www.housingwire.com/articles/starter-home-financing-gap/",
-        "what": "Traditional mortgage systems lock out countless capable homebuyers who have the income and savings but lack standard W-2 documentation",
-        "numbers": "2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/starter-home-financing-gap/",
+        "title": "Single women gain ground in affordable housing markets",
+        "url": "https://www.housingwire.com/articles/2025-hmda-single-women-affordable/",
+        "what": "A 2025 HMDA analysis finds single women under 45 made 17.4% of New Orleans purchase loans vs 6.5% in San Jose and 11.4% nationally.",
+        "numbers": "2025, 45, 17.4, 6.5, 11.4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/2025-hmda-single-women-affordable/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Build Housing Affordably Act introduced in House",
+        "url": "https://www.housingwire.com/articles/build-housing-affordably-act-introduced-in-house/",
+        "what": "The measure would temporarily suspend the application of Build America, Buy America requirements for certain affordable housing projects.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/build-housing-affordably-act-introduced-in-house/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Sagent names Kenneth Posner chief financial officer",
+        "url": "https://www.housingwire.com/articles/sagent-posner-cfo/",
+        "what": "Sagent hired Kenneth Posner, a former Mr",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/sagent-posner-cfo/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "What mortgage professionals need to know about reverse mortgages",
-        "url": "https://www.housingwire.com/articles/what-to-know-about-reverse-mortgages/",
-        "what": "Finance of America explains how reverse mortgages, reverse second liens and housing wealth strategies are helping originators serve today's senior homeowners",
+        "title": "The private listings opt-out: impediment or enablement?",
+        "url": "https://www.housingwire.com/articles/private-listings-states/",
+        "what": "States adopt three private listings models, mandate public marketing, opt out warnings in statute or agency written forms.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/what-to-know-about-reverse-mortgages/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Why more private homebuilders face a succession test now",
-        "url": "https://www.housingwire.com/articles/partners-building-succession-plan/",
-        "what": "A succession challenge homebuilding can no longer ignore A second U.S",
-        "numbers": "80",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/partners-building-succession-plan/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Zillow investor sues over Redfin rental syndication deal",
-        "url": "https://www.housingwire.com/articles/zillow-investor-suit-redfin-syndication/",
-        "what": "Investor sues Zillow over the Redfin rental syndication deal, alleging weak antitrust risk disclosure and stock drops after FTC action.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-investor-suit-redfin-syndication/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Saluda Grade brushes off macro concerns to bet on home equity resilience",
-        "url": "https://www.housingwire.com/articles/home-equity-credit-demand-saluda-grade/",
-        "what": "Alternative investment firm Saluda Grade doesn’t see the interest rate environment or the current signals of consumer financial stress taking the shine off home equity assets anyti",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/home-equity-credit-demand-saluda-grade/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Why hazard insurance is becoming a housing market constraint",
-        "url": "https://www.housingwire.com/articles/hazard-insurance-housing-markets/",
-        "what": "The U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hazard-insurance-housing-markets/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "HECM for Purchase has been grounded. Reverse mortgage pros are trying to give it wings",
-        "url": "https://www.housingwire.com/articles/nrmla-hecm-purchase-education/",
-        "what": "At last week’s Western Regional Meeting of the National Reverse Mortgage Lenders Association, a panel discussion focused on ways to jumpstart HECM for Purchase through educational",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nrmla-hecm-purchase-education/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Tepid spring selling, strong headwinds buffet builder confidence",
-        "url": "https://www.housingwire.com/articles/tepid-spring-selling-strong-headwinds-buffet-builder-confidence/",
-        "what": "Builder confidence stayed low in June as executives cited buyer stress, deeper incentives, and uneven spring demand across markets.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tepid-spring-selling-strong-headwinds-buffet-builder-confidence/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/private-listings-states/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "SpaceX Employees Could Buy 2 in 5 San Antonio Homes With Their IPO Windfall",
@@ -311,35 +302,35 @@
         "justified": "redfin.com — https://www.redfin.com/news/spacex-ipo-housing-wealth/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Nashville, Miami and Austin–Once Pandemic Homebuying Hotspots–Are This Spring’s Strongest Buyer’s Markets",
-        "url": "https://www.redfin.com/news/buyers-vs-sellers-may-2026/",
-        "what": "35 of the 50 most populous U.S",
-        "numbers": "35, 50, 46.9, 6",
-        "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-may-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
       {
-        "title": "Fresh off seed round, BrokerBot eyes next phase of brokerage automation",
-        "url": "https://www.housingwire.com/articles/fresh-off-seed-round-brokerbot-eyes-next-phase-of-brokerage-automation/",
-        "what": "Since launching in early 2025, BrokerBot has been deployed across 240-plus brokerages and more than 30,000 agent users.",
-        "numbers": "2025,, 240, 30,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fresh-off-seed-round-brokerbot-eyes-next-phase-of-brokerage-automation/",
+        "title": "Roomvu launches AI-built landing pages",
+        "url": "https://www.housingwire.com/articles/roomvu-launches-ai-built-landing-pages/",
+        "what": "The tool includes templates designed for buyer lead generation, luxury property marketing market expertise positioning and more.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/roomvu-launches-ai-built-landing-pages/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Jessica Edgerton’s plan for CMLS amid MLS uncertainty",
-        "url": "https://www.housingwire.com/articles/jessica-edgerton-cmls-mls-future/",
-        "what": "Jessica Edgerton takes over at CMLS, saying MLSs must defend neutral, timely data and engage in listing policy and broker talks.",
+        "title": "Longevity emerges as key driver of luxury real estate demand",
+        "url": "https://www.housingwire.com/articles/longevity-emerges-as-key-driver-of-luxury-real-estate-demand/",
+        "what": "Researchers attributed demand in part to gains in financial markets and wealth creation among high net worth households.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/jessica-edgerton-cmls-mls-future/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/longevity-emerges-as-key-driver-of-luxury-real-estate-demand/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "AceableAgent, Tom Ferry launch Fast Track training for new real estate agents",
+        "url": "https://www.housingwire.com/articles/aceableagent-tom-ferry-launch-fast-track-training-for-new-real-estate-agents/",
+        "what": "AceableAgent and Tom Ferry launched Fast Track, a 25 video course with 11 chapters, plus scripts and business planning tools.",
+        "numbers": "25, 11",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/aceableagent-tom-ferry-launch-fast-track-training-for-new-real-estate-agents/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
