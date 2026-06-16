@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-06-16 17:20 UTC",
+  "as_of": "2026-06-16 21:19 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.48,
-      "delta_bp_1d": 3.000000000000025
+      "yield_pct": 4.47,
+      "delta_bp_1d": -1.0000000000000675
     },
     "mortgage_30y": {
       "rate_pct": 6.52,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Roomvu launches AI-built landing pages",
-      "link": "https://www.housingwire.com/articles/roomvu-launches-ai-built-landing-pages/",
+      "title": "What to look for in Kevin Warsh’s first Fed meeting",
+      "link": "https://www.housingwire.com/articles/warsh-fed-hawks-oil/",
       "published": "Tue, 16 Jun 2026"
     },
     {
-      "title": "RLTYco launches RLTYconsulting for brokerages and teams",
-      "link": "https://www.housingwire.com/articles/rltyco-launches-rltyconsulting-division/",
+      "title": "Builders slow starts in May to rebalance pricing and incentives",
+      "link": "https://www.housingwire.com/articles/builder-production-discipline/",
       "published": "Tue, 16 Jun 2026"
     },
     {
-      "title": "Longevity emerges as key driver of luxury real estate demand",
-      "link": "https://www.housingwire.com/articles/longevity-emerges-as-key-driver-of-luxury-real-estate-demand/",
+      "title": "FHFA pushes for direct power to sue for mortgage fraud",
+      "link": "https://www.housingwire.com/articles/fhfa-sue-mortgage-fraud/",
       "published": "Tue, 16 Jun 2026"
     },
     {
-      "title": "Mortgage rates recede slightly. Is there more to come as Iran conflict ends?",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-stabilize-us-iran/",
+      "title": "CoStar amicus brief denied in Zillow MRED Compass case",
+      "link": "https://www.housingwire.com/articles/costar-amicus-denied-zillow-mred/",
       "published": "Tue, 16 Jun 2026"
     },
     {
-      "title": "Mortgage brokers ask FHFA for 12-month delay of Fannie, Freddie condo rules",
-      "link": "https://www.housingwire.com/articles/fhfa-delay-condo-rules/",
+      "title": "Social Security funding gap widens in 2026 trustees report",
+      "link": "https://www.housingwire.com/articles/social-security-funding-gap-widens-in-2026-trustees-report/",
       "published": "Tue, 16 Jun 2026"
     },
     {
-      "title": "Single women gain ground in affordable housing markets",
-      "link": "https://www.housingwire.com/articles/2025-hmda-single-women-affordable/",
+      "title": "When will home sales finally return to normal?",
+      "link": "https://www.housingwire.com/articles/when-will-existing-home-sales-finally-return-to-normal/",
       "published": "Tue, 16 Jun 2026"
     },
     {
@@ -203,31 +203,58 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "RLTYco launches RLTYconsulting for brokerages and teams",
-        "url": "https://www.housingwire.com/articles/rltyco-launches-rltyconsulting-division/",
-        "what": "RLTYco launched RLTYconsulting, led by Danielle Garofalo and Scott Elwell, pairing growth strategy with tax, payroll and planning.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rltyco-launches-rltyconsulting-division/",
+        "title": "What to look for in Kevin Warsh’s first Fed meeting",
+        "url": "https://www.housingwire.com/articles/warsh-fed-hawks-oil/",
+        "what": "With oil at $75.80 and mortgage rates near 6.50%, housing is watching whether Warsh can keep the Fed patient on hikes.",
+        "numbers": "$75.80, 6.50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/warsh-fed-hawks-oil/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage rates recede slightly. Is there more to come as Iran conflict ends?",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-stabilize-us-iran/",
-        "what": "Rates dropped slightly in the two days since President Donald Trump’s confirmation of a deal",
-        "numbers": "30, 6.73, 5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-stabilize-us-iran/",
+        "title": "Builders slow starts in May to rebalance pricing and incentives",
+        "url": "https://www.housingwire.com/articles/builder-production-discipline/",
+        "what": "The real story in today’s Monthly New Residential Construction release from the Census Bureau isn’t a collapse in construction",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/builder-production-discipline/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage brokers ask FHFA for 12-month delay of Fannie, Freddie condo rules",
-        "url": "https://www.housingwire.com/articles/fhfa-delay-condo-rules/",
-        "what": "The National Association of Mortgage Brokers (NAMB) is asking the Federal Housing Finance Agency (FHFA) to delay new Fannie Mae and Freddie Mac condominium project and property ins",
+        "title": "FHFA pushes for direct power to sue for mortgage fraud",
+        "url": "https://www.housingwire.com/articles/fhfa-sue-mortgage-fraud/",
+        "what": "The Federal Housing Finance Agency (FHFA) and Director Bill Pulte are asking Congress for the power to bring civil lawsuits against individuals suspected of mortgage fraud.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-delay-condo-rules/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-sue-mortgage-fraud/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "CoStar amicus brief denied in Zillow MRED Compass case",
+        "url": "https://www.housingwire.com/articles/costar-amicus-denied-zillow-mred/",
+        "what": "Illinois federal judge denies CoStar bid to file an amicus brief in Zillow’s case against MRED and Compass, with a July hearing ahead.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-amicus-denied-zillow-mred/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Social Security funding gap widens in 2026 trustees report",
+        "url": "https://www.housingwire.com/articles/social-security-funding-gap-widens-in-2026-trustees-report/",
+        "what": "The 2026 Trustees Report estimates Social Security's 75-year funding gap at 4.42% of taxable payroll, up from 3.82% a year earlier.",
+        "numbers": "2026, 75, 4.42, 3.82",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/social-security-funding-gap-widens-in-2026-trustees-report/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Project NexusRE adds governance layer for MLS data and AI use",
+        "url": "https://www.housingwire.com/articles/project-nexusre-mls-ai-data/",
+        "what": "Project NexusRE from NorthstarMLS, REcore and WAV Group targets permissions, usage monitoring and accountability for AI access to listings.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/project-nexusre-mls-ai-data/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Markets Eye Strait of Hormuz Reopening and Warsh’s First Fed Meeting as Key Tests This Week",
@@ -259,40 +286,31 @@
     ],
     "housing": [
       {
-        "title": "Single women gain ground in affordable housing markets",
-        "url": "https://www.housingwire.com/articles/2025-hmda-single-women-affordable/",
-        "what": "A 2025 HMDA analysis finds single women under 45 made 17.4% of New Orleans purchase loans vs 6.5% in San Jose and 11.4% nationally.",
-        "numbers": "2025, 45, 17.4, 6.5, 11.4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/2025-hmda-single-women-affordable/",
+        "title": "When will home sales finally return to normal?",
+        "url": "https://www.housingwire.com/articles/when-will-existing-home-sales-finally-return-to-normal/",
+        "what": "Home sales are near 4.2 million, with lock-in preventing about 870,000 sales in 2026 and only about 5.8% decaying annually.",
+        "numbers": "4.2 million, 870,000, 2026, 5.8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/when-will-existing-home-sales-finally-return-to-normal/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Build Housing Affordably Act introduced in House",
-        "url": "https://www.housingwire.com/articles/build-housing-affordably-act-introduced-in-house/",
-        "what": "The measure would temporarily suspend the application of Build America, Buy America requirements for certain affordable housing projects.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/build-housing-affordably-act-introduced-in-house/",
+        "title": "Demand stop-loss: Can a court ruling revive H-1B buyer mojo?",
+        "url": "https://www.housingwire.com/articles/court-ruling-spark-fading-h-1b-buyer-demand/",
+        "what": "The court ruling on the $100,000 H-1B fee raises questions about localized housing demand, especially in markets such as Celina north of Dallas",
+        "numbers": "$100,000, 1",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/court-ruling-spark-fading-h-1b-buyer-demand/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Sagent names Kenneth Posner chief financial officer",
-        "url": "https://www.housingwire.com/articles/sagent-posner-cfo/",
-        "what": "Sagent hired Kenneth Posner, a former Mr",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sagent-posner-cfo/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The private listings opt-out: impediment or enablement?",
-        "url": "https://www.housingwire.com/articles/private-listings-states/",
-        "what": "States adopt three private listings models, mandate public marketing, opt out warnings in statute or agency written forms.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/private-listings-states/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+        "title": "New zoning laws won’t help housing starts grow",
+        "url": "https://www.housingwire.com/articles/housing-starts-completed-supply-122k/",
+        "what": "May housing starts fell 15.4% to 1.177M, while completed new homes for sale hit 122,000, a level that often limits new building.",
+        "numbers": "15.4, 1.177, 122,000,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-starts-completed-supply-122k/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "SpaceX Employees Could Buy 2 in 5 San Antonio Homes With Their IPO Windfall",
@@ -311,24 +329,6 @@
         "what": "The tool includes templates designed for buyer lead generation, luxury property marketing market expertise positioning and more.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/roomvu-launches-ai-built-landing-pages/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Longevity emerges as key driver of luxury real estate demand",
-        "url": "https://www.housingwire.com/articles/longevity-emerges-as-key-driver-of-luxury-real-estate-demand/",
-        "what": "Researchers attributed demand in part to gains in financial markets and wealth creation among high net worth households.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/longevity-emerges-as-key-driver-of-luxury-real-estate-demand/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "AceableAgent, Tom Ferry launch Fast Track training for new real estate agents",
-        "url": "https://www.housingwire.com/articles/aceableagent-tom-ferry-launch-fast-track-training-for-new-real-estate-agents/",
-        "what": "AceableAgent and Tom Ferry launched Fast Track, a 25 video course with 11 chapters, plus scripts and business planning tools.",
-        "numbers": "25, 11",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/aceableagent-tom-ferry-launch-fast-track-training-for-new-real-estate-agents/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
