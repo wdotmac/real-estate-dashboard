@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-16 21:19 UTC",
+  "as_of": "2026-06-16 23:47 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Taylor Morrison names Mike Carlo Sarasota division president",
+      "link": "https://www.housingwire.com/articles/taylor-morrison-mike-carlo-sarasota/",
+      "published": "Tue, 16 Jun 2026"
+    },
+    {
       "title": "What to look for in Kevin Warsh’s first Fed meeting",
       "link": "https://www.housingwire.com/articles/warsh-fed-hawks-oil/",
       "published": "Tue, 16 Jun 2026"
@@ -165,8 +170,8 @@
       "published": "Tue, 16 Jun 2026"
     },
     {
-      "title": "When will home sales finally return to normal?",
-      "link": "https://www.housingwire.com/articles/when-will-existing-home-sales-finally-return-to-normal/",
+      "title": "Florida Dominates May’s Most Expensive Home Sales, Led by a $75 Million Boca Raton Deal",
+      "link": "https://www.redfin.com/news/most-expensive-home-sales-may-2026/",
       "published": "Tue, 16 Jun 2026"
     },
     {
@@ -193,15 +198,19 @@
       "title": "Nashville, Miami and Austin–Once Pandemic Homebuying Hotspots–Are This Spring’s Strongest Buyer’s Markets",
       "link": "https://www.redfin.com/news/buyers-vs-sellers-may-2026/",
       "published": "Tue, 09 Jun 2026"
-    },
-    {
-      "title": "This Week’s Inflation and Sentiment Data May Clarify the Fed’s Path",
-      "link": "https://www.redfin.com/news/mortage-rates-still-risk-of-rising-strait-hormuz-still-closed/",
-      "published": "Mon, 08 Jun 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Taylor Morrison names Mike Carlo Sarasota division president",
+        "url": "https://www.housingwire.com/articles/taylor-morrison-mike-carlo-sarasota/",
+        "what": "Taylor Morrison appointed Mike Carlo president of its Sarasota division, citing his 25-plus years in homebuilding",
+        "numbers": "25, 7, 2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/taylor-morrison-mike-carlo-sarasota/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "What to look for in Kevin Warsh’s first Fed meeting",
         "url": "https://www.housingwire.com/articles/warsh-fed-hawks-oil/",
@@ -286,6 +295,15 @@
     ],
     "housing": [
       {
+        "title": "Florida Dominates May’s Most Expensive Home Sales, Led by a $75 Million Boca Raton Deal",
+        "url": "https://www.redfin.com/news/most-expensive-home-sales-may-2026/",
+        "what": "A Boca Raton mansion within a private golf course community and two apartments in New York City are among May’s most expensive home sales",
+        "numbers": "$75 Million",
+        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-may-2026/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "When will home sales finally return to normal?",
         "url": "https://www.housingwire.com/articles/when-will-existing-home-sales-finally-return-to-normal/",
         "what": "Home sales are near 4.2 million, with lock-in preventing about 870,000 sales in 2026 and only about 5.8% decaying annually.",
@@ -322,16 +340,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
-    "notables": [
-      {
-        "title": "Roomvu launches AI-built landing pages",
-        "url": "https://www.housingwire.com/articles/roomvu-launches-ai-built-landing-pages/",
-        "what": "The tool includes templates designed for buyer lead generation, luxury property marketing market expertise positioning and more.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/roomvu-launches-ai-built-landing-pages/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      }
-    ]
+    "notables": []
   }
 }
