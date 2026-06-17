@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-17 21:20 UTC",
+  "as_of": "2026-06-17 23:50 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "3 quick takes on Kevin Warsh’s first Fed meeting",
+      "link": "https://www.housingwire.com/articles/warsh-fed-policy-housing/",
+      "published": "Wed, 17 Jun 2026"
+    },
+    {
       "title": "The 10 best real estate marketing companies to boost your business in 2026",
       "link": "https://www.housingwire.com/articles/real-estate-marketing-companies/",
       "published": "Wed, 17 Jun 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Better Homes and Gardens Real Estate merger creates tri-state brokerage",
       "link": "https://www.housingwire.com/articles/better-homes-and-gardens-real-estate-merger-creates-tri-state-brokerage/",
-      "published": "Wed, 17 Jun 2026"
-    },
-    {
-      "title": "JP Piccinini joins The Real Brokerage as growth leader",
-      "link": "https://www.housingwire.com/articles/jp-piccinini-joins-the-real-brokerage-as-growth-leader/",
       "published": "Wed, 17 Jun 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "3 quick takes on Kevin Warsh’s first Fed meeting",
+        "url": "https://www.housingwire.com/articles/warsh-fed-policy-housing/",
+        "what": "Kevin Warsh called policy uneven for housing, ended dot plot guidance and launched a Fed task force as the 10-year yield sits near 4.50%.",
+        "numbers": "10, 4.50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/warsh-fed-policy-housing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage Rates Likely to Stay High For Now as Markets Digest Warsh’s First Fed Meeting",
         "url": "https://www.redfin.com/news/kevin-warsh-first-fed-meeting-june-2026/",
@@ -266,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/pnc-bank-closes-251-4-million-affordable-housing-fund/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Five lessons from the first half of the 2026 housing market",
-        "url": "https://www.housingwire.com/articles/2026-housing-market-first-half-review/",
-        "what": "What did the first half of 2026 reveal about housing demand, inventory and market strength",
-        "numbers": "2026, 2.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/2026-housing-market-first-half-review/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Former Red-Hot Seller’s Markets, Like Atlanta, Now Lead the Nation in Canceled Home Sales",
