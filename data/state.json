@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-06-17 18:34 UTC",
+  "as_of": "2026-06-17 21:20 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.47,
-      "delta_bp_1d": -1.0000000000000675
+      "yield_pct": 4.43,
+      "delta_bp_1d": -4.0000000000000036
     },
     "mortgage_30y": {
       "rate_pct": 6.52,
@@ -140,33 +140,38 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Real estate brokers: Earn more revenue by investing more in agents",
-      "link": "https://www.housingwire.com/articles/agent-retention-brokerage-systems/",
+      "title": "The 10 best real estate marketing companies to boost your business in 2026",
+      "link": "https://www.housingwire.com/articles/real-estate-marketing-companies/",
       "published": "Wed, 17 Jun 2026"
     },
     {
-      "title": "Warsh era at the Fed begins with rate pause amid spiking inflation",
-      "link": "https://www.housingwire.com/articles/fed-holds-rates-inflation-mortgage/",
+      "title": "When a bankrupt retailer buys a brokerage: What the Bed Bath & Beyond and Fathom deal signals",
+      "link": "https://www.housingwire.com/articles/fathom-bed-bath-beyond-control-entire-homeownership-journey/",
       "published": "Wed, 17 Jun 2026"
     },
     {
-      "title": "Five lessons from the first half of the 2026 housing market",
-      "link": "https://www.housingwire.com/articles/2026-housing-market-first-half-review/",
+      "title": "PNC Bank closes $251.4 million affordable housing fund",
+      "link": "https://www.housingwire.com/articles/pnc-bank-closes-251-4-million-affordable-housing-fund/",
       "published": "Wed, 17 Jun 2026"
     },
     {
-      "title": "Why pending home sales showed growth today amid higher rates",
-      "link": "https://www.housingwire.com/articles/pending-home-sales-rise/",
+      "title": "Double-take double jeopardy: Housing surnames for $100",
+      "link": "https://www.housingwire.com/articles/clayton-pulte-policy-mixup/",
       "published": "Wed, 17 Jun 2026"
     },
     {
-      "title": "David just beat Goliath for an NBA Title. Here’s the lesson for real estate agents facing giants.",
-      "link": "https://www.housingwire.com/articles/compete-portals-mega-teams/",
+      "title": "Better Homes and Gardens Real Estate merger creates tri-state brokerage",
+      "link": "https://www.housingwire.com/articles/better-homes-and-gardens-real-estate-merger-creates-tri-state-brokerage/",
       "published": "Wed, 17 Jun 2026"
     },
     {
-      "title": "Home Value Lock hires mortgage veteran Dave Hurt for advisory role",
-      "link": "https://www.housingwire.com/articles/home-value-lock-hires-mortgage-veteran-dave-hurt-for-advisory-role/",
+      "title": "JP Piccinini joins The Real Brokerage as growth leader",
+      "link": "https://www.housingwire.com/articles/jp-piccinini-joins-the-real-brokerage-as-growth-leader/",
+      "published": "Wed, 17 Jun 2026"
+    },
+    {
+      "title": "Mortgage Rates Likely to Stay High For Now as Markets Digest Warsh’s First Fed Meeting",
+      "link": "https://www.redfin.com/news/kevin-warsh-first-fed-meeting-june-2026/",
       "published": "Wed, 17 Jun 2026"
     },
     {
@@ -193,30 +198,34 @@
       "title": "Record Home Prices, High Mortgage Rates Push Pending Sales Down for Fourth Straight Week",
       "link": "https://www.redfin.com/news/housing-market-update-record-high-home-prices-sales-decline/",
       "published": "Thu, 11 Jun 2026"
-    },
-    {
-      "title": "Mortgage Rates Unaffected, Fed Likely to Hold Rates Steady on Latest Inflation Data",
-      "link": "https://www.redfin.com/news/cpi-may-2026/",
-      "published": "Wed, 10 Jun 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage Rates Likely to Stay High For Now as Markets Digest Warsh’s First Fed Meeting",
+        "url": "https://www.redfin.com/news/kevin-warsh-first-fed-meeting-june-2026/",
+        "what": "Takeaway: He’s no one’s sock puppet! Now that Kevin Warsh has the job, he’s ready to make changes",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/kevin-warsh-first-fed-meeting-june-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Double-take double jeopardy: Housing surnames for $100",
+        "url": "https://www.housingwire.com/articles/clayton-pulte-policy-mixup/",
+        "what": "Housing readers see Clayton and Pulte in DC headlines and assume builder deals, even when stories are unrelated to housing companies.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/clayton-pulte-policy-mixup/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "Warsh era at the Fed begins with rate pause amid spiking inflation",
         "url": "https://www.housingwire.com/articles/fed-holds-rates-inflation-mortgage/",
         "what": "The Federal Reserve on Wednesday left its benchmark interest rate unchanged at a target range of 3.5% to 3.75%, marking its fourth consecutive pause as it enters the Kevin Warsh er",
         "numbers": "3.5, 3.75",
         "justified": "housingwire.com — https://www.housingwire.com/articles/fed-holds-rates-inflation-mortgage/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Why pending home sales showed growth today amid higher rates",
-        "url": "https://www.housingwire.com/articles/pending-home-sales-rise/",
-        "what": "NAR data shows May pending sales rose 4.8% YoY, as mortgage spreads kept rates below 7% and inventory gains cooled prices.",
-        "numbers": "4.8, 7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pending-home-sales-rise/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -241,47 +250,29 @@
     ],
     "housing": [
       {
+        "title": "The 10 best real estate marketing companies to boost your business in 2026",
+        "url": "https://www.housingwire.com/articles/real-estate-marketing-companies/",
+        "what": "These leading real estate marketing companies help you enhance your branding and expertly market you and your listings to earn more in 2026.",
+        "numbers": "2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-marketing-companies/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "PNC Bank closes $251.4 million affordable housing fund",
+        "url": "https://www.housingwire.com/articles/pnc-bank-closes-251-4-million-affordable-housing-fund/",
+        "what": "PNC Bank closed a $251.4M LIHTC fund to back 16 properties and more than 1,700 affordable rentals nationwide",
+        "numbers": "$251.4, 16, 1,700",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pnc-bank-closes-251-4-million-affordable-housing-fund/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
         "title": "Five lessons from the first half of the 2026 housing market",
         "url": "https://www.housingwire.com/articles/2026-housing-market-first-half-review/",
         "what": "What did the first half of 2026 reveal about housing demand, inventory and market strength",
         "numbers": "2026, 2.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/2026-housing-market-first-half-review/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Home Value Lock hires mortgage veteran Dave Hurt for advisory role",
-        "url": "https://www.housingwire.com/articles/home-value-lock-hires-mortgage-veteran-dave-hurt-for-advisory-role/",
-        "what": "Mortgage banking veteran Dave Hurt has joined Home Value Lock as an adviser, bringing more than five decades of experience in capital markets, mortgage banking, servicing and risk",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/home-value-lock-hires-mortgage-veteran-dave-hurt-for-advisory-role/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "UWM announces doctor loan offering",
-        "url": "https://www.housingwire.com/articles/uwm-offering-doctor-loans/",
-        "what": "UWM launches doctor loans for medical professionals, offering low or no down payments, no mortgage insurance and flexible student debt rules.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-offering-doctor-loans/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Congress reaches bipartisan agreement on ROAD to Housing Act",
-        "url": "https://www.housingwire.com/articles/road-to-housing-act-senate-vote/",
-        "what": "Leaders in the House of Representatives and the Senate announced Tuesday that they have reached an agreement on the final version of the first comprehensive housing bill in a gener",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/road-to-housing-act-senate-vote/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Pending home sales rise in May across all U.S. regions",
-        "url": "https://www.housingwire.com/articles/pending-home-sales-rise-in-may-across-all-u-s-regions/",
-        "what": "The Pending Home Sales Index",
-        "numbers": "3.8, 4.8, 2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pending-home-sales-rise-in-may-across-all-u-s-regions/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
@@ -315,29 +306,47 @@
     ],
     "notables": [
       {
+        "title": "When a bankrupt retailer buys a brokerage: What the Bed Bath & Beyond and Fathom deal signals",
+        "url": "https://www.housingwire.com/articles/fathom-bed-bath-beyond-control-entire-homeownership-journey/",
+        "what": "The Bed Bath & Beyond-Fathom Holdings deal is part of a sustained push to own the entire homeownership journey.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fathom-bed-bath-beyond-control-entire-homeownership-journey/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Better Homes and Gardens Real Estate merger creates tri-state brokerage",
+        "url": "https://www.housingwire.com/articles/better-homes-and-gardens-real-estate-merger-creates-tri-state-brokerage/",
+        "what": "The deal merges Better Homes and Gardens Real Estate Maturo, Better Homes and Gardens Real Estate Dream Properties and Realty Connect USA.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-homes-and-gardens-real-estate-merger-creates-tri-state-brokerage/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "JP Piccinini joins The Real Brokerage as growth leader",
+        "url": "https://www.housingwire.com/articles/jp-piccinini-joins-the-real-brokerage-as-growth-leader/",
+        "what": "Under Piccinini, JPAR Real Estate expanded to roughly 4,000 agents across 22 states and generated $5 billion-plus in annual sales volume.",
+        "numbers": "4,000, 22, $5 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/jp-piccinini-joins-the-real-brokerage-as-growth-leader/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "The ‘Beyond’ is brokerage: Bed Bath & Beyond’s surprising bet on real estate",
+        "url": "https://www.housingwire.com/articles/bed-bath-beyond-fathom-deal/",
+        "what": "Bed Bath & Beyond plans to buy Fathom Holdings and bets on building an 'everything home' ecosystem",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bed-bath-beyond-fathom-deal/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Real estate brokers: Earn more revenue by investing more in agents",
         "url": "https://www.housingwire.com/articles/agent-retention-brokerage-systems/",
         "what": "A broker argues that better training, clearer commission incentives, and stronger culture can lift production and reduce agent churn.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/agent-retention-brokerage-systems/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "David just beat Goliath for an NBA Title. Here’s the lesson for real estate agents facing giants.",
-        "url": "https://www.housingwire.com/articles/compete-portals-mega-teams/",
-        "what": "An agent-focused strategy guide on competing with portals and large teams using preparation, follow-up and consistent outreach.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compete-portals-mega-teams/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "New York senior homeowners included in $2.1B property tax relief measure",
-        "url": "https://www.housingwire.com/articles/new-york-star-property-tax-relief-2026/",
-        "what": "Nearly 3 million New Yorkers will receive more than $2 billion in property tax relief this summer and fall through the state’s School Tax Relief (STAR) program.",
-        "numbers": "3 million, $2 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-york-star-property-tax-relief-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
