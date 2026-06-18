@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-18 20:38 UTC",
+  "as_of": "2026-06-18 23:04 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Retirement plan participation reaches record high, but financial pressures persist",
+      "link": "https://www.housingwire.com/articles/retirement-plan-participation-reaches-record-high-but-financial-pressures-persist/",
+      "published": "Thu, 18 Jun 2026"
+    },
+    {
+      "title": "Beazer refinancing raises Dream Finders deal cost by $53 million",
+      "link": "https://www.housingwire.com/articles/beazer-notes-change-control-cost/",
+      "published": "Thu, 18 Jun 2026"
+    },
+    {
+      "title": "With Warsh’s Fed overhaul, mortgage rates face a new risk",
+      "link": "https://www.housingwire.com/articles/warsh-fed-guidance-mortgage-volatility/",
+      "published": "Thu, 18 Jun 2026"
+    },
+    {
       "title": "HUD aims to help multi-story manufactured housing go vertical",
       "link": "https://www.housingwire.com/articles/hud-multistory-manufactured-homes/",
       "published": "Thu, 18 Jun 2026"
@@ -152,21 +167,6 @@
     {
       "title": "A search for a home in France shaped Real Brokerage CEO Tamir Poleg’s view on listing fragmentation",
       "link": "https://www.housingwire.com/articles/poleg-listing-fragmentation-risk/",
-      "published": "Thu, 18 Jun 2026"
-    },
-    {
-      "title": "Bed Bath & Beyond-Fathom deal part of industry’s new-ish ecosystem push",
-      "link": "https://www.housingwire.com/articles/bed-bath-beyond-fathom-deal-part-of-industrys-new-ish-ecosystem-push/",
-      "published": "Thu, 18 Jun 2026"
-    },
-    {
-      "title": "Don’t take the bait: The coordinated comms strategy for Zillow and Compass",
-      "link": "https://www.housingwire.com/articles/zillow-compass-pr-campaign/",
-      "published": "Thu, 18 Jun 2026"
-    },
-    {
-      "title": "Summit Sotheby’s International Realty shines in 2026 RealTrends rankings",
-      "link": "https://www.housingwire.com/articles/summit-sothebys-international-realty-shines-in-2026-realtrends-rankings/",
       "published": "Thu, 18 Jun 2026"
     },
     {
@@ -203,20 +203,29 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Retirement plan participation reaches record high, but financial pressures persist",
+        "url": "https://www.housingwire.com/articles/retirement-plan-participation-reaches-record-high-but-financial-pressures-persist/",
+        "what": "Nearly two-thirds of retirement plans now automatically enroll new participants at contribution rates of at least 4%.",
+        "numbers": "4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/retirement-plan-participation-reaches-record-high-but-financial-pressures-persist/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "With Warsh’s Fed overhaul, mortgage rates face a new risk",
+        "url": "https://www.housingwire.com/articles/warsh-fed-guidance-mortgage-volatility/",
+        "what": "Federal Reserve Chair Kevin Warsh’s new framework for the U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/warsh-fed-guidance-mortgage-volatility/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "New home applications fall 3% as mortgage rates top 6.5%",
         "url": "https://www.housingwire.com/articles/new-home-applications-fall-3-as-mortgage-rates-top-6-5/",
         "what": "MBA's Builder Application Survey reported new home purchase apps down 3% from April and up 3.8% year over year.",
         "numbers": "3, 3.8",
         "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-applications-fall-3-as-mortgage-rates-top-6-5/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Banking, housing finance groups urge Basel III capital rule changes",
-        "url": "https://www.housingwire.com/articles/basel-iii-capital-rules-changes/",
-        "what": "A broad coalition of banking and housing finance trade groups is urging federal regulators to scale back parts of the proposed Basel III capital rules, arguing that overlapping req",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/basel-iii-capital-rules-changes/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -259,15 +268,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Exclusive: House Democrat reintroduces bill targeting mortgage credit access",
-        "url": "https://www.housingwire.com/articles/nikema-williams-bill-mortgage-credit-access/",
-        "what": "The reintroduced legislation would require lenders to use consumer-permissioned data, rental and bank records, for applicants who request it.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nikema-williams-bill-mortgage-credit-access/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Housing Payments Hit 1-Year High, Sending Buyers to the Sidelines",
         "url": "https://www.redfin.com/news/housing-market-update-housing-payments-climb-buyers-back-away/",
         "what": "Pending home sales fell for the fifth week in a row, and new listings declined, too",
@@ -306,6 +306,15 @@
     ],
     "notables": [
       {
+        "title": "Beazer refinancing raises Dream Finders deal cost by $53 million",
+        "url": "https://www.housingwire.com/articles/beazer-notes-change-control-cost/",
+        "what": "For weeks, a central question surrounding Dream Finders Homes‘ pursuit of Beazer Homes has been unambiguous: Will Dream Finders’ offer for the company and its public relations campaign be enough to convince Beazer shareholders that a sale should occur? A just-completed debt refinancing by Beazer Homes likely raises the cost of any acquisition of Beazer",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/beazer-notes-change-control-cost/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Intent beats volume: What real estate teams are learning from AI-powered follow-up",
         "url": "https://www.housingwire.com/articles/ai-follow-up-intent-signals/",
         "what": "Insights from one million calls show intent based targeting, better context, and local numbers can improve appointment conversion.",
@@ -338,15 +347,6 @@
         "what": "Summit Sotheby's counts the No",
         "numbers": "1,, 7,, 8, 11, 20.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/summit-sothebys-international-realty-shines-in-2026-realtrends-rankings/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "California settlement forces MV Realty to void homeowner contracts",
-        "url": "https://www.housingwire.com/articles/california-settlement-forces-mv-realty-to-void-homeowner-contracts/",
-        "what": "MV Realty must cancel all homeowner contracts in California, terminate liens against affected properties and return early termination fees.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/california-settlement-forces-mv-realty-to-void-homeowner-contracts/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
