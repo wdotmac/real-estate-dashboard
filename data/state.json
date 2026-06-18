@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-18 13:42 UTC",
+  "as_of": "2026-06-18 17:28 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": -4.0000000000000036
     },
     "mortgage_30y": {
-      "rate_pct": 6.52,
-      "delta_bp_wow": 3.9999999999999147
+      "rate_pct": 6.47,
+      "delta_bp_wow": -4.999999999999982
     },
     "starts": {
       "level_saar": 1177.0,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Banking, housing finance groups urge Basel III capital rule changes",
+      "link": "https://www.housingwire.com/articles/basel-iii-capital-rules-changes/",
+      "published": "Thu, 18 Jun 2026"
+    },
+    {
+      "title": "California settlement forces MV Realty to void homeowner contracts",
+      "link": "https://www.housingwire.com/articles/california-settlement-forces-mv-realty-to-void-homeowner-contracts/",
+      "published": "Thu, 18 Jun 2026"
+    },
+    {
+      "title": "Exclusive: House Democrat reintroduces bill targeting mortgage credit access",
+      "link": "https://www.housingwire.com/articles/nikema-williams-bill-mortgage-credit-access/",
+      "published": "Thu, 18 Jun 2026"
+    },
+    {
       "title": "8 best Florida real estate schools for 2026",
       "link": "https://www.housingwire.com/articles/best-real-estate-schools-florida/",
       "published": "Thu, 18 Jun 2026"
@@ -152,21 +167,6 @@
     {
       "title": "How consumers are using AI and the impact on the role of the real estate agent",
       "link": "https://www.housingwire.com/articles/onsumer-ai-real-estate/",
-      "published": "Thu, 18 Jun 2026"
-    },
-    {
-      "title": "CertifID buys CloseSimple to merge security, closing automation",
-      "link": "https://www.housingwire.com/articles/certifid-buys-closesimple-to-merge-security-closing-automation/",
-      "published": "Thu, 18 Jun 2026"
-    },
-    {
-      "title": "Compass expands in northern Arizona",
-      "link": "https://www.housingwire.com/articles/compass-expands-in-northern-arizona/",
-      "published": "Thu, 18 Jun 2026"
-    },
-    {
-      "title": "The decision happens online now, but the leaders aren’t there",
-      "link": "https://www.housingwire.com/articles/personal-brand-trust/",
       "published": "Thu, 18 Jun 2026"
     },
     {
@@ -203,11 +203,11 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "3 quick takes on Kevin Warsh’s first Fed meeting",
-        "url": "https://www.housingwire.com/articles/warsh-fed-policy-housing/",
-        "what": "Kevin Warsh called policy uneven for housing, ended dot plot guidance and launched a Fed task force as the 10-year yield sits near 4.50%.",
-        "numbers": "10, 4.50",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/warsh-fed-policy-housing/",
+        "title": "Banking, housing finance groups urge Basel III capital rule changes",
+        "url": "https://www.housingwire.com/articles/basel-iii-capital-rules-changes/",
+        "what": "A broad coalition of banking and housing finance trade groups is urging federal regulators to scale back parts of the proposed Basel III capital rules, arguing that overlapping req",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/basel-iii-capital-rules-changes/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -231,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Exclusive: House Democrat reintroduces bill targeting mortgage credit access",
+        "url": "https://www.housingwire.com/articles/nikema-williams-bill-mortgage-credit-access/",
+        "what": "The reintroduced legislation would require lenders to use consumer-permissioned data, rental and bank records, for applicants who request it.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nikema-williams-bill-mortgage-credit-access/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "AI mortgage broker Ralo launches, raises $2.9M seed round",
         "url": "https://www.housingwire.com/articles/ralo-ai-mortgage-broker-seed/",
@@ -257,15 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-ma-foreign-scale/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The 10 best real estate marketing companies to boost your business in 2026",
-        "url": "https://www.housingwire.com/articles/real-estate-marketing-companies/",
-        "what": "These leading real estate marketing companies help you enhance your branding and expertly market you and your listings to earn more in 2026.",
-        "numbers": "2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-marketing-companies/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Former Red-Hot Seller’s Markets, Like Atlanta, Now Lead the Nation in Canceled Home Sales",
@@ -296,6 +296,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "California settlement forces MV Realty to void homeowner contracts",
+        "url": "https://www.housingwire.com/articles/california-settlement-forces-mv-realty-to-void-homeowner-contracts/",
+        "what": "MV Realty must cancel all homeowner contracts in California, terminate liens against affected properties and return early termination fees.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/california-settlement-forces-mv-realty-to-void-homeowner-contracts/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "8 best Florida real estate schools for 2026",
         "url": "https://www.housingwire.com/articles/best-real-estate-schools-florida/",
@@ -338,15 +347,6 @@
         "what": "Somewhere right now, someone who needs exactly what you do is typing your name into a search bar",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/personal-brand-trust/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "When a bankrupt retailer buys a brokerage: What the Bed Bath & Beyond and Fathom deal signals",
-        "url": "https://www.housingwire.com/articles/fathom-bed-bath-beyond-control-entire-homeownership-journey/",
-        "what": "The Bed Bath & Beyond-Fathom Holdings deal is part of a sustained push to own the entire homeownership journey.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fathom-bed-bath-beyond-control-entire-homeownership-journey/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
