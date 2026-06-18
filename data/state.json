@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-18 09:45 UTC",
+  "as_of": "2026-06-18 13:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,39 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "8 best Florida real estate schools for 2026",
+      "link": "https://www.housingwire.com/articles/best-real-estate-schools-florida/",
+      "published": "Thu, 18 Jun 2026"
+    },
+    {
+      "title": "AI mortgage broker Ralo launches, raises $2.9M seed round",
+      "link": "https://www.housingwire.com/articles/ralo-ai-mortgage-broker-seed/",
+      "published": "Thu, 18 Jun 2026"
+    },
+    {
+      "title": "How consumers are using AI and the impact on the role of the real estate agent",
+      "link": "https://www.housingwire.com/articles/onsumer-ai-real-estate/",
+      "published": "Thu, 18 Jun 2026"
+    },
+    {
+      "title": "CertifID buys CloseSimple to merge security, closing automation",
+      "link": "https://www.housingwire.com/articles/certifid-buys-closesimple-to-merge-security-closing-automation/",
+      "published": "Thu, 18 Jun 2026"
+    },
+    {
+      "title": "Compass expands in northern Arizona",
+      "link": "https://www.housingwire.com/articles/compass-expands-in-northern-arizona/",
+      "published": "Thu, 18 Jun 2026"
+    },
+    {
       "title": "The decision happens online now, but the leaders aren’t there",
       "link": "https://www.housingwire.com/articles/personal-brand-trust/",
       "published": "Thu, 18 Jun 2026"
     },
     {
-      "title": "How scale, foreign capital and market diversification are reshaping homebuilder M&A",
-      "link": "https://www.housingwire.com/articles/homebuilder-ma-foreign-scale/",
+      "title": "Housing Payments Hit 1-Year High, Sending Buyers to the Sidelines",
+      "link": "https://www.redfin.com/news/housing-market-update-housing-payments-climb-buyers-back-away/",
       "published": "Thu, 18 Jun 2026"
-    },
-    {
-      "title": "3 quick takes on Kevin Warsh’s first Fed meeting",
-      "link": "https://www.housingwire.com/articles/warsh-fed-policy-housing/",
-      "published": "Wed, 17 Jun 2026"
-    },
-    {
-      "title": "The 10 best real estate marketing companies to boost your business in 2026",
-      "link": "https://www.housingwire.com/articles/real-estate-marketing-companies/",
-      "published": "Wed, 17 Jun 2026"
-    },
-    {
-      "title": "When a bankrupt retailer buys a brokerage: What the Bed Bath & Beyond and Fathom deal signals",
-      "link": "https://www.housingwire.com/articles/fathom-bed-bath-beyond-control-entire-homeownership-journey/",
-      "published": "Wed, 17 Jun 2026"
-    },
-    {
-      "title": "PNC Bank closes $251.4 million affordable housing fund",
-      "link": "https://www.housingwire.com/articles/pnc-bank-closes-251-4-million-affordable-housing-fund/",
-      "published": "Wed, 17 Jun 2026"
     },
     {
       "title": "Mortgage Rates Likely to Stay High For Now as Markets Digest Warsh’s First Fed Meeting",
@@ -193,11 +198,6 @@
       "title": "SpaceX Employees Could Buy 2 in 5 San Antonio Homes With Their IPO Windfall",
       "link": "https://www.redfin.com/news/spacex-ipo-housing-wealth/",
       "published": "Fri, 12 Jun 2026"
-    },
-    {
-      "title": "Record Home Prices, High Mortgage Rates Push Pending Sales Down for Fourth Straight Week",
-      "link": "https://www.redfin.com/news/housing-market-update-record-high-home-prices-sales-decline/",
-      "published": "Thu, 11 Jun 2026"
     }
   ],
   "feed_101020": {
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Double-take double jeopardy: Housing surnames for $100",
-        "url": "https://www.housingwire.com/articles/clayton-pulte-policy-mixup/",
-        "what": "Housing readers see Clayton and Pulte in DC headlines and assume builder deals, even when stories are unrelated to housing companies.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/clayton-pulte-policy-mixup/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Markets Eye Strait of Hormuz Reopening and Warsh’s First Fed Meeting as Key Tests This Week",
         "url": "https://www.redfin.com/news/strait-hormuz-potential-reopening-kevin-warsh-first-fed-meeting/",
         "what": "This Week In A Nutshell: It’s going to be a big week with an announced deal that may open the Strait of Hormuz by Friday and Kevin Warsh’s first Fed meeting on Wednesday",
@@ -237,18 +228,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/strait-hormuz-potential-reopening-kevin-warsh-first-fed-meeting/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Record Home Prices, High Mortgage Rates Push Pending Sales Down for Fourth Straight Week",
-        "url": "https://www.redfin.com/news/housing-market-update-record-high-home-prices-sales-decline/",
-        "what": "High housing costs and economic instability are driving would-be buyers away",
-        "numbers": "$400,894, 7,, 1.5, $400,000,",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-record-high-home-prices-sales-decline/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "AI mortgage broker Ralo launches, raises $2.9M seed round",
+        "url": "https://www.housingwire.com/articles/ralo-ai-mortgage-broker-seed/",
+        "what": "Ralo, an AI-native mortgage broker founded by two former Google employees, has raised a $2.9 million seed round to expand its automated home loan platform.",
+        "numbers": "$2.9 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ralo-ai-mortgage-broker-seed/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Housing Payments Hit 1-Year High, Sending Buyers to the Sidelines",
+        "url": "https://www.redfin.com/news/housing-market-update-housing-payments-climb-buyers-back-away/",
+        "what": "Pending home sales fell for the fifth week in a row, and new listings declined, too",
+        "numbers": "$2,647, 14,, $100, 2023, 1",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-housing-payments-climb-buyers-back-away/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "How scale, foreign capital and market diversification are reshaping homebuilder M&A",
         "url": "https://www.housingwire.com/articles/homebuilder-ma-foreign-scale/",
@@ -266,15 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-marketing-companies/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "PNC Bank closes $251.4 million affordable housing fund",
-        "url": "https://www.housingwire.com/articles/pnc-bank-closes-251-4-million-affordable-housing-fund/",
-        "what": "PNC Bank closed a $251.4M LIHTC fund to back 16 properties and more than 1,700 affordable rentals nationwide",
-        "numbers": "$251.4, 16, 1,700",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pnc-bank-closes-251-4-million-affordable-housing-fund/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "Former Red-Hot Seller’s Markets, Like Atlanta, Now Lead the Nation in Canceled Home Sales",
@@ -306,6 +297,42 @@
     ],
     "notables": [
       {
+        "title": "8 best Florida real estate schools for 2026",
+        "url": "https://www.housingwire.com/articles/best-real-estate-schools-florida/",
+        "what": "We rigorously reviewed the best online real estate schools in Florida to help you launch a new career with ease and confidence.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/best-real-estate-schools-florida/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "How consumers are using AI and the impact on the role of the real estate agent",
+        "url": "https://www.housingwire.com/articles/onsumer-ai-real-estate/",
+        "what": "Surveys show 53% would buy with no human involvement and 82% use AI insights, but only 25% feel very comfortable closing solo.",
+        "numbers": "53, 82, 25",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/onsumer-ai-real-estate/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "CertifID buys CloseSimple to merge security, closing automation",
+        "url": "https://www.housingwire.com/articles/certifid-buys-closesimple-to-merge-security-closing-automation/",
+        "what": "The acquisition combines CertifID’s fraud prevention infrastructure with CloseSimple’s communication and automation capabilities.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/certifid-buys-closesimple-to-merge-security-closing-automation/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Compass expands in northern Arizona",
+        "url": "https://www.housingwire.com/articles/compass-expands-in-northern-arizona/",
+        "what": "Compass said it plans to continue expanding its presence in northern Arizona and is exploring a permanent office in the region.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-expands-in-northern-arizona/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "The decision happens online now, but the leaders aren’t there",
         "url": "https://www.housingwire.com/articles/personal-brand-trust/",
         "what": "Somewhere right now, someone who needs exactly what you do is typing your name into a search bar",
@@ -320,33 +347,6 @@
         "what": "The Bed Bath & Beyond-Fathom Holdings deal is part of a sustained push to own the entire homeownership journey.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/fathom-bed-bath-beyond-control-entire-homeownership-journey/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Better Homes and Gardens Real Estate merger creates tri-state brokerage",
-        "url": "https://www.housingwire.com/articles/better-homes-and-gardens-real-estate-merger-creates-tri-state-brokerage/",
-        "what": "The deal merges Better Homes and Gardens Real Estate Maturo, Better Homes and Gardens Real Estate Dream Properties and Realty Connect USA.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-homes-and-gardens-real-estate-merger-creates-tri-state-brokerage/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "JP Piccinini joins The Real Brokerage as growth leader",
-        "url": "https://www.housingwire.com/articles/jp-piccinini-joins-the-real-brokerage-as-growth-leader/",
-        "what": "Under Piccinini, JPAR Real Estate expanded to roughly 4,000 agents across 22 states and generated $5 billion-plus in annual sales volume.",
-        "numbers": "4,000, 22, $5 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/jp-piccinini-joins-the-real-brokerage-as-growth-leader/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The ‘Beyond’ is brokerage: Bed Bath & Beyond’s surprising bet on real estate",
-        "url": "https://www.housingwire.com/articles/bed-bath-beyond-fathom-deal/",
-        "what": "Bed Bath & Beyond plans to buy Fathom Holdings and bets on building an 'everything home' ecosystem",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bed-bath-beyond-fathom-deal/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
