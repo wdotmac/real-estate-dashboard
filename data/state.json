@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-21 01:39 UTC",
+  "as_of": "2026-06-21 07:06 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Keys to the housing market for the rest of 2026",
+      "link": "https://www.housingwire.com/articles/keys-to-the-housing-market-for-the-rest-of-2026/",
+      "published": "Sun, 21 Jun 2026"
+    },
+    {
       "title": "What a 50-year-old letter says about accountability in homebuilding",
       "link": "https://www.housingwire.com/articles/fathers-day-responsibility-builders/",
       "published": "Fri, 19 Jun 2026"
@@ -163,11 +168,6 @@
       "title": "Aging in place is reshaping housing demand — and most homes aren’t ready",
       "link": "https://www.housingwire.com/articles/aging-in-place-reshape-housing-demand/",
       "published": "Fri, 19 Jun 2026"
-    },
-    {
-      "title": "Retirement plan participation reaches record high, but financial pressures persist",
-      "link": "https://www.housingwire.com/articles/retirement-plan-participation-reaches-record-high-but-financial-pressures-persist/",
-      "published": "Thu, 18 Jun 2026"
     },
     {
       "title": "Housing Payments Hit 1-Year High, Sending Buyers to the Sidelines",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Keys to the housing market for the rest of 2026",
+        "url": "https://www.housingwire.com/articles/keys-to-the-housing-market-for-the-rest-of-2026/",
+        "what": "The second half of 2026 hinges on whether demand stays positive with mortgage rates near 6.60% and tighter comps from July onward.",
+        "numbers": "2026, 6.60",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/keys-to-the-housing-market-for-the-rest-of-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Retirement plan participation reaches record high, but financial pressures persist",
         "url": "https://www.housingwire.com/articles/retirement-plan-participation-reaches-record-high-but-financial-pressures-persist/",
@@ -329,15 +338,6 @@
         "what": "For weeks, a central question surrounding Dream Finders Homes‘ pursuit of Beazer Homes has been unambiguous: Will Dream Finders’ offer for the company and its public relations campaign be enough to convince Beazer shareholders that a sale should occur? A just-completed debt refinancing by Beazer Homes likely raises the cost of any acquisition of Beazer",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/beazer-notes-change-control-cost/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Intent beats volume: What real estate teams are learning from AI-powered follow-up",
-        "url": "https://www.housingwire.com/articles/ai-follow-up-intent-signals/",
-        "what": "Insights from one million calls show intent based targeting, better context, and local numbers can improve appointment conversion.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-follow-up-intent-signals/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
