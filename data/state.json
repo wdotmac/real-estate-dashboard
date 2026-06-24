@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-24 12:00 UTC",
+  "as_of": "2026-06-24 15:07 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -17,36 +17,36 @@
   },
   "permits": {
     "florida": {
-      "latest": 14596,
-      "latest_date": "2026-04",
-      "mom": 0.17246365169893174,
-      "yoy": 0.05378673019998548,
-      "ytd": -0.16725489221388212,
-      "ytd_count": 50257,
+      "latest": 13055,
+      "latest_date": "2026-05",
+      "mom": -0.10557687037544528,
+      "yoy": -0.1036116451524306,
+      "ytd": -0.15488219982647,
+      "ytd_count": 63312,
       "latest_year": 2026,
-      "latest_month_name": "Apr"
+      "latest_month_name": "May"
     },
     "msa": {
       "Orlando–Kissimmee–Sanford": {
         "total": {
-          "latest": 1926,
+          "latest": 1846,
           "latest_year": 2026,
-          "latest_month": 4,
-          "latest_month_name": "Apr",
-          "mom": 0.3449720670391061,
-          "yoy": -0.21675477836518908,
-          "ytd_yoy": -0.4733425653453349,
-          "ytd_count": 6085
+          "latest_month": 5,
+          "latest_month_name": "May",
+          "mom": -0.041536863966770476,
+          "yoy": 0.030133928571428603,
+          "ytd_yoy": -0.40573954742994156,
+          "ytd_count": 7931
         },
         "one_unit": {
-          "latest": 1124,
+          "latest": 1050,
           "latest_year": 2026,
-          "latest_month": 4,
-          "latest_month_name": "Apr",
-          "mom": 0.0017825311942958333,
-          "yoy": -0.2629508196721312,
-          "ytd_yoy": -0.2609791216702664,
-          "ytd_count": 4106
+          "latest_month": 5,
+          "latest_month_name": "May",
+          "mom": -0.0658362989323843,
+          "yoy": -0.13007456503728254,
+          "ytd_yoy": -0.2376164424072157,
+          "ytd_count": 5156
         },
         "dom": {
           "days": 70,
@@ -56,24 +56,24 @@
       },
       "Tampa–St. Petersburg–Clearwater": {
         "total": {
-          "latest": 1599,
+          "latest": 2505,
           "latest_year": 2026,
-          "latest_month": 4,
-          "latest_month_name": "Apr",
-          "mom": 0.008196721311475308,
-          "yoy": -0.08156232050545664,
-          "ytd_yoy": -0.11729622266401596,
-          "ytd_count": 6216
+          "latest_month": 5,
+          "latest_month_name": "May",
+          "mom": 0.5666041275797373,
+          "yoy": 0.03256389117889524,
+          "ytd_yoy": -0.0788973384030418,
+          "ytd_count": 8721
         },
         "one_unit": {
-          "latest": 1198,
+          "latest": 1141,
           "latest_year": 2026,
-          "latest_month": 4,
-          "latest_month_name": "Apr",
-          "mom": 0.018707482993197244,
-          "yoy": -0.07347254447022433,
-          "ytd_yoy": 0.03634336677814942,
-          "ytd_count": 4648
+          "latest_month": 5,
+          "latest_month_name": "May",
+          "mom": -0.047579298831385675,
+          "yoy": -0.14595808383233533,
+          "ytd_yoy": -0.005497337227280519,
+          "ytd_count": 5789
         },
         "dom": {
           "days": 67,
@@ -83,24 +83,24 @@
       },
       "Ocala": {
         "total": {
-          "latest": 588,
+          "latest": 481,
           "latest_year": 2026,
-          "latest_month": 4,
-          "latest_month_name": "Apr",
-          "mom": -0.04854368932038833,
-          "yoy": 0.27826086956521734,
-          "ytd_yoy": -0.02434928631402178,
-          "ytd_count": 2324
+          "latest_month": 5,
+          "latest_month_name": "May",
+          "mom": -0.1819727891156463,
+          "yoy": -0.034136546184738936,
+          "ytd_yoy": -0.02604166666666663,
+          "ytd_count": 2805
         },
         "one_unit": {
-          "latest": 588,
+          "latest": 477,
           "latest_year": 2026,
-          "latest_month": 4,
-          "latest_month_name": "Apr",
-          "mom": -0.04854368932038833,
-          "yoy": 0.3183856502242153,
-          "ytd_yoy": 0.038181818181818095,
-          "ytd_count": 2284
+          "latest_month": 5,
+          "latest_month_name": "May",
+          "mom": -0.18877551020408168,
+          "yoy": -0.01851851851851849,
+          "ytd_yoy": 0.02792256142963523,
+          "ytd_count": 2761
         },
         "dom": {
           "days": 79,
@@ -110,24 +110,24 @@
       },
       "Palm Bay–Melbourne–Titusville": {
         "total": {
-          "latest": 303,
+          "latest": 328,
           "latest_year": 2026,
-          "latest_month": 4,
-          "latest_month_name": "Apr",
-          "mom": -0.08181818181818179,
-          "yoy": -0.03809523809523807,
-          "ytd_yoy": -0.18174904942965775,
-          "ytd_count": 1076
+          "latest_month": 5,
+          "latest_month_name": "May",
+          "mom": 0.08250825082508251,
+          "yoy": 0.2615384615384615,
+          "ytd_yoy": -0.10857142857142854,
+          "ytd_count": 1404
         },
         "one_unit": {
-          "latest": 303,
+          "latest": 328,
           "latest_year": 2026,
-          "latest_month": 4,
-          "latest_month_name": "Apr",
-          "mom": -0.08181818181818179,
-          "yoy": -0.025723472668810254,
-          "ytd_yoy": -0.05364995602462619,
-          "ytd_count": 1076
+          "latest_month": 5,
+          "latest_month_name": "May",
+          "mom": 0.08250825082508251,
+          "yoy": 0.3015873015873016,
+          "ytd_yoy": 0.010799136069114423,
+          "ytd_count": 1404
         },
         "dom": {
           "days": 65,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Fannie Mae to expand title pilot program, Pulte says",
+      "link": "https://www.housingwire.com/articles/fannie-title-waiver-pilot/",
+      "published": "Wed, 24 Jun 2026"
+    },
+    {
+      "title": "Real Brokerage tops 35,000 agents across U.S. and Canada",
+      "link": "https://www.housingwire.com/articles/real-brokerage-35000-agents/",
+      "published": "Wed, 24 Jun 2026"
+    },
+    {
+      "title": "How real estate agents are losing deals — and what to do about it",
+      "link": "https://www.housingwire.com/articles/real-estate-lead-response/",
+      "published": "Wed, 24 Jun 2026"
+    },
+    {
+      "title": "Mortgage applications rise 1.0% as rates hold near 6.6%",
+      "link": "https://www.housingwire.com/articles/mortgage-applications-rise-1/",
+      "published": "Wed, 24 Jun 2026"
+    },
+    {
       "title": "Massachusetts court strikes rent stabilization bid from 2026 ballot",
       "link": "https://www.housingwire.com/articles/massachusetts-rent-stabilization-ballot/",
       "published": "Wed, 24 Jun 2026"
@@ -150,24 +170,9 @@
       "published": "Wed, 24 Jun 2026"
     },
     {
-      "title": "Congress passes 21st Century ROAD to Housing Act, sends bill to Trump",
-      "link": "https://www.housingwire.com/articles/road-housing-act-trump/",
-      "published": "Tue, 23 Jun 2026"
-    },
-    {
-      "title": "Boomer Foster launches Paul Wesley Real Estate brokerage",
-      "link": "https://www.housingwire.com/articles/foster-paul-wesley-real-estate/",
-      "published": "Tue, 23 Jun 2026"
-    },
-    {
-      "title": "Why mortgage rates haven’t followed oil prices by moving lower",
-      "link": "https://www.housingwire.com/articles/why-mortgage-rates-havent-followed-oil-prices-by-moving-lower/",
-      "published": "Tue, 23 Jun 2026"
-    },
-    {
-      "title": "Mortgage rates move near 6.8% as the potential for a Fed hike grows",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-fed-hike-odds/",
-      "published": "Tue, 23 Jun 2026"
+      "title": "Flood-Prone Parts of America Are Losing Residents at Nearly Twice Last Year’s Rate",
+      "link": "https://www.redfin.com/news/climate-migration-real-estate-2026/",
+      "published": "Wed, 24 Jun 2026"
     },
     {
       "title": "NYC Suburbs and the Bay Area Are This Spring’s Most Competitive Housing Markets",
@@ -193,15 +198,28 @@
       "title": "Mortgage Rates Likely to Stay High For Now as Markets Digest Warsh’s First Fed Meeting",
       "link": "https://www.redfin.com/news/kevin-warsh-first-fed-meeting-june-2026/",
       "published": "Wed, 17 Jun 2026"
-    },
-    {
-      "title": "Former Red-Hot Seller’s Markets, Like Atlanta, Now Lead the Nation in Canceled Home Sales",
-      "link": "https://www.redfin.com/news/contract-cancellations-may-2026/",
-      "published": "Wed, 17 Jun 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Fannie Mae to expand title pilot program, Pulte says",
+        "url": "https://www.housingwire.com/articles/fannie-title-waiver-pilot/",
+        "what": "Fannie Mae will soon announce initiatives to expand its title waiver pilot program, Federal Housing Finance Agency (FHFA) Director Bill Pulte said Tuesday.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-title-waiver-pilot/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Mortgage applications rise 1.0% as rates hold near 6.6%",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-rise-1/",
+        "what": "MBA shows apps up 1.0% for June 19, 2026, as refis rose 3% and purchases slipped 1%",
+        "numbers": "1.0, 19,, 2026,, 3, 1, 10.38",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-rise-1/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Why mortgage rates haven’t followed oil prices by moving lower",
         "url": "https://www.housingwire.com/articles/why-mortgage-rates-havent-followed-oil-prices-by-moving-lower/",
@@ -232,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Flood-Prone Parts of America Are Losing Residents at Nearly Twice Last Year’s Rate",
+        "url": "https://www.redfin.com/news/climate-migration-real-estate-2026/",
+        "what": "High-flood-risk U.S",
+        "numbers": "63,000, 2025, 70,000",
+        "justified": "redfin.com — https://www.redfin.com/news/climate-migration-real-estate-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Massachusetts court strikes rent stabilization bid from 2026 ballot",
         "url": "https://www.housingwire.com/articles/massachusetts-rent-stabilization-ballot/",
         "what": "Massachusetts’s highest court has blocked a statewide rent stabilization initiative from the November 2026 ballot on a technicality",
@@ -246,24 +273,6 @@
         "what": "The 21st Century ROAD to Housing Act passed the House of Representatives after clearing the Senate and now heads to President Donald Trump’s desk for signature in the coming days.",
         "numbers": "21",
         "justified": "housingwire.com — https://www.housingwire.com/articles/road-housing-act-trump/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Builders planned for undersupply, now demand is the swing factor",
-        "url": "https://www.housingwire.com/articles/housing-demand-decline-2026/",
-        "what": "The “emerging trends” in housing story over the past decade or more has been a tale of magnitude variations on a theme: constrained supply eclipsed by growing demand",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-demand-decline-2026/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Realtor.com: Investor home purchase activity was stable in 2025",
-        "url": "https://www.housingwire.com/articles/investor-home-purchases-2025/",
-        "what": "Investor activity in the U.S",
-        "numbers": "2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/investor-home-purchases-2025/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
@@ -306,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "Real Brokerage tops 35,000 agents across U.S. and Canada",
+        "url": "https://www.housingwire.com/articles/real-brokerage-35000-agents/",
+        "what": "Real Brokerage passed 35,000 agents, added 3,200 in H1 2026, and says it has a presence in all 50 states and Canada.",
+        "numbers": "35,000, 3,200, 1, 2026,, 50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-brokerage-35000-agents/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "How real estate agents are losing deals — and what to do about it",
+        "url": "https://www.housingwire.com/articles/real-estate-lead-response/",
+        "what": "Slow or missed inquiries can cost agents two deals a month, or $192,000 a year, use tracking, follow up and automation to improve response.",
+        "numbers": "$192,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-lead-response/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Fannie and Freddie’s new rules change the playbook for condo buyers, sellers and managers alike",
         "url": "https://www.housingwire.com/articles/fannie-freddie-condo-rules/",
         "what": "Fannie Mae and Freddie Mac updated condo project standards in March 2026, reshaping how projects qualify for conventional financing",
@@ -320,24 +347,6 @@
         "what": "Boomer Foster launched Paul Wesley Real Estate in April, serving VA, MD and DC, with nearly $250M in production from about 30 agents.",
         "numbers": "$250, 30",
         "justified": "housingwire.com — https://www.housingwire.com/articles/foster-paul-wesley-real-estate/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Finance of America announces three new hires to drive brand, product alignment",
-        "url": "https://www.housingwire.com/articles/finance-america-brand-product-hires/",
-        "what": "Finance of America hired three senior executives to lead brand, communications and product as it expands retirement home equity solutions.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/finance-america-brand-product-hires/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "NAR subpoenas American Real Estate Association in ThePLS.com Clear Cooperation lawsuit",
-        "url": "https://www.housingwire.com/articles/nar-subpoena-ara-pls/",
-        "what": "NAR subpoenaed ARA for documents and communications tied to ThePLS.com, CCP and the NAR Accountability Project, per a filing.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-subpoena-ara-pls/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
