@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-06-24 20:08 UTC",
+  "as_of": "2026-06-24 21:45 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.51,
-      "delta_bp_1d": 4.999999999999982
+      "yield_pct": 4.5,
+      "delta_bp_1d": -0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.47,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "AARP announces $8.3M in senior-focused housing and community improvement grants",
+      "title": "ROAD work ahead",
+      "link": "https://www.housingwire.com/articles/road-act-builders-next/",
+      "published": "Wed, 24 Jun 2026"
+    },
+    {
+      "title": "FHFA pushes GSEs to embrace chattel loans in Duty to Serve proposal",
+      "link": "https://www.housingwire.com/articles/duty-to-serve-chattel-loans-fhfa/",
+      "published": "Wed, 24 Jun 2026"
+    },
+    {
+      "title": "The checklist real estate agents need for estate sale referrals and timing",
+      "link": "https://www.housingwire.com/articles/estate-sale-referrals-listings/",
+      "published": "Wed, 24 Jun 2026"
+    },
+    {
+      "title": "From recovery to real estate: Tracy Jones Team climbs to No. 1 in Ohio",
+      "link": "https://www.housingwire.com/articles/from-recovery-to-real-estate-tracy-jones-team-climbs-to-no-1-in-ohio/",
+      "published": "Wed, 24 Jun 2026"
+    },
+    {
+      "title": "AARP awards $8.3M in senior-focused housing and community improvement grants",
       "link": "https://www.housingwire.com/articles/aarp-83m-community-grants/",
       "published": "Wed, 24 Jun 2026"
     },
     {
       "title": "New home sales fall in May as rate shock, inflation squeeze buyers",
       "link": "https://www.housingwire.com/articles/new-home-sales-may-2026-affordability-pressures/",
-      "published": "Wed, 24 Jun 2026"
-    },
-    {
-      "title": "Most AI-altered listings go undisclosed, California law bans it",
-      "link": "https://www.housingwire.com/articles/most-ai-altered-listings-go-undisclosed-california-law-bans-it/",
-      "published": "Wed, 24 Jun 2026"
-    },
-    {
-      "title": "Why we can’t get more housing construction in the US",
-      "link": "https://www.housingwire.com/articles/may-2026-new-home-sales-fall/",
-      "published": "Wed, 24 Jun 2026"
-    },
-    {
-      "title": "Trump abruptly delays signing of 21st Century ROAD to Housing Act",
-      "link": "https://www.housingwire.com/articles/trump-housing-bill-signing/",
-      "published": "Wed, 24 Jun 2026"
-    },
-    {
-      "title": "Zillow RESPA lawsuit paused after judge orders arbitration",
-      "link": "https://www.housingwire.com/articles/zillow-respa-suit-arbitration-stay/",
       "published": "Wed, 24 Jun 2026"
     },
     {
@@ -219,27 +219,18 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-respa-suit-arbitration-stay/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Darryl Davis Seminars sues Epique over POWER AGENT trademark",
-        "url": "https://www.housingwire.com/articles/epique-power-agent-trademark/",
-        "what": "Darryl Davis Seminars filed a federal trademark suit accusing Epique of using the POWER AGENT brand, seeking an injunction and profits.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/epique-power-agent-trademark/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Fannie Mae to expand title pilot program, Pulte says",
-        "url": "https://www.housingwire.com/articles/fannie-title-waiver-pilot/",
-        "what": "Fannie Mae will soon announce initiatives to expand its title waiver pilot program, Federal Housing Finance Agency (FHFA) Director Bill Pulte said Tuesday.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-title-waiver-pilot/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "FHFA pushes GSEs to embrace chattel loans in Duty to Serve proposal",
+        "url": "https://www.housingwire.com/articles/duty-to-serve-chattel-loans-fhfa/",
+        "what": "The FHFA has proposed replacing its existing Duty to Serve regulation with an outcome-based framework that would change how Fannie Mae and Freddie Mac support manufactured housing,",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/duty-to-serve-chattel-loans-fhfa/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Congress Takes Historic Step on Housing Affordability with Bipartisan ROAD to Housing Act",
         "url": "https://www.redfin.com/news/road-to-housing-act-historic/",
@@ -250,7 +241,7 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "AARP announces $8.3M in senior-focused housing and community improvement grants",
+        "title": "AARP awards $8.3M in senior-focused housing and community improvement grants",
         "url": "https://www.housingwire.com/articles/aarp-83m-community-grants/",
         "what": "The funds come at a time when the U.S",
         "numbers": "",
@@ -320,33 +311,33 @@
         "justified": "redfin.com — https://www.redfin.com/news/home-seller-concessions-record-high-rate/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Housing Payments Hit 1-Year High, Sending Buyers to the Sidelines",
-        "url": "https://www.redfin.com/news/housing-market-update-housing-payments-climb-buyers-back-away/",
-        "what": "Pending home sales fell for the fifth week in a row, and new listings declined, too",
-        "numbers": "$2,647, 14,, $100, 2023, 1",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-housing-payments-climb-buyers-back-away/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
       {
-        "title": "Real Brokerage tops 35,000 agents across U.S. and Canada",
-        "url": "https://www.housingwire.com/articles/real-brokerage-35000-agents/",
-        "what": "Real Brokerage passed 35,000 agents, added 3,200 in H1 2026, and says it has a presence in all 50 states and Canada.",
-        "numbers": "35,000, 3,200, 1, 2026,, 50",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-brokerage-35000-agents/",
+        "title": "ROAD work ahead",
+        "url": "https://www.housingwire.com/articles/road-act-builders-next/",
+        "what": "A fiendishly brilliant advertising copywriter working for Benetton during the “hanging chads” Presidential election controversy in 1992 took a circa-1973 Yogi Berraism and transformed it for a New York City billboard on the heavily trafficked northbound West Side Highway",
+        "numbers": "1992, 1973",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/road-act-builders-next/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "How real estate agents are losing deals — and what to do about it",
-        "url": "https://www.housingwire.com/articles/real-estate-lead-response/",
-        "what": "Slow or missed inquiries can cost agents two deals a month, or $192,000 a year, use tracking, follow up and automation to improve response.",
-        "numbers": "$192,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-lead-response/",
+        "title": "The checklist real estate agents need for estate sale referrals and timing",
+        "url": "https://www.housingwire.com/articles/estate-sale-referrals-listings/",
+        "what": "Adults 55 plus own over 50% of homes, so agents need a repeatable estate sale plan, timelines and vetted referral partners.",
+        "numbers": "55, 50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/estate-sale-referrals-listings/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "From recovery to real estate: Tracy Jones Team climbs to No. 1 in Ohio",
+        "url": "https://www.housingwire.com/articles/from-recovery-to-real-estate-tracy-jones-team-climbs-to-no-1-in-ohio/",
+        "what": "The Keller Williams-affiliated team ranks No",
+        "numbers": "1, 300, 2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/from-recovery-to-real-estate-tracy-jones-team-climbs-to-no-1-in-ohio/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
