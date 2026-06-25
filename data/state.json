@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-06-25 17:23 UTC",
+  "as_of": "2026-06-25 20:21 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.5,
-      "delta_bp_1d": -0.9999999999999787
+      "yield_pct": 4.41,
+      "delta_bp_1d": -8.999999999999986
     },
     "mortgage_30y": {
       "rate_pct": 6.49,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Young buyers are priced out in most U.S. metros, Pew data shows",
+      "link": "https://www.housingwire.com/articles/young-homebuyers-priced-out-most-us-metros-pew-2026/",
+      "published": "Thu, 25 Jun 2026"
+    },
+    {
+      "title": "JPMorgan Chase names co-presidents as Dimon succession plan takes shape",
+      "link": "https://www.housingwire.com/articles/jpmorgan-petno-rohrbaugh-co-presidents/",
+      "published": "Thu, 25 Jun 2026"
+    },
+    {
+      "title": "CoStar stockholders back directors, approve pay plan",
+      "link": "https://www.housingwire.com/articles/costar-directors-pay-vote/",
+      "published": "Thu, 25 Jun 2026"
+    },
+    {
       "title": "Qualia expands wire fraud protection platform for title and escrow",
       "link": "https://www.housingwire.com/articles/qualia-expands-wire-fraud-protection-platform-for-title-and-escrow/",
       "published": "Thu, 25 Jun 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Senate Democrats press CFPB’s Vought over mass deletion of records",
       "link": "https://www.housingwire.com/articles/senate-democrats-question-cfpb-mass-deletion-records/",
-      "published": "Thu, 25 Jun 2026"
-    },
-    {
-      "title": "Mortgage payments rise 2.2% in May as rates, loan sizes grow",
-      "link": "https://www.housingwire.com/articles/mba-papi-rises-may/",
-      "published": "Thu, 25 Jun 2026"
-    },
-    {
-      "title": "ERA’s Alex Vidal: Why leadership development should aim to drive real growth",
-      "link": "https://www.housingwire.com/articles/leadership-development-growth-strategy/",
-      "published": "Thu, 25 Jun 2026"
-    },
-    {
-      "title": "Housing demand holds steady as regional inventory trends reshape the market",
-      "link": "https://www.housingwire.com/articles/regional-inventory-trends-housing-market/",
       "published": "Thu, 25 Jun 2026"
     },
     {
@@ -203,20 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Young buyers are priced out in most U.S. metros, Pew data shows",
+        "url": "https://www.housingwire.com/articles/young-homebuyers-priced-out-most-us-metros-pew-2026/",
+        "what": "Buying a first home has gotten materially harder for young adults in most major U.S",
+        "numbers": "2019,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/young-homebuyers-priced-out-most-us-metros-pew-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage payments rise 2.2% in May as rates, loan sizes grow",
         "url": "https://www.housingwire.com/articles/mba-papi-rises-may/",
         "what": "MBA's PAPI rose 2.2% to a reading of 159.4 in May as median purchase payments increased to $2,198 due to higher rates and loan sizes.",
         "numbers": "2.2, 159.4, $2,198",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mba-papi-rises-may/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Fed annual stress test finds banks resilient in severe recession scenario",
-        "url": "https://www.housingwire.com/articles/fed-stress-test-banks/",
-        "what": "The annual Fed stress test modeled $708B in losses and found that all 32 banks stayed above minimum capital levels.",
-        "numbers": "$708, 32",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-stress-test-banks/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
@@ -230,15 +230,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/regional-inventory-trends-housing-market/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Glenn Kelman joins Greylock Partners as executive in residence",
-        "url": "https://www.housingwire.com/articles/glenn-kelman-greylock-eir/",
-        "what": "Glenn Kelman joined Greylock as an executive in residence, months after Rocket’s nearly $2 billion Redfin deal closed in 2025.",
-        "numbers": "$2 billion, 2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/glenn-kelman-greylock-eir/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Fewer Homeowners Are Listing as Spring Market Ends With a Whimper, Not a Bang",
@@ -297,6 +288,24 @@
     ],
     "notables": [
       {
+        "title": "JPMorgan Chase names co-presidents as Dimon succession plan takes shape",
+        "url": "https://www.housingwire.com/articles/jpmorgan-petno-rohrbaugh-co-presidents/",
+        "what": "JPMorgan Chase has named Doug Petno and Troy Rohrbaugh as co-presidents effective immediately",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/jpmorgan-petno-rohrbaugh-co-presidents/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "CoStar stockholders back directors, approve pay plan",
+        "url": "https://www.housingwire.com/articles/costar-directors-pay-vote/",
+        "what": "CoStar investors reelected eight directors with over 93% support and approved say-on-pay at 71.38% as margins stay in focus.",
+        "numbers": "93, 71.38",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-directors-pay-vote/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Qualia expands wire fraud protection platform for title and escrow",
         "url": "https://www.housingwire.com/articles/qualia-expands-wire-fraud-protection-platform-for-title-and-escrow/",
         "what": "Expanded features include evaluation of all wire types, including commission payments and agent disbursements.",
@@ -338,15 +347,6 @@
         "what": "Plaintiffs dismissed Real and the Frano Team from the Taylor RESPA suit without prejudice after a judge ordered arbitration.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/taylor-respa-real-dismissed/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Pennsylvania broker sues to end physical office rule",
-        "url": "https://www.housingwire.com/articles/pa-broker-office-rule-lawsuit/",
-        "what": "A Pennsylvania broker sued state regulators, arguing the in-state main office mandate is unconstitutional and costs him about $35,000 a year.",
-        "numbers": "$35,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pa-broker-office-rule-lawsuit/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
