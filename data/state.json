@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-25 11:49 UTC",
+  "as_of": "2026-06-25 15:12 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,39 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Housing demand holds steady as regional inventory trends reshape the market",
+      "link": "https://www.housingwire.com/articles/regional-inventory-trends-housing-market/",
+      "published": "Thu, 25 Jun 2026"
+    },
+    {
+      "title": "Real Brokerage, Frano Team dismissed from Taylor RESPA suit",
+      "link": "https://www.housingwire.com/articles/taylor-respa-real-dismissed/",
+      "published": "Thu, 25 Jun 2026"
+    },
+    {
+      "title": "Fed annual stress test finds banks resilient in severe recession scenario",
+      "link": "https://www.housingwire.com/articles/fed-stress-test-banks/",
+      "published": "Thu, 25 Jun 2026"
+    },
+    {
+      "title": "Glenn Kelman joins Greylock Partners as executive in residence",
+      "link": "https://www.housingwire.com/articles/glenn-kelman-greylock-eir/",
+      "published": "Thu, 25 Jun 2026"
+    },
+    {
+      "title": "Pennsylvania broker sues to end physical office rule",
+      "link": "https://www.housingwire.com/articles/pa-broker-office-rule-lawsuit/",
+      "published": "Thu, 25 Jun 2026"
+    },
+    {
       "title": "Michigan’s single-stair reform gains as housing package languishes",
       "link": "https://www.housingwire.com/articles/michigan-single-stair-reform/",
       "published": "Thu, 25 Jun 2026"
     },
     {
-      "title": "The next credit gap: When BNPL, rent and trended data collide",
-      "link": "https://www.housingwire.com/articles/mortgage-underwriting-credit-data/",
+      "title": "Fewer Homeowners Are Listing as Spring Market Ends With a Whimper, Not a Bang",
+      "link": "https://www.redfin.com/news/housing-market-update-new-listings-decline-spring-2026/",
       "published": "Thu, 25 Jun 2026"
-    },
-    {
-      "title": "ROAD work ahead",
-      "link": "https://www.housingwire.com/articles/road-act-builders-next/",
-      "published": "Wed, 24 Jun 2026"
-    },
-    {
-      "title": "FHFA pushes GSEs to embrace chattel loans in Duty to Serve proposal",
-      "link": "https://www.housingwire.com/articles/duty-to-serve-chattel-loans-fhfa/",
-      "published": "Wed, 24 Jun 2026"
-    },
-    {
-      "title": "The checklist real estate agents need for estate sale referrals and timing",
-      "link": "https://www.housingwire.com/articles/estate-sale-referrals-listings/",
-      "published": "Wed, 24 Jun 2026"
-    },
-    {
-      "title": "From recovery to real estate: Tracy Jones Team climbs to No. 1 in Ohio",
-      "link": "https://www.housingwire.com/articles/from-recovery-to-real-estate-tracy-jones-team-climbs-to-no-1-in-ohio/",
-      "published": "Wed, 24 Jun 2026"
     },
     {
       "title": "Congress Takes Historic Step on Housing Affordability with Bipartisan ROAD to Housing Act",
@@ -193,26 +198,48 @@
       "title": "46% of Home Sellers Gave Concessions to Buyers in May, the Highest Share on Record For That Month",
       "link": "https://www.redfin.com/news/home-seller-concessions-record-high-rate/",
       "published": "Mon, 22 Jun 2026"
-    },
-    {
-      "title": "Housing Payments Hit 1-Year High, Sending Buyers to the Sidelines",
-      "link": "https://www.redfin.com/news/housing-market-update-housing-payments-climb-buyers-back-away/",
-      "published": "Thu, 18 Jun 2026"
     }
   ],
   "feed_101020": {
     "macro": [
       {
-        "title": "New home sales fall in May as rate shock, inflation squeeze buyers",
-        "url": "https://www.housingwire.com/articles/new-home-sales-may-2026-affordability-pressures/",
-        "what": "New home sales pulled back in May as elevated mortgage rates, sticky inflation and consumer uncertainty again tested the upper limit of what buyers can afford, the latest U.S",
-        "numbers": "7.3, 580,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-sales-may-2026-affordability-pressures/",
+        "title": "Fed annual stress test finds banks resilient in severe recession scenario",
+        "url": "https://www.housingwire.com/articles/fed-stress-test-banks/",
+        "what": "The annual Fed stress test modeled $708B in losses and found that all 32 banks stayed above minimum capital levels.",
+        "numbers": "$708, 32",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-stress-test-banks/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Housing demand holds steady as regional inventory trends reshape the market",
+        "url": "https://www.housingwire.com/articles/regional-inventory-trends-housing-market/",
+        "what": "Regional inventory trends are reshaping the housing market even as buyer demand remains positive across every major U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/regional-inventory-trends-housing-market/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Glenn Kelman joins Greylock Partners as executive in residence",
+        "url": "https://www.housingwire.com/articles/glenn-kelman-greylock-eir/",
+        "what": "Glenn Kelman joined Greylock as an executive in residence, months after Rocket’s nearly $2 billion Redfin deal closed in 2025.",
+        "numbers": "$2 billion, 2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/glenn-kelman-greylock-eir/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Fewer Homeowners Are Listing as Spring Market Ends With a Whimper, Not a Bang",
+        "url": "https://www.redfin.com/news/housing-market-update-new-listings-decline-spring-2026/",
+        "what": "The median U.S",
+        "numbers": "1.7, 21, 0.4",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-new-listings-decline-spring-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Michigan’s single-stair reform gains as housing package languishes",
         "url": "https://www.housingwire.com/articles/michigan-single-stair-reform/",
@@ -250,33 +277,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "AARP awards $8.3M in senior-focused housing and community improvement grants",
-        "url": "https://www.housingwire.com/articles/aarp-83m-community-grants/",
-        "what": "The funds come at a time when the U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/aarp-83m-community-grants/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Most AI-altered listings go undisclosed, California law bans it",
-        "url": "https://www.housingwire.com/articles/most-ai-altered-listings-go-undisclosed-california-law-bans-it/",
-        "what": "More than 90% of altered images showed no visible disclosure language on the image itself, captions, listing descriptions or adjacent text.",
-        "numbers": "90",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/most-ai-altered-listings-go-undisclosed-california-law-bans-it/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Why we can’t get more housing construction in the US",
-        "url": "https://www.housingwire.com/articles/may-2026-new-home-sales-fall/",
-        "what": "New home sales fell to 580,000 in May 2026, and elevated completed units for sale continue to limit permits and starts.",
-        "numbers": "580,000, 2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/may-2026-new-home-sales-fall/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Flood-Prone Parts of America Are Losing Residents at Nearly Twice Last Year’s Rate",
         "url": "https://www.redfin.com/news/climate-migration-real-estate-2026/",
         "what": "High-flood-risk U.S",
@@ -306,6 +306,24 @@
     ],
     "notables": [
       {
+        "title": "Real Brokerage, Frano Team dismissed from Taylor RESPA suit",
+        "url": "https://www.housingwire.com/articles/taylor-respa-real-dismissed/",
+        "what": "Plaintiffs dismissed Real and the Frano Team from the Taylor RESPA suit without prejudice after a judge ordered arbitration.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/taylor-respa-real-dismissed/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Pennsylvania broker sues to end physical office rule",
+        "url": "https://www.housingwire.com/articles/pa-broker-office-rule-lawsuit/",
+        "what": "A Pennsylvania broker sued state regulators, arguing the in-state main office mandate is unconstitutional and costs him about $35,000 a year.",
+        "numbers": "$35,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pa-broker-office-rule-lawsuit/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "ROAD work ahead",
         "url": "https://www.housingwire.com/articles/road-act-builders-next/",
         "what": "A fiendishly brilliant advertising copywriter working for Benetton during the “hanging chads” Presidential election controversy in 1992 took a circa-1973 Yogi Berraism and transformed it for a New York City billboard on the heavily trafficked northbound West Side Highway",
@@ -320,15 +338,6 @@
         "what": "Adults 55 plus own over 50% of homes, so agents need a repeatable estate sale plan, timelines and vetted referral partners.",
         "numbers": "55, 50",
         "justified": "housingwire.com — https://www.housingwire.com/articles/estate-sale-referrals-listings/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "From recovery to real estate: Tracy Jones Team climbs to No. 1 in Ohio",
-        "url": "https://www.housingwire.com/articles/from-recovery-to-real-estate-tracy-jones-team-climbs-to-no-1-in-ohio/",
-        "what": "The Keller Williams-affiliated team ranks No",
-        "numbers": "1, 300, 2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/from-recovery-to-real-estate-tracy-jones-team-climbs-to-no-1-in-ohio/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
