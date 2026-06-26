@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-06-26 10:28 UTC",
+  "as_of": "2026-06-26 13:20 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "BOK Financial’s Michael Merritt breaks down ROAD to Housing Act impact on homebuyers",
+      "link": "https://www.housingwire.com/articles/road-housing-act-affordability/",
+      "published": "Fri, 26 Jun 2026"
+    },
+    {
+      "title": "Mamdani wins rent freeze for stabilized NYC apartments",
+      "link": "https://www.housingwire.com/articles/mamdani-rent-freeze-nyc/",
+      "published": "Fri, 26 Jun 2026"
+    },
+    {
+      "title": "Bill Gaul named data ambassador at GDX and IMLSF",
+      "link": "https://www.housingwire.com/articles/ambassador-new-construction-data-gdx-imlsf/",
+      "published": "Fri, 26 Jun 2026"
+    },
+    {
       "title": "Finding meaning in a busy world: The modern originator’s path to pursuit, purpose, passion and peace",
       "link": "https://www.housingwire.com/articles/modern-originator-finding-meaning/",
       "published": "Fri, 26 Jun 2026"
@@ -155,19 +170,9 @@
       "published": "Thu, 25 Jun 2026"
     },
     {
-      "title": "Experienced Realtors hold the line in a tough housing market",
-      "link": "https://www.housingwire.com/articles/nar-2026-member-profile-experience/",
-      "published": "Thu, 25 Jun 2026"
-    },
-    {
-      "title": "Senators push bipartisan plan to ‘save Social Security’",
-      "link": "https://www.housingwire.com/articles/bipartisan-plan-to-save-social-security/",
-      "published": "Thu, 25 Jun 2026"
-    },
-    {
-      "title": "Young buyers are priced out in most U.S. metros, Pew data shows",
-      "link": "https://www.housingwire.com/articles/young-homebuyers-priced-out-most-us-metros-pew-2026/",
-      "published": "Thu, 25 Jun 2026"
+      "title": "Americans Across Party Lines Back Policies to Improve Housing Affordability: Redfin Survey",
+      "link": "https://www.redfin.com/news/survey-americans-support-housing-policy/",
+      "published": "Fri, 26 Jun 2026"
     },
     {
       "title": "Fewer Homeowners Are Listing as Spring Market Ends With a Whimper, Not a Bang",
@@ -193,15 +198,19 @@
       "title": "U.S. Home-Price Growth Accelerated in May, Fueled by April’s Brief Mortgage-Rate Reprieve",
       "link": "https://www.redfin.com/news/home-price-index-may-2026/",
       "published": "Tue, 23 Jun 2026"
-    },
-    {
-      "title": "46% of Home Sellers Gave Concessions to Buyers in May, the Highest Share on Record For That Month",
-      "link": "https://www.redfin.com/news/home-seller-concessions-record-high-rate/",
-      "published": "Mon, 22 Jun 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Americans Across Party Lines Back Policies to Improve Housing Affordability: Redfin Survey",
+        "url": "https://www.redfin.com/news/survey-americans-support-housing-policy/",
+        "what": "Most Republicans and Democrats believe there should be federal policies in place to make housing more affordable, according to a recent Redfin survey",
+        "numbers": "85, 77",
+        "justified": "redfin.com — https://www.redfin.com/news/survey-americans-support-housing-policy/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Young buyers are priced out in most U.S. metros, Pew data shows",
         "url": "https://www.housingwire.com/articles/young-homebuyers-priced-out-most-us-metros-pew-2026/",
@@ -213,6 +222,33 @@
       }
     ],
     "housing": [
+      {
+        "title": "BOK Financial’s Michael Merritt breaks down ROAD to Housing Act impact on homebuyers",
+        "url": "https://www.housingwire.com/articles/road-housing-act-affordability/",
+        "what": "Michael Merritt, BOK Financial's senior vice president of customer care and default mortgage servicing, told HousingWire the bill represents a “good start, but not everything.\"",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/road-housing-act-affordability/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Mamdani wins rent freeze for stabilized NYC apartments",
+        "url": "https://www.housingwire.com/articles/mamdani-rent-freeze-nyc/",
+        "what": "New York City Mayor Zohran Mamdani delivered on a key campaign promise to freeze rents for many residents",
+        "numbers": "41",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mamdani-rent-freeze-nyc/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Bill Gaul named data ambassador at GDX and IMLSF",
+        "url": "https://www.housingwire.com/articles/ambassador-new-construction-data-gdx-imlsf/",
+        "what": "GDX – Global Data Exchange and the International MLS Forum (IMLSF) have appointed Bill Gaul as their official ambassador for new construction and builder data, the organizations announced",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ambassador-new-construction-data-gdx-imlsf/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "Finding meaning in a busy world: The modern originator’s path to pursuit, purpose, passion and peace",
         "url": "https://www.housingwire.com/articles/modern-originator-finding-meaning/",
@@ -275,24 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/most-competitive-housing-markets-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "U.S. Home-Price Growth Accelerated in May, Fueled by April’s Brief Mortgage-Rate Reprieve",
-        "url": "https://www.redfin.com/news/home-price-index-may-2026/",
-        "what": "Home prices rose 0.3% month over month on a seasonally adjusted basis",
-        "numbers": "0.3, 2.5, 29",
-        "justified": "redfin.com — https://www.redfin.com/news/home-price-index-may-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "46% of Home Sellers Gave Concessions to Buyers in May, the Highest Share on Record For That Month",
-        "url": "https://www.redfin.com/news/home-seller-concessions-record-high-rate/",
-        "what": "Nearly half of U.S",
-        "numbers": "46",
-        "justified": "redfin.com — https://www.redfin.com/news/home-seller-concessions-record-high-rate/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
@@ -320,33 +338,6 @@
         "what": "JPMorgan Chase has named Doug Petno and Troy Rohrbaugh as co-presidents effective immediately",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/jpmorgan-petno-rohrbaugh-co-presidents/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CoStar stockholders back directors, approve pay plan",
-        "url": "https://www.housingwire.com/articles/costar-directors-pay-vote/",
-        "what": "CoStar investors reelected eight directors with over 93% support and approved say-on-pay at 71.38% as margins stay in focus.",
-        "numbers": "93, 71.38",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-directors-pay-vote/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Qualia expands wire fraud protection platform for title and escrow",
-        "url": "https://www.housingwire.com/articles/qualia-expands-wire-fraud-protection-platform-for-title-and-escrow/",
-        "what": "Expanded features include evaluation of all wire types, including commission payments and agent disbursements.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/qualia-expands-wire-fraud-protection-platform-for-title-and-escrow/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "HomeServices, Elliman notch legal wins in commission suit saga",
-        "url": "https://www.housingwire.com/articles/lutz-case-stayed-tuccori-settlement/",
-        "what": "Florida judge denied a preliminary injunction and paused the Lutz lawsuit while Tuccori court weighs opt-in settlement final approvals.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lutz-case-stayed-tuccori-settlement/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
