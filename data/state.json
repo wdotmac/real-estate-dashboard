@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-06-26 19:02 UTC",
+  "as_of": "2026-06-26 20:55 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.41,
-      "delta_bp_1d": -8.999999999999986
+      "yield_pct": 4.4,
+      "delta_bp_1d": -0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.49,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Homebuilding scale emerges as a fiduciary priority for boards",
+      "link": "https://www.housingwire.com/articles/homebuilding-scale-fiduciary-boards/",
+      "published": "Fri, 26 Jun 2026"
+    },
+    {
+      "title": "Decade-long accessibility push earns Seattle agent fair housing honor",
+      "link": "https://www.housingwire.com/articles/decade-long-accessibility-push-earns-seattle-agent-fair-housing-honor/",
+      "published": "Fri, 26 Jun 2026"
+    },
+    {
+      "title": "Don’t give away your future: Why servicing is becoming a strategic asset",
+      "link": "https://www.housingwire.com/articles/dont-give-away-your-future-why-servicing-is-becoming-a-strategic-asset/",
+      "published": "Fri, 26 Jun 2026"
+    },
+    {
       "title": "Florida homebuyers sue Compass over $475 transaction fee",
       "link": "https://www.housingwire.com/articles/florida-buyers-sue-compass-fee/",
       "published": "Fri, 26 Jun 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Viral ‘71% zero deals’ claim clashes with NAR 2026 member data",
       "link": "https://www.housingwire.com/articles/viral-71-percent-claim/",
-      "published": "Fri, 26 Jun 2026"
-    },
-    {
-      "title": "VA updates appraisal rules, adjusts fees in some regions",
-      "link": "https://www.housingwire.com/articles/va-loan-appraisal-rules-fees/",
-      "published": "Fri, 26 Jun 2026"
-    },
-    {
-      "title": "Portals and brokerages escalate real estate vertical integration race",
-      "link": "https://www.housingwire.com/articles/portals-brokerages-vertical-integration/",
-      "published": "Fri, 26 Jun 2026"
-    },
-    {
-      "title": "ARA adds REMAX president Chris Lim to board",
-      "link": "https://www.housingwire.com/articles/ara-adds-remax-chris-lim/",
       "published": "Fri, 26 Jun 2026"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Mortgage performance steady in May as calendar drives delinquency bump",
-        "url": "https://www.housingwire.com/articles/ice-may-2026-mortgage-performance-delinquencies-foreclosures/",
-        "what": "U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-may-2026-mortgage-performance-delinquencies-foreclosures/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Americans Across Party Lines Back Policies to Improve Housing Affordability: Redfin Survey",
         "url": "https://www.redfin.com/news/survey-americans-support-housing-policy/",
         "what": "Most Republicans and Democrats believe there should be federal policies in place to make housing more affordable, according to a recent Redfin survey",
@@ -222,6 +213,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Homebuilding scale emerges as a fiduciary priority for boards",
+        "url": "https://www.housingwire.com/articles/homebuilding-scale-fiduciary-boards/",
+        "what": "A question has hovered over America’s publicly traded homebuilders as the price, pace and margins plot thickened on or about February 28, 2026",
+        "numbers": "28,, 2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilding-scale-fiduciary-boards/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Decade-long accessibility push earns Seattle agent fair housing honor",
+        "url": "https://www.housingwire.com/articles/decade-long-accessibility-push-earns-seattle-agent-fair-housing-honor/",
+        "what": "Home accessibility search standards co-developed by agent Barry Long are being adopted by multiple listing services nationwide.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/decade-long-accessibility-push-earns-seattle-agent-fair-housing-honor/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "New York AG charges suspect in alleged deed theft involving 92-year-old homeowner",
         "url": "https://www.housingwire.com/articles/ny-ag-deed-theft-arrest-92-year-old-brooklyn-homeowner/",
@@ -288,6 +297,15 @@
     ],
     "notables": [
       {
+        "title": "Don’t give away your future: Why servicing is becoming a strategic asset",
+        "url": "https://www.housingwire.com/articles/dont-give-away-your-future-why-servicing-is-becoming-a-strategic-asset/",
+        "what": "A servicing portfolio gives you access, but it doesn't automatically create loyalty",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/dont-give-away-your-future-why-servicing-is-becoming-a-strategic-asset/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Florida homebuyers sue Compass over $475 transaction fee",
         "url": "https://www.housingwire.com/articles/florida-buyers-sue-compass-fee/",
         "what": "Florida buyers sue Compass over a $475 closing transaction fee, seeking class status for fees charged from June 2022 to June 2026.",
@@ -329,24 +347,6 @@
         "what": "ARA adds REMAX president Chris Lim and investor Andrew Dodge to its board and offers REMAX agents a free first year membership.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/ara-adds-remax-chris-lim/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "MISMO releases data mappings for key VA eligibility forms",
-        "url": "https://www.housingwire.com/articles/mismo-va-loan-eligibility-data-mappings/",
-        "what": "MISMO published data mappings for VA Forms 26-1880 and 26-1817, giving VA lenders a standard way to digitize and automate eligibility checks.",
-        "numbers": "26, 1880, 1817,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mismo-va-loan-eligibility-data-mappings/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How to defend commission using value not tools",
-        "url": "https://www.housingwire.com/articles/real-estate-commission-objection-metaphors/",
-        "what": "This script free approach helps agents answer commission pressure by coaching sellers on execution, not arguing about tools or fees.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-commission-objection-metaphors/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
