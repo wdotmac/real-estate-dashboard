@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-01 16:39 UTC",
+  "as_of": "2026-07-01 19:11 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Multiple lawsuits claim Hometap violated TILA in HEI contracts",
-      "link": "https://www.housingwire.com/articles/hometap-hei-tila-lawsuits/",
+      "title": "Shilo rolls out autonomous 1:1 AI coaching for agent calls",
+      "link": "https://www.housingwire.com/articles/shilo-ai-1-1-coaching/",
       "published": "Wed, 01 Jul 2026"
     },
     {
-      "title": "Antinozzi Group returns to Compass in Houston",
-      "link": "https://www.housingwire.com/articles/antinozzi-group-returns-compass/",
+      "title": "Zillow injunction hearing opens in MRED antitrust case",
+      "link": "https://www.housingwire.com/articles/zillow-mred-injunction-hearing/",
       "published": "Wed, 01 Jul 2026"
     },
     {
-      "title": "GSEs release historical FICO 10T data, expand VantageScore 4.0 file",
-      "link": "https://www.housingwire.com/articles/fico-10t-credit-data/",
+      "title": "Birthright citizenship ruling could boost homebuying confidence",
+      "link": "https://www.housingwire.com/articles/birthright-citizenship-ruling-could-boost-homebuying-confidence/",
       "published": "Wed, 01 Jul 2026"
     },
     {
-      "title": "Mortgage applications rise as purchase demand offsets refi drop",
-      "link": "https://www.housingwire.com/articles/mortgage-applications-rise-purchase/",
+      "title": "Trust & Will report finds growing demand for adviser-led estate planning",
+      "link": "https://www.housingwire.com/articles/trust-will-estate-planning-adviser/",
       "published": "Wed, 01 Jul 2026"
     },
     {
-      "title": "The ROAD housing bill’s biggest breakthrough isn’t the investor ban. It’s supply.",
-      "link": "https://www.housingwire.com/articles/factory-built-housing-small-mortgages/",
+      "title": "Is NAR damaging its trust with the membership?",
+      "link": "https://www.housingwire.com/articles/nar-discovery-ccp-scrutiny/",
       "published": "Wed, 01 Jul 2026"
     },
     {
-      "title": "Reverse Market Insight expands loan qualifying tool to include Smartfi proprietary products",
-      "link": "https://www.housingwire.com/articles/reverse-qualifier-smartfi-pricing/",
+      "title": "Finance of America widens lead as top HECM lender in June",
+      "link": "https://www.housingwire.com/articles/foa-top-hecm-june-2026/",
       "published": "Wed, 01 Jul 2026"
     },
     {
@@ -241,22 +241,31 @@
     ],
     "housing": [
       {
-        "title": "Mortgage applications rise as purchase demand offsets refi drop",
-        "url": "https://www.housingwire.com/articles/mortgage-applications-rise-purchase/",
-        "what": "Mortgage applications rose 0.04% last week as purchase demand increased and refinance activity declined, MBA found.",
-        "numbers": "0.04",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-rise-purchase/",
+        "title": "Zillow injunction hearing opens in MRED antitrust case",
+        "url": "https://www.housingwire.com/articles/zillow-mred-injunction-hearing/",
+        "what": "A two-day Chicago hearing weighs Zillow’s bid to block MRED from terminating its listing feed as the antitrust case proceeds.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-mred-injunction-hearing/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Finance of America widens lead as top HECM lender in June",
+        "url": "https://www.housingwire.com/articles/foa-top-hecm-june-2026/",
+        "what": "Finance of America remained the top Home Equity Conversion Mortgage lender in June 2026 as overall direct retail endorsements increased modestly from May but continued to trail las",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/foa-top-hecm-june-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "The ROAD housing bill’s biggest breakthrough isn’t the investor ban. It’s supply.",
-        "url": "https://www.housingwire.com/articles/factory-built-housing-small-mortgages/",
-        "what": "The ROAD to Housing Act expands factory-built housing options and directs an FHA pilot for mortgages of $100,000 or less to aid low-cost markets.",
-        "numbers": "$100,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/factory-built-housing-small-mortgages/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "title": "Introducing the 2026 Women of Influence",
+        "url": "https://www.housingwire.com/articles/introducing-the-2026-women-of-influence/",
+        "what": "HousingWire recognizes its 2026 Women of Influence honorees, celebrating 100 executives and industry leaders whose vision, leadership and expertise are shaping the future of housin",
+        "numbers": "2026, 100",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/introducing-the-2026-women-of-influence/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Most Homeowners See Their Home as a Reflection of Who They Are; Most Renters See It as Just a Place To Live",
@@ -266,33 +275,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/june-homeownership-month-how-people-feel-about-home-2026/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "The amenity arms race is over. The profit center era has begun.",
-        "url": "https://www.housingwire.com/articles/multifamily-amenity-profit-centers/",
-        "what": "Facing strict fee regulations and tight margins, multifamily operators are no longer bundling costly amenities into rent",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/multifamily-amenity-profit-centers/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Seniors hold a record share of housing wealth. The mortgage system still struggles to underwrite it.",
-        "url": "https://www.housingwire.com/articles/senior-wealth-underwriting-gap/",
-        "what": "Americans 70 and older surpassed ages 40 to 54 in real estate wealth share in 2025, and homeowners 62+ hold $14.66 trillion in equity",
-        "numbers": "70, 40, 54, 2025,, 62, $14.66",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/senior-wealth-underwriting-gap/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Newsom signs balanced budget with $1.7B locked-in for housing",
-        "url": "https://www.housingwire.com/articles/california-budget-housing-funding/",
-        "what": "This time last year, California Gov",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/california-budget-housing-funding/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Seller Choice Keeps Winning, Quietly",
@@ -324,6 +306,42 @@
     ],
     "notables": [
       {
+        "title": "Shilo rolls out autonomous 1:1 AI coaching for agent calls",
+        "url": "https://www.housingwire.com/articles/shilo-ai-1-1-coaching/",
+        "what": "Shilo launches 1:1 Coaching, an AI sales coach built on agent call data, citing 87% attrition and 40% to 60% lead waste.",
+        "numbers": "1, 87, 40, 60",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/shilo-ai-1-1-coaching/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Birthright citizenship ruling could boost homebuying confidence",
+        "url": "https://www.housingwire.com/articles/birthright-citizenship-ruling-could-boost-homebuying-confidence/",
+        "what": "For many affected households weighing whether to buy a first home, the ruling removes uncertainty surrounding their future in the U.S.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/birthright-citizenship-ruling-could-boost-homebuying-confidence/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Trust & Will report finds growing demand for adviser-led estate planning",
+        "url": "https://www.housingwire.com/articles/trust-will-estate-planning-adviser/",
+        "what": "A growing share of Americans now expect financial advisers to handle estate planning, and many would consider switching firms if they do not,",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trust-will-estate-planning-adviser/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Is NAR damaging its trust with the membership?",
+        "url": "https://www.housingwire.com/articles/nar-discovery-ccp-scrutiny/",
+        "what": "In thePLS antitrust challenge to CCP, NAR subpoenaed ARA seeking 2017 NAR Accountability Project communications, sparking privacy concerns.",
+        "numbers": "2017",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-discovery-ccp-scrutiny/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Antinozzi Group returns to Compass in Houston",
         "url": "https://www.housingwire.com/articles/antinozzi-group-returns-compass/",
         "what": "Houston-based Antinozzi Group rejoined Compass from REMAX after closing 35 sides and $30.80 million in 2025 sales volume.",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/antinozzi-group-returns-compass/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Reverse Market Insight expands loan qualifying tool to include Smartfi proprietary products",
-        "url": "https://www.housingwire.com/articles/reverse-qualifier-smartfi-pricing/",
-        "what": "RMI expanded Reverse Qualifier to model Smartfi Choice proprietary reverse loans alongside HECMs, with proceeds, costs and comp tracking.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-qualifier-smartfi-pricing/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "When AI listing videos look too real: the disclosure test agents need now",
-        "url": "https://www.housingwire.com/articles/ai-listing-video-disclosure-test/",
-        "what": "Agents using AI listing videos should disclose simulated footage and material edits, as states like California set 2026 rules.",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-listing-video-disclosure-test/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
