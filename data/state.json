@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-01 06:44 UTC",
+  "as_of": "2026-07-01 10:48 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Reverse Market Insight expands loan qualifying tool to include Smartfi proprietary products",
+      "link": "https://www.housingwire.com/articles/reverse-qualifier-smartfi-pricing/",
+      "published": "Wed, 01 Jul 2026"
+    },
+    {
+      "title": "The amenity arms race is over. The profit center era has begun.",
+      "link": "https://www.housingwire.com/articles/multifamily-amenity-profit-centers/",
+      "published": "Wed, 01 Jul 2026"
+    },
+    {
+      "title": "Seniors hold a record share of housing wealth. The mortgage system still struggles to underwrite it.",
+      "link": "https://www.housingwire.com/articles/senior-wealth-underwriting-gap/",
+      "published": "Wed, 01 Jul 2026"
+    },
+    {
       "title": "When AI listing videos look too real: the disclosure test agents need now",
       "link": "https://www.housingwire.com/articles/ai-listing-video-disclosure-test/",
       "published": "Tue, 30 Jun 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Why Carlisle Companies targets Owens Corning for an M&A combo",
       "link": "https://www.housingwire.com/articles/carlisle-companies-owens-corning/",
-      "published": "Tue, 30 Jun 2026"
-    },
-    {
-      "title": "Trump calls 21st Century ROAD to Housing Act ‘a yawn’",
-      "link": "https://www.housingwire.com/articles/trump-calls-21st-century-road-to-housing-act-a-yawn/",
-      "published": "Tue, 30 Jun 2026"
-    },
-    {
-      "title": "Why Fed President Beth Hammack wants more rate hikes",
-      "link": "https://www.housingwire.com/articles/fed-president-beth-hammack-more-rate-hikes/",
-      "published": "Tue, 30 Jun 2026"
-    },
-    {
-      "title": "MRED seeks arbitration in Zillow antitrust lawsuit",
-      "link": "https://www.housingwire.com/articles/mred-compel-arbitration-zillow/",
       "published": "Tue, 30 Jun 2026"
     },
     {
@@ -232,6 +232,24 @@
     ],
     "housing": [
       {
+        "title": "The amenity arms race is over. The profit center era has begun.",
+        "url": "https://www.housingwire.com/articles/multifamily-amenity-profit-centers/",
+        "what": "Facing strict fee regulations and tight margins, multifamily operators are no longer bundling costly amenities into rent",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/multifamily-amenity-profit-centers/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Seniors hold a record share of housing wealth. The mortgage system still struggles to underwrite it.",
+        "url": "https://www.housingwire.com/articles/senior-wealth-underwriting-gap/",
+        "what": "Americans 70 and older surpassed ages 40 to 54 in real estate wealth share in 2025, and homeowners 62+ hold $14.66 trillion in equity",
+        "numbers": "70, 40, 54, 2025,, 62, $14.66",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/senior-wealth-underwriting-gap/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Newsom signs balanced budget with $1.7B locked-in for housing",
         "url": "https://www.housingwire.com/articles/california-budget-housing-funding/",
         "what": "This time last year, California Gov",
@@ -257,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mred-compel-arbitration-zillow/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CRMLS adds ‘Limited Exposure Coming Soon’ listing option",
-        "url": "https://www.housingwire.com/articles/crmls-limited-exposure-coming-soon/",
-        "what": "CRMLS launched 'Limited Exposure Coming Soon' listings, letting sellers set Internet display to No and exclude listings from IDX feeds.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/crmls-limited-exposure-coming-soon/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Seller Choice Keeps Winning, Quietly",
@@ -306,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "Reverse Market Insight expands loan qualifying tool to include Smartfi proprietary products",
+        "url": "https://www.housingwire.com/articles/reverse-qualifier-smartfi-pricing/",
+        "what": "RMI expanded Reverse Qualifier to model Smartfi Choice proprietary reverse loans alongside HECMs, with proceeds, costs and comp tracking.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-qualifier-smartfi-pricing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "When AI listing videos look too real: the disclosure test agents need now",
         "url": "https://www.housingwire.com/articles/ai-listing-video-disclosure-test/",
         "what": "Agents using AI listing videos should disclose simulated footage and material edits, as states like California set 2026 rules.",
@@ -329,24 +347,6 @@
         "what": "Reps",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/liccardo-timmons-bill-ounce-of-prevention-act/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Non-QM originations on pace for new post-crisis record in 2026",
-        "url": "https://www.housingwire.com/articles/non-qm-originations-175b-2026/",
-        "what": "Non-QM production is expected to reach $175 billion in 2026, compared to $108 billion in 2025.",
-        "numbers": "$175 billion, 2026,, $108 billion, 2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/non-qm-originations-175b-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Portside Real Estate Group adds agent Heather Szela in central Maine",
-        "url": "https://www.housingwire.com/articles/portside-real-estate-group-adds-agent-heather-szela-in-central-maine/",
-        "what": "A LeadingRE affiliate, Portside Real Estate Group reported $1.33 billion in 2025 volume across 2,090 transaction sides.",
-        "numbers": "$1.33 billion, 2025, 2,090",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/portside-real-estate-group-adds-agent-heather-szela-in-central-maine/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
