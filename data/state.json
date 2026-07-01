@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-07-01 19:11 UTC",
+  "as_of": "2026-07-01 20:53 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.38,
-      "delta_bp_1d": 0.0
+      "yield_pct": 4.44,
+      "delta_bp_1d": 6.00000000000005
     },
     "mortgage_30y": {
       "rate_pct": 6.49,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Why mortgage rates are rising, not falling, with oil under $70",
+      "link": "https://www.housingwire.com/articles/why-mortgage-rates-are-rising-not-falling-with-oil-under-70/",
+      "published": "Wed, 01 Jul 2026"
+    },
+    {
+      "title": "Harvest Capital, TPG close $600M Metro Development Group line",
+      "link": "https://www.housingwire.com/articles/harvest-capital-tpg-600-million-recapitalization/",
+      "published": "Wed, 01 Jul 2026"
+    },
+    {
+      "title": "Nonbanks drive agency ARM increase as borrower leverage grows",
+      "link": "https://www.housingwire.com/articles/nonbanks-agency-arms-2026/",
+      "published": "Wed, 01 Jul 2026"
+    },
+    {
+      "title": "NAIOP pivots to Commercial Real Estate Development Association",
+      "link": "https://www.housingwire.com/articles/naiop-rebrands-creda/",
+      "published": "Wed, 01 Jul 2026"
+    },
+    {
       "title": "Shilo rolls out autonomous 1:1 AI coaching for agent calls",
       "link": "https://www.housingwire.com/articles/shilo-ai-1-1-coaching/",
       "published": "Wed, 01 Jul 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Zillow injunction hearing opens in MRED antitrust case",
       "link": "https://www.housingwire.com/articles/zillow-mred-injunction-hearing/",
-      "published": "Wed, 01 Jul 2026"
-    },
-    {
-      "title": "Birthright citizenship ruling could boost homebuying confidence",
-      "link": "https://www.housingwire.com/articles/birthright-citizenship-ruling-could-boost-homebuying-confidence/",
-      "published": "Wed, 01 Jul 2026"
-    },
-    {
-      "title": "Trust & Will report finds growing demand for adviser-led estate planning",
-      "link": "https://www.housingwire.com/articles/trust-will-estate-planning-adviser/",
-      "published": "Wed, 01 Jul 2026"
-    },
-    {
-      "title": "Is NAR damaging its trust with the membership?",
-      "link": "https://www.housingwire.com/articles/nar-discovery-ccp-scrutiny/",
-      "published": "Wed, 01 Jul 2026"
-    },
-    {
-      "title": "Finance of America widens lead as top HECM lender in June",
-      "link": "https://www.housingwire.com/articles/foa-top-hecm-june-2026/",
       "published": "Wed, 01 Jul 2026"
     },
     {
@@ -203,22 +203,13 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Multiple lawsuits claim Hometap violated TILA in HEI contracts",
-        "url": "https://www.housingwire.com/articles/hometap-hei-tila-lawsuits/",
-        "what": "The lawsuits allege Hometap improperly structured its home equity investment contracts as \"Option Purchase Agreements\" to avoid federal and state mortgage lending laws.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hometap-hei-tila-lawsuits/",
+        "title": "Why mortgage rates are rising, not falling, with oil under $70",
+        "url": "https://www.housingwire.com/articles/why-mortgage-rates-are-rising-not-falling-with-oil-under-70/",
+        "what": "A hawkish Fed outlook is anchoring the 10-year near 4.46% to 4.48%, keeping mortgage rates near 6.50% to 6.75% despite oil.",
+        "numbers": "10, 4.46, 4.48, 6.50, 6.75",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-mortgage-rates-are-rising-not-falling-with-oil-under-70/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "GSEs release historical FICO 10T data, expand VantageScore 4.0 file",
-        "url": "https://www.housingwire.com/articles/fico-10t-credit-data/",
-        "what": "Fannie Mae and Freddie Mac on Wednesday released historical credit score data for FICO Score 10T and additional data for VantageScore 4.0.",
-        "numbers": "10, 4.0.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fico-10t-credit-data/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "A Tale of Two Markets: Luxury Home Prices Are Rising 3 Times Faster Than Non-Luxury Prices",
@@ -241,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "Nonbanks drive agency ARM increase as borrower leverage grows",
+        "url": "https://www.housingwire.com/articles/nonbanks-agency-arms-2026/",
+        "what": "Adjustable-rate mortgages (ARMs) remain a minority of total agency originations, but they have reemerged in 2026.",
+        "numbers": "2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nonbanks-agency-arms-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Zillow injunction hearing opens in MRED antitrust case",
         "url": "https://www.housingwire.com/articles/zillow-mred-injunction-hearing/",
         "what": "A two-day Chicago hearing weighs Zillow’s bid to block MRED from terminating its listing feed as the antitrust case proceeds.",
@@ -257,15 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/foa-top-hecm-june-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Introducing the 2026 Women of Influence",
-        "url": "https://www.housingwire.com/articles/introducing-the-2026-women-of-influence/",
-        "what": "HousingWire recognizes its 2026 Women of Influence honorees, celebrating 100 executives and industry leaders whose vision, leadership and expertise are shaping the future of housin",
-        "numbers": "2026, 100",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/introducing-the-2026-women-of-influence/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Most Homeowners See Their Home as a Reflection of Who They Are; Most Renters See It as Just a Place To Live",
@@ -306,6 +297,24 @@
     ],
     "notables": [
       {
+        "title": "Harvest Capital, TPG close $600M Metro Development Group line",
+        "url": "https://www.housingwire.com/articles/harvest-capital-tpg-600-million-recapitalization/",
+        "what": "Harvest Capital and TPG closed a $600M recapitalization and expansion facility for Metro Development Group, backing 10 Florida MPCs and Southeast growth.",
+        "numbers": "$600, 10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/harvest-capital-tpg-600-million-recapitalization/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "NAIOP pivots to Commercial Real Estate Development Association",
+        "url": "https://www.housingwire.com/articles/naiop-rebrands-creda/",
+        "what": "NAIOP rebranded as the Commercial Real Estate Development Association, also known as CREDA",
+        "numbers": "1967,, 21,000, 55",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/naiop-rebrands-creda/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Shilo rolls out autonomous 1:1 AI coaching for agent calls",
         "url": "https://www.housingwire.com/articles/shilo-ai-1-1-coaching/",
         "what": "Shilo launches 1:1 Coaching, an AI sales coach built on agent call data, citing 87% attrition and 40% to 60% lead waste.",
@@ -338,15 +347,6 @@
         "what": "In thePLS antitrust challenge to CCP, NAR subpoenaed ARA seeking 2017 NAR Accountability Project communications, sparking privacy concerns.",
         "numbers": "2017",
         "justified": "housingwire.com — https://www.housingwire.com/articles/nar-discovery-ccp-scrutiny/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Antinozzi Group returns to Compass in Houston",
-        "url": "https://www.housingwire.com/articles/antinozzi-group-returns-compass/",
-        "what": "Houston-based Antinozzi Group rejoined Compass from REMAX after closing 35 sides and $30.80 million in 2025 sales volume.",
-        "numbers": "35, $30.80 million, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/antinozzi-group-returns-compass/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
