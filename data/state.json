@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-01 13:40 UTC",
+  "as_of": "2026-07-01 16:39 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Multiple lawsuits claim Hometap violated TILA in HEI contracts",
+      "link": "https://www.housingwire.com/articles/hometap-hei-tila-lawsuits/",
+      "published": "Wed, 01 Jul 2026"
+    },
+    {
+      "title": "Antinozzi Group returns to Compass in Houston",
+      "link": "https://www.housingwire.com/articles/antinozzi-group-returns-compass/",
+      "published": "Wed, 01 Jul 2026"
+    },
+    {
+      "title": "GSEs release historical FICO 10T data, expand VantageScore 4.0 file",
+      "link": "https://www.housingwire.com/articles/fico-10t-credit-data/",
+      "published": "Wed, 01 Jul 2026"
+    },
+    {
+      "title": "Mortgage applications rise as purchase demand offsets refi drop",
+      "link": "https://www.housingwire.com/articles/mortgage-applications-rise-purchase/",
+      "published": "Wed, 01 Jul 2026"
+    },
+    {
       "title": "The ROAD housing bill’s biggest breakthrough isn’t the investor ban. It’s supply.",
       "link": "https://www.housingwire.com/articles/factory-built-housing-small-mortgages/",
       "published": "Wed, 01 Jul 2026"
@@ -148,26 +168,6 @@
       "title": "Reverse Market Insight expands loan qualifying tool to include Smartfi proprietary products",
       "link": "https://www.housingwire.com/articles/reverse-qualifier-smartfi-pricing/",
       "published": "Wed, 01 Jul 2026"
-    },
-    {
-      "title": "The amenity arms race is over. The profit center era has begun.",
-      "link": "https://www.housingwire.com/articles/multifamily-amenity-profit-centers/",
-      "published": "Wed, 01 Jul 2026"
-    },
-    {
-      "title": "Seniors hold a record share of housing wealth. The mortgage system still struggles to underwrite it.",
-      "link": "https://www.housingwire.com/articles/senior-wealth-underwriting-gap/",
-      "published": "Wed, 01 Jul 2026"
-    },
-    {
-      "title": "When AI listing videos look too real: the disclosure test agents need now",
-      "link": "https://www.housingwire.com/articles/ai-listing-video-disclosure-test/",
-      "published": "Tue, 30 Jun 2026"
-    },
-    {
-      "title": "Newsom signs balanced budget with $1.7B locked-in for housing",
-      "link": "https://www.housingwire.com/articles/california-budget-housing-funding/",
-      "published": "Tue, 30 Jun 2026"
     },
     {
       "title": "Most Homeowners See Their Home as a Reflection of Who They Are; Most Renters See It as Just a Place To Live",
@@ -203,13 +203,22 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Why Fed President Beth Hammack wants more rate hikes",
-        "url": "https://www.housingwire.com/articles/fed-president-beth-hammack-more-rate-hikes/",
-        "what": "Oil is near $70, but Fed hawks cite sticky inflation and full employment, keeping rate hikes in play and mortgage rates from falling.",
-        "numbers": "$70,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-president-beth-hammack-more-rate-hikes/",
+        "title": "Multiple lawsuits claim Hometap violated TILA in HEI contracts",
+        "url": "https://www.housingwire.com/articles/hometap-hei-tila-lawsuits/",
+        "what": "The lawsuits allege Hometap improperly structured its home equity investment contracts as \"Option Purchase Agreements\" to avoid federal and state mortgage lending laws.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hometap-hei-tila-lawsuits/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "GSEs release historical FICO 10T data, expand VantageScore 4.0 file",
+        "url": "https://www.housingwire.com/articles/fico-10t-credit-data/",
+        "what": "Fannie Mae and Freddie Mac on Wednesday released historical credit score data for FICO Score 10T and additional data for VantageScore 4.0.",
+        "numbers": "10, 4.0.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fico-10t-credit-data/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "A Tale of Two Markets: Luxury Home Prices Are Rising 3 Times Faster Than Non-Luxury Prices",
@@ -231,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Mortgage applications rise as purchase demand offsets refi drop",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-rise-purchase/",
+        "what": "Mortgage applications rose 0.04% last week as purchase demand increased and refinance activity declined, MBA found.",
+        "numbers": "0.04",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-rise-purchase/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "The ROAD housing bill’s biggest breakthrough isn’t the investor ban. It’s supply.",
         "url": "https://www.housingwire.com/articles/factory-built-housing-small-mortgages/",
@@ -277,24 +295,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Trump calls 21st Century ROAD to Housing Act ‘a yawn’",
-        "url": "https://www.housingwire.com/articles/trump-calls-21st-century-road-to-housing-act-a-yawn/",
-        "what": "The comments came as Trump reinforced prioritization of the Safeguard American Voter Eligibility (SAVE) Act as his top domestic priority.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-calls-21st-century-road-to-housing-act-a-yawn/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "MRED seeks arbitration in Zillow antitrust lawsuit",
-        "url": "https://www.housingwire.com/articles/mred-compel-arbitration-zillow/",
-        "what": "MRED asked the court to compel arbitration with Zillow and stay claims ahead of a 2 day hearing on a preliminary injunction motion.",
-        "numbers": "2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mred-compel-arbitration-zillow/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Seller Choice Keeps Winning, Quietly",
         "url": "https://www.redfin.com/news/seller-choice-keeps-winning-quietly/",
         "what": "CRMLS, the largest real estate listing service in the country, just gave home sellers a more flexible way to bring their home to the market before it is broadly launched across the internet",
@@ -324,6 +324,15 @@
     ],
     "notables": [
       {
+        "title": "Antinozzi Group returns to Compass in Houston",
+        "url": "https://www.housingwire.com/articles/antinozzi-group-returns-compass/",
+        "what": "Houston-based Antinozzi Group rejoined Compass from REMAX after closing 35 sides and $30.80 million in 2025 sales volume.",
+        "numbers": "35, $30.80 million, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/antinozzi-group-returns-compass/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Reverse Market Insight expands loan qualifying tool to include Smartfi proprietary products",
         "url": "https://www.housingwire.com/articles/reverse-qualifier-smartfi-pricing/",
         "what": "RMI expanded Reverse Qualifier to model Smartfi Choice proprietary reverse loans alongside HECMs, with proceeds, costs and comp tracking.",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/ai-listing-video-disclosure-test/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Why Carlisle Companies targets Owens Corning for an M&A combo",
-        "url": "https://www.housingwire.com/articles/carlisle-companies-owens-corning/",
-        "what": "A WSJ report said Carlisle has made repeated unsolicited bids to buy Owens Corning for well over $10B",
-        "numbers": "$10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/carlisle-companies-owens-corning/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
