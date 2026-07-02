@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-02 14:28 UTC",
+  "as_of": "2026-07-02 17:01 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": 6.00000000000005
     },
     "mortgage_30y": {
-      "rate_pct": 6.49,
-      "delta_bp_wow": 2.000000000000046
+      "rate_pct": 6.43,
+      "delta_bp_wow": -6.00000000000005
     },
     "starts": {
       "level_saar": 1177.0,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Zillow’s latest lawsuit is not about consumers, and it never was",
+      "link": "https://www.housingwire.com/articles/zillow-compass-mred-lawsuit-oped/",
+      "published": "Thu, 02 Jul 2026"
+    },
+    {
+      "title": "NEXA CEO Mike Kortas launches evoLend servicing company",
+      "link": "https://www.housingwire.com/articles/mike-kortas-evolend-servicing/",
+      "published": "Thu, 02 Jul 2026"
+    },
+    {
+      "title": "America 250 series salutes LP Building Solutions’ pioneering role",
+      "link": "https://www.housingwire.com/articles/lp-building-solutions-usa-today-america-250-homebuilding/",
+      "published": "Thu, 02 Jul 2026"
+    },
+    {
+      "title": "June jobs report shows 57,000 payroll gain, unemployment at 4.2%",
+      "link": "https://www.housingwire.com/articles/june-jobs-report-57000/",
+      "published": "Thu, 02 Jul 2026"
+    },
+    {
       "title": "The American Dream is not dead, it moved to markets that still build",
       "link": "https://www.housingwire.com/articles/homeownership-migrating-places-build/",
       "published": "Thu, 02 Jul 2026"
@@ -148,26 +168,6 @@
       "title": "Consumer groups ask FTC and DOJ to probe Compass MLS deals",
       "link": "https://www.housingwire.com/articles/probe-compass-mls-deals/",
       "published": "Thu, 02 Jul 2026"
-    },
-    {
-      "title": "Avoiding AI deed fraud in Florida: What property owners need to know",
-      "link": "https://www.housingwire.com/articles/florida-ai-deed-fraud/",
-      "published": "Thu, 02 Jul 2026"
-    },
-    {
-      "title": "The mortgage market is misreading its retiree borrowers",
-      "link": "https://www.housingwire.com/articles/retiree-mortgage-denials-assets/",
-      "published": "Thu, 02 Jul 2026"
-    },
-    {
-      "title": "Berkshire’s Clayton adds McGuinn Homes to Mungo as scale race widens",
-      "link": "https://www.housingwire.com/articles/mcguinn-homes-sale-scale/",
-      "published": "Wed, 01 Jul 2026"
-    },
-    {
-      "title": "FOA completes deal for Onity reverse mortgage assets, adding $5.2B in UPB",
-      "link": "https://www.housingwire.com/articles/finance-of-america-acquires-onity-reverse-mortgage-servicing-rights/",
-      "published": "Wed, 01 Jul 2026"
     },
     {
       "title": "Monthly Payments Tick Up For First Time in 8 Months As Home Prices Hit Record High",
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "June jobs report shows 57,000 payroll gain, unemployment at 4.2%",
+        "url": "https://www.housingwire.com/articles/june-jobs-report-57000/",
+        "what": "U.S",
+        "numbers": "57,000, 72,000,, 4.2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/june-jobs-report-57000/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "The American Dream is not dead, it moved to markets that still build",
         "url": "https://www.housingwire.com/articles/homeownership-migrating-places-build/",
         "what": "Every few years, an elite institution announces that the American Dream is over",
@@ -221,15 +230,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Why mortgage rates are rising, not falling, with oil under $70",
-        "url": "https://www.housingwire.com/articles/why-mortgage-rates-are-rising-not-falling-with-oil-under-70/",
-        "what": "A hawkish Fed outlook is anchoring the 10-year near 4.46% to 4.48%, keeping mortgage rates near 6.50% to 6.75% despite oil.",
-        "numbers": "10, 4.46, 4.48, 6.50, 6.75",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/why-mortgage-rates-are-rising-not-falling-with-oil-under-70/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "A Tale of Two Markets: Luxury Home Prices Are Rising 3 Times Faster Than Non-Luxury Prices",
         "url": "https://www.redfin.com/news/luxury-housing-market-may-2026/",
         "what": "Luxury U.S",
@@ -240,6 +240,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Zillow’s latest lawsuit is not about consumers, and it never was",
+        "url": "https://www.housingwire.com/articles/zillow-compass-mred-lawsuit-oped/",
+        "what": "Op-ed argues Zillow’s Compass and MRED lawsuit follows NAR’s March 2025 delayed syndication option, focusing on MLS data access.",
+        "numbers": "2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-compass-mred-lawsuit-oped/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "NEXA CEO Mike Kortas launches evoLend servicing company",
+        "url": "https://www.housingwire.com/articles/mike-kortas-evolend-servicing/",
+        "what": "Mike Kortas is stepping into the mortgage servicing space with the launch of evoLend",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mike-kortas-evolend-servicing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Consumer groups ask FTC and DOJ to probe Compass MLS deals",
         "url": "https://www.housingwire.com/articles/probe-compass-mls-deals/",
@@ -275,15 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/finance-of-america-acquires-onity-reverse-mortgage-servicing-rights/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "California November ballot: a billionaire tax and new local tax limits",
-        "url": "https://www.housingwire.com/articles/california-tax-measures-november-ballot/",
-        "what": "California has long been synonymous with high taxes, but new fights over who will pay them are exposing a sharper fault line",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/california-tax-measures-november-ballot/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Most Homeowners See Their Home as a Reflection of Who They Are; Most Renters See It as Just a Place To Live",
@@ -324,29 +333,20 @@
     ],
     "notables": [
       {
+        "title": "America 250 series salutes LP Building Solutions’ pioneering role",
+        "url": "https://www.housingwire.com/articles/lp-building-solutions-usa-today-america-250-homebuilding/",
+        "what": "LP Building Solutions’ role in the evolution of engineered wood products and American homebuilding is the focus of a new USA Today documentary segment, part of the publisher’s “America 250” series on U.S",
+        "numbers": "250, 2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lp-building-solutions-usa-today-america-250-homebuilding/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Avoiding AI deed fraud in Florida: What property owners need to know",
         "url": "https://www.housingwire.com/articles/florida-ai-deed-fraud/",
         "what": "Florida’s deed fraud risk is increasing as fraudsters use public records and AI tools to impersonate owners and forge documents",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/florida-ai-deed-fraud/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Tom Blanchard keeps Blanchard & Calhoun focused on what big firms can’t buy",
-        "url": "https://www.housingwire.com/articles/blanchard-calhoun-consolidation-augusta/",
-        "what": "Blanchard and Calhoun says community focus and agent support help it compete in Augusta amid consolidation and commission pressure.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/blanchard-calhoun-consolidation-augusta/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Harvest Capital, TPG close $600M Metro Development Group line",
-        "url": "https://www.housingwire.com/articles/harvest-capital-tpg-600-million-recapitalization/",
-        "what": "Harvest Capital and TPG closed a $600M recapitalization and expansion facility for Metro Development Group, backing 10 Florida MPCs and Southeast growth.",
-        "numbers": "$600, 10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/harvest-capital-tpg-600-million-recapitalization/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
