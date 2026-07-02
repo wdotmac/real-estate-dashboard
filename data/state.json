@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-02 08:24 UTC",
+  "as_of": "2026-07-02 11:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Consumer groups ask FTC and DOJ to probe Compass MLS deals",
+      "link": "https://www.housingwire.com/articles/probe-compass-mls-deals/",
+      "published": "Thu, 02 Jul 2026"
+    },
+    {
       "title": "Avoiding AI deed fraud in Florida: What property owners need to know",
       "link": "https://www.housingwire.com/articles/florida-ai-deed-fraud/",
       "published": "Thu, 02 Jul 2026"
@@ -162,11 +167,6 @@
     {
       "title": "California November ballot: a billionaire tax and new local tax limits",
       "link": "https://www.housingwire.com/articles/california-tax-measures-november-ballot/",
-      "published": "Wed, 01 Jul 2026"
-    },
-    {
-      "title": "Tom Blanchard keeps Blanchard & Calhoun focused on what big firms can’t buy",
-      "link": "https://www.housingwire.com/articles/blanchard-calhoun-consolidation-augusta/",
       "published": "Wed, 01 Jul 2026"
     },
     {
@@ -231,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Consumer groups ask FTC and DOJ to probe Compass MLS deals",
+        "url": "https://www.housingwire.com/articles/probe-compass-mls-deals/",
+        "what": "Consumer coalition asks FTC and DOJ to investigate Compass MLS deals, citing off-MLS pocket listings, competition limits and fair housing risks.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/probe-compass-mls-deals/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "The mortgage market is misreading its retiree borrowers",
         "url": "https://www.housingwire.com/articles/retiree-mortgage-denials-assets/",
@@ -338,15 +347,6 @@
         "what": "Harvest Capital and TPG closed a $600M recapitalization and expansion facility for Metro Development Group, backing 10 Florida MPCs and Southeast growth.",
         "numbers": "$600, 10",
         "justified": "housingwire.com — https://www.housingwire.com/articles/harvest-capital-tpg-600-million-recapitalization/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "NAIOP pivots to Commercial Real Estate Development Association",
-        "url": "https://www.housingwire.com/articles/naiop-rebrands-creda/",
-        "what": "NAIOP rebranded as the Commercial Real Estate Development Association, also known as CREDA",
-        "numbers": "1967,, 21,000, 55",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/naiop-rebrands-creda/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
