@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-03 18:38 UTC",
+  "as_of": "2026-07-03 20:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Reffkin takes the stand, MRED CEO says Zillow threatened litigation over listing policy dispute",
+      "link": "https://www.housingwire.com/articles/zillow-injunction-hearing-testimony/",
+      "published": "Fri, 03 Jul 2026"
+    },
+    {
       "title": "Government-backed modular housing trend arrives in Cleveland",
       "link": "https://www.housingwire.com/articles/cleveland-local-government-modular-housing-backing/",
       "published": "Thu, 02 Jul 2026"
@@ -162,11 +167,6 @@
     {
       "title": "MISMO updates mortgage insurance data guide for VantageScore 4.0 and FICO 10T",
       "link": "https://www.housingwire.com/articles/mismo-mortgage-insurance-guide-vantagescore-4-fico-10t/",
-      "published": "Thu, 02 Jul 2026"
-    },
-    {
-      "title": "America 250 is a turning point for American homeownership",
-      "link": "https://www.housingwire.com/articles/america-250-future-us-homeownership/",
       "published": "Thu, 02 Jul 2026"
     },
     {
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "TitleEase accelerates growth as franchise model gains traction",
-        "url": "https://www.housingwire.com/articles/titleease-accelerates-growth-as-franchise-model-gains-traction/",
-        "what": "Unlike traditional joint ventures, TitleEase structures its model so franchise owners establish and own their own title company.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/titleease-accelerates-growth-as-franchise-model-gains-traction/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Monthly Payments Tick Up For First Time in 8 Months As Home Prices Hit Record High",
         "url": "https://www.redfin.com/news/housing-market-update-payments-rise-prices-record-high/",
         "what": "The median U.S",
@@ -249,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Reffkin takes the stand, MRED CEO says Zillow threatened litigation over listing policy dispute",
+        "url": "https://www.housingwire.com/articles/zillow-injunction-hearing-testimony/",
+        "what": "Compass and MRED leaders testified Zillow threatened litigation over listing access standards, briefs due July 9 and July 13.",
+        "numbers": "9, 13.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-injunction-hearing-testimony/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Government-backed modular housing trend arrives in Cleveland",
         "url": "https://www.housingwire.com/articles/cleveland-local-government-modular-housing-backing/",
