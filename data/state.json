@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-04 21:13 UTC",
+  "as_of": "2026-07-04 22:13 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Better mortgage spreads are still keeping home sales positive",
+      "link": "https://www.housingwire.com/articles/better-mortgage-spreads-are-still-keeping-home-sales-positive/",
+      "published": "Sat, 04 Jul 2026"
+    },
+    {
       "title": "Reffkin takes the stand, MRED CEO says Zillow threatened litigation over listing policy dispute",
       "link": "https://www.housingwire.com/articles/zillow-injunction-hearing-testimony/",
       "published": "Fri, 03 Jul 2026"
@@ -162,11 +167,6 @@
     {
       "title": "RealTrends Verified The Craig Tann Group continues decade of growth",
       "link": "https://www.housingwire.com/articles/realtrends-verified-the-craig-tann-group-continues-decade-of-growth/",
-      "published": "Thu, 02 Jul 2026"
-    },
-    {
-      "title": "MISMO updates mortgage insurance data guide for VantageScore 4.0 and FICO 10T",
-      "link": "https://www.housingwire.com/articles/mismo-mortgage-insurance-guide-vantagescore-4-fico-10t/",
       "published": "Thu, 02 Jul 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Better mortgage spreads are still keeping home sales positive",
+        "url": "https://www.housingwire.com/articles/better-mortgage-spreads-are-still-keeping-home-sales-positive/",
+        "what": "Mortgage spreads improved to 2.01%, keeping rates near 6.60% as total pending sales rose to 422,120 vs 396,652 last year.",
+        "numbers": "2.01, 6.60, 422,120, 396,652",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-mortgage-spreads-are-still-keeping-home-sales-positive/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "MISMO updates mortgage insurance data guide for VantageScore 4.0 and FICO 10T",
         "url": "https://www.housingwire.com/articles/mismo-mortgage-insurance-guide-vantagescore-4-fico-10t/",
@@ -329,15 +338,6 @@
         "what": "A home is more than just a place to live—it is the foundation of American civic stability",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/america-250-future-us-homeownership/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Compass International Holdings rolls out Home Platform across brokerage brands",
-        "url": "https://www.housingwire.com/articles/compass-home-platform-rollout/",
-        "what": "Compass International Holdings will roll out Home Platform to @properties, Coldwell Banker Realty, Corcoran and Sotheby’s brands this summer.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-home-platform-rollout/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
