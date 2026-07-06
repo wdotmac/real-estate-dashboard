@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-06 12:57 UTC",
+  "as_of": "2026-07-06 16:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Could a $475 Compass fee spark the next wave of real estate lawsuits?",
+      "link": "https://www.housingwire.com/articles/transaction-fee-lawsuits-nar/",
+      "published": "Mon, 06 Jul 2026"
+    },
+    {
+      "title": "Mortgage hiring stays active as 266 originators change employers",
+      "link": "https://www.housingwire.com/articles/mortgage-hiring-266-originators/",
+      "published": "Mon, 06 Jul 2026"
+    },
+    {
+      "title": "ICE: Gen Z posts record share of mortgage rate locks in Q2",
+      "link": "https://www.housingwire.com/articles/gen-z-hits-record-share-mortgage-rate-locks-q2-2026/",
+      "published": "Mon, 06 Jul 2026"
+    },
+    {
+      "title": "Why AI will not make residential land development easy",
+      "link": "https://www.housingwire.com/articles/ai-land-development-judgment/",
+      "published": "Mon, 06 Jul 2026"
+    },
+    {
       "title": "Longbridge’s Chris Mayer on ideas to borrow from other countries in later-life lending",
       "link": "https://www.housingwire.com/articles/uk-lessons-later-life-lending/",
       "published": "Mon, 06 Jul 2026"
@@ -148,26 +168,6 @@
       "title": "Third time’s the charm: Arizona’s new special  district opportunity",
       "link": "https://www.housingwire.com/articles/arizona-said-districts/",
       "published": "Mon, 06 Jul 2026"
-    },
-    {
-      "title": "Turning insight to action for real estate pros",
-      "link": "https://www.housingwire.com/articles/kcm-joins-housingwire-solutions/",
-      "published": "Mon, 06 Jul 2026"
-    },
-    {
-      "title": "Better mortgage spreads are still keeping home sales positive",
-      "link": "https://www.housingwire.com/articles/better-mortgage-spreads-are-still-keeping-home-sales-positive/",
-      "published": "Sat, 04 Jul 2026"
-    },
-    {
-      "title": "Reffkin takes the stand, MRED CEO says Zillow threatened litigation over listing policy dispute",
-      "link": "https://www.housingwire.com/articles/zillow-injunction-hearing-testimony/",
-      "published": "Fri, 03 Jul 2026"
-    },
-    {
-      "title": "Government-backed modular housing trend arrives in Cleveland",
-      "link": "https://www.housingwire.com/articles/cleveland-local-government-modular-housing-backing/",
-      "published": "Thu, 02 Jul 2026"
     },
     {
       "title": "Monthly Payments Tick Up For First Time in 8 Months As Home Prices Hit Record High",
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "ICE: Gen Z posts record share of mortgage rate locks in Q2",
+        "url": "https://www.housingwire.com/articles/gen-z-hits-record-share-mortgage-rate-locks-q2-2026/",
+        "what": "Generation Z accounted for a record 20% of home purchase rate locks in the second quarter, marking the largest share on record as younger buyers continue to gain ground despite ong",
+        "numbers": "20",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gen-z-hits-record-share-mortgage-rate-locks-q2-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Third time’s the charm: Arizona’s new special  district opportunity",
         "url": "https://www.housingwire.com/articles/arizona-said-districts/",
         "what": "Arizona House Bill 2999 creates State Affordability Infrastructure Districts formed through the Arizona Finance Authority, reducing local approval risk",
@@ -217,15 +226,6 @@
         "what": "Mortgage spreads improved to 2.01%, keeping rates near 6.60% as total pending sales rose to 422,120 vs 396,652 last year.",
         "numbers": "2.01, 6.60, 422,120, 396,652",
         "justified": "housingwire.com — https://www.housingwire.com/articles/better-mortgage-spreads-are-still-keeping-home-sales-positive/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "MISMO updates mortgage insurance data guide for VantageScore 4.0 and FICO 10T",
-        "url": "https://www.housingwire.com/articles/mismo-mortgage-insurance-guide-vantagescore-4-fico-10t/",
-        "what": "MISMO updated its mortgage insurance data standards to support VantageScore 4.0 and FICO 10T, helping firms prepare for new credit models.",
-        "numbers": "4.0, 10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mismo-mortgage-insurance-guide-vantagescore-4-fico-10t/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -249,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Mortgage hiring stays active as 266 originators change employers",
+        "url": "https://www.housingwire.com/articles/mortgage-hiring-266-originators/",
+        "what": "RETR reports 266 originators changed employers and 1,823 earned NMLS licenses last week",
+        "numbers": "266, 1,823",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-hiring-266-originators/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Turning insight to action for real estate pros",
         "url": "https://www.housingwire.com/articles/kcm-joins-housingwire-solutions/",
@@ -277,15 +286,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Will the ROAD Act change what pencils for multifamily rentals?",
-        "url": "https://www.housingwire.com/articles/road-act-multifamily-costs/",
-        "what": "While the 21st Century ROAD to Housing Act remains in Oval Office big yawn limbo, its game-changing relevance to multifamily developers, apartment builders, rental housing investors and capital providers is clear",
-        "numbers": "21",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/road-act-multifamily-costs/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Most Homeowners See Their Home as a Reflection of Who They Are; Most Renters See It as Just a Place To Live",
         "url": "https://www.redfin.com/news/june-homeownership-month-how-people-feel-about-home-2026/",
         "what": "In recognition of National Homeownership Month in June, we surveyed American homeowners about how their homes and neighborhoods make them feel",
@@ -306,6 +306,24 @@
     ],
     "notables": [
       {
+        "title": "Could a $475 Compass fee spark the next wave of real estate lawsuits?",
+        "url": "https://www.housingwire.com/articles/transaction-fee-lawsuits-nar/",
+        "what": "A Florida suit over a $475 Compass transaction fee highlights post NAR settlement scrutiny and attorneys expect possible copycat filings.",
+        "numbers": "$475",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/transaction-fee-lawsuits-nar/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Why AI will not make residential land development easy",
+        "url": "https://www.housingwire.com/articles/ai-land-development-judgment/",
+        "what": "The most dangerous pitch in business is not that a tool is powerful",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-land-development-judgment/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Longbridge’s Chris Mayer on ideas to borrow from other countries in later-life lending",
         "url": "https://www.housingwire.com/articles/uk-lessons-later-life-lending/",
         "what": "Chris Mayer noted that markets in Europe",
@@ -313,24 +331,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/uk-lessons-later-life-lending/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "First MLS names Jenni Bonura chief growth officer",
-        "url": "https://www.housingwire.com/articles/fmls-jenni-bonura-growth/",
-        "what": "FMLS hired former Harry Norman CEO Jenni Bonura as chief growth officer to drive member growth and expand products and data solutions.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fmls-jenni-bonura-growth/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "RealTrends Verified The Craig Tann Group continues decade of growth",
-        "url": "https://www.housingwire.com/articles/realtrends-verified-the-craig-tann-group-continues-decade-of-growth/",
-        "what": "The team closed $486 million in sales volume across 877 transactions last year, which ranked No",
-        "numbers": "$486 million, 877, 10, 3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realtrends-verified-the-craig-tann-group-continues-decade-of-growth/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
