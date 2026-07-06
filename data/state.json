@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-07-06 19:04 UTC",
+  "as_of": "2026-07-06 21:01 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.48,
-      "delta_bp_1d": 4.0000000000000036
+      "yield_pct": 4.49,
+      "delta_bp_1d": 0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.43,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "$95M funding, USLBM deal back Higharc AI push in homebuilding",
+      "link": "https://www.housingwire.com/articles/higharc-funding-ai-trust/",
+      "published": "Mon, 06 Jul 2026"
+    },
+    {
+      "title": "ONE Sotheby’s International Realty adds sales director",
+      "link": "https://www.housingwire.com/articles/one-sothebys-international-realty-adds-sales-director/",
+      "published": "Mon, 06 Jul 2026"
+    },
+    {
+      "title": "TitleEase integrates with Contract2Close platform",
+      "link": "https://www.housingwire.com/articles/titleease-integrates-with-contract2close-platform/",
+      "published": "Mon, 06 Jul 2026"
+    },
+    {
+      "title": "NAR tells members to report Realtor brand misuse",
+      "link": "https://www.housingwire.com/articles/nar-realtor-trademark-ai/",
+      "published": "Mon, 06 Jul 2026"
+    },
+    {
       "title": "The Agency’s Zane Burnett: AI success starts with clean data, not hype",
       "link": "https://www.housingwire.com/articles/the-agencys-zane-burnett-ai-success-starts-with-clean-data-not-hype/",
       "published": "Mon, 06 Jul 2026"
@@ -147,26 +167,6 @@
     {
       "title": "NRMLA urges HUD to loosen FHA property rules",
       "link": "https://www.housingwire.com/articles/nrmla-hud-fha-property-rules/",
-      "published": "Mon, 06 Jul 2026"
-    },
-    {
-      "title": "The IDX debate: Is it time to do away with the Internet Data Exchange?",
-      "link": "https://www.housingwire.com/articles/the-idx-debate-is-it-time-to-do-away-with-the-internet-data-exchange/",
-      "published": "Mon, 06 Jul 2026"
-    },
-    {
-      "title": "UWM likely better off after losing Two Harbors deal, KBW says",
-      "link": "https://www.housingwire.com/articles/uwm-two-harbors-deal-kbw/",
-      "published": "Mon, 06 Jul 2026"
-    },
-    {
-      "title": "Could a $475 Compass fee spark the next wave of real estate lawsuits?",
-      "link": "https://www.housingwire.com/articles/transaction-fee-lawsuits-nar/",
-      "published": "Mon, 06 Jul 2026"
-    },
-    {
-      "title": "Mortgage hiring stays active as 266 originators change employers",
-      "link": "https://www.housingwire.com/articles/mortgage-hiring-266-originators/",
       "published": "Mon, 06 Jul 2026"
     },
     {
@@ -203,22 +203,13 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "ICE: Gen Z posts record share of mortgage rate locks in Q2",
-        "url": "https://www.housingwire.com/articles/gen-z-hits-record-share-mortgage-rate-locks-q2-2026/",
-        "what": "Generation Z accounted for a record 20% of home purchase rate locks in the second quarter, marking the largest share on record as younger buyers continue to gain ground despite ong",
-        "numbers": "20",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/gen-z-hits-record-share-mortgage-rate-locks-q2-2026/",
+        "title": "TitleEase integrates with Contract2Close platform",
+        "url": "https://www.housingwire.com/articles/titleease-integrates-with-contract2close-platform/",
+        "what": "The integration is designed to incorporate title ordering into existing workflows used by real estate professionals.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/titleease-integrates-with-contract2close-platform/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Third time’s the charm: Arizona’s new special  district opportunity",
-        "url": "https://www.housingwire.com/articles/arizona-said-districts/",
-        "what": "Arizona House Bill 2999 creates State Affordability Infrastructure Districts formed through the Arizona Finance Authority, reducing local approval risk",
-        "numbers": "2999",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/arizona-said-districts/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Monthly Payments Tick Up For First Time in 8 Months As Home Prices Hit Record High",
@@ -288,6 +279,33 @@
     ],
     "notables": [
       {
+        "title": "$95M funding, USLBM deal back Higharc AI push in homebuilding",
+        "url": "https://www.housingwire.com/articles/higharc-funding-ai-trust/",
+        "what": "Artificial intelligence has reached homebuilding’s proving ground",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/higharc-funding-ai-trust/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "ONE Sotheby’s International Realty adds sales director",
+        "url": "https://www.housingwire.com/articles/one-sothebys-international-realty-adds-sales-director/",
+        "what": "According to the brokerage, Figueroa has been involved in more than $3 billion in closed transactions during her career.",
+        "numbers": "$3 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/one-sothebys-international-realty-adds-sales-director/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "NAR tells members to report Realtor brand misuse",
+        "url": "https://www.housingwire.com/articles/nar-realtor-trademark-ai/",
+        "what": "NAR is updating its Trademark Protection Program and says AI tools help identify Realtor trademark misuse earlier for enforcement.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-realtor-trademark-ai/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "NRMLA urges HUD to loosen FHA property rules",
         "url": "https://www.housingwire.com/articles/nrmla-hud-fha-property-rules/",
         "what": "NRMLA urges HUD to revise FHA property rules, citing shared wells, repair checks and second appraisals that raise HECM costs.",
@@ -313,24 +331,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/transaction-fee-lawsuits-nar/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Why AI will not make residential land development easy",
-        "url": "https://www.housingwire.com/articles/ai-land-development-judgment/",
-        "what": "The most dangerous pitch in business is not that a tool is powerful",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-land-development-judgment/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Longbridge’s Chris Mayer on ideas to borrow from other countries in later-life lending",
-        "url": "https://www.housingwire.com/articles/uk-lessons-later-life-lending/",
-        "what": "Chris Mayer noted that markets in Europe",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uk-lessons-later-life-lending/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
