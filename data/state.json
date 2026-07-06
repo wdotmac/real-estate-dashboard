@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-06 21:01 UTC",
+  "as_of": "2026-07-06 22:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "San Diego to get more transit housing density as SB 79 row settles",
+      "link": "https://www.housingwire.com/articles/san-diego-sb79-map-widens/",
+      "published": "Mon, 06 Jul 2026"
+    },
+    {
       "title": "$95M funding, USLBM deal back Higharc AI push in homebuilding",
       "link": "https://www.housingwire.com/articles/higharc-funding-ai-trust/",
       "published": "Mon, 06 Jul 2026"
@@ -162,11 +167,6 @@
     {
       "title": "The Agency’s Zane Burnett: AI success starts with clean data, not hype",
       "link": "https://www.housingwire.com/articles/the-agencys-zane-burnett-ai-success-starts-with-clean-data-not-hype/",
-      "published": "Mon, 06 Jul 2026"
-    },
-    {
-      "title": "NRMLA urges HUD to loosen FHA property rules",
-      "link": "https://www.housingwire.com/articles/nrmla-hud-fha-property-rules/",
       "published": "Mon, 06 Jul 2026"
     },
     {
@@ -232,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "San Diego to get more transit housing density as SB 79 row settles",
+        "url": "https://www.housingwire.com/articles/san-diego-sb79-map-widens/",
+        "what": "San Diego has spent recent years earning a reputation as one of California’s most aggressive housing builders, streamlining permits citywide",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/san-diego-sb79-map-widens/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "The Agency’s Zane Burnett: AI success starts with clean data, not hype",
         "url": "https://www.housingwire.com/articles/the-agencys-zane-burnett-ai-success-starts-with-clean-data-not-hype/",
         "what": "The Agency's Zane Burnett sat down with HousingWire to explain why operational efficiency from AI comes before return on investment and more.",
@@ -248,15 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/the-idx-debate-is-it-time-to-do-away-with-the-internet-data-exchange/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Mortgage hiring stays active as 266 originators change employers",
-        "url": "https://www.housingwire.com/articles/mortgage-hiring-266-originators/",
-        "what": "RETR reports 266 originators changed employers and 1,823 earned NMLS licenses last week",
-        "numbers": "266, 1,823",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-hiring-266-originators/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Most Homeowners See Their Home as a Reflection of Who They Are; Most Renters See It as Just a Place To Live",
