@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-07 08:41 UTC",
+  "as_of": "2026-07-07 12:09 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Mon, 06 Jul 2026"
     },
     {
+      "title": "The Typical Luxury Home Costs 9 Times More Than the Typical Non Luxury Home in These South Florida ‘Wealth Magnet’ Metros",
+      "link": "https://www.redfin.com/news/west-palm-beach-pending-sales-rise/",
+      "published": "Tue, 07 Jul 2026"
+    },
+    {
       "title": "Monthly Payments Tick Up For First Time in 8 Months As Home Prices Hit Record High",
       "link": "https://www.redfin.com/news/housing-market-update-payments-rise-prices-record-high/",
       "published": "Thu, 02 Jul 2026"
@@ -193,11 +198,6 @@
       "title": "19% of of House Hunters Are Looking to Relocate–And They’re Headed to the Sun Belt",
       "link": "https://www.redfin.com/news/migration-q1-2026/",
       "published": "Mon, 29 Jun 2026"
-    },
-    {
-      "title": "Gen Z Is Creating A New Path To Prosperity",
-      "link": "https://www.redfin.com/news/gen-z-path-to-prosperity/",
-      "published": "Fri, 26 Jun 2026"
     }
   ],
   "feed_101020": {
@@ -228,18 +228,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-payments-rise-prices-record-high/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "A Tale of Two Markets: Luxury Home Prices Are Rising 3 Times Faster Than Non-Luxury Prices",
-        "url": "https://www.redfin.com/news/luxury-housing-market-may-2026/",
-        "what": "Luxury U.S",
-        "numbers": "4.7, 1.5, 3",
-        "justified": "redfin.com — https://www.redfin.com/news/luxury-housing-market-may-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "The Typical Luxury Home Costs 9 Times More Than the Typical Non Luxury Home in These South Florida ‘Wealth Magnet’ Metros",
+        "url": "https://www.redfin.com/news/west-palm-beach-pending-sales-rise/",
+        "what": "West Palm Beach, FL, where the typical luxury home costs 8.9 times more than the typical non luxury home, has the nation’s biggest luxury home price premium",
+        "numbers": "8.9, 8.8,, 5.5, 9",
+        "justified": "redfin.com — https://www.redfin.com/news/west-palm-beach-pending-sales-rise/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "San Diego to get more transit housing density as SB 79 row settles",
         "url": "https://www.housingwire.com/articles/san-diego-sb79-map-widens/",
