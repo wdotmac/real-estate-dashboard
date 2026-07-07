@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-07-07 20:12 UTC",
+  "as_of": "2026-07-07 21:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.49,
-      "delta_bp_1d": 0.9999999999999787
+      "yield_pct": 4.48,
+      "delta_bp_1d": -0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.43,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Former Stockton Mortgage employees, Novus deny trade secret allegations",
+      "link": "https://www.housingwire.com/articles/stockton-trade-secrets-denials/",
+      "published": "Tue, 07 Jul 2026"
+    },
+    {
+      "title": "North Carolina kicks parking rules to the curb in statewide reform",
+      "link": "https://www.housingwire.com/articles/north-carolina-parking-reform-law/",
+      "published": "Tue, 07 Jul 2026"
+    },
+    {
       "title": "Zillow, MRED, Compass await ruling in Chicagoland MLS fight",
       "link": "https://www.housingwire.com/articles/zillow-mred-compass-ruling/",
       "published": "Tue, 07 Jul 2026"
@@ -160,17 +170,7 @@
       "published": "Tue, 07 Jul 2026"
     },
     {
-      "title": "AI use widespread in real estate, but most professionals say it falls short",
-      "link": "https://www.housingwire.com/articles/ai-use-widespread-in-real-estate-but-most-professionals-say-it-falls-short/",
-      "published": "Tue, 07 Jul 2026"
-    },
-    {
-      "title": "One Raven launches local-first smart home array for homebuilders",
-      "link": "https://www.housingwire.com/articles/local-first-smart-home-platform-homebuilders/",
-      "published": "Tue, 07 Jul 2026"
-    },
-    {
-      "title": "The Typical Luxury Home Costs 9 Times More Than the Typical Non Luxury Home in These South Florida ‘Wealth Magnet’ Metros",
+      "title": "Luxury Homes Cost 9 Times More Than the Typical Homes in These South Florida “Wealth Magnet” Metros",
       "link": "https://www.redfin.com/news/west-palm-beach-pending-sales-rise/",
       "published": "Tue, 07 Jul 2026"
     },
@@ -203,20 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Former Stockton Mortgage employees, Novus deny trade secret allegations",
+        "url": "https://www.housingwire.com/articles/stockton-trade-secrets-denials/",
+        "what": "In an Alabama federal court, 18 defendants and Novus denied Stockton Mortgage trade secrets and interference allegations.",
+        "numbers": "18",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/stockton-trade-secrets-denials/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage rates rise past 6.75% as inflation uncertainty persists",
         "url": "https://www.housingwire.com/articles/mortgage-rates-rise-fed-hawkish/",
         "what": "30-year conforming rates averaged 6.77%, with jumbo at 6.75%, as Fed messaging stayed hawkish and 1-year inflation expectations rose to 3.7%.",
         "numbers": "30, 6.77, 6.75, 1, 3.7",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-rise-fed-hawkish/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Why aren’t mortgage rates lower?",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-fed-hawks-2026/",
-        "what": "With the 10-year yield near 4.51%, mortgage rates remain near yearly highs as Fed officials cite inflation risks despite lower oil.",
-        "numbers": "10, 4.51",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-fed-hawks-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -231,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "North Carolina kicks parking rules to the curb in statewide reform",
+        "url": "https://www.housingwire.com/articles/north-carolina-parking-reform-law/",
+        "what": "North Carolina housing advocates have tried for years to pass state-level zoning reform",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/north-carolina-parking-reform-law/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Zillow, MRED, Compass await ruling in Chicagoland MLS fight",
         "url": "https://www.housingwire.com/articles/zillow-mred-compass-ruling/",
@@ -268,16 +277,7 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Rate hires Ryan Randle to expand Denver presence",
-        "url": "https://www.housingwire.com/articles/rate-hires-ryan-randle-denver/",
-        "what": "Rate hired mortgage originator Ryan Randle, who brings 13 years of lending experience to the role, as part of its Denver growth strategy.",
-        "numbers": "13",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rate-hires-ryan-randle-denver/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The Typical Luxury Home Costs 9 Times More Than the Typical Non Luxury Home in These South Florida ‘Wealth Magnet’ Metros",
+        "title": "Luxury Homes Cost 9 Times More Than the Typical Homes in These South Florida “Wealth Magnet” Metros",
         "url": "https://www.redfin.com/news/west-palm-beach-pending-sales-rise/",
         "what": "West Palm Beach, FL, where the typical luxury home costs 8.9 times more than the typical non luxury home, has the nation’s biggest luxury home price premium",
         "numbers": "8.9, 8.8,, 5.5, 9",
