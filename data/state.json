@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-07 05:06 UTC",
+  "as_of": "2026-07-07 08:41 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Congress has a chance to expand affordable homeownership. It shouldn’t waste it.",
+      "link": "https://www.housingwire.com/articles/manufactured-housing-affordable-homeownership/",
+      "published": "Tue, 07 Jul 2026"
+    },
+    {
       "title": "San Diego to get more transit housing density as SB 79 row settles",
       "link": "https://www.housingwire.com/articles/san-diego-sb79-map-widens/",
       "published": "Mon, 06 Jul 2026"
@@ -162,11 +167,6 @@
     {
       "title": "NAR tells members to report Realtor brand misuse",
       "link": "https://www.housingwire.com/articles/nar-realtor-trademark-ai/",
-      "published": "Mon, 06 Jul 2026"
-    },
-    {
-      "title": "The Agency’s Zane Burnett: AI success starts with clean data, not hype",
-      "link": "https://www.housingwire.com/articles/the-agencys-zane-burnett-ai-success-starts-with-clean-data-not-hype/",
       "published": "Mon, 06 Jul 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Congress has a chance to expand affordable homeownership. It shouldn’t waste it.",
+        "url": "https://www.housingwire.com/articles/manufactured-housing-affordable-homeownership/",
+        "what": "Manufactured housing remains a major source of affordable, non-subsidized homeownership, but barriers persist",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/manufactured-housing-affordable-homeownership/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "TitleEase integrates with Contract2Close platform",
         "url": "https://www.housingwire.com/articles/titleease-integrates-with-contract2close-platform/",
@@ -320,15 +329,6 @@
         "what": "KBW says UWM avoids leverage risk after the Two Harbors loss, and a dividend cut could cut its debt-to-equity ratio from 3.1x to 2.2x by 2027.",
         "numbers": "3.1, 2.2, 2027.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-two-harbors-deal-kbw/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Could a $475 Compass fee spark the next wave of real estate lawsuits?",
-        "url": "https://www.housingwire.com/articles/transaction-fee-lawsuits-nar/",
-        "what": "A Florida suit over a $475 Compass transaction fee highlights post NAR settlement scrutiny and attorneys expect possible copycat filings.",
-        "numbers": "$475",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/transaction-fee-lawsuits-nar/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
