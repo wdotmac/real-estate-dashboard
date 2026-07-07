@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-07 17:26 UTC",
+  "as_of": "2026-07-07 20:12 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Survey: nearly nine in 10 voters support the ‘ROAD Act’ in limbo",
-      "link": "https://www.housingwire.com/articles/road-to-housing-act-poll-support/",
+      "title": "Zillow, MRED, Compass await ruling in Chicagoland MLS fight",
+      "link": "https://www.housingwire.com/articles/zillow-mred-compass-ruling/",
       "published": "Tue, 07 Jul 2026"
     },
     {
-      "title": "Finance of America expands HomeSafe Second reverse mortgage to four new markets",
-      "link": "https://www.housingwire.com/articles/homesafe-second-expands-4-markets/",
+      "title": "Compass adds RealTrends Verified Palm Beach agent Daniel Ekerold",
+      "link": "https://www.housingwire.com/articles/compass-daniel-ekerold-palm-beach/",
       "published": "Tue, 07 Jul 2026"
     },
     {
-      "title": "Rate hires Ryan Randle to expand Denver presence",
-      "link": "https://www.housingwire.com/articles/rate-hires-ryan-randle-denver/",
+      "title": "Mortgage rates rise past 6.75% as inflation uncertainty persists",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-rise-fed-hawkish/",
       "published": "Tue, 07 Jul 2026"
     },
     {
-      "title": "Why aren’t mortgage rates lower?",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-fed-hawks-2026/",
+      "title": "Realtors slam focus on trademark policing: ‘Is this really the next hill NAR is going to stand on?’",
+      "link": "https://www.housingwire.com/articles/nar-trademark-policing-backlash/",
       "published": "Tue, 07 Jul 2026"
     },
     {
-      "title": "Atlantic Home Mortgage launches LendTrain refinance platform",
-      "link": "https://www.housingwire.com/articles/lendtrain-refinance-platform-launch/",
+      "title": "AI use widespread in real estate, but most professionals say it falls short",
+      "link": "https://www.housingwire.com/articles/ai-use-widespread-in-real-estate-but-most-professionals-say-it-falls-short/",
       "published": "Tue, 07 Jul 2026"
     },
     {
-      "title": "Here’s why it is too easy to stop new housing at City Hall",
-      "link": "https://www.housingwire.com/articles/local-opposition-housing-supply/",
+      "title": "One Raven launches local-first smart home array for homebuilders",
+      "link": "https://www.housingwire.com/articles/local-first-smart-home-platform-homebuilders/",
       "published": "Tue, 07 Jul 2026"
     },
     {
@@ -203,20 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Mortgage rates rise past 6.75% as inflation uncertainty persists",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-rise-fed-hawkish/",
+        "what": "30-year conforming rates averaged 6.77%, with jumbo at 6.75%, as Fed messaging stayed hawkish and 1-year inflation expectations rose to 3.7%.",
+        "numbers": "30, 6.77, 6.75, 1, 3.7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-rise-fed-hawkish/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Why aren’t mortgage rates lower?",
         "url": "https://www.housingwire.com/articles/mortgage-rates-fed-hawks-2026/",
         "what": "With the 10-year yield near 4.51%, mortgage rates remain near yearly highs as Fed officials cite inflation risks despite lower oil.",
         "numbers": "10, 4.51",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-fed-hawks-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Atlantic Home Mortgage launches LendTrain refinance platform",
-        "url": "https://www.housingwire.com/articles/lendtrain-refinance-platform-launch/",
-        "what": "Atlantic Home Mortgage launched Lendtrain, offering 30-second refinance estimates with wholesale rates, costs, payments and break-evens.",
-        "numbers": "30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lendtrain-refinance-platform-launch/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -231,6 +231,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Zillow, MRED, Compass await ruling in Chicagoland MLS fight",
+        "url": "https://www.housingwire.com/articles/zillow-mred-compass-ruling/",
+        "what": "The court is reviewing Zillow’s request to block MRED from suspending listing feeds as post-hearing briefs are filed.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-mred-compass-ruling/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "One Raven launches local-first smart home array for homebuilders",
+        "url": "https://www.housingwire.com/articles/local-first-smart-home-platform-homebuilders/",
+        "what": "One Raven has launched a new smart home operating system designed to keep most home automation functions local to the property rather than dependent on cloud connectivity, according to a company announcement",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/local-first-smart-home-platform-homebuilders/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Survey: nearly nine in 10 voters support the ‘ROAD Act’ in limbo",
         "url": "https://www.housingwire.com/articles/road-to-housing-act-poll-support/",
@@ -259,42 +277,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Here’s why it is too easy to stop new housing at City Hall",
-        "url": "https://www.housingwire.com/articles/local-opposition-housing-supply/",
-        "what": "In too many American communities, residential development is now shaped less by market need than by attendance at local meetings",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/local-opposition-housing-supply/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Your real estate listing is stalled, start with an exposure audit",
-        "url": "https://www.housingwire.com/articles/handle-stalled-listing-2026/",
-        "what": "For listings that sit in 2026, document exposure, compare comps and DOM, then discuss pricing with clear seller expectations.",
-        "numbers": "2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/handle-stalled-listing-2026/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Real estate brokerage retention and recruiting hinge on pipeline timing",
-        "url": "https://www.housingwire.com/articles/agent-retention-pipeline-timing/",
-        "what": "MLS analysis finds agent switching risk tracks inactivity, not canceled listings, with 15.6% switching at 0 listings and 6+ months since closing.",
-        "numbers": "15.6, 0, 6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/agent-retention-pipeline-timing/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Better Mortgage settles underwriter overtime lawsuit for $7.185M",
-        "url": "https://www.housingwire.com/articles/better-underwriter-overtime-lawsuit/",
-        "what": "Court filings show Better Mortgage agreed to a $7.185M settlement over underwriter overtime, including $357,750 for PAGA claims.",
-        "numbers": "$7.185, $357,750",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-underwriter-overtime-lawsuit/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "The Typical Luxury Home Costs 9 Times More Than the Typical Non Luxury Home in These South Florida ‘Wealth Magnet’ Metros",
         "url": "https://www.redfin.com/news/west-palm-beach-pending-sales-rise/",
         "what": "West Palm Beach, FL, where the typical luxury home costs 8.9 times more than the typical non luxury home, has the nation’s biggest luxury home price premium",
@@ -315,11 +297,29 @@
     ],
     "notables": [
       {
-        "title": "Rocket Pro’s July Power Play offers same-day approvals, 12-day clear to close",
-        "url": "https://www.housingwire.com/articles/rocket-pro-power-play-approvals/",
-        "what": "Rocket Pro extends July Power Play with same-day conditional approvals, 12-business-day clear to close, and pricing credits through Aug",
-        "numbers": "12, 3.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-pro-power-play-approvals/",
+        "title": "Compass adds RealTrends Verified Palm Beach agent Daniel Ekerold",
+        "url": "https://www.housingwire.com/articles/compass-daniel-ekerold-palm-beach/",
+        "what": "Compass adds Palm Beach agent Daniel Ekerold from Douglas Elliman after eight sides and $17.84M volume in 2025, per RealTrends.",
+        "numbers": "$17.84, 2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-daniel-ekerold-palm-beach/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Realtors slam focus on trademark policing: ‘Is this really the next hill NAR is going to stand on?’",
+        "url": "https://www.housingwire.com/articles/nar-trademark-policing-backlash/",
+        "what": "NAR’s Realtor trademark enforcement push drew backlash from members who want action on lawsuits, MLS rules and trust.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-trademark-policing-backlash/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "AI use widespread in real estate, but most professionals say it falls short",
+        "url": "https://www.housingwire.com/articles/ai-use-widespread-in-real-estate-but-most-professionals-say-it-falls-short/",
+        "what": "Despite widespread adoption, only 35% of respondents said AI is genuinely helpful, the largest among industries analyzed in a recent report.",
+        "numbers": "35",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-use-widespread-in-real-estate-but-most-professionals-say-it-falls-short/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
