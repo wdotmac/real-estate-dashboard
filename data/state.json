@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-09 15:36 UTC",
+  "as_of": "2026-07-09 18:08 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": 6.99999999999994
     },
     "mortgage_30y": {
-      "rate_pct": 6.43,
-      "delta_bp_wow": -6.00000000000005
+      "rate_pct": 6.49,
+      "delta_bp_wow": 6.00000000000005
     },
     "starts": {
       "level_saar": 1177.0,
@@ -140,34 +140,39 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "VantageScore 5.0 launches as new tri-bureau credit score",
-      "link": "https://www.housingwire.com/articles/vantagescore-5-tri-bureau-model/",
+      "title": "Housing groups push FHFA to delay, revise GSE condo loan changes",
+      "link": "https://www.housingwire.com/articles/fhfa-gse-condo-rule-changes/",
       "published": "Thu, 09 Jul 2026"
     },
     {
-      "title": "WNC closes $210M LIHTC funding for 2,000-plus affordable units",
-      "link": "https://www.housingwire.com/articles/wnc-210-million-lihtc-fund-affordable-housing-homebuilders/",
+      "title": "HighTechLending markets EquitySelect as reverse mortgage alternative",
+      "link": "https://www.housingwire.com/articles/hightechlending-equity-select/",
       "published": "Thu, 09 Jul 2026"
     },
     {
-      "title": "Optimal Blue sees June mortgage lock volume up 10%",
-      "link": "https://www.housingwire.com/articles/optimal-blue-june-rate-locks/",
+      "title": "Howard Hanna NYC adds 26 agents",
+      "link": "https://www.housingwire.com/articles/howard-hanna-nyc-adds-26-agents/",
       "published": "Thu, 09 Jul 2026"
     },
     {
-      "title": "New Zillow Pro tells agents when their contacts start house hunting again",
-      "link": "https://www.housingwire.com/articles/zillow-launches-zillow-pro/",
+      "title": "Why Dream Finders’ bid for Beazer is becoming a boardroom test",
+      "link": "https://www.housingwire.com/articles/dream-finders-beazer-governance/",
       "published": "Thu, 09 Jul 2026"
     },
     {
-      "title": "How top-performing real estate agents win AI recommendations",
-      "link": "https://www.housingwire.com/articles/realtor-aeo-geo-strategy/",
+      "title": "FTC loses bid for early ruling in Zillow-Redfin rental listings lawsuit",
+      "link": "https://www.housingwire.com/articles/ftc-zillow-redfin-lawsuit/",
       "published": "Thu, 09 Jul 2026"
     },
     {
-      "title": "The $32 Beazer bid is in, now the fight is over standstill terms",
-      "link": "https://www.housingwire.com/articles/32-beazer-standstill-terms/",
-      "published": "Wed, 08 Jul 2026"
+      "title": "The 9 best real estate CRMs for every budget in 2026",
+      "link": "https://www.housingwire.com/articles/best-real-estate-crm/",
+      "published": "Thu, 09 Jul 2026"
+    },
+    {
+      "title": "OpenAI, Anthropic Employees Could Buy Nearly One-Third of All Homes in San Francisco With IPO Earnings",
+      "link": "https://www.redfin.com/news/openai-anthropic-housing-wealth/",
+      "published": "Thu, 09 Jul 2026"
     },
     {
       "title": "U.S. Pending Home Sales Rise to Highest Level in 6 Weeks",
@@ -193,15 +198,37 @@
       "title": "Most Homeowners See Their Home as a Reflection of Who They Are; Most Renters See It as Just a Place To Live",
       "link": "https://www.redfin.com/news/june-homeownership-month-how-people-feel-about-home-2026/",
       "published": "Wed, 01 Jul 2026"
-    },
-    {
-      "title": "Seller Choice Keeps Winning, Quietly",
-      "link": "https://www.redfin.com/news/seller-choice-keeps-winning-quietly/",
-      "published": "Tue, 30 Jun 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Housing groups push FHFA to delay, revise GSE condo loan changes",
+        "url": "https://www.housingwire.com/articles/fhfa-gse-condo-rule-changes/",
+        "what": "Three housing organizations sent a letter this week to leaders at Fannie Mae, Freddie Mac and their regulator, the Federal Housing Finance Agency, regarding pending changes to cond",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-gse-condo-rule-changes/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "FTC loses bid for early ruling in Zillow-Redfin rental listings lawsuit",
+        "url": "https://www.housingwire.com/articles/ftc-zillow-redfin-lawsuit/",
+        "what": "A federal judge denied the FTC partial summary judgment bid in the Zillow Redfin antitrust case, with the trial expected to start Aug",
+        "numbers": "24.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ftc-zillow-redfin-lawsuit/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Remodeling outperforms single-family as rates lock in owners",
+        "url": "https://www.housingwire.com/articles/remodeling-market-index-nahb-q2-2026/",
+        "what": "Remodeling contractors remained optimistic in the second quarter of 2026 even as material costs and economic uncertainty delayed larger jobs, according to new data from the National Association of Home Builders (NAHB)",
+        "numbers": "2026, 61, 2, 2026,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/remodeling-market-index-nahb-q2-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "VantageScore 5.0 launches as new tri-bureau credit score",
         "url": "https://www.housingwire.com/articles/vantagescore-5-tri-bureau-model/",
@@ -210,15 +237,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/vantagescore-5-tri-bureau-model/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Optimal Blue sees June mortgage lock volume up 10%",
-        "url": "https://www.housingwire.com/articles/optimal-blue-june-rate-locks/",
-        "what": "Optimal Blue says June rate-lock volume rose 10% from May and 15% year over year, with purchase locks at 81% and rates near 6.45%.",
-        "numbers": "10, 15, 81, 6.45",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/optimal-blue-june-rate-locks/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "U.S. Pending Home Sales Rise to Highest Level in 6 Weeks",
@@ -232,6 +250,42 @@
     ],
     "housing": [
       {
+        "title": "HighTechLending markets EquitySelect as reverse mortgage alternative",
+        "url": "https://www.housingwire.com/articles/hightechlending-equity-select/",
+        "what": "HighTechLending markets its EquitySelect HELOC for 55+ borrowers as HECM volume has fallen about 78% since 2009.",
+        "numbers": "55, 78, 2009.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hightechlending-equity-select/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Why Dream Finders’ bid for Beazer is becoming a boardroom test",
+        "url": "https://www.housingwire.com/articles/dream-finders-beazer-governance/",
+        "what": "The Dream Finders-Beazer situation has now moved beyond a standard merger-and-acquisition negotiation",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/dream-finders-beazer-governance/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Existing home sales decline in June as prices reach another record high",
+        "url": "https://www.housingwire.com/articles/existing-home-sales-decline-in-june-as-prices-reach-another-record-high/",
+        "what": "The median sales price rose to a record $440,600 in June",
+        "numbers": "$440,600, 1.8, 36",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/existing-home-sales-decline-in-june-as-prices-reach-another-record-high/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "OpenAI, Anthropic Employees Could Buy Nearly One-Third of All Homes in San Francisco With IPO Earnings",
+        "url": "https://www.redfin.com/news/openai-anthropic-housing-wealth/",
+        "what": "A new Redfin analysis takes a look at how much Bay Area real estate OpenAI and Anthropic employees could hypothetically purchase with their IPO earnings, in the wake of two massively valuable AI companies filing confidentially to go public",
+        "numbers": "20, 15",
+        "justified": "redfin.com — https://www.redfin.com/news/openai-anthropic-housing-wealth/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "WNC closes $210M LIHTC funding for 2,000-plus affordable units",
         "url": "https://www.housingwire.com/articles/wnc-210-million-lihtc-fund-affordable-housing-homebuilders/",
         "what": "WNC & Associates closed a $210 million national Low-Income Housing Tax Credit fund that will finance 2,015 affordable units in 18 communities across 13 states.",
@@ -239,60 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/wnc-210-million-lihtc-fund-affordable-housing-homebuilders/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "New Zillow Pro tells agents when their contacts start house hunting again",
-        "url": "https://www.housingwire.com/articles/zillow-launches-zillow-pro/",
-        "what": "Zillow Pro gives agents real-time insight into client activity on Zillow, tying consumer behavior to CRM workflows in a flat transaction market.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-launches-zillow-pro/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The $32 Beazer bid is in, now the fight is over standstill terms",
-        "url": "https://www.housingwire.com/articles/32-beazer-standstill-terms/",
-        "what": "A little more than a month into a hostile homebuilder takeover saga that has not quite reached midsummer, Dream Finders Homes’ pursuit of Beazer Homes is beginning to resemble a Shakespearean tale of unrequited love",
-        "numbers": "$32, 24",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/32-beazer-standstill-terms/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "NYC office conversions face scrutiny after Pfizer HQ incident",
-        "url": "https://www.housingwire.com/articles/nyc-office-conversion-scrutiny/",
-        "what": "Buckling columns at the former Pfizer headquarters this week forced evacuations across seven Midtown East blocks",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-office-conversion-scrutiny/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Synergy One to take over Newrez distributed retail mortgage operations",
-        "url": "https://www.housingwire.com/articles/synergy-one-to-take-over-newrez-distributed-retail-operations/",
-        "what": "Synergy One will assume Newrez’s distributed retail business, as Newrez doubles down on JVs and direct channels in a bid for long-term growth.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/synergy-one-to-take-over-newrez-distributed-retail-operations/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Visionary Homes names former Oakwood exec Ryan Smith CEO",
-        "url": "https://www.housingwire.com/articles/visionary-homes-names-former-oakwood-exec-ryan-smith-ceo/",
-        "what": "Visionary Homes, one of Utah’s largest privately held homebuilders, appointed Ryan Smith as CEO effective Sept",
-        "numbers": "1,, 2026,, 2027.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/visionary-homes-names-former-oakwood-exec-ryan-smith-ceo/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "CFPB seeks input on mortgage disclosures and TRID rules",
-        "url": "https://www.housingwire.com/articles/cfpb-mortgage-trid-disclosures/",
-        "what": "CFPB issued an RFI on TRID, refinance rescission and reverse mortgage disclosures, asking if current rules raise costs and limit access.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-mortgage-trid-disclosures/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "There Are Now Only 5 Major Metros Where A Typical Luxury Home Costs Less Than $1 Million",
@@ -315,13 +315,22 @@
     ],
     "notables": [
       {
-        "title": "How top-performing real estate agents win AI recommendations",
-        "url": "https://www.housingwire.com/articles/realtor-aeo-geo-strategy/",
-        "what": "Homebuyers are using ChatGPT and other LLMs to choose agents",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realtor-aeo-geo-strategy/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "title": "Howard Hanna NYC adds 26 agents",
+        "url": "https://www.housingwire.com/articles/howard-hanna-nyc-adds-26-agents/",
+        "what": "Additions include the Andrew Klima Team, which joined from SERHANT",
+        "numbers": "$58 million, 90, 2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/howard-hanna-nyc-adds-26-agents/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "The 9 best real estate CRMs for every budget in 2026",
+        "url": "https://www.housingwire.com/articles/best-real-estate-crm/",
+        "what": "Want to stay organized and automate tasks without breaking the bank",
+        "numbers": "2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/best-real-estate-crm/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
