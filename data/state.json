@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-10 14:50 UTC",
+  "as_of": "2026-07-10 17:06 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "RealTrends Verified City Rankings reveal where top agents and teams are building scale",
-      "link": "https://www.housingwire.com/articles/realtrends-verified-city-rankings/",
+      "title": "American Real Estate Association warns Missouri ballot measures could raise homeownership costs",
+      "link": "https://www.housingwire.com/articles/american-real-estate-associatin-warns-missouri-ballot-measures-could-raise-homeownership-costs/",
       "published": "Fri, 10 Jul 2026"
     },
     {
-      "title": "Opinion: Why the dual credit score mandate raises costs for small businesses without clear benefits",
-      "link": "https://www.housingwire.com/articles/dual-credit-score-mandate-costs/",
+      "title": "Housing affordability is improving as wages outpace home-price growth",
+      "link": "https://www.housingwire.com/articles/housing-affordability-is-improving-as-wages-outpace-home-price-growth/",
       "published": "Fri, 10 Jul 2026"
     },
     {
-      "title": "The capital stack evolution: How proprietary preferred equity behind Freddie Mac loans solves a key borrower dilemma",
-      "link": "https://www.housingwire.com/articles/preferred-equity-freddie-mac-loans/",
+      "title": "New policy impact may ignite a manufactured housing blue-sky era",
+      "link": "https://www.housingwire.com/articles/new-policy-impact-may-ignite-a-manufactured-housing-blue-sky-era/",
       "published": "Fri, 10 Jul 2026"
     },
     {
-      "title": "Duplexes and townhomes do not always make housing cheaper",
-      "link": "https://www.housingwire.com/articles/missing-middle-affordability-math/",
-      "published": "Thu, 09 Jul 2026"
+      "title": "Data centers emerge as real estate’s newest pricing wildcard",
+      "link": "https://www.housingwire.com/articles/data-centers-emerge-as-real-estates-newest-pricing-wildcard/",
+      "published": "Fri, 10 Jul 2026"
     },
     {
-      "title": "Florida county’s impact fees put new Live Local projects at risk",
-      "link": "https://www.housingwire.com/articles/live-local-manatee-impact-fees/",
-      "published": "Thu, 09 Jul 2026"
+      "title": "The most overlooked source of homes for first-time buyers",
+      "link": "https://www.housingwire.com/articles/short-sale-timelines-improving/",
+      "published": "Fri, 10 Jul 2026"
     },
     {
-      "title": "At $32, Dream Finders-Beazer risk is now double-jeopardy",
-      "link": "https://www.housingwire.com/articles/dream-finders-beazer-32-risk/",
-      "published": "Thu, 09 Jul 2026"
+      "title": "Compass, MRED, Zillow trade post-hearing briefs in Chicagoland MLS lawsuit",
+      "link": "https://www.housingwire.com/articles/compass-mred-zillow-trade-post-hearing-briefs-in-chicagoland-mls-lawsuit/",
+      "published": "Fri, 10 Jul 2026"
     },
     {
       "title": "OpenAI, Anthropic Employees Could Buy Nearly One-Third of All Homes in San Francisco With IPO Earnings",
@@ -203,22 +203,13 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Opinion: Why the dual credit score mandate raises costs for small businesses without clear benefits",
-        "url": "https://www.housingwire.com/articles/dual-credit-score-mandate-costs/",
-        "what": "FOIA disclosures indicate Fannie Mae and Freddie Mac recommended moving to one modernized credit score, but FHFA mandated two",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/dual-credit-score-mandate-costs/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Fed names task force members as it examines monetary policy decision-making",
-        "url": "https://www.housingwire.com/articles/fed-task-forces-monetary-policy-communications-balance-sheet-inflation-2026/",
-        "what": "The Federal Reserve on Thursday outlined a slate of five new task forces led by prominent academics and business leaders",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-task-forces-monetary-policy-communications-balance-sheet-inflation-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "title": "MBA analysis finds minimal pricing impact from single credit score approach",
+        "url": "https://www.housingwire.com/articles/mba-single-credit-score/",
+        "what": "MBA reviewed nearly 105,000 applications from 2025 and found 90% of random scores were within one LLPA bucket of decisioning.",
+        "numbers": "105,000, 2025, 90",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-single-credit-score/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "U.S. Pending Home Sales Rise to Highest Level in 6 Weeks",
@@ -232,13 +223,49 @@
     ],
     "housing": [
       {
-        "title": "Duplexes and townhomes do not always make housing cheaper",
-        "url": "https://www.housingwire.com/articles/missing-middle-affordability-math/",
-        "what": "Not every housing policy labeled “affordable” is actually designed to make housing more affordable",
+        "title": "Housing affordability is improving as wages outpace home-price growth",
+        "url": "https://www.housingwire.com/articles/housing-affordability-is-improving-as-wages-outpace-home-price-growth/",
+        "what": "Inventory is 1.56 million with 4.6 months of supply, helping keep 1.8% home-price growth below wage gains running near 3.5%.",
+        "numbers": "1.56 million, 4.6, 1.8, 3.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-affordability-is-improving-as-wages-outpace-home-price-growth/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "New policy impact may ignite a manufactured housing blue-sky era",
+        "url": "https://www.housingwire.com/articles/new-policy-impact-may-ignite-a-manufactured-housing-blue-sky-era/",
+        "what": "ROAD to Housing Act would make the permanent chassis optional, enabling new designs and potential lower-cost financing paths.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/missing-middle-affordability-math/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-policy-impact-may-ignite-a-manufactured-housing-blue-sky-era/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Compass, MRED, Zillow trade post-hearing briefs in Chicagoland MLS lawsuit",
+        "url": "https://www.housingwire.com/articles/compass-mred-zillow-trade-post-hearing-briefs-in-chicagoland-mls-lawsuit/",
+        "what": "Filings come after a hearing on Zillow's motion for a preliminary injunction that would stop MRED from restricting its listing data feeds.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-mred-zillow-trade-post-hearing-briefs-in-chicagoland-mls-lawsuit/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Trump says he won’t sign ROAD Act, which could automatically become law tonight",
+        "url": "https://www.housingwire.com/articles/trump-says-he-wont-sign-road-act-which-could-automatically-become-law-tonight/",
+        "what": "Trump says he will not sign the ROAD to Housing Act, but if it is not vetoed or signed, it becomes law at midnight Saturday.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-says-he-wont-sign-road-act-which-could-automatically-become-law-tonight/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "West Capital Lending opposes loanDepot bid to dismiss TILA comp suit",
+        "url": "https://www.housingwire.com/articles/west-capital-loandepot-tila-comp/",
+        "what": "West Capital Lending is pushing back against loanDepot's attempt to dismiss a lawsuit that accuses the lender of using an illegal compensation structure to gain an unfair competiti",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/west-capital-loandepot-tila-comp/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "OpenAI, Anthropic Employees Could Buy Nearly One-Third of All Homes in San Francisco With IPO Earnings",
@@ -270,6 +297,33 @@
     ],
     "notables": [
       {
+        "title": "American Real Estate Association warns Missouri ballot measures could raise homeownership costs",
+        "url": "https://www.housingwire.com/articles/american-real-estate-associatin-warns-missouri-ballot-measures-could-raise-homeownership-costs/",
+        "what": "ARA said the two ballot measures would allow lawmakers to raise taxes while limiting the public’s ability to respond.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/american-real-estate-associatin-warns-missouri-ballot-measures-could-raise-homeownership-costs/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Data centers emerge as real estate’s newest pricing wildcard",
+        "url": "https://www.housingwire.com/articles/data-centers-emerge-as-real-estates-newest-pricing-wildcard/",
+        "what": "Agents and appraisers detail how data centers are reshaping real estate markets by creating both opportunities and challenges.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/data-centers-emerge-as-real-estates-newest-pricing-wildcard/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "The most overlooked source of homes for first-time buyers",
+        "url": "https://www.housingwire.com/articles/short-sale-timelines-improving/",
+        "what": "Short sale approvals can move faster than expected when files are complete, and lenders have incentives to avoid foreclosure costs.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/short-sale-timelines-improving/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "RealTrends Verified City Rankings reveal where top agents and teams are building scale",
         "url": "https://www.housingwire.com/articles/realtrends-verified-city-rankings/",
         "what": "RealTrends Verified City Rankings list 74,906 entries across 5,249 cities, totaling $1.63T volume and 2.5M sides.",
@@ -277,60 +331,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/realtrends-verified-city-rankings/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The capital stack evolution: How proprietary preferred equity behind Freddie Mac loans solves a key borrower dilemma",
-        "url": "https://www.housingwire.com/articles/preferred-equity-freddie-mac-loans/",
-        "what": "Preferred equity behind Freddie Mac conventional loans is being used to bridge proceeds gaps and preserve liquidity in a higher rate market",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/preferred-equity-freddie-mac-loans/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Florida county’s impact fees put new Live Local projects at risk",
-        "url": "https://www.housingwire.com/articles/live-local-manatee-impact-fees/",
-        "what": "Indianapolis-based apartment developer Milhaus started building an apartment project in Manatee County, Florida, under the state’s Live Local Act after securing its funding earlier this year",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/live-local-manatee-impact-fees/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "At $32, Dream Finders-Beazer risk is now double-jeopardy",
-        "url": "https://www.housingwire.com/articles/dream-finders-beazer-32-risk/",
-        "what": "[Editor’s note: This is the second of a two-part article in the aftermath of filings this week from Dream Finders Homes and Beazer Homes, as Dream Finders pursues Beazer as an acquisition target",
-        "numbers": "1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/dream-finders-beazer-32-risk/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "A Colorado project is now a proving ground for 3D-printed homes",
-        "url": "https://www.housingwire.com/articles/a-colorado-project-is-now-a-proving-ground-for-3d-printed-homes/",
-        "what": "Cleora near Salida, Colorado is building 106 3D-printed homes, using robotics to improve speed, resiliency and labor efficiency.",
-        "numbers": "106, 3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/a-colorado-project-is-now-a-proving-ground-for-3d-printed-homes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Rate adds 14 loan officers from New American Funding",
-        "url": "https://www.housingwire.com/articles/rate-adds-14-loan-officers/",
-        "what": "Rate announced on Thursday that more than a dozen loan officers have joined the company from New American Funding.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rate-adds-14-loan-officers/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Bright MLS speaks on rule updates aimed at flexibility, seller privacy",
-        "url": "https://www.housingwire.com/articles/bright-mls-speaks-on-rule-updates-aimed-at-flexibility-seller-privacy/",
-        "what": "Moves include a streamlined listing submission process, unified consumer display standards, new privacy controls and expanded pre-marketing.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bright-mls-speaks-on-rule-updates-aimed-at-flexibility-seller-privacy/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
