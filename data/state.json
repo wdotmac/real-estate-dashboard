@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-07-10 18:44 UTC",
+  "as_of": "2026-07-10 20:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.56,
-      "delta_bp_1d": 0.9999999999999787
+      "yield_pct": 4.54,
+      "delta_bp_1d": -1.9999999999999574
     },
     "mortgage_30y": {
       "rate_pct": 6.49,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Century 21 COO says M&A activity fueled by growing tech demands",
+      "link": "https://www.housingwire.com/articles/century-21-coo-says-ma-activity-fueled-by-growing-tech-demands/",
+      "published": "Fri, 10 Jul 2026"
+    },
+    {
+      "title": "Plaintiffs oppose Veterans United motion to dismiss amended RESPA class-action suit",
+      "link": "https://www.housingwire.com/articles/veterans-united-respa-kickbacks/",
+      "published": "Fri, 10 Jul 2026"
+    },
+    {
+      "title": "Rechat’s Testimonials tool turns client praise into marketing content",
+      "link": "https://www.housingwire.com/articles/rechats-testimonials-tool-turns-client-praise-into-marketing-content/",
+      "published": "Fri, 10 Jul 2026"
+    },
+    {
       "title": "American Real Estate Association warns Missouri ballot measures could raise homeownership costs",
       "link": "https://www.housingwire.com/articles/american-real-estate-associatin-warns-missouri-ballot-measures-could-raise-homeownership-costs/",
       "published": "Fri, 10 Jul 2026"
@@ -152,21 +167,6 @@
     {
       "title": "New policy impact may ignite a manufactured housing blue-sky era",
       "link": "https://www.housingwire.com/articles/new-policy-impact-may-ignite-a-manufactured-housing-blue-sky-era/",
-      "published": "Fri, 10 Jul 2026"
-    },
-    {
-      "title": "Data centers emerge as real estate’s newest pricing wildcard",
-      "link": "https://www.housingwire.com/articles/data-centers-emerge-as-real-estates-newest-pricing-wildcard/",
-      "published": "Fri, 10 Jul 2026"
-    },
-    {
-      "title": "The most overlooked source of homes for first-time buyers",
-      "link": "https://www.housingwire.com/articles/short-sale-timelines-improving/",
-      "published": "Fri, 10 Jul 2026"
-    },
-    {
-      "title": "Compass, MRED, Zillow trade post-hearing briefs in Chicagoland MLS lawsuit",
-      "link": "https://www.housingwire.com/articles/compass-mred-zillow-trade-post-hearing-briefs-in-chicagoland-mls-lawsuit/",
       "published": "Fri, 10 Jul 2026"
     },
     {
@@ -223,6 +223,24 @@
     ],
     "housing": [
       {
+        "title": "Plaintiffs oppose Veterans United motion to dismiss amended RESPA class-action suit",
+        "url": "https://www.housingwire.com/articles/veterans-united-respa-kickbacks/",
+        "what": "Fifteen named plaintiffs allege that Veterans United Home Loans",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/veterans-united-respa-kickbacks/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Rechat’s Testimonials tool turns client praise into marketing content",
+        "url": "https://www.housingwire.com/articles/rechats-testimonials-tool-turns-client-praise-into-marketing-content/",
+        "what": "Rechat said many agents currently rely on multiple platforms, leaving reviews scattered across websites or stored as screenshots and emails.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rechats-testimonials-tool-turns-client-praise-into-marketing-content/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
         "title": "Housing affordability is improving as wages outpace home-price growth",
         "url": "https://www.housingwire.com/articles/housing-affordability-is-improving-as-wages-outpace-home-price-growth/",
         "what": "Inventory is 1.56 million with 4.6 months of supply, helping keep 1.8% home-price growth below wage gains running near 3.5%.",
@@ -248,24 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/compass-mred-zillow-trade-post-hearing-briefs-in-chicagoland-mls-lawsuit/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Trump says he won’t sign ROAD Act, which could automatically become law tonight",
-        "url": "https://www.housingwire.com/articles/trump-says-he-wont-sign-road-act-which-could-automatically-become-law-tonight/",
-        "what": "Trump says he will not sign the ROAD to Housing Act, but if it is not vetoed or signed, it becomes law at midnight Saturday.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-says-he-wont-sign-road-act-which-could-automatically-become-law-tonight/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "West Capital Lending opposes loanDepot bid to dismiss TILA comp suit",
-        "url": "https://www.housingwire.com/articles/west-capital-loandepot-tila-comp/",
-        "what": "West Capital Lending is pushing back against loanDepot's attempt to dismiss a lawsuit that accuses the lender of using an illegal compensation structure to gain an unfair competiti",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/west-capital-loandepot-tila-comp/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "OpenAI, Anthropic Employees Could Buy Nearly One-Third of All Homes in San Francisco With IPO Earnings",
@@ -297,6 +297,15 @@
     ],
     "notables": [
       {
+        "title": "Century 21 COO says M&A activity fueled by growing tech demands",
+        "url": "https://www.housingwire.com/articles/century-21-coo-says-ma-activity-fueled-by-growing-tech-demands/",
+        "what": "Century 21 has completed 16 merger and acquisition deals in 2026, following 24 transactions last year",
+        "numbers": "21, 16, 2026,, 24, 40, 2022.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/century-21-coo-says-ma-activity-fueled-by-growing-tech-demands/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "American Real Estate Association warns Missouri ballot measures could raise homeownership costs",
         "url": "https://www.housingwire.com/articles/american-real-estate-associatin-warns-missouri-ballot-measures-could-raise-homeownership-costs/",
         "what": "ARA said the two ballot measures would allow lawmakers to raise taxes while limiting the public’s ability to respond.",
@@ -320,15 +329,6 @@
         "what": "Short sale approvals can move faster than expected when files are complete, and lenders have incentives to avoid foreclosure costs.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/short-sale-timelines-improving/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "RealTrends Verified City Rankings reveal where top agents and teams are building scale",
-        "url": "https://www.housingwire.com/articles/realtrends-verified-city-rankings/",
-        "what": "RealTrends Verified City Rankings list 74,906 entries across 5,249 cities, totaling $1.63T volume and 2.5M sides.",
-        "numbers": "74,906, 5,249, $1.63, 2.5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realtrends-verified-city-rankings/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
