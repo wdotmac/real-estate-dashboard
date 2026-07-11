@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-11 19:31 UTC",
+  "as_of": "2026-07-11 21:06 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Iran conflict lifts mortgage rates, but housing demand stays positive",
+      "link": "https://www.housingwire.com/articles/iran-conflict-lifts-mortgage-rates-but-housing-demand-stays-positive/",
+      "published": "Sat, 11 Jul 2026"
+    },
+    {
       "title": "Trump didn’t sign it, but the 21st Century ROAD to Housing Act is now law",
       "link": "https://www.housingwire.com/articles/21st-century-road-to-housing-act-becomes-law-trump/",
       "published": "Sat, 11 Jul 2026"
@@ -162,11 +167,6 @@
     {
       "title": "American Real Estate Association warns Missouri ballot measures could raise homeownership costs",
       "link": "https://www.housingwire.com/articles/american-real-estate-associatin-warns-missouri-ballot-measures-could-raise-homeownership-costs/",
-      "published": "Fri, 10 Jul 2026"
-    },
-    {
-      "title": "Housing affordability is improving as wages outpace home-price growth",
-      "link": "https://www.housingwire.com/articles/housing-affordability-is-improving-as-wages-outpace-home-price-growth/",
       "published": "Fri, 10 Jul 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Iran conflict lifts mortgage rates, but housing demand stays positive",
+        "url": "https://www.housingwire.com/articles/iran-conflict-lifts-mortgage-rates-but-housing-demand-stays-positive/",
+        "what": "Pending sales rose to 63,971 versus 61,143 in 2025, inventory ended at 844,011, and price cuts were 39.57% versus 41%.",
+        "numbers": "63,971, 61,143, 2025,, 844,011,, 39.57, 41",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/iran-conflict-lifts-mortgage-rates-but-housing-demand-stays-positive/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "U.S. Pending Home Sales Rise to Highest Level in 6 Weeks",
         "url": "https://www.redfin.com/news/housing-market-update-pending-sales-increase-summer-starts/",
@@ -257,15 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/new-policy-impact-may-ignite-a-manufactured-housing-blue-sky-era/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Compass, MRED, Zillow trade post-hearing briefs in Chicagoland MLS lawsuit",
-        "url": "https://www.housingwire.com/articles/compass-mred-zillow-trade-post-hearing-briefs-in-chicagoland-mls-lawsuit/",
-        "what": "Filings come after a hearing on Zillow's motion for a preliminary injunction that would stop MRED from restricting its listing data feeds.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-mred-zillow-trade-post-hearing-briefs-in-chicagoland-mls-lawsuit/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "OpenAI, Anthropic Employees Could Buy Nearly One-Third of All Homes in San Francisco With IPO Earnings",
