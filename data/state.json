@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-11 03:43 UTC",
+  "as_of": "2026-07-11 06:25 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Trump didn’t sign it, but the 21st Century ROAD to Housing Act is now law",
+      "link": "https://www.housingwire.com/articles/21st-century-road-to-housing-act-becomes-law-trump/",
+      "published": "Sat, 11 Jul 2026"
+    },
+    {
       "title": "Century 21 COO says M&A activity fueled by growing tech demands",
       "link": "https://www.housingwire.com/articles/century-21-coo-says-ma-activity-fueled-by-growing-tech-demands/",
       "published": "Fri, 10 Jul 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Housing affordability is improving as wages outpace home-price growth",
       "link": "https://www.housingwire.com/articles/housing-affordability-is-improving-as-wages-outpace-home-price-growth/",
-      "published": "Fri, 10 Jul 2026"
-    },
-    {
-      "title": "New policy impact may ignite a manufactured housing blue-sky era",
-      "link": "https://www.housingwire.com/articles/new-policy-impact-may-ignite-a-manufactured-housing-blue-sky-era/",
       "published": "Fri, 10 Jul 2026"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "MBA analysis finds minimal pricing impact from single credit score approach",
-        "url": "https://www.housingwire.com/articles/mba-single-credit-score/",
-        "what": "MBA reviewed nearly 105,000 applications from 2025 and found 90% of random scores were within one LLPA bucket of decisioning.",
-        "numbers": "105,000, 2025, 90",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-single-credit-score/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "U.S. Pending Home Sales Rise to Highest Level in 6 Weeks",
         "url": "https://www.redfin.com/news/housing-market-update-pending-sales-increase-summer-starts/",
         "what": "Pending home sales ticked up as housing payments temporarily dipped down",
@@ -222,6 +213,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Trump didn’t sign it, but the 21st Century ROAD to Housing Act is now law",
+        "url": "https://www.housingwire.com/articles/21st-century-road-to-housing-act-becomes-law-trump/",
+        "what": "The legislation, aimed at cutting red tape and making homeownership more attainable, is now the law of the land after President Donald Trump declined to sign or veto the bill befor",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/21st-century-road-to-housing-act-becomes-law-trump/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Plaintiffs oppose Veterans United motion to dismiss amended RESPA class-action suit",
         "url": "https://www.housingwire.com/articles/veterans-united-respa-kickbacks/",
