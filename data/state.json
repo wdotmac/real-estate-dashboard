@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-07-13 19:48 UTC",
+  "as_of": "2026-07-13 21:12 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.54,
-      "delta_bp_1d": -1.9999999999999574
+      "yield_pct": 4.56,
+      "delta_bp_1d": 1.9999999999999574
     },
     "mortgage_30y": {
       "rate_pct": 6.49,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Art Falcone on launching AmeriCraft Homes and building hospitality-driven communities",
+      "link": "https://www.housingwire.com/articles/art-falcone-launching-americraft-homes/",
+      "published": "Mon, 13 Jul 2026"
+    },
+    {
+      "title": "Can mortgage rates survive hawkish Fed talk during inflation week?",
+      "link": "https://www.housingwire.com/articles/10-year-yield-inflation-week/",
+      "published": "Mon, 13 Jul 2026"
+    },
+    {
+      "title": "Kogevinas Group joins Sotheby’s International Realty in Montecito",
+      "link": "https://www.housingwire.com/articles/kogevinas-group-sothebys-montecito/",
+      "published": "Mon, 13 Jul 2026"
+    },
+    {
       "title": "Real Brokerage and REMAX set Aug 14 merger votes",
       "link": "https://www.housingwire.com/articles/real-remax-aug-14-vote/",
       "published": "Mon, 13 Jul 2026"
@@ -152,21 +167,6 @@
     {
       "title": "What the ROAD to Housing Act means for agents, homebuyers",
       "link": "https://www.housingwire.com/articles/what-the-road-to-housing-act-means-for-agents-homebuyers/",
-      "published": "Mon, 13 Jul 2026"
-    },
-    {
-      "title": "FHFA moves to drop ‘reputational harm’ from consideration in counterparty suspensions",
-      "link": "https://www.housingwire.com/articles/fhfa-suspended-counterparty-changes/",
-      "published": "Mon, 13 Jul 2026"
-    },
-    {
-      "title": "BTIG: Higher rates to hit Q2 originations as nonbanks lean on MSR gains",
-      "link": "https://www.housingwire.com/articles/btig-nonbank-originations-q2/",
-      "published": "Mon, 13 Jul 2026"
-    },
-    {
-      "title": "Meridian Title Corp. expands in Indiana with acquisition",
-      "link": "https://www.housingwire.com/articles/meridian-title-corp-expands-in-indiana-with-acquisition/",
       "published": "Mon, 13 Jul 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Can mortgage rates survive hawkish Fed talk during inflation week?",
+        "url": "https://www.housingwire.com/articles/10-year-yield-inflation-week/",
+        "what": "Markets watch monthly core inflation prints and conflict headlines as the 10-year holds near 4.60% and Fed tone stays hawkish.",
+        "numbers": "10, 4.60",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/10-year-yield-inflation-week/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "FHFA moves to drop ‘reputational harm’ from consideration in counterparty suspensions",
         "url": "https://www.housingwire.com/articles/fhfa-suspended-counterparty-changes/",
         "what": "The Federal Housing Finance Agency wants to drop “reputational harm” as a basis for suspending firms and individuals that do business with Fannie Mae, Freddie Mac and the Federal H",
@@ -217,15 +226,6 @@
         "what": "Higher mortgage rates will weigh on second-quarter originations and third-quarter guidance for nonbank lenders, even as slower prepayments bolster servicing income, BTIG analysts s",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/btig-nonbank-originations-q2/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "AD Mortgage closes $432.4M non-QM RMBS deal",
-        "url": "https://www.housingwire.com/articles/ad-mortgage-non-qm-rmbs/",
-        "what": "AD Mortgage Trust 2026-NQM5 is backed by 1,008 loans, with a 754 weighted average FICO score and an expected closing date of July 15.",
-        "numbers": "2026, 5, 1,008, 754, 15.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ad-mortgage-non-qm-rmbs/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -257,15 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/what-the-road-to-housing-act-means-for-agents-homebuyers/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "AI likely to strengthen large mortgage lenders without disrupting industry, KBW says",
-        "url": "https://www.housingwire.com/articles/ai-big-mortgage-lenders-kbw/",
-        "what": "A Keefe, Bruyette & Woods report says AI cuts mortgage cycle times and costs, favoring big lenders and accelerating consolidation.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-big-mortgage-lenders-kbw/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Jim Dalrymple Joins Rocket as Principal of Industry Relations",
@@ -315,6 +306,24 @@
     ],
     "notables": [
       {
+        "title": "Art Falcone on launching AmeriCraft Homes and building hospitality-driven communities",
+        "url": "https://www.housingwire.com/articles/art-falcone-launching-americraft-homes/",
+        "what": "Art Falcone",
+        "numbers": "40",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/art-falcone-launching-americraft-homes/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Kogevinas Group joins Sotheby’s International Realty in Montecito",
+        "url": "https://www.housingwire.com/articles/kogevinas-group-sothebys-montecito/",
+        "what": "Kogevinas Group moved from BHHS to Sotheby’s Montecito after $265.5M in 2025 volume and 44 sides, per RealTrends.",
+        "numbers": "$265.5, 2025, 44",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kogevinas-group-sothebys-montecito/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Real Brokerage and REMAX set Aug 14 merger votes",
         "url": "https://www.housingwire.com/articles/real-remax-aug-14-vote/",
         "what": "Real and REMAX set Aug 14 votes, with a 10 for 1 consolidation and a $13.80 cash option plus $60M to $80M pool.",
@@ -338,15 +347,6 @@
         "what": "Samara launches Locale, a small-scale single-family infill platform using SB 1123 to add homes in high-demand California neighborhoods.",
         "numbers": "1123",
         "justified": "housingwire.com — https://www.housingwire.com/articles/samara-launches-locale-single-family-infill-california/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "JMG brings $5.9B brokerage platform to Keller Williams",
-        "url": "https://www.housingwire.com/articles/jmg-brings-5-9b-teamerage-platform-to-keller-williams/",
-        "what": "Jason Mitchell Group closed nearly $5.9 billion in sales volume across more than 12,300 transaction sides in 2025.",
-        "numbers": "$5.9 billion, 12,300, 2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/jmg-brings-5-9b-teamerage-platform-to-keller-williams/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
