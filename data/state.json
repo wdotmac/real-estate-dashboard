@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-13 17:22 UTC",
+  "as_of": "2026-07-13 19:48 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Samara launches its first single-family home model in California",
-      "link": "https://www.housingwire.com/articles/samara-launches-locale-single-family-infill-california/",
+      "title": "Real Brokerage and REMAX set Aug 14 merger votes",
+      "link": "https://www.housingwire.com/articles/real-remax-aug-14-vote/",
       "published": "Mon, 13 Jul 2026"
     },
     {
-      "title": "AD Mortgage closes $432.4M non-QM RMBS deal",
-      "link": "https://www.housingwire.com/articles/ad-mortgage-non-qm-rmbs/",
+      "title": "NAR guidance clarifies office exclusive listings, MLS rules",
+      "link": "https://www.housingwire.com/articles/nar-office-exclusive-mls-guidance/",
       "published": "Mon, 13 Jul 2026"
     },
     {
-      "title": "JMG brings $5.9B brokerage platform to Keller Williams",
-      "link": "https://www.housingwire.com/articles/jmg-brings-5-9b-teamerage-platform-to-keller-williams/",
+      "title": "What the ROAD to Housing Act means for agents, homebuyers",
+      "link": "https://www.housingwire.com/articles/what-the-road-to-housing-act-means-for-agents-homebuyers/",
       "published": "Mon, 13 Jul 2026"
     },
     {
-      "title": "AI likely to strengthen large mortgage lenders without disrupting industry, KBW says",
-      "link": "https://www.housingwire.com/articles/ai-big-mortgage-lenders-kbw/",
+      "title": "FHFA moves to drop ‘reputational harm’ from consideration in counterparty suspensions",
+      "link": "https://www.housingwire.com/articles/fhfa-suspended-counterparty-changes/",
       "published": "Mon, 13 Jul 2026"
     },
     {
-      "title": "Predictive analytics for real estate: Best tools + guide",
-      "link": "https://www.housingwire.com/articles/predictive-analytics-real-estate/",
+      "title": "BTIG: Higher rates to hit Q2 originations as nonbanks lean on MSR gains",
+      "link": "https://www.housingwire.com/articles/btig-nonbank-originations-q2/",
       "published": "Mon, 13 Jul 2026"
     },
     {
-      "title": "MetroTex MLS to match NTREIS broker rewards for high-quality listing data",
-      "link": "https://www.housingwire.com/articles/metrotex-mls-to-match-ntreis-broker-rewards-data-quality/",
+      "title": "Meridian Title Corp. expands in Indiana with acquisition",
+      "link": "https://www.housingwire.com/articles/meridian-title-corp-expands-in-indiana-with-acquisition/",
       "published": "Mon, 13 Jul 2026"
     },
     {
@@ -203,20 +203,29 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "FHFA moves to drop ‘reputational harm’ from consideration in counterparty suspensions",
+        "url": "https://www.housingwire.com/articles/fhfa-suspended-counterparty-changes/",
+        "what": "The Federal Housing Finance Agency wants to drop “reputational harm” as a basis for suspending firms and individuals that do business with Fannie Mae, Freddie Mac and the Federal H",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-suspended-counterparty-changes/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "BTIG: Higher rates to hit Q2 originations as nonbanks lean on MSR gains",
+        "url": "https://www.housingwire.com/articles/btig-nonbank-originations-q2/",
+        "what": "Higher mortgage rates will weigh on second-quarter originations and third-quarter guidance for nonbank lenders, even as slower prepayments bolster servicing income, BTIG analysts s",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/btig-nonbank-originations-q2/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "AD Mortgage closes $432.4M non-QM RMBS deal",
         "url": "https://www.housingwire.com/articles/ad-mortgage-non-qm-rmbs/",
         "what": "AD Mortgage Trust 2026-NQM5 is backed by 1,008 loans, with a 754 weighted average FICO score and an expected closing date of July 15.",
         "numbers": "2026, 5, 1,008, 754, 15.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/ad-mortgage-non-qm-rmbs/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Iran conflict lifts mortgage rates, but housing demand stays positive",
-        "url": "https://www.housingwire.com/articles/iran-conflict-lifts-mortgage-rates-but-housing-demand-stays-positive/",
-        "what": "Pending sales rose to 63,971 versus 61,143 in 2025, inventory ended at 844,011, and price cuts were 39.57% versus 41%.",
-        "numbers": "63,971, 61,143, 2025,, 844,011,, 39.57, 41",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/iran-conflict-lifts-mortgage-rates-but-housing-demand-stays-positive/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -231,6 +240,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "NAR guidance clarifies office exclusive listings, MLS rules",
+        "url": "https://www.housingwire.com/articles/nar-office-exclusive-mls-guidance/",
+        "what": "NAR guidance details office exclusive listings, pre marketing statuses, disclosures, and CCP rules requiring MLS entry within one business day.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-office-exclusive-mls-guidance/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "What the ROAD to Housing Act means for agents, homebuyers",
+        "url": "https://www.housingwire.com/articles/what-the-road-to-housing-act-means-for-agents-homebuyers/",
+        "what": "Bill provisions encourage more housing production, cut regulation, expand financing opportunities and increase access to homeownership.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/what-the-road-to-housing-act-means-for-agents-homebuyers/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "AI likely to strengthen large mortgage lenders without disrupting industry, KBW says",
         "url": "https://www.housingwire.com/articles/ai-big-mortgage-lenders-kbw/",
@@ -250,38 +277,11 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "All of real estate is becoming hospitality. Most owners haven’t noticed.",
-        "url": "https://www.housingwire.com/articles/experience-governance-miami-rents/",
-        "what": "Miami office rents now top $150 to $250 per square foot, increasing the need to track and manage the experience behind premium pricing.",
-        "numbers": "$150, $250",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/experience-governance-miami-rents/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
         "title": "U.S. Home Prices Hit All-Time High, Driven in Part By Big Upticks in San Francisco and West Palm Beach",
         "url": "https://www.redfin.com/news/home-prices-record-high-june-2026/",
         "what": "Prices rose 2.2% year over year in June to a record high, mainly because of growing demand",
         "numbers": "2.2, 4.4 million, 2022,, 2023.",
         "justified": "redfin.com — https://www.redfin.com/news/home-prices-record-high-june-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Trust & Will CEO Cody Barbo says rising financial stress is reshaping estate planning",
-        "url": "https://www.housingwire.com/articles/financial-stress-estate-planning/",
-        "what": "Trust & Will data shows homeowners are experiencing financial anxiety and are weighing estate plans and reverse mortgages to tap equity.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/financial-stress-estate-planning/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Why flexible private capital is becoming a builder growth strategy",
-        "url": "https://www.housingwire.com/articles/flexible-private-capital-builders/",
-        "what": "Regional and mid-sized builders are reassessing construction financing as absorption slows and costs stay elevated",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/flexible-private-capital-builders/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -315,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "Real Brokerage and REMAX set Aug 14 merger votes",
+        "url": "https://www.housingwire.com/articles/real-remax-aug-14-vote/",
+        "what": "Real and REMAX set Aug 14 votes, with a 10 for 1 consolidation and a $13.80 cash option plus $60M to $80M pool.",
+        "numbers": "14, 10, 1, $13.80, $60, $80",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-remax-aug-14-vote/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Meridian Title Corp. expands in Indiana with acquisition",
+        "url": "https://www.housingwire.com/articles/meridian-title-corp-expands-in-indiana-with-acquisition/",
+        "what": "The move expands Meridian's presence in Indiana and grows its network to 43 offices across Indiana and Michigan.",
+        "numbers": "43",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/meridian-title-corp-expands-in-indiana-with-acquisition/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Samara launches its first single-family home model in California",
         "url": "https://www.housingwire.com/articles/samara-launches-locale-single-family-infill-california/",
         "what": "Samara launches Locale, a small-scale single-family infill platform using SB 1123 to add homes in high-demand California neighborhoods.",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/jmg-brings-5-9b-teamerage-platform-to-keller-williams/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Predictive analytics for real estate: Best tools + guide",
-        "url": "https://www.housingwire.com/articles/predictive-analytics-real-estate/",
-        "what": "Real estate predictive analytics platforms are transforming the way agents find leads and understand market shifts",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/predictive-analytics-real-estate/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "MetroTex MLS to match NTREIS broker rewards for high-quality listing data",
-        "url": "https://www.housingwire.com/articles/metrotex-mls-to-match-ntreis-broker-rewards-data-quality/",
-        "what": "MetroTex MLS will match NTREIS Rewards-2025 payments, doubling incentives for North Texas brokers who deliver high-quality MLS listing data.",
-        "numbers": "2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/metrotex-mls-to-match-ntreis-broker-rewards-data-quality/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
