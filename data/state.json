@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-13 11:27 UTC",
+  "as_of": "2026-07-13 15:10 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "MetroTex MLS to match NTREIS broker rewards for high-quality listing data",
+      "link": "https://www.housingwire.com/articles/metrotex-mls-to-match-ntreis-broker-rewards-data-quality/",
+      "published": "Mon, 13 Jul 2026"
+    },
+    {
+      "title": "All of real estate is becoming hospitality. Most owners haven’t noticed.",
+      "link": "https://www.housingwire.com/articles/experience-governance-miami-rents/",
+      "published": "Mon, 13 Jul 2026"
+    },
+    {
       "title": "Trust & Will CEO Cody Barbo says rising financial stress is reshaping estate planning",
       "link": "https://www.housingwire.com/articles/financial-stress-estate-planning/",
       "published": "Mon, 13 Jul 2026"
@@ -160,14 +170,14 @@
       "published": "Sat, 11 Jul 2026"
     },
     {
-      "title": "Century 21 COO says M&A activity fueled by growing tech demands",
-      "link": "https://www.housingwire.com/articles/century-21-coo-says-ma-activity-fueled-by-growing-tech-demands/",
-      "published": "Fri, 10 Jul 2026"
+      "title": "Jim Dalrymple Joins Rocket as Principal of Industry Relations",
+      "link": "https://www.redfin.com/news/jim-dalrymple-joins-rocket-as-principal-of-industry-relations/",
+      "published": "Mon, 13 Jul 2026"
     },
     {
-      "title": "Plaintiffs oppose Veterans United motion to dismiss amended RESPA class-action suit",
-      "link": "https://www.housingwire.com/articles/veterans-united-respa-kickbacks/",
-      "published": "Fri, 10 Jul 2026"
+      "title": "U.S. Home Prices Hit All-Time High, Driven in Part By Big Upticks in San Francisco and West Palm Beach",
+      "link": "https://www.redfin.com/news/home-prices-record-high-june-2026/",
+      "published": "Mon, 13 Jul 2026"
     },
     {
       "title": "OpenAI, Anthropic Employees Could Buy Nearly One-Third of All Homes in San Francisco With IPO Earnings",
@@ -188,16 +198,6 @@
       "title": "Luxury Homes Cost 9 Times More Than the Typical Homes in These South Florida “Wealth Magnet” Metros",
       "link": "https://www.redfin.com/news/west-palm-beach-pending-sales-rise/",
       "published": "Tue, 07 Jul 2026"
-    },
-    {
-      "title": "Monthly Payments Tick Up For First Time in 8 Months As Home Prices Hit Record High",
-      "link": "https://www.redfin.com/news/housing-market-update-payments-rise-prices-record-high/",
-      "published": "Thu, 02 Jul 2026"
-    },
-    {
-      "title": "Most Homeowners See Their Home as a Reflection of Who They Are; Most Renters See It as Just a Place To Live",
-      "link": "https://www.redfin.com/news/june-homeownership-month-how-people-feel-about-home-2026/",
-      "published": "Wed, 01 Jul 2026"
     }
   ],
   "feed_101020": {
@@ -222,6 +222,33 @@
       }
     ],
     "housing": [
+      {
+        "title": "Jim Dalrymple Joins Rocket as Principal of Industry Relations",
+        "url": "https://www.redfin.com/news/jim-dalrymple-joins-rocket-as-principal-of-industry-relations/",
+        "what": "Rocket has hired Jim Dalrymple as principal of industry relations, a role focused on building relationships with MLSs, trade associations, brokerage leaders and technology partners across the housing industry",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/jim-dalrymple-joins-rocket-as-principal-of-industry-relations/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "All of real estate is becoming hospitality. Most owners haven’t noticed.",
+        "url": "https://www.housingwire.com/articles/experience-governance-miami-rents/",
+        "what": "Miami office rents now top $150 to $250 per square foot, increasing the need to track and manage the experience behind premium pricing.",
+        "numbers": "$150, $250",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/experience-governance-miami-rents/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "U.S. Home Prices Hit All-Time High, Driven in Part By Big Upticks in San Francisco and West Palm Beach",
+        "url": "https://www.redfin.com/news/home-prices-record-high-june-2026/",
+        "what": "Prices rose 2.2% year over year in June to a record high, mainly because of growing demand",
+        "numbers": "2.2, 4.4 million, 2022,, 2023.",
+        "justified": "redfin.com — https://www.redfin.com/news/home-prices-record-high-june-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Trust & Will CEO Cody Barbo says rising financial stress is reshaping estate planning",
         "url": "https://www.housingwire.com/articles/financial-stress-estate-planning/",
@@ -268,24 +295,6 @@
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
-        "title": "Housing affordability is improving as wages outpace home-price growth",
-        "url": "https://www.housingwire.com/articles/housing-affordability-is-improving-as-wages-outpace-home-price-growth/",
-        "what": "Inventory is 1.56 million with 4.6 months of supply, helping keep 1.8% home-price growth below wage gains running near 3.5%.",
-        "numbers": "1.56 million, 4.6, 1.8, 3.5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-affordability-is-improving-as-wages-outpace-home-price-growth/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "New policy impact may ignite a manufactured housing blue-sky era",
-        "url": "https://www.housingwire.com/articles/new-policy-impact-may-ignite-a-manufactured-housing-blue-sky-era/",
-        "what": "ROAD to Housing Act would make the permanent chassis optional, enabling new designs and potential lower-cost financing paths.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-policy-impact-may-ignite-a-manufactured-housing-blue-sky-era/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "OpenAI, Anthropic Employees Could Buy Nearly One-Third of All Homes in San Francisco With IPO Earnings",
         "url": "https://www.redfin.com/news/openai-anthropic-housing-wealth/",
         "what": "A new Redfin analysis takes a look at how much Bay Area real estate OpenAI and Anthropic employees could hypothetically purchase with their IPO earnings, in the wake of two massively valuable AI companies filing confidentially to go public",
@@ -302,18 +311,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/major-metros-luxury-homes-still-under-million-dollars/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Luxury Homes Cost 9 Times More Than the Typical Homes in These South Florida “Wealth Magnet” Metros",
-        "url": "https://www.redfin.com/news/west-palm-beach-pending-sales-rise/",
-        "what": "West Palm Beach, FL, where the typical luxury home costs 8.9 times more than the typical non luxury home, has the nation’s biggest luxury home price premium",
-        "numbers": "8.9, 8.8,, 5.5, 9",
-        "justified": "redfin.com — https://www.redfin.com/news/west-palm-beach-pending-sales-rise/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
+      {
+        "title": "MetroTex MLS to match NTREIS broker rewards for high-quality listing data",
+        "url": "https://www.housingwire.com/articles/metrotex-mls-to-match-ntreis-broker-rewards-data-quality/",
+        "what": "MetroTex MLS will match NTREIS Rewards-2025 payments, doubling incentives for North Texas brokers who deliver high-quality MLS listing data.",
+        "numbers": "2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/metrotex-mls-to-match-ntreis-broker-rewards-data-quality/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Century 21 COO says M&A activity fueled by growing tech demands",
         "url": "https://www.housingwire.com/articles/century-21-coo-says-ma-activity-fueled-by-growing-tech-demands/",
