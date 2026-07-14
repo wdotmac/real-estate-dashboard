@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-14 14:13 UTC",
+  "as_of": "2026-07-14 15:47 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "July rate hike should be off the table with big June inflation miss",
+      "link": "https://www.housingwire.com/articles/june-cpi-monthly-inflation/",
+      "published": "Tue, 14 Jul 2026"
+    },
+    {
+      "title": "Single-family investor restrictions take effect under ROAD Act",
+      "link": "https://www.housingwire.com/articles/single-family-investor-home-cap/",
+      "published": "Tue, 14 Jul 2026"
+    },
+    {
+      "title": "Baird and Warner names Jeanette Cutler chief marketing officer",
+      "link": "https://www.housingwire.com/articles/baird-warner-cutler-cmo/",
+      "published": "Tue, 14 Jul 2026"
+    },
+    {
+      "title": "June inflation fell, cooling Fed rate hike expectations",
+      "link": "https://www.housingwire.com/articles/june-cpi-fed-hold/",
+      "published": "Tue, 14 Jul 2026"
+    },
+    {
       "title": "CoStar names Robin Rossmann as CFO, effective July 31, 2026",
       "link": "https://www.housingwire.com/articles/costar-robin-rossmann-cfo/",
       "published": "Tue, 14 Jul 2026"
@@ -148,26 +168,6 @@
       "title": "Is Kelley Blue Book another company coming for your commission?",
       "link": "https://www.housingwire.com/articles/kelley-blue-book-homes-vs-zillow/",
       "published": "Tue, 14 Jul 2026"
-    },
-    {
-      "title": "Closinglock adds payoff retrieval, verification",
-      "link": "https://www.housingwire.com/articles/closinglock-adds-payoff-retrieval-verification/",
-      "published": "Tue, 14 Jul 2026"
-    },
-    {
-      "title": "From AI curiosity to operational transformation: Michael Vandi on how mortgage lending’s relationship with AI is evolving",
-      "link": "https://www.housingwire.com/articles/michael-vandi-mortgage-ai-evolving/",
-      "published": "Tue, 14 Jul 2026"
-    },
-    {
-      "title": "Workflow Before Technology: Why mortgage transformation starts with governance, not AI",
-      "link": "https://www.housingwire.com/articles/mortgage-workflow-governance-ai/",
-      "published": "Tue, 14 Jul 2026"
-    },
-    {
-      "title": "Higher home-care spending by states linked to greater aging-in-place outcomes",
-      "link": "https://www.housingwire.com/articles/higher-home-care-spending-by-states-linked-to-greater-aging-in-place-outcomes/",
-      "published": "Mon, 13 Jul 2026"
     },
     {
       "title": "Mortgage Rates to Fall as Cooler-Than-Expected Inflation Report Lowers Odds of a July Fed Rate Hike",
@@ -203,20 +203,29 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "July rate hike should be off the table with big June inflation miss",
+        "url": "https://www.housingwire.com/articles/june-cpi-monthly-inflation/",
+        "what": "June CPI declined 0.4% and ran 3.5% year over year, and flat monthly inflation weakens the argument for a July hike.",
+        "numbers": "0.4, 3.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/june-cpi-monthly-inflation/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "June inflation fell, cooling Fed rate hike expectations",
+        "url": "https://www.housingwire.com/articles/june-cpi-fed-hold/",
+        "what": "Inflation slowed in June amid a now-defunct Middle East ceasefire, casting doubt on a potential Federal Reserve rate hike next week.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/june-cpi-fed-hold/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage Rates to Fall as Cooler-Than-Expected Inflation Report Lowers Odds of a July Fed Rate Hike",
         "url": "https://www.redfin.com/news/cpi-july-2026/",
         "what": "Takeaway: Rates will fall today after an unexpectedly soft CPI inflation reading that will keep the Fed from hiking at the July 29th meeting",
         "numbers": "29, 0.4, 3.5",
         "justified": "redfin.com — https://www.redfin.com/news/cpi-july-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Can mortgage rates survive hawkish Fed talk during inflation week?",
-        "url": "https://www.housingwire.com/articles/10-year-yield-inflation-week/",
-        "what": "Markets watch monthly core inflation prints and conflict headlines as the 10-year holds near 4.60% and Fed tone stays hawkish.",
-        "numbers": "10, 4.60",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/10-year-yield-inflation-week/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -306,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "Single-family investor restrictions take effect under ROAD Act",
+        "url": "https://www.housingwire.com/articles/single-family-investor-home-cap/",
+        "what": "New law bars institutional investors with 350 or more homes from buying additional single-family homes, with carve-outs for BTR.",
+        "numbers": "350",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/single-family-investor-home-cap/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Baird and Warner names Jeanette Cutler chief marketing officer",
+        "url": "https://www.housingwire.com/articles/baird-warner-cutler-cmo/",
+        "what": "Baird and Warner appointed Jeanette Cutler CMO, overseeing brand, communications and growth for 2,700 agents in 30 offices.",
+        "numbers": "2,700, 30",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/baird-warner-cutler-cmo/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "CoStar names Robin Rossmann as CFO, effective July 31, 2026",
         "url": "https://www.housingwire.com/articles/costar-robin-rossmann-cfo/",
         "what": "CoStar names Robin Rossmann CFO effective July 31, 2026, after a $51M Europe cost cut, about 25%, and double digit growth.",
@@ -322,33 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/closinglock-adds-payoff-retrieval-verification/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Art Falcone on launching AmeriCraft Homes and building hospitality-driven communities",
-        "url": "https://www.housingwire.com/articles/art-falcone-launching-americraft-homes/",
-        "what": "Art Falcone",
-        "numbers": "40",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/art-falcone-launching-americraft-homes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Kogevinas Group joins Sotheby’s International Realty in Montecito",
-        "url": "https://www.housingwire.com/articles/kogevinas-group-sothebys-montecito/",
-        "what": "Kogevinas Group moved from BHHS to Sotheby’s Montecito after $265.5M in 2025 volume and 44 sides, per RealTrends.",
-        "numbers": "$265.5, 2025, 44",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kogevinas-group-sothebys-montecito/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Real Brokerage and REMAX set Aug 14 merger votes",
-        "url": "https://www.housingwire.com/articles/real-remax-aug-14-vote/",
-        "what": "Real and REMAX set Aug 14 votes, with a 10 for 1 consolidation and a $13.80 cash option plus $60M to $80M pool.",
-        "numbers": "14, 10, 1, $13.80, $60, $80",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-remax-aug-14-vote/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
