@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-14 17:33 UTC",
+  "as_of": "2026-07-14 19:41 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Bank regulators issue guidance on credit risk for unauthorized workers",
+      "link": "https://www.housingwire.com/articles/credit-risk-unauthorized-workers/",
+      "published": "Tue, 14 Jul 2026"
+    },
+    {
+      "title": "Cornerstone Capital Bank expands retail mortgage presence by adding Daryl Wizelman Team",
+      "link": "https://www.housingwire.com/articles/cornerstone-retail-wizelman-hire/",
+      "published": "Tue, 14 Jul 2026"
+    },
+    {
+      "title": "Ground leases taking root in affordable housing deals as costs rise",
+      "link": "https://www.housingwire.com/articles/ground-leases-taking-root-in-affordable-housing-deals-as-costs-rise/",
+      "published": "Tue, 14 Jul 2026"
+    },
+    {
+      "title": "The brokerage blueprint is changing. Keller Williams just proved it with the JMG acquisition",
+      "link": "https://www.housingwire.com/articles/kw-jason-mitchell-group-ipo/",
+      "published": "Tue, 14 Jul 2026"
+    },
+    {
       "title": "Taylor Morrison appoints Jeremy Hampson as Jacksonville division president",
       "link": "https://www.housingwire.com/articles/taylor-morrison-jeremy-hampson-jacksonville-division-president/",
       "published": "Tue, 14 Jul 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Mortgage rates move higher, but cooling inflation should provide relief",
       "link": "https://www.housingwire.com/articles/mortgage-rates-june-cpi-fedwatch/",
-      "published": "Tue, 14 Jul 2026"
-    },
-    {
-      "title": "Big banks crush Q2 mortgage origination expectations",
-      "link": "https://www.housingwire.com/articles/q2-bank-mortgage-volume/",
-      "published": "Tue, 14 Jul 2026"
-    },
-    {
-      "title": "EquityProtect report shows expanding deed theft protections, room for improvement",
-      "link": "https://www.housingwire.com/articles/equityprotect-report-shows-expanding-deed-theft-protections-room-for-improvement/",
-      "published": "Tue, 14 Jul 2026"
-    },
-    {
-      "title": "Real Brokerage REMAX merger clears antitrust hurdle",
-      "link": "https://www.housingwire.com/articles/real-remax-hsr-clearance/",
-      "published": "Tue, 14 Jul 2026"
-    },
-    {
-      "title": "Dream Finders names former Lennar co-CEO Rick Beckwitt as board co-chair",
-      "link": "https://www.housingwire.com/articles/dream-finders-rick-beckwitt-board-co-chairman/",
       "published": "Tue, 14 Jul 2026"
     },
     {
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "July rate hike should be off the table with big June inflation miss",
-        "url": "https://www.housingwire.com/articles/june-cpi-monthly-inflation/",
-        "what": "June CPI declined 0.4% and ran 3.5% year over year, and flat monthly inflation weakens the argument for a July hike.",
-        "numbers": "0.4, 3.5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/june-cpi-monthly-inflation/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Mortgage Rates to Fall as Cooler-Than-Expected Inflation Report Lowers Odds of a July Fed Rate Hike",
         "url": "https://www.redfin.com/news/cpi-july-2026/",
         "what": "Takeaway: Rates will fall today after an unexpectedly soft CPI inflation reading that will keep the Fed from hiking at the July 29th meeting",
@@ -250,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "Cornerstone Capital Bank expands retail mortgage presence by adding Daryl Wizelman Team",
+        "url": "https://www.housingwire.com/articles/cornerstone-retail-wizelman-hire/",
+        "what": "Cornerstone Capital Bank adds Daryl Wizelman and the Wizelman Team, expanding retail mortgage operations and leadership depth.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cornerstone-retail-wizelman-hire/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Ground leases taking root in affordable housing deals as costs rise",
+        "url": "https://www.housingwire.com/articles/ground-leases-taking-root-in-affordable-housing-deals-as-costs-rise/",
+        "what": "Ground leases are emerging as gap capital for 4% LIHTC projects, with Safehold using 99-year terms and fixed 2% annual increases.",
+        "numbers": "4, 99, 2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ground-leases-taking-root-in-affordable-housing-deals-as-costs-rise/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Taylor Morrison appoints Jeremy Hampson as Jacksonville division president",
         "url": "https://www.housingwire.com/articles/taylor-morrison-jeremy-hampson-jacksonville-division-president/",
         "what": "Taylor Morrison named industry veteran Jeremy Hampson as president of its Jacksonville division as the builder expands its Esplanade brand.",
@@ -264,15 +273,6 @@
         "what": "Big banks exceeded analysts' expectations for mortgage origination volume in the second quarter of 2026, posting an average increase of 32% compared to the prior three-month period",
         "numbers": "2026,, 32",
         "justified": "housingwire.com — https://www.housingwire.com/articles/q2-bank-mortgage-volume/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "MBA reports June decline in mortgage credit availability",
-        "url": "https://www.housingwire.com/articles/mba-june-mortgage-credit-availability/",
-        "what": "MBA’s MCAI fell 2% to a reading of 105.8 in June, led by a 4.6% drop in government programs, while conventional dipped 0.1%.",
-        "numbers": "2, 105.8, 4.6, 0.1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-june-mortgage-credit-availability/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -315,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "Bank regulators issue guidance on credit risk for unauthorized workers",
+        "url": "https://www.housingwire.com/articles/credit-risk-unauthorized-workers/",
+        "what": "The OCC, FDIC and NCUA reminded lenders to manage credit risk for borrowers without work authorization under existing rules.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/credit-risk-unauthorized-workers/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "The brokerage blueprint is changing. Keller Williams just proved it with the JMG acquisition",
+        "url": "https://www.housingwire.com/articles/kw-jason-mitchell-group-ipo/",
+        "what": "Keller Williams agreed to acquire Jason Mitchell Group, adding a lead network model as analysts cite possible IPO preparation.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kw-jason-mitchell-group-ipo/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "EquityProtect report shows expanding deed theft protections, room for improvement",
         "url": "https://www.housingwire.com/articles/equityprotect-report-shows-expanding-deed-theft-protections-room-for-improvement/",
         "what": "EquityProtect said 29 states do not have specific deed theft laws, pointing property owners to broader fraud and forgery statutes.",
@@ -329,24 +347,6 @@
         "what": "REMAX said the DOJ ended the HSR waiting period early for its merger with Real, with votes scheduled for 08/14.",
         "numbers": "08, 14.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/real-remax-hsr-clearance/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Single-family investor restrictions take effect under ROAD Act",
-        "url": "https://www.housingwire.com/articles/single-family-investor-home-cap/",
-        "what": "New law bars institutional investors with 350 or more homes from buying additional single-family homes, with carve-outs for BTR.",
-        "numbers": "350",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/single-family-investor-home-cap/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Baird and Warner names Jeanette Cutler chief marketing officer",
-        "url": "https://www.housingwire.com/articles/baird-warner-cutler-cmo/",
-        "what": "Baird and Warner appointed Jeanette Cutler CMO, overseeing brand, communications and growth for 2,700 agents in 30 offices.",
-        "numbers": "2,700, 30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/baird-warner-cutler-cmo/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
