@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-14 15:47 UTC",
+  "as_of": "2026-07-14 17:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "July rate hike should be off the table with big June inflation miss",
-      "link": "https://www.housingwire.com/articles/june-cpi-monthly-inflation/",
+      "title": "Taylor Morrison appoints Jeremy Hampson as Jacksonville division president",
+      "link": "https://www.housingwire.com/articles/taylor-morrison-jeremy-hampson-jacksonville-division-president/",
       "published": "Tue, 14 Jul 2026"
     },
     {
-      "title": "Single-family investor restrictions take effect under ROAD Act",
-      "link": "https://www.housingwire.com/articles/single-family-investor-home-cap/",
+      "title": "Mortgage rates move higher, but cooling inflation should provide relief",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-june-cpi-fedwatch/",
       "published": "Tue, 14 Jul 2026"
     },
     {
-      "title": "Baird and Warner names Jeanette Cutler chief marketing officer",
-      "link": "https://www.housingwire.com/articles/baird-warner-cutler-cmo/",
+      "title": "Big banks crush Q2 mortgage origination expectations",
+      "link": "https://www.housingwire.com/articles/q2-bank-mortgage-volume/",
       "published": "Tue, 14 Jul 2026"
     },
     {
-      "title": "June inflation fell, cooling Fed rate hike expectations",
-      "link": "https://www.housingwire.com/articles/june-cpi-fed-hold/",
+      "title": "EquityProtect report shows expanding deed theft protections, room for improvement",
+      "link": "https://www.housingwire.com/articles/equityprotect-report-shows-expanding-deed-theft-protections-room-for-improvement/",
       "published": "Tue, 14 Jul 2026"
     },
     {
-      "title": "CoStar names Robin Rossmann as CFO, effective July 31, 2026",
-      "link": "https://www.housingwire.com/articles/costar-robin-rossmann-cfo/",
+      "title": "Real Brokerage REMAX merger clears antitrust hurdle",
+      "link": "https://www.housingwire.com/articles/real-remax-hsr-clearance/",
       "published": "Tue, 14 Jul 2026"
     },
     {
-      "title": "Is Kelley Blue Book another company coming for your commission?",
-      "link": "https://www.housingwire.com/articles/kelley-blue-book-homes-vs-zillow/",
+      "title": "Dream Finders names former Lennar co-CEO Rick Beckwitt as board co-chair",
+      "link": "https://www.housingwire.com/articles/dream-finders-rick-beckwitt-board-co-chairman/",
       "published": "Tue, 14 Jul 2026"
     },
     {
@@ -203,20 +203,29 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Mortgage rates move higher, but cooling inflation should provide relief",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-june-cpi-fedwatch/",
+        "what": "Fears that mortgage rates were going to soar past 7% may have been assuaged Tuesday when Consumer Price Index (CPI) data for June showed cooling inflation.",
+        "numbers": "7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-june-cpi-fedwatch/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Dream Finders names former Lennar co-CEO Rick Beckwitt as board co-chair",
+        "url": "https://www.housingwire.com/articles/dream-finders-rick-beckwitt-board-co-chairman/",
+        "what": "Dream Finders announced that Rick Beckwitt as co-chairman of its board of directors",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/dream-finders-rick-beckwitt-board-co-chairman/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "July rate hike should be off the table with big June inflation miss",
         "url": "https://www.housingwire.com/articles/june-cpi-monthly-inflation/",
         "what": "June CPI declined 0.4% and ran 3.5% year over year, and flat monthly inflation weakens the argument for a July hike.",
         "numbers": "0.4, 3.5",
         "justified": "housingwire.com — https://www.housingwire.com/articles/june-cpi-monthly-inflation/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "June inflation fell, cooling Fed rate hike expectations",
-        "url": "https://www.housingwire.com/articles/june-cpi-fed-hold/",
-        "what": "Inflation slowed in June amid a now-defunct Middle East ceasefire, casting doubt on a potential Federal Reserve rate hike next week.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/june-cpi-fed-hold/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -241,13 +250,31 @@
     ],
     "housing": [
       {
-        "title": "Is Kelley Blue Book another company coming for your commission?",
-        "url": "https://www.housingwire.com/articles/kelley-blue-book-homes-vs-zillow/",
-        "what": "Kelley Blue Book Homes enters home value estimates and routes sellers to screened agents, positioning pricing trust against Zillow’s Zestimate.",
+        "title": "Taylor Morrison appoints Jeremy Hampson as Jacksonville division president",
+        "url": "https://www.housingwire.com/articles/taylor-morrison-jeremy-hampson-jacksonville-division-president/",
+        "what": "Taylor Morrison named industry veteran Jeremy Hampson as president of its Jacksonville division as the builder expands its Esplanade brand.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kelley-blue-book-homes-vs-zillow/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/taylor-morrison-jeremy-hampson-jacksonville-division-president/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Big banks crush Q2 mortgage origination expectations",
+        "url": "https://www.housingwire.com/articles/q2-bank-mortgage-volume/",
+        "what": "Big banks exceeded analysts' expectations for mortgage origination volume in the second quarter of 2026, posting an average increase of 32% compared to the prior three-month period",
+        "numbers": "2026,, 32",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/q2-bank-mortgage-volume/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "MBA reports June decline in mortgage credit availability",
+        "url": "https://www.housingwire.com/articles/mba-june-mortgage-credit-availability/",
+        "what": "MBA’s MCAI fell 2% to a reading of 105.8 in June, led by a 4.6% drop in government programs, while conventional dipped 0.1%.",
+        "numbers": "2, 105.8, 4.6, 0.1",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-june-mortgage-credit-availability/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Home Sellers Outnumber Buyers 2 to 1 in Miami, Nashville, and Much of Texas, The Nation’s Strongest Buyer’s Markets",
@@ -257,33 +284,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-june-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "From AI curiosity to operational transformation: Michael Vandi on how mortgage lending’s relationship with AI is evolving",
-        "url": "https://www.housingwire.com/articles/michael-vandi-mortgage-ai-evolving/",
-        "what": "Addy AI CEO Michael Vandi discusses mortgage AI adoption, enterprise AI mortgage strategies and why trust is shaping the future of lending.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/michael-vandi-mortgage-ai-evolving/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Workflow Before Technology: Why mortgage transformation starts with governance, not AI",
-        "url": "https://www.housingwire.com/articles/mortgage-workflow-governance-ai/",
-        "what": "Mortgage Workflow Partners CEO Larry Bailey says lenders often add AI and automation onto undocumented, ownerless processes",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-workflow-governance-ai/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Higher home-care spending by states linked to greater aging-in-place outcomes",
-        "url": "https://www.housingwire.com/articles/higher-home-care-spending-by-states-linked-to-greater-aging-in-place-outcomes/",
-        "what": "Researchers examined state investments in home- and community-based services (HCBS) and associated changes in where older adults lived.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/higher-home-care-spending-by-states-linked-to-greater-aging-in-place-outcomes/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Jim Dalrymple Joins Rocket as Principal of Industry Relations",
@@ -315,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "EquityProtect report shows expanding deed theft protections, room for improvement",
+        "url": "https://www.housingwire.com/articles/equityprotect-report-shows-expanding-deed-theft-protections-room-for-improvement/",
+        "what": "EquityProtect said 29 states do not have specific deed theft laws, pointing property owners to broader fraud and forgery statutes.",
+        "numbers": "29",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/equityprotect-report-shows-expanding-deed-theft-protections-room-for-improvement/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Real Brokerage REMAX merger clears antitrust hurdle",
+        "url": "https://www.housingwire.com/articles/real-remax-hsr-clearance/",
+        "what": "REMAX said the DOJ ended the HSR waiting period early for its merger with Real, with votes scheduled for 08/14.",
+        "numbers": "08, 14.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-remax-hsr-clearance/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Single-family investor restrictions take effect under ROAD Act",
         "url": "https://www.housingwire.com/articles/single-family-investor-home-cap/",
         "what": "New law bars institutional investors with 350 or more homes from buying additional single-family homes, with carve-outs for BTR.",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/baird-warner-cutler-cmo/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CoStar names Robin Rossmann as CFO, effective July 31, 2026",
-        "url": "https://www.housingwire.com/articles/costar-robin-rossmann-cfo/",
-        "what": "CoStar names Robin Rossmann CFO effective July 31, 2026, after a $51M Europe cost cut, about 25%, and double digit growth.",
-        "numbers": "31,, 2026,, $51, 25",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-robin-rossmann-cfo/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Closinglock adds payoff retrieval, verification",
-        "url": "https://www.housingwire.com/articles/closinglock-adds-payoff-retrieval-verification/",
-        "what": "Closinglock said payoff statements and verifications can now be returned within its platform and integrated into title production systems.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/closinglock-adds-payoff-retrieval-verification/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
