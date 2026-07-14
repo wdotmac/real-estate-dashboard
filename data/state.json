@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-14 21:14 UTC",
+  "as_of": "2026-07-14 22:16 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Compass files ethics complaints against Zillow in 26 states",
+      "link": "https://www.housingwire.com/articles/compass-ethics-complaints-zillow/",
+      "published": "Tue, 14 Jul 2026"
+    },
+    {
       "title": "NTREIS names Joey Bandemer VP of data governance",
       "link": "https://www.housingwire.com/articles/ntreis-bandemer-data-governance/",
       "published": "Tue, 14 Jul 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Bank regulators issue guidance on credit risk for unauthorized workers",
       "link": "https://www.housingwire.com/articles/credit-risk-unauthorized-workers/",
-      "published": "Tue, 14 Jul 2026"
-    },
-    {
-      "title": "Cornerstone Capital Bank expands retail mortgage presence by adding Daryl Wizelman Team",
-      "link": "https://www.housingwire.com/articles/cornerstone-retail-wizelman-hire/",
       "published": "Tue, 14 Jul 2026"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Mortgage rates move higher, but cooling inflation should provide relief",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-june-cpi-fedwatch/",
-        "what": "Fears that mortgage rates were going to soar past 7% may have been assuaged Tuesday when Consumer Price Index (CPI) data for June showed cooling inflation.",
-        "numbers": "7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-june-cpi-fedwatch/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Mortgage Rates to Fall as Cooler-Than-Expected Inflation Report Lowers Odds of a July Fed Rate Hike",
         "url": "https://www.redfin.com/news/cpi-july-2026/",
         "what": "Takeaway: Rates will fall today after an unexpectedly soft CPI inflation reading that will keep the Fed from hiking at the July 29th meeting",
@@ -231,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Compass files ethics complaints against Zillow in 26 states",
+        "url": "https://www.housingwire.com/articles/compass-ethics-complaints-zillow/",
+        "what": "Compass filed ethics complaints alleging Zillow false advertising across 26 states, 55 MLSs and 30 Realtor associations.",
+        "numbers": "26, 55, 30",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-ethics-complaints-zillow/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "UWM broker ultimatum tied to 5 bps price drop at rivals",
         "url": "https://www.housingwire.com/articles/uwm-broker-ban-pricing/",
@@ -311,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/home-prices-record-high-june-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "OpenAI, Anthropic Employees Could Buy Nearly One-Third of All Homes in San Francisco With IPO Earnings",
-        "url": "https://www.redfin.com/news/openai-anthropic-housing-wealth/",
-        "what": "A new Redfin analysis takes a look at how much Bay Area real estate OpenAI and Anthropic employees could hypothetically purchase with their IPO earnings, in the wake of two massively valuable AI companies filing confidentially to go public",
-        "numbers": "20, 15",
-        "justified": "redfin.com — https://www.redfin.com/news/openai-anthropic-housing-wealth/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
