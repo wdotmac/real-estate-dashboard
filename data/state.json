@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-14 11:43 UTC",
+  "as_of": "2026-07-14 14:13 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "CoStar names Robin Rossmann as CFO, effective July 31, 2026",
+      "link": "https://www.housingwire.com/articles/costar-robin-rossmann-cfo/",
+      "published": "Tue, 14 Jul 2026"
+    },
+    {
+      "title": "Is Kelley Blue Book another company coming for your commission?",
+      "link": "https://www.housingwire.com/articles/kelley-blue-book-homes-vs-zillow/",
+      "published": "Tue, 14 Jul 2026"
+    },
+    {
+      "title": "Closinglock adds payoff retrieval, verification",
+      "link": "https://www.housingwire.com/articles/closinglock-adds-payoff-retrieval-verification/",
+      "published": "Tue, 14 Jul 2026"
+    },
+    {
       "title": "From AI curiosity to operational transformation: Michael Vandi on how mortgage lending’s relationship with AI is evolving",
       "link": "https://www.housingwire.com/articles/michael-vandi-mortgage-ai-evolving/",
       "published": "Tue, 14 Jul 2026"
@@ -155,19 +170,14 @@
       "published": "Mon, 13 Jul 2026"
     },
     {
-      "title": "Art Falcone on launching AmeriCraft Homes and building hospitality-driven communities",
-      "link": "https://www.housingwire.com/articles/art-falcone-launching-americraft-homes/",
-      "published": "Mon, 13 Jul 2026"
+      "title": "Mortgage Rates to Fall as Cooler-Than-Expected Inflation Report Lowers Odds of a July Fed Rate Hike",
+      "link": "https://www.redfin.com/news/cpi-july-2026/",
+      "published": "Tue, 14 Jul 2026"
     },
     {
-      "title": "Can mortgage rates survive hawkish Fed talk during inflation week?",
-      "link": "https://www.housingwire.com/articles/10-year-yield-inflation-week/",
-      "published": "Mon, 13 Jul 2026"
-    },
-    {
-      "title": "Kogevinas Group joins Sotheby’s International Realty in Montecito",
-      "link": "https://www.housingwire.com/articles/kogevinas-group-sothebys-montecito/",
-      "published": "Mon, 13 Jul 2026"
+      "title": "Home Sellers Outnumber Buyers 2 to 1 in Miami, Nashville, and Much of Texas, The Nation’s Strongest Buyer’s Markets",
+      "link": "https://www.redfin.com/news/buyers-vs-sellers-june-2026/",
+      "published": "Tue, 14 Jul 2026"
     },
     {
       "title": "Jim Dalrymple Joins Rocket as Principal of Industry Relations",
@@ -188,35 +198,25 @@
       "title": "U.S. Pending Home Sales Rise to Highest Level in 6 Weeks",
       "link": "https://www.redfin.com/news/housing-market-update-pending-sales-increase-summer-starts/",
       "published": "Thu, 09 Jul 2026"
-    },
-    {
-      "title": "There Are Now Only 5 Major Metros Where A Typical Luxury Home Costs Less Than $1 Million",
-      "link": "https://www.redfin.com/news/major-metros-luxury-homes-still-under-million-dollars/",
-      "published": "Wed, 08 Jul 2026"
-    },
-    {
-      "title": "Luxury Homes Cost 9 Times More Than the Typical Homes in These South Florida “Wealth Magnet” Metros",
-      "link": "https://www.redfin.com/news/west-palm-beach-pending-sales-rise/",
-      "published": "Tue, 07 Jul 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage Rates to Fall as Cooler-Than-Expected Inflation Report Lowers Odds of a July Fed Rate Hike",
+        "url": "https://www.redfin.com/news/cpi-july-2026/",
+        "what": "Takeaway: Rates will fall today after an unexpectedly soft CPI inflation reading that will keep the Fed from hiking at the July 29th meeting",
+        "numbers": "29, 0.4, 3.5",
+        "justified": "redfin.com — https://www.redfin.com/news/cpi-july-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Can mortgage rates survive hawkish Fed talk during inflation week?",
         "url": "https://www.housingwire.com/articles/10-year-yield-inflation-week/",
         "what": "Markets watch monthly core inflation prints and conflict headlines as the 10-year holds near 4.60% and Fed tone stays hawkish.",
         "numbers": "10, 4.60",
         "justified": "housingwire.com — https://www.housingwire.com/articles/10-year-yield-inflation-week/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "FHFA moves to drop ‘reputational harm’ from consideration in counterparty suspensions",
-        "url": "https://www.housingwire.com/articles/fhfa-suspended-counterparty-changes/",
-        "what": "The Federal Housing Finance Agency wants to drop “reputational harm” as a basis for suspending firms and individuals that do business with Fannie Mae, Freddie Mac and the Federal H",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-suspended-counterparty-changes/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -231,6 +231,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Is Kelley Blue Book another company coming for your commission?",
+        "url": "https://www.housingwire.com/articles/kelley-blue-book-homes-vs-zillow/",
+        "what": "Kelley Blue Book Homes enters home value estimates and routes sellers to screened agents, positioning pricing trust against Zillow’s Zestimate.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kelley-blue-book-homes-vs-zillow/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Home Sellers Outnumber Buyers 2 to 1 in Miami, Nashville, and Much of Texas, The Nation’s Strongest Buyer’s Markets",
+        "url": "https://www.redfin.com/news/buyers-vs-sellers-june-2026/",
+        "what": "There were almost half a million more home sellers than buyers in the U.S",
+        "numbers": "48.5, 2020, 2, 1",
+        "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-june-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "From AI curiosity to operational transformation: Michael Vandi on how mortgage lending’s relationship with AI is evolving",
         "url": "https://www.housingwire.com/articles/michael-vandi-mortgage-ai-evolving/",
@@ -259,24 +277,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "NAR guidance clarifies office exclusive listings, MLS rules",
-        "url": "https://www.housingwire.com/articles/nar-office-exclusive-mls-guidance/",
-        "what": "NAR guidance details office exclusive listings, pre marketing statuses, disclosures, and CCP rules requiring MLS entry within one business day.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-office-exclusive-mls-guidance/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "What the ROAD to Housing Act means for agents, homebuyers",
-        "url": "https://www.housingwire.com/articles/what-the-road-to-housing-act-means-for-agents-homebuyers/",
-        "what": "Bill provisions encourage more housing production, cut regulation, expand financing opportunities and increase access to homeownership.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/what-the-road-to-housing-act-means-for-agents-homebuyers/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Jim Dalrymple Joins Rocket as Principal of Industry Relations",
         "url": "https://www.redfin.com/news/jim-dalrymple-joins-rocket-as-principal-of-industry-relations/",
         "what": "Rocket has hired Jim Dalrymple as principal of industry relations, a role focused on building relationships with MLSs, trade associations, brokerage leaders and technology partners across the housing industry",
@@ -302,27 +302,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/openai-anthropic-housing-wealth/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "There Are Now Only 5 Major Metros Where A Typical Luxury Home Costs Less Than $1 Million",
-        "url": "https://www.redfin.com/news/major-metros-luxury-homes-still-under-million-dollars/",
-        "what": "The number of major metros where you can buy a luxury home for less than $1 million is down to five from eight last year",
-        "numbers": "$1 million, $719,252, 47.7, $1,374,470., 5",
-        "justified": "redfin.com — https://www.redfin.com/news/major-metros-luxury-homes-still-under-million-dollars/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Luxury Homes Cost 9 Times More Than the Typical Homes in These South Florida “Wealth Magnet” Metros",
-        "url": "https://www.redfin.com/news/west-palm-beach-pending-sales-rise/",
-        "what": "West Palm Beach, FL, where the typical luxury home costs 8.9 times more than the typical non luxury home, has the nation’s biggest luxury home price premium",
-        "numbers": "8.9, 8.8,, 5.5, 9",
-        "justified": "redfin.com — https://www.redfin.com/news/west-palm-beach-pending-sales-rise/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
+      {
+        "title": "CoStar names Robin Rossmann as CFO, effective July 31, 2026",
+        "url": "https://www.housingwire.com/articles/costar-robin-rossmann-cfo/",
+        "what": "CoStar names Robin Rossmann CFO effective July 31, 2026, after a $51M Europe cost cut, about 25%, and double digit growth.",
+        "numbers": "31,, 2026,, $51, 25",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-robin-rossmann-cfo/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Closinglock adds payoff retrieval, verification",
+        "url": "https://www.housingwire.com/articles/closinglock-adds-payoff-retrieval-verification/",
+        "what": "Closinglock said payoff statements and verifications can now be returned within its platform and integrated into title production systems.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/closinglock-adds-payoff-retrieval-verification/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Art Falcone on launching AmeriCraft Homes and building hospitality-driven communities",
         "url": "https://www.housingwire.com/articles/art-falcone-launching-americraft-homes/",
