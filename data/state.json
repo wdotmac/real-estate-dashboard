@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-07-15 17:38 UTC",
+  "as_of": "2026-07-15 21:14 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.62,
-      "delta_bp_1d": 6.00000000000005
+      "yield_pct": 4.58,
+      "delta_bp_1d": -4.0000000000000036
     },
     "mortgage_30y": {
       "rate_pct": 6.49,
@@ -140,33 +140,38 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "ONE Sotheby’s expands South Florida luxury presence with TFG International",
-      "link": "https://www.housingwire.com/articles/one-sothebys-expands-south-florida-luxury-presence-with-tfg-international/",
+      "title": "The best real estate software for 2026: 20 top picks for agents + teams",
+      "link": "https://www.housingwire.com/articles/real-estate-software/",
       "published": "Wed, 15 Jul 2026"
     },
     {
-      "title": "Blue Sage partners with Kinective on mortgage modernization at community banks, credit unions",
-      "link": "https://www.housingwire.com/articles/blue-sage-kinective-partner-to-connect-digital-mortgage-with-core-banking/",
+      "title": "Economic activity expands, but consumers feel the squeeze",
+      "link": "https://www.housingwire.com/articles/economic-activity-expands-but-consumers-feel-the-squeeze/",
       "published": "Wed, 15 Jul 2026"
     },
     {
-      "title": "Keller Williams leads RealTrends Verified City Rankings as team production overtakes agents",
-      "link": "https://www.housingwire.com/articles/keller-williams-leads-realtrends-verified-city-rankings-as-team-production-overtakes-agents/",
+      "title": "Fairway Home Mortgage launches nonprofit to combat senior financial fraud",
+      "link": "https://www.housingwire.com/articles/fairway-home-mortgage-launches-fairway-safe-to-combat-senior-financial-scams/",
       "published": "Wed, 15 Jul 2026"
     },
     {
-      "title": "Greystar faces 114 housing voucher discrimination complaints",
-      "link": "https://www.housingwire.com/articles/greystar-voucher-discrimination-complaints/",
+      "title": "Vought defends CFPB cuts, calls for congressional reforms",
+      "link": "https://www.housingwire.com/articles/vought-cfpb-reform-testimony/",
       "published": "Wed, 15 Jul 2026"
     },
     {
-      "title": "Housing Market Spotlight: The local markets behind this week’s national story",
-      "link": "https://www.housingwire.com/articles/housing-market-spotlight-local-market-trends/",
+      "title": "Georgia housing agency victimized in $2.5M fraud scheme, prosecutors allege",
+      "link": "https://www.housingwire.com/articles/fraud-scheme-georgia-housing-agency/",
       "published": "Wed, 15 Jul 2026"
     },
     {
-      "title": "Can the housing market still grow with mortgage rates over 6.64%?",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-664-housing-demand/",
+      "title": "Can a trusted car valuation brand win seller leads in housing?",
+      "link": "https://www.housingwire.com/articles/kbb-homes-seller-leads-model/",
+      "published": "Wed, 15 Jul 2026"
+    },
+    {
+      "title": "The home search landscape is changing. If you’re not on Redfin, you may be missing homes for sale.",
+      "link": "https://www.redfin.com/news/home-search-in-2026/",
       "published": "Wed, 15 Jul 2026"
     },
     {
@@ -193,48 +198,25 @@
       "title": "Home Sellers Outnumber Buyers 2 to 1 in Miami, Nashville, and Much of Texas, The Nation’s Strongest Buyer’s Markets",
       "link": "https://www.redfin.com/news/buyers-vs-sellers-june-2026/",
       "published": "Tue, 14 Jul 2026"
-    },
-    {
-      "title": "Jim Dalrymple Joins Rocket as Principal of Industry Relations",
-      "link": "https://www.redfin.com/news/jim-dalrymple-joins-rocket-as-principal-of-industry-relations/",
-      "published": "Mon, 13 Jul 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Economic activity expands, but consumers feel the squeeze",
+        "url": "https://www.housingwire.com/articles/economic-activity-expands-but-consumers-feel-the-squeeze/",
+        "what": "Construction and real estate activity increased slightly overall, with several districts highlighting growth in data center building.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/economic-activity-expands-but-consumers-feel-the-squeeze/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Blue Sage partners with Kinective on mortgage modernization at community banks, credit unions",
         "url": "https://www.housingwire.com/articles/blue-sage-kinective-partner-to-connect-digital-mortgage-with-core-banking/",
         "what": "Blue Sage Solutions has formed a strategic partnership with Kinective to simplify how banks and credit unions connect their digital mortgage lending technology to core banking and",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/blue-sage-kinective-partner-to-connect-digital-mortgage-with-core-banking/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Can the housing market still grow with mortgage rates over 6.64%?",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-664-housing-demand/",
-        "what": "With rates near yearly highs and above 6.64%, purchase apps slipped 7% weekly and 2% yearly, but pending sales stayed ahead of 2025.",
-        "numbers": "6.64, 7, 2, 2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-664-housing-demand/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Higher mortgage rates push applications lower after holiday week",
-        "url": "https://www.housingwire.com/articles/higher-rates-mortgage-applications-fall/",
-        "what": "MBA says applications fell as the 30-year fixed rate rose to 6.65%, while the refinance index increased 4% and purchases fell 7%.",
-        "numbers": "30, 6.65, 4, 7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/higher-rates-mortgage-applications-fall/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Lofty adds one-click Showami integration for on-demand showings",
-        "url": "https://www.housingwire.com/articles/lofty-showami-integration-on-demand-showings/",
-        "what": "Lofty now integrates with Showami, allowing 80,000 U.S",
-        "numbers": "80,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lofty-showami-integration-on-demand-showings/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -250,22 +232,40 @@
     ],
     "housing": [
       {
-        "title": "Greystar faces 114 housing voucher discrimination complaints",
-        "url": "https://www.housingwire.com/articles/greystar-voucher-discrimination-complaints/",
-        "what": "HRI filed complaints alleging Greystar denied Housing Choice Vouchers across 6 states and Washington, D.C., after tests since October 2025.",
-        "numbers": "6, 2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/greystar-voucher-discrimination-complaints/",
+        "title": "The home search landscape is changing. If you’re not on Redfin, you may be missing homes for sale.",
+        "url": "https://www.redfin.com/news/home-search-in-2026/",
+        "what": "Traditionally, most homes for sale appear on all the major real estate portals the day they list",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/home-search-in-2026/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Fairway Home Mortgage launches nonprofit to combat senior financial fraud",
+        "url": "https://www.housingwire.com/articles/fairway-home-mortgage-launches-fairway-safe-to-combat-senior-financial-scams/",
+        "what": "Fairway Home Mortgage launches Fairway SAFE, a nonprofit focused on educating seniors and professionals to prevent elder exploitation.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fairway-home-mortgage-launches-fairway-safe-to-combat-senior-financial-scams/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Georgia housing agency victimized in $2.5M fraud scheme, prosecutors allege",
+        "url": "https://www.housingwire.com/articles/fraud-scheme-georgia-housing-agency/",
+        "what": "Prosecutors describe a $2.5 million scheme that used false invoices, kickbacks and fraudulent payments over a four-year period.",
+        "numbers": "$2.5 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fraud-scheme-georgia-housing-agency/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Housing Market Spotlight: The local markets behind this week’s national story",
-        "url": "https://www.housingwire.com/articles/housing-market-spotlight-local-market-trends/",
-        "what": "U.S",
+        "title": "Can a trusted car valuation brand win seller leads in housing?",
+        "url": "https://www.housingwire.com/articles/kbb-homes-seller-leads-model/",
+        "what": "Advisors question whether Kelley Blue Book Homes can differentiate in seller leads, as servicers already market valuations to homeowners.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-spotlight-local-market-trends/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kbb-homes-seller-leads-model/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "Affordable, Inland College Towns Buck National Trends, Seeing Double-Digit Home Price Growth and Fast Sales",
@@ -295,15 +295,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Compass files ethics complaints against Zillow in 26 states",
-        "url": "https://www.housingwire.com/articles/compass-ethics-complaints-zillow/",
-        "what": "Compass filed ethics complaints alleging Zillow false advertising across 26 states, 55 MLSs and 30 Realtor associations.",
-        "numbers": "26, 55, 30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-ethics-complaints-zillow/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Home Sellers Outnumber Buyers 2 to 1 in Miami, Nashville, and Much of Texas, The Nation’s Strongest Buyer’s Markets",
         "url": "https://www.redfin.com/news/buyers-vs-sellers-june-2026/",
         "what": "There were almost half a million more home sellers than buyers in the U.S",
@@ -311,42 +302,51 @@
         "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-june-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Jim Dalrymple Joins Rocket as Principal of Industry Relations",
-        "url": "https://www.redfin.com/news/jim-dalrymple-joins-rocket-as-principal-of-industry-relations/",
-        "what": "Rocket has hired Jim Dalrymple as principal of industry relations, a role focused on building relationships with MLSs, trade associations, brokerage leaders and technology partners across the housing industry",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/jim-dalrymple-joins-rocket-as-principal-of-industry-relations/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
       {
-        "title": "ONE Sotheby’s expands South Florida luxury presence with TFG International",
-        "url": "https://www.housingwire.com/articles/one-sothebys-expands-south-florida-luxury-presence-with-tfg-international/",
-        "what": "The luxury real estate group, co-founded by Tomer Fridman, has established a bi-coastal presence connecting Los Angeles and south Florida.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/one-sothebys-expands-south-florida-luxury-presence-with-tfg-international/",
+        "title": "The best real estate software for 2026: 20 top picks for agents + teams",
+        "url": "https://www.housingwire.com/articles/real-estate-software/",
+        "what": "We zero in on the best real estate software for 2025 to help you make the best decisions for your business.",
+        "numbers": "2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-software/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Keller Williams leads RealTrends Verified City Rankings as team production overtakes agents",
-        "url": "https://www.housingwire.com/articles/keller-williams-leads-realtrends-verified-city-rankings-as-team-production-overtakes-agents/",
-        "what": "Across all brands, teams represented less than one-third of all entries but generated $832.7 billion in volume and nearly 1.29 million sides.",
-        "numbers": "$832.7 billion, 1.29 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/keller-williams-leads-realtrends-verified-city-rankings-as-team-production-overtakes-agents/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "title": "Vought defends CFPB cuts, calls for congressional reforms",
+        "url": "https://www.housingwire.com/articles/vought-cfpb-reform-testimony/",
+        "what": "In a testimony before the House Financial Services Committee, Vought defended workforce reductions and regulatory changes.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/vought-cfpb-reform-testimony/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "NTREIS names Joey Bandemer VP of data governance",
-        "url": "https://www.housingwire.com/articles/ntreis-bandemer-data-governance/",
-        "what": "NTREIS hired Joey Bandemer to lead data governance and in house compliance, replacing 13 associations, rollout Q4 2026.",
-        "numbers": "13, 4, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ntreis-bandemer-data-governance/",
+        "title": "NatEquity analysis compares home equity products for senior homeowners",
+        "url": "https://www.housingwire.com/articles/natequity-senior-home-equity-products/",
+        "what": "NatEquity compares HECMs, senior HELOCs, HEIs and HouseMoney for senior homeowners, outlining costs, terms and risks.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/natequity-senior-home-equity-products/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Polunsky Beitel Green hires Jeanine LaMay Kay to bolster business development",
+        "url": "https://www.housingwire.com/articles/polunsky-beitel-green-hires-jeanine-lamay-kay-business-development/",
+        "what": "Based in the firm’s Dallas office, Kay will work with attorneys and client service teams to deepen existing client relationships and support national growth efforts.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/polunsky-beitel-green-hires-jeanine-lamay-kay-business-development/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "ONE Sotheby’s International Realty adds TFG International",
+        "url": "https://www.housingwire.com/articles/one-sothebys-expands-south-florida-luxury-presence-with-tfg-international/",
+        "what": "The luxury real estate group, co-founded by Tomer Fridman, has established a bi-coastal presence connecting Los Angeles and south Florida.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/one-sothebys-expands-south-florida-luxury-presence-with-tfg-international/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
