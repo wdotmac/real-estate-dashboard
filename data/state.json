@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-15 14:08 UTC",
+  "as_of": "2026-07-15 15:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Keller Williams leads RealTrends Verified City Rankings as team production overtakes agents",
+      "link": "https://www.housingwire.com/articles/keller-williams-leads-realtrends-verified-city-rankings-as-team-production-overtakes-agents/",
+      "published": "Wed, 15 Jul 2026"
+    },
+    {
+      "title": "Greystar faces 114 housing voucher discrimination complaints",
+      "link": "https://www.housingwire.com/articles/greystar-voucher-discrimination-complaints/",
+      "published": "Wed, 15 Jul 2026"
+    },
+    {
       "title": "Housing Market Spotlight: The local markets behind this week’s national story",
       "link": "https://www.housingwire.com/articles/housing-market-spotlight-local-market-trends/",
       "published": "Wed, 15 Jul 2026"
@@ -158,16 +168,6 @@
       "title": "Lofty adds one-click Showami integration for on-demand showings",
       "link": "https://www.housingwire.com/articles/lofty-showami-integration-on-demand-showings/",
       "published": "Wed, 15 Jul 2026"
-    },
-    {
-      "title": "Compass files ethics complaints against Zillow in 26 states",
-      "link": "https://www.housingwire.com/articles/compass-ethics-complaints-zillow/",
-      "published": "Tue, 14 Jul 2026"
-    },
-    {
-      "title": "NTREIS names Joey Bandemer VP of data governance",
-      "link": "https://www.housingwire.com/articles/ntreis-bandemer-data-governance/",
-      "published": "Tue, 14 Jul 2026"
     },
     {
       "title": "Affordable, Inland College Towns Buck National Trends, Seeing Double-Digit Home Price Growth and Fast Sales",
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "Greystar faces 114 housing voucher discrimination complaints",
+        "url": "https://www.housingwire.com/articles/greystar-voucher-discrimination-complaints/",
+        "what": "HRI filed complaints alleging Greystar denied Housing Choice Vouchers across 6 states and Washington, D.C., after tests since October 2025.",
+        "numbers": "6, 2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/greystar-voucher-discrimination-complaints/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Housing Market Spotlight: The local markets behind this week’s national story",
         "url": "https://www.housingwire.com/articles/housing-market-spotlight-local-market-trends/",
         "what": "U.S",
@@ -304,15 +313,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Christy Soukhamneut on joining Stockton Mortgage as chief strategy and innovation officer",
-        "url": "https://www.housingwire.com/articles/stockton-mortgage-christy-soukhamneut/",
-        "what": "Stockton Mortgage has appointed Christy Soukhamneut as chief strategy and innovation officer to lead operational transformation.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/stockton-mortgage-christy-soukhamneut/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Home Sellers Outnumber Buyers 2 to 1 in Miami, Nashville, and Much of Texas, The Nation’s Strongest Buyer’s Markets",
         "url": "https://www.redfin.com/news/buyers-vs-sellers-june-2026/",
         "what": "There were almost half a million more home sellers than buyers in the U.S",
@@ -333,20 +333,20 @@
     ],
     "notables": [
       {
+        "title": "Keller Williams leads RealTrends Verified City Rankings as team production overtakes agents",
+        "url": "https://www.housingwire.com/articles/keller-williams-leads-realtrends-verified-city-rankings-as-team-production-overtakes-agents/",
+        "what": "Across all brands, teams represented less than one-third of all entries but generated $832.7 billion in volume and nearly 1.29 million sides.",
+        "numbers": "$832.7 billion, 1.29 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/keller-williams-leads-realtrends-verified-city-rankings-as-team-production-overtakes-agents/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "NTREIS names Joey Bandemer VP of data governance",
         "url": "https://www.housingwire.com/articles/ntreis-bandemer-data-governance/",
         "what": "NTREIS hired Joey Bandemer to lead data governance and in house compliance, replacing 13 associations, rollout Q4 2026.",
         "numbers": "13, 4, 2026.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/ntreis-bandemer-data-governance/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Bank regulators issue guidance on credit risk for unauthorized workers",
-        "url": "https://www.housingwire.com/articles/credit-risk-unauthorized-workers/",
-        "what": "The OCC, FDIC and NCUA reminded lenders to manage credit risk for borrowers without work authorization under existing rules.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/credit-risk-unauthorized-workers/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
