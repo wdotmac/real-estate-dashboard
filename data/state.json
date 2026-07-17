@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-17 11:40 UTC",
+  "as_of": "2026-07-17 14:02 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -11,8 +11,8 @@
       "delta_bp_wow": 5.999999999999961
     },
     "starts": {
-      "level_saar": 1177.0,
-      "mom": -0.15445402298850575
+      "level_saar": 1427.0,
+      "mom": 0.19015846538782322
     }
   },
   "permits": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Real estate agents should stop comparing gross commission income",
+      "link": "https://www.housingwire.com/articles/stop-comparing-agent-gci/",
+      "published": "Fri, 17 Jul 2026"
+    },
+    {
+      "title": "Dream Finders Homes adds Steve Fischer to its board",
+      "link": "https://www.housingwire.com/articles/dream-finders-homes-appoints-steve-fischer-to-board-audit-committee/",
+      "published": "Fri, 17 Jul 2026"
+    },
+    {
       "title": "Advocacy is not background noise. It is leadership.",
       "link": "https://www.housingwire.com/articles/advocacy-rebuild-fund-california/",
       "published": "Fri, 17 Jul 2026"
@@ -160,14 +170,9 @@
       "published": "Thu, 16 Jul 2026"
     },
     {
-      "title": "Awaiting the CFPB’s next act ahead of Vought’s departure",
-      "link": "https://www.housingwire.com/articles/cfpb-vought-new-nomination/",
-      "published": "Thu, 16 Jul 2026"
-    },
-    {
-      "title": "Cody Pearce returns to YES Communities as president",
-      "link": "https://www.housingwire.com/articles/cody-pearce-yes-communities-president/",
-      "published": "Thu, 16 Jul 2026"
+      "title": "Beachfront Florida and Coastal California Ruled June’s Ultra-Luxury Home Sales",
+      "link": "https://www.redfin.com/news/most-expensive-home-sales-june-2026/",
+      "published": "Fri, 17 Jul 2026"
     },
     {
       "title": "Pending Home Sales Slip Amid Stubbornly High Housing Costs, Economic Uncertainty",
@@ -193,11 +198,6 @@
       "title": "Redfin Partners With The Weather Company to Bring Weather Data to Every Home Listing",
       "link": "https://www.redfin.com/news/redfin-partners-weather-company/",
       "published": "Wed, 15 Jul 2026"
-    },
-    {
-      "title": "Mortgage Rates to Fall as Cooler-Than-Expected Inflation Report Lowers Odds of a July Fed Rate Hike",
-      "link": "https://www.redfin.com/news/cpi-july-2026/",
-      "published": "Tue, 14 Jul 2026"
     }
   ],
   "feed_101020": {
@@ -228,18 +228,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-slip-high-costs/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage Rates to Fall as Cooler-Than-Expected Inflation Report Lowers Odds of a July Fed Rate Hike",
-        "url": "https://www.redfin.com/news/cpi-july-2026/",
-        "what": "Takeaway: Rates will fall today after an unexpectedly soft CPI inflation reading that will keep the Fed from hiking at the July 29th meeting",
-        "numbers": "29, 0.4, 3.5",
-        "justified": "redfin.com — https://www.redfin.com/news/cpi-july-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Beachfront Florida and Coastal California Ruled June’s Ultra-Luxury Home Sales",
+        "url": "https://www.redfin.com/news/most-expensive-home-sales-june-2026/",
+        "what": "The most expensive home sale of June was a $71 million waterfront estate near Palm Beach, followed by a Beverly Hills compound",
+        "numbers": "$71 million, $47 million",
+        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-june-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Stanley Martin buying Holiday Builders highlights hyper-scale shift",
         "url": "https://www.housingwire.com/articles/holiday-builders-deal-density/",
@@ -257,24 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/cody-pearce-yes-communities-president/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Despite ROAD Act passing, no construction boom is coming",
-        "url": "https://www.housingwire.com/articles/despite-road-act-passing-no-construction-boom-is-coming/",
-        "what": "Builder confidence is weak and permits and starts are falling, while completed supply is high, limiting a near-term building boom.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/despite-road-act-passing-no-construction-boom-is-coming/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Atlantic Avenue posts 25% monthly gain, leads HECM broker endorsements in April",
-        "url": "https://www.housingwire.com/articles/atlantic-avenue-april-hecm-broker/",
-        "what": "Atlantic Avenue Mortgage led April HECM broker endorsements with 110 loans, followed by loanDepot, Caliver Beach and C2 Financial.",
-        "numbers": "110, 2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/atlantic-avenue-april-hecm-broker/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "The Home Search Landscape is Changing. If You’re Not on Redfin, You May Be Missing Homes for Sale.",
@@ -314,6 +296,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "Real estate agents should stop comparing gross commission income",
+        "url": "https://www.housingwire.com/articles/stop-comparing-agent-gci/",
+        "what": "Comparing real estate agent GCI can drive reactive choices, hide costs, and distract from retention, trust and client value.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/stop-comparing-agent-gci/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Dream Finders Homes adds Steve Fischer to its board",
+        "url": "https://www.housingwire.com/articles/dream-finders-homes-appoints-steve-fischer-to-board-audit-committee/",
+        "what": "Dream Finders Homes Inc",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/dream-finders-homes-appoints-steve-fischer-to-board-audit-committee/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Advocacy is not background noise. It is leadership.",
         "url": "https://www.housingwire.com/articles/advocacy-rebuild-fund-california/",
