@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-07-17 19:32 UTC",
+  "as_of": "2026-07-17 21:07 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.55,
-      "delta_bp_1d": -3.000000000000025
+      "yield_pct": 4.57,
+      "delta_bp_1d": 2.000000000000046
     },
     "mortgage_30y": {
       "rate_pct": 6.55,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "How ROAD aims to boost housing supply and cut red tape",
+      "link": "https://www.housingwire.com/articles/how-road-aims-to-boost-housing-supply-and-cut-red-tape/",
+      "published": "Fri, 17 Jul 2026"
+    },
+    {
+      "title": "Most retirement savers want an ‘easy button’ for planning",
+      "link": "https://www.housingwire.com/articles/most-retirement-savers-want-an-easy-button-for-planning/",
+      "published": "Fri, 17 Jul 2026"
+    },
+    {
+      "title": "What the ROAD to Housing Act can — and can’t — do for affordability",
+      "link": "https://www.housingwire.com/articles/what-the-road-to-housing-act-can-and-cant-do-for-affordability/",
+      "published": "Fri, 17 Jul 2026"
+    },
+    {
       "title": "Newrez servicing arm sued in New Jersey over alleged RESPA violations",
       "link": "https://www.housingwire.com/articles/shellpoint-respa-servicing-suit/",
       "published": "Fri, 17 Jul 2026"
@@ -152,21 +167,6 @@
     {
       "title": "June housing starts jump 19%, fueled by strong multifamily gains",
       "link": "https://www.housingwire.com/articles/june-housing-starts-jump-19-fueled-by-strong-multifamily-gains/",
-      "published": "Fri, 17 Jul 2026"
-    },
-    {
-      "title": "UHM acquires AmeriTrust assets, expands non-QM footprint",
-      "link": "https://www.housingwire.com/articles/uhm-acquires-ameritrust-assets/",
-      "published": "Fri, 17 Jul 2026"
-    },
-    {
-      "title": "Housing permits near cycle lows even as housing starts beat estimates",
-      "link": "https://www.housingwire.com/articles/june-starts-permits-cycle-lows/",
-      "published": "Fri, 17 Jul 2026"
-    },
-    {
-      "title": "RiskSpan releases credit risk model built for non-QM loans",
-      "link": "https://www.housingwire.com/articles/riskspan-releases-credit-risk-model-built-for-non-qm-loans/",
       "published": "Fri, 17 Jul 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "How ROAD aims to boost housing supply and cut red tape",
+        "url": "https://www.housingwire.com/articles/how-road-aims-to-boost-housing-supply-and-cut-red-tape/",
+        "what": "The 21st Century ROAD to Housing Act includes provisions to streamline NEPA reviews, expand factory-built housing and incentivize local pro-supply reforms",
+        "numbers": "21",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/how-road-aims-to-boost-housing-supply-and-cut-red-tape/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Pending Home Sales Slip Amid Stubbornly High Housing Costs, Economic Uncertainty",
         "url": "https://www.redfin.com/news/housing-market-update-pending-sales-slip-high-costs/",
         "what": "Would-be sellers backed off, too, with new listings falling to their lowest level since the start of 2026",
@@ -213,6 +222,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Most retirement savers want an ‘easy button’ for planning",
+        "url": "https://www.housingwire.com/articles/most-retirement-savers-want-an-easy-button-for-planning/",
+        "what": "A J.P",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/most-retirement-savers-want-an-easy-button-for-planning/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "What the ROAD to Housing Act can — and can’t — do for affordability",
+        "url": "https://www.housingwire.com/articles/what-the-road-to-housing-act-can-and-cant-do-for-affordability/",
+        "what": "Experts who spoke with HousingWire call the legislation a good start but point to other bold measures still needed to tackle affordability.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/what-the-road-to-housing-act-can-and-cant-do-for-affordability/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "June housing starts jump 19%, fueled by strong multifamily gains",
         "url": "https://www.housingwire.com/articles/june-housing-starts-jump-19-fueled-by-strong-multifamily-gains/",
@@ -284,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/americans-moving-better-weather/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Redfin Partners With The Weather Company to Bring Weather Data to Every Home Listing",
-        "url": "https://www.redfin.com/news/redfin-partners-weather-company/",
-        "what": "Homebuyers can now view temperature, precipitation, snowfall, humidity and UV index information on all for-sale listings When you’re buying a home, it’s about more than bedrooms, bathrooms and square footage",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/redfin-partners-weather-company/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
@@ -320,33 +338,6 @@
         "what": "RiskSpan launched Credit Model 7.1 for non-QM loans, trained on $87B UPB, as Q3 2025 issuance rose 97% to $20.9B.",
         "numbers": "7.1, $87, 3, 2025, 97, $20.9",
         "justified": "housingwire.com — https://www.housingwire.com/articles/riskspan-releases-credit-risk-model-built-for-non-qm-loans/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Real estate agents should stop comparing gross commission income",
-        "url": "https://www.housingwire.com/articles/stop-comparing-agent-gci/",
-        "what": "Comparing real estate agent GCI can drive reactive choices, hide costs, and distract from retention, trust and client value.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/stop-comparing-agent-gci/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Dream Finders Homes adds Steve Fischer to its board",
-        "url": "https://www.housingwire.com/articles/dream-finders-homes-appoints-steve-fischer-to-board-audit-committee/",
-        "what": "Dream Finders Homes Inc",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/dream-finders-homes-appoints-steve-fischer-to-board-audit-committee/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Advocacy is not background noise. It is leadership.",
-        "url": "https://www.housingwire.com/articles/advocacy-rebuild-fund-california/",
-        "what": "The proposed $100 million Southern California Rebuild Fund reflects behind-the-scenes advocacy aimed at closing wildfire rebuild financing gaps",
-        "numbers": "$100 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/advocacy-rebuild-fund-california/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
