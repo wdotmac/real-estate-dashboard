@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-18 21:05 UTC",
+  "as_of": "2026-07-18 22:06 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Can the housing market weather Iran conflict 2.0 and higher rates?",
+      "link": "https://www.housingwire.com/articles/iran-conflict-664-mortgage-rates/",
+      "published": "Sat, 18 Jul 2026"
+    },
+    {
       "title": "California condo defect liability bill on deck after recess",
       "link": "https://www.housingwire.com/articles/california-ab1903-condo-defects/",
       "published": "Fri, 17 Jul 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Newrez servicing arm sued in New Jersey over alleged RESPA violations",
       "link": "https://www.housingwire.com/articles/shellpoint-respa-servicing-suit/",
-      "published": "Fri, 17 Jul 2026"
-    },
-    {
-      "title": "Why Aaron Kirman is betting on AI, crypto and new development",
-      "link": "https://www.housingwire.com/articles/aaron-kirman-luxury-brokerage/",
       "published": "Fri, 17 Jul 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Can the housing market weather Iran conflict 2.0 and higher rates?",
+        "url": "https://www.housingwire.com/articles/iran-conflict-664-mortgage-rates/",
+        "what": "Weekly housing indicators suggest a modest cooling as mortgage rates spent most of last week above 6.64% and the Iran conflict escalates.",
+        "numbers": "6.64",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/iran-conflict-664-mortgage-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "How ROAD aims to boost housing supply and cut red tape",
         "url": "https://www.housingwire.com/articles/how-road-aims-to-boost-housing-supply-and-cut-red-tape/",
@@ -329,15 +338,6 @@
         "what": "Aaron Kirman outlines why he launched Christie’s SoCal in 2022 and how AI, crypto and development units are shaping growth.",
         "numbers": "2022",
         "justified": "housingwire.com — https://www.housingwire.com/articles/aaron-kirman-luxury-brokerage/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "RiskSpan releases credit risk model built for non-QM loans",
-        "url": "https://www.housingwire.com/articles/riskspan-releases-credit-risk-model-built-for-non-qm-loans/",
-        "what": "RiskSpan launched Credit Model 7.1 for non-QM loans, trained on $87B UPB, as Q3 2025 issuance rose 97% to $20.9B.",
-        "numbers": "7.1, $87, 3, 2025, 97, $20.9",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/riskspan-releases-credit-risk-model-built-for-non-qm-loans/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
