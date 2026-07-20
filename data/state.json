@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-20 13:17 UTC",
+  "as_of": "2026-07-20 16:01 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage volumes point to bank share gains in Q2",
+      "link": "https://www.housingwire.com/articles/banks-take-mortgage-share-q2-2026/",
+      "published": "Mon, 20 Jul 2026"
+    },
+    {
+      "title": "How Zillow agent rankings shape AI recommendations",
+      "link": "https://www.housingwire.com/articles/ai-mirrors-zillow-agent-rankings/",
+      "published": "Mon, 20 Jul 2026"
+    },
+    {
       "title": "Finance of America’s Graham Fleming on HECM demand, second liens and Onity deal",
       "link": "https://www.housingwire.com/articles/finance-of-america-reverse-mortgage-strategy/",
       "published": "Mon, 20 Jul 2026"
@@ -157,16 +167,6 @@
     {
       "title": "How ROAD aims to boost housing supply and cut red tape",
       "link": "https://www.housingwire.com/articles/how-road-aims-to-boost-housing-supply-and-cut-red-tape/",
-      "published": "Fri, 17 Jul 2026"
-    },
-    {
-      "title": "Most retirement savers want an ‘easy button’ for planning",
-      "link": "https://www.housingwire.com/articles/most-retirement-savers-want-an-easy-button-for-planning/",
-      "published": "Fri, 17 Jul 2026"
-    },
-    {
-      "title": "What the ROAD to Housing Act can — and can’t — do for affordability",
-      "link": "https://www.housingwire.com/articles/what-the-road-to-housing-act-can-and-cant-do-for-affordability/",
       "published": "Fri, 17 Jul 2026"
     },
     {
@@ -232,6 +232,24 @@
     ],
     "housing": [
       {
+        "title": "Mortgage volumes point to bank share gains in Q2",
+        "url": "https://www.housingwire.com/articles/banks-take-mortgage-share-q2-2026/",
+        "what": "Large banks posted double-digit mortgage volume growth in the second quarter of 2026 as a group, far outpacing industry forecasts, according to Keefe, Bruyette & Woods analysts.",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/banks-take-mortgage-share-q2-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "How Zillow agent rankings shape AI recommendations",
+        "url": "https://www.housingwire.com/articles/ai-mirrors-zillow-agent-rankings/",
+        "what": "The column warns Zillow directory rankings reward platform engagement, and AI referrals can inherit the same pay influenced signals.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-mirrors-zillow-agent-rankings/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Finance of America’s Graham Fleming on HECM demand, second liens and Onity deal",
         "url": "https://www.housingwire.com/articles/finance-of-america-reverse-mortgage-strategy/",
         "what": "Finance of America continues to be one of the main faces of the reverse mortgage industry",
@@ -266,24 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/what-the-road-to-housing-act-can-and-cant-do-for-affordability/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "June housing starts jump 19%, fueled by strong multifamily gains",
-        "url": "https://www.housingwire.com/articles/june-housing-starts-jump-19-fueled-by-strong-multifamily-gains/",
-        "what": "June housing starts rose 19% to 1.3 million, led by multifamily, while permits fell 3% to 1.367 million, Census data shows",
-        "numbers": "19, 1.3 million, 3, 1.367 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/june-housing-starts-jump-19-fueled-by-strong-multifamily-gains/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "UHM acquires AmeriTrust assets, expands non-QM footprint",
-        "url": "https://www.housingwire.com/articles/uhm-acquires-ameritrust-assets/",
-        "what": "Union Home Mortgage Corp",
-        "numbers": "45",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uhm-acquires-ameritrust-assets/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Beachfront Florida and Coastal California Ruled June’s Ultra-Luxury Home Sales",
