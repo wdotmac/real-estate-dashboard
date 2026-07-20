@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-20 07:28 UTC",
+  "as_of": "2026-07-20 11:12 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Finance of America’s Graham Fleming on HECM demand, second liens and Onity deal",
+      "link": "https://www.housingwire.com/articles/finance-of-america-reverse-mortgage-strategy/",
+      "published": "Mon, 20 Jul 2026"
+    },
+    {
       "title": "Can the housing market weather Iran conflict 2.0 and higher rates?",
       "link": "https://www.housingwire.com/articles/iran-conflict-664-mortgage-rates/",
       "published": "Sat, 18 Jul 2026"
@@ -162,11 +167,6 @@
     {
       "title": "What the ROAD to Housing Act can — and can’t — do for affordability",
       "link": "https://www.housingwire.com/articles/what-the-road-to-housing-act-can-and-cant-do-for-affordability/",
-      "published": "Fri, 17 Jul 2026"
-    },
-    {
-      "title": "Newrez servicing arm sued in New Jersey over alleged RESPA violations",
-      "link": "https://www.housingwire.com/articles/shellpoint-respa-servicing-suit/",
       "published": "Fri, 17 Jul 2026"
     },
     {
@@ -232,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "Finance of America’s Graham Fleming on HECM demand, second liens and Onity deal",
+        "url": "https://www.housingwire.com/articles/finance-of-america-reverse-mortgage-strategy/",
+        "what": "Finance of America continues to be one of the main faces of the reverse mortgage industry",
+        "numbers": "2, 4.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/finance-of-america-reverse-mortgage-strategy/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "California condo defect liability bill on deck after recess",
         "url": "https://www.housingwire.com/articles/california-ab1903-condo-defects/",
         "what": "Coming out of summer recess, California lawmakers will tackle condominium construction defect legislation that has cleared committees and passed one chamber.",
@@ -275,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/uhm-acquires-ameritrust-assets/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Housing permits near cycle lows even as housing starts beat estimates",
-        "url": "https://www.housingwire.com/articles/june-starts-permits-cycle-lows/",
-        "what": "Starts beat estimates on multifamily volatility, but permits fell 3.0% monthly and 2.3% annually, signaling a weaker forward pipeline.",
-        "numbers": "3.0, 2.3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/june-starts-permits-cycle-lows/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Beachfront Florida and Coastal California Ruled June’s Ultra-Luxury Home Sales",
