@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-07-20 18:18 UTC",
+  "as_of": "2026-07-20 20:39 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.57,
-      "delta_bp_1d": 2.000000000000046
+      "yield_pct": 4.55,
+      "delta_bp_1d": -2.000000000000046
     },
     "mortgage_30y": {
       "rate_pct": 6.55,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "The housing market not normalizing, as affordability failure persists",
-      "link": "https://www.housingwire.com/articles/housing-affordability-failure-optics/",
+      "title": "AD Mortgage flags condo reserve rules in FHFA letter",
+      "link": "https://www.housingwire.com/articles/ad-mortgage-condo-policy-fhfa/",
       "published": "Mon, 20 Jul 2026"
     },
     {
-      "title": "Why your next open house should start with the neighbors",
-      "link": "https://www.housingwire.com/articles/open-house-sequence-neighbors/",
+      "title": "How high can mortgage rates go with Iran conflict 2.0?",
+      "link": "https://www.housingwire.com/articles/how-high-can-mortgage-rates-go-with-iran-conflict-2-0/",
       "published": "Mon, 20 Jul 2026"
     },
     {
-      "title": "FirstTeam Real Estate opens Monterey office on California Central Coast",
-      "link": "https://www.housingwire.com/articles/firstteam-monterey-community-office/",
+      "title": "NEXA Lending and former partner Mat Grella end legal fight",
+      "link": "https://www.housingwire.com/articles/nexa-lending-and-former-partner-mat-grella-end-legal-fight/",
       "published": "Mon, 20 Jul 2026"
     },
     {
-      "title": "Corcoran SRG Residential expands Long Island footprint",
-      "link": "https://www.housingwire.com/articles/corcoran-srg-residential-expands-long-island-footprint/",
+      "title": "Windermere names Diana Wall chief growth officer",
+      "link": "https://www.housingwire.com/articles/windermere-diana-wall-growth-officer/",
       "published": "Mon, 20 Jul 2026"
     },
     {
-      "title": "Americans trust financial advice but struggle to feel ready for retirement",
-      "link": "https://www.housingwire.com/articles/americans-trust-financial-advice-but-struggle-to-feel-ready-for-retirement/",
+      "title": "Behind closed doors: The next phase of Compass’s Code of Ethics complaints against Zillow",
+      "link": "https://www.housingwire.com/articles/nar-code-ethics-complaints-process/",
       "published": "Mon, 20 Jul 2026"
     },
     {
-      "title": "Mortgage volumes point to bank share gains in Q2",
-      "link": "https://www.housingwire.com/articles/banks-take-mortgage-share-q2-2026/",
+      "title": "Starter home inventory trails 2019 by 300,000 listings, per new data",
+      "link": "https://www.housingwire.com/articles/starter-home-inventory-down-300000-from-2019/",
       "published": "Mon, 20 Jul 2026"
     },
     {
@@ -203,20 +203,11 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Americans trust financial advice but struggle to feel ready for retirement",
-        "url": "https://www.housingwire.com/articles/americans-trust-financial-advice-but-struggle-to-feel-ready-for-retirement/",
-        "what": "New surveys suggest rising costs, economic uncertainty and concerns about AI are making it harder for workers to meet retirement goals.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/americans-trust-financial-advice-but-struggle-to-feel-ready-for-retirement/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Can the housing market weather Iran conflict 2.0 and higher rates?",
-        "url": "https://www.housingwire.com/articles/iran-conflict-664-mortgage-rates/",
-        "what": "Weekly housing indicators suggest a modest cooling as mortgage rates spent most of last week above 6.64% and the Iran conflict escalates.",
-        "numbers": "6.64",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/iran-conflict-664-mortgage-rates/",
+        "title": "How high can mortgage rates go with Iran conflict 2.0?",
+        "url": "https://www.housingwire.com/articles/how-high-can-mortgage-rates-go-with-iran-conflict-2-0/",
+        "what": "As the 10-year nears 4.60%, rates could test 6.75%, but improved spreads and pricing suggest an upside cap near 7.25%.",
+        "numbers": "10, 4.60, 6.75, 7.25",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/how-high-can-mortgage-rates-go-with-iran-conflict-2-0/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -232,6 +223,33 @@
     ],
     "housing": [
       {
+        "title": "AD Mortgage flags condo reserve rules in FHFA letter",
+        "url": "https://www.housingwire.com/articles/ad-mortgage-condo-policy-fhfa/",
+        "what": "AD Mortgage launched a policy initiative and urged FHFA to watch condo rule changes, noting 30% of projects reviewed fell below 15% reserves.",
+        "numbers": "30, 15",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ad-mortgage-condo-policy-fhfa/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Behind closed doors: The next phase of Compass’s Code of Ethics complaints against Zillow",
+        "url": "https://www.housingwire.com/articles/nar-code-ethics-complaints-process/",
+        "what": "Compass filed ethics complaints against Zillow across 26 states, raising focus on confidentiality, hearings, discipline, and appeals.",
+        "numbers": "26",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-code-ethics-complaints-process/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Starter home inventory trails 2019 by 300,000 listings, per new data",
+        "url": "https://www.housingwire.com/articles/starter-home-inventory-down-300000-from-2019/",
+        "what": "Realtor.com finds the U.S",
+        "numbers": "300,000, 2019, $78,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/starter-home-inventory-down-300000-from-2019/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "The housing market not normalizing, as affordability failure persists",
         "url": "https://www.housingwire.com/articles/housing-affordability-failure-optics/",
         "what": "We are not in a “normalizing” housing market",
@@ -239,42 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/housing-affordability-failure-optics/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Mortgage volumes point to bank share gains in Q2",
-        "url": "https://www.housingwire.com/articles/banks-take-mortgage-share-q2-2026/",
-        "what": "Large banks posted double-digit mortgage volume growth in the second quarter of 2026 as a group, far outpacing industry forecasts, according to Keefe, Bruyette & Woods analysts.",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/banks-take-mortgage-share-q2-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "How Zillow agent rankings shape AI recommendations",
-        "url": "https://www.housingwire.com/articles/ai-mirrors-zillow-agent-rankings/",
-        "what": "The column warns Zillow directory rankings reward platform engagement, and AI referrals can inherit the same pay influenced signals.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-mirrors-zillow-agent-rankings/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Finance of America’s Graham Fleming on HECM demand, second liens and Onity deal",
-        "url": "https://www.housingwire.com/articles/finance-of-america-reverse-mortgage-strategy/",
-        "what": "Finance of America continues to be one of the main faces of the reverse mortgage industry",
-        "numbers": "2, 4.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/finance-of-america-reverse-mortgage-strategy/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "California condo defect liability bill on deck after recess",
-        "url": "https://www.housingwire.com/articles/california-ab1903-condo-defects/",
-        "what": "Coming out of summer recess, California lawmakers will tackle condominium construction defect legislation that has cleared committees and passed one chamber.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/california-ab1903-condo-defects/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Beachfront Florida and Coastal California Ruled June’s Ultra-Luxury Home Sales",
@@ -323,6 +305,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "NEXA Lending and former partner Mat Grella end legal fight",
+        "url": "https://www.housingwire.com/articles/nexa-lending-and-former-partner-mat-grella-end-legal-fight/",
+        "what": "NEXA Lending CEO Mike Kortas says the settlement ends all Grella lawsuits and gives him 100% ownership of NEXA after years of litigation.",
+        "numbers": "100",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nexa-lending-and-former-partner-mat-grella-end-legal-fight/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Windermere names Diana Wall chief growth officer",
+        "url": "https://www.housingwire.com/articles/windermere-diana-wall-growth-officer/",
+        "what": "Windermere created a chief growth officer role, hiring Diana Wall to lead franchise growth, M&A, and market entry across its platform.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/windermere-diana-wall-growth-officer/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Why your next open house should start with the neighbors",
         "url": "https://www.housingwire.com/articles/open-house-sequence-neighbors/",
