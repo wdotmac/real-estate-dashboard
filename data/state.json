@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-21 20:35 UTC",
+  "as_of": "2026-07-21 22:12 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Will Trump’s new Canadian tariffs add cost risk for builders?",
+      "link": "https://www.housingwire.com/articles/canada-tariffs-trump-homebuilders/",
+      "published": "Tue, 21 Jul 2026"
+    },
+    {
+      "title": "D.R. Horton bets operating rigor will outperform uncertain demand",
+      "link": "https://www.housingwire.com/articles/dr-horton-gross-margin-discipline/",
+      "published": "Tue, 21 Jul 2026"
+    },
+    {
+      "title": "The JMG acquisition gives teams leverage, but not equal valuations",
+      "link": "https://www.housingwire.com/articles/jmg-team-model-ma/",
+      "published": "Tue, 21 Jul 2026"
+    },
+    {
+      "title": "Investors list more homes after ROAD to Housing Act, but impact may stay local",
+      "link": "https://www.housingwire.com/articles/investors-list-more-homes-after-road-to-housing-act-but-impact-may-stay-local/",
+      "published": "Tue, 21 Jul 2026"
+    },
+    {
+      "title": "FHA proposes partial claim model that drops subordinate liens",
+      "link": "https://www.housingwire.com/articles/fha-rap-end-subordinate-liens/",
+      "published": "Tue, 21 Jul 2026"
+    },
+    {
       "title": "Equifax locks in $1 VantageScore through 2027",
       "link": "https://www.housingwire.com/articles/equifax-1-vantagescore-2027/",
-      "published": "Tue, 21 Jul 2026"
-    },
-    {
-      "title": "Senior housing wealth reaches record level in first quarter",
-      "link": "https://www.housingwire.com/articles/senior-housing-wealth-reaches-record-level-in-first-quarter/",
-      "published": "Tue, 21 Jul 2026"
-    },
-    {
-      "title": "Jay Papasan to step down as Keller Williams executive",
-      "link": "https://www.housingwire.com/articles/jay-papasan-steps-down-kw/",
-      "published": "Tue, 21 Jul 2026"
-    },
-    {
-      "title": "300,000-plus listed lots highlight infill boon for builders, per Zillow",
-      "link": "https://www.housingwire.com/articles/empty-lots-zillow-housing-shortage/",
-      "published": "Tue, 21 Jul 2026"
-    },
-    {
-      "title": "Manhattan project contractor error eyed in conversion collapse",
-      "link": "https://www.housingwire.com/articles/nyc-office-conversion-collapse/",
-      "published": "Tue, 21 Jul 2026"
-    },
-    {
-      "title": "HUD suspends Virgin Islands housing authority funding over fraud concerns",
-      "link": "https://www.housingwire.com/articles/hud-suspends-vihfa-funding/",
       "published": "Tue, 21 Jul 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "FHA proposes partial claim model that drops subordinate liens",
+        "url": "https://www.housingwire.com/articles/fha-rap-end-subordinate-liens/",
+        "what": "The Federal Housing Administration (FHA) is proposing a new structure, called Reinstatement Advance Payment (RAP), that would change how servicers document and service partial clai",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-rap-end-subordinate-liens/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Equifax locks in $1 VantageScore through 2027",
         "url": "https://www.housingwire.com/articles/equifax-1-vantagescore-2027/",
         "what": "Equifax will keep its $1 VantageScore 4.0 price in place through the end of 2027 as it pushes mortgage lenders to adopt the alternative credit score model, CEO Mark Begor told inve",
@@ -222,6 +231,33 @@
       }
     ],
     "housing": [
+      {
+        "title": "Will Trump’s new Canadian tariffs add cost risk for builders?",
+        "url": "https://www.housingwire.com/articles/canada-tariffs-trump-homebuilders/",
+        "what": "On Monday, President Donald Trump threatened to impose 50% tariffs on most Canadian goods, raising questions about the potential impacts on homebuilders and residential constructio",
+        "numbers": "50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/canada-tariffs-trump-homebuilders/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "D.R. Horton bets operating rigor will outperform uncertain demand",
+        "url": "https://www.housingwire.com/articles/dr-horton-gross-margin-discipline/",
+        "what": "Few homebuilding enterprises look so voraciously at other homebuilding operators’ share of new-home sales in any given arena as present and future opportunity as does D.R",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/dr-horton-gross-margin-discipline/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Investors list more homes after ROAD to Housing Act, but impact may stay local",
+        "url": "https://www.housingwire.com/articles/investors-list-more-homes-after-road-to-housing-act-but-impact-may-stay-local/",
+        "what": "New data shows listings of single-family rental homes owned by institutional investors have more than doubled since early February.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/investors-list-more-homes-after-road-to-housing-act-but-impact-may-stay-local/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Senior housing wealth reaches record level in first quarter",
         "url": "https://www.housingwire.com/articles/senior-housing-wealth-reaches-record-level-in-first-quarter/",
@@ -248,33 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-office-conversion-collapse/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "HUD suspends Virgin Islands housing authority funding over fraud concerns",
-        "url": "https://www.housingwire.com/articles/hud-suspends-vihfa-funding/",
-        "what": "HUD suspended VIHFA funding after a probe of $1.9 billion in CDBG DR aid cited mismanagement, false certifications and improper payments.",
-        "numbers": "$1.9 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-suspends-vihfa-funding/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Chris Rediger: How a Google real estate pilot went from a softball field chat to nationwide",
-        "url": "https://www.housingwire.com/articles/google-housecanary-listings-pilot/",
-        "what": "Google expanded its real estate listings pilot nationwide with HouseCanary, while MLS feed agreements will shape how fast coverage grows.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/google-housecanary-listings-pilot/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Gershman Mortgage, Truss Financial Group launch separate HELOC offerings",
-        "url": "https://www.housingwire.com/articles/gershman-truss-heloc-offerings/",
-        "what": "Gershman launched a 5-day HELOC up to $750,000, while Truss introduced a DSCR HELOC up to $1 million for investors.",
-        "numbers": "5, $750,000,, $1 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/gershman-truss-heloc-offerings/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "House Hunters Value Clean Air in Their Homes More Than Views and Other Luxuries",
@@ -315,29 +324,20 @@
     ],
     "notables": [
       {
+        "title": "The JMG acquisition gives teams leverage, but not equal valuations",
+        "url": "https://www.housingwire.com/articles/jmg-team-model-ma/",
+        "what": "Advisors say the JMG deal validates team model M&A, but valuations still depend on EBITDA, margins, and scalable lead sources.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/jmg-team-model-ma/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Jay Papasan to step down as Keller Williams executive",
         "url": "https://www.housingwire.com/articles/jay-papasan-steps-down-kw/",
         "what": "Jay Papasan will step down as a Keller Williams executive on Aug",
         "numbers": "1, 2000,",
         "justified": "housingwire.com — https://www.housingwire.com/articles/jay-papasan-steps-down-kw/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "HomeAdvantage partners with Valley First on real estate rewards",
-        "url": "https://www.housingwire.com/articles/homeadvantage-valley-first-rewards/",
-        "what": "HomeAdvantage and Valley First Credit Union launched a real estate rewards program that pays eligible members 20% of agent commission.",
-        "numbers": "20",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homeadvantage-valley-first-rewards/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Did AI accidentally make me more authentic?",
-        "url": "https://www.housingwire.com/articles/ai-authenticity-real-estate/",
-        "what": "A real estate agent explains how AI sped up content and site building but exposed how generic automated writing can sound",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-authenticity-real-estate/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
