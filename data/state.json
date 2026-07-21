@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-21 06:40 UTC",
+  "as_of": "2026-07-21 09:39 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Is the Zestimate era coming to an end?",
+      "link": "https://www.housingwire.com/articles/ai-home-value-estimates/",
+      "published": "Tue, 21 Jul 2026"
+    },
+    {
+      "title": "We are not ready for the next housing downturn",
+      "link": "https://www.housingwire.com/articles/housing-downturn-servicer-liquidity/",
+      "published": "Tue, 21 Jul 2026"
+    },
+    {
+      "title": "From automation to intelligence: Why enterprise AI mortgage operations are reshaping the industry",
+      "link": "https://www.housingwire.com/articles/enterprise-ai-mortgage-operations/",
+      "published": "Tue, 21 Jul 2026"
+    },
+    {
       "title": "The Holiday acquisition is about Daiwa House’s next decade",
       "link": "https://www.housingwire.com/articles/holiday-builders-daiwa-house-phase-2/",
       "published": "Mon, 20 Jul 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Compass moves from AI content creation to AI task execution in Home Platform",
       "link": "https://www.housingwire.com/articles/compass-ai-assistant-home-platform/",
-      "published": "Mon, 20 Jul 2026"
-    },
-    {
-      "title": "AD Mortgage flags condo reserve rules in FHFA letter",
-      "link": "https://www.housingwire.com/articles/ad-mortgage-condo-policy-fhfa/",
-      "published": "Mon, 20 Jul 2026"
-    },
-    {
-      "title": "How high can mortgage rates go with Iran conflict 2.0?",
-      "link": "https://www.housingwire.com/articles/how-high-can-mortgage-rates-go-with-iran-conflict-2-0/",
-      "published": "Mon, 20 Jul 2026"
-    },
-    {
-      "title": "NEXA Lending and former partner Mat Grella end legal fight",
-      "link": "https://www.housingwire.com/articles/nexa-lending-and-former-partner-mat-grella-end-legal-fight/",
       "published": "Mon, 20 Jul 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "We are not ready for the next housing downturn",
+        "url": "https://www.housingwire.com/articles/housing-downturn-servicer-liquidity/",
+        "what": "Pandemic-era forbearance and modifications relied on servicer liquidity supported by a refi boom and lower rates",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-downturn-servicer-liquidity/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "M/I, Meritage team up to fund $7.6M bridge to growth in a Texas town",
         "url": "https://www.housingwire.com/articles/m-i-homes-meritage-homes-public-private-partnership-buda/",
         "what": "M/I Homes and Meritage Homes split the cost of a $7.6 million bridge connecting an upcoming 496-home community with the City of Buda's downtown commercial core",
@@ -232,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "From automation to intelligence: Why enterprise AI mortgage operations are reshaping the industry",
+        "url": "https://www.housingwire.com/articles/enterprise-ai-mortgage-operations/",
+        "what": "JazzX AI CEO Siddhartha Agarwal argues lenders should deploy an enterprise AI intelligence layer on top of the LOS",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/enterprise-ai-mortgage-operations/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "The Holiday acquisition is about Daiwa House’s next decade",
         "url": "https://www.housingwire.com/articles/holiday-builders-daiwa-house-phase-2/",
         "what": "The long game Was never about one Acquisition Viewed through a sharply narrowed lens of a single transaction, Holiday Builders adds another respected, cycle-tested, deeply regionally invested homebuilder to Stanley Martin Homes‘ growing portfolio",
@@ -248,33 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/ad-mortgage-condo-policy-fhfa/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Behind closed doors: The next phase of Compass’s Code of Ethics complaints against Zillow",
-        "url": "https://www.housingwire.com/articles/nar-code-ethics-complaints-process/",
-        "what": "Compass filed ethics complaints against Zillow across 26 states, raising focus on confidentiality, hearings, discipline, and appeals.",
-        "numbers": "26",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-code-ethics-complaints-process/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Starter home inventory trails 2019 by 300,000 listings, per new data",
-        "url": "https://www.housingwire.com/articles/starter-home-inventory-down-300000-from-2019/",
-        "what": "Realtor.com finds the U.S",
-        "numbers": "300,000, 2019, $78,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/starter-home-inventory-down-300000-from-2019/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "The housing market not normalizing, as affordability failure persists",
-        "url": "https://www.housingwire.com/articles/housing-affordability-failure-optics/",
-        "what": "We are not in a “normalizing” housing market",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-affordability-failure-optics/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "Beachfront Florida and Coastal California Ruled June’s Ultra-Luxury Home Sales",
@@ -323,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Is the Zestimate era coming to an end?",
+        "url": "https://www.housingwire.com/articles/ai-home-value-estimates/",
+        "what": "Consumers are shifting from AVMs like Zestimate to AI tools for home value estimates and decision support",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-home-value-estimates/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Compass moves from AI content creation to AI task execution in Home Platform",
         "url": "https://www.housingwire.com/articles/compass-ai-assistant-home-platform/",
