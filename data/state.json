@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-07-22 18:33 UTC",
+  "as_of": "2026-07-22 20:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.6,
-      "delta_bp_1d": 4.999999999999982
+      "yield_pct": 4.63,
+      "delta_bp_1d": 3.000000000000025
     },
     "mortgage_30y": {
       "rate_pct": 6.55,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "NAR Q2 strategic plan update targets MLS rules, lawsuits, training",
+      "link": "https://www.housingwire.com/articles/nar-q2-mls-lawsuits-training/",
+      "published": "Wed, 22 Jul 2026"
+    },
+    {
+      "title": "Michigan’s Whitmer steps up, signs single-stair reform into law",
+      "link": "https://www.housingwire.com/articles/whitmer-signs-single-stair-legislation/",
+      "published": "Wed, 22 Jul 2026"
+    },
+    {
+      "title": "Housing Market Spotlight: Lower-priced metros show greater resilience as demand softens",
+      "link": "https://www.housingwire.com/articles/housing-market-affordable-markets-resilience/",
+      "published": "Wed, 22 Jul 2026"
+    },
+    {
+      "title": "Nick Janovsky joins SERHANT. as Tampa luxury sales director",
+      "link": "https://www.housingwire.com/articles/nick-janovsky-serhant-tampa/",
+      "published": "Wed, 22 Jul 2026"
+    },
+    {
       "title": "HighTechLending expands EquitySelect eligibility and LTVs",
       "link": "https://www.housingwire.com/articles/hightechlending-equityselect-eligibility-ltv/",
       "published": "Wed, 22 Jul 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Movement launches bilingual lending team, in-house ITIN product",
       "link": "https://www.housingwire.com/articles/movement-spanish-support-itin/",
-      "published": "Wed, 22 Jul 2026"
-    },
-    {
-      "title": "Stellar MLS adds Realtors Association of Citrus County as corporate shareholder",
-      "link": "https://www.housingwire.com/articles/stellar-mls-adds-realtors-association-of-citrus-county-as-corporate-shareholder/",
-      "published": "Wed, 22 Jul 2026"
-    },
-    {
-      "title": "In DFW, housing affordability slips even as builders report strength",
-      "link": "https://www.housingwire.com/articles/dfw-housing-affordability-wall-street/",
-      "published": "Wed, 22 Jul 2026"
-    },
-    {
-      "title": "Mike Ryan joins PLACE to lead business development",
-      "link": "https://www.housingwire.com/articles/mike-ryan-joins-place/",
-      "published": "Wed, 22 Jul 2026"
-    },
-    {
-      "title": "Mortgage applications rise 1.9% despite elevated rates",
-      "link": "https://www.housingwire.com/articles/mortgage-applications-rise-2/",
       "published": "Wed, 22 Jul 2026"
     },
     {
@@ -203,29 +203,29 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Michigan’s Whitmer steps up, signs single-stair reform into law",
+        "url": "https://www.housingwire.com/articles/whitmer-signs-single-stair-legislation/",
+        "what": "Gov",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/whitmer-signs-single-stair-legislation/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Housing Market Spotlight: Lower-priced metros show greater resilience as demand softens",
+        "url": "https://www.housingwire.com/articles/housing-market-affordable-markets-resilience/",
+        "what": "HousingWire Data reveals how elevated mortgage rates are reshaping local housing markets, with more affordable metros proving more resilient.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-affordable-markets-resilience/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage applications rise 1.9% despite elevated rates",
         "url": "https://www.housingwire.com/articles/mortgage-applications-rise-2/",
         "what": "MBA data show mortgage applications rose 1.9% as the 30-year conforming rate increased to 6.69% and purchases rose 6% week over week.",
         "numbers": "1.9, 30, 6.69, 6",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-rise-2/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "New Jersey bans algorithmic rent pricing under FAIR Act",
-        "url": "https://www.housingwire.com/articles/new-jersey-algorithmic-rent-ban/",
-        "what": "New Jersey Gov",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-jersey-algorithmic-rent-ban/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The architecture of trust in the age of AI",
-        "url": "https://www.housingwire.com/articles/ai-trust-mortgage-decisioning/",
-        "what": "Mortgage accountability depends on reconstructable processes, but many AI tools do not preserve decision records in an auditable way",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-trust-mortgage-decisioning/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -277,15 +277,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Will Trump’s new Canadian tariffs add cost risk for builders?",
-        "url": "https://www.housingwire.com/articles/canada-tariffs-trump-homebuilders/",
-        "what": "On Monday, President Donald Trump threatened to impose 50% tariffs on most Canadian goods, raising questions about the potential impacts on homebuilders and residential constructio",
-        "numbers": "50",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/canada-tariffs-trump-homebuilders/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "House Hunters Value Clean Air in Their Homes More Than Views and Other Luxuries",
         "url": "https://www.redfin.com/news/house-hunters-value-clean-homes-survey/",
         "what": "36% of U.S",
@@ -324,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "NAR Q2 strategic plan update targets MLS rules, lawsuits, training",
+        "url": "https://www.housingwire.com/articles/nar-q2-mls-lawsuits-training/",
+        "what": "NAR’s Q2 report details strategic plan progress, including DOJ letters, Tuccori settlement steps, and new broker and data tools.",
+        "numbers": "2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-q2-mls-lawsuits-training/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Nick Janovsky joins SERHANT. as Tampa luxury sales director",
+        "url": "https://www.housingwire.com/articles/nick-janovsky-serhant-tampa/",
+        "what": "SERHANT",
+        "numbers": "$250 million, 340",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nick-janovsky-serhant-tampa/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Stellar MLS adds Realtors Association of Citrus County as corporate shareholder",
         "url": "https://www.housingwire.com/articles/stellar-mls-adds-realtors-association-of-citrus-county-as-corporate-shareholder/",
         "what": "Under the agreement, the Realtors Association of Citrus County will retain its independence as an association.",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mike-ryan-joins-place/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "For better building codes, a more deliberate course is overdue",
-        "url": "https://www.housingwire.com/articles/model-building-codes/",
-        "what": "The article argues the three-year model code cycle encourages incremental changes without enough time to measure real-world performance",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/model-building-codes/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
