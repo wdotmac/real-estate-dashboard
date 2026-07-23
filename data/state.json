@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-23 09:35 UTC",
+  "as_of": "2026-07-23 12:01 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Wed, 22 Jul 2026"
     },
     {
+      "title": "Pending Home Sales Fall to 3-Month Low",
+      "link": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-rates-increase/",
+      "published": "Thu, 23 Jul 2026"
+    },
+    {
       "title": "Most Americans Say “Not in My Backyard” to AI Data Centers",
       "link": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
       "published": "Wed, 22 Jul 2026"
@@ -193,11 +198,6 @@
       "title": "Pending Home Sales Slip Amid Stubbornly High Housing Costs, Economic Uncertainty",
       "link": "https://www.redfin.com/news/housing-market-update-pending-sales-slip-high-costs/",
       "published": "Thu, 16 Jul 2026"
-    },
-    {
-      "title": "The Home Search Landscape is Changing. If You’re Not on Redfin, You May Be Missing Homes for Sale.",
-      "link": "https://www.redfin.com/news/home-search-in-2026/",
-      "published": "Wed, 15 Jul 2026"
     }
   ],
   "feed_101020": {
@@ -228,18 +228,18 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-affordable-markets-resilience/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Pending Home Sales Slip Amid Stubbornly High Housing Costs, Economic Uncertainty",
-        "url": "https://www.redfin.com/news/housing-market-update-pending-sales-slip-high-costs/",
-        "what": "Would-be sellers backed off, too, with new listings falling to their lowest level since the start of 2026",
-        "numbers": "2026., 2.2, 12,",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-slip-high-costs/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Pending Home Sales Fall to 3-Month Low",
+        "url": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-rates-increase/",
+        "what": "New listings inched up week over week, but they’re near their lowest level since the start of 2026",
+        "numbers": "2026., 1.3, 3",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-fall-rates-increase/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "The silence after the breach is the part you control",
         "url": "https://www.housingwire.com/articles/mortgage-breach-notification-delays/",
