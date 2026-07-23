@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-23 14:30 UTC",
+  "as_of": "2026-07-23 16:45 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": 3.000000000000025
     },
     "mortgage_30y": {
-      "rate_pct": 6.55,
-      "delta_bp_wow": 5.999999999999961
+      "rate_pct": 6.58,
+      "delta_bp_wow": 3.000000000000025
     },
     "starts": {
       "level_saar": 1427.0,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "ERA Key Realty Services launches redesigned website AI upgrades",
+      "link": "https://www.housingwire.com/articles/era-key-realty-services-launches-redesigned-website-ai-upgrades/",
+      "published": "Thu, 23 Jul 2026"
+    },
+    {
+      "title": "Reverse mortgage market faces challenging second half of 2026",
+      "link": "https://www.housingwire.com/articles/reverse-mortgage-second-half-2026/",
+      "published": "Thu, 23 Jul 2026"
+    },
+    {
+      "title": "Fathom links financial control failures to former CEOs and undisclosed side deal",
+      "link": "https://www.housingwire.com/articles/fathom-material-misstatements-10q/",
+      "published": "Thu, 23 Jul 2026"
+    },
+    {
+      "title": "U.S. apartment demand hits a high mark as pipeline slows",
+      "link": "https://www.housingwire.com/articles/apartment-demand-resilience/",
+      "published": "Thu, 23 Jul 2026"
+    },
+    {
       "title": "Why homebuilders struggle to scale new initiatives",
       "link": "https://www.housingwire.com/articles/homebuilder-inertia-innovation-stalls/",
       "published": "Thu, 23 Jul 2026"
@@ -147,26 +167,6 @@
     {
       "title": "‘Tale of two’ Miami housing markets reflects changing priorities, international demand",
       "link": "https://www.housingwire.com/articles/tale-of-two-miami-housing-markets-reflects-changing-priorities-international-demand/",
-      "published": "Thu, 23 Jul 2026"
-    },
-    {
-      "title": "ERA president Alex Vidal tunes out real estate’s noise — and listens to consumers",
-      "link": "https://www.housingwire.com/articles/alex-vidal-consumer-focus/",
-      "published": "Thu, 23 Jul 2026"
-    },
-    {
-      "title": "Flair says AI improved lead conversion in West Capital Lending deployment",
-      "link": "https://www.housingwire.com/articles/west-capital-flair-ai-voice/",
-      "published": "Thu, 23 Jul 2026"
-    },
-    {
-      "title": "The silence after the breach is the part you control",
-      "link": "https://www.housingwire.com/articles/mortgage-breach-notification-delays/",
-      "published": "Thu, 23 Jul 2026"
-    },
-    {
-      "title": "Non-agency is not subprime. The mortgage industry needs to start acting like it.",
-      "link": "https://www.housingwire.com/articles/non-qm-subprime-stigma/",
       "published": "Thu, 23 Jul 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Reverse mortgage market faces challenging second half of 2026",
+        "url": "https://www.housingwire.com/articles/reverse-mortgage-second-half-2026/",
+        "what": "Elevated rates and financial strain are expected to keep reverse mortgage borrowing power constrained through the end of the year.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-second-half-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "ERA president Alex Vidal tunes out real estate’s noise — and listens to consumers",
         "url": "https://www.housingwire.com/articles/alex-vidal-consumer-focus/",
         "what": "ERA’s Alex Vidal says consumer perception of buyer agreements and private listings is shaping agent questions more than industry headlines.",
@@ -210,22 +219,22 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/alex-vidal-consumer-focus/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Execution is the edge mortgage banks can control",
-        "url": "https://www.housingwire.com/articles/mortgage-banks-execution-advantage/",
-        "what": "Atlantic Bay Mortgage Group adopted EOS to strengthen alignment, accountability and issue resolution across mortgage banking functions",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-banks-execution-advantage/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
       {
+        "title": "U.S. apartment demand hits a high mark as pipeline slows",
+        "url": "https://www.housingwire.com/articles/apartment-demand-resilience/",
+        "what": "The U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/apartment-demand-resilience/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
         "title": "Why homebuilders struggle to scale new initiatives",
         "url": "https://www.housingwire.com/articles/homebuilder-inertia-innovation-stalls/",
-        "what": "Despite the reputation production homebuilders get for resisting change – and failing at innovation – the best path to a homebuilding team member’s career advancement is by evangelizing a passion project",
+        "what": "Despite the reputation production homebuilders get for resisting change and failing at innovation, the best path to a homebuilding team member’s career advancement is by evangelizing a passion project",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-inertia-innovation-stalls/",
         "why": "Supply pipeline sets future inventory and construction activity.",
@@ -302,51 +311,33 @@
         "justified": "redfin.com — https://www.redfin.com/news/home-price-index-june-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Beachfront Florida and Coastal California Ruled June’s Ultra-Luxury Home Sales",
-        "url": "https://www.redfin.com/news/most-expensive-home-sales-june-2026/",
-        "what": "The most expensive home sale of June was a $71 million waterfront estate near Palm Beach, followed by a Beverly Hills compound",
-        "numbers": "$71 million, $47 million",
-        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-june-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
+      {
+        "title": "ERA Key Realty Services launches redesigned website AI upgrades",
+        "url": "https://www.housingwire.com/articles/era-key-realty-services-launches-redesigned-website-ai-upgrades/",
+        "what": "The brokerage said the updated platform is designed to improve the online experience for homebuyers, sellers and agents.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/era-key-realty-services-launches-redesigned-website-ai-upgrades/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Fathom links financial control failures to former CEOs and undisclosed side deal",
+        "url": "https://www.housingwire.com/articles/fathom-material-misstatements-10q/",
+        "what": "Fathom’s Q1 2026 10-Q cites material weaknesses and potential misstatements, tied to former CEOs and a 2021 side agreement.",
+        "numbers": "1, 2026, 10, 2021",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fathom-material-misstatements-10q/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Flair says AI improved lead conversion in West Capital Lending deployment",
         "url": "https://www.housingwire.com/articles/west-capital-flair-ai-voice/",
         "what": "Flair says West Capital used its AI voice agents in May, placing 318,000 calls, reaching 11,400 borrowers and creating 1,788 warm handoffs.",
         "numbers": "318,000, 11,400, 1,788",
         "justified": "housingwire.com — https://www.housingwire.com/articles/west-capital-flair-ai-voice/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "House subcommittee probes Compass MRED private listing network deal",
-        "url": "https://www.housingwire.com/articles/compass-mred-private-listings/",
-        "what": "House subcommittee asks Compass and MRED for briefings by Aug",
-        "numbers": "5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-mred-private-listings/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Pulte banks on build-to-order pivot as margins find a floor",
-        "url": "https://www.housingwire.com/articles/pulte-banks-on-build-to-order-pivot-as-margins-find-a-floor/",
-        "what": "Pulte's earnings show BTO share climbing to 45% in Q2 as cycle times hit 100 days, and gross margins improving to 25%.",
-        "numbers": "45, 2, 100, 25",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pulte-banks-on-build-to-order-pivot-as-margins-find-a-floor/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "House passes bill to ease banking regulations",
-        "url": "https://www.housingwire.com/articles/house-passes-bill-banking/",
-        "what": "The House passed H.R",
-        "numbers": "6955, 270, 154,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/house-passes-bill-banking/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
