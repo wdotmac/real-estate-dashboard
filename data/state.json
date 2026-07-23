@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-07-23 18:36 UTC",
+  "as_of": "2026-07-23 20:19 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.63,
-      "delta_bp_1d": 3.000000000000025
+      "yield_pct": 4.67,
+      "delta_bp_1d": 4.0000000000000036
     },
     "mortgage_30y": {
       "rate_pct": 6.58,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Howard Hanna expands into northern New England with Portside",
+      "link": "https://www.housingwire.com/articles/howard-hanna-portside-new-england/",
+      "published": "Thu, 23 Jul 2026"
+    },
+    {
+      "title": "AARP opposes expedited Social Security process proposed in PROMISE Act",
+      "link": "https://www.housingwire.com/articles/aarp-opposes-expedited-social-security-process-proposed-in-promise-act/",
+      "published": "Thu, 23 Jul 2026"
+    },
+    {
+      "title": "As CCM is poised to win the TWO bidding war, an integration test awaits",
+      "link": "https://www.housingwire.com/articles/ccm-two-integration-msrs/",
+      "published": "Thu, 23 Jul 2026"
+    },
+    {
+      "title": "Rodland Private Members looks to close AI gap for independent brokerages",
+      "link": "https://www.housingwire.com/articles/rodland-private-members-looks-to-close-ai-gap-for-independent-brokerages/",
+      "published": "Thu, 23 Jul 2026"
+    },
+    {
       "title": "Keller Williams names five leaders to growth roles",
       "link": "https://www.housingwire.com/articles/keller-williams-leadership-growth-roles/",
       "published": "Thu, 23 Jul 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Landlords sue over rent freeze on New York City stabilized units",
       "link": "https://www.housingwire.com/articles/landlords-sue-over-rent-freeze-on-new-york-city-stabilized-units/",
-      "published": "Thu, 23 Jul 2026"
-    },
-    {
-      "title": "Senators question CFPB nominee Brian Johnson on Bureau’s future",
-      "link": "https://www.housingwire.com/articles/brian-johnson-cfpb-hearing/",
-      "published": "Thu, 23 Jul 2026"
-    },
-    {
-      "title": "Mortgage rates hit yearly high as Iran conflict escalates",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-hit-yearly-highs-as-iran-conflict-escalates/",
-      "published": "Thu, 23 Jul 2026"
-    },
-    {
-      "title": "Voters in all parties support federal housing help beyond the ROAD",
-      "link": "https://www.housingwire.com/articles/voters-battleground-districts-support-stronger-federal-housing-actions/",
-      "published": "Thu, 23 Jul 2026"
-    },
-    {
-      "title": "Real estate whack-a-mole and the never-ending consumer protection battle",
-      "link": "https://www.housingwire.com/articles/real-estate-consumer-protection/",
       "published": "Thu, 23 Jul 2026"
     },
     {
@@ -219,18 +219,18 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/voters-battleground-districts-support-stronger-federal-housing-actions/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Reverse mortgage market faces challenging second half of 2026",
-        "url": "https://www.housingwire.com/articles/reverse-mortgage-second-half-2026/",
-        "what": "Elevated rates and financial strain are expected to keep reverse mortgage borrowing power constrained through the end of the year.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-second-half-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "As CCM is poised to win the TWO bidding war, an integration test awaits",
+        "url": "https://www.housingwire.com/articles/ccm-two-integration-msrs/",
+        "what": "With CrossCountry Mortgage’s deal to acquire Two Harbors Investment Corp",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ccm-two-integration-msrs/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Landlords sue over rent freeze on New York City stabilized units",
         "url": "https://www.housingwire.com/articles/landlords-sue-over-rent-freeze-on-new-york-city-stabilized-units/",
@@ -297,6 +297,33 @@
     ],
     "notables": [
       {
+        "title": "Howard Hanna expands into northern New England with Portside",
+        "url": "https://www.housingwire.com/articles/howard-hanna-portside-new-england/",
+        "what": "Howard Hanna partners with Portside, gaining Maine, New Hampshire, and Massachusetts reach, and expanding to 18 states and 500+ offices.",
+        "numbers": "18, 500",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/howard-hanna-portside-new-england/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "AARP opposes expedited Social Security process proposed in PROMISE Act",
+        "url": "https://www.housingwire.com/articles/aarp-opposes-expedited-social-security-process-proposed-in-promise-act/",
+        "what": "While AARP agrees Congress must address Social Security, the organization wants lawmakers to do so through traditional legislative processes.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/aarp-opposes-expedited-social-security-process-proposed-in-promise-act/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Rodland Private Members looks to close AI gap for independent brokerages",
+        "url": "https://www.housingwire.com/articles/rodland-private-members-looks-to-close-ai-gap-for-independent-brokerages/",
+        "what": "The new membership platform will give independent firms access to enterprise-grade artificial intelligence-powered operations.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rodland-private-members-looks-to-close-ai-gap-for-independent-brokerages/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Keller Williams names five leaders to growth roles",
         "url": "https://www.housingwire.com/articles/keller-williams-leadership-growth-roles/",
         "what": "Keller Williams named five senior leaders to growth roles spanning U.S",
@@ -320,33 +347,6 @@
         "what": "Wendy Gilch outlines recurring consumer risk issues across lending, appraisals and agent fees",
         "numbers": "3.6, 2,, 2026,",
         "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-consumer-protection/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Sitzer/Burnett plaintiffs seek MLS data access in NAR settlement",
-        "url": "https://www.housingwire.com/articles/sitzer-burnett-mls-data-motion/",
-        "what": "Plaintiffs in Sitzer Burnett and Gibson ask Judge Bough to compel MLS data sharing via NAR settlement, after FBS refusal.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sitzer-burnett-mls-data-motion/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "ERA Key Realty Services launches redesigned website AI upgrades",
-        "url": "https://www.housingwire.com/articles/era-key-realty-services-launches-redesigned-website-ai-upgrades/",
-        "what": "The brokerage said the updated platform is designed to improve the online experience for homebuyers, sellers and agents.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/era-key-realty-services-launches-redesigned-website-ai-upgrades/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Fathom links financial control failures to former CEOs and undisclosed side deal",
-        "url": "https://www.housingwire.com/articles/fathom-material-misstatements-10q/",
-        "what": "Fathom’s Q1 2026 10-Q cites material weaknesses and potential misstatements, tied to former CEOs and a 2021 side agreement.",
-        "numbers": "1, 2026, 10, 2021",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fathom-material-misstatements-10q/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
