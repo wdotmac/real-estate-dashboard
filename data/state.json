@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-23 12:01 UTC",
+  "as_of": "2026-07-23 14:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Why homebuilders struggle to scale new initiatives",
+      "link": "https://www.housingwire.com/articles/homebuilder-inertia-innovation-stalls/",
+      "published": "Thu, 23 Jul 2026"
+    },
+    {
+      "title": "‘Tale of two’ Miami housing markets reflects changing priorities, international demand",
+      "link": "https://www.housingwire.com/articles/tale-of-two-miami-housing-markets-reflects-changing-priorities-international-demand/",
+      "published": "Thu, 23 Jul 2026"
+    },
+    {
+      "title": "ERA president Alex Vidal tunes out real estate’s noise — and listens to consumers",
+      "link": "https://www.housingwire.com/articles/alex-vidal-consumer-focus/",
+      "published": "Thu, 23 Jul 2026"
+    },
+    {
+      "title": "Flair says AI improved lead conversion in West Capital Lending deployment",
+      "link": "https://www.housingwire.com/articles/west-capital-flair-ai-voice/",
+      "published": "Thu, 23 Jul 2026"
+    },
+    {
       "title": "The silence after the breach is the part you control",
       "link": "https://www.housingwire.com/articles/mortgage-breach-notification-delays/",
       "published": "Thu, 23 Jul 2026"
@@ -150,24 +170,9 @@
       "published": "Thu, 23 Jul 2026"
     },
     {
-      "title": "Execution is the edge mortgage banks can control",
-      "link": "https://www.housingwire.com/articles/mortgage-banks-execution-advantage/",
+      "title": "From Bust to Boom: San Francisco Home Prices Are Now $1 Million Higher Than Housing-Crash Bottom",
+      "link": "https://www.redfin.com/news/san-francisco-1-million-increase-prices/",
       "published": "Thu, 23 Jul 2026"
-    },
-    {
-      "title": "House subcommittee probes Compass MRED private listing network deal",
-      "link": "https://www.housingwire.com/articles/compass-mred-private-listings/",
-      "published": "Wed, 22 Jul 2026"
-    },
-    {
-      "title": "Pulte banks on build-to-order pivot as margins find a floor",
-      "link": "https://www.housingwire.com/articles/pulte-banks-on-build-to-order-pivot-as-margins-find-a-floor/",
-      "published": "Wed, 22 Jul 2026"
-    },
-    {
-      "title": "House passes bill to ease banking regulations",
-      "link": "https://www.housingwire.com/articles/house-passes-bill-banking/",
-      "published": "Wed, 22 Jul 2026"
     },
     {
       "title": "Pending Home Sales Fall to 3-Month Low",
@@ -193,15 +198,19 @@
       "title": "Beachfront Florida and Coastal California Ruled June’s Ultra-Luxury Home Sales",
       "link": "https://www.redfin.com/news/most-expensive-home-sales-june-2026/",
       "published": "Fri, 17 Jul 2026"
-    },
-    {
-      "title": "Pending Home Sales Slip Amid Stubbornly High Housing Costs, Economic Uncertainty",
-      "link": "https://www.redfin.com/news/housing-market-update-pending-sales-slip-high-costs/",
-      "published": "Thu, 16 Jul 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "ERA president Alex Vidal tunes out real estate’s noise — and listens to consumers",
+        "url": "https://www.housingwire.com/articles/alex-vidal-consumer-focus/",
+        "what": "ERA’s Alex Vidal says consumer perception of buyer agreements and private listings is shaping agent questions more than industry headlines.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/alex-vidal-consumer-focus/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Execution is the edge mortgage banks can control",
         "url": "https://www.housingwire.com/articles/mortgage-banks-execution-advantage/",
@@ -210,27 +219,36 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-banks-execution-advantage/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      }
+    ],
+    "housing": [
+      {
+        "title": "Why homebuilders struggle to scale new initiatives",
+        "url": "https://www.housingwire.com/articles/homebuilder-inertia-innovation-stalls/",
+        "what": "Despite the reputation production homebuilders get for resisting change – and failing at innovation – the best path to a homebuilding team member’s career advancement is by evangelizing a passion project",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-inertia-innovation-stalls/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Michigan’s Whitmer steps up, signs single-stair reform into law",
-        "url": "https://www.housingwire.com/articles/whitmer-signs-single-stair-legislation/",
-        "what": "Gov",
+        "title": "‘Tale of two’ Miami housing markets reflects changing priorities, international demand",
+        "url": "https://www.housingwire.com/articles/tale-of-two-miami-housing-markets-reflects-changing-priorities-international-demand/",
+        "what": "Miami continue to house diverse housing ecosystems, including luxury and single-family segments supported by migration and limited supply.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/whitmer-signs-single-stair-legislation/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tale-of-two-miami-housing-markets-reflects-changing-priorities-international-demand/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Housing Market Spotlight: Lower-priced metros show greater resilience as demand softens",
-        "url": "https://www.housingwire.com/articles/housing-market-affordable-markets-resilience/",
-        "what": "HousingWire Data reveals how elevated mortgage rates are reshaping local housing markets, with more affordable metros proving more resilient.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-affordable-markets-resilience/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      }
-    ],
-    "housing": [
+        "title": "From Bust to Boom: San Francisco Home Prices Are Now $1 Million Higher Than Housing-Crash Bottom",
+        "url": "https://www.redfin.com/news/san-francisco-1-million-increase-prices/",
+        "what": "San Francisco’s median home-sale price dropped to a low of $625,000 in the aftermath of the Great Recession; since then, it has risen over $1 million to more than $1.7 million",
+        "numbers": "$625,000, $1 million, $1.7 million",
+        "justified": "redfin.com — https://www.redfin.com/news/san-francisco-1-million-increase-prices/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Pending Home Sales Fall to 3-Month Low",
         "url": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-rates-increase/",
@@ -297,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "Flair says AI improved lead conversion in West Capital Lending deployment",
+        "url": "https://www.housingwire.com/articles/west-capital-flair-ai-voice/",
+        "what": "Flair says West Capital used its AI voice agents in May, placing 318,000 calls, reaching 11,400 borrowers and creating 1,788 warm handoffs.",
+        "numbers": "318,000, 11,400, 1,788",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/west-capital-flair-ai-voice/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "House subcommittee probes Compass MRED private listing network deal",
         "url": "https://www.housingwire.com/articles/compass-mred-private-listings/",
         "what": "House subcommittee asks Compass and MRED for briefings by Aug",
@@ -320,24 +347,6 @@
         "what": "The House passed H.R",
         "numbers": "6955, 270, 154,",
         "justified": "housingwire.com — https://www.housingwire.com/articles/house-passes-bill-banking/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "NAR Q2 strategic plan update targets MLS rules, lawsuits, training",
-        "url": "https://www.housingwire.com/articles/nar-q2-mls-lawsuits-training/",
-        "what": "NAR’s Q2 report details strategic plan progress, including DOJ letters, Tuccori settlement steps, and new broker and data tools.",
-        "numbers": "2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-q2-mls-lawsuits-training/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Nick Janovsky joins SERHANT. as Tampa luxury sales director",
-        "url": "https://www.housingwire.com/articles/nick-janovsky-serhant-tampa/",
-        "what": "SERHANT",
-        "numbers": "$250 million, 340",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nick-janovsky-serhant-tampa/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
