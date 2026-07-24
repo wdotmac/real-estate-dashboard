@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-24 17:51 UTC",
+  "as_of": "2026-07-24 19:46 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Berkshire completes Taylor Morrison deal valued at $8.5B enterprise value",
+      "link": "https://www.housingwire.com/articles/berkshire-taylor-morrison-acquisition/",
+      "published": "Fri, 24 Jul 2026"
+    },
+    {
+      "title": "NVR is land light by design, Q2 2026 reveals the strategy has limits",
+      "link": "https://www.housingwire.com/articles/nvr-q2-2026-earnings/",
+      "published": "Fri, 24 Jul 2026"
+    },
+    {
       "title": "Equity Union expands into Nevada with first market outside California",
       "link": "https://www.housingwire.com/articles/equity-union-expands-into-nevada-with-first-market-outside-california/",
       "published": "Fri, 24 Jul 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Miami Realtors + RWorld expands into Treasure Coast with new merger",
       "link": "https://www.housingwire.com/articles/miami-realtors-rworld-expands-into-treasure-coast-with-new-merger/",
-      "published": "Fri, 24 Jul 2026"
-    },
-    {
-      "title": "Mortgage defaults level off in June, FHA new defaults down 15%",
-      "link": "https://www.housingwire.com/articles/mortgage-defaults-june-fha/",
-      "published": "Fri, 24 Jul 2026"
-    },
-    {
-      "title": "How to handle the top producer comparison from sellers",
-      "link": "https://www.housingwire.com/articles/handle-top-producer-comparison/",
       "published": "Fri, 24 Jul 2026"
     },
     {
@@ -201,18 +201,17 @@
     }
   ],
   "feed_101020": {
-    "macro": [
-      {
-        "title": "New York outflows reshape housing demand in Texas and Florida",
-        "url": "https://www.housingwire.com/articles/new-york-texas-florida-migration/",
-        "what": "New York City is not dead",
-        "numbers": "$28",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-york-texas-florida-migration/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      }
-    ],
+    "macro": [],
     "housing": [
+      {
+        "title": "NVR is land light by design, Q2 2026 reveals the strategy has limits",
+        "url": "https://www.housingwire.com/articles/nvr-q2-2026-earnings/",
+        "what": "If you do not build it, they cannot come",
+        "numbers": "2, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nvr-q2-2026-earnings/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "High prices, hesitant demand weigh on June new home sales",
         "url": "https://www.housingwire.com/articles/high-prices-hesitant-demand-weigh-on-june-new-home-sales/",
@@ -297,6 +296,15 @@
     ],
     "notables": [
       {
+        "title": "Berkshire completes Taylor Morrison deal valued at $8.5B enterprise value",
+        "url": "https://www.housingwire.com/articles/berkshire-taylor-morrison-acquisition/",
+        "what": "Berkshire closed its Taylor Morrison acquisition at $72.50 per share, valuing equity at $6.8B and EV at $8.5B.",
+        "numbers": "$72.50, $6.8, $8.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/berkshire-taylor-morrison-acquisition/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Equity Union expands into Nevada with first market outside California",
         "url": "https://www.housingwire.com/articles/equity-union-expands-into-nevada-with-first-market-outside-california/",
         "what": "The company recently was named the fastest-growing brokerage by five year transaction side percentage on the 2026 RealTrends Verified GameChangers list.",
@@ -331,15 +339,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/roomvu-launches-ai-powered-recruiting-content-for-brokerages/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "4 expert tips to help originators win in today’s market",
-        "url": "https://www.housingwire.com/articles/mortgage-originators-expert-tips/",
-        "what": "Two senior AEs describe how originators are adjusting to a higher-rate market by focusing on what they can control",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-originators-expert-tips/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
