@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-24 11:55 UTC",
+  "as_of": "2026-07-24 14:12 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -17,36 +17,36 @@
   },
   "permits": {
     "florida": {
-      "latest": 13055,
-      "latest_date": "2026-05",
-      "mom": -0.10557687037544528,
-      "yoy": -0.1036116451524306,
-      "ytd": -0.15488219982647,
-      "ytd_count": 63312,
+      "latest": 13629,
+      "latest_date": "2026-06",
+      "mom": 0.04396782841823055,
+      "yoy": -0.30243627802231554,
+      "ytd": -0.1854043810148963,
+      "ytd_count": 76941,
       "latest_year": 2026,
-      "latest_month_name": "May"
+      "latest_month_name": "Jun"
     },
     "msa": {
       "Orlando–Kissimmee–Sanford": {
         "total": {
-          "latest": 1846,
+          "latest": 1857,
           "latest_year": 2026,
-          "latest_month": 5,
-          "latest_month_name": "May",
-          "mom": -0.041536863966770476,
-          "yoy": 0.030133928571428603,
-          "ytd_yoy": -0.40573954742994156,
-          "ytd_count": 7931
+          "latest_month": 6,
+          "latest_month_name": "Jun",
+          "mom": 0.005958829902491969,
+          "yoy": -0.2846687211093991,
+          "ytd_yoy": -0.3860243382260695,
+          "ytd_count": 9788
         },
         "one_unit": {
-          "latest": 1050,
+          "latest": 1378,
           "latest_year": 2026,
-          "latest_month": 5,
-          "latest_month_name": "May",
-          "mom": -0.0658362989323843,
-          "yoy": -0.13007456503728254,
-          "ytd_yoy": -0.2376164424072157,
-          "ytd_count": 5156
+          "latest_month": 6,
+          "latest_month_name": "Jun",
+          "mom": 0.3123809523809524,
+          "yoy": -0.24945533769063177,
+          "ytd_yoy": -0.24014420281428073,
+          "ytd_count": 6534
         },
         "dom": {
           "days": 70,
@@ -56,24 +56,24 @@
       },
       "Tampa–St. Petersburg–Clearwater": {
         "total": {
-          "latest": 2505,
+          "latest": 1842,
           "latest_year": 2026,
-          "latest_month": 5,
-          "latest_month_name": "May",
-          "mom": 0.5666041275797373,
-          "yoy": 0.03256389117889524,
-          "ytd_yoy": -0.0788973384030418,
-          "ytd_count": 8721
+          "latest_month": 6,
+          "latest_month_name": "Jun",
+          "mom": -0.26467065868263473,
+          "yoy": -0.24384236453201968,
+          "ytd_yoy": -0.11265120967741937,
+          "ytd_count": 10563
         },
         "one_unit": {
-          "latest": 1141,
+          "latest": 1248,
           "latest_year": 2026,
-          "latest_month": 5,
-          "latest_month_name": "May",
-          "mom": -0.047579298831385675,
-          "yoy": -0.14595808383233533,
-          "ytd_yoy": -0.005497337227280519,
-          "ytd_count": 5789
+          "latest_month": 6,
+          "latest_month_name": "Jun",
+          "mom": 0.09377738825591586,
+          "yoy": -0.014218009478673022,
+          "ytd_yoy": -0.00705517144066603,
+          "ytd_count": 7037
         },
         "dom": {
           "days": 68,
@@ -83,24 +83,24 @@
       },
       "Ocala": {
         "total": {
-          "latest": 481,
+          "latest": 445,
           "latest_year": 2026,
-          "latest_month": 5,
-          "latest_month_name": "May",
-          "mom": -0.1819727891156463,
-          "yoy": -0.034136546184738936,
-          "ytd_yoy": -0.02604166666666663,
-          "ytd_count": 2805
+          "latest_month": 6,
+          "latest_month_name": "Jun",
+          "mom": -0.07484407484407485,
+          "yoy": -0.38365650969529086,
+          "ytd_yoy": -0.09772348695169353,
+          "ytd_count": 3250
         },
         "one_unit": {
-          "latest": 477,
+          "latest": 441,
           "latest_year": 2026,
-          "latest_month": 5,
-          "latest_month_name": "May",
-          "mom": -0.18877551020408168,
-          "yoy": -0.01851851851851849,
-          "ytd_yoy": 0.02792256142963523,
-          "ytd_count": 2761
+          "latest_month": 6,
+          "latest_month_name": "Jun",
+          "mom": -0.07547169811320753,
+          "yoy": -0.09815950920245398,
+          "ytd_yoy": 0.008503937007874107,
+          "ytd_count": 3202
         },
         "dom": {
           "days": 78,
@@ -110,24 +110,24 @@
       },
       "Palm Bay–Melbourne–Titusville": {
         "total": {
-          "latest": 328,
+          "latest": 437,
           "latest_year": 2026,
-          "latest_month": 5,
-          "latest_month_name": "May",
-          "mom": 0.08250825082508251,
-          "yoy": 0.2615384615384615,
-          "ytd_yoy": -0.10857142857142854,
-          "ytd_count": 1404
+          "latest_month": 6,
+          "latest_month_name": "Jun",
+          "mom": 0.33231707317073167,
+          "yoy": 0.2666666666666666,
+          "ytd_yoy": -0.041145833333333326,
+          "ytd_count": 1841
         },
         "one_unit": {
-          "latest": 328,
+          "latest": 437,
           "latest_year": 2026,
-          "latest_month": 5,
-          "latest_month_name": "May",
-          "mom": 0.08250825082508251,
-          "yoy": 0.3015873015873016,
-          "ytd_yoy": 0.010799136069114423,
-          "ytd_count": 1404
+          "latest_month": 6,
+          "latest_month_name": "Jun",
+          "mom": 0.33231707317073167,
+          "yoy": 0.2666666666666666,
+          "ytd_yoy": 0.061707035755478756,
+          "ytd_count": 1841
         },
         "dom": {
           "days": 66,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage defaults level off in June, FHA new defaults down 15%",
+      "link": "https://www.housingwire.com/articles/mortgage-defaults-june-fha/",
+      "published": "Fri, 24 Jul 2026"
+    },
+    {
+      "title": "How to handle the top producer comparison from sellers",
+      "link": "https://www.housingwire.com/articles/handle-top-producer-comparison/",
+      "published": "Fri, 24 Jul 2026"
+    },
+    {
+      "title": "Congress didn’t create the private listings problem. We did.",
+      "link": "https://www.housingwire.com/articles/private-listings-house-scrutiny/",
+      "published": "Fri, 24 Jul 2026"
+    },
+    {
+      "title": "Roomvu launches AI-powered recruiting content for brokerages",
+      "link": "https://www.housingwire.com/articles/roomvu-launches-ai-powered-recruiting-content-for-brokerages/",
+      "published": "Fri, 24 Jul 2026"
+    },
+    {
       "title": "New York outflows reshape housing demand in Texas and Florida",
       "link": "https://www.housingwire.com/articles/new-york-texas-florida-migration/",
       "published": "Fri, 24 Jul 2026"
@@ -148,26 +168,6 @@
       "title": "4 expert tips to help originators win in today’s market",
       "link": "https://www.housingwire.com/articles/mortgage-originators-expert-tips/",
       "published": "Fri, 24 Jul 2026"
-    },
-    {
-      "title": "AI makes anyone visible. Authority is the new scarcity.",
-      "link": "https://www.housingwire.com/articles/ai-visibility-authority-scarcity/",
-      "published": "Fri, 24 Jul 2026"
-    },
-    {
-      "title": "The homeownership rate isn’t what you think",
-      "link": "https://www.housingwire.com/articles/adult-homeownership-hpop/",
-      "published": "Fri, 24 Jul 2026"
-    },
-    {
-      "title": "Modernization delays are becoming competitive liabilities",
-      "link": "https://www.housingwire.com/articles/mortgage-tech-modernization-delays/",
-      "published": "Fri, 24 Jul 2026"
-    },
-    {
-      "title": "Century Communities leans on operations as strategy in Q2 2026",
-      "link": "https://www.housingwire.com/articles/century-communities-q2-2026-strategy/",
-      "published": "Thu, 23 Jul 2026"
     },
     {
       "title": "From Bust to Boom: San Francisco Home Prices Are Now $1 Million Higher Than Housing-Crash Bottom",
@@ -214,6 +214,24 @@
     ],
     "housing": [
       {
+        "title": "Mortgage defaults level off in June, FHA new defaults down 15%",
+        "url": "https://www.housingwire.com/articles/mortgage-defaults-june-fha/",
+        "what": "ICE said June delinquency was 3.55% and FHA new defaults fell 15% year over year, while foreclosure inventory rose to 0.53%.",
+        "numbers": "3.55, 15, 0.53",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-defaults-june-fha/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Congress didn’t create the private listings problem. We did.",
+        "url": "https://www.housingwire.com/articles/private-listings-house-scrutiny/",
+        "what": "House letters to Compass and MRED seek an August 5 briefing on private listing networks, as calls grow for clearer MLS rules nationwide.",
+        "numbers": "5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/private-listings-house-scrutiny/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "AI makes anyone visible. Authority is the new scarcity.",
         "url": "https://www.housingwire.com/articles/ai-visibility-authority-scarcity/",
         "what": "Generative AI is flooding housing and mortgage feeds with similar content, reducing the value of visibility alone",
@@ -237,15 +255,6 @@
         "what": "“A rose is a rose is a rose,” according to a 1913 poem Gertrude Stein wrote, called Sacred Emily",
         "numbers": "1913",
         "justified": "housingwire.com — https://www.housingwire.com/articles/century-communities-q2-2026-strategy/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "As CCM is poised to win the TWO bidding war, an integration test awaits",
-        "url": "https://www.housingwire.com/articles/ccm-two-integration-msrs/",
-        "what": "With CrossCountry Mortgage’s deal to acquire Two Harbors Investment Corp",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ccm-two-integration-msrs/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -293,18 +302,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/home-price-index-june-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Beachfront Florida and Coastal California Ruled June’s Ultra-Luxury Home Sales",
-        "url": "https://www.redfin.com/news/most-expensive-home-sales-june-2026/",
-        "what": "The most expensive home sale of June was a $71 million waterfront estate near Palm Beach, followed by a Beverly Hills compound",
-        "numbers": "$71 million, $47 million",
-        "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-june-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
+      {
+        "title": "How to handle the top producer comparison from sellers",
+        "url": "https://www.housingwire.com/articles/handle-top-producer-comparison/",
+        "what": "Prepare for seller comparisons by checking competitor MLS stats and shifting the conversation to trust, service model and outcomes.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/handle-top-producer-comparison/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Roomvu launches AI-powered recruiting content for brokerages",
+        "url": "https://www.housingwire.com/articles/roomvu-launches-ai-powered-recruiting-content-for-brokerages/",
+        "what": "Brokerages can create and automatically publish branded videos and posts that highlight recruiting messaging.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/roomvu-launches-ai-powered-recruiting-content-for-brokerages/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "4 expert tips to help originators win in today’s market",
         "url": "https://www.housingwire.com/articles/mortgage-originators-expert-tips/",
@@ -322,33 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/adult-homeownership-hpop/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Howard Hanna expands into northern New England with Portside",
-        "url": "https://www.housingwire.com/articles/howard-hanna-portside-new-england/",
-        "what": "Howard Hanna partners with Portside, gaining Maine, New Hampshire, and Massachusetts reach, and expanding to 18 states and 500+ offices.",
-        "numbers": "18, 500",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/howard-hanna-portside-new-england/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "AARP opposes expedited Social Security process proposed in PROMISE Act",
-        "url": "https://www.housingwire.com/articles/aarp-opposes-expedited-social-security-process-proposed-in-promise-act/",
-        "what": "While AARP agrees Congress must address Social Security, the organization wants lawmakers to do so through traditional legislative processes.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/aarp-opposes-expedited-social-security-process-proposed-in-promise-act/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Rodland Private Members looks to close AI gap for independent brokerages",
-        "url": "https://www.housingwire.com/articles/rodland-private-members-looks-to-close-ai-gap-for-independent-brokerages/",
-        "what": "The new membership platform will give independent firms access to enterprise-grade artificial intelligence-powered operations.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rodland-private-members-looks-to-close-ai-gap-for-independent-brokerages/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
