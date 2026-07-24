@@ -1,9 +1,9 @@
 {
-  "as_of": "2026-07-24 19:46 UTC",
+  "as_of": "2026-07-24 21:20 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.67,
+      "yield_pct": 4.71,
       "delta_bp_1d": 4.0000000000000036
     },
     "mortgage_30y": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Coldwell Banker Warburg folds into Compass in New York",
+      "link": "https://www.housingwire.com/articles/coldwell-banker-warburg-compass/",
+      "published": "Fri, 24 Jul 2026"
+    },
+    {
+      "title": "Don’t fall for a fake foreclosure crisis",
+      "link": "https://www.housingwire.com/articles/dont-fall-for-a-fake-foreclosure-crisis/",
+      "published": "Fri, 24 Jul 2026"
+    },
+    {
+      "title": "Deed theft remains a growing threat for seniors, Black homeowners",
+      "link": "https://www.housingwire.com/articles/deed-theft-remains-a-growing-threat-for-seniors-black-homeowners/",
+      "published": "Fri, 24 Jul 2026"
+    },
+    {
       "title": "Berkshire completes Taylor Morrison deal valued at $8.5B enterprise value",
       "link": "https://www.housingwire.com/articles/berkshire-taylor-morrison-acquisition/",
       "published": "Fri, 24 Jul 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Equity Union expands into Nevada with first market outside California",
       "link": "https://www.housingwire.com/articles/equity-union-expands-into-nevada-with-first-market-outside-california/",
-      "published": "Fri, 24 Jul 2026"
-    },
-    {
-      "title": "High prices, hesitant demand weigh on June new home sales",
-      "link": "https://www.housingwire.com/articles/high-prices-hesitant-demand-weigh-on-june-new-home-sales/",
-      "published": "Fri, 24 Jul 2026"
-    },
-    {
-      "title": "Why homebuilders aren’t building more homes",
-      "link": "https://www.housingwire.com/articles/why-homebuilders-arent-building-more-homes/",
-      "published": "Fri, 24 Jul 2026"
-    },
-    {
-      "title": "Miami Realtors + RWorld expands into Treasure Coast with new merger",
-      "link": "https://www.housingwire.com/articles/miami-realtors-rworld-expands-into-treasure-coast-with-new-merger/",
       "published": "Fri, 24 Jul 2026"
     },
     {
@@ -204,6 +204,15 @@
     "macro": [],
     "housing": [
       {
+        "title": "Don’t fall for a fake foreclosure crisis",
+        "url": "https://www.housingwire.com/articles/dont-fall-for-a-fake-foreclosure-crisis/",
+        "what": "A 21% rise in foreclosures reflects normalization, not a crisis, as new listings stay low and homeowner equity remains high.",
+        "numbers": "21",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/dont-fall-for-a-fake-foreclosure-crisis/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "NVR is land light by design, Q2 2026 reveals the strategy has limits",
         "url": "https://www.housingwire.com/articles/nvr-q2-2026-earnings/",
         "what": "If you do not build it, they cannot come",
@@ -238,15 +247,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-defaults-june-fha/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Congress didn’t create the private listings problem. We did.",
-        "url": "https://www.housingwire.com/articles/private-listings-house-scrutiny/",
-        "what": "House letters to Compass and MRED seek an August 5 briefing on private listing networks, as calls grow for clearer MLS rules nationwide.",
-        "numbers": "5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/private-listings-house-scrutiny/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "From Bust to Boom: San Francisco Home Prices Are Now $1 Million Higher Than Housing-Crash Bottom",
@@ -296,6 +296,24 @@
     ],
     "notables": [
       {
+        "title": "Coldwell Banker Warburg folds into Compass in New York",
+        "url": "https://www.housingwire.com/articles/coldwell-banker-warburg-compass/",
+        "what": "Coldwell Banker Warburg will operate as Warburg at Compass in New York, and Compass has not set a timeline for the transition.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/coldwell-banker-warburg-compass/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Deed theft remains a growing threat for seniors, Black homeowners",
+        "url": "https://www.housingwire.com/articles/deed-theft-remains-a-growing-threat-for-seniors-black-homeowners/",
+        "what": "A New York City attorney lays out red flags that real estate agents and title agents should remain on the lookout for.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/deed-theft-remains-a-growing-threat-for-seniors-black-homeowners/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Berkshire completes Taylor Morrison deal valued at $8.5B enterprise value",
         "url": "https://www.housingwire.com/articles/berkshire-taylor-morrison-acquisition/",
         "what": "Berkshire closed its Taylor Morrison acquisition at $72.50 per share, valuing equity at $6.8B and EV at $8.5B.",
@@ -319,24 +337,6 @@
         "what": "The merger expands the organization to approximately 94,000 members across Miami-Dade, Broward, Palm Beach, Martin and St",
         "numbers": "94,000",
         "justified": "housingwire.com — https://www.housingwire.com/articles/miami-realtors-rworld-expands-into-treasure-coast-with-new-merger/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How to handle the top producer comparison from sellers",
-        "url": "https://www.housingwire.com/articles/handle-top-producer-comparison/",
-        "what": "Prepare for seller comparisons by checking competitor MLS stats and shifting the conversation to trust, service model and outcomes.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/handle-top-producer-comparison/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Roomvu launches AI-powered recruiting content for brokerages",
-        "url": "https://www.housingwire.com/articles/roomvu-launches-ai-powered-recruiting-content-for-brokerages/",
-        "what": "Brokerages can create and automatically publish branded videos and posts that highlight recruiting messaging.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/roomvu-launches-ai-powered-recruiting-content-for-brokerages/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
