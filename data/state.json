@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-25 19:33 UTC",
+  "as_of": "2026-07-25 21:08 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Home sales are positive but higher rates slowing demand",
+      "link": "https://www.housingwire.com/articles/home-sales-are-positive-but-higher-rates-slowing-demand/",
+      "published": "Sat, 25 Jul 2026"
+    },
+    {
       "title": "Coldwell Banker Warburg folds into Compass in New York",
       "link": "https://www.housingwire.com/articles/coldwell-banker-warburg-compass/",
       "published": "Fri, 24 Jul 2026"
@@ -162,11 +167,6 @@
     {
       "title": "NVR is land light by design, Q2 2026 reveals the strategy has limits",
       "link": "https://www.housingwire.com/articles/nvr-q2-2026-earnings/",
-      "published": "Fri, 24 Jul 2026"
-    },
-    {
-      "title": "Equity Union expands into Nevada with first market outside California",
-      "link": "https://www.housingwire.com/articles/equity-union-expands-into-nevada-with-first-market-outside-california/",
       "published": "Fri, 24 Jul 2026"
     },
     {
@@ -201,7 +201,17 @@
     }
   ],
   "feed_101020": {
-    "macro": [],
+    "macro": [
+      {
+        "title": "Home sales are positive but higher rates slowing demand",
+        "url": "https://www.housingwire.com/articles/home-sales-are-positive-but-higher-rates-slowing-demand/",
+        "what": "Spreads were 1.94%, keeping rates below 7%, while purchase apps were up 0.2% yearly and pending sales held near flat.",
+        "numbers": "1.94, 7, 0.2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/home-sales-are-positive-but-higher-rates-slowing-demand/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      }
+    ],
     "housing": [
       {
         "title": "Don’t fall for a fake foreclosure crisis",
@@ -236,15 +246,6 @@
         "what": "New home sales are staying in a 600,000 to 700,000 range, limiting permits as builders rely on rate buydowns.",
         "numbers": "600,000, 700,000",
         "justified": "housingwire.com — https://www.housingwire.com/articles/why-homebuilders-arent-building-more-homes/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage defaults level off in June, FHA new defaults down 15%",
-        "url": "https://www.housingwire.com/articles/mortgage-defaults-june-fha/",
-        "what": "ICE said June delinquency was 3.55% and FHA new defaults fell 15% year over year, while foreclosure inventory rose to 0.53%.",
-        "numbers": "3.55, 15, 0.53",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-defaults-june-fha/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
