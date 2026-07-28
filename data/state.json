@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-28 14:39 UTC",
+  "as_of": "2026-07-28 16:50 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Sekisui House U.S. CEO David Viger on bringing Japan-inspired resiliency to U.S. homes",
-      "link": "https://www.housingwire.com/articles/sekisui-house-david-viger-on-bringing-japanese-inspired-resilient-home-design-to-the-u-s/",
+      "title": "The Fed hawks are winning even without a rate hike",
+      "link": "https://www.housingwire.com/articles/the-fed-hawks-are-winning-even-without-a-rate-hike/",
       "published": "Tue, 28 Jul 2026"
     },
     {
-      "title": "Closinglock launches payment tools to secure homebuyer funds",
-      "link": "https://www.housingwire.com/articles/closinglock-launches-payment-tools-to-secure-homebuyer-funds/",
+      "title": "How Honolulu leveraged AI to cut permit review times in half",
+      "link": "https://www.housingwire.com/articles/how-honolulu-leveraged-ai-to-cut-permit-review-times-in-half/",
       "published": "Tue, 28 Jul 2026"
     },
     {
-      "title": "DFW’s next suburban growth wave is forming west of Fort Worth",
-      "link": "https://www.housingwire.com/articles/parker-county-dfw-growth/",
+      "title": "Case-Shiller home prices rise 1.1% in May, still lag inflation",
+      "link": "https://www.housingwire.com/articles/case-shiller-real-prices-may/",
       "published": "Tue, 28 Jul 2026"
     },
     {
-      "title": "America’s accidental landlords: The hidden consequence of the mortgage lock-in effect",
-      "link": "https://www.housingwire.com/articles/mortgage-lock-in-accidental-landlords/",
+      "title": "Brokerage transaction fees could cost consumers $2 billion",
+      "link": "https://www.housingwire.com/articles/real-estate-junk-fees-report/",
       "published": "Tue, 28 Jul 2026"
     },
     {
-      "title": "Gaining that local edge to outperform competition amid market consolidation",
-      "link": "https://www.housingwire.com/articles/local-market-authority-brokerages/",
+      "title": "Lofty expands AI platform, launches House.ai for homebuyers",
+      "link": "https://www.housingwire.com/articles/lofty-expands-ai-platform-launches-house-ai-for-homebuyers/",
       "published": "Tue, 28 Jul 2026"
     },
     {
-      "title": "New York City posts notice of new tax levy to pied-a-terre owners",
-      "link": "https://www.housingwire.com/articles/pied-a-terre-tax-appeal/",
-      "published": "Mon, 27 Jul 2026"
+      "title": "David Abrahamson returns to Equity Prime Mortgage as CRO",
+      "link": "https://www.housingwire.com/articles/epm-david-abrahamson-cro/",
+      "published": "Tue, 28 Jul 2026"
     },
     {
       "title": "15% Fewer Canadians Are Searching for Homes in the U.S. Than Last Year",
@@ -203,20 +203,20 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "DFW’s next suburban growth wave is forming west of Fort Worth",
-        "url": "https://www.housingwire.com/articles/parker-county-dfw-growth/",
-        "what": "Parker County and Weatherford are beginning to display the demographic, economic and infrastructure signals that once beamed in on Collin County as North Texas’ next great suburban market",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/parker-county-dfw-growth/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "The Fed hawks are winning even without a rate hike",
+        "url": "https://www.housingwire.com/articles/the-fed-hawks-are-winning-even-without-a-rate-hike/",
+        "what": "Ahead of the Fed meeting, yields rose, with the 10-year at 4.60% and oil back below $79, keeping hike odds uncertain.",
+        "numbers": "10, 4.60, $79, k",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-fed-hawks-are-winning-even-without-a-rate-hike/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "America’s accidental landlords: The hidden consequence of the mortgage lock-in effect",
-        "url": "https://www.housingwire.com/articles/mortgage-lock-in-accidental-landlords/",
-        "what": "Mortgage lock-in is increasingly shifting homeowners into accidental landlord roles as selling becomes less viable",
-        "numbers": "30, 6.43, 1.33 million, 2022, 2, 2023",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-lock-in-accidental-landlords/",
+        "title": "Case-Shiller home prices rise 1.1% in May, still lag inflation",
+        "url": "https://www.housingwire.com/articles/case-shiller-real-prices-may/",
+        "what": "Case-Shiller rose 1.1% year over year in May to 335.1, but inflation hit 4.2%, keeping home prices down in real terms.",
+        "numbers": "1.1, 335.1,, 4.2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/case-shiller-real-prices-may/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -241,6 +241,33 @@
     ],
     "housing": [
       {
+        "title": "How Honolulu leveraged AI to cut permit review times in half",
+        "url": "https://www.housingwire.com/articles/how-honolulu-leveraged-ai-to-cut-permit-review-times-in-half/",
+        "what": ": Q1 2026 data shows Honolulu cut permit decision times from 73 days to 32.5 days using CivCheck for smaller projects.",
+        "numbers": "1, 2026, 73, 32.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/how-honolulu-leveraged-ai-to-cut-permit-review-times-in-half/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "David Abrahamson returns to Equity Prime Mortgage as CRO",
+        "url": "https://www.housingwire.com/articles/epm-david-abrahamson-cro/",
+        "what": "Equity Prime Mortgage appoints David Abrahamson as chief risk officer, with 40 years of experience and oversight of credit and compliance.",
+        "numbers": "40",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/epm-david-abrahamson-cro/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Zillow wins dismissal of RESPA claims in Flex referrals case",
+        "url": "https://www.housingwire.com/articles/zillow-respa-standing-dismissal/",
+        "what": "Judge Robart dismissed RESPA claims against Zillow, finding plaintiffs lacked standing because they did not pay the alleged referral fees.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-respa-standing-dismissal/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "15% Fewer Canadians Are Searching for Homes in the U.S. Than Last Year",
         "url": "https://www.redfin.com/news/15-fewer-canadians-us-homes/",
         "what": "The number of Canada-based Redfin.com users searching for U.S",
@@ -257,33 +284,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/second-home-mortgages-increased-in-2025/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Gaining that local edge to outperform competition amid market consolidation",
-        "url": "https://www.housingwire.com/articles/local-market-authority-brokerages/",
-        "what": "Independent brokerages can compete in a consolidating market by specializing in defined neighborhoods and systematizing local content from listings",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/local-market-authority-brokerages/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Lot demand shifts to terms and timing at Forestar, Five Point",
-        "url": "https://www.housingwire.com/articles/residential-land-terms-timing/",
-        "what": "In 2024 and early 2025, homebuilders large, medium and small were smitten with the strategic notion of “land light.” In 2026, and for the near future, most everybody is more preocc",
-        "numbers": "2024, 2025,, 2026,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/residential-land-terms-timing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Agent movement stalls as retention takes hold in Q2",
-        "url": "https://www.housingwire.com/articles/agent-movement-stalls-as-retention-takes-hold-in-q2/",
-        "what": "External moves",
-        "numbers": "3,390,, 2, 2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/agent-movement-stalls-as-retention-takes-hold-in-q2/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "Fire-Prone Parts of Rural Northern California Are Losing Residents, Bucking National Trend",
@@ -306,6 +306,33 @@
     ],
     "notables": [
       {
+        "title": "Brokerage transaction fees could cost consumers $2 billion",
+        "url": "https://www.housingwire.com/articles/real-estate-junk-fees-report/",
+        "what": "CPC says brokerage admin fees often run $400 to $600 per side, sometimes over $1,000, and could total nearly $2 billion annually.",
+        "numbers": "$400, $600, $1,000,, $2 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-junk-fees-report/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Lofty expands AI platform, launches House.ai for homebuyers",
+        "url": "https://www.housingwire.com/articles/lofty-expands-ai-platform-launches-house-ai-for-homebuyers/",
+        "what": "Updates are designed to automate workflow management for real estate professionals while helping consumers better understand homeownership.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lofty-expands-ai-platform-launches-house-ai-for-homebuyers/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "The Sitzer/Burnett data motion is a compliance warning",
+        "url": "https://www.housingwire.com/articles/the-sitzer-burnett-7-day-mls-data-motion/",
+        "what": "Plaintiffs propose notifying 562 opted-in MLSs and treating silence after 7 days as consent to release listing and commission data under the NAR settlement.",
+        "numbers": "562, 7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-sitzer-burnett-7-day-mls-data-motion/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Sekisui House U.S. CEO David Viger on bringing Japan-inspired resiliency to U.S. homes",
         "url": "https://www.housingwire.com/articles/sekisui-house-david-viger-on-bringing-japanese-inspired-resilient-home-design-to-the-u-s/",
         "what": "Sekisui House U.S",
@@ -320,33 +347,6 @@
         "what": "New features allow title and settlement companies to manage both incoming and outgoing buyer funds through a single platform.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/closinglock-launches-payment-tools-to-secure-homebuyer-funds/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "New York City posts notice of new tax levy to pied-a-terre owners",
-        "url": "https://www.housingwire.com/articles/pied-a-terre-tax-appeal/",
-        "what": "Tax attorneys and accountants are about to make bank helping owners of non-primary homes navigate New York City’s pied-à-terre tax notifications, which started landing in mailboxes before the weekend",
-        "numbers": "$5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pied-a-terre-tax-appeal/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Ruth Reffkin launches Compass real estate team in NYC",
-        "url": "https://www.housingwire.com/articles/ruth-reffkin-compass-team-nyc/",
-        "what": "Ruth Reffkin launched the Ruth Reffkin Team at Compass in New York City, partnering with Susan Hirschorn as principal strategist.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ruth-reffkin-compass-team-nyc/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "FirstTeam Real Estate, Purlin partner on AI-powered operations",
-        "url": "https://www.housingwire.com/articles/firstteam-real-estate-purlin-partner-on-ai-powered-operations/",
-        "what": "The California-based independent brokerage will implement PurlinOS, Purlin Close and Purlin Offer & Negotiate.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/firstteam-real-estate-purlin-partner-on-ai-powered-operations/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
