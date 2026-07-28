@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-28 12:13 UTC",
+  "as_of": "2026-07-28 14:39 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Sekisui House U.S. CEO David Viger on bringing Japan-inspired resiliency to U.S. homes",
+      "link": "https://www.housingwire.com/articles/sekisui-house-david-viger-on-bringing-japanese-inspired-resilient-home-design-to-the-u-s/",
+      "published": "Tue, 28 Jul 2026"
+    },
+    {
+      "title": "Closinglock launches payment tools to secure homebuyer funds",
+      "link": "https://www.housingwire.com/articles/closinglock-launches-payment-tools-to-secure-homebuyer-funds/",
+      "published": "Tue, 28 Jul 2026"
+    },
+    {
+      "title": "DFW’s next suburban growth wave is forming west of Fort Worth",
+      "link": "https://www.housingwire.com/articles/parker-county-dfw-growth/",
+      "published": "Tue, 28 Jul 2026"
+    },
+    {
       "title": "America’s accidental landlords: The hidden consequence of the mortgage lock-in effect",
       "link": "https://www.housingwire.com/articles/mortgage-lock-in-accidental-landlords/",
       "published": "Tue, 28 Jul 2026"
@@ -155,19 +170,9 @@
       "published": "Mon, 27 Jul 2026"
     },
     {
-      "title": "Lot demand shifts to terms and timing at Forestar, Five Point",
-      "link": "https://www.housingwire.com/articles/residential-land-terms-timing/",
-      "published": "Mon, 27 Jul 2026"
-    },
-    {
-      "title": "Ruth Reffkin launches Compass real estate team in NYC",
-      "link": "https://www.housingwire.com/articles/ruth-reffkin-compass-team-nyc/",
-      "published": "Mon, 27 Jul 2026"
-    },
-    {
-      "title": "Agent movement stalls as retention takes hold in Q2",
-      "link": "https://www.housingwire.com/articles/agent-movement-stalls-as-retention-takes-hold-in-q2/",
-      "published": "Mon, 27 Jul 2026"
+      "title": "15% Fewer Canadians Are Searching for Homes in the U.S. Than Last Year",
+      "link": "https://www.redfin.com/news/15-fewer-canadians-us-homes/",
+      "published": "Tue, 28 Jul 2026"
     },
     {
       "title": "Vacation-Home Mortgages Tick Up For First Time Since Pandemic Boom",
@@ -193,15 +198,19 @@
       "title": "From Bust to Boom: San Francisco Home Prices Are Now $1 Million Higher Than Housing-Crash Bottom",
       "link": "https://www.redfin.com/news/san-francisco-1-million-increase-prices/",
       "published": "Thu, 23 Jul 2026"
-    },
-    {
-      "title": "Pending Home Sales Fall to 3-Month Low",
-      "link": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-rates-increase/",
-      "published": "Thu, 23 Jul 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "DFW’s next suburban growth wave is forming west of Fort Worth",
+        "url": "https://www.housingwire.com/articles/parker-county-dfw-growth/",
+        "what": "Parker County and Weatherford are beginning to display the demographic, economic and infrastructure signals that once beamed in on Collin County as North Texas’ next great suburban market",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/parker-county-dfw-growth/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "America’s accidental landlords: The hidden consequence of the mortgage lock-in effect",
         "url": "https://www.housingwire.com/articles/mortgage-lock-in-accidental-landlords/",
@@ -221,15 +230,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "MBA warns FHFA about changing manufactured home definition in Duty to Serve rule",
-        "url": "https://www.housingwire.com/articles/mba-fhfa-duty-serve-changes/",
-        "what": "The Mortgage Bankers Association is urging the Federal Housing Finance Agency to move carefully as it finalizes changes to its Duty to Serve rule.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-fhfa-duty-serve-changes/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Nashville Sellers ‘Need to Pack Their Patience’ For a Housing Market That Now Strongly Favors Buyers",
         "url": "https://www.redfin.com/news/nashville-buyers-market-june-2026/",
         "what": "Nashville is the nation’s second-strongest buyer’s market with 129% more home sellers than buyers in June",
@@ -240,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "15% Fewer Canadians Are Searching for Homes in the U.S. Than Last Year",
+        "url": "https://www.redfin.com/news/15-fewer-canadians-us-homes/",
+        "what": "The number of Canada-based Redfin.com users searching for U.S",
+        "numbers": "15.3, 37, 45, 50, 51.8, 48.6",
+        "justified": "redfin.com — https://www.redfin.com/news/15-fewer-canadians-us-homes/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Vacation-Home Mortgages Tick Up For First Time Since Pandemic Boom",
         "url": "https://www.redfin.com/news/second-home-mortgages-increased-in-2025/",
@@ -277,15 +286,6 @@
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
-        "title": "MBA’s HMDA analysis finds proprietary reverse mortgages jumped 118% in 2025",
-        "url": "https://www.housingwire.com/articles/mba-hmda-proprietary-reverse/",
-        "what": "HMDA data in MBA analysis shows the proprietary reverse mortgage share rose to 22% in 2025, while HECM growth stayed mostly flat.",
-        "numbers": "22, 2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-hmda-proprietary-reverse/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Fire-Prone Parts of Rural Northern California Are Losing Residents, Bucking National Trend",
         "url": "https://www.redfin.com/news/fire-prone-counties-migration/",
         "what": "Tuolumne County, CA, in the Yosemite foothills, lost more residents than any other fire-prone U.S",
@@ -302,18 +302,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/san-francisco-1-million-increase-prices/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Pending Home Sales Fall to 3-Month Low",
-        "url": "https://www.redfin.com/news/housing-market-update-pending-sales-fall-rates-increase/",
-        "what": "New listings inched up week over week, but they’re near their lowest level since the start of 2026",
-        "numbers": "2026., 1.3, 3",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-fall-rates-increase/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
+      {
+        "title": "Sekisui House U.S. CEO David Viger on bringing Japan-inspired resiliency to U.S. homes",
+        "url": "https://www.housingwire.com/articles/sekisui-house-david-viger-on-bringing-japanese-inspired-resilient-home-design-to-the-u-s/",
+        "what": "Sekisui House U.S",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/sekisui-house-david-viger-on-bringing-japanese-inspired-resilient-home-design-to-the-u-s/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Closinglock launches payment tools to secure homebuyer funds",
+        "url": "https://www.housingwire.com/articles/closinglock-launches-payment-tools-to-secure-homebuyer-funds/",
+        "what": "New features allow title and settlement companies to manage both incoming and outgoing buyer funds through a single platform.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/closinglock-launches-payment-tools-to-secure-homebuyer-funds/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "New York City posts notice of new tax levy to pied-a-terre owners",
         "url": "https://www.housingwire.com/articles/pied-a-terre-tax-appeal/",
@@ -338,15 +347,6 @@
         "what": "The California-based independent brokerage will implement PurlinOS, Purlin Close and Purlin Offer & Negotiate.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/firstteam-real-estate-purlin-partner-on-ai-powered-operations/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "BKeeperAI launches AI-powered text messaging expense assistant for real estate",
-        "url": "https://www.housingwire.com/articles/bkeeperai-launches-ai-powered-text-messaging-expense-assistant-for-real-estate/",
-        "what": "According to the company, \"solopreneurs\" lose $4,000 to $10,000 annually in missed tax deductions because of inconsistent expense tracking.",
-        "numbers": "$4,000, $10,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bkeeperai-launches-ai-powered-text-messaging-expense-assistant-for-real-estate/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
