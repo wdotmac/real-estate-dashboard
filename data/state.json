@@ -1,9 +1,9 @@
 {
-  "as_of": "2026-07-29 19:42 UTC",
+  "as_of": "2026-07-29 21:11 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.65,
+      "yield_pct": 4.61,
       "delta_bp_1d": -4.0000000000000036
     },
     "mortgage_30y": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Hawks Lorie Logan and Beth Hammack run the Fed for now",
+      "link": "https://www.housingwire.com/articles/hawks-lorie-logan-and-beth-hammack-run-the-fed-for-now/",
+      "published": "Wed, 29 Jul 2026"
+    },
+    {
+      "title": "Homes.com helps drive CoStar to first profitable residential quarter",
+      "link": "https://www.housingwire.com/articles/homes-com-helps-drive-costar-to-first-profitable-residential-quarter/",
+      "published": "Wed, 29 Jul 2026"
+    },
+    {
       "title": "Cloze unveils app to capture, organize open house leads",
       "link": "https://www.housingwire.com/articles/cloze-unveils-app-to-capture-organize-open-house-leads/",
       "published": "Wed, 29 Jul 2026"
@@ -160,13 +170,8 @@
       "published": "Wed, 29 Jul 2026"
     },
     {
-      "title": "Washington state regulator hits West Capital Lending with $75K penalty",
-      "link": "https://www.housingwire.com/articles/west-capital-lending-fine/",
-      "published": "Wed, 29 Jul 2026"
-    },
-    {
-      "title": "LPT Aperture Holdings acquires Speculo AI platform",
-      "link": "https://www.housingwire.com/articles/lpt-aperture-acquires-speculo/",
+      "title": "Mortgage Rates Likely to Hold Stead Steady Following July Fed Meeting, But Uncertainty Looms as Fall Approaches",
+      "link": "https://www.redfin.com/news/kevin-warsh-fed-meeting-july-2026/",
       "published": "Wed, 29 Jul 2026"
     },
     {
@@ -193,15 +198,28 @@
       "title": "Fire-Prone Parts of Rural Northern California Are Losing Residents, Bucking National Trend",
       "link": "https://www.redfin.com/news/fire-prone-counties-migration/",
       "published": "Mon, 27 Jul 2026"
-    },
-    {
-      "title": "Nashville Sellers ‘Need to Pack Their Patience’ For a Housing Market That Now Strongly Favors Buyers",
-      "link": "https://www.redfin.com/news/nashville-buyers-market-june-2026/",
-      "published": "Mon, 27 Jul 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage Rates Likely to Hold Stead Steady Following July Fed Meeting, But Uncertainty Looms as Fall Approaches",
+        "url": "https://www.redfin.com/news/kevin-warsh-fed-meeting-july-2026/",
+        "what": "Takeaway: Mortgage rates will largely stay the same for now as the Fed opts against hiking and says little about future plans",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/kevin-warsh-fed-meeting-july-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Hawks Lorie Logan and Beth Hammack run the Fed for now",
+        "url": "https://www.housingwire.com/articles/hawks-lorie-logan-and-beth-hammack-run-the-fed-for-now/",
+        "what": "Even though the Federal Reserve didn't hike rates today, the hawks won three key victories with higher nominal and real yields.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hawks-lorie-logan-and-beth-hammack-run-the-fed-for-now/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Here’s another example of how proprietary loans are driving growth for the reverse mortgage market",
         "url": "https://www.housingwire.com/articles/proprietary-loans-drive-reverse-mortgage-growth-hmda-data/",
@@ -237,15 +255,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-uncertain-second-warsh-fed-meeting/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Nashville Sellers ‘Need to Pack Their Patience’ For a Housing Market That Now Strongly Favors Buyers",
-        "url": "https://www.redfin.com/news/nashville-buyers-market-june-2026/",
-        "what": "Nashville is the nation’s second-strongest buyer’s market with 129% more home sellers than buyers in June",
-        "numbers": "129",
-        "justified": "redfin.com — https://www.redfin.com/news/nashville-buyers-market-june-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
@@ -255,15 +264,6 @@
         "what": "Regulators in Washington state have fined West Capital Lending Inc",
         "numbers": "$75,000",
         "justified": "housingwire.com — https://www.housingwire.com/articles/west-capital-lending-fine/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "What the Holiday Builders transaction reveals about today’s homebuilder M&A market",
-        "url": "https://www.housingwire.com/articles/holiday-builders-homebuilder-ma/",
-        "what": "Holiday Builders sale to Stanley Martin closed July 29, 2026",
-        "numbers": "29,, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/holiday-builders-homebuilder-ma/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -306,6 +306,15 @@
     ],
     "notables": [
       {
+        "title": "Homes.com helps drive CoStar to first profitable residential quarter",
+        "url": "https://www.housingwire.com/articles/homes-com-helps-drive-costar-to-first-profitable-residential-quarter/",
+        "what": "For the first time, CoStar’s residential portfolio turned adjusted EBITDA positive, generating $12 million in profit.",
+        "numbers": "$12 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homes-com-helps-drive-costar-to-first-profitable-residential-quarter/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Cloze unveils app to capture, organize open house leads",
         "url": "https://www.housingwire.com/articles/cloze-unveils-app-to-capture-organize-open-house-leads/",
         "what": "The app replaces paper sign-in sheets with digital check-ins that create contact records, log attendance and collect visitor feedback.",
@@ -338,15 +347,6 @@
         "what": "New Silver Lending LLC has acquired Mayflower Venture Partners, expanding in New England’s fix-and-flip and construction lending markets.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/new-silver-expands-new-england/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Former CFPB official Peterson tapped to lead New Jersey consumer affairs division",
-        "url": "https://www.housingwire.com/articles/peterson-acting-head-nj-consumer-agency/",
-        "what": "Christopher L",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/peterson-acting-head-nj-consumer-agency/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
