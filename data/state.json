@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-29 06:44 UTC",
+  "as_of": "2026-07-29 09:48 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Louisville cannot solve a housing crisis while limiting who gets to build the solution",
+      "link": "https://www.housingwire.com/articles/louisville-developer-pool-housing/",
+      "published": "Wed, 29 Jul 2026"
+    },
+    {
+      "title": "I asked ChatGPT to pick a lender. Every loan officer should do the same.",
+      "link": "https://www.housingwire.com/articles/optimizing-mortgage-business-for-ai/",
+      "published": "Wed, 29 Jul 2026"
+    },
+    {
+      "title": "Open letter to FHFA, HUD, CFPB and Congress",
+      "link": "https://www.housingwire.com/articles/housing-affordability-payment-levers/",
+      "published": "Wed, 29 Jul 2026"
+    },
+    {
       "title": "Foreclosure auctions rise in Q2 2026, with FHA loans driving gains",
       "link": "https://www.housingwire.com/articles/q2-2026-foreclosure-auctions-fha/",
       "published": "Wed, 29 Jul 2026"
@@ -152,21 +167,6 @@
     {
       "title": "loanDepot picks Miami for new tech and fulfillment corporate center",
       "link": "https://www.housingwire.com/articles/loandepot-miami-tech-fulfillment/",
-      "published": "Tue, 28 Jul 2026"
-    },
-    {
-      "title": "Real estate brokers say rising mortgage rates derail early 2026 housing rebound",
-      "link": "https://www.housingwire.com/articles/iran-war-mortgage-rates/",
-      "published": "Tue, 28 Jul 2026"
-    },
-    {
-      "title": "Miami Realtors + RWorld’s Dionna Hall on building a unified South Florida MLS",
-      "link": "https://www.housingwire.com/articles/miami-realtors-rworlds-dionna-hall-on-building-a-unified-south-florida-mls/",
-      "published": "Tue, 28 Jul 2026"
-    },
-    {
-      "title": "Compass International Holdings agents join American Real Estate Association",
-      "link": "https://www.housingwire.com/articles/compass-agents-join-ara/",
       "published": "Tue, 28 Jul 2026"
     },
     {
@@ -203,20 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Open letter to FHFA, HUD, CFPB and Congress",
+        "url": "https://www.housingwire.com/articles/housing-affordability-payment-levers/",
+        "what": "The open letter argues housing affordability remains impaired despite improved supply, citing rates and rising taxes and insurance",
+        "numbers": "5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-affordability-payment-levers/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Real estate brokers say rising mortgage rates derail early 2026 housing rebound",
         "url": "https://www.housingwire.com/articles/iran-war-mortgage-rates/",
         "what": "Mortgage rates rose from 6.23% to 6.94% after Iran conflict escalation, and brokers now expect about 4 million home sales in 2026.",
         "numbers": "6.23, 6.94, 4 million, 2026.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/iran-war-mortgage-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage rates move closer to 7%, but housing demand holds up ahead of Fed meeting",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-near-7/",
-        "what": "Mortgage rates continued to climb this week and are now approaching 7% for locked loans across all borrower credit profiles",
-        "numbers": "7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-near-7/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -240,6 +240,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Louisville cannot solve a housing crisis while limiting who gets to build the solution",
+        "url": "https://www.housingwire.com/articles/louisville-developer-pool-housing/",
+        "what": "Louisville is urged to evaluate whether public housing dollars are concentrating opportunity among a small set of repeat developers",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/louisville-developer-pool-housing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "I asked ChatGPT to pick a lender. Every loan officer should do the same.",
+        "url": "https://www.housingwire.com/articles/optimizing-mortgage-business-for-ai/",
+        "what": "AI is replacing the traditional referral as the front door to financial services",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/optimizing-mortgage-business-for-ai/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "40 Redfin Agents Earn Top Honors in Chicago Magazine’s Latest Ranking of Chicago’s Top Real Estate Agents",
         "url": "https://www.redfin.com/news/redfin-agents-chicago-magazine-2026-real-estate-agent-ranking/",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/the-fight-to-make-florida-more-affordable/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Lone Wolf bets future of real estate AI is embedded, not standalone",
-        "url": "https://www.housingwire.com/articles/lone-wolf-bets-future-of-real-estate-ai-is-embedded-not-standalone/",
-        "what": "Lone Wolf announced Talent, a new module for its BrokerMetrics analytics platform, and Aspen, designed to work Lone Wolf's entire ecosystem.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lone-wolf-bets-future-of-real-estate-ai-is-embedded-not-standalone/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Bright MLS hires Steve Mapes as EVP of growth and strategy",
-        "url": "https://www.housingwire.com/articles/bright-mls-hires-mapes/",
-        "what": "Bright MLS hires Steve Mapes as EVP of growth and strategy, tasking him with footprint expansion plus revenue and partnerships.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bright-mls-hires-mapes/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
