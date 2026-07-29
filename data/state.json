@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-29 21:11 UTC",
+  "as_of": "2026-07-29 22:13 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Pennymac profit drops in Q2 as rates bite, layoffs follow",
+      "link": "https://www.housingwire.com/articles/pennymac-q2-income-falls/",
+      "published": "Wed, 29 Jul 2026"
+    },
+    {
       "title": "Hawks Lorie Logan and Beth Hammack run the Fed for now",
       "link": "https://www.housingwire.com/articles/hawks-lorie-logan-and-beth-hammack-run-the-fed-for-now/",
       "published": "Wed, 29 Jul 2026"
@@ -162,11 +167,6 @@
     {
       "title": "ONE Sotheby’s adds $10B luxury broker Julian Johnston",
       "link": "https://www.housingwire.com/articles/one-sothebys-adds-10b-luxury-broker-julian-johnston/",
-      "published": "Wed, 29 Jul 2026"
-    },
-    {
-      "title": "Fed pauses rates again as Middle East tensions risk hotter inflation",
-      "link": "https://www.housingwire.com/articles/fed-holds-rates-fifth-meeting/",
       "published": "Wed, 29 Jul 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Pennymac profit drops in Q2 as rates bite, layoffs follow",
+        "url": "https://www.housingwire.com/articles/pennymac-q2-income-falls/",
+        "what": "Pennymac posted Q2 net income of $22 million, down 84% YoY, as lock volume fell 18% and adjusted ROE slipped to 7%.",
+        "numbers": "2, $22 million, 84, 18, 7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pennymac-q2-income-falls/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage Rates Likely to Hold Stead Steady Following July Fed Meeting, But Uncertainty Looms as Fall Approaches",
         "url": "https://www.redfin.com/news/kevin-warsh-fed-meeting-july-2026/",
@@ -338,15 +347,6 @@
         "what": "LPT Aperture Holdings acquired Speculo, whose Remi tool works inside databases, serving 300 plus organizations and millions of conversations.",
         "numbers": "300",
         "justified": "housingwire.com — https://www.housingwire.com/articles/lpt-aperture-acquires-speculo/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "New Silver acquires Mayflower Venture Partners",
-        "url": "https://www.housingwire.com/articles/new-silver-expands-new-england/",
-        "what": "New Silver Lending LLC has acquired Mayflower Venture Partners, expanding in New England’s fix-and-flip and construction lending markets.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-silver-expands-new-england/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
