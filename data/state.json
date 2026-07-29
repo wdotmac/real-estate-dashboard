@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-29 12:19 UTC",
+  "as_of": "2026-07-29 15:18 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Louisville cannot solve a housing crisis while limiting who gets to build the solution",
-      "link": "https://www.housingwire.com/articles/louisville-developer-pool-housing/",
+      "title": "Repliers, Unlock MLS partner to expand AI-powered access to Central Texas market data",
+      "link": "https://www.housingwire.com/articles/repliers-unlock-mls-partner-to-expand-ai-powered-access-to-central-texas-market-data/",
       "published": "Wed, 29 Jul 2026"
     },
     {
-      "title": "I asked ChatGPT to pick a lender. Every loan officer should do the same.",
-      "link": "https://www.housingwire.com/articles/optimizing-mortgage-business-for-ai/",
+      "title": "Constant Contact launches marketing platform for real estate",
+      "link": "https://www.housingwire.com/articles/constant-contact-real-estate-platform/",
       "published": "Wed, 29 Jul 2026"
     },
     {
-      "title": "Open letter to FHFA, HUD, CFPB and Congress",
-      "link": "https://www.housingwire.com/articles/housing-affordability-payment-levers/",
+      "title": "Mortgage applications fall 6.4% as 30-year rate hits 6.76%",
+      "link": "https://www.housingwire.com/articles/mortgage-applications-fall-6-4/",
       "published": "Wed, 29 Jul 2026"
     },
     {
-      "title": "Foreclosure auctions rise in Q2 2026, with FHA loans driving gains",
-      "link": "https://www.housingwire.com/articles/q2-2026-foreclosure-auctions-fha/",
+      "title": "Foreign buyers purchased $45.3B in U.S. existing homes, NAR says",
+      "link": "https://www.housingwire.com/articles/foreign-buyers-us-homes-nar/",
       "published": "Wed, 29 Jul 2026"
     },
     {
-      "title": "Couples can boost retirement savings with one simple conversation",
-      "link": "https://www.housingwire.com/articles/couples-can-boost-retirement-savings-with-one-simple-conversation/",
-      "published": "Tue, 28 Jul 2026"
+      "title": "Compass says Zillow exposure cut sale-to-list ratios by 1.3%",
+      "link": "https://www.housingwire.com/articles/compass-zillow-tax/",
+      "published": "Wed, 29 Jul 2026"
     },
     {
-      "title": "loanDepot picks Miami for new tech and fulfillment corporate center",
-      "link": "https://www.housingwire.com/articles/loandepot-miami-tech-fulfillment/",
-      "published": "Tue, 28 Jul 2026"
+      "title": "Pennymac trims lending, fulfillment roles in layoff round",
+      "link": "https://www.housingwire.com/articles/pennymac-layoffs-ahead-earnings/",
+      "published": "Wed, 29 Jul 2026"
     },
     {
       "title": "40 Redfin Agents Earn Top Honors in Chicago Magazine’s Latest Ranking of Chicago’s Top Real Estate Agents",
@@ -203,24 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Open letter to FHFA, HUD, CFPB and Congress",
-        "url": "https://www.housingwire.com/articles/housing-affordability-payment-levers/",
-        "what": "The open letter argues housing affordability remains impaired despite improved supply, citing rates and rising taxes and insurance",
-        "numbers": "5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-affordability-payment-levers/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Real estate brokers say rising mortgage rates derail early 2026 housing rebound",
-        "url": "https://www.housingwire.com/articles/iran-war-mortgage-rates/",
-        "what": "Mortgage rates rose from 6.23% to 6.94% after Iran conflict escalation, and brokers now expect about 4 million home sales in 2026.",
-        "numbers": "6.23, 6.94, 4 million, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/iran-war-mortgage-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Expect Mortgage-Rate Volatility Amid Uncertainty Heading Into Warsh’s 2nd Meeting as Fed Chair",
         "url": "https://www.redfin.com/news/mortgage-rates-uncertain-second-warsh-fed-meeting/",
         "what": "This Week In A Nutshell: Rates are elevated and likely to remain volatile with risks on three fronts: oil prices, AI-driven inflation, and a newly unpredictable Fed",
@@ -241,6 +223,51 @@
     ],
     "housing": [
       {
+        "title": "Mortgage applications fall 6.4% as 30-year rate hits 6.76%",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-fall-6-4/",
+        "what": "MBA reports mortgage applications fell 6.4% as the 30-year fixed rate rose to 6.76%, refinances fell 10% and purchases slid 4%.",
+        "numbers": "6.4, 30, 6.76, 10, 4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-fall-6-4/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Compass says Zillow exposure cut sale-to-list ratios by 1.3%",
+        "url": "https://www.housingwire.com/articles/compass-zillow-tax/",
+        "what": "Compass analysis of 296,966 listings finds Zillow exposure tied to a 1.3 percentage point lower sale-to-list ratio, with no speed gain.",
+        "numbers": "296,966, 1.3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-zillow-tax/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Pennymac trims lending, fulfillment roles in layoff round",
+        "url": "https://www.housingwire.com/articles/pennymac-layoffs-ahead-earnings/",
+        "what": "Pennymac imposed another round of layoffs ahead of its after-market earnings report on Wednesday, as the mortgage sector navigates a higher-for-longer interest-rate environment.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pennymac-layoffs-ahead-earnings/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Palo Alto SB 79 loophole begets a rush on new housing proposals",
+        "url": "https://www.housingwire.com/articles/palo-alto-sb-79-loophole-begets-a-rush-on-new-housing-proposals/",
+        "what": "Palo Alto",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/palo-alto-sb-79-loophole-begets-a-rush-on-new-housing-proposals/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Texas is growing up, smart builders will redesign for payment math",
+        "url": "https://www.housingwire.com/articles/texas-land-strategy-cycle/",
+        "what": "Texas real estate is not running out of opportunity",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/texas-land-strategy-cycle/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Louisville cannot solve a housing crisis while limiting who gets to build the solution",
         "url": "https://www.housingwire.com/articles/louisville-developer-pool-housing/",
         "what": "Louisville is urged to evaluate whether public housing dollars are concentrating opportunity among a small set of repeat developers",
@@ -248,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/louisville-developer-pool-housing/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "I asked ChatGPT to pick a lender. Every loan officer should do the same.",
-        "url": "https://www.housingwire.com/articles/optimizing-mortgage-business-for-ai/",
-        "what": "AI is replacing the traditional referral as the front door to financial services",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/optimizing-mortgage-business-for-ai/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "40 Redfin Agents Earn Top Honors in Chicago Magazine’s Latest Ranking of Chicago’s Top Real Estate Agents",
@@ -297,56 +315,38 @@
     ],
     "notables": [
       {
-        "title": "Foreclosure auctions rise in Q2 2026, with FHA loans driving gains",
-        "url": "https://www.housingwire.com/articles/q2-2026-foreclosure-auctions-fha/",
-        "what": "Scheduled auctions hit 71% of Q1 2020 levels in Q2 2026, up 13% YoY, while FHA-related completed auctions rose 47% year over year.",
-        "numbers": "71, 1, 2020, 2, 2026,, 13",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/q2-2026-foreclosure-auctions-fha/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Couples can boost retirement savings with one simple conversation",
-        "url": "https://www.housingwire.com/articles/couples-can-boost-retirement-savings-with-one-simple-conversation/",
-        "what": "Research found that just over 40% of couples actively coordinate their 401(k) contributions to maximize employer matching funds.",
-        "numbers": "40, 401",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/couples-can-boost-retirement-savings-with-one-simple-conversation/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "loanDepot picks Miami for new tech and fulfillment corporate center",
-        "url": "https://www.housingwire.com/articles/loandepot-miami-tech-fulfillment/",
-        "what": "loanDepot will open a new corporate center in Miami in September, establishing an East Coast hub that expands its national footprint and centralizes key corporate functions.",
+        "title": "Repliers, Unlock MLS partner to expand AI-powered access to Central Texas market data",
+        "url": "https://www.housingwire.com/articles/repliers-unlock-mls-partner-to-expand-ai-powered-access-to-central-texas-market-data/",
+        "what": "For Unlock MLS, the partnership is intended to help subscribers adopt AI technology while maintaining data security.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/loandepot-miami-tech-fulfillment/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Miami Realtors + RWorld’s Dionna Hall on building a unified South Florida MLS",
-        "url": "https://www.housingwire.com/articles/miami-realtors-rworlds-dionna-hall-on-building-a-unified-south-florida-mls/",
-        "what": "Dionna Hall",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/miami-realtors-rworlds-dionna-hall-on-building-a-unified-south-florida-mls/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Compass International Holdings agents join American Real Estate Association",
-        "url": "https://www.housingwire.com/articles/compass-agents-join-ara/",
-        "what": "Compass International Holdings agents at company-owned operations get free ARA membership for the rest of 2026 and all of 2027.",
-        "numbers": "2026, 2027.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-agents-join-ara/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/repliers-unlock-mls-partner-to-expand-ai-powered-access-to-central-texas-market-data/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "The fight to make Florida more affordable",
-        "url": "https://www.housingwire.com/articles/the-fight-to-make-florida-more-affordable/",
-        "what": "FAMP backs a Florida property tax amendment and seeks delays to FHFA condo rule changes, including 15% reserves starting 2027.",
-        "numbers": "15, 2027.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-fight-to-make-florida-more-affordable/",
+        "title": "Constant Contact launches marketing platform for real estate",
+        "url": "https://www.housingwire.com/articles/constant-contact-real-estate-platform/",
+        "what": "Constant Contact launched Constant Contact for Real Estate, adding enterprise brand controls plus AI tools and CRM integrations for agents.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/constant-contact-real-estate-platform/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Foreign buyers purchased $45.3B in U.S. existing homes, NAR says",
+        "url": "https://www.housingwire.com/articles/foreign-buyers-us-homes-nar/",
+        "what": "NAR says foreign buyers purchased $45.3B in existing homes from April 2025 to March 2026, down 19.1%, with 67,100 homes.",
+        "numbers": "$45.3, 2025, 2026,, 19.1, 67,100",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/foreign-buyers-us-homes-nar/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Fannie Mae Q2 net income hits $4B",
+        "url": "https://www.housingwire.com/articles/fannie-mae-q2-net-income/",
+        "what": "Fannie Mae posted a $4 billion profit in Q2 2026, up 7% from the previous quarter, as net revenue rose 4% to $7.6 billion.",
+        "numbers": "$4 billion, 2, 2026,, 7, 4, $7.6 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-mae-q2-net-income/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
