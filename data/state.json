@@ -1,14 +1,14 @@
 {
-  "as_of": "2026-07-30 18:44 UTC",
+  "as_of": "2026-07-30 20:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.61,
-      "delta_bp_1d": -4.0000000000000036
+      "yield_pct": 4.67,
+      "delta_bp_1d": 5.999999999999961
     },
     "mortgage_30y": {
-      "rate_pct": 6.58,
-      "delta_bp_wow": 3.000000000000025
+      "rate_pct": 6.66,
+      "delta_bp_wow": 8.000000000000007
     },
     "starts": {
       "level_saar": 1427.0,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Medicare Part D support cut amid rising retiree costs",
+      "link": "https://www.housingwire.com/articles/medicare-part-d-support-cut-amid-rising-retiree-costs/",
+      "published": "Thu, 30 Jul 2026"
+    },
+    {
+      "title": "LPT Realty set to go public after parent files IPO paperwork",
+      "link": "https://www.housingwire.com/articles/lpt-aperture-ipo-sec-filing/",
+      "published": "Thu, 30 Jul 2026"
+    },
+    {
+      "title": "Chris Gallo enters guilty plea in federal mortgage fraud case",
+      "link": "https://www.housingwire.com/articles/chris-gallo-guilty-plea-bank-fraud/",
+      "published": "Thu, 30 Jul 2026"
+    },
+    {
       "title": "Optimal Blue integrates VantageScore 4.0 into pricing, hedging and trading workflows",
       "link": "https://www.housingwire.com/articles/vantagescore-4-0-integrated-optimal-blue-mortgage-capital-markets/",
       "published": "Thu, 30 Jul 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Better appoints Orange Capital founder Daniel Lewis to board of directors",
       "link": "https://www.housingwire.com/articles/better-home-finance-appoints-daniel-lewis-board-directors/",
-      "published": "Thu, 30 Jul 2026"
-    },
-    {
-      "title": "Mortgage affordability improves in June as median payment slips to $2,191",
-      "link": "https://www.housingwire.com/articles/mba-median-mortgage-application-payments-dip-june-2026/",
-      "published": "Thu, 30 Jul 2026"
-    },
-    {
-      "title": "Brands by Integra names Charles Boyett national VP of growth",
-      "link": "https://www.housingwire.com/articles/brands-by-integra-names-charles-boyett-national-vp-of-growth/",
-      "published": "Thu, 30 Jul 2026"
-    },
-    {
-      "title": "Breezy expands Underbuilt Radar to homeowners",
-      "link": "https://www.housingwire.com/articles/breezy-expands-underbuilt-radar-to-homeowners/",
       "published": "Thu, 30 Jul 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Chris Gallo enters guilty plea in federal mortgage fraud case",
+        "url": "https://www.housingwire.com/articles/chris-gallo-guilty-plea-bank-fraud/",
+        "what": "Chris Gallo, once one of the nation’s top mortgage loan officers, has pleaded guilty to conspiracy to commit bank fraud in federal court in New Jersey, according to court filings.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/chris-gallo-guilty-plea-bank-fraud/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Optimal Blue integrates VantageScore 4.0 into pricing, hedging and trading workflows",
         "url": "https://www.housingwire.com/articles/vantagescore-4-0-integrated-optimal-blue-mortgage-capital-markets/",
@@ -250,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "LPT Realty set to go public after parent files IPO paperwork",
+        "url": "https://www.housingwire.com/articles/lpt-aperture-ipo-sec-filing/",
+        "what": "LPT Aperture filed confidential IPO paperwork on Form S-1, with no price range or offering size set and timing pending review.",
+        "numbers": "1,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lpt-aperture-ipo-sec-filing/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Better appoints Orange Capital founder Daniel Lewis to board of directors",
         "url": "https://www.housingwire.com/articles/better-home-finance-appoints-daniel-lewis-board-directors/",
         "what": "Better Home & Finance adds Orange Capital founder Daniel Lewis to its board as it doubles down on its AI-driven mortgage strategy.",
@@ -297,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "Medicare Part D support cut amid rising retiree costs",
+        "url": "https://www.housingwire.com/articles/medicare-part-d-support-cut-amid-rising-retiree-costs/",
+        "what": "The Trump administration announced it will end a temporary Medicare Part D premium stabilization program after the 2026 contract year.",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/medicare-part-d-support-cut-amid-rising-retiree-costs/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Elite International Realty expands crypto real estate services",
         "url": "https://www.housingwire.com/articles/elite-international-realty-expands-crypto-real-estate-services/",
         "what": "The partnership enhances streamlines buyers' process for converting cryptocurrency into U.S",
@@ -320,33 +347,6 @@
         "what": "Colgan has more than 22 years of real estate experience and launched his team in 2022 after working several national brokerage brands.",
         "numbers": "22, 2022",
         "justified": "housingwire.com — https://www.housingwire.com/articles/the-real-brokerage-adds-northern-virginias-chris-colgan-team/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Seniors are frequent targets of AI fraud scams — and voice cloning raises the risks",
-        "url": "https://www.housingwire.com/articles/ai-fraud-scams-seniors/",
-        "what": "Expert Steve Weisman warns AI voice cloning is boosting scams as FTC-reported losses hit $15.9B last year.",
-        "numbers": "$15.9",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-fraud-scams-seniors/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Teachers, firefighters, healthcare workers and other hero households better positioned for homeownership than most",
-        "url": "https://www.housingwire.com/articles/teachers-firefighters-healthcare-workers-and-other-hero-households-better-positioned-for-homeownership-than-most/",
-        "what": "Pittsburgh ranked as the most affordable metro for teachers, healthcare professionals and fire and law enforcement households.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/teachers-firefighters-healthcare-workers-and-other-hero-households-better-positioned-for-homeownership-than-most/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Washington-based MN Custom Homes rebrands as Azori",
-        "url": "https://www.housingwire.com/articles/mn-custom-homes-rebrands-azori-expands-into-arizona/",
-        "what": "MN Custom Homes has rebranded to Azori and is expanding into Arizona, launching Scottsdale luxury projects and a new office.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mn-custom-homes-rebrands-azori-expands-into-arizona/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
