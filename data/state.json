@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-31 15:28 UTC",
+  "as_of": "2026-07-31 17:51 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "How Compass used technology to chart its course to the top",
+      "link": "https://www.housingwire.com/articles/compass-ai-assistant-home-platform-2/",
+      "published": "Fri, 31 Jul 2026"
+    },
+    {
+      "title": "Fed hawks are on the war path, sending mortgage rates higher",
+      "link": "https://www.housingwire.com/articles/10-year-yield-fed-hawks/",
+      "published": "Fri, 31 Jul 2026"
+    },
+    {
+      "title": "ICE posts strongest quarter for mortgage tech since 2022",
+      "link": "https://www.housingwire.com/articles/ice-mortgage-tech-557m-q2/",
+      "published": "Fri, 31 Jul 2026"
+    },
+    {
+      "title": "Every real estate agent has AI now, how sellers spot real expertise",
+      "link": "https://www.housingwire.com/articles/ai-real-estate-listing-pitch/",
+      "published": "Fri, 31 Jul 2026"
+    },
+    {
+      "title": "NEXA’s Mike Kortas criticizes loanDepot, pitches LOs to switch companies amid ongoing lawsuit",
+      "link": "https://www.housingwire.com/articles/nexa-loandepot-los/",
+      "published": "Fri, 31 Jul 2026"
+    },
+    {
       "title": "Here’s where the housing market is headed on its way into 2027",
       "link": "https://www.housingwire.com/articles/heres-where-the-housing-market-is-headed-on-its-way-into-2027/",
-      "published": "Fri, 31 Jul 2026"
-    },
-    {
-      "title": "Stop-work orders spread in NYC office-to-residential conversions",
-      "link": "https://www.housingwire.com/articles/nyc-office-conversion-stop-work/",
-      "published": "Fri, 31 Jul 2026"
-    },
-    {
-      "title": "Unsustainable US construction demand is impeding housing market success",
-      "link": "https://www.housingwire.com/articles/construction-labor-housing-supply/",
-      "published": "Fri, 31 Jul 2026"
-    },
-    {
-      "title": "Reducing risk: Why the right IT service provider matters",
-      "link": "https://www.housingwire.com/articles/it-service-provider-risk/",
-      "published": "Fri, 31 Jul 2026"
-    },
-    {
-      "title": "Proprietary reverse mortgages are outpacing HECMs. It’s time to raise the bar on fee transparency.",
-      "link": "https://www.housingwire.com/articles/proprietary-reverse-fee-transparency/",
-      "published": "Fri, 31 Jul 2026"
-    },
-    {
-      "title": "The mortgage industry has been focusing on only half the market",
-      "link": "https://www.housingwire.com/articles/reverse-mortgages-second-half/",
       "published": "Fri, 31 Jul 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Fed hawks are on the war path, sending mortgage rates higher",
+        "url": "https://www.housingwire.com/articles/10-year-yield-fed-hawks/",
+        "what": "The 10-year yield hit 4.74% and mortgage rates rose to 6.83% as Fed hawks signaled multiple hikes and oil rose above $84.",
+        "numbers": "10, 4.74, 6.83, $84.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/10-year-yield-fed-hawks/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Here’s where the housing market is headed on its way into 2027",
         "url": "https://www.housingwire.com/articles/heres-where-the-housing-market-is-headed-on-its-way-into-2027/",
@@ -268,47 +277,20 @@
     ],
     "housing": [
       {
+        "title": "ICE posts strongest quarter for mortgage tech since 2022",
+        "url": "https://www.housingwire.com/articles/ice-mortgage-tech-557m-q2/",
+        "what": "ICE Mortgage Technology posted $557 million in Q2 2026 revenue, up 5% year over year, with $45 million in operating income and an 8% margin.",
+        "numbers": "$557 million, 2, 2026, 5, $45 million, 8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-mortgage-tech-557m-q2/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Unsustainable US construction demand is impeding housing market success",
         "url": "https://www.housingwire.com/articles/construction-labor-housing-supply/",
         "what": "Luxury home prices are up about 5% while the US faces a 4 million home supply deficit",
         "numbers": "5, 4 million",
         "justified": "housingwire.com — https://www.housingwire.com/articles/construction-labor-housing-supply/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "The mortgage industry has been focusing on only half the market",
-        "url": "https://www.housingwire.com/articles/reverse-mortgages-second-half/",
-        "what": "For decades, the mortgage industry has focused on helping consumers buy and refinance homes",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgages-second-half/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Meritage Q2 2026 earnings telegraph move-up buyer pivot",
-        "url": "https://www.housingwire.com/articles/meritage-earnings-q2-mix-shift/",
-        "what": "For much of the past decade, Meritage Homes has stood as one of public homebuilding’s clearest business use cases that thoughtfully designed, efficiently built entry-level homes could unlock homeownership for thousands of households who otherwise might have remained renters",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/meritage-earnings-q2-mix-shift/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "FirstTeam and Purlin on avoiding AI mistakes: ‘Some stuff actually creates more work’",
-        "url": "https://www.housingwire.com/articles/firstteam-purlin-avoiding-ai-mistakes/",
-        "what": "FirstTeam Real Estate's Lauren Henss and Purlin's Tim Quirk sit down with HousingWire to touch on the state of brokerage AI adoption.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/firstteam-purlin-avoiding-ai-mistakes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "LPT Realty set to go public after parent files IPO paperwork",
-        "url": "https://www.housingwire.com/articles/lpt-aperture-ipo-sec-filing/",
-        "what": "LPT Aperture filed confidential IPO paperwork on Form S-1, with no price range or offering size set and timing pending review.",
-        "numbers": "1,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lpt-aperture-ipo-sec-filing/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
@@ -342,13 +324,31 @@
     ],
     "notables": [
       {
-        "title": "Medicare Part D support cut amid rising retiree costs",
-        "url": "https://www.housingwire.com/articles/medicare-part-d-support-cut-amid-rising-retiree-costs/",
-        "what": "The Trump administration announced it will end a temporary Medicare Part D premium stabilization program after the 2026 contract year.",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/medicare-part-d-support-cut-amid-rising-retiree-costs/",
+        "title": "How Compass used technology to chart its course to the top",
+        "url": "https://www.housingwire.com/articles/compass-ai-assistant-home-platform-2/",
+        "what": "Compass says its AI Assistant connects to 90+ tools as Home Platform rolls out to Anywhere firms, with franchise access planned for 2027.",
+        "numbers": "90, 2027.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-ai-assistant-home-platform-2/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Every real estate agent has AI now, how sellers spot real expertise",
+        "url": "https://www.housingwire.com/articles/ai-real-estate-listing-pitch/",
+        "what": "As AI polishes listing pitches, sellers can focus on pricing rationale, buyer targeting and contingency planning to pick agents.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-real-estate-listing-pitch/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "NEXA’s Mike Kortas criticizes loanDepot, pitches LOs to switch companies amid ongoing lawsuit",
+        "url": "https://www.housingwire.com/articles/nexa-loandepot-los/",
+        "what": "NEXA CEO Mike Kortas used a Facebook post to recruit loanDepot loan officers, criticizing loanDepot results and citing share price declines.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nexa-loandepot-los/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ]
   }
