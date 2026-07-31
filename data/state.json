@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-07-31 19:51 UTC",
+  "as_of": "2026-07-31 21:27 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.67,
-      "delta_bp_1d": 5.999999999999961
+      "yield_pct": 4.68,
+      "delta_bp_1d": 0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.66,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "AI’s housing impact is strong — but highly localized",
+      "link": "https://www.housingwire.com/articles/ais-housing-impact-is-strong-but-highly-localized/",
+      "published": "Fri, 31 Jul 2026"
+    },
+    {
+      "title": "Green Brick seizes a margin edge as a land and product outlier",
+      "link": "https://www.housingwire.com/articles/green-brick-partners-q2-2026-earnings/",
+      "published": "Fri, 31 Jul 2026"
+    },
+    {
       "title": "Regulators move to narrow CRA, drawing fire from advocates",
       "link": "https://www.housingwire.com/articles/cra-proposal-asset-thresholds/",
       "published": "Fri, 31 Jul 2026"
@@ -157,16 +167,6 @@
     {
       "title": "How Compass used technology to chart its course to the top",
       "link": "https://www.housingwire.com/articles/compass-ai-assistant-home-platform-2/",
-      "published": "Fri, 31 Jul 2026"
-    },
-    {
-      "title": "Fed hawks are on the war path, sending mortgage rates higher",
-      "link": "https://www.housingwire.com/articles/10-year-yield-fed-hawks/",
-      "published": "Fri, 31 Jul 2026"
-    },
-    {
-      "title": "ICE posts strongest quarter for mortgage tech since 2022",
-      "link": "https://www.housingwire.com/articles/ice-mortgage-tech-557m-q2/",
       "published": "Fri, 31 Jul 2026"
     },
     {
@@ -239,24 +239,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Here’s where the housing market is headed on its way into 2027",
-        "url": "https://www.housingwire.com/articles/heres-where-the-housing-market-is-headed-on-its-way-into-2027/",
-        "what": "Affordability is improving, but 70% of owners have rates at 5% or below, limiting inventory and sales momentum.",
-        "numbers": "70, 5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/heres-where-the-housing-market-is-headed-on-its-way-into-2027/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Stop-work orders spread in NYC office-to-residential conversions",
-        "url": "https://www.housingwire.com/articles/nyc-office-conversion-stop-work/",
-        "what": "Spreading regulatory concern over New York City office-to-residential conversions intensified after two more developments experienced work stoppages due to jobsite issues",
-        "numbers": "222, 32, 750",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-office-conversion-stop-work/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Homebuying Demand Slows As Mortgage Rates Hit Highest Level in a Year",
         "url": "https://www.redfin.com/news/housing-market-update-demand-slows-rates-hit-high-level/",
         "what": "Today’s housing market rewards patience over panic: With hundreds of thousands more sellers than buyers in the U.S., buyers in most of the country have time to peruse options and negotiate",
@@ -285,6 +267,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "AI’s housing impact is strong — but highly localized",
+        "url": "https://www.housingwire.com/articles/ais-housing-impact-is-strong-but-highly-localized/",
+        "what": "While more than 40% of listings nationally are seeing price cuts, some AI hubs",
+        "numbers": "40",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ais-housing-impact-is-strong-but-highly-localized/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "ICE posts strongest quarter for mortgage tech since 2022",
         "url": "https://www.housingwire.com/articles/ice-mortgage-tech-557m-q2/",
@@ -323,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Green Brick seizes a margin edge as a land and product outlier",
+        "url": "https://www.housingwire.com/articles/green-brick-partners-q2-2026-earnings/",
+        "what": "Green Brick Partners posted a 29.8% Q2 gross margin, up 900 basis points, as the Trophy Signature Homes brand keeps growing.",
+        "numbers": "29.8, 2, 900",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/green-brick-partners-q2-2026-earnings/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "How Compass used technology to chart its course to the top",
         "url": "https://www.housingwire.com/articles/compass-ai-assistant-home-platform-2/",
