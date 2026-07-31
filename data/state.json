@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-31 12:16 UTC",
+  "as_of": "2026-07-31 15:28 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Here’s where the housing market is headed on its way into 2027",
+      "link": "https://www.housingwire.com/articles/heres-where-the-housing-market-is-headed-on-its-way-into-2027/",
+      "published": "Fri, 31 Jul 2026"
+    },
+    {
       "title": "Stop-work orders spread in NYC office-to-residential conversions",
       "link": "https://www.housingwire.com/articles/nyc-office-conversion-stop-work/",
       "published": "Fri, 31 Jul 2026"
@@ -163,11 +168,6 @@
       "title": "The mortgage industry has been focusing on only half the market",
       "link": "https://www.housingwire.com/articles/reverse-mortgages-second-half/",
       "published": "Fri, 31 Jul 2026"
-    },
-    {
-      "title": "Meritage Q2 2026 earnings telegraph move-up buyer pivot",
-      "link": "https://www.housingwire.com/articles/meritage-earnings-q2-mix-shift/",
-      "published": "Thu, 30 Jul 2026"
     },
     {
       "title": "Homebuying Demand Slows As Mortgage Rates Hit Highest Level in a Year",
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Here’s where the housing market is headed on its way into 2027",
+        "url": "https://www.housingwire.com/articles/heres-where-the-housing-market-is-headed-on-its-way-into-2027/",
+        "what": "Affordability is improving, but 70% of owners have rates at 5% or below, limiting inventory and sales momentum.",
+        "numbers": "70, 5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/heres-where-the-housing-market-is-headed-on-its-way-into-2027/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Stop-work orders spread in NYC office-to-residential conversions",
         "url": "https://www.housingwire.com/articles/nyc-office-conversion-stop-work/",
         "what": "Spreading regulatory concern over New York City office-to-residential conversions intensified after two more developments experienced work stoppages due to jobsite issues",
@@ -226,15 +235,6 @@
         "what": "Proprietary reverse mortgages surpassed HECMs in Q1 2026, with $953 million in originations vs $875 million",
         "numbers": "1, 2026,, $953 million, $875 million",
         "justified": "housingwire.com — https://www.housingwire.com/articles/proprietary-reverse-fee-transparency/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Chris Gallo enters guilty plea in federal mortgage fraud case",
-        "url": "https://www.housingwire.com/articles/chris-gallo-guilty-plea-bank-fraud/",
-        "what": "Chris Gallo, once one of the nation’s top mortgage loan officers, has pleaded guilty to conspiracy to commit bank fraud in federal court in New Jersey, according to court filings.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/chris-gallo-guilty-plea-bank-fraud/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
