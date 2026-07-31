@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-31 03:54 UTC",
+  "as_of": "2026-07-31 07:13 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Proprietary reverse mortgages are outpacing HECMs. It’s time to raise the bar on fee transparency.",
+      "link": "https://www.housingwire.com/articles/proprietary-reverse-fee-transparency/",
+      "published": "Fri, 31 Jul 2026"
+    },
+    {
+      "title": "The mortgage industry has been focusing on only half the market",
+      "link": "https://www.housingwire.com/articles/reverse-mortgages-second-half/",
+      "published": "Fri, 31 Jul 2026"
+    },
+    {
       "title": "Meritage Q2 2026 earnings telegraph move-up buyer pivot",
       "link": "https://www.housingwire.com/articles/meritage-earnings-q2-mix-shift/",
       "published": "Thu, 30 Jul 2026"
@@ -157,16 +167,6 @@
     {
       "title": "LPT Realty set to go public after parent files IPO paperwork",
       "link": "https://www.housingwire.com/articles/lpt-aperture-ipo-sec-filing/",
-      "published": "Thu, 30 Jul 2026"
-    },
-    {
-      "title": "Chris Gallo enters guilty plea in federal mortgage fraud case",
-      "link": "https://www.housingwire.com/articles/chris-gallo-guilty-plea-bank-fraud/",
-      "published": "Thu, 30 Jul 2026"
-    },
-    {
-      "title": "Optimal Blue integrates VantageScore 4.0 into pricing, hedging and trading workflows",
-      "link": "https://www.housingwire.com/articles/vantagescore-4-0-integrated-optimal-blue-mortgage-capital-markets/",
       "published": "Thu, 30 Jul 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Proprietary reverse mortgages are outpacing HECMs. It’s time to raise the bar on fee transparency.",
+        "url": "https://www.housingwire.com/articles/proprietary-reverse-fee-transparency/",
+        "what": "Proprietary reverse mortgages surpassed HECMs in Q1 2026, with $953 million in originations vs $875 million",
+        "numbers": "1, 2026,, $953 million, $875 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/proprietary-reverse-fee-transparency/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Chris Gallo enters guilty plea in federal mortgage fraud case",
         "url": "https://www.housingwire.com/articles/chris-gallo-guilty-plea-bank-fraud/",
@@ -250,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "The mortgage industry has been focusing on only half the market",
+        "url": "https://www.housingwire.com/articles/reverse-mortgages-second-half/",
+        "what": "For decades, the mortgage industry has focused on helping consumers buy and refinance homes",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgages-second-half/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Meritage Q2 2026 earnings telegraph move-up buyer pivot",
         "url": "https://www.housingwire.com/articles/meritage-earnings-q2-mix-shift/",
         "what": "For much of the past decade, Meritage Homes has stood as one of public homebuilding’s clearest business use cases that thoughtfully designed, efficiently built entry-level homes could unlock homeownership for thousands of households who otherwise might have remained renters",
@@ -282,15 +300,6 @@
         "what": "Better Home & Finance adds Orange Capital founder Daniel Lewis to its board as it doubles down on its AI-driven mortgage strategy.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/better-home-finance-appoints-daniel-lewis-board-directors/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage affordability improves in June as median payment slips to $2,191",
-        "url": "https://www.housingwire.com/articles/mba-median-mortgage-application-payments-dip-june-2026/",
-        "what": "Homebuyer affordability improved slightly in June as the national median payment on new purchase mortgage applications fell to $2,191, down from $2,198 in May.",
-        "numbers": "$2,191,, $2,198",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-median-mortgage-application-payments-dip-june-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/elite-international-realty-expands-crypto-real-estate-services/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Brands by Integra names Charles Boyett national VP of growth",
-        "url": "https://www.housingwire.com/articles/brands-by-integra-names-charles-boyett-national-vp-of-growth/",
-        "what": "Boyett brings more than 25 years of experience in real estate brokerage, executive leadership and business development.",
-        "numbers": "25",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/brands-by-integra-names-charles-boyett-national-vp-of-growth/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
