@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-01 23:10 UTC",
+  "as_of": "2026-08-02 00:11 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The housing market defies expectations even with higher rates",
+      "link": "https://www.housingwire.com/articles/the-housing-market-defies-expectations-even-with-higher-rates/",
+      "published": "Sat, 01 Aug 2026"
+    },
+    {
       "title": "AI’s housing impact is strong — but highly localized",
       "link": "https://www.housingwire.com/articles/ais-housing-impact-is-strong-but-highly-localized/",
       "published": "Fri, 31 Jul 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Who decides where listings show up, Zillow, Compass or the MLS?",
       "link": "https://www.housingwire.com/articles/listing-access-standards-mred-zillow-compass/",
-      "published": "Fri, 31 Jul 2026"
-    },
-    {
-      "title": "How Compass used technology to chart its course to the top",
-      "link": "https://www.housingwire.com/articles/compass-ai-assistant-home-platform-2/",
       "published": "Fri, 31 Jul 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "The housing market defies expectations even with higher rates",
+        "url": "https://www.housingwire.com/articles/the-housing-market-defies-expectations-even-with-higher-rates/",
+        "what": "Last week, as the 10-year yield hit 4.74%, weekly pending sales rose to 69,109 and while inventory increased to 872,932.",
+        "numbers": "10, 4.74, 69,109, 872,932.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-housing-market-defies-expectations-even-with-higher-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Regulators move to narrow CRA, drawing fire from advocates",
         "url": "https://www.housingwire.com/articles/cra-proposal-asset-thresholds/",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/ai-real-estate-listing-pitch/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "NEXA’s Mike Kortas criticizes loanDepot, pitches LOs to switch companies amid ongoing lawsuit",
-        "url": "https://www.housingwire.com/articles/nexa-loandepot-los/",
-        "what": "NEXA CEO Mike Kortas used a Facebook post to recruit loanDepot loan officers, criticizing loanDepot results and citing share price declines.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nexa-loandepot-los/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ]
   }
