@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-03 03:55 UTC",
+  "as_of": "2026-08-03 07:45 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "AI is changing what it takes to be a great real estate agent. Here’s what matters now.",
+      "link": "https://www.housingwire.com/articles/real-estate-agent-ai-productivity/",
+      "published": "Mon, 03 Aug 2026"
+    },
+    {
+      "title": "Congress finally acted on housing. Now the real work begins.",
+      "link": "https://www.housingwire.com/articles/road-housing-act-next-steps/",
+      "published": "Mon, 03 Aug 2026"
+    },
+    {
       "title": "The housing market defies expectations even with higher rates",
       "link": "https://www.housingwire.com/articles/the-housing-market-defies-expectations-even-with-higher-rates/",
       "published": "Sat, 01 Aug 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Regulators move to narrow CRA, drawing fire from advocates",
       "link": "https://www.housingwire.com/articles/cra-proposal-asset-thresholds/",
-      "published": "Fri, 31 Jul 2026"
-    },
-    {
-      "title": "Retired judges challenge Tuccori opt-in commission suit settlements",
-      "link": "https://www.housingwire.com/articles/tuccori-opt-in-amicus-brief/",
-      "published": "Fri, 31 Jul 2026"
-    },
-    {
-      "title": "Who decides where listings show up, Zillow, Compass or the MLS?",
-      "link": "https://www.housingwire.com/articles/listing-access-standards-mred-zillow-compass/",
       "published": "Fri, 31 Jul 2026"
     },
     {
@@ -277,6 +277,15 @@
     ],
     "housing": [
       {
+        "title": "Congress finally acted on housing. Now the real work begins.",
+        "url": "https://www.housingwire.com/articles/road-housing-act-next-steps/",
+        "what": "Congress enacted the 21st Century ROAD to Housing Act to reduce regulatory barriers and encourage local zoning reform",
+        "numbers": "21",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/road-housing-act-next-steps/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "AI’s housing impact is strong — but highly localized",
         "url": "https://www.housingwire.com/articles/ais-housing-impact-is-strong-but-highly-localized/",
         "what": "While more than 40% of listings nationally are seeing price cuts, some AI hubs",
@@ -284,15 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/ais-housing-impact-is-strong-but-highly-localized/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "ICE posts strongest quarter for mortgage tech since 2022",
-        "url": "https://www.housingwire.com/articles/ice-mortgage-tech-557m-q2/",
-        "what": "ICE Mortgage Technology posted $557 million in Q2 2026 revenue, up 5% year over year, with $45 million in operating income and an 8% margin.",
-        "numbers": "$557 million, 2, 2026, 5, $45 million, 8",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-mortgage-tech-557m-q2/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "40 Redfin Agents Earn Top Honors in Chicago Magazine’s Latest Ranking of Chicago’s Top Real Estate Agents",
@@ -324,6 +324,15 @@
     ],
     "notables": [
       {
+        "title": "AI is changing what it takes to be a great real estate agent. Here’s what matters now.",
+        "url": "https://www.housingwire.com/articles/real-estate-agent-ai-productivity/",
+        "what": "AI is reducing routine agent tasks like follow-up, summaries and marketing",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-agent-ai-productivity/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Green Brick seizes a margin edge as a land and product outlier",
         "url": "https://www.housingwire.com/articles/green-brick-partners-q2-2026-earnings/",
         "what": "Green Brick Partners posted a 29.8% Q2 gross margin, up 900 basis points, as the Trophy Signature Homes brand keeps growing.",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/compass-ai-assistant-home-platform-2/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Every real estate agent has AI now, how sellers spot real expertise",
-        "url": "https://www.housingwire.com/articles/ai-real-estate-listing-pitch/",
-        "what": "As AI polishes listing pitches, sellers can focus on pricing rationale, buyer targeting and contingency planning to pick agents.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-real-estate-listing-pitch/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
