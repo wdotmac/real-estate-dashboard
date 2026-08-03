@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-08-03 19:57 UTC",
+  "as_of": "2026-08-03 21:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.68,
-      "delta_bp_1d": 0.9999999999999787
+      "yield_pct": 4.75,
+      "delta_bp_1d": 7.000000000000028
     },
     "mortgage_30y": {
       "rate_pct": 6.66,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Vishal Garg steps down at Better, board names Daniel Lewis interim CEO",
+      "link": "https://www.housingwire.com/articles/better-lewis-interim-ceo-q2-2026/",
+      "published": "Mon, 03 Aug 2026"
+    },
+    {
+      "title": "FOA leads July HECM endorsements while HMBS issuance remains weak",
+      "link": "https://www.housingwire.com/articles/foa-hecm-hmbs-july/",
+      "published": "Mon, 03 Aug 2026"
+    },
+    {
+      "title": "Why Builders FirstSource bought ICG; and why Pulte sold it",
+      "link": "https://www.housingwire.com/articles/why-builders-firstsource-bought-icg-and-why-pulte-sold-it/",
+      "published": "Mon, 03 Aug 2026"
+    },
+    {
+      "title": "Dream Finders adds Rick Beckwitt as Beazer bid heats up",
+      "link": "https://www.housingwire.com/articles/beckwitt-joins-dfh-beazer/",
+      "published": "Mon, 03 Aug 2026"
+    },
+    {
       "title": "Social Security 2100 Act seeks higher benefits, long-term program solvency",
       "link": "https://www.housingwire.com/articles/social-security-2100-act-seeks-higher-benefits-long-term-program-solvency/",
       "published": "Mon, 03 Aug 2026"
@@ -147,26 +167,6 @@
     {
       "title": "OriginPoint adds $165M Halliday-Levin team to boost West Coast mortgage presence",
       "link": "https://www.housingwire.com/articles/originpoint-hires-erin-halliday-jon-levin-team-from-new-american-funding/",
-      "published": "Mon, 03 Aug 2026"
-    },
-    {
-      "title": "JPMorgan Chase plots $750B housing push to fund 1M affordable units",
-      "link": "https://www.housingwire.com/articles/chase-mortgage-purchase-expansion/",
-      "published": "Mon, 03 Aug 2026"
-    },
-    {
-      "title": "Taylor Larza to lead new PulteGroup Florida Panhandle division",
-      "link": "https://www.housingwire.com/articles/pultegroup-new-florida-panhandle-division/",
-      "published": "Mon, 03 Aug 2026"
-    },
-    {
-      "title": "Borrowers sue LGI Homes and loanDepot, alleging deceptive sales scheme",
-      "link": "https://www.housingwire.com/articles/lgi-loandepot-class-action/",
-      "published": "Mon, 03 Aug 2026"
-    },
-    {
-      "title": "Introducing the 2026 HousingWire Insiders",
-      "link": "https://www.housingwire.com/articles/introducing-the-2026-housingwire-insiders/",
       "published": "Mon, 03 Aug 2026"
     },
     {
@@ -232,6 +232,24 @@
     ],
     "housing": [
       {
+        "title": "FOA leads July HECM endorsements while HMBS issuance remains weak",
+        "url": "https://www.housingwire.com/articles/foa-hecm-hmbs-july/",
+        "what": "Home Equity Conversion Mortgage endorsement declined in July after an uptick in June, while HECM Mortgage-Backed Securities issuance remained near the lowest levels seen since 2009",
+        "numbers": "2009,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/foa-hecm-hmbs-july/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Why Builders FirstSource bought ICG; and why Pulte sold it",
+        "url": "https://www.housingwire.com/articles/why-builders-firstsource-bought-icg-and-why-pulte-sold-it/",
+        "what": "The Innovative Construction Group (ICG) deal frees up capital and eliminates the risk of factory ownership for PulteGroup, while Builders FirstSource will add off-site capacity and",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-builders-firstsource-bought-icg-and-why-pulte-sold-it/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "OriginPoint adds $165M Halliday-Levin team to boost West Coast mortgage presence",
         "url": "https://www.housingwire.com/articles/originpoint-hires-erin-halliday-jon-levin-team-from-new-american-funding/",
         "what": "Chicago-based mortgage lender OriginPoint has hired top-producing loan officers Erin Halliday and Jon Levin from New American Funding, where they operated as a high-volume producti",
@@ -268,24 +286,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Atlantic Coast Mortgage names Keith Cross SVP of builder relations",
-        "url": "https://www.housingwire.com/articles/atlantic-coast-mortgage-keith-cross/",
-        "what": "Atlantic Coast Mortgage hires Keith Cross as SVP of builder relations to deepen builder partnerships across 42 states and D.C.",
-        "numbers": "42",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/atlantic-coast-mortgage-keith-cross/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Compass claims a $5,590 Zillow tax, but the maths not mathing",
-        "url": "https://www.housingwire.com/articles/compass-zillow-tax-claim/",
-        "what": "Compass found Zillow listings sold at 98.7% of asking vs 100% for banned homes, but list price is agent set, not a value baseline.",
-        "numbers": "98.7, 100",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-zillow-tax-claim/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
         "title": "40 Redfin Agents Earn Top Honors in Chicago Magazine’s Latest Ranking of Chicago’s Top Real Estate Agents",
         "url": "https://www.redfin.com/news/redfin-agents-chicago-magazine-2026-real-estate-agent-ranking/",
         "what": "Cheers to the 40 Redfin agents who were recognized in the Chicago Magazine‘s annual ranking of the metro area’s top real estate professionals",
@@ -315,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "Vishal Garg steps down at Better, board names Daniel Lewis interim CEO",
+        "url": "https://www.housingwire.com/articles/better-lewis-interim-ceo-q2-2026/",
+        "what": "Better Home & Finance Holding Co",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-lewis-interim-ceo-q2-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Dream Finders adds Rick Beckwitt as Beazer bid heats up",
+        "url": "https://www.housingwire.com/articles/beckwitt-joins-dfh-beazer/",
+        "what": "Dream Finders Homes’ 2026 quest to acquire Beazer Homes has focused mostly on the target’s financial and operational underperformance",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/beckwitt-joins-dfh-beazer/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Social Security 2100 Act seeks higher benefits, long-term program solvency",
         "url": "https://www.housingwire.com/articles/social-security-2100-act-seeks-higher-benefits-long-term-program-solvency/",
         "what": "The bill would increase the basic benefit formula, providing a modest across-the-board boost for beneficiaries from 2027 through 2036.",
@@ -329,24 +347,6 @@
         "what": "PulteGroup announced on Monday that it has established a new division in the Florida panhandle",
         "numbers": "2,653, 2027.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/pultegroup-new-florida-panhandle-division/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "RealAnalytica launches AI workforce for real estate",
-        "url": "https://www.housingwire.com/articles/realanalytica-launches-ai-workforce-for-real-estate/",
-        "what": "The platform connects CRM, MLS, email, tax data, marketing, recruiting, analytics, e-signature and transaction management tools.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realanalytica-launches-ai-workforce-for-real-estate/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "American Real Estate Association targets advocacy growth as membership climbs toward 100,000",
-        "url": "https://www.housingwire.com/articles/ara-board-membership-growth/",
-        "what": "ARA expands its board and membership, adding REMAX leaders and extending complimentary memberships through 2027 at company-owned firms.",
-        "numbers": "2027",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ara-board-membership-growth/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
