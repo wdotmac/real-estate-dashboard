@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-03 11:43 UTC",
+  "as_of": "2026-08-03 15:15 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Compass claims a $5,590 Zillow tax, but the maths not mathing",
+      "link": "https://www.housingwire.com/articles/compass-zillow-tax-claim/",
+      "published": "Mon, 03 Aug 2026"
+    },
+    {
+      "title": "Two Harbors says one approval still pending in CCM deal, updates stub dividend formula",
+      "link": "https://www.housingwire.com/articles/two-harbors-stub-dividend-recalculated/",
+      "published": "Mon, 03 Aug 2026"
+    },
+    {
+      "title": "Kelley Blue Book Homes rolls out consumer home valuations",
+      "link": "https://www.housingwire.com/articles/kelley-blue-book-homes-valuation/",
+      "published": "Mon, 03 Aug 2026"
+    },
+    {
+      "title": "Adwerx integrates with Canva for real estate digital ads",
+      "link": "https://www.housingwire.com/articles/adwerx-canva-integration-ads/",
+      "published": "Mon, 03 Aug 2026"
+    },
+    {
       "title": "Supreme Lending’s John Luddy says reverse mortgages are better positioned than ever",
       "link": "https://www.housingwire.com/articles/reverse-mortgage-market-luddy/",
       "published": "Mon, 03 Aug 2026"
@@ -148,26 +168,6 @@
       "title": "AI is changing what it takes to be a great real estate agent. Here’s what matters now.",
       "link": "https://www.housingwire.com/articles/real-estate-agent-ai-productivity/",
       "published": "Mon, 03 Aug 2026"
-    },
-    {
-      "title": "Congress finally acted on housing. Now the real work begins.",
-      "link": "https://www.housingwire.com/articles/road-housing-act-next-steps/",
-      "published": "Mon, 03 Aug 2026"
-    },
-    {
-      "title": "The housing market defies expectations even with higher rates",
-      "link": "https://www.housingwire.com/articles/the-housing-market-defies-expectations-even-with-higher-rates/",
-      "published": "Sat, 01 Aug 2026"
-    },
-    {
-      "title": "AI’s housing impact is strong — but highly localized",
-      "link": "https://www.housingwire.com/articles/ais-housing-impact-is-strong-but-highly-localized/",
-      "published": "Fri, 31 Jul 2026"
-    },
-    {
-      "title": "Green Brick seizes a margin edge as a land and product outlier",
-      "link": "https://www.housingwire.com/articles/green-brick-partners-q2-2026-earnings/",
-      "published": "Fri, 31 Jul 2026"
     },
     {
       "title": "Homebuying Demand Slows As Mortgage Rates Hit Highest Level in a Year",
@@ -203,38 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Adwerx integrates with Canva for real estate digital ads",
+        "url": "https://www.housingwire.com/articles/adwerx-canva-integration-ads/",
+        "what": "Adwerx launched a Canva integration Monday, letting agents move finished designs into targeted ad campaigns without downloads.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/adwerx-canva-integration-ads/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "The housing market defies expectations even with higher rates",
         "url": "https://www.housingwire.com/articles/the-housing-market-defies-expectations-even-with-higher-rates/",
         "what": "Last week, as the 10-year yield hit 4.74%, weekly pending sales rose to 69,109 and while inventory increased to 872,932.",
         "numbers": "10, 4.74, 69,109, 872,932.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/the-housing-market-defies-expectations-even-with-higher-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Regulators move to narrow CRA, drawing fire from advocates",
-        "url": "https://www.housingwire.com/articles/cra-proposal-asset-thresholds/",
-        "what": "Federal banking regulators released a Community Reinvestment Act (CRA) proposal Friday that narrows how banks earn credit for community development while raising asset thresholds f",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cra-proposal-asset-thresholds/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Retired judges challenge Tuccori opt-in commission suit settlements",
-        "url": "https://www.housingwire.com/articles/tuccori-opt-in-amicus-brief/",
-        "what": "Four retired federal judges filed an amicus brief urging the Seventh Circuit to allow Batton plaintiffs to intervene in Tuccori.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tuccori-opt-in-amicus-brief/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Who decides where listings show up, Zillow, Compass or the MLS?",
-        "url": "https://www.housingwire.com/articles/listing-access-standards-mred-zillow-compass/",
-        "what": "Zillow, MRED and Compass argue over one-day IDX display timing and portal access as a federal judge considers an injunction.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/listing-access-standards-mred-zillow-compass/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -267,6 +249,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Compass claims a $5,590 Zillow tax, but the maths not mathing",
+        "url": "https://www.housingwire.com/articles/compass-zillow-tax-claim/",
+        "what": "Compass found Zillow listings sold at 98.7% of asking vs 100% for banned homes, but list price is agent set, not a value baseline.",
+        "numbers": "98.7, 100",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-zillow-tax-claim/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Two Harbors says one approval still pending in CCM deal, updates stub dividend formula",
+        "url": "https://www.housingwire.com/articles/two-harbors-stub-dividend-recalculated/",
+        "what": "Two Harbors Investment Corp",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/two-harbors-stub-dividend-recalculated/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Supreme Lending’s John Luddy says reverse mortgages are better positioned than ever",
         "url": "https://www.housingwire.com/articles/reverse-mortgage-market-luddy/",
@@ -324,6 +324,15 @@
     ],
     "notables": [
       {
+        "title": "Kelley Blue Book Homes rolls out consumer home valuations",
+        "url": "https://www.housingwire.com/articles/kelley-blue-book-homes-valuation/",
+        "what": "Kelley Blue Book Homes launched a consumer home valuation platform in 11 states, aiming for nationwide coverage by early 2027.",
+        "numbers": "11, 2027.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kelley-blue-book-homes-valuation/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "AI is changing what it takes to be a great real estate agent. Here’s what matters now.",
         "url": "https://www.housingwire.com/articles/real-estate-agent-ai-productivity/",
         "what": "AI is reducing routine agent tasks like follow-up, summaries and marketing",
@@ -338,15 +347,6 @@
         "what": "Green Brick Partners posted a 29.8% Q2 gross margin, up 900 basis points, as the Trophy Signature Homes brand keeps growing.",
         "numbers": "29.8, 2, 900",
         "justified": "housingwire.com — https://www.housingwire.com/articles/green-brick-partners-q2-2026-earnings/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How Compass used technology to chart its course to the top",
-        "url": "https://www.housingwire.com/articles/compass-ai-assistant-home-platform-2/",
-        "what": "Compass says its AI Assistant connects to 90+ tools as Home Platform rolls out to Anywhere firms, with franchise access planned for 2027.",
-        "numbers": "90, 2027.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-ai-assistant-home-platform-2/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
