@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-03 07:45 UTC",
+  "as_of": "2026-08-03 11:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Supreme Lending’s John Luddy says reverse mortgages are better positioned than ever",
+      "link": "https://www.housingwire.com/articles/reverse-mortgage-market-luddy/",
+      "published": "Mon, 03 Aug 2026"
+    },
+    {
       "title": "AI is changing what it takes to be a great real estate agent. Here’s what matters now.",
       "link": "https://www.housingwire.com/articles/real-estate-agent-ai-productivity/",
       "published": "Mon, 03 Aug 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Green Brick seizes a margin edge as a land and product outlier",
       "link": "https://www.housingwire.com/articles/green-brick-partners-q2-2026-earnings/",
-      "published": "Fri, 31 Jul 2026"
-    },
-    {
-      "title": "Regulators move to narrow CRA, drawing fire from advocates",
-      "link": "https://www.housingwire.com/articles/cra-proposal-asset-thresholds/",
       "published": "Fri, 31 Jul 2026"
     },
     {
@@ -239,15 +239,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Fed hawks are on the war path, sending mortgage rates higher",
-        "url": "https://www.housingwire.com/articles/10-year-yield-fed-hawks/",
-        "what": "The 10-year yield hit 4.74% and mortgage rates rose to 6.83% as Fed hawks signaled multiple hikes and oil rose above $84.",
-        "numbers": "10, 4.74, 6.83, $84.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/10-year-yield-fed-hawks/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Homebuying Demand Slows As Mortgage Rates Hit Highest Level in a Year",
         "url": "https://www.redfin.com/news/housing-market-update-demand-slows-rates-hit-high-level/",
         "what": "Today’s housing market rewards patience over panic: With hundreds of thousands more sellers than buyers in the U.S., buyers in most of the country have time to peruse options and negotiate",
@@ -276,6 +267,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Supreme Lending’s John Luddy says reverse mortgages are better positioned than ever",
+        "url": "https://www.housingwire.com/articles/reverse-mortgage-market-luddy/",
+        "what": "John Luddy says reverse mortgages benefit from high home values, more product options and aging-in-place demand.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-market-luddy/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Congress finally acted on housing. Now the real work begins.",
         "url": "https://www.housingwire.com/articles/road-housing-act-next-steps/",
