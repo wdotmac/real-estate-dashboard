@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-08-04 19:55 UTC",
+  "as_of": "2026-08-04 21:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.75,
-      "delta_bp_1d": 7.000000000000028
+      "yield_pct": 4.7,
+      "delta_bp_1d": -4.999999999999982
     },
     "mortgage_30y": {
       "rate_pct": 6.66,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Canopy MLS bets on separation, names Steve Byrd its first standalone CEO",
-      "link": "https://www.housingwire.com/articles/canopy-mls-leadership-separation-byrd/",
+      "title": "Collier County private inspections fray sparks Florida turf war",
+      "link": "https://www.housingwire.com/articles/collier-private-inspections-dispute/",
       "published": "Tue, 04 Aug 2026"
     },
     {
-      "title": "Covius completes integration of Title365 operations",
-      "link": "https://www.housingwire.com/articles/covius-completes-integration-of-title365-operations/",
+      "title": "M/I Homes doubles down on specs as other builders pull back",
+      "link": "https://www.housingwire.com/articles/mi-homes-earnings-q2-2026/",
       "published": "Tue, 04 Aug 2026"
     },
     {
-      "title": "Mortgage experts call ROAD to Housing Act a starting point for improved supply, affordability",
-      "link": "https://www.housingwire.com/articles/road-to-housing-act-mortgage-provisions/",
+      "title": "Anywhere acquisition powers Compass to record revenue, stronger profits",
+      "link": "https://www.housingwire.com/articles/compass-q2-2026-revenue-anywhere/",
       "published": "Tue, 04 Aug 2026"
     },
     {
-      "title": "Home buying after Chapter 7 or Chapter 13, what real estate agents should know",
-      "link": "https://www.housingwire.com/articles/chapter-7-13-home-buying-bankruptcy/",
+      "title": "BankSouth Mortgage hires Erin Dee as chief innovation officer",
+      "link": "https://www.housingwire.com/articles/banksouth-erin-dee-innovation/",
       "published": "Tue, 04 Aug 2026"
     },
     {
-      "title": "Why some real estate agents build a following and others stay invisible",
-      "link": "https://www.housingwire.com/articles/real-estate-branding-tips-clients/",
+      "title": "Beeline expands blockchain home equity lending operations with planned TYTL acquisition",
+      "link": "https://www.housingwire.com/articles/beeline-blockchain-home-equity-loi-acquire-tytl/",
       "published": "Tue, 04 Aug 2026"
     },
     {
-      "title": "Treasury yields hit 2026 peak, but spreads keep mortgage rates below 7%",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-692-applications/",
+      "title": "Former FHA chief Frank Cassidy on JPMorgan Chase housing pledge",
+      "link": "https://www.housingwire.com/articles/former-fha-chief-frank-cassidy-on-jpmorgan-chase-housing-pledge/",
       "published": "Tue, 04 Aug 2026"
     },
     {
@@ -203,22 +203,13 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Treasury yields hit 2026 peak, but spreads keep mortgage rates below 7%",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-692-applications/",
-        "what": "Rising mortgage rates have impacted the summer homebuying season and have been cited by at least one major lender as a key reason for recent layoffs",
+        "title": "Former FHA chief Frank Cassidy on JPMorgan Chase housing pledge",
+        "url": "https://www.housingwire.com/articles/former-fha-chief-frank-cassidy-on-jpmorgan-chase-housing-pledge/",
+        "what": "Former FHA Commissioner Frank Cassidy said the initiative reflects a growing recognition of housing as critical economic infrastructure.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-692-applications/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Rechat integrates with ChatGPT, Claude",
-        "url": "https://www.housingwire.com/articles/rechat-integrates-with-chatgpt-claude/",
-        "what": "Rechat's MCP Server lets agents use AI assistants to complete tasks tied to their business data, including contacts, deals and campaigns.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rechat-integrates-with-chatgpt-claude/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/former-fha-chief-frank-cassidy-on-jpmorgan-chase-housing-pledge/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Expect Mortgage-Rate Volatility as Oil Prices Drop on Hopes of Iran Peace Talks Ahead of This Week’s Jobs Report",
@@ -250,6 +241,33 @@
     ],
     "housing": [
       {
+        "title": "Collier County private inspections fray sparks Florida turf war",
+        "url": "https://www.housingwire.com/articles/collier-private-inspections-dispute/",
+        "what": "Florida’s new push to accelerate homebuilding is hitting up a familiar wall of resistance in the Naples area: local resistance",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/collier-private-inspections-dispute/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "M/I Homes doubles down on specs as other builders pull back",
+        "url": "https://www.housingwire.com/articles/mi-homes-earnings-q2-2026/",
+        "what": "M/I Homes kept spec homes at 78% of Q2 sales, driving 2,387 closings, up 15%, as gross margin slipped to 22.0%.",
+        "numbers": "78, 2, 2,387, 15, 22.0",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mi-homes-earnings-q2-2026/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "BankSouth Mortgage hires Erin Dee as chief innovation officer",
+        "url": "https://www.housingwire.com/articles/banksouth-erin-dee-innovation/",
+        "what": "BankSouth Mortgage appoints Erin Dee as SVP and chief innovation officer, focusing on AI and operations as its targets $2B in production.",
+        "numbers": "$2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/banksouth-erin-dee-innovation/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage experts call ROAD to Housing Act a starting point for improved supply, affordability",
         "url": "https://www.housingwire.com/articles/road-to-housing-act-mortgage-provisions/",
         "what": "Trade groups say the ROAD to Housing Act is a good starting framework, with impacts tied to FHA pilots and manufactured housing changes.",
@@ -257,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/road-to-housing-act-mortgage-provisions/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Zillow to lay off 500 staff in restructuring",
-        "url": "https://www.housingwire.com/articles/zillow-layoffs-restructuring-500/",
-        "what": "Zillow will lay off just over 500 employees in a restructuring ahead of Q2 2026 earnings after Q1 revenue rose 18% to $708M.",
-        "numbers": "500, 2, 2026, 1, 18, $708",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-layoffs-restructuring-500/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Brooklyn’s Park Slope Tops Redfin’s Hottest Luxury Neighborhoods of 2026",
@@ -278,6 +287,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "Anywhere acquisition powers Compass to record revenue, stronger profits",
+        "url": "https://www.housingwire.com/articles/compass-q2-2026-revenue-anywhere/",
+        "what": "Compass reported Q2 2026 revenue of $4.3B, net income of $92M, and $180M free cash flow, boosted by Anywhere.",
+        "numbers": "2, 2026, $4.3, $92, $180",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-q2-2026-revenue-anywhere/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Beeline expands blockchain home equity lending operations with planned TYTL acquisition",
+        "url": "https://www.housingwire.com/articles/beeline-blockchain-home-equity-loi-acquire-tytl/",
+        "what": "Beeline Holdings announced Tuesday that it has signed a nonbinding letter of intent to acquire TYTL Corp., a blockchain-based home equity platform, in an all-stock deal aimed at cr",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/beeline-blockchain-home-equity-loi-acquire-tytl/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Canopy MLS bets on separation, names Steve Byrd its first standalone CEO",
         "url": "https://www.housingwire.com/articles/canopy-mls-leadership-separation-byrd/",
@@ -302,33 +329,6 @@
         "what": "Learn how agents can guide buyers after Chapter 7 or 13, start with a lender, confirm timelines, and avoid new debt before closing.",
         "numbers": "7, 13,",
         "justified": "housingwire.com — https://www.housingwire.com/articles/chapter-7-13-home-buying-bankruptcy/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Why some real estate agents build a following and others stay invisible",
-        "url": "https://www.housingwire.com/articles/real-estate-branding-tips-clients/",
-        "what": "Learn how agents build trust before first contact using a clear niche, consistent voice, and educational content that drives referrals.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-branding-tips-clients/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "East Tennessee Realtors modernizes MLS data distribution with SourceRE",
-        "url": "https://www.housingwire.com/articles/east-tennessee-realtors-modernizes-mls-data-distribution-with-sourcere/",
-        "what": "East Tennessee Realtors will use SourceRE Marketplace and Data Dye to manage MLS licensing, billing, and detect unauthorized listing use.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/east-tennessee-realtors-modernizes-mls-data-distribution-with-sourcere/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Real estate team hiring, why role fit matters more than talent",
-        "url": "https://www.housingwire.com/articles/hire-first-real-estate-admin/",
-        "what": "A team leader explains why her first hire failed, and why hiring an admin earlier plus assessments supported $65.5 million in 2025.",
-        "numbers": "$65.5 million, 2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hire-first-real-estate-admin/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
