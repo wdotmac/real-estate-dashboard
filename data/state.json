@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-04 21:35 UTC",
+  "as_of": "2026-08-04 23:17 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Agent productivity drives record quarter for AGNT, eXp Realty",
+      "link": "https://www.housingwire.com/articles/agent-productivity-drives-record-quarter-for-agnt-exp-realty/",
+      "published": "Tue, 04 Aug 2026"
+    },
+    {
+      "title": "Finance of America grows reverse mortgage volume despite Q2 net loss of $29M",
+      "link": "https://www.housingwire.com/articles/finance-of-america-q2-2026-earnings-reverse-mortgage/",
+      "published": "Tue, 04 Aug 2026"
+    },
+    {
+      "title": "loanDepot narrows Q2 net loss as home equity lifts margins",
+      "link": "https://www.housingwire.com/articles/loandepot-narrows-q2-net-loss-as-home-equity-lifts-margins/",
+      "published": "Tue, 04 Aug 2026"
+    },
+    {
       "title": "Collier County private inspections fray sparks Florida turf war",
       "link": "https://www.housingwire.com/articles/collier-private-inspections-dispute/",
       "published": "Tue, 04 Aug 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Anywhere acquisition powers Compass to record revenue, stronger profits",
       "link": "https://www.housingwire.com/articles/compass-q2-2026-revenue-anywhere/",
-      "published": "Tue, 04 Aug 2026"
-    },
-    {
-      "title": "BankSouth Mortgage hires Erin Dee as chief innovation officer",
-      "link": "https://www.housingwire.com/articles/banksouth-erin-dee-innovation/",
-      "published": "Tue, 04 Aug 2026"
-    },
-    {
-      "title": "Beeline expands blockchain home equity lending operations with planned TYTL acquisition",
-      "link": "https://www.housingwire.com/articles/beeline-blockchain-home-equity-loi-acquire-tytl/",
-      "published": "Tue, 04 Aug 2026"
-    },
-    {
-      "title": "Former FHA chief Frank Cassidy on JPMorgan Chase housing pledge",
-      "link": "https://www.housingwire.com/articles/former-fha-chief-frank-cassidy-on-jpmorgan-chase-housing-pledge/",
       "published": "Tue, 04 Aug 2026"
     },
     {
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "Finance of America grows reverse mortgage volume despite Q2 net loss of $29M",
+        "url": "https://www.housingwire.com/articles/finance-of-america-q2-2026-earnings-reverse-mortgage/",
+        "what": "Finance of America Companies Inc",
+        "numbers": "21, 2026,, $29 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/finance-of-america-q2-2026-earnings-reverse-mortgage/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Collier County private inspections fray sparks Florida turf war",
         "url": "https://www.housingwire.com/articles/collier-private-inspections-dispute/",
         "what": "Florida’s new push to accelerate homebuilding is hitting up a familiar wall of resistance in the Naples area: local resistance",
@@ -268,15 +277,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage experts call ROAD to Housing Act a starting point for improved supply, affordability",
-        "url": "https://www.housingwire.com/articles/road-to-housing-act-mortgage-provisions/",
-        "what": "Trade groups say the ROAD to Housing Act is a good starting framework, with impacts tied to FHA pilots and manufactured housing changes.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/road-to-housing-act-mortgage-provisions/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Brooklyn’s Park Slope Tops Redfin’s Hottest Luxury Neighborhoods of 2026",
         "url": "https://www.redfin.com/news/hottest-luxury-neighborhoods-2026/",
         "what": "Highland Park, IL and Overland Park, KS round out the top three",
@@ -287,6 +287,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "Agent productivity drives record quarter for AGNT, eXp Realty",
+        "url": "https://www.housingwire.com/articles/agent-productivity-drives-record-quarter-for-agnt-exp-realty/",
+        "what": "The company reported $1.4 billion in second-quarter revenue, an 11% increase from the same period a year earlier.",
+        "numbers": "$1.4 billion, 11",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/agent-productivity-drives-record-quarter-for-agnt-exp-realty/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "loanDepot narrows Q2 net loss as home equity lifts margins",
+        "url": "https://www.housingwire.com/articles/loandepot-narrows-q2-net-loss-as-home-equity-lifts-margins/",
+        "what": "loanDepot cut its Q2 net loss to $6.6M as revenue rose 18% to $337.3M and originations increased 4% to nearly $8B.",
+        "numbers": "2, $6.6, 18, $337.3, 4, $8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/loandepot-narrows-q2-net-loss-as-home-equity-lifts-margins/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Anywhere acquisition powers Compass to record revenue, stronger profits",
         "url": "https://www.housingwire.com/articles/compass-q2-2026-revenue-anywhere/",
@@ -311,24 +329,6 @@
         "what": "Canopy MLS named Steve Byrd CEO and split MLS and association roles to sharpen focus on technology delivery and member advocacy.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/canopy-mls-leadership-separation-byrd/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Covius completes integration of Title365 operations",
-        "url": "https://www.housingwire.com/articles/covius-completes-integration-of-title365-operations/",
-        "what": "The integration combines Title365's existing teams and technology with Covius's legacy title business, creating a single platform.",
-        "numbers": "365",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/covius-completes-integration-of-title365-operations/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Home buying after Chapter 7 or Chapter 13, what real estate agents should know",
-        "url": "https://www.housingwire.com/articles/chapter-7-13-home-buying-bankruptcy/",
-        "what": "Learn how agents can guide buyers after Chapter 7 or 13, start with a lender, confirm timelines, and avoid new debt before closing.",
-        "numbers": "7, 13,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/chapter-7-13-home-buying-bankruptcy/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
