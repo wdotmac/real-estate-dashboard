@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-04 06:40 UTC",
+  "as_of": "2026-08-04 09:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The missing piece of America’s new housing strategy",
+      "link": "https://www.housingwire.com/articles/resilient-housing-affordability/",
+      "published": "Tue, 04 Aug 2026"
+    },
+    {
+      "title": "Opinion: Why 20% down has become the exception in commercial real estate",
+      "link": "https://www.housingwire.com/articles/cre-dscr-down-payments/",
+      "published": "Tue, 04 Aug 2026"
+    },
+    {
+      "title": "An emerging source of affordable housing supply",
+      "link": "https://www.housingwire.com/articles/foreclosure-auction-affordable-supply/",
+      "published": "Tue, 04 Aug 2026"
+    },
+    {
       "title": "Jim D’Amico joins Corcoran Premier Realty as part owner",
       "link": "https://www.housingwire.com/articles/jim-damico-corcoran-premier-owner/",
       "published": "Mon, 03 Aug 2026"
@@ -152,21 +167,6 @@
     {
       "title": "FOA leads July HECM endorsements while HMBS issuance remains weak",
       "link": "https://www.housingwire.com/articles/foa-hecm-hmbs-july/",
-      "published": "Mon, 03 Aug 2026"
-    },
-    {
-      "title": "Why Builders FirstSource bought ICG; and why Pulte sold it",
-      "link": "https://www.housingwire.com/articles/why-builders-firstsource-bought-icg-and-why-pulte-sold-it/",
-      "published": "Mon, 03 Aug 2026"
-    },
-    {
-      "title": "Dream Finders adds Rick Beckwitt as Beazer bid heats up",
-      "link": "https://www.housingwire.com/articles/beckwitt-joins-dfh-beazer/",
-      "published": "Mon, 03 Aug 2026"
-    },
-    {
-      "title": "Social Security 2100 Act seeks higher benefits, long-term program solvency",
-      "link": "https://www.housingwire.com/articles/social-security-2100-act-seeks-higher-benefits-long-term-program-solvency/",
       "published": "Mon, 03 Aug 2026"
     },
     {
@@ -203,6 +203,24 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Opinion: Why 20% down has become the exception in commercial real estate",
+        "url": "https://www.housingwire.com/articles/cre-dscr-down-payments/",
+        "what": "Higher interest rates raise debt service, so DSCR requirements of about 1.20 to 1.25 reduce loan proceeds even when NOI is unchanged",
+        "numbers": "1.20, 1.25, 25, 30, 20",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cre-dscr-down-payments/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "An emerging source of affordable housing supply",
+        "url": "https://www.housingwire.com/articles/foreclosure-auction-affordable-supply/",
+        "what": "Auction.com reports foreclosure auction volume rose 23% YoY in Q2 2026 as seller pricing eased, pushing sales rates higher",
+        "numbers": "23, 2, 2026, 12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/foreclosure-auction-affordable-supply/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Expect Mortgage-Rate Volatility as Oil Prices Drop on Hopes of Iran Peace Talks Ahead of This Week’s Jobs Report",
         "url": "https://www.redfin.com/news/mortgage-rates-rise-post-july-fed-meeting-july-jobs-report-looming/",
         "what": "In A Nutshell: Rates drifted higher last week following Fed Chair Warsh’s press conference and could remain volatile as oil prices drop on hopes of Iran peace talks and markets absorb the latest jobs market data",
@@ -232,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "The missing piece of America’s new housing strategy",
+        "url": "https://www.housingwire.com/articles/resilient-housing-affordability/",
+        "what": "he 21st Century ROAD to Housing Act expands supply and financing, but long-term affordability also depends on resilience",
+        "numbers": "21",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/resilient-housing-affordability/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "FOA leads July HECM endorsements while HMBS issuance remains weak",
         "url": "https://www.housingwire.com/articles/foa-hecm-hmbs-july/",
         "what": "Home Equity Conversion Mortgage endorsement declined in July after an uptick in June, while HECM Mortgage-Backed Securities issuance remained near the lowest levels seen since 2009",
@@ -255,24 +282,6 @@
         "what": "Chicago-based mortgage lender OriginPoint has hired top-producing loan officers Erin Halliday and Jon Levin from New American Funding, where they operated as a high-volume producti",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/originpoint-hires-erin-halliday-jon-levin-team-from-new-american-funding/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "JPMorgan Chase plots $750B housing push to fund 1M affordable units",
-        "url": "https://www.housingwire.com/articles/chase-mortgage-purchase-expansion/",
-        "what": "JPMorgan Chase plans to deploy more than $750 billion for housing through 2035, including financing for 1 million affordable units and help for 500,000 buyers to purchase homes.",
-        "numbers": "$750 billion, 2035,, 1 million, 500,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/chase-mortgage-purchase-expansion/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Borrowers sue LGI Homes and loanDepot, alleging deceptive sales scheme",
-        "url": "https://www.housingwire.com/articles/lgi-loandepot-class-action/",
-        "what": "Florida homebuyers have filed a class-action lawsuit accusing LGI Homes, loanDepot and their joint venture, LGI Mortgage Solutions LLC, of running an “improper home-sales scheme.”",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lgi-loandepot-class-action/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -338,15 +347,6 @@
         "what": "The bill would increase the basic benefit formula, providing a modest across-the-board boost for beneficiaries from 2027 through 2036.",
         "numbers": "2027, 2036.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/social-security-2100-act-seeks-higher-benefits-long-term-program-solvency/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Taylor Larza to lead new PulteGroup Florida Panhandle division",
-        "url": "https://www.housingwire.com/articles/pultegroup-new-florida-panhandle-division/",
-        "what": "PulteGroup announced on Monday that it has established a new division in the Florida panhandle",
-        "numbers": "2,653, 2027.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pultegroup-new-florida-panhandle-division/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
