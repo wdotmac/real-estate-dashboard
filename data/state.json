@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-04 12:18 UTC",
+  "as_of": "2026-08-04 15:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Rechat integrates with ChatGPT, Claude",
+      "link": "https://www.housingwire.com/articles/rechat-integrates-with-chatgpt-claude/",
+      "published": "Tue, 04 Aug 2026"
+    },
+    {
+      "title": "Real estate team hiring, why role fit matters more than talent",
+      "link": "https://www.housingwire.com/articles/hire-first-real-estate-admin/",
+      "published": "Tue, 04 Aug 2026"
+    },
+    {
+      "title": "Zillow to lay off 500 staff in restructuring",
+      "link": "https://www.housingwire.com/articles/zillow-layoffs-restructuring-500/",
+      "published": "Tue, 04 Aug 2026"
+    },
+    {
+      "title": "Rocket Pro August Power Play expands credits, opens Big Pitch voting",
+      "link": "https://www.housingwire.com/articles/rocket-pro-power-play-august/",
+      "published": "Tue, 04 Aug 2026"
+    },
+    {
+      "title": "Carrington completes acquisition of Valon Mortgage",
+      "link": "https://www.housingwire.com/articles/carrington-acquires-valon-mortgage/",
+      "published": "Tue, 04 Aug 2026"
+    },
+    {
       "title": "More states legalize co-living; PadSplit adds insurance for hosts",
       "link": "https://www.housingwire.com/articles/more-states-legalize-co-living-padsplit-adds-insurance-for-hosts/",
       "published": "Tue, 04 Aug 2026"
-    },
-    {
-      "title": "The missing piece of America’s new housing strategy",
-      "link": "https://www.housingwire.com/articles/resilient-housing-affordability/",
-      "published": "Tue, 04 Aug 2026"
-    },
-    {
-      "title": "Opinion: Why 20% down has become the exception in commercial real estate",
-      "link": "https://www.housingwire.com/articles/cre-dscr-down-payments/",
-      "published": "Tue, 04 Aug 2026"
-    },
-    {
-      "title": "An emerging source of affordable housing supply",
-      "link": "https://www.housingwire.com/articles/foreclosure-auction-affordable-supply/",
-      "published": "Tue, 04 Aug 2026"
-    },
-    {
-      "title": "Jim D’Amico joins Corcoran Premier Realty as part owner",
-      "link": "https://www.housingwire.com/articles/jim-damico-corcoran-premier-owner/",
-      "published": "Mon, 03 Aug 2026"
-    },
-    {
-      "title": "Vishal Garg steps down at Better, board names Daniel Lewis interim CEO",
-      "link": "https://www.housingwire.com/articles/better-lewis-interim-ceo-q2-2026/",
-      "published": "Mon, 03 Aug 2026"
     },
     {
       "title": "Brooklyn’s Park Slope Tops Redfin’s Hottest Luxury Neighborhoods of 2026",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Rechat integrates with ChatGPT, Claude",
+        "url": "https://www.housingwire.com/articles/rechat-integrates-with-chatgpt-claude/",
+        "what": "Rechat's MCP Server lets agents use AI assistants to complete tasks tied to their business data, including contacts, deals and campaigns.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rechat-integrates-with-chatgpt-claude/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Opinion: Why 20% down has become the exception in commercial real estate",
         "url": "https://www.housingwire.com/articles/cre-dscr-down-payments/",
@@ -250,6 +259,24 @@
     ],
     "housing": [
       {
+        "title": "Zillow to lay off 500 staff in restructuring",
+        "url": "https://www.housingwire.com/articles/zillow-layoffs-restructuring-500/",
+        "what": "Zillow will lay off just over 500 employees in a restructuring ahead of Q2 2026 earnings after Q1 revenue rose 18% to $708M.",
+        "numbers": "500, 2, 2026, 1, 18, $708",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-layoffs-restructuring-500/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Carrington completes acquisition of Valon Mortgage",
+        "url": "https://www.housingwire.com/articles/carrington-acquires-valon-mortgage/",
+        "what": "Carrington has completed its acquisition of Valon Mortgage, adding 810,000 loans and moving servicing to ValonOS.",
+        "numbers": "810,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/carrington-acquires-valon-mortgage/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Brooklyn’s Park Slope Tops Redfin’s Hottest Luxury Neighborhoods of 2026",
         "url": "https://www.redfin.com/news/hottest-luxury-neighborhoods-2026/",
         "what": "Highland Park, IL and Overland Park, KS round out the top three",
@@ -268,6 +295,15 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
+        "title": "The new rules of capital: Why private builders need a new growth strategy",
+        "url": "https://www.housingwire.com/articles/homebuilder-capital-strategy-2026/",
+        "what": "Private homebuilders are diversifying their capital strategies as affordability pressures, tighter credit and consolidation reshape the market.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-capital-strategy-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "The missing piece of America’s new housing strategy",
         "url": "https://www.housingwire.com/articles/resilient-housing-affordability/",
         "what": "he 21st Century ROAD to Housing Act expands supply and financing, but long-term affordability also depends on resilience",
@@ -277,24 +313,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "FOA leads July HECM endorsements while HMBS issuance remains weak",
-        "url": "https://www.housingwire.com/articles/foa-hecm-hmbs-july/",
-        "what": "Home Equity Conversion Mortgage endorsement declined in July after an uptick in June, while HECM Mortgage-Backed Securities issuance remained near the lowest levels seen since 2009",
-        "numbers": "2009,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/foa-hecm-hmbs-july/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Why Builders FirstSource bought ICG; and why Pulte sold it",
-        "url": "https://www.housingwire.com/articles/why-builders-firstsource-bought-icg-and-why-pulte-sold-it/",
-        "what": "The Innovative Construction Group (ICG) deal frees up capital and eliminates the risk of factory ownership for PulteGroup, while Builders FirstSource will add off-site capacity and",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/why-builders-firstsource-bought-icg-and-why-pulte-sold-it/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "40 Redfin Agents Earn Top Honors in Chicago Magazine’s Latest Ranking of Chicago’s Top Real Estate Agents",
         "url": "https://www.redfin.com/news/redfin-agents-chicago-magazine-2026-real-estate-agent-ranking/",
         "what": "Cheers to the 40 Redfin agents who were recognized in the Chicago Magazine‘s annual ranking of the metro area’s top real estate professionals",
@@ -302,51 +320,24 @@
         "justified": "redfin.com — https://www.redfin.com/news/redfin-agents-chicago-magazine-2026-real-estate-agent-ranking/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "15% Fewer Canadians Are Searching for Homes in the U.S. Than Last Year",
-        "url": "https://www.redfin.com/news/15-fewer-canadians-us-homes/",
-        "what": "The number of Canada-based Redfin.com users searching for U.S",
-        "numbers": "15.3, 37, 45, 50, 51.8, 48.6",
-        "justified": "redfin.com — https://www.redfin.com/news/15-fewer-canadians-us-homes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
       {
-        "title": "Jim D’Amico joins Corcoran Premier Realty as part owner",
-        "url": "https://www.housingwire.com/articles/jim-damico-corcoran-premier-owner/",
-        "what": "Jim D’Amico joined Corcoran Premier Realty as a part owner",
-        "numbers": "20, $2.64, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/jim-damico-corcoran-premier-owner/",
+        "title": "Real estate team hiring, why role fit matters more than talent",
+        "url": "https://www.housingwire.com/articles/hire-first-real-estate-admin/",
+        "what": "A team leader explains why her first hire failed, and why hiring an admin earlier plus assessments supported $65.5 million in 2025.",
+        "numbers": "$65.5 million, 2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hire-first-real-estate-admin/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Vishal Garg steps down at Better, board names Daniel Lewis interim CEO",
-        "url": "https://www.housingwire.com/articles/better-lewis-interim-ceo-q2-2026/",
-        "what": "Better Home & Finance Holding Co",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-lewis-interim-ceo-q2-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Dream Finders adds Rick Beckwitt as Beazer bid heats up",
-        "url": "https://www.housingwire.com/articles/beckwitt-joins-dfh-beazer/",
-        "what": "Dream Finders Homes’ 2026 quest to acquire Beazer Homes has focused mostly on the target’s financial and operational underperformance",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/beckwitt-joins-dfh-beazer/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Social Security 2100 Act seeks higher benefits, long-term program solvency",
-        "url": "https://www.housingwire.com/articles/social-security-2100-act-seeks-higher-benefits-long-term-program-solvency/",
-        "what": "The bill would increase the basic benefit formula, providing a modest across-the-board boost for beneficiaries from 2027 through 2036.",
-        "numbers": "2027, 2036.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/social-security-2100-act-seeks-higher-benefits-long-term-program-solvency/",
+        "title": "Rocket Pro August Power Play expands credits, opens Big Pitch voting",
+        "url": "https://www.housingwire.com/articles/rocket-pro-power-play-august/",
+        "what": "Rocket Pro expanded its refinance credit to 60 bps across all refi products and extended a 60-bps purchase credit and a 40-bps Compass credit.",
+        "numbers": "60, 40",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-pro-power-play-august/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
