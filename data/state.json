@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-05 09:48 UTC",
+  "as_of": "2026-08-05 12:15 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "If AI answers replace clicks, your listings data becomes your marketing",
+      "link": "https://www.housingwire.com/articles/google-business-profile-ai-search/",
+      "published": "Wed, 05 Aug 2026"
+    },
+    {
       "title": "When the house burns down, someone has to show up",
       "link": "https://www.housingwire.com/articles/hud-california-wildfire-recovery-delay/",
       "published": "Wed, 05 Aug 2026"
@@ -165,9 +170,14 @@
       "published": "Tue, 04 Aug 2026"
     },
     {
-      "title": "Collier County private inspections fray sparks Florida turf war",
-      "link": "https://www.housingwire.com/articles/collier-private-inspections-dispute/",
-      "published": "Tue, 04 Aug 2026"
+      "title": "First-Time Buyers Catch a Break As Affordability For U.S. Starter Homes Improves Slightly Faster Than Overall Market",
+      "link": "https://www.redfin.com/news/starter-home-affordability-improving-2026/",
+      "published": "Wed, 05 Aug 2026"
+    },
+    {
+      "title": "The Income Needed to Afford Typical American Home Holds Steady Near Record High of $110,000",
+      "link": "https://www.redfin.com/news/affordability-homebuying-2026/",
+      "published": "Wed, 05 Aug 2026"
     },
     {
       "title": "Brooklyn’s Park Slope Tops Redfin’s Hottest Luxury Neighborhoods of 2026",
@@ -188,16 +198,6 @@
       "title": "Mortgage Rates Likely to Hold Stead Steady Following July Fed Meeting, But Uncertainty Looms as Fall Approaches",
       "link": "https://www.redfin.com/news/kevin-warsh-fed-meeting-july-2026/",
       "published": "Wed, 29 Jul 2026"
-    },
-    {
-      "title": "40 Redfin Agents Earn Top Honors in Chicago Magazine’s Latest Ranking of Chicago’s Top Real Estate Agents",
-      "link": "https://www.redfin.com/news/redfin-agents-chicago-magazine-2026-real-estate-agent-ranking/",
-      "published": "Tue, 28 Jul 2026"
-    },
-    {
-      "title": "15% Fewer Canadians Are Searching for Homes in the U.S. Than Last Year",
-      "link": "https://www.redfin.com/news/15-fewer-canadians-us-homes/",
-      "published": "Tue, 28 Jul 2026"
     }
   ],
   "feed_101020": {
@@ -240,6 +240,33 @@
       }
     ],
     "housing": [
+      {
+        "title": "First-Time Buyers Catch a Break As Affordability For U.S. Starter Homes Improves Slightly Faster Than Overall Market",
+        "url": "https://www.redfin.com/news/starter-home-affordability-improving-2026/",
+        "what": "Starter-home affordability is improving: The income needed to afford a typical U.S",
+        "numbers": "1.5, 0.5",
+        "justified": "redfin.com — https://www.redfin.com/news/starter-home-affordability-improving-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "The Income Needed to Afford Typical American Home Holds Steady Near Record High of $110,000",
+        "url": "https://www.redfin.com/news/affordability-homebuying-2026/",
+        "what": "Housing costs keep rising, but so do incomes, leaving the income required to afford a home largely unchanged from last year’s record high",
+        "numbers": "$22,000, $26,000, $29,000, $110,000",
+        "justified": "redfin.com — https://www.redfin.com/news/affordability-homebuying-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "If AI answers replace clicks, your listings data becomes your marketing",
+        "url": "https://www.housingwire.com/articles/google-business-profile-ai-search/",
+        "what": "As AI answers reduce clicks, marketers shift to AEO, prioritizing Google Business Profile completeness and cross platform NAP accuracy.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/google-business-profile-ai-search/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Finance of America grows reverse mortgage volume despite Q2 net loss of $29M",
         "url": "https://www.housingwire.com/articles/finance-of-america-q2-2026-earnings-reverse-mortgage/",
@@ -320,15 +347,6 @@
         "what": "Compass reported Q2 2026 revenue of $4.3B, net income of $92M, and $180M free cash flow, boosted by Anywhere.",
         "numbers": "2, 2026, $4.3, $92, $180",
         "justified": "housingwire.com — https://www.housingwire.com/articles/compass-q2-2026-revenue-anywhere/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Beeline expands blockchain home equity lending operations with planned TYTL acquisition",
-        "url": "https://www.housingwire.com/articles/beeline-blockchain-home-equity-loi-acquire-tytl/",
-        "what": "Beeline Holdings announced Tuesday that it has signed a nonbinding letter of intent to acquire TYTL Corp., a blockchain-based home equity platform, in an all-stock deal aimed at cr",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/beeline-blockchain-home-equity-loi-acquire-tytl/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
