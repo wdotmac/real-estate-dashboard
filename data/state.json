@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-08-05 19:54 UTC",
+  "as_of": "2026-08-05 21:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.7,
-      "delta_bp_1d": -4.999999999999982
+      "yield_pct": 4.63,
+      "delta_bp_1d": -7.000000000000028
     },
     "mortgage_30y": {
       "rate_pct": 6.66,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "What Better’s CEO swap means for its future",
-      "link": "https://www.housingwire.com/articles/better-lewis-interim-ceo-losses/",
+      "title": "Rural seniors face growing repair crisis with aging homes",
+      "link": "https://www.housingwire.com/articles/rural-seniors-face-growing-repair-crisis-with-aging-homes/",
       "published": "Wed, 05 Aug 2026"
     },
     {
-      "title": "Realtors Property Resource appoints chief strategy, product officers",
-      "link": "https://www.housingwire.com/articles/realtors-property-resource-appoints-chief-strategy-product-officers/",
+      "title": "UWM lines up record $2.05B Ishbia–Oaktree capital raise as it posts Q2 loss",
+      "link": "https://www.housingwire.com/articles/uwm-2-05b-capital-q2-loss/",
       "published": "Wed, 05 Aug 2026"
     },
     {
-      "title": "UWM’s ‘Bullseye 90’ offers 90-bps broker discount through Sept. 8",
-      "link": "https://www.housingwire.com/articles/uwm-bullseye-90-discount/",
+      "title": "NYC buildings agency inspects 180 sites, no imminent hazards",
+      "link": "https://www.housingwire.com/articles/nyc-stop-work-sweep/",
       "published": "Wed, 05 Aug 2026"
     },
     {
-      "title": "HouseMe.ai launches U.S. with direct MLS connections",
-      "link": "https://www.housingwire.com/articles/houseme-ai-us-mls/",
+      "title": "CRMLS CEO Art Carter sees more industry litigation ahead, AI blindspots",
+      "link": "https://www.housingwire.com/articles/crmls-ceo-art-carter-sees-more-industry-litigation-ahead-ai-blindspots/",
       "published": "Wed, 05 Aug 2026"
     },
     {
-      "title": "Zillow, Realtracs finalize MLS data licensing agreement",
-      "link": "https://www.housingwire.com/articles/zillow-realtracs-data-license/",
+      "title": "Zillow says its ‘Housing Super App’ strategy is working",
+      "link": "https://www.housingwire.com/articles/zillow-q2-2026-earnings/",
       "published": "Wed, 05 Aug 2026"
     },
     {
-      "title": "Exclusive: Envoy Mortgage to acquire MasonMac distributed retail assets",
-      "link": "https://www.housingwire.com/articles/envoy-masonmac-retail-assets/",
+      "title": "Zillow promotes two SVPs as Hofmann adds COO duties",
+      "link": "https://www.housingwire.com/articles/zillow-exec-changes-layoffs/",
       "published": "Wed, 05 Aug 2026"
     },
     {
@@ -219,18 +219,54 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-demand-slows-rates-hit-high-level/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage Rates Likely to Hold Stead Steady Following July Fed Meeting, But Uncertainty Looms as Fall Approaches",
-        "url": "https://www.redfin.com/news/kevin-warsh-fed-meeting-july-2026/",
-        "what": "Takeaway: Mortgage rates will largely stay the same for now as the Fed opts against hiking and says little about future plans",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/kevin-warsh-fed-meeting-july-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Rural seniors face growing repair crisis with aging homes",
+        "url": "https://www.housingwire.com/articles/rural-seniors-face-growing-repair-crisis-with-aging-homes/",
+        "what": "Older housing stock, fixed incomes, severe weather and rising costs can combine to make even basic maintenance financially out of reach.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rural-seniors-face-growing-repair-crisis-with-aging-homes/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "UWM lines up record $2.05B Ishbia–Oaktree capital raise as it posts Q2 loss",
+        "url": "https://www.housingwire.com/articles/uwm-2-05b-capital-q2-loss/",
+        "what": "UWM Holdings Corp",
+        "numbers": "$2.05 billion, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-2-05b-capital-q2-loss/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "CRMLS CEO Art Carter sees more industry litigation ahead, AI blindspots",
+        "url": "https://www.housingwire.com/articles/crmls-ceo-art-carter-sees-more-industry-litigation-ahead-ai-blindspots/",
+        "what": "CRMLS CEO Art Carter sat down with HousingWire to discuss the AI transformation he believes the industry is ignoring at its own peril.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/crmls-ceo-art-carter-sees-more-industry-litigation-ahead-ai-blindspots/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Zillow says its ‘Housing Super App’ strategy is working",
+        "url": "https://www.housingwire.com/articles/zillow-q2-2026-earnings/",
+        "what": "Zillow Q2 2026 revenue rose 18% to $772M, mortgage revenue jumped 75% to $84M, and the quarter ended with a $4M net loss.",
+        "numbers": "2, 2026, 18, $772, 75, $84",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-q2-2026-earnings/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Zillow promotes two SVPs as Hofmann adds COO duties",
+        "url": "https://www.housingwire.com/articles/zillow-exec-changes-layoffs/",
+        "what": "After cutting 7% of staff, Zillow expanded Jeremy Hofmann’s role to COO, hired Sandi Knight, and promoted 2 SVPs.",
+        "numbers": "7, 2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-exec-changes-layoffs/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "UWM’s ‘Bullseye 90’ offers 90-bps broker discount through Sept. 8",
         "url": "https://www.housingwire.com/articles/uwm-bullseye-90-discount/",
@@ -239,33 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-bullseye-90-discount/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Zillow, Realtracs finalize MLS data licensing agreement",
-        "url": "https://www.housingwire.com/articles/zillow-realtracs-data-license/",
-        "what": "Zillow and Realtracs finalized a new license keeping Nashville listings on Zillow and adding guardrails on MLS data use, including AI.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-realtracs-data-license/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Exclusive: Envoy Mortgage to acquire MasonMac distributed retail assets",
-        "url": "https://www.housingwire.com/articles/envoy-masonmac-retail-assets/",
-        "what": "Envoy Mortgage closed a deal to acquire the distributed retail assets of Mason-McDuffie Mortgage Corp.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/envoy-masonmac-retail-assets/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "FirstHome IQ relaunches homebuyer education platform to tackle consumer questions",
-        "url": "https://www.housingwire.com/articles/firsthome-iq-relaunches-homebuyer-education-platform-nextgen/",
-        "what": "Nonprofit FirstHome IQ has relaunched its homeownership education ecosystem, offering free tools for consumers and teaching resources for housing professionals aimed at converting",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/firsthome-iq-relaunches-homebuyer-education-platform-nextgen/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "First-Time Buyers Catch a Break As Affordability For U.S. Starter Homes Improves Slightly Faster Than Overall Market",
@@ -297,6 +306,24 @@
     ],
     "notables": [
       {
+        "title": "NYC buildings agency inspects 180 sites, no imminent hazards",
+        "url": "https://www.housingwire.com/articles/nyc-stop-work-sweep/",
+        "what": "Last month’s structural near-disaster at the former Pfizer headquarters being converted to apartments set off a sweeping inspection of construction sites across New York City",
+        "numbers": "180",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-stop-work-sweep/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "M/I Homes trades margin for market share as spec sales rise",
+        "url": "https://www.housingwire.com/articles/mi-homes-spec-margin/",
+        "what": "M/I Homes is trading some margin for sales growth, speed, and market share",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mi-homes-spec-margin/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "What Better’s CEO swap means for its future",
         "url": "https://www.housingwire.com/articles/better-lewis-interim-ceo-losses/",
         "what": "Daniel Lewis, whose hedge fund shut down in 2016 after 10 years in operation, is taking the helm as interim CEO",
@@ -313,42 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/realtors-property-resource-appoints-chief-strategy-product-officers/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "HouseMe.ai launches U.S. with direct MLS connections",
-        "url": "https://www.housingwire.com/articles/houseme-ai-us-mls/",
-        "what": "HouseMe.ai entered the U.S",
-        "numbers": "7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/houseme-ai-us-mls/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "HomeServices names Gretchen Rosenberg vice president of industry affairs",
-        "url": "https://www.housingwire.com/articles/homeservices-rosenberg-industry-affairs/",
-        "what": "HomeServices appoints Gretchen Rosenberg as VP of industry affairs, a new full-time role, as Kentwood names Dierk Herbermann president.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homeservices-rosenberg-industry-affairs/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Amid antitrust scrutiny, Compass CEO Reffkin says MLSs are ‘anti-consumer’",
-        "url": "https://www.housingwire.com/articles/reffkin-compass-mls-competition-scrutiny/",
-        "what": "Reffkin said Compass is promoting competition as a House subcommittee seeks details on MRED and AGs review Compass Anywhere deal.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reffkin-compass-mls-competition-scrutiny/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Dream Finders land banking adds risk as absorption slows",
-        "url": "https://www.housingwire.com/articles/dream-finders-land-banking-risk/",
-        "what": "Much of the drama and excitement around Dream Finders’ hostile pursuit of Beazer has centered on governance issues and the lack of engagement between the two companies",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/dream-finders-land-banking-risk/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
