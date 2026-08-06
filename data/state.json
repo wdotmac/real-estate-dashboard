@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-06 06:45 UTC",
+  "as_of": "2026-08-06 09:57 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Borrower trust by design",
+      "link": "https://www.housingwire.com/articles/borrower-trust-mortgage-ai/",
+      "published": "Thu, 06 Aug 2026"
+    },
+    {
+      "title": "Opinion: The capital structure solution hiding inside the housing crisis",
+      "link": "https://www.housingwire.com/articles/workforce-housing-capital-structure/",
+      "published": "Thu, 06 Aug 2026"
+    },
+    {
+      "title": "From clicks to home sales: How connected builder websites convert traffic",
+      "link": "https://www.housingwire.com/articles/connected-builder-websites-convert/",
+      "published": "Thu, 06 Aug 2026"
+    },
+    {
       "title": "Rural seniors face growing repair crisis with aging homes",
       "link": "https://www.housingwire.com/articles/rural-seniors-face-growing-repair-crisis-with-aging-homes/",
       "published": "Wed, 05 Aug 2026"
@@ -152,21 +167,6 @@
     {
       "title": "NYC buildings agency inspects 180 sites, no imminent hazards",
       "link": "https://www.housingwire.com/articles/nyc-stop-work-sweep/",
-      "published": "Wed, 05 Aug 2026"
-    },
-    {
-      "title": "CRMLS CEO Art Carter sees more industry litigation ahead, AI blindspots",
-      "link": "https://www.housingwire.com/articles/crmls-ceo-art-carter-sees-more-industry-litigation-ahead-ai-blindspots/",
-      "published": "Wed, 05 Aug 2026"
-    },
-    {
-      "title": "Zillow says its ‘Housing Super App’ strategy is working",
-      "link": "https://www.housingwire.com/articles/zillow-q2-2026-earnings/",
-      "published": "Wed, 05 Aug 2026"
-    },
-    {
-      "title": "Zillow promotes two SVPs as Hofmann adds COO duties",
-      "link": "https://www.housingwire.com/articles/zillow-exec-changes-layoffs/",
       "published": "Wed, 05 Aug 2026"
     },
     {
@@ -223,6 +223,24 @@
     ],
     "housing": [
       {
+        "title": "Opinion: The capital structure solution hiding inside the housing crisis",
+        "url": "https://www.housingwire.com/articles/workforce-housing-capital-structure/",
+        "what": "The ROAD to Housing Act targets new supply, but aging workforce housing needs preservation capital",
+        "numbers": "45, 7 million, $1,000,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/workforce-housing-capital-structure/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "From clicks to home sales: How connected builder websites convert traffic",
+        "url": "https://www.housingwire.com/articles/connected-builder-websites-convert/",
+        "what": "Connected builder websites capture high-intent behavior like plan views, pricing checks and repeat visits, then sync it to CRM",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/connected-builder-websites-convert/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Rural seniors face growing repair crisis with aging homes",
         "url": "https://www.housingwire.com/articles/rural-seniors-face-growing-repair-crisis-with-aging-homes/",
         "what": "Older housing stock, fixed incomes, severe weather and rising costs can combine to make even basic maintenance financially out of reach.",
@@ -268,15 +286,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "UWM’s ‘Bullseye 90’ offers 90-bps broker discount through Sept. 8",
-        "url": "https://www.housingwire.com/articles/uwm-bullseye-90-discount/",
-        "what": "United Wholesale Mortgage launched its latest pricing incentive for broker partners on Wednesday, saying it will grant a 90-basis-point discount on a large swath of loans through Sept",
-        "numbers": "90, 8.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-bullseye-90-discount/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "First-Time Buyers Catch a Break As Affordability For U.S. Starter Homes Improves Slightly Faster Than Overall Market",
         "url": "https://www.redfin.com/news/starter-home-affordability-improving-2026/",
         "what": "Starter-home affordability is improving: The income needed to afford a typical U.S",
@@ -306,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "Borrower trust by design",
+        "url": "https://www.housingwire.com/articles/borrower-trust-mortgage-ai/",
+        "what": "An IDC study shows slow closings and heavy manual underwriting, even as lenders add AI",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/borrower-trust-mortgage-ai/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "NYC buildings agency inspects 180 sites, no imminent hazards",
         "url": "https://www.housingwire.com/articles/nyc-stop-work-sweep/",
         "what": "Last month’s structural near-disaster at the former Pfizer headquarters being converted to apartments set off a sweeping inspection of construction sites across New York City",
@@ -322,24 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mi-homes-spec-margin/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "What Better’s CEO swap means for its future",
-        "url": "https://www.housingwire.com/articles/better-lewis-interim-ceo-losses/",
-        "what": "Daniel Lewis, whose hedge fund shut down in 2016 after 10 years in operation, is taking the helm as interim CEO",
-        "numbers": "2016, 10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-lewis-interim-ceo-losses/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Realtors Property Resource appoints chief strategy, product officers",
-        "url": "https://www.housingwire.com/articles/realtors-property-resource-appoints-chief-strategy-product-officers/",
-        "what": "Both executives have held leadership positions within RPR as the real estate data platform continues developing products and services.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realtors-property-resource-appoints-chief-strategy-product-officers/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
