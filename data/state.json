@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-06 09:57 UTC",
+  "as_of": "2026-08-06 12:18 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "ROAD map: AMH and Invitation Homes plot BTR’s way forward",
+      "link": "https://www.housingwire.com/articles/road-act-btr-deal-flow/",
+      "published": "Thu, 06 Aug 2026"
+    },
+    {
       "title": "Borrower trust by design",
       "link": "https://www.housingwire.com/articles/borrower-trust-mortgage-ai/",
       "published": "Thu, 06 Aug 2026"
@@ -165,9 +170,9 @@
       "published": "Wed, 05 Aug 2026"
     },
     {
-      "title": "NYC buildings agency inspects 180 sites, no imminent hazards",
-      "link": "https://www.housingwire.com/articles/nyc-stop-work-sweep/",
-      "published": "Wed, 05 Aug 2026"
+      "title": "Pending Home Sales Sink to 5-Month Low As Mortgage Rates Rise",
+      "link": "https://www.redfin.com/news/housing-market-update-homebuying-demand-stalls-summer/",
+      "published": "Thu, 06 Aug 2026"
     },
     {
       "title": "First-Time Buyers Catch a Break As Affordability For U.S. Starter Homes Improves Slightly Faster Than Overall Market",
@@ -193,30 +198,25 @@
       "title": "Homebuying Demand Slows As Mortgage Rates Hit Highest Level in a Year",
       "link": "https://www.redfin.com/news/housing-market-update-demand-slows-rates-hit-high-level/",
       "published": "Thu, 30 Jul 2026"
-    },
-    {
-      "title": "Mortgage Rates Likely to Hold Stead Steady Following July Fed Meeting, But Uncertainty Looms as Fall Approaches",
-      "link": "https://www.redfin.com/news/kevin-warsh-fed-meeting-july-2026/",
-      "published": "Wed, 29 Jul 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Pending Home Sales Sink to 5-Month Low As Mortgage Rates Rise",
+        "url": "https://www.redfin.com/news/housing-market-update-homebuying-demand-stalls-summer/",
+        "what": "The number of homes going under contract fell 3.7% week over week nationwide—the steepest decline since 2022—as would-be buyers pressed pause amid high mortgage rates",
+        "numbers": "3.7, 2022, 5",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-homebuying-demand-stalls-summer/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Expect Mortgage-Rate Volatility as Oil Prices Drop on Hopes of Iran Peace Talks Ahead of This Week’s Jobs Report",
         "url": "https://www.redfin.com/news/mortgage-rates-rise-post-july-fed-meeting-july-jobs-report-looming/",
         "what": "In A Nutshell: Rates drifted higher last week following Fed Chair Warsh’s press conference and could remain volatile as oil prices drop on hopes of Iran peace talks and markets absorb the latest jobs market data",
         "numbers": "",
         "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-rise-post-july-fed-meeting-july-jobs-report-looming/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Homebuying Demand Slows As Mortgage Rates Hit Highest Level in a Year",
-        "url": "https://www.redfin.com/news/housing-market-update-demand-slows-rates-hit-high-level/",
-        "what": "Today’s housing market rewards patience over panic: With hundreds of thousands more sellers than buyers in the U.S., buyers in most of the country have time to peruse options and negotiate",
-        "numbers": "26,, 1.7",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-demand-slows-rates-hit-high-level/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
@@ -315,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "ROAD map: AMH and Invitation Homes plot BTR’s way forward",
+        "url": "https://www.housingwire.com/articles/road-act-btr-deal-flow/",
+        "what": "After ROAD, AMH and Invitation Homes say BTR capital is returning slowly, while consolidation may rise among 350-plus home owners.",
+        "numbers": "350",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/road-act-btr-deal-flow/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Borrower trust by design",
         "url": "https://www.housingwire.com/articles/borrower-trust-mortgage-ai/",
         "what": "An IDC study shows slow closings and heavy manual underwriting, even as lenders add AI",
@@ -329,15 +338,6 @@
         "what": "Last month’s structural near-disaster at the former Pfizer headquarters being converted to apartments set off a sweeping inspection of construction sites across New York City",
         "numbers": "180",
         "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-stop-work-sweep/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "M/I Homes trades margin for market share as spec sales rise",
-        "url": "https://www.housingwire.com/articles/mi-homes-spec-margin/",
-        "what": "M/I Homes is trading some margin for sales growth, speed, and market share",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mi-homes-spec-margin/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
