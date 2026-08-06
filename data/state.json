@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-06 12:18 UTC",
+  "as_of": "2026-08-06 15:27 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "New American Funding adds top Texas LOs Shane Masterman and Christian Johnson",
+      "link": "https://www.housingwire.com/articles/naf-hires-masterman-johnson/",
+      "published": "Thu, 06 Aug 2026"
+    },
+    {
+      "title": "Move points to RealPRO Select as Realtor.com revenue keeps climbing",
+      "link": "https://www.housingwire.com/articles/move-fy2026-revenue-realpro/",
+      "published": "Thu, 06 Aug 2026"
+    },
+    {
+      "title": "Real Brokerage keeps growth streak alive as REMAX deal nears",
+      "link": "https://www.housingwire.com/articles/real-brokerage-keeps-growth-streak-alive-as-remax-deal-nears/",
+      "published": "Thu, 06 Aug 2026"
+    },
+    {
       "title": "ROAD map: AMH and Invitation Homes plot BTR’s way forward",
       "link": "https://www.housingwire.com/articles/road-act-btr-deal-flow/",
       "published": "Thu, 06 Aug 2026"
@@ -155,19 +170,9 @@
       "published": "Thu, 06 Aug 2026"
     },
     {
-      "title": "From clicks to home sales: How connected builder websites convert traffic",
-      "link": "https://www.housingwire.com/articles/connected-builder-websites-convert/",
+      "title": "Slow Summer Housing Market Gives Buyers More Time, Choices and Negotiating Power",
+      "link": "https://www.redfin.com/news/summer-housing-market-austin-chicago-nashville-san-diego-july-2026/",
       "published": "Thu, 06 Aug 2026"
-    },
-    {
-      "title": "Rural seniors face growing repair crisis with aging homes",
-      "link": "https://www.housingwire.com/articles/rural-seniors-face-growing-repair-crisis-with-aging-homes/",
-      "published": "Wed, 05 Aug 2026"
-    },
-    {
-      "title": "UWM lines up record $2.05B Ishbia–Oaktree capital raise as it posts Q2 loss",
-      "link": "https://www.housingwire.com/articles/uwm-2-05b-capital-q2-loss/",
-      "published": "Wed, 05 Aug 2026"
     },
     {
       "title": "Pending Home Sales Sink to 5-Month Low As Mortgage Rates Rise",
@@ -193,11 +198,6 @@
       "title": "Expect Mortgage-Rate Volatility as Oil Prices Drop on Hopes of Iran Peace Talks Ahead of This Week’s Jobs Report",
       "link": "https://www.redfin.com/news/mortgage-rates-rise-post-july-fed-meeting-july-jobs-report-looming/",
       "published": "Mon, 03 Aug 2026"
-    },
-    {
-      "title": "Homebuying Demand Slows As Mortgage Rates Hit Highest Level in a Year",
-      "link": "https://www.redfin.com/news/housing-market-update-demand-slows-rates-hit-high-level/",
-      "published": "Thu, 30 Jul 2026"
     }
   ],
   "feed_101020": {
@@ -222,6 +222,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Move points to RealPRO Select as Realtor.com revenue keeps climbing",
+        "url": "https://www.housingwire.com/articles/move-fy2026-revenue-realpro/",
+        "what": "Move posted FY2026 revenue of $610M, up 11%, and Realtor.com Q4 revenue rose 13% to $167M as premium offerings expanded.",
+        "numbers": "2026, $610, 11, 4, 13, $167",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/move-fy2026-revenue-realpro/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Slow Summer Housing Market Gives Buyers More Time, Choices and Negotiating Power",
+        "url": "https://www.redfin.com/news/summer-housing-market-austin-chicago-nashville-san-diego-july-2026/",
+        "what": "Homebuyers have more choices and more time to make decisions as the market has slowed this summer and sellers are increasingly adjusting their expectations to match, according to Redfin agents",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/summer-housing-market-austin-chicago-nashville-san-diego-july-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Opinion: The capital structure solution hiding inside the housing crisis",
         "url": "https://www.housingwire.com/articles/workforce-housing-capital-structure/",
@@ -259,33 +277,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "CRMLS CEO Art Carter sees more industry litigation ahead, AI blindspots",
-        "url": "https://www.housingwire.com/articles/crmls-ceo-art-carter-sees-more-industry-litigation-ahead-ai-blindspots/",
-        "what": "CRMLS CEO Art Carter sat down with HousingWire to discuss the AI transformation he believes the industry is ignoring at its own peril.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/crmls-ceo-art-carter-sees-more-industry-litigation-ahead-ai-blindspots/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Zillow says its ‘Housing Super App’ strategy is working",
-        "url": "https://www.housingwire.com/articles/zillow-q2-2026-earnings/",
-        "what": "Zillow Q2 2026 revenue rose 18% to $772M, mortgage revenue jumped 75% to $84M, and the quarter ended with a $4M net loss.",
-        "numbers": "2, 2026, 18, $772, 75, $84",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-q2-2026-earnings/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Zillow promotes two SVPs as Hofmann adds COO duties",
-        "url": "https://www.housingwire.com/articles/zillow-exec-changes-layoffs/",
-        "what": "After cutting 7% of staff, Zillow expanded Jeremy Hofmann’s role to COO, hired Sandi Knight, and promoted 2 SVPs.",
-        "numbers": "7, 2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-exec-changes-layoffs/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "First-Time Buyers Catch a Break As Affordability For U.S. Starter Homes Improves Slightly Faster Than Overall Market",
         "url": "https://www.redfin.com/news/starter-home-affordability-improving-2026/",
         "what": "Starter-home affordability is improving: The income needed to afford a typical U.S",
@@ -314,6 +305,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "New American Funding adds top Texas LOs Shane Masterman and Christian Johnson",
+        "url": "https://www.housingwire.com/articles/naf-hires-masterman-johnson/",
+        "what": "New American Funding adds Shane Masterman and Christian Johnson in Dallas, launching Cantera Home Lending and expanding products.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/naf-hires-masterman-johnson/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Real Brokerage keeps growth streak alive as REMAX deal nears",
+        "url": "https://www.housingwire.com/articles/real-brokerage-keeps-growth-streak-alive-as-remax-deal-nears/",
+        "what": "Leaders reported second-quarter revenue of $700.6 million, a 30% increase from $540.7 million a year earlier, during a Thursday earnings call.",
+        "numbers": "$700.6 million, 30, $540.7 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-brokerage-keeps-growth-streak-alive-as-remax-deal-nears/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "ROAD map: AMH and Invitation Homes plot BTR’s way forward",
         "url": "https://www.housingwire.com/articles/road-act-btr-deal-flow/",
