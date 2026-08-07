@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-07 21:55 UTC",
+  "as_of": "2026-08-07 22:55 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Will the negative jobs report hold off a September rate hike?",
+      "link": "https://www.housingwire.com/articles/july-2026-jobs-fed-hike/",
+      "published": "Fri, 07 Aug 2026"
+    },
+    {
       "title": "Trump reportedly renews bid to oust Fed Gov. Lisa Cook",
       "link": "https://www.housingwire.com/articles/trump-remove-fed-cook/",
       "published": "Fri, 07 Aug 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Longbridge originations jump 38%, propelling Ellington to $54.4M profit",
       "link": "https://www.housingwire.com/articles/ellington-financial-q2-2026-results-longbridge-originations-book-value/",
-      "published": "Fri, 07 Aug 2026"
-    },
-    {
-      "title": "Gibson suit plaintiffs can notify MLSs about settlement data duties",
-      "link": "https://www.housingwire.com/articles/gibson-mls-settlement-data-notice/",
       "published": "Fri, 07 Aug 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Will the negative jobs report hold off a September rate hike?",
+        "url": "https://www.housingwire.com/articles/july-2026-jobs-fed-hike/",
+        "what": "July payrolls fell 23,000 and revisions cut 103,000, while wage growth slowed to 3.2%, sharpening the Fed’s September decision.",
+        "numbers": "23,000, 103,000,, 3.2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/july-2026-jobs-fed-hike/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Trump reportedly renews bid to oust Fed Gov. Lisa Cook",
         "url": "https://www.housingwire.com/articles/trump-remove-fed-cook/",
         "what": "President Donald Trump is moving forward with a renewed attempt to remove Federal Reserve Gov",
@@ -210,15 +219,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/trump-remove-fed-cook/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "U.S. loses 23K jobs in July, economists detail housing effects",
-        "url": "https://www.housingwire.com/articles/u-s-loses-23k-jobs-in-july-economists-detail-housing-effects/",
-        "what": "May and June payroll growth was also revised to include a combined 103,000 fewer jobs",
-        "numbers": "103,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/u-s-loses-23k-jobs-in-july-economists-detail-housing-effects/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Weak July Jobs Report Could Delay Fed Rate Hike, Giving Homebuyers Some Mortgage-Rate Relief",
