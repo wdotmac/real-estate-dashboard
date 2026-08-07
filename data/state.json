@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-07 05:49 UTC",
+  "as_of": "2026-08-07 07:40 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Taste, guts and receipts",
+      "link": "https://www.housingwire.com/articles/taste-guts-receipts-ai-writing/",
+      "published": "Fri, 07 Aug 2026"
+    },
+    {
+      "title": "Leadership has a dress code",
+      "link": "https://www.housingwire.com/articles/leadership-dress-code-mentorship/",
+      "published": "Fri, 07 Aug 2026"
+    },
+    {
       "title": "Blend reports stronger Q2 results on software growth",
       "link": "https://www.housingwire.com/articles/blend-q2-results-autopilot/",
       "published": "Thu, 06 Aug 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Q2 2026 earnings for publicly traded mortgage, real estate and homebuilder companies",
       "link": "https://www.housingwire.com/articles/q1-2026-earnings-mortgage-real-estate-homebuilding/",
-      "published": "Thu, 06 Aug 2026"
-    },
-    {
-      "title": "Squeezed NYC affordable housing properties face reckoning",
-      "link": "https://www.housingwire.com/articles/nyc-affordable-housing-costs-survey/",
-      "published": "Thu, 06 Aug 2026"
-    },
-    {
-      "title": "Public record-linked AI misses key title issues in many searches",
-      "link": "https://www.housingwire.com/articles/public-record-linked-ai-misses-key-title-issues-in-many-searches/",
       "published": "Thu, 06 Aug 2026"
     },
     {
@@ -231,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Taste, guts and receipts",
+        "url": "https://www.housingwire.com/articles/taste-guts-receipts-ai-writing/",
+        "what": "Mortgage leaders are swapping ghostwriters for AI, which creates a sameness problem",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/taste-guts-receipts-ai-writing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Blend reports stronger Q2 results on software growth",
         "url": "https://www.housingwire.com/articles/blend-q2-results-autopilot/",
@@ -315,6 +324,15 @@
     ],
     "notables": [
       {
+        "title": "Leadership has a dress code",
+        "url": "https://www.housingwire.com/articles/leadership-dress-code-mentorship/",
+        "what": "Nicole Haba argues leadership often follows an unspoken dress code tied to access and networks",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/leadership-dress-code-mentorship/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Public record-linked AI misses key title issues in many searches",
         "url": "https://www.housingwire.com/articles/public-record-linked-ai-misses-key-title-issues-in-many-searches/",
         "what": "According to the analysis, the largest gaps involved high-risk issues such as involuntary liens, where the issue fail rate exceeded 36%.",
@@ -329,24 +347,6 @@
         "what": "New York City administration officials took a stride toward spurring more office-to-residential conversions by expanding a long-term financing option used in clean energy construction",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-office-residential-financing/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Stewart Title expands Mid-Atlantic footprint",
-        "url": "https://www.housingwire.com/articles/stewart-title-expands-mid-atlantic-footprint/",
-        "what": "Founded nearly 15 years ago, the acquired firm provides title services across Maryland, Virginia, West Virginia and Pennsylvania.",
-        "numbers": "15",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/stewart-title-expands-mid-atlantic-footprint/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "UWM pays up for capital as it resets leverage targets",
-        "url": "https://www.housingwire.com/articles/uwm-preferreds-warrants-dilution/",
-        "what": "UWM is raising $1.65 billion in preferred equity, including $1.5 billion from Oaktree and $150 million from the Ishbia family, plus a $400 million rights offering.",
-        "numbers": "$1.65 billion, $1.5 billion, $150 million, $400 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-preferreds-warrants-dilution/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
