@@ -1,14 +1,14 @@
 {
-  "as_of": "2026-08-06 15:27 UTC",
+  "as_of": "2026-08-07 00:14 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
       "yield_pct": 4.63,
-      "delta_bp_1d": -7.000000000000028
+      "delta_bp_1d": 0.0
     },
     "mortgage_30y": {
-      "rate_pct": 6.66,
-      "delta_bp_wow": 8.000000000000007
+      "rate_pct": 6.69,
+      "delta_bp_wow": 3.000000000000025
     },
     "starts": {
       "level_saar": 1427.0,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "New American Funding adds top Texas LOs Shane Masterman and Christian Johnson",
-      "link": "https://www.housingwire.com/articles/naf-hires-masterman-johnson/",
+      "title": "Blend reports stronger Q2 results on software growth",
+      "link": "https://www.housingwire.com/articles/blend-q2-results-autopilot/",
       "published": "Thu, 06 Aug 2026"
     },
     {
-      "title": "Move points to RealPRO Select as Realtor.com revenue keeps climbing",
-      "link": "https://www.housingwire.com/articles/move-fy2026-revenue-realpro/",
+      "title": "Rocket weathers spring housing slowdown, gaining purchase and refi share in Q2",
+      "link": "https://www.housingwire.com/articles/rocket-q2-2026-earnings/",
       "published": "Thu, 06 Aug 2026"
     },
     {
-      "title": "Real Brokerage keeps growth streak alive as REMAX deal nears",
-      "link": "https://www.housingwire.com/articles/real-brokerage-keeps-growth-streak-alive-as-remax-deal-nears/",
+      "title": "Are data centers the next constraint on affordable housing supply?",
+      "link": "https://www.housingwire.com/articles/data-centers-housing-supply/",
       "published": "Thu, 06 Aug 2026"
     },
     {
-      "title": "ROAD map: AMH and Invitation Homes plot BTR’s way forward",
-      "link": "https://www.housingwire.com/articles/road-act-btr-deal-flow/",
+      "title": "Q2 2026 earnings for publicly traded mortgage, real estate and homebuilder companies",
+      "link": "https://www.housingwire.com/articles/q1-2026-earnings-mortgage-real-estate-homebuilding/",
       "published": "Thu, 06 Aug 2026"
     },
     {
-      "title": "Borrower trust by design",
-      "link": "https://www.housingwire.com/articles/borrower-trust-mortgage-ai/",
+      "title": "Squeezed NYC affordable housing properties face reckoning",
+      "link": "https://www.housingwire.com/articles/nyc-affordable-housing-costs-survey/",
       "published": "Thu, 06 Aug 2026"
     },
     {
-      "title": "Opinion: The capital structure solution hiding inside the housing crisis",
-      "link": "https://www.housingwire.com/articles/workforce-housing-capital-structure/",
+      "title": "Public record-linked AI misses key title issues in many searches",
+      "link": "https://www.housingwire.com/articles/public-record-linked-ai-misses-key-title-issues-in-many-searches/",
       "published": "Thu, 06 Aug 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Senator moves to regulate home equity investments at the federal level",
+        "url": "https://www.housingwire.com/articles/lawmaker-moves-to-clarify-home-equity-investment-regulation/",
+        "what": "Legislation would require HEIs to comply with the same disclosure and consumer protection requirements as many traditional mortgage loans.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lawmaker-moves-to-clarify-home-equity-investment-regulation/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Pending Home Sales Sink to 5-Month Low As Mortgage Rates Rise",
         "url": "https://www.redfin.com/news/housing-market-update-homebuying-demand-stalls-summer/",
         "what": "The number of homes going under contract fell 3.7% week over week nationwide—the steepest decline since 2022—as would-be buyers pressed pause amid high mortgage rates",
@@ -223,11 +232,47 @@
     ],
     "housing": [
       {
-        "title": "Move points to RealPRO Select as Realtor.com revenue keeps climbing",
-        "url": "https://www.housingwire.com/articles/move-fy2026-revenue-realpro/",
-        "what": "Move posted FY2026 revenue of $610M, up 11%, and Realtor.com Q4 revenue rose 13% to $167M as premium offerings expanded.",
-        "numbers": "2026, $610, 11, 4, 13, $167",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/move-fy2026-revenue-realpro/",
+        "title": "Blend reports stronger Q2 results on software growth",
+        "url": "https://www.housingwire.com/articles/blend-q2-results-autopilot/",
+        "what": "Blend Labs on Thursday reported higher second-quarter revenue and a narrower operating loss, driven by growth in its software platform business as the digital mortgage technology p",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/blend-q2-results-autopilot/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Rocket weathers spring housing slowdown, gaining purchase and refi share in Q2",
+        "url": "https://www.housingwire.com/articles/rocket-q2-2026-earnings/",
+        "what": "Rocket Companies reported high second-quarter earnings on Thursday, driven by increased mortgage origination volume, servicing income and record market share gains in both purchase",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-q2-2026-earnings/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Are data centers the next constraint on affordable housing supply?",
+        "url": "https://www.housingwire.com/articles/data-centers-housing-supply/",
+        "what": "[Editor’s note: This is part 2 of a 3-part HousingWire special series on the impacts of data centers in housing",
+        "numbers": "2, 3, 1, 1998,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/data-centers-housing-supply/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Q2 2026 earnings for publicly traded mortgage, real estate and homebuilder companies",
+        "url": "https://www.housingwire.com/articles/q1-2026-earnings-mortgage-real-estate-homebuilding/",
+        "what": "As earnings results wrap up for Q2 2026, here's a rundown of what's happened for major lenders, brokerages, homebuilders, listing portals and title firms.",
+        "numbers": "2, 2026,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/q1-2026-earnings-mortgage-real-estate-homebuilding/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Squeezed NYC affordable housing properties face reckoning",
+        "url": "https://www.housingwire.com/articles/nyc-affordable-housing-costs-survey/",
+        "what": "New York City’s regulated affordable housing sector is confronting a worsening financial squeeze, and a reckoning is coming unless solutions emerge, according to a new survey of owners, managers, lenders and other industry participants",
+        "numbers": "62",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-affordable-housing-costs-survey/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
@@ -239,42 +284,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/summer-housing-market-austin-chicago-nashville-san-diego-july-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Opinion: The capital structure solution hiding inside the housing crisis",
-        "url": "https://www.housingwire.com/articles/workforce-housing-capital-structure/",
-        "what": "The ROAD to Housing Act targets new supply, but aging workforce housing needs preservation capital",
-        "numbers": "45, 7 million, $1,000,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/workforce-housing-capital-structure/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "From clicks to home sales: How connected builder websites convert traffic",
-        "url": "https://www.housingwire.com/articles/connected-builder-websites-convert/",
-        "what": "Connected builder websites capture high-intent behavior like plan views, pricing checks and repeat visits, then sync it to CRM",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/connected-builder-websites-convert/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Rural seniors face growing repair crisis with aging homes",
-        "url": "https://www.housingwire.com/articles/rural-seniors-face-growing-repair-crisis-with-aging-homes/",
-        "what": "Older housing stock, fixed incomes, severe weather and rising costs can combine to make even basic maintenance financially out of reach.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rural-seniors-face-growing-repair-crisis-with-aging-homes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "UWM lines up record $2.05B Ishbia–Oaktree capital raise as it posts Q2 loss",
-        "url": "https://www.housingwire.com/articles/uwm-2-05b-capital-q2-loss/",
-        "what": "UWM Holdings Corp",
-        "numbers": "$2.05 billion, 2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-2-05b-capital-q2-loss/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "First-Time Buyers Catch a Break As Affordability For U.S. Starter Homes Improves Slightly Faster Than Overall Market",
@@ -306,47 +315,38 @@
     ],
     "notables": [
       {
-        "title": "New American Funding adds top Texas LOs Shane Masterman and Christian Johnson",
-        "url": "https://www.housingwire.com/articles/naf-hires-masterman-johnson/",
-        "what": "New American Funding adds Shane Masterman and Christian Johnson in Dallas, launching Cantera Home Lending and expanding products.",
+        "title": "Public record-linked AI misses key title issues in many searches",
+        "url": "https://www.housingwire.com/articles/public-record-linked-ai-misses-key-title-issues-in-many-searches/",
+        "what": "According to the analysis, the largest gaps involved high-risk issues such as involuntary liens, where the issue fail rate exceeded 36%.",
+        "numbers": "36",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/public-record-linked-ai-misses-key-title-issues-in-many-searches/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "NYC expands finance pool for office-to-residential makeovers",
+        "url": "https://www.housingwire.com/articles/nyc-office-residential-financing/",
+        "what": "New York City administration officials took a stride toward spurring more office-to-residential conversions by expanding a long-term financing option used in clean energy construction",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/naf-hires-masterman-johnson/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-office-residential-financing/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Real Brokerage keeps growth streak alive as REMAX deal nears",
-        "url": "https://www.housingwire.com/articles/real-brokerage-keeps-growth-streak-alive-as-remax-deal-nears/",
-        "what": "Leaders reported second-quarter revenue of $700.6 million, a 30% increase from $540.7 million a year earlier, during a Thursday earnings call.",
-        "numbers": "$700.6 million, 30, $540.7 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-brokerage-keeps-growth-streak-alive-as-remax-deal-nears/",
+        "title": "Stewart Title expands Mid-Atlantic footprint",
+        "url": "https://www.housingwire.com/articles/stewart-title-expands-mid-atlantic-footprint/",
+        "what": "Founded nearly 15 years ago, the acquired firm provides title services across Maryland, Virginia, West Virginia and Pennsylvania.",
+        "numbers": "15",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/stewart-title-expands-mid-atlantic-footprint/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "ROAD map: AMH and Invitation Homes plot BTR’s way forward",
-        "url": "https://www.housingwire.com/articles/road-act-btr-deal-flow/",
-        "what": "After ROAD, AMH and Invitation Homes say BTR capital is returning slowly, while consolidation may rise among 350-plus home owners.",
-        "numbers": "350",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/road-act-btr-deal-flow/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Borrower trust by design",
-        "url": "https://www.housingwire.com/articles/borrower-trust-mortgage-ai/",
-        "what": "An IDC study shows slow closings and heavy manual underwriting, even as lenders add AI",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/borrower-trust-mortgage-ai/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "NYC buildings agency inspects 180 sites, no imminent hazards",
-        "url": "https://www.housingwire.com/articles/nyc-stop-work-sweep/",
-        "what": "Last month’s structural near-disaster at the former Pfizer headquarters being converted to apartments set off a sweeping inspection of construction sites across New York City",
-        "numbers": "180",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-stop-work-sweep/",
+        "title": "UWM pays up for capital as it resets leverage targets",
+        "url": "https://www.housingwire.com/articles/uwm-preferreds-warrants-dilution/",
+        "what": "UWM is raising $1.65 billion in preferred equity, including $1.5 billion from Oaktree and $150 million from the Ishbia family, plus a $400 million rights offering.",
+        "numbers": "$1.65 billion, $1.5 billion, $150 million, $400 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-preferreds-warrants-dilution/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
