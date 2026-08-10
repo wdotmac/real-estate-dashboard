@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-10 18:02 UTC",
+  "as_of": "2026-08-10 19:15 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Consumer groups warn CFPB rollback of mortgage rules could expose borrowers",
+      "link": "https://www.housingwire.com/articles/consumer-groups-warn-cfpb-rollback-of-mortgage-rules-could-expose-borrowers/",
+      "published": "Mon, 10 Aug 2026"
+    },
+    {
+      "title": "UWM faces fraud probe, analyst stock price cuts after Q2 loss, Oaktree deal",
+      "link": "https://www.housingwire.com/articles/uwm-securities-probe-q2-loss/",
+      "published": "Mon, 10 Aug 2026"
+    },
+    {
+      "title": "UWM sues Two Harbors over failed merger deal, seeks to recover more than $500M",
+      "link": "https://www.housingwire.com/articles/uwm-sues-two-harbors-crosscountry-merger/",
+      "published": "Mon, 10 Aug 2026"
+    },
+    {
       "title": "KBW labels Ellington, Longbridge as outperformers after robust Q2 earnings report",
       "link": "https://www.housingwire.com/articles/kbw-raises-ellington-eps-outlook/",
       "published": "Mon, 10 Aug 2026"
@@ -155,18 +170,8 @@
       "published": "Mon, 10 Aug 2026"
     },
     {
-      "title": "TPO GO exits wholesale channel, aligns with Stockton Mortgage",
-      "link": "https://www.housingwire.com/articles/tpo-go-exits-wholesale-stockton/",
-      "published": "Mon, 10 Aug 2026"
-    },
-    {
-      "title": "Home equity hits $18T even as delinquencies, foreclosures rise",
-      "link": "https://www.housingwire.com/articles/ice-homeowner-equity-delinquency/",
-      "published": "Mon, 10 Aug 2026"
-    },
-    {
-      "title": "MITT agrees to buy Cherry Hill, creating $9B residential mortgage REIT",
-      "link": "https://www.housingwire.com/articles/tpg-mortgage-investment-trust-acquire-cherry-hill-mortgage-reit-merger/",
+      "title": "Mortgage Rates Could Move This Week as Inflation Data Tests the Fed’s Path",
+      "link": "https://www.redfin.com/news/mortgage-rate-could-move-from-inflation-data-august-2026/",
       "published": "Mon, 10 Aug 2026"
     },
     {
@@ -193,15 +198,28 @@
       "title": "The Income Needed to Afford Typical American Home Holds Steady Near Record High of $110,000",
       "link": "https://www.redfin.com/news/affordability-homebuying-2026/",
       "published": "Wed, 05 Aug 2026"
-    },
-    {
-      "title": "Brooklyn’s Park Slope Tops Redfin’s Hottest Luxury Neighborhoods of 2026",
-      "link": "https://www.redfin.com/news/hottest-luxury-neighborhoods-2026/",
-      "published": "Tue, 04 Aug 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Consumer groups warn CFPB rollback of mortgage rules could expose borrowers",
+        "url": "https://www.housingwire.com/articles/consumer-groups-warn-cfpb-rollback-of-mortgage-rules-could-expose-borrowers/",
+        "what": "A coalition advocacy organizations is warning that proposed changes to federal lending rules could leave consumers vulnerable.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/consumer-groups-warn-cfpb-rollback-of-mortgage-rules-could-expose-borrowers/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Mortgage Rates Could Move This Week as Inflation Data Tests the Fed’s Path",
+        "url": "https://www.redfin.com/news/mortgage-rate-could-move-from-inflation-data-august-2026/",
+        "what": "In A Nutshell: Rates remain precarious this week with highly anticipated inflation data coming Wednesday, which could determine if the Fed hikes at their next meeting",
+        "numbers": "16",
+        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rate-could-move-from-inflation-data-august-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Weak July Jobs Report Could Delay Fed Rate Hike, Giving Homebuyers Some Mortgage-Rate Relief",
         "url": "https://www.redfin.com/news/weak-july-jobs-report-could-delay-fed-rate-hike/",
@@ -222,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "UWM sues Two Harbors over failed merger deal, seeks to recover more than $500M",
+        "url": "https://www.housingwire.com/articles/uwm-sues-two-harbors-crosscountry-merger/",
+        "what": "United Wholesale Mortgage filed a lawsuit on Monday accusing Two Harbors Investment Corp",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-sues-two-harbors-crosscountry-merger/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "KBW labels Ellington, Longbridge as outperformers after robust Q2 earnings report",
         "url": "https://www.housingwire.com/articles/kbw-raises-ellington-eps-outlook/",
@@ -259,15 +286,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Grand Rapids leads Midwest housing surge as buyers chase affordability",
-        "url": "https://www.housingwire.com/articles/grand-rapids-leads-midwest-housing-surge-as-buyers-chase-affordability/",
-        "what": "Midwest markets are becoming primary destinations for buyers seeking stronger purchasing power and a more realistic path to homeownership.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/grand-rapids-leads-midwest-housing-surge-as-buyers-chase-affordability/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Slow Summer Housing Market Gives Buyers More Time, Choices and Negotiating Power",
         "url": "https://www.redfin.com/news/summer-housing-market-austin-chicago-nashville-san-diego-july-2026/",
         "what": "Homebuyers have more choices and more time to make decisions as the market has slowed this summer and sellers are increasingly adjusting their expectations to match, according to Redfin agents",
@@ -293,18 +311,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/affordability-homebuying-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Brooklyn’s Park Slope Tops Redfin’s Hottest Luxury Neighborhoods of 2026",
-        "url": "https://www.redfin.com/news/hottest-luxury-neighborhoods-2026/",
-        "what": "Highland Park, IL and Overland Park, KS round out the top three",
-        "numbers": "7, 2026",
-        "justified": "redfin.com — https://www.redfin.com/news/hottest-luxury-neighborhoods-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
+      {
+        "title": "UWM faces fraud probe, analyst stock price cuts after Q2 loss, Oaktree deal",
+        "url": "https://www.housingwire.com/articles/uwm-securities-probe-q2-loss/",
+        "what": "UWM Holdings Corp",
+        "numbers": "$2.05 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-securities-probe-q2-loss/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Douglas Elliman narrows its loss in Q2 2026 while launching an AI overhaul",
         "url": "https://www.housingwire.com/articles/douglas-elliman-q2-2026-results/",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/ice-homeowner-equity-delinquency/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "ENRG Realty offers health insurance for agents nationwide",
-        "url": "https://www.housingwire.com/articles/enrg-realty-agent-health-insurance/",
-        "what": "ENRG Realty now offers agents nationwide medical, dental, and vision plans, with no waiting periods or annual enrollment windows.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/enrg-realty-agent-health-insurance/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Unison closes $235M securitization",
-        "url": "https://www.housingwire.com/articles/unison-hei-securitization-235m/",
-        "what": "Unison closed its UNSN 2026-2 HEI securitization backed by $235M in assets, its 8th deal, with a DBRS rating.",
-        "numbers": "2026, 2, $235, 8",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/unison-hei-securitization-235m/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
