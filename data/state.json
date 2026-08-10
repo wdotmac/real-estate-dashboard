@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-08-10 19:15 UTC",
+  "as_of": "2026-08-10 21:01 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.69,
-      "delta_bp_1d": 6.00000000000005
+      "yield_pct": 4.65,
+      "delta_bp_1d": -4.0000000000000036
     },
     "mortgage_30y": {
       "rate_pct": 6.69,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Splitero expands home equity investment offering to four new states",
+      "link": "https://www.housingwire.com/articles/splitero-expands-home-equity-investment-offering-to-four-new-states/",
+      "published": "Mon, 10 Aug 2026"
+    },
+    {
+      "title": "CCM to issue $500M in senior notes as Two Harbors deal nears closing",
+      "link": "https://www.housingwire.com/articles/ccm-500m-senior-unsecured-notes-fitch/",
+      "published": "Mon, 10 Aug 2026"
+    },
+    {
+      "title": "After scaling Real and eXp, Erinn Nobel wants to build a brokerage with intention",
+      "link": "https://www.housingwire.com/articles/enrg-realty-revenue-share/",
+      "published": "Mon, 10 Aug 2026"
+    },
+    {
       "title": "Consumer groups warn CFPB rollback of mortgage rules could expose borrowers",
       "link": "https://www.housingwire.com/articles/consumer-groups-warn-cfpb-rollback-of-mortgage-rules-could-expose-borrowers/",
       "published": "Mon, 10 Aug 2026"
     },
     {
-      "title": "UWM faces fraud probe, analyst stock price cuts after Q2 loss, Oaktree deal",
+      "title": "UWM faces law firm fraud probe, analyst stock price cuts after Q2 loss, Oaktree deal",
       "link": "https://www.housingwire.com/articles/uwm-securities-probe-q2-loss/",
       "published": "Mon, 10 Aug 2026"
     },
     {
       "title": "UWM sues Two Harbors over failed merger deal, seeks to recover more than $500M",
       "link": "https://www.housingwire.com/articles/uwm-sues-two-harbors-crosscountry-merger/",
-      "published": "Mon, 10 Aug 2026"
-    },
-    {
-      "title": "KBW labels Ellington, Longbridge as outperformers after robust Q2 earnings report",
-      "link": "https://www.housingwire.com/articles/kbw-raises-ellington-eps-outlook/",
-      "published": "Mon, 10 Aug 2026"
-    },
-    {
-      "title": "Douglas Elliman narrows its loss in Q2 2026 while launching an AI overhaul",
-      "link": "https://www.housingwire.com/articles/douglas-elliman-q2-2026-results/",
-      "published": "Mon, 10 Aug 2026"
-    },
-    {
-      "title": "Realty of America grows with anchor partner hires in the Carolinas",
-      "link": "https://www.housingwire.com/articles/realty-america-carolinas-expansion/",
       "published": "Mon, 10 Aug 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Splitero expands home equity investment offering to four new states",
+        "url": "https://www.housingwire.com/articles/splitero-expands-home-equity-investment-offering-to-four-new-states/",
+        "what": "U.S",
+        "numbers": "$35",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/splitero-expands-home-equity-investment-offering-to-four-new-states/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Consumer groups warn CFPB rollback of mortgage rules could expose borrowers",
         "url": "https://www.housingwire.com/articles/consumer-groups-warn-cfpb-rollback-of-mortgage-rules-could-expose-borrowers/",
@@ -268,24 +277,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "MITT agrees to buy Cherry Hill, creating $9B residential mortgage REIT",
-        "url": "https://www.housingwire.com/articles/tpg-mortgage-investment-trust-acquire-cherry-hill-mortgage-reit-merger/",
-        "what": "TPG Mortgage Investment Trust Inc",
-        "numbers": "$117.5 million, $9 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tpg-mortgage-investment-trust-acquire-cherry-hill-mortgage-reit-merger/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Borrowers trust AI more than they trust you",
-        "url": "https://www.housingwire.com/articles/borrowers-trust-ai-loan-officers/",
-        "what": "FirstHome IQ research shows 50% of buyers trust AI as much or more than humans for personalized plans, while NextGen borrowers report widespread distrust of housing professionals",
-        "numbers": "50",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/borrowers-trust-ai-loan-officers/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Slow Summer Housing Market Gives Buyers More Time, Choices and Negotiating Power",
         "url": "https://www.redfin.com/news/summer-housing-market-austin-chicago-nashville-san-diego-july-2026/",
         "what": "Homebuyers have more choices and more time to make decisions as the market has slowed this summer and sellers are increasingly adjusting their expectations to match, according to Redfin agents",
@@ -315,7 +306,25 @@
     ],
     "notables": [
       {
-        "title": "UWM faces fraud probe, analyst stock price cuts after Q2 loss, Oaktree deal",
+        "title": "CCM to issue $500M in senior notes as Two Harbors deal nears closing",
+        "url": "https://www.housingwire.com/articles/ccm-500m-senior-unsecured-notes-fitch/",
+        "what": "CrossCountry Intermediate Holdco (CCM) is expected to issue $500 million of senior unsecured notes, coinciding with the projected August closing of its Two Harbors Investment Corp",
+        "numbers": "$500 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ccm-500m-senior-unsecured-notes-fitch/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "After scaling Real and eXp, Erinn Nobel wants to build a brokerage with intention",
+        "url": "https://www.housingwire.com/articles/enrg-realty-revenue-share/",
+        "what": "ENRG",
+        "numbers": "16",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/enrg-realty-revenue-share/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "UWM faces law firm fraud probe, analyst stock price cuts after Q2 loss, Oaktree deal",
         "url": "https://www.housingwire.com/articles/uwm-securities-probe-q2-loss/",
         "what": "UWM Holdings Corp",
         "numbers": "$2.05 billion",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/realty-america-carolinas-expansion/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Home equity hits $18T even as delinquencies, foreclosures rise",
-        "url": "https://www.housingwire.com/articles/ice-homeowner-equity-delinquency/",
-        "what": "ICE says homeowner equity reached $18T in Q2, July prices rose 1.5%, and delinquencies increased to 3.55% in June.",
-        "numbers": "$18, 2,, 1.5, 3.55",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-homeowner-equity-delinquency/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ]
   }
