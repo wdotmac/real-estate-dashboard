@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-10 08:50 UTC",
+  "as_of": "2026-08-10 10:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "HighTechLending’s Paul Fiore on serving senior homeowners: ‘Be holistic in your approach’",
+      "link": "https://www.housingwire.com/articles/hightechlending-equityselect-50plus/",
+      "published": "Mon, 10 Aug 2026"
+    },
+    {
+      "title": "Smith Douglas Homes doubles down on pace despite margin pain",
+      "link": "https://www.housingwire.com/articles/smith-douglas-homes-doubles-down-on-pace-despite-margin-pain/",
+      "published": "Mon, 10 Aug 2026"
+    },
+    {
+      "title": "M/I Homes Texas strategy, repeatable plans and fewer options",
+      "link": "https://www.housingwire.com/articles/mi-homes-texas-growth/",
+      "published": "Mon, 10 Aug 2026"
+    },
+    {
+      "title": "NYC homeowners sue over pied a terre tax notices and roll",
+      "link": "https://www.housingwire.com/articles/nyc-pied-a-terre-lawsuit/",
+      "published": "Mon, 10 Aug 2026"
+    },
+    {
       "title": "As America turns 250, let’s renew the promise of home",
       "link": "https://www.housingwire.com/articles/renew-housing-opportunity-250/",
       "published": "Mon, 10 Aug 2026"
@@ -148,26 +168,6 @@
       "title": "The pressure that reveals who you really are",
       "link": "https://www.housingwire.com/articles/leadership-pressure-internal-dialogue/",
       "published": "Mon, 10 Aug 2026"
-    },
-    {
-      "title": "Mortgage spreads keeping housing demand intact for now",
-      "link": "https://www.housingwire.com/articles/mortgage-spreads-keeping-housing-demand-intact-for-now/",
-      "published": "Sun, 09 Aug 2026"
-    },
-    {
-      "title": "Will the negative jobs report hold off a September rate hike?",
-      "link": "https://www.housingwire.com/articles/july-2026-jobs-fed-hike/",
-      "published": "Fri, 07 Aug 2026"
-    },
-    {
-      "title": "Trump reportedly renews bid to oust Fed Gov. Lisa Cook",
-      "link": "https://www.housingwire.com/articles/trump-remove-fed-cook/",
-      "published": "Fri, 07 Aug 2026"
-    },
-    {
-      "title": "UWM downgraded by Fitch after Q2 loss, Oaktree deal",
-      "link": "https://www.housingwire.com/articles/fitch-uwm-rating-b-plus/",
-      "published": "Fri, 07 Aug 2026"
     },
     {
       "title": "Weak July Jobs Report Could Delay Fed Rate Hike, Giving Homebuyers Some Mortgage-Rate Relief",
@@ -259,20 +259,20 @@
     ],
     "housing": [
       {
+        "title": "HighTechLending’s Paul Fiore on serving senior homeowners: ‘Be holistic in your approach’",
+        "url": "https://www.housingwire.com/articles/hightechlending-equityselect-50plus/",
+        "what": "HighTechLending continues to be a key player in the reverse mortgage market as evidenced by its top 10 ranking for Home Equity Conversion Mortgage endorsements",
+        "numbers": "10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hightechlending-equityselect-50plus/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "UWM downgraded by Fitch after Q2 loss, Oaktree deal",
         "url": "https://www.housingwire.com/articles/fitch-uwm-rating-b-plus/",
         "what": "Fitch Ratings downgraded the long-term issuer default ratings of United Wholesale Mortgage (UWM) to B+ from BB-, citing a sharp increase in leverage driven by second-quarter losses",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/fitch-uwm-rating-b-plus/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Longbridge originations jump 38%, propelling Ellington to $54.4M profit",
-        "url": "https://www.housingwire.com/articles/ellington-financial-q2-2026-results-longbridge-originations-book-value/",
-        "what": "Ellington Financial Inc",
-        "numbers": "2026, $54.4 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ellington-financial-q2-2026-results-longbridge-originations-book-value/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -315,6 +315,33 @@
     ],
     "notables": [
       {
+        "title": "Smith Douglas Homes doubles down on pace despite margin pain",
+        "url": "https://www.housingwire.com/articles/smith-douglas-homes-doubles-down-on-pace-despite-margin-pain/",
+        "what": "Smith Douglas Homes grew Q2 closings 25% year over year and new home orders increased 32%, but gross margin fell 560 basis points as incentives rose and prices fell.",
+        "numbers": "2, 25, 32, 560",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/smith-douglas-homes-doubles-down-on-pace-despite-margin-pain/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "M/I Homes Texas strategy, repeatable plans and fewer options",
+        "url": "https://www.housingwire.com/articles/mi-homes-texas-growth/",
+        "what": "I first saw the production logic in Columbus",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mi-homes-texas-growth/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "NYC homeowners sue over pied a terre tax notices and roll",
+        "url": "https://www.housingwire.com/articles/nyc-pied-a-terre-lawsuit/",
+        "what": "New York City homeowners sued the city and Mayor Zohran Mamdani on Friday, challenging how officials rolled out the so-called pied-à-terre tax on high-value homes",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-pied-a-terre-lawsuit/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "The pressure that reveals who you really are",
         "url": "https://www.housingwire.com/articles/leadership-pressure-internal-dialogue/",
         "what": "A leadership reflection on how pressure can flip internal dialogue without any external change",
@@ -322,33 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/leadership-pressure-internal-dialogue/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "REMAX, Keller Williams win final approval of Batton 1 settlement",
-        "url": "https://www.housingwire.com/articles/batton-1-remax-keller-settlement/",
-        "what": "Judge Hunt granted final approval to REMAX and Keller Williams Batton 1 settlements totaling $28.5 million, claims due Aug",
-        "numbers": "1, $28.5 million, 25,, 2026.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/batton-1-remax-keller-settlement/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The off-MLS debate moves to Washington, and agents need a clear script",
-        "url": "https://www.housingwire.com/articles/off-mls-antitrust-scrutiny/",
-        "what": "A House panel reviews private listing networks, while Compass cites 4.6% gains and other studies show off MLS homes sell for less.",
-        "numbers": "4.6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/off-mls-antitrust-scrutiny/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Gibson suit plaintiffs can notify MLSs about settlement data duties",
-        "url": "https://www.housingwire.com/articles/gibson-mls-settlement-data-notice/",
-        "what": "Judge Bough let Gibson plaintiffs notify opt-in MLSs that settlement terms require sharing listing and commission data via providers like FBS.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/gibson-mls-settlement-data-notice/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
