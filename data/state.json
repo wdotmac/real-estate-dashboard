@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-10 17:07 UTC",
+  "as_of": "2026-08-10 18:02 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "KBW labels Ellington, Longbridge as outperformers after robust Q2 earnings report",
+      "link": "https://www.housingwire.com/articles/kbw-raises-ellington-eps-outlook/",
+      "published": "Mon, 10 Aug 2026"
+    },
+    {
       "title": "Douglas Elliman narrows its loss in Q2 2026 while launching an AI overhaul",
       "link": "https://www.housingwire.com/articles/douglas-elliman-q2-2026-results/",
       "published": "Mon, 10 Aug 2026"
@@ -162,11 +167,6 @@
     {
       "title": "MITT agrees to buy Cherry Hill, creating $9B residential mortgage REIT",
       "link": "https://www.housingwire.com/articles/tpg-mortgage-investment-trust-acquire-cherry-hill-mortgage-reit-merger/",
-      "published": "Mon, 10 Aug 2026"
-    },
-    {
-      "title": "Borrowers trust AI more than they trust you",
-      "link": "https://www.housingwire.com/articles/borrowers-trust-ai-loan-officers/",
       "published": "Mon, 10 Aug 2026"
     },
     {
@@ -222,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "KBW labels Ellington, Longbridge as outperformers after robust Q2 earnings report",
+        "url": "https://www.housingwire.com/articles/kbw-raises-ellington-eps-outlook/",
+        "what": "Following a strong second-quarter earnings report, analysts at Keefe, Bruyette & Woods released a positive forecast for Ellington Financial and its reverse mortgage subsidiary, Lon",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kbw-raises-ellington-eps-outlook/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "TPO GO exits wholesale channel, aligns with Stockton Mortgage",
         "url": "https://www.housingwire.com/articles/tpo-go-exits-wholesale-stockton/",
@@ -338,15 +347,6 @@
         "what": "Unison closed its UNSN 2026-2 HEI securitization backed by $235M in assets, its 8th deal, with a DBRS rating.",
         "numbers": "2026, 2, $235, 8",
         "justified": "housingwire.com — https://www.housingwire.com/articles/unison-hei-securitization-235m/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Real estate’s consolidation wave is coming for proptech",
-        "url": "https://www.housingwire.com/articles/brokerage-consolidation-proptech-vendors/",
-        "what": "Real estate M&A is pressuring enterprise proptech as consolidators standardize tech stacks, while vendors target midmarket and teams.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/brokerage-consolidation-proptech-vendors/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
