@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-11 15:15 UTC",
+  "as_of": "2026-08-11 17:11 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "HousingWire expands AI strategy to housing data and news",
-      "link": "https://www.housingwire.com/articles/housingwire-expands-ai-strategy-to-housing-data-and-news/",
+      "title": "Compass transaction fee lawsuit faces voluntary dismissal",
+      "link": "https://www.housingwire.com/articles/compass-transaction-fee-dismissal/",
       "published": "Tue, 11 Aug 2026"
     },
     {
-      "title": "The 10 best real estate CRMs for every budget in 2026",
-      "link": "https://www.housingwire.com/articles/best-real-estate-crm/",
+      "title": "Arizona Regional MLS names Jeff Bosch as CEO",
+      "link": "https://www.housingwire.com/articles/armls-jeff-bosch-ceo/",
       "published": "Tue, 11 Aug 2026"
     },
     {
-      "title": "CCM parent to sell $750 million in senior notes",
-      "link": "https://www.housingwire.com/articles/ccm-parent-prices-750-million-senior-notes-2031/",
+      "title": "AI agents could dominate home search, Lower and HouseCanary CEOs say",
+      "link": "https://www.housingwire.com/articles/ai-agents-lower-housecanary/",
       "published": "Tue, 11 Aug 2026"
     },
     {
-      "title": "Illinois Realtors launches housing supply accelerator program",
-      "link": "https://www.housingwire.com/articles/illinois-housing-supply-accelerator/",
+      "title": "Fix-and-flip market shows signs of strain as mortgage rates climb",
+      "link": "https://www.housingwire.com/articles/fix-and-flip-market-mortgage-rates-climb/",
       "published": "Tue, 11 Aug 2026"
     },
     {
-      "title": "SERHANT. enters Colorado with 11-agent founding class",
-      "link": "https://www.housingwire.com/articles/serhant-denver-11-agents/",
+      "title": "Maryland judge rejects loanDepot effort to toss LO comp lawsuit",
+      "link": "https://www.housingwire.com/articles/maryland-judge-loandepot-lo-comp-steering-class-action/",
       "published": "Tue, 11 Aug 2026"
     },
     {
-      "title": "Data center boom is putting more homes near facilities",
-      "link": "https://www.housingwire.com/articles/data-center-boom-is-putting-more-homes-near-facilities/",
+      "title": "What Better’s leadership change means for NEO Home Loans and AI",
+      "link": "https://www.housingwire.com/articles/neo-better-ai-leadership/",
       "published": "Tue, 11 Aug 2026"
     },
     {
@@ -203,20 +203,29 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Why late payments are stalling construction projects, and how to break the cycle",
-        "url": "https://www.housingwire.com/articles/late-payments-construction-cashflow/",
-        "what": "Late payments affect 70% of contractors, and average construction payment cycles run 90 days, creating operational risk for materials and payroll",
-        "numbers": "70, 90",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/late-payments-construction-cashflow/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "Fix-and-flip market shows signs of strain as mortgage rates climb",
+        "url": "https://www.housingwire.com/articles/fix-and-flip-market-mortgage-rates-climb/",
+        "what": "One in five flippers reported selling their homes “mostly below” estimated after-repair values, up from 17% in the previous quarter.",
+        "numbers": "17",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fix-and-flip-market-mortgage-rates-climb/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Waiting until fall won’t make homes more affordable, but here’s what will",
-        "url": "https://www.housingwire.com/articles/fall-home-affordability-preparation/",
-        "what": "Income needed to afford a median-priced home rose to over $120,000, up from $66,000 in 2020",
-        "numbers": "$120,000,, $66,000, 2020., 6.5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fall-home-affordability-preparation/",
+        "title": "Maryland judge rejects loanDepot effort to toss LO comp lawsuit",
+        "url": "https://www.housingwire.com/articles/maryland-judge-loandepot-lo-comp-steering-class-action/",
+        "what": "A federal judge in Maryland has denied loanDepot’s bid to dismiss a proposed class-action lawsuit that accuses the lender of violating federal loan officer compensation rules and s",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/maryland-judge-loandepot-lo-comp-steering-class-action/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Will a cooling labor market keep mortgage rates below 7% in 2026?",
+        "url": "https://www.housingwire.com/articles/will-a-cooling-labor-market-keep-mortgage-rates-below-7-in-2026/",
+        "what": "Locked loan data across all borrower credit profiles shows that mortgage rates continue to hover near 7%",
+        "numbers": "7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/will-a-cooling-labor-market-keep-mortgage-rates-below-7-in-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -250,56 +259,38 @@
     ],
     "housing": [
       {
+        "title": "AI agents could dominate home search, Lower and HouseCanary CEOs say",
+        "url": "https://www.housingwire.com/articles/ai-agents-lower-housecanary/",
+        "what": "Industry executives speaking at HousingWire's AI Summit on Tuesday predict that AI agents will not only continue to take the reins on tasks now performed by real estate agents, loa",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-agents-lower-housecanary/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "What Better’s leadership change means for NEO Home Loans and AI",
+        "url": "https://www.housingwire.com/articles/neo-better-ai-leadership/",
+        "what": "At the HousingWire AI Summit, Ryan Grant said that NEO’s AI-driven workflow has boosted underwriting and closing output.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/neo-better-ai-leadership/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "NAR reports July existing home sales down 1.7%",
+        "url": "https://www.housingwire.com/articles/july-existing-home-sales-nar/",
+        "what": "July existing home sales fell 1.7% to 4.06 million, median price rose 2.0% to $434,100, inventory dipped to 1.54 million.",
+        "numbers": "1.7, 4.06 million, 2.0, $434,100,, 1.54 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/july-existing-home-sales-nar/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "HousingWire expands AI strategy to housing data and news",
         "url": "https://www.housingwire.com/articles/housingwire-expands-ai-strategy-to-housing-data-and-news/",
-        "what": "HousingWire will distribute housing data and analysis via ChatGPT and Claude using MCP, and Intelligence is set to exit beta this month.",
+        "what": "HousingWire will distribute housing data and analysis via AI platforms using MCP, and Intelligence is set to exit beta this month.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/housingwire-expands-ai-strategy-to-housing-data-and-news/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "CCM parent to sell $750 million in senior notes",
-        "url": "https://www.housingwire.com/articles/ccm-parent-prices-750-million-senior-notes-2031/",
-        "what": "CrossCountry Intermediate HoldCo, the direct parent of CrossCountry Mortgage, has priced an upsized offering of $750 million in senior notes due in 2031 as it refinances mortgage s",
-        "numbers": "$750 million, 2031",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ccm-parent-prices-750-million-senior-notes-2031/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Illinois Realtors launches housing supply accelerator program",
-        "url": "https://www.housingwire.com/articles/illinois-housing-supply-accelerator/",
-        "what": "Illinois Realtors launched a program with local officials to reduce zoning and approval barriers and speed housing production statewide.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/illinois-housing-supply-accelerator/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Data center boom is putting more homes near facilities",
-        "url": "https://www.housingwire.com/articles/data-center-boom-is-putting-more-homes-near-facilities/",
-        "what": "The share of home sales within five miles of a data center with at least 50 megawatts of capacity has more than doubled since 2018.",
-        "numbers": "50, 2018.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/data-center-boom-is-putting-more-homes-near-facilities/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Judge pauses NYC pied a terre tax rollout, luxury rentals jump",
-        "url": "https://www.housingwire.com/articles/nyc-pied-a-terre-tax-paused/",
-        "what": "Late Monday afternoon, a judge dealt a blow to New York City Mayor Zohran Mamdani’s plan to charge a so-called pied-à-terre tax on vacant second homes owned by wealthy non-residents",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-pied-a-terre-tax-paused/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Six keys to tuning up the $15 trillion mortgage servicing sector",
-        "url": "https://www.housingwire.com/articles/six-keys-mortgage-servicing-modernization/",
-        "what": "The article argues that AI impact in servicing depends on modernization fundamentals, migration automation, API-based integrations, recapture workflows and a single default lifecycle view",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/six-keys-mortgage-servicing-modernization/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -333,20 +324,29 @@
     ],
     "notables": [
       {
+        "title": "Compass transaction fee lawsuit faces voluntary dismissal",
+        "url": "https://www.housingwire.com/articles/compass-transaction-fee-dismissal/",
+        "what": "Florida homebuyers asked to voluntarily dismiss a lawsuit over Compass's $475 transaction fee after seeking class-action status.",
+        "numbers": "$475",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-transaction-fee-dismissal/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Arizona Regional MLS names Jeff Bosch as CEO",
+        "url": "https://www.housingwire.com/articles/armls-jeff-bosch-ceo/",
+        "what": "ARMLS appointed Jeff Bosch as CEO starting in November, replacing Matt Consalvo, who is retiring after 14 years.",
+        "numbers": "14",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/armls-jeff-bosch-ceo/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "The 10 best real estate CRMs for every budget in 2026",
         "url": "https://www.housingwire.com/articles/best-real-estate-crm/",
         "what": "Want to stay organized and automate tasks without breaking the bank",
         "numbers": "2026.",
         "justified": "housingwire.com — https://www.housingwire.com/articles/best-real-estate-crm/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "SERHANT. enters Colorado with 11-agent founding class",
-        "url": "https://www.housingwire.com/articles/serhant-denver-11-agents/",
-        "what": "SERHANT",
-        "numbers": "11, $1 billion, 12",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/serhant-denver-11-agents/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
