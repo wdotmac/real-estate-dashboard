@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-11 06:03 UTC",
+  "as_of": "2026-08-11 07:36 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Why late payments are stalling construction projects, and how to break the cycle",
+      "link": "https://www.housingwire.com/articles/late-payments-construction-cashflow/",
+      "published": "Tue, 11 Aug 2026"
+    },
+    {
+      "title": "Waiting until fall won’t make homes more affordable, but here’s what will",
+      "link": "https://www.housingwire.com/articles/fall-home-affordability-preparation/",
+      "published": "Tue, 11 Aug 2026"
+    },
+    {
+      "title": "Six keys to tuning up the $15 trillion mortgage servicing sector",
+      "link": "https://www.housingwire.com/articles/six-keys-mortgage-servicing-modernization/",
+      "published": "Tue, 11 Aug 2026"
+    },
+    {
       "title": "Splitero expands home equity investment offering to four new states",
       "link": "https://www.housingwire.com/articles/splitero-expands-home-equity-investment-offering-to-four-new-states/",
       "published": "Mon, 10 Aug 2026"
@@ -152,21 +167,6 @@
     {
       "title": "After scaling Real and eXp, Erinn Nobel wants to build a brokerage with intention",
       "link": "https://www.housingwire.com/articles/enrg-realty-revenue-share/",
-      "published": "Mon, 10 Aug 2026"
-    },
-    {
-      "title": "Consumer groups warn CFPB rollback of mortgage rules could expose borrowers",
-      "link": "https://www.housingwire.com/articles/consumer-groups-warn-cfpb-rollback-of-mortgage-rules-could-expose-borrowers/",
-      "published": "Mon, 10 Aug 2026"
-    },
-    {
-      "title": "UWM faces law firm fraud probe, analyst stock price cuts after Q2 loss, Oaktree deal",
-      "link": "https://www.housingwire.com/articles/uwm-securities-probe-q2-loss/",
-      "published": "Mon, 10 Aug 2026"
-    },
-    {
-      "title": "UWM sues Two Harbors over failed merger deal, seeks to recover more than $500M",
-      "link": "https://www.housingwire.com/articles/uwm-sues-two-harbors-crosscountry-merger/",
       "published": "Mon, 10 Aug 2026"
     },
     {
@@ -202,6 +202,24 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Why late payments are stalling construction projects, and how to break the cycle",
+        "url": "https://www.housingwire.com/articles/late-payments-construction-cashflow/",
+        "what": "Late payments affect 70% of contractors, and average construction payment cycles run 90 days, creating operational risk for materials and payroll",
+        "numbers": "70, 90",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/late-payments-construction-cashflow/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Waiting until fall won’t make homes more affordable, but here’s what will",
+        "url": "https://www.housingwire.com/articles/fall-home-affordability-preparation/",
+        "what": "Income needed to afford a median-priced home rose to over $120,000, up from $66,000 in 2020",
+        "numbers": "$120,000,, $66,000, 2020., 6.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fall-home-affordability-preparation/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Splitero expands home equity investment offering to four new states",
         "url": "https://www.housingwire.com/articles/splitero-expands-home-equity-investment-offering-to-four-new-states/",
@@ -250,6 +268,15 @@
     ],
     "housing": [
       {
+        "title": "Six keys to tuning up the $15 trillion mortgage servicing sector",
+        "url": "https://www.housingwire.com/articles/six-keys-mortgage-servicing-modernization/",
+        "what": "The article argues that AI impact in servicing depends on modernization fundamentals, migration automation, API-based integrations, recapture workflows and a single default lifecycle view",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/six-keys-mortgage-servicing-modernization/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "UWM sues Two Harbors over failed merger deal, seeks to recover more than $500M",
         "url": "https://www.housingwire.com/articles/uwm-sues-two-harbors-crosscountry-merger/",
         "what": "United Wholesale Mortgage filed a lawsuit on Monday accusing Two Harbors Investment Corp",
@@ -264,15 +291,6 @@
         "what": "Following a strong second-quarter earnings report, analysts at Keefe, Bruyette & Woods released a positive forecast for Ellington Financial and its reverse mortgage subsidiary, Lon",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/kbw-raises-ellington-eps-outlook/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "TPO GO exits wholesale channel, aligns with Stockton Mortgage",
-        "url": "https://www.housingwire.com/articles/tpo-go-exits-wholesale-stockton/",
-        "what": "Alliance that closes Aug",
-        "numbers": "10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tpo-go-exits-wholesale-stockton/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-securities-probe-q2-loss/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Douglas Elliman narrows its loss in Q2 2026 while launching an AI overhaul",
-        "url": "https://www.housingwire.com/articles/douglas-elliman-q2-2026-results/",
-        "what": "Douglas Elliman reported improved financial results during the second quarter of 2026 compared to a year ago as the company looks toward the future of the real estate industry.",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/douglas-elliman-q2-2026-results/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Realty of America grows with anchor partner hires in the Carolinas",
-        "url": "https://www.housingwire.com/articles/realty-america-carolinas-expansion/",
-        "what": "Realty of America adds Charles Boyett and Allison Watkins as anchor partners to expand into North and South Carolina.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realty-america-carolinas-expansion/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
