@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-11 09:13 UTC",
+  "as_of": "2026-08-11 10:12 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Judge pauses NYC pied a terre tax rollout, luxury rentals jump",
+      "link": "https://www.housingwire.com/articles/nyc-pied-a-terre-tax-paused/",
+      "published": "Tue, 11 Aug 2026"
+    },
+    {
       "title": "Why late payments are stalling construction projects, and how to break the cycle",
       "link": "https://www.housingwire.com/articles/late-payments-construction-cashflow/",
       "published": "Tue, 11 Aug 2026"
@@ -162,11 +167,6 @@
     {
       "title": "CCM to issue $500M in senior notes as Two Harbors deal nears closing",
       "link": "https://www.housingwire.com/articles/ccm-500m-senior-unsecured-notes-fitch/",
-      "published": "Mon, 10 Aug 2026"
-    },
-    {
-      "title": "After scaling Real and eXp, Erinn Nobel wants to build a brokerage with intention",
-      "link": "https://www.housingwire.com/articles/enrg-realty-revenue-share/",
       "published": "Mon, 10 Aug 2026"
     },
     {
@@ -268,6 +268,15 @@
     ],
     "housing": [
       {
+        "title": "Judge pauses NYC pied a terre tax rollout, luxury rentals jump",
+        "url": "https://www.housingwire.com/articles/nyc-pied-a-terre-tax-paused/",
+        "what": "Late Monday afternoon, a judge dealt a blow to New York City Mayor Zohran Mamdani’s plan to charge a so-called pied-à-terre tax on vacant second homes owned by wealthy non-residents",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-pied-a-terre-tax-paused/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
         "title": "Six keys to tuning up the $15 trillion mortgage servicing sector",
         "url": "https://www.housingwire.com/articles/six-keys-mortgage-servicing-modernization/",
         "what": "The article argues that AI impact in servicing depends on modernization fundamentals, migration automation, API-based integrations, recapture workflows and a single default lifecycle view",
@@ -282,15 +291,6 @@
         "what": "United Wholesale Mortgage filed a lawsuit on Monday accusing Two Harbors Investment Corp",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-sues-two-harbors-crosscountry-merger/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "KBW labels Ellington, Longbridge as outperformers after robust Q2 earnings report",
-        "url": "https://www.housingwire.com/articles/kbw-raises-ellington-eps-outlook/",
-        "what": "Following a strong second-quarter earnings report, analysts at Keefe, Bruyette & Woods released a positive forecast for Ellington Financial and its reverse mortgage subsidiary, Lon",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kbw-raises-ellington-eps-outlook/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
