@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-12 15:14 UTC",
+  "as_of": "2026-08-12 16:11 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "CPI inflation cools in July as shelter rises 0.1%",
+      "link": "https://www.housingwire.com/articles/july-cpi-inflation-shelter/",
+      "published": "Wed, 12 Aug 2026"
+    },
+    {
+      "title": "Optimal Blue’s Kevin Foley discusses AI Labs, Virtual Economist rollout",
+      "link": "https://www.housingwire.com/articles/optimal-blue-kevin-foley-ai/",
+      "published": "Wed, 12 Aug 2026"
+    },
+    {
       "title": "Jeff Glover exits ownership of Michigan Keller Williams locations",
       "link": "https://www.housingwire.com/articles/jeff-glover-exits-ownership-of-michigan-keller-williams-locations/",
       "published": "Wed, 12 Aug 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Tenth Circuit upholds dismissal of Homie antitrust lawsuit",
       "link": "https://www.housingwire.com/articles/homie-antitrust-appeal-dismissal/",
-      "published": "Wed, 12 Aug 2026"
-    },
-    {
-      "title": "Real estate leaders weigh buying vs building AI tools",
-      "link": "https://www.housingwire.com/articles/real-estate-buy-build-ai/",
-      "published": "Wed, 12 Aug 2026"
-    },
-    {
-      "title": "Mortgage applications climb 3.6% after slight drop in rates",
-      "link": "https://www.housingwire.com/articles/mortgage-applications-climb/",
       "published": "Wed, 12 Aug 2026"
     },
     {
@@ -203,6 +203,24 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "CPI inflation cools in July as shelter rises 0.1%",
+        "url": "https://www.housingwire.com/articles/july-cpi-inflation-shelter/",
+        "what": "July CPI rose 0.1% and annual inflation eased to 3.4%, as shelter rose 0.1% and core inflation increased 0.2%.",
+        "numbers": "0.1, 3.4, 0.2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/july-cpi-inflation-shelter/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Optimal Blue’s Kevin Foley discusses AI Labs, Virtual Economist rollout",
+        "url": "https://www.housingwire.com/articles/optimal-blue-kevin-foley-ai/",
+        "what": "Foley said AI Labs will speed AI rollout, while Virtual Economist forecasts rates and lock volume from public data and 35% lock coverage.",
+        "numbers": "35",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/optimal-blue-kevin-foley-ai/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage applications climb 3.6% after slight drop in rates",
         "url": "https://www.housingwire.com/articles/mortgage-applications-climb/",
         "what": "MBA data show mortgage applications rose 3.6% as the 30-year fixed rate fell to 6.77%, and refinance share rose to 40.7%.",
@@ -217,15 +235,6 @@
         "what": "Near-record home prices, elevated mortgage rates and economic instability drove down U.S",
         "numbers": "2",
         "justified": "redfin.com — https://www.redfin.com/news/pending-sales-decline-july-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Legal fight over a ditch puts 265-home Utah project at risk",
-        "url": "https://www.housingwire.com/articles/ditch-lawsuit-utah-265-homes/",
-        "what": "A narrow irrigation ditch runs along the edge of a 142-acre former farm near Willard, about 50 miles north of Salt Lake City",
-        "numbers": "142, 50, 2.74",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ditch-lawsuit-utah-265-homes/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -329,15 +338,6 @@
         "what": "Century Communities leverages AI in land acquisition to help its lean land teams vet sites faster, before contracting or engineering begins.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/how-ai-can-power-a-leaner-meaner-homebuilding-land-team/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Texas HOA laws are changing board responsibilities. Here’s how communities can keep up.",
-        "url": "https://www.housingwire.com/articles/texas-hoa-law-changes/",
-        "what": "Texas HOA boards face added governance requirements as communities grow",
-        "numbers": "1588, 614",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/texas-hoa-law-changes/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
