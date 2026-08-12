@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-12 06:41 UTC",
+  "as_of": "2026-08-12 08:38 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Texas HOA laws are changing board responsibilities. Here’s how communities can keep up.",
+      "link": "https://www.housingwire.com/articles/texas-hoa-law-changes/",
+      "published": "Wed, 12 Aug 2026"
+    },
+    {
+      "title": "When it comes to closing workflow gaps, does one size really fit all?",
+      "link": "https://www.housingwire.com/articles/title-tech-workflow-gaps/",
+      "published": "Wed, 12 Aug 2026"
+    },
+    {
+      "title": "The hidden data problem costing national builders millions",
+      "link": "https://www.housingwire.com/articles/homebuilder-floor-plan-data/",
+      "published": "Wed, 12 Aug 2026"
+    },
+    {
       "title": "Small businesses shun retirement plans over cost, complexity fears",
       "link": "https://www.housingwire.com/articles/small-businesses-shun-retirement-plans-over-cost-complexity-fears/",
       "published": "Tue, 11 Aug 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Epique Realty CEO Josh Miller offers 3-point fix for agent tech adoption",
       "link": "https://www.housingwire.com/articles/epique-realty-josh-miller-3-point-fix-for-agent-tech-adoption/",
-      "published": "Tue, 11 Aug 2026"
-    },
-    {
-      "title": "Mortgage insurers face larger safety net rule for VantageScore 4.0",
-      "link": "https://www.housingwire.com/articles/vantagescore-mortgage-insurers-gse/",
-      "published": "Tue, 11 Aug 2026"
-    },
-    {
-      "title": "Lenders urged to solve business problems before adopting AI",
-      "link": "https://www.housingwire.com/articles/lenders-ai-business-problems/",
-      "published": "Tue, 11 Aug 2026"
-    },
-    {
-      "title": "‘Sounds like competition to me’: Sizing up Google’s real estate play at the AI Summit",
-      "link": "https://www.housingwire.com/articles/lower-housecanary-google-real-estate-listings-ai-summit/",
       "published": "Tue, 11 Aug 2026"
     },
     {
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "The hidden data problem costing national builders millions",
+        "url": "https://www.housingwire.com/articles/homebuilder-floor-plan-data/",
+        "what": "Many builders lack structured visibility into active plans, driving redundancy, slower land decisions and weaker purchasing leverage",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-floor-plan-data/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "‘Sounds like competition to me’: Sizing up Google’s real estate play at the AI Summit",
         "url": "https://www.housingwire.com/articles/lower-housecanary-google-real-estate-listings-ai-summit/",
         "what": "HousingWire's AI Summit welcomed Dan Snyder, CEO of Lower, and Chris Rediger, CEO of HouseCanary, to explore AI's home discovery impact.",
@@ -257,15 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/dfh-beazer-integration/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "AI agents could dominate home search, Lower and HouseCanary CEOs say",
-        "url": "https://www.housingwire.com/articles/ai-agents-lower-housecanary/",
-        "what": "Industry executives speaking at HousingWire's AI Summit on Tuesday predict that AI agents will not only continue to take the reins on tasks now performed by real estate agents, loa",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-agents-lower-housecanary/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Slow Summer Housing Market Gives Buyers More Time, Choices and Negotiating Power",
@@ -296,6 +296,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "Texas HOA laws are changing board responsibilities. Here’s how communities can keep up.",
+        "url": "https://www.housingwire.com/articles/texas-hoa-law-changes/",
+        "what": "Texas HOA boards face added governance requirements as communities grow",
+        "numbers": "1588, 614",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/texas-hoa-law-changes/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "When it comes to closing workflow gaps, does one size really fit all?",
+        "url": "https://www.housingwire.com/articles/title-tech-workflow-gaps/",
+        "what": "The market is shifting from point solutions to providers offering broad workflow gap coverage",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/title-tech-workflow-gaps/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Small businesses shun retirement plans over cost, complexity fears",
         "url": "https://www.housingwire.com/articles/small-businesses-shun-retirement-plans-over-cost-complexity-fears/",
@@ -329,24 +347,6 @@
         "what": "HW AI Summit panelists said AI needs human oversight, vendor controls and monitoring to meet fair lending requirements.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/lenders-ai-business-problems/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Compass transaction fee lawsuit faces voluntary dismissal",
-        "url": "https://www.housingwire.com/articles/compass-transaction-fee-dismissal/",
-        "what": "Florida homebuyers asked to voluntarily dismiss a lawsuit over Compass's $475 transaction fee after seeking class-action status.",
-        "numbers": "$475",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-transaction-fee-dismissal/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Arizona Regional MLS names Jeff Bosch as CEO",
-        "url": "https://www.housingwire.com/articles/armls-jeff-bosch-ceo/",
-        "what": "ARMLS appointed Jeff Bosch as CEO starting in November, replacing Matt Consalvo, who is retiring after 14 years.",
-        "numbers": "14",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/armls-jeff-bosch-ceo/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
