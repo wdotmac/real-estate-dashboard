@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-12 17:12 UTC",
+  "as_of": "2026-08-12 18:07 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "16 indispensable AI tools for real estate agents",
+      "link": "https://www.housingwire.com/articles/ai-tools-real-estate/",
+      "published": "Wed, 12 Aug 2026"
+    },
+    {
+      "title": "Real estate brokerage software: Our 15 top picks for 2026 (+ 6 AI innovators)",
+      "link": "https://www.housingwire.com/articles/real-estate-brokerage-software/",
+      "published": "Wed, 12 Aug 2026"
+    },
+    {
+      "title": "DOJ, Rocket Mortgage seek pause in fair housing case as potential settlement pursued",
+      "link": "https://www.housingwire.com/articles/doj-rocket-fair-housing/",
+      "published": "Wed, 12 Aug 2026"
+    },
+    {
+      "title": "Senate bill targets senior homeowner tax credit for aging-in-place modifications",
+      "link": "https://www.housingwire.com/articles/gillibrand-senior-home-upgrades/",
+      "published": "Wed, 12 Aug 2026"
+    },
+    {
       "title": "CPI inflation cools in July as shelter rises 0.1%",
       "link": "https://www.housingwire.com/articles/july-cpi-inflation-shelter/",
       "published": "Wed, 12 Aug 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Optimal Blue’s Kevin Foley discusses AI Labs, Virtual Economist rollout",
       "link": "https://www.housingwire.com/articles/optimal-blue-kevin-foley-ai/",
-      "published": "Wed, 12 Aug 2026"
-    },
-    {
-      "title": "Jeff Glover exits ownership of Michigan Keller Williams locations",
-      "link": "https://www.housingwire.com/articles/jeff-glover-exits-ownership-of-michigan-keller-williams-locations/",
-      "published": "Wed, 12 Aug 2026"
-    },
-    {
-      "title": "MoxiWorks expands RISE ecosystem with Cloze integration",
-      "link": "https://www.housingwire.com/articles/moxiworks-rise-cloze-integration/",
-      "published": "Wed, 12 Aug 2026"
-    },
-    {
-      "title": "Two Harbors calls UWM lawsuit ‘frivolous,’ slams management for $600M hedge loss",
-      "link": "https://www.housingwire.com/articles/two-harbors-uwm-lawsuit-crosscountry-mortgage/",
-      "published": "Wed, 12 Aug 2026"
-    },
-    {
-      "title": "Tenth Circuit upholds dismissal of Homie antitrust lawsuit",
-      "link": "https://www.housingwire.com/articles/homie-antitrust-appeal-dismissal/",
       "published": "Wed, 12 Aug 2026"
     },
     {
@@ -230,15 +230,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage applications climb 3.6% after slight drop in rates",
-        "url": "https://www.housingwire.com/articles/mortgage-applications-climb/",
-        "what": "MBA data show mortgage applications rose 3.6% as the 30-year fixed rate fell to 6.77%, and refinance share rose to 40.7%.",
-        "numbers": "3.6, 30, 6.77, 40.7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-climb/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Home Sales Drop to Lowest Level in Nearly 2 Years, With Texas and Seattle Driving Decline",
         "url": "https://www.redfin.com/news/pending-sales-decline-july-2026/",
         "what": "Near-record home prices, elevated mortgage rates and economic instability drove down U.S",
@@ -277,6 +268,15 @@
     ],
     "housing": [
       {
+        "title": "DOJ, Rocket Mortgage seek pause in fair housing case as potential settlement pursued",
+        "url": "https://www.housingwire.com/articles/doj-rocket-fair-housing/",
+        "what": "DOJ and Rocket Mortgage seek to pause discovery in a 2024 Fair Housing Act suit as the parties pursue a settlement conference.",
+        "numbers": "2024",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/doj-rocket-fair-housing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Slow Summer Housing Market Gives Buyers More Time, Choices and Negotiating Power",
         "url": "https://www.redfin.com/news/summer-housing-market-austin-chicago-nashville-san-diego-july-2026/",
         "what": "Homebuyers have more choices and more time to make decisions as the market has slowed this summer and sellers are increasingly adjusting their expectations to match, according to Redfin agents",
@@ -287,6 +287,33 @@
       }
     ],
     "notables": [
+      {
+        "title": "16 indispensable AI tools for real estate agents",
+        "url": "https://www.housingwire.com/articles/ai-tools-real-estate/",
+        "what": "Take back your time, improve productivity and boost revenue with these AI tools for real estate agents.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-tools-real-estate/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Real estate brokerage software: Our 15 top picks for 2026 (+ 6 AI innovators)",
+        "url": "https://www.housingwire.com/articles/real-estate-brokerage-software/",
+        "what": "Our top 13 picks for the best real estate brokerage software of 2026 and AI innovators reshaping the industry.",
+        "numbers": "13, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-brokerage-software/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Senate bill targets senior homeowner tax credit for aging-in-place modifications",
+        "url": "https://www.housingwire.com/articles/gillibrand-senior-home-upgrades/",
+        "what": "A new proposal in the Senate is targeting senior homeowners looking to age in place more effectively by offering them a tax credit that would pay for essential home modifications.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gillibrand-senior-home-upgrades/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Jeff Glover exits ownership of Michigan Keller Williams locations",
         "url": "https://www.housingwire.com/articles/jeff-glover-exits-ownership-of-michigan-keller-williams-locations/",
@@ -320,33 +347,6 @@
         "what": "Tenth Circuit affirmed dismissal of Homie’s antitrust suit against NAR and brokerages, citing no plausible conspiracy and timing.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/homie-antitrust-appeal-dismissal/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Real estate leaders weigh buying vs building AI tools",
-        "url": "https://www.housingwire.com/articles/real-estate-buy-build-ai/",
-        "what": "AI Summit speakers said buy vs build decisions hinge on adoption, guardrails, data use terms, and vendor durability.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-buy-build-ai/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "HistoryMaker Homes’ crawl-walk-run approach to AI adoption",
-        "url": "https://www.housingwire.com/articles/historymaker-homes-crawl-walk-run-approach-to-ai-adoption/",
-        "what": "HistoryMaker Homes is adopting AI in phases, partnering with Higharc and launching 60 new floor plans in 18 months.",
-        "numbers": "60, 18",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/historymaker-homes-crawl-walk-run-approach-to-ai-adoption/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How AI can power a leaner, meaner homebuilding land team",
-        "url": "https://www.housingwire.com/articles/how-ai-can-power-a-leaner-meaner-homebuilding-land-team/",
-        "what": "Century Communities leverages AI in land acquisition to help its lean land teams vet sites faster, before contracting or engineering begins.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/how-ai-can-power-a-leaner-meaner-homebuilding-land-team/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
