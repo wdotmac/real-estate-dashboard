@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-12 16:11 UTC",
+  "as_of": "2026-08-12 17:12 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Wed, 12 Aug 2026"
     },
     {
+      "title": "Mortgage Rates to Hold Steady on As-Expected Inflation Report, Dimming Odds of a September Fed Rate Hike",
+      "link": "https://www.redfin.com/news/mortgage-rates-steady-inflation-report/",
+      "published": "Wed, 12 Aug 2026"
+    },
+    {
       "title": "Home Sales Drop to Lowest Level in Nearly 2 Years, With Texas and Seattle Driving Decline",
       "link": "https://www.redfin.com/news/pending-sales-decline-july-2026/",
       "published": "Wed, 12 Aug 2026"
@@ -193,15 +198,19 @@
       "title": "Pending Home Sales Sink to 5-Month Low As Mortgage Rates Rise",
       "link": "https://www.redfin.com/news/housing-market-update-homebuying-demand-stalls-summer/",
       "published": "Thu, 06 Aug 2026"
-    },
-    {
-      "title": "First-Time Buyers Catch a Break As Affordability For U.S. Starter Homes Improves Slightly Faster Than Overall Market",
-      "link": "https://www.redfin.com/news/starter-home-affordability-improving-2026/",
-      "published": "Wed, 05 Aug 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage Rates to Hold Steady on As-Expected Inflation Report, Dimming Odds of a September Fed Rate Hike",
+        "url": "https://www.redfin.com/news/mortgage-rates-steady-inflation-report/",
+        "what": "Takeaway: Rates should see little change today following an as-expected inflation report, but a Fed hike in September seems increasingly unlikely",
+        "numbers": "0.22",
+        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-steady-inflation-report/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "CPI inflation cools in July as shelter rises 0.1%",
         "url": "https://www.housingwire.com/articles/july-cpi-inflation-shelter/",
