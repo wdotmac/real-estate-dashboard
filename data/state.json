@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-12 11:57 UTC",
+  "as_of": "2026-08-12 13:46 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage applications climb 3.6% after slight drop in rates",
+      "link": "https://www.housingwire.com/articles/mortgage-applications-climb/",
+      "published": "Wed, 12 Aug 2026"
+    },
+    {
       "title": "HistoryMaker Homes’ crawl-walk-run approach to AI adoption",
       "link": "https://www.housingwire.com/articles/historymaker-homes-crawl-walk-run-approach-to-ai-adoption/",
       "published": "Wed, 12 Aug 2026"
@@ -165,8 +170,8 @@
       "published": "Wed, 12 Aug 2026"
     },
     {
-      "title": "The hidden data problem costing national builders millions",
-      "link": "https://www.housingwire.com/articles/homebuilder-floor-plan-data/",
+      "title": "Home Sales Drop to Lowest Level in Nearly 2 Years, With Texas and Seattle Driving Decline",
+      "link": "https://www.redfin.com/news/pending-sales-decline-july-2026/",
       "published": "Wed, 12 Aug 2026"
     },
     {
@@ -193,30 +198,34 @@
       "title": "First-Time Buyers Catch a Break As Affordability For U.S. Starter Homes Improves Slightly Faster Than Overall Market",
       "link": "https://www.redfin.com/news/starter-home-affordability-improving-2026/",
       "published": "Wed, 05 Aug 2026"
-    },
-    {
-      "title": "The Income Needed to Afford Typical American Home Holds Steady Near Record High of $110,000",
-      "link": "https://www.redfin.com/news/affordability-homebuying-2026/",
-      "published": "Wed, 05 Aug 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage applications climb 3.6% after slight drop in rates",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-climb/",
+        "what": "MBA data show mortgage applications rose 3.6% as the 30-year fixed rate fell to 6.77%, and refinance share rose to 40.7%.",
+        "numbers": "3.6, 30, 6.77, 40.7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-climb/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Home Sales Drop to Lowest Level in Nearly 2 Years, With Texas and Seattle Driving Decline",
+        "url": "https://www.redfin.com/news/pending-sales-decline-july-2026/",
+        "what": "Near-record home prices, elevated mortgage rates and economic instability drove down U.S",
+        "numbers": "2",
+        "justified": "redfin.com — https://www.redfin.com/news/pending-sales-decline-july-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Legal fight over a ditch puts 265-home Utah project at risk",
         "url": "https://www.housingwire.com/articles/ditch-lawsuit-utah-265-homes/",
         "what": "A narrow irrigation ditch runs along the edge of a 142-acre former farm near Willard, about 50 miles north of Salt Lake City",
         "numbers": "142, 50, 2.74",
         "justified": "housingwire.com — https://www.housingwire.com/articles/ditch-lawsuit-utah-265-homes/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage insurers face larger safety net rule for VantageScore 4.0",
-        "url": "https://www.housingwire.com/articles/vantagescore-mortgage-insurers-gse/",
-        "what": "Mortgage insurers will be required to keep a larger safety net for mortgages originated using VantageScore 4.0 than for comparable loans using Classic FICO, according to new guidan",
-        "numbers": "4.0",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/vantagescore-mortgage-insurers-gse/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -266,24 +275,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/summer-housing-market-austin-chicago-nashville-san-diego-july-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "First-Time Buyers Catch a Break As Affordability For U.S. Starter Homes Improves Slightly Faster Than Overall Market",
-        "url": "https://www.redfin.com/news/starter-home-affordability-improving-2026/",
-        "what": "Starter-home affordability is improving: The income needed to afford a typical U.S",
-        "numbers": "1.5, 0.5",
-        "justified": "redfin.com — https://www.redfin.com/news/starter-home-affordability-improving-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "The Income Needed to Afford Typical American Home Holds Steady Near Record High of $110,000",
-        "url": "https://www.redfin.com/news/affordability-homebuying-2026/",
-        "what": "Housing costs keep rising, but so do incomes, leaving the income required to afford a home largely unchanged from last year’s record high",
-        "numbers": "$22,000, $26,000, $29,000, $110,000",
-        "justified": "redfin.com — https://www.redfin.com/news/affordability-homebuying-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
