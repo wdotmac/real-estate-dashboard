@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-13 13:46 UTC",
+  "as_of": "2026-08-13 15:14 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Wed, 12 Aug 2026"
     },
     {
+      "title": "Nashville’s Hottest Neighborhoods of 2026: Inglewood Brings Some Heat to the Cool Summer Market",
+      "link": "https://www.redfin.com/news/nashville-hottest-neighborhoods-2026/",
+      "published": "Thu, 13 Aug 2026"
+    },
+    {
       "title": "The Number of U.S. Homebuyers Just Dropped to a Record Low, Shifting the Market Further in Buyers’ Favor",
       "link": "https://www.redfin.com/news/buyers-vs-sellers-july-2026/",
       "published": "Thu, 13 Aug 2026"
@@ -193,11 +198,6 @@
       "title": "Mortgage Rates Could Move This Week as Inflation Data Tests the Fed’s Path",
       "link": "https://www.redfin.com/news/mortgage-rate-could-move-from-inflation-data-august-2026/",
       "published": "Mon, 10 Aug 2026"
-    },
-    {
-      "title": "Weak July Jobs Report Could Delay Fed Rate Hike, Giving Homebuyers Some Mortgage-Rate Relief",
-      "link": "https://www.redfin.com/news/weak-july-jobs-report-could-delay-fed-rate-hike/",
-      "published": "Fri, 07 Aug 2026"
     }
   ],
   "feed_101020": {
@@ -228,18 +228,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/mortgage-rate-could-move-from-inflation-data-august-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Weak July Jobs Report Could Delay Fed Rate Hike, Giving Homebuyers Some Mortgage-Rate Relief",
-        "url": "https://www.redfin.com/news/weak-july-jobs-report-could-delay-fed-rate-hike/",
-        "what": "Takeaway: Mortgage rates will see a little relief today on the heels of a weak jobs report that may delay anticipated hikes from the Fed",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/weak-july-jobs-report-could-delay-fed-rate-hike/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Nashville’s Hottest Neighborhoods of 2026: Inglewood Brings Some Heat to the Cool Summer Market",
+        "url": "https://www.redfin.com/news/nashville-hottest-neighborhoods-2026/",
+        "what": "Inglewood, Spring Hill and Christiana are Nashville’s hottest neighborhoods of 2026",
+        "numbers": "2026., 2026,, 2026",
+        "justified": "redfin.com — https://www.redfin.com/news/nashville-hottest-neighborhoods-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "The Number of U.S. Homebuyers Just Dropped to a Record Low, Shifting the Market Further in Buyers’ Favor",
         "url": "https://www.redfin.com/news/buyers-vs-sellers-july-2026/",
