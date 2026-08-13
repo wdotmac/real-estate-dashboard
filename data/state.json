@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-13 15:14 UTC",
+  "as_of": "2026-08-13 16:11 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": -1.9999999999999574
     },
     "mortgage_30y": {
-      "rate_pct": 6.69,
-      "delta_bp_wow": 3.000000000000025
+      "rate_pct": 6.67,
+      "delta_bp_wow": -2.000000000000046
     },
     "starts": {
       "level_saar": 1427.0,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage delinquencies eased in Q2, still higher than 2025",
+      "link": "https://www.housingwire.com/articles/mortgage-delinquency-q2-2026/",
+      "published": "Thu, 13 Aug 2026"
+    },
+    {
+      "title": "Figure posts Q2 revenue jump, net take rate holds at 3.6%",
+      "link": "https://www.housingwire.com/articles/figure-q2-revenue-take-rate/",
+      "published": "Thu, 13 Aug 2026"
+    },
+    {
+      "title": "Private listings face House and Senate scrutiny but Washington can’t sell a home",
+      "link": "https://www.housingwire.com/articles/private-listings-fair-housing-risk/",
+      "published": "Thu, 13 Aug 2026"
+    },
+    {
       "title": "Housing Market Spotlight: Price cuts and the battle for leverage",
       "link": "https://www.housingwire.com/articles/housing-market-spotlight-price-cuts-and-the-battle-for-leverage/",
       "published": "Wed, 12 Aug 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Inventory is down year over year, but months of supply says the market is functioning",
       "link": "https://www.housingwire.com/articles/inventory-is-down-year-over-year-but-months-of-supply-says-the-market-is-functioning/",
-      "published": "Wed, 12 Aug 2026"
-    },
-    {
-      "title": "The next phase of The Real Brokerage’s AI is replacing the work, not the agent",
-      "link": "https://www.housingwire.com/articles/the-next-phase-of-the-real-brokerages-ai-is-replacing-the-work-not-the-agent/",
-      "published": "Wed, 12 Aug 2026"
-    },
-    {
-      "title": "Newrez agrees to $15.5M settlement over forced-place insurance",
-      "link": "https://www.housingwire.com/articles/newrez-insurance-settlement/",
-      "published": "Wed, 12 Aug 2026"
-    },
-    {
-      "title": "MLS leaders say AI requires a new approach to governing real estate data",
-      "link": "https://www.housingwire.com/articles/crmls-northstar-ai-controls-mls-data/",
       "published": "Wed, 12 Aug 2026"
     },
     {
@@ -232,6 +232,24 @@
     ],
     "housing": [
       {
+        "title": "Mortgage delinquencies eased in Q2, still higher than 2025",
+        "url": "https://www.housingwire.com/articles/mortgage-delinquency-q2-2026/",
+        "what": "The seasonally adjusted mortgage delinquency rate fell to 4.37% of all loans outstanding at the end of the second quarter, down 7 basis points from the first quarter but up 44 bps",
+        "numbers": "4.37, 7, 44",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-delinquency-q2-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Private listings face House and Senate scrutiny but Washington can’t sell a home",
+        "url": "https://www.housingwire.com/articles/private-listings-fair-housing-risk/",
+        "what": "As Congress questions private listings, agents are urged to disclose tradeoffs in writing and review neighborhood launch patterns.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/private-listings-fair-housing-risk/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Nashville’s Hottest Neighborhoods of 2026: Inglewood Brings Some Heat to the Cool Summer Market",
         "url": "https://www.redfin.com/news/nashville-hottest-neighborhoods-2026/",
         "what": "Inglewood, Spring Hill and Christiana are Nashville’s hottest neighborhoods of 2026",
@@ -275,18 +293,18 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/inventory-is-down-year-over-year-but-months-of-supply-says-the-market-is-functioning/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "AI can help sellers list homes, agents still drive net proceeds",
-        "url": "https://www.housingwire.com/articles/nar-91-sellers-agents/",
-        "what": "NAR said 91% of 2025 sellers used an agent and FSBO was 5%, as AI tools help listings but not net proceeds and risk control.",
-        "numbers": "91, 2025, 5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-91-sellers-agents/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
+      {
+        "title": "Figure posts Q2 revenue jump, net take rate holds at 3.6%",
+        "url": "https://www.housingwire.com/articles/figure-q2-revenue-take-rate/",
+        "what": "Figure Technology Solutions reported a sharp increase in second-quarter revenue and net income as its consumer loan marketplace volume more than doubled from a year earlier",
+        "numbers": "3.6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/figure-q2-revenue-take-rate/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Offerpad says it is turning the engine back on in 2026",
         "url": "https://www.housingwire.com/articles/offerpad-buying-2026/",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/cotality-2026-wildfire-risk-report-2-5m-properties-1-4t-exposed/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The best real estate software for 2026: 21 top picks for agents + teams",
-        "url": "https://www.housingwire.com/articles/real-estate-software/",
-        "what": "We zero in on the best real estate software for 2026 to help you make the best decisions for your business.",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-software/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Thad Wong warns against AI replacing the personal client connection",
-        "url": "https://www.housingwire.com/articles/agent-first-ai-strategy/",
-        "what": "Thad Wong says his firm uses AI to surface prior client context and automate background work, while keeping agent communication human-led.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/agent-first-ai-strategy/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
