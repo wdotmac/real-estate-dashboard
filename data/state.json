@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-13 11:59 UTC",
+  "as_of": "2026-08-13 13:46 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,16 @@
       "published": "Wed, 12 Aug 2026"
     },
     {
+      "title": "The Number of U.S. Homebuyers Just Dropped to a Record Low, Shifting the Market Further in Buyers’ Favor",
+      "link": "https://www.redfin.com/news/buyers-vs-sellers-july-2026/",
+      "published": "Thu, 13 Aug 2026"
+    },
+    {
+      "title": "U.S. Pending Home Sales, New Listings Show Flickers of Life to Start August",
+      "link": "https://www.redfin.com/news/housing-market-update-flicker-of-life-august/",
+      "published": "Thu, 13 Aug 2026"
+    },
+    {
       "title": "Mortgage Rates to Hold Steady on As-Expected Inflation Report, Dimming Odds of a September Fed Rate Hike",
       "link": "https://www.redfin.com/news/mortgage-rates-steady-inflation-report/",
       "published": "Wed, 12 Aug 2026"
@@ -188,16 +198,6 @@
       "title": "Weak July Jobs Report Could Delay Fed Rate Hike, Giving Homebuyers Some Mortgage-Rate Relief",
       "link": "https://www.redfin.com/news/weak-july-jobs-report-could-delay-fed-rate-hike/",
       "published": "Fri, 07 Aug 2026"
-    },
-    {
-      "title": "Slow Summer Housing Market Gives Buyers More Time, Choices and Negotiating Power",
-      "link": "https://www.redfin.com/news/summer-housing-market-austin-chicago-nashville-san-diego-july-2026/",
-      "published": "Thu, 06 Aug 2026"
-    },
-    {
-      "title": "Pending Home Sales Sink to 5-Month Low As Mortgage Rates Rise",
-      "link": "https://www.redfin.com/news/housing-market-update-homebuying-demand-stalls-summer/",
-      "published": "Thu, 06 Aug 2026"
     }
   ],
   "feed_101020": {
@@ -237,18 +237,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/weak-july-jobs-report-could-delay-fed-rate-hike/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Pending Home Sales Sink to 5-Month Low As Mortgage Rates Rise",
-        "url": "https://www.redfin.com/news/housing-market-update-homebuying-demand-stalls-summer/",
-        "what": "The number of homes going under contract fell 3.7% week over week nationwide—the steepest decline since 2022—as would-be buyers pressed pause amid high mortgage rates",
-        "numbers": "3.7, 2022, 5",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-homebuying-demand-stalls-summer/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "The Number of U.S. Homebuyers Just Dropped to a Record Low, Shifting the Market Further in Buyers’ Favor",
+        "url": "https://www.redfin.com/news/buyers-vs-sellers-july-2026/",
+        "what": "Sellers outnumbered buyers by 51% in July—just shy of December’s record high—giving buyers more negotiating power",
+        "numbers": "51, 967,000, 1,463,000, 80",
+        "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-july-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "U.S. Pending Home Sales, New Listings Show Flickers of Life to Start August",
+        "url": "https://www.redfin.com/news/housing-market-update-flicker-of-life-august/",
+        "what": "The housing market is gaining slight momentum as the summer winds down, but demand remains subdued overall",
+        "numbers": "0.4, 9, 3",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-flicker-of-life-august/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Housing Market Spotlight: Price cuts and the battle for leverage",
         "url": "https://www.housingwire.com/articles/housing-market-spotlight-price-cuts-and-the-battle-for-leverage/",
@@ -275,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/nar-91-sellers-agents/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Slow Summer Housing Market Gives Buyers More Time, Choices and Negotiating Power",
-        "url": "https://www.redfin.com/news/summer-housing-market-austin-chicago-nashville-san-diego-july-2026/",
-        "what": "Homebuyers have more choices and more time to make decisions as the market has slowed this summer and sellers are increasingly adjusting their expectations to match, according to Redfin agents",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/summer-housing-market-austin-chicago-nashville-san-diego-july-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
