@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-14 19:13 UTC",
+  "as_of": "2026-08-14 19:56 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Appeals court reboots NYC pied-à-terre tax rollout after pause",
+      "link": "https://www.housingwire.com/articles/pied-a-terre-lawsuit-moot/",
+      "published": "Fri, 14 Aug 2026"
+    },
+    {
+      "title": "Why 2026 foreclosure gains are not a housing crash signal",
+      "link": "https://www.housingwire.com/articles/why-2026-foreclosure-gains-are-not-a-housing-crash-signal/",
+      "published": "Fri, 14 Aug 2026"
+    },
+    {
       "title": "Radian sells real estate services, plans title sale to PLACE",
       "link": "https://www.housingwire.com/articles/radian-place-title-sale/",
       "published": "Fri, 14 Aug 2026"
@@ -157,16 +167,6 @@
     {
       "title": "NRMLA asks CFPB for new reverse mortgage disclosure framework",
       "link": "https://www.housingwire.com/articles/nrmla-cfpb-reverse-mortgage/",
-      "published": "Fri, 14 Aug 2026"
-    },
-    {
-      "title": "Wyoming MLSs object to NAR settlement data sharing notice",
-      "link": "https://www.housingwire.com/articles/wyoming-mlss-nar-settlement-data/",
-      "published": "Fri, 14 Aug 2026"
-    },
-    {
-      "title": "Better pushes back on Garg’s bid to regain control, citing losses and board concerns",
-      "link": "https://www.housingwire.com/articles/better-vishal-garg-dispute/",
       "published": "Fri, 14 Aug 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Why 2026 foreclosure gains are not a housing crash signal",
+        "url": "https://www.housingwire.com/articles/why-2026-foreclosure-gains-are-not-a-housing-crash-signal/",
+        "what": "Despite all the headlines about foreclosures, the NY Fed index is below 2019 and new listings remain muted, limiting supply pressure in 2026.",
+        "numbers": "2019, 2026.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-2026-foreclosure-gains-are-not-a-housing-crash-signal/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "ARA expands advocacy, hires John Blount to lead lobbying",
         "url": "https://www.housingwire.com/articles/ara-advocacy-john-blount/",
         "what": "ARA hired John Blount as chief lobbyist, aiming to expand from local efforts to a federal advocacy program by 2026.",
@@ -217,15 +226,6 @@
         "what": "Zillow cut 500 jobs, about 7% of staff, offering paid leave and severance up to 21 weeks, and citing efficiency goals.",
         "numbers": "500, 7, 21",
         "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-layoffs-severance-warn/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Portland revamps downtown zoning, office conversions in focus",
-        "url": "https://www.housingwire.com/articles/portland-downtown-zoning-rewrite/",
-        "what": "About a third of commercial real estate in downtown Portland, Oregon, is vacant, city officials say, a byproduct of the COVID-19 pandemic and hybrid work models",
-        "numbers": "19, 25, $80 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/portland-downtown-zoning-rewrite/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
@@ -286,15 +286,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Tenant filing disputes landlord claims in NYC rent freeze case",
-        "url": "https://www.housingwire.com/articles/tenant-groups-nyc-rent-freeze/",
-        "what": "New York City tenant advocates aren’t sitting out the legal battle over a rent freeze",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tenant-groups-nyc-rent-freeze/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
         "title": "Nashville’s Hottest Neighborhoods of 2026: Inglewood Brings Some Heat to the Cool Summer Market",
         "url": "https://www.redfin.com/news/nashville-hottest-neighborhoods-2026/",
         "what": "Inglewood, Spring Hill and Christiana are Nashville’s hottest neighborhoods of 2026",
@@ -323,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Appeals court reboots NYC pied-à-terre tax rollout after pause",
+        "url": "https://www.housingwire.com/articles/pied-a-terre-lawsuit-moot/",
+        "what": "New York City’s ultra-rich started the week with a reprieve from having to prove residency to avoid a pied-à-terre tax",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pied-a-terre-lawsuit-moot/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Radian sells real estate services, plans title sale to PLACE",
         "url": "https://www.housingwire.com/articles/radian-place-title-sale/",
