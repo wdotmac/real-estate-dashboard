@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-08-17 19:41 UTC",
+  "as_of": "2026-08-17 20:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.63,
-      "delta_bp_1d": -4.999999999999982
+      "yield_pct": 4.68,
+      "delta_bp_1d": 4.999999999999982
     },
     "mortgage_30y": {
       "rate_pct": 6.67,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Builder sentiment runs soft as affordability strain subdues orders",
+      "link": "https://www.housingwire.com/articles/builders-incentive-squeeze-margins-builder-confidence/",
+      "published": "Mon, 17 Aug 2026"
+    },
+    {
+      "title": "Projection calls for largest Social Security COLA increase in 4 years",
+      "link": "https://www.housingwire.com/articles/projection-calls-for-largest-social-security-cola-increase-in-4-years/",
+      "published": "Mon, 17 Aug 2026"
+    },
+    {
+      "title": "Keller Williams launches KW Modular agent community",
+      "link": "https://www.housingwire.com/articles/kw-modular-agent-community/",
+      "published": "Mon, 17 Aug 2026"
+    },
+    {
+      "title": "CHLA wants IMBs to be eligible for FHLBank membership",
+      "link": "https://www.housingwire.com/articles/chla-fhlbank-membership-imb/",
+      "published": "Mon, 17 Aug 2026"
+    },
+    {
       "title": "Wells Fargo funds rural housing with $1.5M Habitat partnership",
       "link": "https://www.housingwire.com/articles/wells-fargo-habitat-for-humanity-modular-rural-housing/",
       "published": "Mon, 17 Aug 2026"
@@ -147,26 +167,6 @@
     {
       "title": "J&W Gold Institute launches real estate agent Historic Home Specialist credential",
       "link": "https://www.housingwire.com/articles/historic-home-specialist-designation/",
-      "published": "Mon, 17 Aug 2026"
-    },
-    {
-      "title": "What the mountain-luxury market says about housing demand",
-      "link": "https://www.housingwire.com/articles/summit-county-luxury-not-rate-driven/",
-      "published": "Mon, 17 Aug 2026"
-    },
-    {
-      "title": "When a real estate brokerage grows fast, cash flow and controls still matter",
-      "link": "https://www.housingwire.com/articles/agents-read-10q-brokerage-risk/",
-      "published": "Mon, 17 Aug 2026"
-    },
-    {
-      "title": "Ishbia family’s UWM equity, NBA assets back billions in credit: Bloomberg",
-      "link": "https://www.housingwire.com/articles/bloomberg-ishbia-collateral-uwm/",
-      "published": "Mon, 17 Aug 2026"
-    },
-    {
-      "title": "Redfin adds childcare information to listings",
-      "link": "https://www.housingwire.com/articles/redfin-adds-childcare-information-to-listings/",
       "published": "Mon, 17 Aug 2026"
     },
     {
@@ -219,18 +219,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/market-waits-clues-fed-next-move/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Maxwell partners with Ardley on mortgage lead recapture",
-        "url": "https://www.housingwire.com/articles/maxwell-ardley-lead-recapture/",
-        "what": "Maxwell integrates Ardley analytics to identify refinance, HELOC and purchase borrowers, then nurture leads in POS through a pilot.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/maxwell-ardley-lead-recapture/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Builder sentiment runs soft as affordability strain subdues orders",
+        "url": "https://www.housingwire.com/articles/builders-incentive-squeeze-margins-builder-confidence/",
+        "what": "Builder sentiment improved slightly in August as the NAHB HMI rose to 35, but incentives remained widespread at 63%",
+        "numbers": "35,, 63",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/builders-incentive-squeeze-margins-builder-confidence/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Keller Williams launches KW Modular agent community",
+        "url": "https://www.housingwire.com/articles/kw-modular-agent-community/",
+        "what": "Keller Williams launched KW Modular, a North America agent community offering training, certification and builder connections.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kw-modular-agent-community/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "Wells Fargo funds rural housing with $1.5M Habitat partnership",
         "url": "https://www.housingwire.com/articles/wells-fargo-habitat-for-humanity-modular-rural-housing/",
@@ -306,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "Projection calls for largest Social Security COLA increase in 4 years",
+        "url": "https://www.housingwire.com/articles/projection-calls-for-largest-social-security-cola-increase-in-4-years/",
+        "what": "If the projection holds, average monthly Social Security benefits would increase by about $69.75, from $1,937.53 to $2,007.28.",
+        "numbers": "$69.75,, $1,937.53, $2,007.28.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/projection-calls-for-largest-social-security-cola-increase-in-4-years/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "CHLA wants IMBs to be eligible for FHLBank membership",
+        "url": "https://www.housingwire.com/articles/chla-fhlbank-membership-imb/",
+        "what": "CHLA supports FHFA repeal of Part 1272, urges FHLBank safeguards and IMB membership expansion, citing IMBs at 84% of originations.",
+        "numbers": "1272,, 84",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/chla-fhlbank-membership-imb/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "J&W Gold Institute launches real estate agent Historic Home Specialist credential",
         "url": "https://www.housingwire.com/articles/historic-home-specialist-designation/",
         "what": "J&W Gold Institute launched a Historic Home Specialist credential covering preservation, valuation and compliance for historic sales.",
@@ -320,33 +347,6 @@
         "what": "Fathom’s 10-Q flagged going concern doubt and internal control weaknesses, and described remediation steps after leadership changes.",
         "numbers": "10",
         "justified": "housingwire.com — https://www.housingwire.com/articles/agents-read-10q-brokerage-risk/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Portals show the data, local real estate agent judgment changes the outcome",
-        "url": "https://www.housingwire.com/articles/local-insight-beats-data/",
-        "what": "With listing data widely available, the piece says agents compete on local insight, perspective and clear guidance on what matters now.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/local-insight-beats-data/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Rocket Companies adds Sarah Watterson to board",
-        "url": "https://www.housingwire.com/articles/rocket-adds-watterson-board/",
-        "what": "Rocket Companies named Sarah Watterson as an independent director, expanding the board to 10 members after Q2 2026 earnings.",
-        "numbers": "10, 2, 2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-adds-watterson-board/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "American Real Estate Association advocacy targets raise questions for agents outside coastal markets",
-        "url": "https://www.housingwire.com/articles/ara-advocacy-priorities-dues/",
-        "what": "The article questions ARA advocacy priorities, contrasting a Missouri income tax fight with New York City pied-à-terre tax efforts.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ara-advocacy-priorities-dues/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
