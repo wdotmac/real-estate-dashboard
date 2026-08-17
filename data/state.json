@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-17 15:39 UTC",
+  "as_of": "2026-08-17 16:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,7 +140,17 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "ARA advocacy targets raise questions for agents outside coastal markets",
+      "title": "Maxwell partners with Ardley on mortgage lead recapture",
+      "link": "https://www.housingwire.com/articles/maxwell-ardley-lead-recapture/",
+      "published": "Mon, 17 Aug 2026"
+    },
+    {
+      "title": "Rocket Companies adds Sarah Watterson to board",
+      "link": "https://www.housingwire.com/articles/rocket-adds-watterson-board/",
+      "published": "Mon, 17 Aug 2026"
+    },
+    {
+      "title": "American Real Estate Association advocacy targets raise questions for agents outside coastal markets",
       "link": "https://www.housingwire.com/articles/ara-advocacy-priorities-dues/",
       "published": "Mon, 17 Aug 2026"
     },
@@ -157,16 +167,6 @@
     {
       "title": "Ocusell List to launch inside OneKey MLS",
       "link": "https://www.housingwire.com/articles/ocusell-list-onekey-mls/",
-      "published": "Mon, 17 Aug 2026"
-    },
-    {
-      "title": "Mattamy Homes Q4 revenue drops 18% as orders jump 40%",
-      "link": "https://www.housingwire.com/articles/mattamy-homes-q4-2026-orders-rise/",
-      "published": "Mon, 17 Aug 2026"
-    },
-    {
-      "title": "Cavco, Champion eye long-term growth from chassis removal",
-      "link": "https://www.housingwire.com/articles/cavco-champion-eye-long-term-growth-from-chassis-removal/",
       "published": "Mon, 17 Aug 2026"
     },
     {
@@ -203,29 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Maxwell partners with Ardley on mortgage lead recapture",
+        "url": "https://www.housingwire.com/articles/maxwell-ardley-lead-recapture/",
+        "what": "Maxwell integrates Ardley analytics to identify refinance, HELOC and purchase borrowers, then nurture leads in POS through a pilot.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/maxwell-ardley-lead-recapture/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "New View’s Michael McCully on the drivers of reverse mortgage M&A",
         "url": "https://www.housingwire.com/articles/reverse-mortgage-hmbs-consolidation/",
         "what": "As an M&A wave hits the broader mortgage space, today’s deal activity in the reverse mortgage sector is less about splashy headlines and more about structural pressure building across the industry, according to Michael K",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-hmbs-consolidation/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "How VantageScore 4.0 is expanding opportunity in wholesale lending",
-        "url": "https://www.housingwire.com/articles/vantagescore-4-wholesale-eligibility/",
-        "what": "UWM is piloting VantageScore 4.0 for brokers as an additional credit score option",
-        "numbers": "4.0, 620, $4,000.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/vantagescore-4-wholesale-eligibility/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Inventory edges slightly higher year over year as rates rise",
-        "url": "https://www.housingwire.com/articles/inventory-edges-higher-mid-august/",
-        "what": "Inventory rose to 871,063 in mid-August as rates stayed near highs, while pending sales fell year over year and price cuts hit 41.67%.",
-        "numbers": "871,063, 41.67",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/inventory-edges-higher-mid-august/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -315,7 +306,16 @@
     ],
     "notables": [
       {
-        "title": "ARA advocacy targets raise questions for agents outside coastal markets",
+        "title": "Rocket Companies adds Sarah Watterson to board",
+        "url": "https://www.housingwire.com/articles/rocket-adds-watterson-board/",
+        "what": "Rocket Companies named Sarah Watterson as an independent director, expanding the board to 10 members after Q2 2026 earnings.",
+        "numbers": "10, 2, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-adds-watterson-board/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "American Real Estate Association advocacy targets raise questions for agents outside coastal markets",
         "url": "https://www.housingwire.com/articles/ara-advocacy-priorities-dues/",
         "what": "The article questions ARA advocacy priorities, contrasting a Missouri income tax fight with New York City pied-à-terre tax efforts.",
         "numbers": "",
