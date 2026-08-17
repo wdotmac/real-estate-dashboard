@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-17 20:43 UTC",
+  "as_of": "2026-08-17 21:40 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,12 +140,17 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Southern Land hires Highland Homes vet to lead homebuilding",
+      "link": "https://www.housingwire.com/articles/southern-land-hires-highland-homes-vet-to-lead-homebuilding/",
+      "published": "Mon, 17 Aug 2026"
+    },
+    {
       "title": "Builder sentiment runs soft as affordability strain subdues orders",
       "link": "https://www.housingwire.com/articles/builders-incentive-squeeze-margins-builder-confidence/",
       "published": "Mon, 17 Aug 2026"
     },
     {
-      "title": "Projection calls for largest Social Security COLA increase in 4 years",
+      "title": "Social Security’s COLA increase in 2027 could be its largest in 4 years",
       "link": "https://www.housingwire.com/articles/projection-calls-for-largest-social-security-cola-increase-in-4-years/",
       "published": "Mon, 17 Aug 2026"
     },
@@ -162,11 +167,6 @@
     {
       "title": "Wells Fargo funds rural housing with $1.5M Habitat partnership",
       "link": "https://www.housingwire.com/articles/wells-fargo-habitat-for-humanity-modular-rural-housing/",
-      "published": "Mon, 17 Aug 2026"
-    },
-    {
-      "title": "J&W Gold Institute launches real estate agent Historic Home Specialist credential",
-      "link": "https://www.housingwire.com/articles/historic-home-specialist-designation/",
       "published": "Mon, 17 Aug 2026"
     },
     {
@@ -205,8 +205,8 @@
       {
         "title": "What the mountain-luxury market says about housing demand",
         "url": "https://www.housingwire.com/articles/summit-county-luxury-not-rate-driven/",
-        "what": "A Summit County agent says cash luxury demand tracks wealth and liquidity more than rates, diverging from Denver and Colorado Springs.",
-        "numbers": "",
+        "what": "Resort buyers respond more to liquidity, equity markets and taxes than to the 10-year yield.",
+        "numbers": "10",
         "justified": "housingwire.com — https://www.housingwire.com/articles/summit-county-luxury-not-rate-driven/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
@@ -225,47 +225,38 @@
       {
         "title": "Builder sentiment runs soft as affordability strain subdues orders",
         "url": "https://www.housingwire.com/articles/builders-incentive-squeeze-margins-builder-confidence/",
-        "what": "Builder sentiment improved slightly in August as the NAHB HMI rose to 35, but incentives remained widespread at 63%",
-        "numbers": "35,, 63",
+        "what": "Homebuilders continue to rely on incentives to drive sales",
+        "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/builders-incentive-squeeze-margins-builder-confidence/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Keller Williams launches KW Modular agent community",
         "url": "https://www.housingwire.com/articles/kw-modular-agent-community/",
-        "what": "Keller Williams launched KW Modular, a North America agent community offering training, certification and builder connections.",
+        "what": "New community offers training, certification and builder connections for KW agents across North America.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/kw-modular-agent-community/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Wells Fargo funds rural housing with $1.5M Habitat partnership",
-        "url": "https://www.housingwire.com/articles/wells-fargo-habitat-for-humanity-modular-rural-housing/",
-        "what": "Wells Fargo is investing $1.5 million in Habitat for Humanity to scale modular and other innovative home construction approaches in rural and small-town communities across the U.S., the organizations announced Monday at the Iowa State Fair",
-        "numbers": "$1.5 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/wells-fargo-habitat-for-humanity-modular-rural-housing/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Ishbia family’s UWM equity, NBA assets back billions in credit: Bloomberg",
-        "url": "https://www.housingwire.com/articles/bloomberg-ishbia-collateral-uwm/",
-        "what": "Public filings show how the Ishbia family’s stake in United Wholesale Mortgage and its sports assets underpin a network of loans, according to a Bloomberg report.",
+        "title": "CHLA wants IMBs to be eligible for FHLBank membership",
+        "url": "https://www.housingwire.com/articles/chla-fhlbank-membership-imb/",
+        "what": "Group warns against expanded mortgage purchases while urging modernized membership and annual lending reviews",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bloomberg-ishbia-collateral-uwm/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/chla-fhlbank-membership-imb/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Redfin adds childcare information to listings",
-        "url": "https://www.housingwire.com/articles/redfin-adds-childcare-information-to-listings/",
-        "what": "Home shoppers can now see nearby daycare and preschool options alongside each listing, including distance from the home, reviews and more.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/redfin-adds-childcare-information-to-listings/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+        "title": "Wells Fargo funds rural housing with $1.5M Habitat partnership",
+        "url": "https://www.housingwire.com/articles/wells-fargo-habitat-for-humanity-modular-rural-housing/",
+        "what": "The $1.5 million investment aims to expand modular homebuilding in rural areas",
+        "numbers": "$1.5 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/wells-fargo-habitat-for-humanity-modular-rural-housing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Housing and Childcare Consume More Than Half of the Typical U.S. Family’s Income–But Costs Vary Widely by Metro",
@@ -315,38 +306,47 @@
     ],
     "notables": [
       {
-        "title": "Projection calls for largest Social Security COLA increase in 4 years",
-        "url": "https://www.housingwire.com/articles/projection-calls-for-largest-social-security-cola-increase-in-4-years/",
-        "what": "If the projection holds, average monthly Social Security benefits would increase by about $69.75, from $1,937.53 to $2,007.28.",
-        "numbers": "$69.75,, $1,937.53, $2,007.28.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/projection-calls-for-largest-social-security-cola-increase-in-4-years/",
+        "title": "Southern Land hires Highland Homes vet to lead homebuilding",
+        "url": "https://www.housingwire.com/articles/southern-land-hires-highland-homes-vet-to-lead-homebuilding/",
+        "what": "Marchbanks will lead homebuilding operations and help scale master-planned communities in Tennessee, Texas and Colorado",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/southern-land-hires-highland-homes-vet-to-lead-homebuilding/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "CHLA wants IMBs to be eligible for FHLBank membership",
-        "url": "https://www.housingwire.com/articles/chla-fhlbank-membership-imb/",
-        "what": "CHLA supports FHFA repeal of Part 1272, urges FHLBank safeguards and IMB membership expansion, citing IMBs at 84% of originations.",
-        "numbers": "1272,, 84",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/chla-fhlbank-membership-imb/",
+        "title": "Social Security’s COLA increase in 2027 could be its largest in 4 years",
+        "url": "https://www.housingwire.com/articles/projection-calls-for-largest-social-security-cola-increase-in-4-years/",
+        "what": "The Social Security Administration is scheduled to announce the official 2027 COLA Oct",
+        "numbers": "2027, 14",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/projection-calls-for-largest-social-security-cola-increase-in-4-years/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "J&W Gold Institute launches real estate agent Historic Home Specialist credential",
         "url": "https://www.housingwire.com/articles/historic-home-specialist-designation/",
-        "what": "J&W Gold Institute launched a Historic Home Specialist credential covering preservation, valuation and compliance for historic sales.",
+        "what": "Curriculum covers preservation standards, valuation methods, incentives and design review processes for landmark transactions.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/historic-home-specialist-designation/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "When a real estate brokerage grows fast, cash flow and controls still matter",
         "url": "https://www.housingwire.com/articles/agents-read-10q-brokerage-risk/",
-        "what": "Fathom’s 10-Q flagged going concern doubt and internal control weaknesses, and described remediation steps after leadership changes.",
-        "numbers": "10",
+        "what": "The Fathom filing included going concern language, a remediation plan and criticism of former leadership’s tone and ethics support.",
+        "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/agents-read-10q-brokerage-risk/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Ishbia family’s UWM equity, NBA assets back billions in credit: Bloomberg",
+        "url": "https://www.housingwire.com/articles/bloomberg-ishbia-collateral-uwm/",
+        "what": "Bloomberg report details how UWM equity, tax rebates and NBA assets back billions in credit from JPMorgan",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bloomberg-ishbia-collateral-uwm/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
