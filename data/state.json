@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-17 17:44 UTC",
+  "as_of": "2026-08-17 18:56 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "What the mountain-luxury market says about housing demand",
+      "link": "https://www.housingwire.com/articles/summit-county-luxury-not-rate-driven/",
+      "published": "Mon, 17 Aug 2026"
+    },
+    {
       "title": "When a real estate brokerage grows fast, cash flow and controls still matter",
       "link": "https://www.housingwire.com/articles/agents-read-10q-brokerage-risk/",
       "published": "Mon, 17 Aug 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Maxwell partners with Ardley on mortgage lead recapture",
       "link": "https://www.housingwire.com/articles/maxwell-ardley-lead-recapture/",
-      "published": "Mon, 17 Aug 2026"
-    },
-    {
-      "title": "Rocket Companies adds Sarah Watterson to board",
-      "link": "https://www.housingwire.com/articles/rocket-adds-watterson-board/",
       "published": "Mon, 17 Aug 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "What the mountain-luxury market says about housing demand",
+        "url": "https://www.housingwire.com/articles/summit-county-luxury-not-rate-driven/",
+        "what": "A Summit County agent says cash luxury demand tracks wealth and liquidity more than rates, diverging from Denver and Colorado Springs.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/summit-county-luxury-not-rate-driven/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Markets Await Clues on Fed’s Next Moves as We Enter a Quiet Week For Data Releases",
         "url": "https://www.redfin.com/news/market-waits-clues-fed-next-move/",
@@ -338,15 +347,6 @@
         "what": "CFPB will stop publishing unverified complaint narratives and related visualizations, keeping prior narratives in its FOIA reading room.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-halts-complaint-narratives/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Ocusell List to launch inside OneKey MLS",
-        "url": "https://www.housingwire.com/articles/ocusell-list-onekey-mls/",
-        "what": "Ocusell will launch List inside OneKey MLS, autopopulating up to 70 fields, adding rule checks, and offering AI remarks tools.",
-        "numbers": "70",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ocusell-list-onekey-mls/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
