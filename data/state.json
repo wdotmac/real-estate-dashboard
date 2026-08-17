@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-17 11:39 UTC",
+  "as_of": "2026-08-17 13:04 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,16 @@
       "published": "Fri, 14 Aug 2026"
     },
     {
+      "title": "Housing and Childcare Consume More Than Half of the Typical U.S. Family’s Income–But Costs Vary Widely by Metro",
+      "link": "https://www.redfin.com/news/housing-childcare-costs-winnie/",
+      "published": "Mon, 17 Aug 2026"
+    },
+    {
+      "title": "Redfin Brings Childcare Information to Home Listings",
+      "link": "https://www.redfin.com/news/redfin-brings-childcare-information-to-home-listings/",
+      "published": "Mon, 17 Aug 2026"
+    },
+    {
       "title": "Nashville’s Hottest Neighborhoods of 2026: Inglewood Brings Some Heat to the Cool Summer Market",
       "link": "https://www.redfin.com/news/nashville-hottest-neighborhoods-2026/",
       "published": "Thu, 13 Aug 2026"
@@ -188,16 +198,6 @@
       "title": "Mortgage Rates to Hold Steady on As-Expected Inflation Report, Dimming Odds of a September Fed Rate Hike",
       "link": "https://www.redfin.com/news/mortgage-rates-steady-inflation-report/",
       "published": "Wed, 12 Aug 2026"
-    },
-    {
-      "title": "Home Sales Drop to Lowest Level in Nearly 2 Years, With Texas and Seattle Driving Decline",
-      "link": "https://www.redfin.com/news/pending-sales-decline-july-2026/",
-      "published": "Wed, 12 Aug 2026"
-    },
-    {
-      "title": "Mortgage Rates Could Move This Week as Inflation Data Tests the Fed’s Path",
-      "link": "https://www.redfin.com/news/mortgage-rate-could-move-from-inflation-data-august-2026/",
-      "published": "Mon, 10 Aug 2026"
     }
   ],
   "feed_101020": {
@@ -246,27 +246,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-steady-inflation-report/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Home Sales Drop to Lowest Level in Nearly 2 Years, With Texas and Seattle Driving Decline",
-        "url": "https://www.redfin.com/news/pending-sales-decline-july-2026/",
-        "what": "Near-record home prices, elevated mortgage rates and economic instability drove down U.S",
-        "numbers": "2",
-        "justified": "redfin.com — https://www.redfin.com/news/pending-sales-decline-july-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage Rates Could Move This Week as Inflation Data Tests the Fed’s Path",
-        "url": "https://www.redfin.com/news/mortgage-rate-could-move-from-inflation-data-august-2026/",
-        "what": "In A Nutshell: Rates remain precarious this week with highly anticipated inflation data coming Wednesday, which could determine if the Fed hikes at their next meeting",
-        "numbers": "16",
-        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rate-could-move-from-inflation-data-august-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Housing and Childcare Consume More Than Half of the Typical U.S. Family’s Income–But Costs Vary Widely by Metro",
+        "url": "https://www.redfin.com/news/housing-childcare-costs-winnie/",
+        "what": "Where a family lives can change the affordability equation: housing and childcare consume 40% of the typical working family’s income in Little Rock, compared with 97% in Los Angeles",
+        "numbers": "40, 97",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-childcare-costs-winnie/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Redfin Brings Childcare Information to Home Listings",
+        "url": "https://www.redfin.com/news/redfin-brings-childcare-information-to-home-listings/",
+        "what": "Home searchers can now see nearby daycare and preschool options from Winnie directly on Redfin, making it easier to understand whether a neighborhood works for their family Choosing a home is about more than bedrooms, bathrooms and square footage",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/redfin-brings-childcare-information-to-home-listings/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "The mortgage industry’s AI problem is not what you think it is",
         "url": "https://www.housingwire.com/articles/mortgage-ai-operations-infrastructure/",
