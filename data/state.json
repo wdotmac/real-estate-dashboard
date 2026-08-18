@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-18 11:40 UTC",
+  "as_of": "2026-08-18 13:06 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -11,8 +11,8 @@
       "delta_bp_wow": -2.000000000000046
     },
     "starts": {
-      "level_saar": 1427.0,
-      "mom": 0.19015846538782322
+      "level_saar": 1239.0,
+      "mom": -0.12438162544169606
     }
   },
   "permits": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Cash buyer market share falling from pandemic highs",
+      "link": "https://www.housingwire.com/articles/cash-buyer-market-share-falling-from-pandemic-highs/",
+      "published": "Tue, 18 Aug 2026"
+    },
+    {
       "title": "Mortgage critical defect rate rises to 1.71% in Q1 2026",
       "link": "https://www.housingwire.com/articles/critical-defect-rate-rises/",
       "published": "Tue, 18 Aug 2026"
@@ -165,9 +170,9 @@
       "published": "Mon, 17 Aug 2026"
     },
     {
-      "title": "Builder sentiment runs soft as affordability strain subdues orders",
-      "link": "https://www.housingwire.com/articles/builders-incentive-squeeze-margins-builder-confidence/",
-      "published": "Mon, 17 Aug 2026"
+      "title": "U.S. Home Prices Rose 0.27% in July, Essentially Unchanged From a Month Earlier",
+      "link": "https://www.redfin.com/news/home-price-index-july-2026/",
+      "published": "Tue, 18 Aug 2026"
     },
     {
       "title": "Markets Await Clues on Fed’s Next Moves as We Enter a Quiet Week For Data Releases",
@@ -193,11 +198,6 @@
       "title": "The Number of U.S. Homebuyers Just Dropped to a Record Low, Shifting the Market Further in Buyers’ Favor",
       "link": "https://www.redfin.com/news/buyers-vs-sellers-july-2026/",
       "published": "Thu, 13 Aug 2026"
-    },
-    {
-      "title": "U.S. Pending Home Sales, New Listings Show Flickers of Life to Start August",
-      "link": "https://www.redfin.com/news/housing-market-update-flicker-of-life-august/",
-      "published": "Thu, 13 Aug 2026"
     }
   ],
   "feed_101020": {
@@ -213,6 +213,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Cash buyer market share falling from pandemic highs",
+        "url": "https://www.housingwire.com/articles/cash-buyer-market-share-falling-from-pandemic-highs/",
+        "what": "Total home sales fell 8.5% year-over-year, while the number of cash transactions dropped 11.2%",
+        "numbers": "8.5, 11.2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cash-buyer-market-share-falling-from-pandemic-highs/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "U.S. Home Prices Rose 0.27% in July, Essentially Unchanged From a Month Earlier",
+        "url": "https://www.redfin.com/news/home-price-index-july-2026/",
+        "what": "U.S",
+        "numbers": "0.27, 0.28, 3.4",
+        "justified": "redfin.com — https://www.redfin.com/news/home-price-index-july-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage critical defect rate rises to 1.71% in Q1 2026",
         "url": "https://www.housingwire.com/articles/critical-defect-rate-rises/",
@@ -268,15 +286,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Wells Fargo funds rural housing with $1.5M Habitat partnership",
-        "url": "https://www.housingwire.com/articles/wells-fargo-habitat-for-humanity-modular-rural-housing/",
-        "what": "The $1.5 million investment aims to expand modular homebuilding in rural areas",
-        "numbers": "$1.5 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/wells-fargo-habitat-for-humanity-modular-rural-housing/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Housing and Childcare Consume More Than Half of the Typical U.S. Family’s Income–But Costs Vary Widely by Metro",
         "url": "https://www.redfin.com/news/housing-childcare-costs-winnie/",
         "what": "Where a family lives can change the affordability equation: housing and childcare consume 40% of the typical working family’s income in Little Rock, compared with 97% in Los Angeles",
@@ -293,15 +302,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/redfin-brings-childcare-information-to-home-listings/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Nashville’s Hottest Neighborhoods of 2026: Inglewood Brings Some Heat to the Cool Summer Market",
-        "url": "https://www.redfin.com/news/nashville-hottest-neighborhoods-2026/",
-        "what": "Inglewood, Spring Hill and Christiana are Nashville’s hottest neighborhoods of 2026",
-        "numbers": "2026., 2026,, 2026",
-        "justified": "redfin.com — https://www.redfin.com/news/nashville-hottest-neighborhoods-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
