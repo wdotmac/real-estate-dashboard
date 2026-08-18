@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-18 17:42 UTC",
+  "as_of": "2026-08-18 18:55 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "AD Mortgage completes $407M securitization, its sixth of the year",
+      "link": "https://www.housingwire.com/articles/ad-mortgage-securitization-407m/",
+      "published": "Tue, 18 Aug 2026"
+    },
+    {
+      "title": "Atlas VMS expands Texas footprint with First Appraisal Management acquisition",
+      "link": "https://www.housingwire.com/articles/atlas-vms-acquires-first-appraisal-management-texas-appraisal-operations/",
+      "published": "Tue, 18 Aug 2026"
+    },
+    {
+      "title": "July housing starts fall as both single-family and multifamily slow",
+      "link": "https://www.housingwire.com/articles/july-2026-housing-starts-drop-permits-rise/",
+      "published": "Tue, 18 Aug 2026"
+    },
+    {
+      "title": "ATTOM expands AI platform with specialized agents, MCP server",
+      "link": "https://www.housingwire.com/articles/attom-expands-ai-platform-with-specialized-agents-mcp-server/",
+      "published": "Tue, 18 Aug 2026"
+    },
+    {
       "title": "Buyer representation agreements drive confusion, LernMore says",
       "link": "https://www.housingwire.com/articles/buyer-agreements-lernmore-confusion/",
       "published": "Tue, 18 Aug 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Checkr acquires Truv, expands mortgage income verification capacity",
       "link": "https://www.housingwire.com/articles/checkr-acquires-truv-mortgage-government-income-verification/",
-      "published": "Tue, 18 Aug 2026"
-    },
-    {
-      "title": "Gary Keller tells agents why rates did not fall and what it means for 2026",
-      "link": "https://www.housingwire.com/articles/keller-rates-affordability-2026/",
-      "published": "Tue, 18 Aug 2026"
-    },
-    {
-      "title": "Tidalwave continues mortgage tech expansion, hiring Rebecca Frisbie and Zac Basile",
-      "link": "https://www.housingwire.com/articles/tidalwave-hires-rebecca-frisbie-zac-basile/",
-      "published": "Tue, 18 Aug 2026"
-    },
-    {
-      "title": "Mortgage rates fall again, but are borrowers stretching budgets too far?",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-fall-delinquencies/",
-      "published": "Tue, 18 Aug 2026"
-    },
-    {
-      "title": "IMBs lift profits in Q2 as costs fall, volumes rise",
-      "link": "https://www.housingwire.com/articles/imb-mortgage-profits-q2-2026/",
       "published": "Tue, 18 Aug 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "ATTOM expands AI platform with specialized agents, MCP server",
+        "url": "https://www.housingwire.com/articles/attom-expands-ai-platform-with-specialized-agents-mcp-server/",
+        "what": "The platform integrates with enterprise chat tools like Claude and ChatGPT",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/attom-expands-ai-platform-with-specialized-agents-mcp-server/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Gary Keller tells agents why rates did not fall and what it means for 2026",
         "url": "https://www.housingwire.com/articles/keller-rates-affordability-2026/",
         "what": "KW cited a 6.86% 30-year rate, 5.4% home price growth, and 4.1 million existing home sales.",
@@ -232,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "AD Mortgage completes $407M securitization, its sixth of the year",
+        "url": "https://www.housingwire.com/articles/ad-mortgage-securitization-407m/",
+        "what": "Imperial Fund Asset Management sponsored the deal, with 79% of loans originated by AD Mortgage",
+        "numbers": "79",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ad-mortgage-securitization-407m/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "July housing starts fall as both single-family and multifamily slow",
+        "url": "https://www.housingwire.com/articles/july-2026-housing-starts-drop-permits-rise/",
+        "what": "Housing starts fell 12.4%, more than expected, but permits rose 5%, a possible signal of tightening supply",
+        "numbers": "12.4, 5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/july-2026-housing-starts-drop-permits-rise/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Checkr acquires Truv, expands mortgage income verification capacity",
         "url": "https://www.housingwire.com/articles/checkr-acquires-truv-mortgage-government-income-verification/",
         "what": "Deal reflects broader shift to centralized, API-driven verification platforms that seek to combat fraud, speed underwriting and meet regulatory standards",
@@ -248,33 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/tidalwave-hires-rebecca-frisbie-zac-basile/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "GoRascal adds Matador Lending in Texas mortgage push",
-        "url": "https://www.housingwire.com/articles/gorascal-matador-lending-merger-texas-mortgage-broker/",
-        "what": "Deal adds 50 Texas loan officers and a $200 million annual run rate to GoRascal",
-        "numbers": "50, $200 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/gorascal-matador-lending-merger-texas-mortgage-broker/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Lennar Mortgage discloses data security incident",
-        "url": "https://www.housingwire.com/articles/lennar-mortgage-data-security/",
-        "what": "The company is offering 2 years of complimentary identity monitoring",
-        "numbers": "2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lennar-mortgage-data-security/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Pending home sales dip in July — Midwest fares best",
-        "url": "https://www.housingwire.com/articles/pending-home-sales-dip-in-july-midwest-fares-best/",
-        "what": "Despite broader slowdown, several major metros posted notable annual gains",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pending-home-sales-dip-in-july-midwest-fares-best/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Chicago’s Hottest Neighborhoods of 2026: Humboldt Park Gets Its Moment in the Sun",
@@ -324,6 +324,15 @@
     ],
     "notables": [
       {
+        "title": "Atlas VMS expands Texas footprint with First Appraisal Management acquisition",
+        "url": "https://www.housingwire.com/articles/atlas-vms-acquires-first-appraisal-management-texas-appraisal-operations/",
+        "what": "Deal reflects ongoing consolidation among AMCs and gives lenders operating in Texas a larger, tech-enabled platform paired with established local expertise",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/atlas-vms-acquires-first-appraisal-management-texas-appraisal-operations/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Buyer representation agreements drive confusion, LernMore says",
         "url": "https://www.housingwire.com/articles/buyer-agreements-lernmore-confusion/",
         "what": "Contract tool LernMore says buyers are decoding clauses line by line, with support in 70+ languages.",
@@ -338,15 +347,6 @@
         "what": "Lenders reported an average pretax net production profit of $973 per loan",
         "numbers": "$973",
         "justified": "housingwire.com — https://www.housingwire.com/articles/imb-mortgage-profits-q2-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "REMAX CEO Erik Carlson to step down after Real acquisition closes",
-        "url": "https://www.housingwire.com/articles/erik-carlson-step-down-real-remax/",
-        "what": "Real confirmed Carlson will join the Real REMAX Board, while reports say 2 other REMAX executives may also exit.",
-        "numbers": "2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/erik-carlson-step-down-real-remax/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
