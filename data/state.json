@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-18 10:45 UTC",
+  "as_of": "2026-08-18 11:40 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage critical defect rate rises to 1.71% in Q1 2026",
+      "link": "https://www.housingwire.com/articles/critical-defect-rate-rises/",
+      "published": "Tue, 18 Aug 2026"
+    },
+    {
       "title": "Don’t let the 21st Century ROAD to Housing Act become a road to nowhere",
       "link": "https://www.housingwire.com/articles/road-housing-act-implementation/",
       "published": "Tue, 18 Aug 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Builder sentiment runs soft as affordability strain subdues orders",
       "link": "https://www.housingwire.com/articles/builders-incentive-squeeze-margins-builder-confidence/",
-      "published": "Mon, 17 Aug 2026"
-    },
-    {
-      "title": "Social Security’s COLA increase in 2027 could be its largest in 4 years",
-      "link": "https://www.housingwire.com/articles/projection-calls-for-largest-social-security-cola-increase-in-4-years/",
       "published": "Mon, 17 Aug 2026"
     },
     {
@@ -213,6 +213,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Mortgage critical defect rate rises to 1.71% in Q1 2026",
+        "url": "https://www.housingwire.com/articles/critical-defect-rate-rises/",
+        "what": "ACES data shows legal and compliance defects at 26.02% of findings",
+        "numbers": "26.02",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/critical-defect-rate-rises/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Don’t let the 21st Century ROAD to Housing Act become a road to nowhere",
         "url": "https://www.housingwire.com/articles/road-housing-act-implementation/",
@@ -293,15 +302,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/nashville-hottest-neighborhoods-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "The Number of U.S. Homebuyers Just Dropped to a Record Low, Shifting the Market Further in Buyers’ Favor",
-        "url": "https://www.redfin.com/news/buyers-vs-sellers-july-2026/",
-        "what": "Sellers outnumbered buyers by 51% in July—just shy of December’s record high—giving buyers more negotiating power",
-        "numbers": "51, 967,000, 1,463,000, 80",
-        "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-july-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
@@ -331,15 +331,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/projection-calls-for-largest-social-security-cola-increase-in-4-years/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "J&W Gold Institute launches real estate agent Historic Home Specialist credential",
-        "url": "https://www.housingwire.com/articles/historic-home-specialist-designation/",
-        "what": "Curriculum covers preservation standards, valuation methods, incentives and design review processes for landmark transactions.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/historic-home-specialist-designation/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
