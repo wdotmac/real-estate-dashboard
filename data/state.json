@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-18 05:44 UTC",
+  "as_of": "2026-08-18 07:03 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Don’t let the 21st Century ROAD to Housing Act become a road to nowhere",
+      "link": "https://www.housingwire.com/articles/road-housing-act-implementation/",
+      "published": "Tue, 18 Aug 2026"
+    },
+    {
+      "title": "The income is real. The paperwork just doesn’t tell the full story.",
+      "link": "https://www.housingwire.com/articles/non-qm-loans-guide/",
+      "published": "Tue, 18 Aug 2026"
+    },
+    {
+      "title": "Mortgage AI is evolving. The next step is connecting the systems behind it.",
+      "link": "https://www.housingwire.com/articles/mortgage-ai-connected-systems/",
+      "published": "Tue, 18 Aug 2026"
+    },
+    {
       "title": "Southern Land hires Highland Homes vet to lead homebuilding",
       "link": "https://www.housingwire.com/articles/southern-land-hires-highland-homes-vet-to-lead-homebuilding/",
       "published": "Mon, 17 Aug 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Social Security’s COLA increase in 2027 could be its largest in 4 years",
       "link": "https://www.housingwire.com/articles/projection-calls-for-largest-social-security-cola-increase-in-4-years/",
-      "published": "Mon, 17 Aug 2026"
-    },
-    {
-      "title": "Keller Williams launches KW Modular agent community",
-      "link": "https://www.housingwire.com/articles/kw-modular-agent-community/",
-      "published": "Mon, 17 Aug 2026"
-    },
-    {
-      "title": "CHLA wants IMBs to be eligible for FHLBank membership",
-      "link": "https://www.housingwire.com/articles/chla-fhlbank-membership-imb/",
-      "published": "Mon, 17 Aug 2026"
-    },
-    {
-      "title": "Wells Fargo funds rural housing with $1.5M Habitat partnership",
-      "link": "https://www.housingwire.com/articles/wells-fargo-habitat-for-humanity-modular-rural-housing/",
       "published": "Mon, 17 Aug 2026"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "What the mountain-luxury market says about housing demand",
-        "url": "https://www.housingwire.com/articles/summit-county-luxury-not-rate-driven/",
-        "what": "Resort buyers respond more to liquidity, equity markets and taxes than to the 10-year yield.",
-        "numbers": "10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/summit-county-luxury-not-rate-driven/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Markets Await Clues on Fed’s Next Moves as We Enter a Quiet Week For Data Releases",
         "url": "https://www.redfin.com/news/market-waits-clues-fed-next-move/",
         "what": "In A Nutshell: The economic calendar is light this week with little new information for markets to chew on",
@@ -222,6 +213,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Don’t let the 21st Century ROAD to Housing Act become a road to nowhere",
+        "url": "https://www.housingwire.com/articles/road-housing-act-implementation/",
+        "what": "More than 50 provisions need new HUD rules and guidance before programs can deliver results",
+        "numbers": "50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/road-housing-act-implementation/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Mortgage AI is evolving. The next step is connecting the systems behind it.",
+        "url": "https://www.housingwire.com/articles/mortgage-ai-connected-systems/",
+        "what": "STRATMOR data shows 68% use AI for document indexing; value depends on data flowing through POS, LOS and close",
+        "numbers": "68",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-ai-connected-systems/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Builder sentiment runs soft as affordability strain subdues orders",
         "url": "https://www.housingwire.com/articles/builders-incentive-squeeze-margins-builder-confidence/",
@@ -293,18 +302,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-july-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "U.S. Pending Home Sales, New Listings Show Flickers of Life to Start August",
-        "url": "https://www.redfin.com/news/housing-market-update-flicker-of-life-august/",
-        "what": "The housing market is gaining slight momentum as the summer winds down, but demand remains subdued overall",
-        "numbers": "0.4, 9, 3",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-flicker-of-life-august/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
+      {
+        "title": "The income is real. The paperwork just doesn’t tell the full story.",
+        "url": "https://www.housingwire.com/articles/non-qm-loans-guide/",
+        "what": "A plain-English guide to non-QM loans for self-employed borrowers and real estate investors",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/non-qm-loans-guide/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Southern Land hires Highland Homes vet to lead homebuilding",
         "url": "https://www.housingwire.com/articles/southern-land-hires-highland-homes-vet-to-lead-homebuilding/",
@@ -331,24 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/historic-home-specialist-designation/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "When a real estate brokerage grows fast, cash flow and controls still matter",
-        "url": "https://www.housingwire.com/articles/agents-read-10q-brokerage-risk/",
-        "what": "The Fathom filing included going concern language, a remediation plan and criticism of former leadership’s tone and ethics support.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/agents-read-10q-brokerage-risk/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Ishbia family’s UWM equity, NBA assets back billions in credit: Bloomberg",
-        "url": "https://www.housingwire.com/articles/bloomberg-ishbia-collateral-uwm/",
-        "what": "Bloomberg report details how UWM equity, tax rebates and NBA assets back billions in credit from JPMorgan",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bloomberg-ishbia-collateral-uwm/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
