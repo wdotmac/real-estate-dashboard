@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-18 21:37 UTC",
+  "as_of": "2026-08-18 22:41 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "This is why the US doesn’t have a housing shortage",
+      "link": "https://www.housingwire.com/articles/july-permits-up-starts-down/",
+      "published": "Tue, 18 Aug 2026"
+    },
+    {
       "title": "Better sues Vishal Garg over alleged securities violations",
       "link": "https://www.housingwire.com/articles/better-garg-board-control-lawsuit/",
       "published": "Tue, 18 Aug 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Real names Jenna Rozenblat president of Real REMAX Group",
       "link": "https://www.housingwire.com/articles/real-rozenblat-real-remax/",
-      "published": "Tue, 18 Aug 2026"
-    },
-    {
-      "title": "Multifamily distress grows, but data suggest a contained problem",
-      "link": "https://www.housingwire.com/articles/multifamily-loan-maturities-refinancing/",
       "published": "Tue, 18 Aug 2026"
     },
     {
@@ -223,6 +223,15 @@
     ],
     "housing": [
       {
+        "title": "This is why the US doesn’t have a housing shortage",
+        "url": "https://www.housingwire.com/articles/july-permits-up-starts-down/",
+        "what": "The builders have tried their best to manage supply with buydowns",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/july-permits-up-starts-down/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Zillow faces renewed RESPA claims in amended Taylor suit",
         "url": "https://www.housingwire.com/articles/zillow-respa-taylor-armstrong/",
         "what": "hird amended complaint narrows to 5 plaintiffs and cites a study estimating $2,881 higher costs per ZHL loan.",
@@ -248,15 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/ad-mortgage-securitization-407m/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "July housing starts fall as both single-family and multifamily slow",
-        "url": "https://www.housingwire.com/articles/july-2026-housing-starts-drop-permits-rise/",
-        "what": "Housing starts fell 12.4%, more than expected, but permits rose 5%, a possible signal of tightening supply",
-        "numbers": "12.4, 5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/july-2026-housing-starts-drop-permits-rise/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Chicago’s Hottest Neighborhoods of 2026: Humboldt Park Gets Its Moment in the Sun",
