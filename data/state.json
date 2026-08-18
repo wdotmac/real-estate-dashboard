@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-18 13:56 UTC",
+  "as_of": "2026-08-18 14:52 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Class Valuation acquires Allstate Appraisal",
+      "link": "https://www.housingwire.com/articles/class-valuation-acquires-allstate/",
+      "published": "Tue, 18 Aug 2026"
+    },
+    {
       "title": "The old Texas map may show where growth goes next",
       "link": "https://www.housingwire.com/articles/texas-growth-county-seats/",
       "published": "Tue, 18 Aug 2026"
@@ -165,8 +170,8 @@
       "published": "Tue, 18 Aug 2026"
     },
     {
-      "title": "Mortgage AI is evolving. The next step is connecting the systems behind it.",
-      "link": "https://www.housingwire.com/articles/mortgage-ai-connected-systems/",
+      "title": "Chicago’s Hottest Neighborhoods of 2026: Humboldt Park Gets Its Moment in the Sun",
+      "link": "https://www.redfin.com/news/chicago-hottest-neighborhoods-2026/",
       "published": "Tue, 18 Aug 2026"
     },
     {
@@ -193,11 +198,6 @@
       "title": "Nashville’s Hottest Neighborhoods of 2026: Inglewood Brings Some Heat to the Cool Summer Market",
       "link": "https://www.redfin.com/news/nashville-hottest-neighborhoods-2026/",
       "published": "Thu, 13 Aug 2026"
-    },
-    {
-      "title": "The Number of U.S. Homebuyers Just Dropped to a Record Low, Shifting the Market Further in Buyers’ Favor",
-      "link": "https://www.redfin.com/news/buyers-vs-sellers-july-2026/",
-      "published": "Thu, 13 Aug 2026"
     }
   ],
   "feed_101020": {
@@ -222,6 +222,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Class Valuation acquires Allstate Appraisal",
+        "url": "https://www.housingwire.com/articles/class-valuation-acquires-allstate/",
+        "what": "Allstate will operate with its current team while gaining access to Class Valuation technology",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/class-valuation-acquires-allstate/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Chicago’s Hottest Neighborhoods of 2026: Humboldt Park Gets Its Moment in the Sun",
+        "url": "https://www.redfin.com/news/chicago-hottest-neighborhoods-2026/",
+        "what": "Humboldt Park, Huntley and Belmont Cragin are Chicago’s hottest neighborhoods of 2026",
+        "numbers": "2026., 2026,, 2026",
+        "justified": "redfin.com — https://www.redfin.com/news/chicago-hottest-neighborhoods-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Cash buyer market share falling from pandemic highs",
         "url": "https://www.housingwire.com/articles/cash-buyer-market-share-falling-from-pandemic-highs/",
@@ -277,15 +295,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Keller Williams launches KW Modular agent community",
-        "url": "https://www.housingwire.com/articles/kw-modular-agent-community/",
-        "what": "New community offers training, certification and builder connections for KW agents across North America.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kw-modular-agent-community/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Housing and Childcare Consume More Than Half of the Typical U.S. Family’s Income–But Costs Vary Widely by Metro",
         "url": "https://www.redfin.com/news/housing-childcare-costs-winnie/",
         "what": "Where a family lives can change the affordability equation: housing and childcare consume 40% of the typical working family’s income in Little Rock, compared with 97% in Los Angeles",
@@ -302,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/redfin-brings-childcare-information-to-home-listings/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Nashville’s Hottest Neighborhoods of 2026: Inglewood Brings Some Heat to the Cool Summer Market",
-        "url": "https://www.redfin.com/news/nashville-hottest-neighborhoods-2026/",
-        "what": "Inglewood, Spring Hill and Christiana are Nashville’s hottest neighborhoods of 2026",
-        "numbers": "2026., 2026,, 2026",
-        "justified": "redfin.com — https://www.redfin.com/news/nashville-hottest-neighborhoods-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
