@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-08-19 19:39 UTC",
+  "as_of": "2026-08-19 20:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.72,
-      "delta_bp_1d": 4.0000000000000036
+      "yield_pct": 4.71,
+      "delta_bp_1d": -0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.67,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Modular Building Institute sues Oregon over modular wage rule",
+      "link": "https://www.housingwire.com/articles/oregon-modular-housing-suit/",
+      "published": "Wed, 19 Aug 2026"
+    },
+    {
+      "title": "KB Home’s CEO says scale matters most at the local level",
+      "link": "https://www.housingwire.com/articles/kb-home-local-scale/",
+      "published": "Wed, 19 Aug 2026"
+    },
+    {
+      "title": "Better places co-founder Nicholas Calamari on administrative leave",
+      "link": "https://www.housingwire.com/articles/better-nicholas-calamari-leave/",
+      "published": "Wed, 19 Aug 2026"
+    },
+    {
       "title": "Eighth Circuit upholds NAR commission lawsuit settlement",
       "link": "https://www.housingwire.com/articles/eighth-circuit-nar-settlement/",
       "published": "Wed, 19 Aug 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Bank of America, PNC share top ranking in Keynova’s 2026 home equity scorecard",
       "link": "https://www.housingwire.com/articles/keynova-2026-home-equity-scorecard/",
-      "published": "Wed, 19 Aug 2026"
-    },
-    {
-      "title": "Evergreen Home Loans launches BrokerBrand TPO channel",
-      "link": "https://www.housingwire.com/articles/evergreen-brokerbrand-tpo-channel/",
-      "published": "Wed, 19 Aug 2026"
-    },
-    {
-      "title": "First American Title honors retiring president",
-      "link": "https://www.housingwire.com/articles/first-american-title-honors-retiring-president/",
-      "published": "Wed, 19 Aug 2026"
-    },
-    {
-      "title": "NAR launches quarterly index for commercial real estate demand",
-      "link": "https://www.housingwire.com/articles/nar-quarterly-cre-index/",
       "published": "Wed, 19 Aug 2026"
     },
     {
@@ -221,15 +221,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Mortgage applications fall 0.4% as rates see little change",
-        "url": "https://www.housingwire.com/articles/mortgage-applications-decrease/",
-        "what": "Purchase index fell 2% as borrowers faced renewed affordability pressure and limited rate movement",
-        "numbers": "2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-decrease/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Markets Await Clues on Fed’s Next Moves as We Enter a Quiet Week For Data Releases",
         "url": "https://www.redfin.com/news/market-waits-clues-fed-next-move/",
         "what": "In A Nutshell: The economic calendar is light this week with little new information for markets to chew on",
@@ -241,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "KB Home’s CEO says scale matters most at the local level",
+        "url": "https://www.housingwire.com/articles/kb-home-local-scale/",
+        "what": "President and CEO Rob McGibney set a goal to be a top-3 builder in each market while keeping Built to Order central to operations",
+        "numbers": "3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kb-home-local-scale/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Why the 2026 mortgage layoff cycle looks different",
         "url": "https://www.housingwire.com/articles/mortgage-layoffs-expected-to-rise-as-rates-remain-high-margins-stay-thin/",
         "what": "Mortgage industry faces renewed job pressure amid flat volume and tech gains",
@@ -248,24 +248,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-layoffs-expected-to-rise-as-rates-remain-high-margins-stay-thin/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Housing Market Spotlight: How to read national housing trends in your local market",
-        "url": "https://www.housingwire.com/articles/how-to-read-local-housing-market-trends/",
-        "what": "Minneapolis, Denver and Chicago show how supply, seller behavior and buyer demand can reveal where local housing markets are shifting",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/how-to-read-local-housing-market-trends/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Shaun Harkley joins MoxiWorks as SVP of sales",
-        "url": "https://www.housingwire.com/articles/shaun-harkley-moxiworks-svp-sales/",
-        "what": "Former Rechat head of sales starts Sept",
-        "numbers": "14, 4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/shaun-harkley-moxiworks-svp-sales/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "California Dreamin’: $130M Bel Air Estate Tops July’s Priciest Home Sales",
@@ -314,6 +296,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "Modular Building Institute sues Oregon over modular wage rule",
+        "url": "https://www.housingwire.com/articles/oregon-modular-housing-suit/",
+        "what": "The case targets HB 2688 and a July 1, 2026 rule applying Oregon prevailing wages to out-of-state bespoke modules",
+        "numbers": "2688, 1,, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/oregon-modular-housing-suit/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Better places co-founder Nicholas Calamari on administrative leave",
+        "url": "https://www.housingwire.com/articles/better-nicholas-calamari-leave/",
+        "what": "Calamari, a co-founder and long-tenured executive, has been with Better since 2014",
+        "numbers": "2014",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-nicholas-calamari-leave/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Eighth Circuit upholds NAR commission lawsuit settlement",
         "url": "https://www.housingwire.com/articles/eighth-circuit-nar-settlement/",
