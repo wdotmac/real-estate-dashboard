@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-20 11:41 UTC",
+  "as_of": "2026-08-20 13:10 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Why starter homes got harder to build at scale",
+      "link": "https://www.housingwire.com/articles/missing-starter-homes-scale/",
+      "published": "Thu, 20 Aug 2026"
+    },
+    {
       "title": "Longbridge rolls out market insights platform for reverse mortgage brokers",
       "link": "https://www.housingwire.com/articles/free-reverse-mortgage-dashboard-ramp/",
       "published": "Thu, 20 Aug 2026"
@@ -165,9 +170,9 @@
       "published": "Thu, 20 Aug 2026"
     },
     {
-      "title": "Beyond townhomes: tips from the experts on designing for density",
-      "link": "https://www.housingwire.com/articles/density-mandates-product-mix/",
-      "published": "Wed, 19 Aug 2026"
+      "title": "New Listings Tick Up As Summer Winds Down",
+      "link": "https://www.redfin.com/news/housing-market-update-new-listings-tick-up-august/",
+      "published": "Thu, 20 Aug 2026"
     },
     {
       "title": "California Dreamin’: $130M Bel Air Estate Tops July’s Priciest Home Sales",
@@ -193,15 +198,19 @@
       "title": "Housing and Childcare Consume More Than Half of the Typical U.S. Family’s Income–But Costs Vary Widely by Metro",
       "link": "https://www.redfin.com/news/housing-childcare-costs-winnie/",
       "published": "Mon, 17 Aug 2026"
-    },
-    {
-      "title": "Redfin Brings Childcare Information to Home Listings",
-      "link": "https://www.redfin.com/news/redfin-brings-childcare-information-to-home-listings/",
-      "published": "Mon, 17 Aug 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "New Listings Tick Up As Summer Winds Down",
+        "url": "https://www.redfin.com/news/housing-market-update-new-listings-tick-up-august/",
+        "what": "High housing costs and economic uncertainty pushed pending home sales to their lowest level since March",
+        "numbers": "1.2, 16.",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-new-listings-tick-up-august/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Markets Await Clues on Fed’s Next Moves as We Enter a Quiet Week For Data Releases",
         "url": "https://www.redfin.com/news/market-waits-clues-fed-next-move/",
@@ -213,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Why starter homes got harder to build at scale",
+        "url": "https://www.housingwire.com/articles/missing-starter-homes-scale/",
+        "what": "A postwar payment model close to rent contrasts with today’s land, infrastructure, and public-builder return thresholds",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/missing-starter-homes-scale/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "Longbridge rolls out market insights platform for reverse mortgage brokers",
         "url": "https://www.housingwire.com/articles/free-reverse-mortgage-dashboard-ramp/",
@@ -275,15 +293,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-childcare-costs-winnie/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Redfin Brings Childcare Information to Home Listings",
-        "url": "https://www.redfin.com/news/redfin-brings-childcare-information-to-home-listings/",
-        "what": "Home searchers can now see nearby daycare and preschool options from Winnie directly on Redfin, making it easier to understand whether a neighborhood works for their family Choosing a home is about more than bedrooms, bathrooms and square footage",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/redfin-brings-childcare-information-to-home-listings/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
@@ -338,15 +347,6 @@
         "what": "Calamari, a co-founder and long-tenured executive, has been with Better since 2014",
         "numbers": "2014",
         "justified": "housingwire.com — https://www.housingwire.com/articles/better-nicholas-calamari-leave/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Eighth Circuit upholds NAR commission lawsuit settlement",
-        "url": "https://www.housingwire.com/articles/eighth-circuit-nar-settlement/",
-        "what": "Parties have two weeks from Aug",
-        "numbers": "19, 2024",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/eighth-circuit-nar-settlement/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
