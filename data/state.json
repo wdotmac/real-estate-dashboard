@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-08-20 19:45 UTC",
+  "as_of": "2026-08-20 20:45 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.71,
-      "delta_bp_1d": -0.9999999999999787
+      "yield_pct": 4.65,
+      "delta_bp_1d": -5.999999999999961
     },
     "mortgage_30y": {
       "rate_pct": 6.65,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Dream Finders bets empty nesters want amenities, not age limits",
+      "link": "https://www.housingwire.com/articles/dream-finders-reverie-resort-lifestyle-non-age-restricted/",
+      "published": "Thu, 20 Aug 2026"
+    },
+    {
+      "title": "Luminate Bank acquires select assets of First State Mortgage Services",
+      "link": "https://www.housingwire.com/articles/luminate-first-state-assets/",
+      "published": "Thu, 20 Aug 2026"
+    },
+    {
+      "title": "Toll Brothers luxury moat meets a tougher market test",
+      "link": "https://www.housingwire.com/articles/toll-brothers-luxury-housing-risk/",
+      "published": "Thu, 20 Aug 2026"
+    },
+    {
+      "title": "New tax on high-value second homes challenged in Rhode Island",
+      "link": "https://www.housingwire.com/articles/high-value-second-homes-tax-challenged-in-rhode-island/",
+      "published": "Thu, 20 Aug 2026"
+    },
+    {
       "title": "Unlock MLS redefines participants, adds data licensing",
       "link": "https://www.housingwire.com/articles/unlock-mls-data-licensing/",
       "published": "Thu, 20 Aug 2026"
@@ -147,26 +167,6 @@
     {
       "title": "FHFA says GSE foreclosure prevention actions fell in May",
       "link": "https://www.housingwire.com/articles/fhfa-says-gse-foreclosure-prevention-actions-fell-in-may/",
-      "published": "Thu, 20 Aug 2026"
-    },
-    {
-      "title": "Zillow layoffs included longtime exec Sara Bonert",
-      "link": "https://www.housingwire.com/articles/zillow-layoffs-sara-bonert/",
-      "published": "Thu, 20 Aug 2026"
-    },
-    {
-      "title": "Point favors deliberate growth with new HEI wholesale channel",
-      "link": "https://www.housingwire.com/articles/point-wholesale-hei-brokers/",
-      "published": "Thu, 20 Aug 2026"
-    },
-    {
-      "title": "MLS critics call it anti-competitive. These brokers say it helps them compete",
-      "link": "https://www.housingwire.com/articles/mls-levels-playing-field/",
-      "published": "Thu, 20 Aug 2026"
-    },
-    {
-      "title": "Is Zillow having its AOL moment?",
-      "link": "https://www.housingwire.com/articles/zillow-compass-listing-control/",
       "published": "Thu, 20 Aug 2026"
     },
     {
@@ -222,6 +222,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Dream Finders bets empty nesters want amenities, not age limits",
+        "url": "https://www.housingwire.com/articles/dream-finders-reverie-resort-lifestyle-non-age-restricted/",
+        "what": "Reverie active adult brand targets Gen X buyers seeking amenities and connection, while builders look to protect margins",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/dream-finders-reverie-resort-lifestyle-non-age-restricted/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Luminate Bank acquires select assets of First State Mortgage Services",
+        "url": "https://www.housingwire.com/articles/luminate-first-state-assets/",
+        "what": "Luminate adds volume and a larger Midwest presence",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/luminate-first-state-assets/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Zillow layoffs included longtime exec Sara Bonert",
         "url": "https://www.housingwire.com/articles/zillow-layoffs-sara-bonert/",
@@ -279,6 +297,24 @@
     ],
     "notables": [
       {
+        "title": "Toll Brothers luxury moat meets a tougher market test",
+        "url": "https://www.housingwire.com/articles/toll-brothers-luxury-housing-risk/",
+        "what": "Cash buyers were 25% of deliveries, and the average loan-to-value was 69% in fiscal Q3",
+        "numbers": "25, 69, 3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/toll-brothers-luxury-housing-risk/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "New tax on high-value second homes challenged in Rhode Island",
+        "url": "https://www.housingwire.com/articles/high-value-second-homes-tax-challenged-in-rhode-island/",
+        "what": "Plaintiffs say the law should not target out-of-state residents who cannot vote in Rhode Island",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/high-value-second-homes-tax-challenged-in-rhode-island/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Unlock MLS redefines participants, adds data licensing",
         "url": "https://www.housingwire.com/articles/unlock-mls-data-licensing/",
         "what": "Starting Sept",
@@ -311,42 +347,6 @@
         "what": "CMLS 2023 papers frame MLS as an information sharing system with network effects that lower search costs.",
         "numbers": "2023",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mls-levels-playing-field/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The 2026 halftime report: Four ways to win the second half",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-halftime-2026/",
-        "what": "With pull-through gaps and shifting buyer trust, the fastest wins were pipeline conversion and equity reviews",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-halftime-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "New home purchase applications down 5.7% annually in July",
-        "url": "https://www.housingwire.com/articles/new-home-purchase-applications/",
-        "what": "MBA estimated sales at a 647,000 annual pace, down 3% from June",
-        "numbers": "647,000, 3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-purchase-applications/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "New American Funding partners with Kastle to deploy AI agents",
-        "url": "https://www.housingwire.com/articles/new-american-funding-kastle/",
-        "what": "NAF says the platform will handle end-to-end customer interactions and add a self-service channel while supporting compliance",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-american-funding-kastle/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Better rolls out a poison pill as Garg fights for control",
-        "url": "https://www.housingwire.com/articles/better-home-poison-pill/",
-        "what": "Plan triggers at 15% ownership or voting power and runs through 2027",
-        "numbers": "15, 2027",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-home-poison-pill/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
