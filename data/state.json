@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-20 05:45 UTC",
+  "as_of": "2026-08-20 07:05 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "AI-forward vs AI-native: The label matters less than what the AI actually knows",
+      "link": "https://www.housingwire.com/articles/ai-forward-ai-native-mortgage-tech/",
+      "published": "Thu, 20 Aug 2026"
+    },
+    {
+      "title": "Unified analytics: The new lending brand advantage",
+      "link": "https://www.housingwire.com/articles/unified-analytics-lending-brand/",
+      "published": "Thu, 20 Aug 2026"
+    },
+    {
+      "title": "New homebuilder survey: Where builders see risk and opportunity in the second half of 2026",
+      "link": "https://www.housingwire.com/articles/homebuilder-survey-2026-costs/",
+      "published": "Thu, 20 Aug 2026"
+    },
+    {
       "title": "Beyond townhomes: tips from the experts on designing for density",
       "link": "https://www.housingwire.com/articles/density-mandates-product-mix/",
       "published": "Wed, 19 Aug 2026"
@@ -152,21 +167,6 @@
     {
       "title": "KB Home’s CEO says scale matters most at the local level",
       "link": "https://www.housingwire.com/articles/kb-home-local-scale/",
-      "published": "Wed, 19 Aug 2026"
-    },
-    {
-      "title": "Better places co-founder Nicholas Calamari on administrative leave",
-      "link": "https://www.housingwire.com/articles/better-nicholas-calamari-leave/",
-      "published": "Wed, 19 Aug 2026"
-    },
-    {
-      "title": "Eighth Circuit upholds NAR commission lawsuit settlement",
-      "link": "https://www.housingwire.com/articles/eighth-circuit-nar-settlement/",
-      "published": "Wed, 19 Aug 2026"
-    },
-    {
-      "title": "The metrics that matter most aren’t on your real estate production report",
-      "link": "https://www.housingwire.com/articles/agent-referrals-repeat-reputation/",
       "published": "Wed, 19 Aug 2026"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "NAR launches quarterly index for commercial real estate demand",
-        "url": "https://www.housingwire.com/articles/nar-quarterly-cre-index/",
-        "what": "The tool compares each metro to peers, where 100 is average and higher scores indicate stronger relative demand drivers.",
-        "numbers": "100",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-quarterly-cre-index/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Markets Await Clues on Fed’s Next Moves as We Enter a Quiet Week For Data Releases",
         "url": "https://www.redfin.com/news/market-waits-clues-fed-next-move/",
         "what": "In A Nutshell: The economic calendar is light this week with little new information for markets to chew on",
@@ -231,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "New homebuilder survey: Where builders see risk and opportunity in the second half of 2026",
+        "url": "https://www.housingwire.com/articles/homebuilder-survey-2026-costs/",
+        "what": "A new executive survey shows intensifying margin pressure and highlights the homebuilder growth strategies that matter most through 2026",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-survey-2026-costs/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "KB Home’s CEO says scale matters most at the local level",
         "url": "https://www.housingwire.com/articles/kb-home-local-scale/",
@@ -288,6 +288,24 @@
     ],
     "notables": [
       {
+        "title": "AI-forward vs AI-native: The label matters less than what the AI actually knows",
+        "url": "https://www.housingwire.com/articles/ai-forward-ai-native-mortgage-tech/",
+        "what": "In regulated, high-variance lending, model maturity depends on exposure to edge cases and day-to-day production files",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-forward-ai-native-mortgage-tech/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Unified analytics: The new lending brand advantage",
+        "url": "https://www.housingwire.com/articles/unified-analytics-lending-brand/",
+        "what": "More than 2 in 3 online applications are abandoned, and valuation inconsistencies can erode trust across channels",
+        "numbers": "2, 3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/unified-analytics-lending-brand/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Beyond townhomes: tips from the experts on designing for density",
         "url": "https://www.housingwire.com/articles/density-mandates-product-mix/",
         "what": "Market-specific design, amenities and products can satisfy density requirements and make projects pencil while appealing to buyers",
@@ -331,24 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/agent-referrals-repeat-reputation/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Evergreen Home Loans launches BrokerBrand TPO channel",
-        "url": "https://www.housingwire.com/articles/evergreen-brokerbrand-tpo-channel/",
-        "what": "Led by Bob Marseilles, the new TPO channel offers conventional, government, jumbo and specialty products",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/evergreen-brokerbrand-tpo-channel/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "First American Title honors retiring president",
-        "url": "https://www.housingwire.com/articles/first-american-title-honors-retiring-president/",
-        "what": "Tyler will remain actively engaged with First American through the end of 2026",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/first-american-title-honors-retiring-president/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
