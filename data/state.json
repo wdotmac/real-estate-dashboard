@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-21 16:50 UTC",
+  "as_of": "2026-08-21 17:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Judge narrows Veterans United suit but lets RESPA claims proceed",
+      "link": "https://www.housingwire.com/articles/missouri-judge-veterans-united-respa-kickback-claims/",
+      "published": "Fri, 21 Aug 2026"
+    },
+    {
+      "title": "The scarcity pitch for private listings leaves out the key condition",
+      "link": "https://www.housingwire.com/articles/listing-visibility-scarcity/",
+      "published": "Fri, 21 Aug 2026"
+    },
+    {
       "title": "Antitrust suit claims Compass pullback from StreetEasy raised NYC rents",
       "link": "https://www.housingwire.com/articles/compass-streeteasy-delisting-antitrust-nyc/",
       "published": "Fri, 21 Aug 2026"
@@ -157,16 +167,6 @@
     {
       "title": "CoStar closes $800M Zonda acquisition",
       "link": "https://www.housingwire.com/articles/costar-zonda-acquisition-closes/",
-      "published": "Fri, 21 Aug 2026"
-    },
-    {
-      "title": "Illinois REALTORS targets local barriers to building more housing",
-      "link": "https://www.housingwire.com/articles/illinois-housing-supply-accelerator-2/",
-      "published": "Fri, 21 Aug 2026"
-    },
-    {
-      "title": "Thirty years is not a relationship",
-      "link": "https://www.housingwire.com/articles/mortgage-trust-ai-relationship/",
       "published": "Fri, 21 Aug 2026"
     },
     {
@@ -222,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "The scarcity pitch for private listings leaves out the key condition",
+        "url": "https://www.housingwire.com/articles/listing-visibility-scarcity/",
+        "what": "Studies show that when buyers cannot see supply or terms, serious bidders may not enter and expected price can fall.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/listing-visibility-scarcity/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Antitrust suit claims Compass pullback from StreetEasy raised NYC rents",
         "url": "https://www.housingwire.com/articles/compass-streeteasy-delisting-antitrust-nyc/",
@@ -306,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "Judge narrows Veterans United suit but lets RESPA claims proceed",
+        "url": "https://www.housingwire.com/articles/missouri-judge-veterans-united-respa-kickback-claims/",
+        "what": "State consumer claims are dismissed, but RESPA allegations survive",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/missouri-judge-veterans-united-respa-kickback-claims/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "REMAX cash election proration set for Real merger close Aug. 24",
         "url": "https://www.housingwire.com/articles/remax-cash-proration-real-merger/",
         "what": "Cash electors are expected to get about $4.33 plus 0.3535 shares after the 10-for-1 consolidation.",
@@ -329,24 +347,6 @@
         "what": "Borrower trust has four mechanisms, and AI can expose invisible failures at scale",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-trust-ai-relationship/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Toll Brothers luxury moat meets a tougher market test",
-        "url": "https://www.housingwire.com/articles/toll-brothers-luxury-housing-risk/",
-        "what": "Cash buyers were 25% of deliveries, and the average loan-to-value was 69% in fiscal Q3",
-        "numbers": "25, 69, 3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/toll-brothers-luxury-housing-risk/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "New tax on high-value second homes challenged in Rhode Island",
-        "url": "https://www.housingwire.com/articles/high-value-second-homes-tax-challenged-in-rhode-island/",
-        "what": "Plaintiffs say the law should not target out-of-state residents who cannot vote in Rhode Island",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/high-value-second-homes-tax-challenged-in-rhode-island/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
