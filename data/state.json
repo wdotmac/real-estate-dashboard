@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-22 20:39 UTC",
+  "as_of": "2026-08-22 21:34 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "What can the government do to lower mortgage rates?",
+      "link": "https://www.housingwire.com/articles/what-can-the-government-do-to-lower-mortgage-rates/",
+      "published": "Sat, 22 Aug 2026"
+    },
+    {
       "title": "loanDepot receives NYSE notice over sub-$1 share price",
       "link": "https://www.housingwire.com/articles/loandepot-nyse-share-price-notice-earnings-context/",
       "published": "Fri, 21 Aug 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Data centers’ effect on utility bills — what real estate agents need to know",
       "link": "https://www.housingwire.com/articles/data-centers-effect-on-utility-bills-what-real-estate-agents-need-to-know/",
-      "published": "Fri, 21 Aug 2026"
-    },
-    {
-      "title": "Ara Hovnanian said it twice, homebuilders really need scale",
-      "link": "https://www.housingwire.com/articles/hovnanian-scale-gap/",
       "published": "Fri, 21 Aug 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "What can the government do to lower mortgage rates?",
+        "url": "https://www.housingwire.com/articles/what-can-the-government-do-to-lower-mortgage-rates/",
+        "what": "They have levers to pull, but not before some issues get resolved",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/what-can-the-government-do-to-lower-mortgage-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Does housing have an AI problem?",
         "url": "https://www.housingwire.com/articles/does-housing-have-an-ai-problem/",
@@ -248,15 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/listing-visibility-scarcity/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Antitrust suit claims Compass pullback from StreetEasy raised NYC rents",
-        "url": "https://www.housingwire.com/articles/compass-streeteasy-delisting-antitrust-nyc/",
-        "what": "Plaintiffs cite $5,270 monthly rent versus a July 2026 median asking rent of $4,390.",
-        "numbers": "$5,270, 2026, $4,390.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-streeteasy-delisting-antitrust-nyc/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "With Buyers Firmly in the Driver’s Seat, Home-Purchase Cancellations Hit Highest Level in Nearly 3 Years",
