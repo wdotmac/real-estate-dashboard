@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-23 19:34 UTC",
+  "as_of": "2026-08-23 20:38 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "NEXA Lending acquires UMortgage, adds Anthony Casa to exec team",
+      "link": "https://www.housingwire.com/articles/nexa-acquires-umortgage-casa/",
+      "published": "Sun, 23 Aug 2026"
+    },
+    {
       "title": "What can the government do to lower mortgage rates?",
       "link": "https://www.housingwire.com/articles/what-can-the-government-do-to-lower-mortgage-rates/",
       "published": "Sat, 22 Aug 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Fannie Mae reportedly cuts senior executives across business lines",
       "link": "https://www.housingwire.com/articles/fannie-mae-senior-departures/",
-      "published": "Fri, 21 Aug 2026"
-    },
-    {
-      "title": "Data centers’ effect on utility bills — what real estate agents need to know",
-      "link": "https://www.housingwire.com/articles/data-centers-effect-on-utility-bills-what-real-estate-agents-need-to-know/",
       "published": "Fri, 21 Aug 2026"
     },
     {
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "NEXA Lending acquires UMortgage, adds Anthony Casa to exec team",
+        "url": "https://www.housingwire.com/articles/nexa-acquires-umortgage-casa/",
+        "what": "NEXA will add UMortgage's team of 246 loan officers that originated $2.05B over the past 12 months",
+        "numbers": "246, $2.05, 12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nexa-acquires-umortgage-casa/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Ara Hovnanian said it twice, homebuilders really need scale",
         "url": "https://www.housingwire.com/articles/hovnanian-scale-gap/",
         "what": "Q3 adjusted pretax income missed guidance, the first miss in 23 quarters, underscoring operating leverage",
@@ -248,15 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/hovnanian-scale-gap/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "The scarcity pitch for private listings leaves out the key condition",
-        "url": "https://www.housingwire.com/articles/listing-visibility-scarcity/",
-        "what": "Studies show that when buyers cannot see supply or terms, serious bidders may not enter and expected price can fall.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/listing-visibility-scarcity/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "With Buyers Firmly in the Driver’s Seat, Home-Purchase Cancellations Hit Highest Level in Nearly 3 Years",
