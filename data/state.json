@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-24 10:52 UTC",
+  "as_of": "2026-08-24 11:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Massachusetts housing bills focus on supply, not rent caps",
+      "link": "https://www.housingwire.com/articles/massachusetts-housing-bills-focus-on-supply-not-rent-caps/",
+      "published": "Mon, 24 Aug 2026"
+    },
+    {
       "title": "Movement’s George Vrban on why reverse mortgage specialization is the best blueprint",
       "link": "https://www.housingwire.com/articles/vrban-movement-reverse-mortgage-model/",
       "published": "Mon, 24 Aug 2026"
@@ -162,11 +167,6 @@
     {
       "title": "loanDepot receives NYSE notice over sub-$1 share price",
       "link": "https://www.housingwire.com/articles/loandepot-nyse-share-price-notice-earnings-context/",
-      "published": "Fri, 21 Aug 2026"
-    },
-    {
-      "title": "Real Brokerage wins Canadian court approval for REMAX deal",
-      "link": "https://www.housingwire.com/articles/real-remax-court-approval/",
       "published": "Fri, 21 Aug 2026"
     },
     {
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "Massachusetts housing bills focus on supply, not rent caps",
+        "url": "https://www.housingwire.com/articles/massachusetts-housing-bills-focus-on-supply-not-rent-caps/",
+        "what": "Court ruling sidelined a statewide rent stabilization ballot measure, lawmakers instead debate YIGBY and duplex by right rules",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/massachusetts-housing-bills-focus-on-supply-not-rent-caps/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
         "title": "Building codes help, not hinder, housing affordability",
         "url": "https://www.housingwire.com/articles/building-codes-housing-affordability/",
         "what": "University of Alabama researchers analyzed 2.7 million sales across 26 states, finding no sustained price increases after code adoption",
@@ -257,15 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/nexa-acquires-umortgage-casa/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Ara Hovnanian said it twice, homebuilders really need scale",
-        "url": "https://www.housingwire.com/articles/hovnanian-scale-gap/",
-        "what": "Q3 adjusted pretax income missed guidance, the first miss in 23 quarters, underscoring operating leverage",
-        "numbers": "3, 23",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hovnanian-scale-gap/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "With Buyers Firmly in the Driver’s Seat, Home-Purchase Cancellations Hit Highest Level in Nearly 3 Years",
