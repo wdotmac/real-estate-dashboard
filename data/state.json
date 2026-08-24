@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-24 18:58 UTC",
+  "as_of": "2026-08-24 19:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Compass antitrust lawsuit adds new lead plaintiff",
+      "link": "https://www.housingwire.com/articles/compass-antitrust-lead-plaintiff/",
+      "published": "Mon, 24 Aug 2026"
+    },
+    {
+      "title": "Phil Crescenzo teams with son to join CrossCountry Mortgage",
+      "link": "https://www.housingwire.com/articles/ccm-adds-crescenzo-team/",
+      "published": "Mon, 24 Aug 2026"
+    },
+    {
       "title": "Home Depot, Lowe’s: remodeling idles as big projects lag",
       "link": "https://www.housingwire.com/articles/remodeling-home-improvement-demand/",
       "published": "Mon, 24 Aug 2026"
@@ -157,16 +167,6 @@
     {
       "title": "The new Manhattan rental Compass lawsuit should scare everyone",
       "link": "https://www.housingwire.com/articles/compass-lawsuit-disclosure-risk/",
-      "published": "Mon, 24 Aug 2026"
-    },
-    {
-      "title": "Seller choice isn’t a policy. It’s a promise we made a long time ago.",
-      "link": "https://www.housingwire.com/articles/phased-marketing-agent-playbook/",
-      "published": "Mon, 24 Aug 2026"
-    },
-    {
-      "title": "QXO names Honeywell executive Ken West as president and COO",
-      "link": "https://www.housingwire.com/articles/qxo-names-ken-west-president-coo-amid-building-products-expansion/",
       "published": "Mon, 24 Aug 2026"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Movement’s George Vrban on why reverse mortgage specialization is the best blueprint",
-        "url": "https://www.housingwire.com/articles/vrban-movement-reverse-mortgage-model/",
-        "what": "‘Conversion rates are higher and the customer experience is vastly improved,’ Vrban says",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/vrban-movement-reverse-mortgage-model/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Now’s the Time: Late Summer Is the Best Season For Homebuyers to Score a Deal in These U.S. Metros",
         "url": "https://www.redfin.com/news/best-time-to-buy-home-late-summer/",
         "what": "Late August is the best time for homebuyers to score a deal in parts of California, Austin, TX and certain New York City suburbs",
@@ -231,6 +222,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Compass antitrust lawsuit adds new lead plaintiff",
+        "url": "https://www.housingwire.com/articles/compass-antitrust-lead-plaintiff/",
+        "what": "Amended complaint ties StreetEasy delistings to higher NYC rents and broker fees, seeks class action status.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-antitrust-lead-plaintiff/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Phil Crescenzo teams with son to join CrossCountry Mortgage",
+        "url": "https://www.housingwire.com/articles/ccm-adds-crescenzo-team/",
+        "what": "LO leaves NFM Lending for CCM to focus on underserved borrowers in the Southeast",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ccm-adds-crescenzo-team/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "The new Manhattan rental Compass lawsuit should scare everyone",
         "url": "https://www.housingwire.com/articles/compass-lawsuit-disclosure-risk/",
@@ -257,15 +266,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/texas-buyers-markets-ranking-july-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Massachusetts housing bills focus on supply, not rent caps",
-        "url": "https://www.housingwire.com/articles/massachusetts-housing-bills-focus-on-supply-not-rent-caps/",
-        "what": "Court ruling sidelined a statewide rent stabilization ballot measure, lawmakers instead debate YIGBY and duplex by right rules",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/massachusetts-housing-bills-focus-on-supply-not-rent-caps/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "With Buyers Firmly in the Driver’s Seat, Home-Purchase Cancellations Hit Highest Level in Nearly 3 Years",
