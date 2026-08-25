@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-25 13:10 UTC",
+  "as_of": "2026-08-25 14:03 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -17,36 +17,36 @@
   },
   "permits": {
     "florida": {
-      "latest": 13629,
-      "latest_date": "2026-06",
-      "mom": 0.04396782841823055,
-      "yoy": -0.30243627802231554,
-      "ytd": -0.1854043810148963,
-      "ytd_count": 76941,
+      "latest": 16024,
+      "latest_date": "2026-07",
+      "mom": 0.1757282265756841,
+      "yoy": 0.09296773753495668,
+      "ytd": -0.14800117308503036,
+      "ytd_count": 92965,
       "latest_year": 2026,
-      "latest_month_name": "Jun"
+      "latest_month_name": "Jul"
     },
     "msa": {
       "Orlando–Kissimmee–Sanford": {
         "total": {
-          "latest": 1857,
+          "latest": 2008,
           "latest_year": 2026,
-          "latest_month": 6,
-          "latest_month_name": "Jun",
-          "mom": 0.005958829902491969,
-          "yoy": -0.2846687211093991,
-          "ytd_yoy": -0.3860243382260695,
-          "ytd_count": 9788
+          "latest_month": 7,
+          "latest_month_name": "Jul",
+          "mom": 0.0813139472267097,
+          "yoy": -0.03554274735830931,
+          "ytd_yoy": -0.34553928095872166,
+          "ytd_count": 11796
         },
         "one_unit": {
-          "latest": 1378,
+          "latest": 1179,
           "latest_year": 2026,
-          "latest_month": 6,
-          "latest_month_name": "Jun",
-          "mom": 0.3123809523809524,
-          "yoy": -0.24945533769063177,
-          "ytd_yoy": -0.24014420281428073,
-          "ytd_count": 6534
+          "latest_month": 7,
+          "latest_month_name": "Jul",
+          "mom": -0.1444121915820029,
+          "yoy": 0.10912511759172161,
+          "ytd_yoy": -0.20171807079279658,
+          "ytd_count": 7713
         },
         "dom": {
           "days": 74,
@@ -56,24 +56,24 @@
       },
       "Tampa–St. Petersburg–Clearwater": {
         "total": {
-          "latest": 1842,
+          "latest": 2473,
           "latest_year": 2026,
-          "latest_month": 6,
-          "latest_month_name": "Jun",
-          "mom": -0.26467065868263473,
-          "yoy": -0.24384236453201968,
-          "ytd_yoy": -0.11265120967741937,
-          "ytd_count": 10563
+          "latest_month": 7,
+          "latest_month_name": "Jul",
+          "mom": 0.3425624321389793,
+          "yoy": 0.415569547796222,
+          "ytd_yoy": -0.04505164456816346,
+          "ytd_count": 13036
         },
         "one_unit": {
-          "latest": 1248,
+          "latest": 1161,
           "latest_year": 2026,
-          "latest_month": 6,
-          "latest_month_name": "Jun",
-          "mom": 0.09377738825591586,
-          "yoy": -0.014218009478673022,
-          "ytd_yoy": -0.00705517144066603,
-          "ytd_count": 7037
+          "latest_month": 7,
+          "latest_month_name": "Jul",
+          "mom": -0.06971153846153844,
+          "yoy": 0.018421052631578894,
+          "ytd_yoy": -0.0035249787285766,
+          "ytd_count": 8198
         },
         "dom": {
           "days": 72,
@@ -83,24 +83,24 @@
       },
       "Ocala": {
         "total": {
-          "latest": 445,
+          "latest": 453,
           "latest_year": 2026,
-          "latest_month": 6,
-          "latest_month_name": "Jun",
-          "mom": -0.07484407484407485,
-          "yoy": -0.38365650969529086,
-          "ytd_yoy": -0.09772348695169353,
-          "ytd_count": 3250
+          "latest_month": 7,
+          "latest_month_name": "Jul",
+          "mom": 0.01797752808988773,
+          "yoy": 0.027210884353741527,
+          "ytd_yoy": -0.08409596834034128,
+          "ytd_count": 3703
         },
         "one_unit": {
-          "latest": 441,
+          "latest": 443,
           "latest_year": 2026,
-          "latest_month": 6,
-          "latest_month_name": "Jun",
-          "mom": -0.07547169811320753,
-          "yoy": -0.09815950920245398,
-          "ytd_yoy": 0.008503937007874107,
-          "ytd_count": 3202
+          "latest_month": 7,
+          "latest_month_name": "Jul",
+          "mom": 0.0045351473922903285,
+          "yoy": 0.07263922518159815,
+          "ytd_yoy": 0.015886287625417994,
+          "ytd_count": 3645
         },
         "dom": {
           "days": 79,
@@ -110,24 +110,24 @@
       },
       "Palm Bay–Melbourne–Titusville": {
         "total": {
-          "latest": 437,
+          "latest": 750,
           "latest_year": 2026,
-          "latest_month": 6,
-          "latest_month_name": "Jun",
-          "mom": 0.33231707317073167,
-          "yoy": 0.2666666666666666,
-          "ytd_yoy": -0.041145833333333326,
-          "ytd_count": 1841
+          "latest_month": 7,
+          "latest_month_name": "Jul",
+          "mom": 0.7162471395881007,
+          "yoy": 0.37111517367458857,
+          "ytd_yoy": 0.05026347790839081,
+          "ytd_count": 2591
         },
         "one_unit": {
-          "latest": 437,
+          "latest": 328,
           "latest_year": 2026,
-          "latest_month": 6,
-          "latest_month_name": "Jun",
-          "mom": 0.33231707317073167,
-          "yoy": 0.2666666666666666,
-          "ytd_yoy": 0.061707035755478756,
-          "ytd_count": 1841
+          "latest_month": 7,
+          "latest_month_name": "Jul",
+          "mom": -0.24942791762013727,
+          "yoy": 0.19272727272727264,
+          "ytd_yoy": 0.07964161274265802,
+          "ytd_count": 2169
         },
         "dom": {
           "days": 68,
@@ -252,7 +252,7 @@
       {
         "title": "Florida’s Space Coast housing market enters a new normal",
         "url": "https://www.housingwire.com/articles/floridas-space-coast-housing-market-enters-a-new-normal/",
-        "what": "Active inventory is 20.7% from a year ago, but that scarcity has not translated into broad pricing power for sellers",
+        "what": "Active inventory is down 20.7% from a year ago, but that scarcity has not translated into broad pricing power for sellers",
         "numbers": "20.7",
         "justified": "housingwire.com — https://www.housingwire.com/articles/floridas-space-coast-housing-market-enters-a-new-normal/",
         "why": "Inventory and velocity drive pricing power and volume.",
