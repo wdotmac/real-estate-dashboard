@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-25 20:45 UTC",
+  "as_of": "2026-08-25 21:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Retirees are experiencing a disconnect between net worth, cash on hand",
+      "link": "https://www.housingwire.com/articles/retirement-baby-boomers-disconnect-net-worth-cash-on-hand/",
+      "published": "Tue, 25 Aug 2026"
+    },
+    {
       "title": "New home demand swoons even as sales prices hit a 5-year low",
       "link": "https://www.housingwire.com/articles/new-home-demand-swoons-even-as-sales-prices-hit-a-5-year-low/",
       "published": "Tue, 25 Aug 2026"
@@ -162,11 +167,6 @@
     {
       "title": "UWM launches Mortgage Matchup plugin for ChatGPT",
       "link": "https://www.housingwire.com/articles/uwm-mortgage-matchup-chatgpt/",
-      "published": "Tue, 25 Aug 2026"
-    },
-    {
-      "title": "Federal agencies scrap Biden-era SPCP guidance",
-      "link": "https://www.housingwire.com/articles/regulators-rescind-biden-era-special-purpose-credit-program-guidance/",
       "published": "Tue, 25 Aug 2026"
     },
     {
@@ -315,10 +315,19 @@
     ],
     "notables": [
       {
+        "title": "Retirees are experiencing a disconnect between net worth, cash on hand",
+        "url": "https://www.housingwire.com/articles/retirement-baby-boomers-disconnect-net-worth-cash-on-hand/",
+        "what": "Prosperity is far from evenly distributed, and many older Americans are carrying significant debt into retirement",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/retirement-baby-boomers-disconnect-net-worth-cash-on-hand/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "New home demand swoons even as sales prices hit a 5-year low",
         "url": "https://www.housingwire.com/articles/new-home-demand-swoons-even-as-sales-prices-hit-a-5-year-low/",
-        "what": "As new orders weaken in July, the median sales price of a new home fell to $393,800 in July, the lowest level recorded since July 2021",
-        "numbers": "$393,800, 2021",
+        "what": "As new orders weakened in July, the median sales price of a new home fell to $393,800, the lowest level recorded since July 2021",
+        "numbers": "$393,800,, 2021",
         "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-demand-swoons-even-as-sales-prices-hit-a-5-year-low/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/listing-access-consumer-experience/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Here’s everything we know about Real REMAX Group",
-        "url": "https://www.housingwire.com/articles/reax-ticker-nasdaq-remax/",
-        "what": "REMAX stockholders could elect stock or a cash and stock mix, with cash capped at $80 million and prorated.",
-        "numbers": "$80 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reax-ticker-nasdaq-remax/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
