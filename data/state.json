@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-25 15:04 UTC",
+  "as_of": "2026-08-25 15:59 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "CCM closes Two Harbors deal, brings servicing in-house",
+      "link": "https://www.housingwire.com/articles/crosscountry-mortgage-two-harbors-acquisition-closes/",
+      "published": "Tue, 25 Aug 2026"
+    },
+    {
+      "title": "Home prices rose faster in June, however inflation still won",
+      "link": "https://www.housingwire.com/articles/case-shiller-june-home-prices/",
+      "published": "Tue, 25 Aug 2026"
+    },
+    {
+      "title": "National Land Realty launches AI-powered property search",
+      "link": "https://www.housingwire.com/articles/national-land-realty-launches-ai-powered-property-search/",
+      "published": "Tue, 25 Aug 2026"
+    },
+    {
       "title": "Carrington lowers non-QM threshold to 550 FICO, expands guidelines",
       "link": "https://www.housingwire.com/articles/carrington-non-qm-fico/",
       "published": "Tue, 25 Aug 2026"
@@ -153,21 +168,6 @@
       "title": "The loan officer engineer: The $11,898 problem",
       "link": "https://www.housingwire.com/articles/loan-officer-engineer/",
       "published": "Tue, 25 Aug 2026"
-    },
-    {
-      "title": "What 800 title and escrow professionals shared about wire fraud, and how they’re fighting it",
-      "link": "https://www.housingwire.com/articles/title-escrow-wire-fraud-qualia/",
-      "published": "Tue, 25 Aug 2026"
-    },
-    {
-      "title": "Real REMAX Group closes merger, REAX begins trading Aug. 25",
-      "link": "https://www.housingwire.com/articles/real-remax-group-reax-trading/",
-      "published": "Mon, 24 Aug 2026"
-    },
-    {
-      "title": "Op-ed calls for stronger means testing, service limitations for Social Security, Medicare",
-      "link": "https://www.housingwire.com/articles/social-security-medicare-means-testing-service-limitations/",
-      "published": "Mon, 24 Aug 2026"
     },
     {
       "title": "Canadian Tariffs, Inflation Numbers Unlikely to Move Mortgage Rates as Markets Await Jackson Hole Address",
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Home prices rose faster in June, however inflation still won",
+        "url": "https://www.housingwire.com/articles/case-shiller-june-home-prices/",
+        "what": "National index hit 336.66, up 0.4% month over month, while inflation ran at 3.5% year over year.",
+        "numbers": "336.66,, 0.4, 3.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/case-shiller-june-home-prices/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Canadian Tariffs, Inflation Numbers Unlikely to Move Mortgage Rates as Markets Await Jackson Hole Address",
         "url": "https://www.redfin.com/news/canadian-tariffs-inflation-numbers-unlikely-to-move-mortgage-rates-as-markets-await-jackson-hole-adress/",
@@ -250,24 +259,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Florida’s Space Coast housing market enters a new normal",
-        "url": "https://www.housingwire.com/articles/floridas-space-coast-housing-market-enters-a-new-normal/",
-        "what": "Active inventory is down 20.7% from a year ago, but that scarcity has not translated into broad pricing power for sellers",
-        "numbers": "20.7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/floridas-space-coast-housing-market-enters-a-new-normal/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Compass antitrust lawsuit adds new lead plaintiff",
-        "url": "https://www.housingwire.com/articles/compass-antitrust-lead-plaintiff/",
-        "what": "Amended complaint ties StreetEasy delistings to higher NYC rents and broker fees, seeks class action status.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-antitrust-lead-plaintiff/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "With Texas Homebuyers Now Firmly in Control, Here Are The Lonestar State’s Buyer’s Markets, Ranked",
         "url": "https://www.redfin.com/news/texas-buyers-markets-ranking-july-2026/",
         "what": "Houston is Texas’s strongest buyer’s market, followed by San Antonio, Austin, Dallas and Fort Worth",
@@ -296,6 +287,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "CCM closes Two Harbors deal, brings servicing in-house",
+        "url": "https://www.housingwire.com/articles/crosscountry-mortgage-two-harbors-acquisition-closes/",
+        "what": "Lender adds a $155 billion MSR book and the RoundPoint platform",
+        "numbers": "$155 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/crosscountry-mortgage-two-harbors-acquisition-closes/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "National Land Realty launches AI-powered property search",
+        "url": "https://www.housingwire.com/articles/national-land-realty-launches-ai-powered-property-search/",
+        "what": "The tool can also provide geographically relevant suggestions and recommend nearby or similar properties",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/national-land-realty-launches-ai-powered-property-search/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Carrington lowers non-QM threshold to 550 FICO, expands guidelines",
         "url": "https://www.housingwire.com/articles/carrington-non-qm-fico/",
@@ -338,15 +347,6 @@
         "what": "Atlantic Avenue remained at No",
         "numbers": "1",
         "justified": "housingwire.com — https://www.housingwire.com/articles/hecm-broker-rankings-may-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Unlock reaches deal with Minnesota AG after home equity agreements were labeled illegal",
-        "url": "https://www.housingwire.com/articles/unlock-hea-minnesota-ag/",
-        "what": "Minnesota AG secures nearly $1M in relief; Unlock is no longer offering HEAs there",
-        "numbers": "$1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/unlock-hea-minnesota-ag/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
