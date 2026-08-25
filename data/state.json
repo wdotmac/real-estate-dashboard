@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-08-25 19:45 UTC",
+  "as_of": "2026-08-25 20:45 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.74,
-      "delta_bp_1d": 4.999999999999982
+      "yield_pct": 4.7,
+      "delta_bp_1d": -4.0000000000000036
     },
     "mortgage_30y": {
       "rate_pct": 6.65,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "New home demand swoons even as sales prices hit a 5-year low",
+      "link": "https://www.housingwire.com/articles/new-home-demand-swoons-even-as-sales-prices-hit-a-5-year-low/",
+      "published": "Tue, 25 Aug 2026"
+    },
+    {
+      "title": "Why 45 homebuilding markets may not beat six high density ones",
+      "link": "https://www.housingwire.com/articles/homebuilder-scale-metrics-density/",
+      "published": "Tue, 25 Aug 2026"
+    },
+    {
       "title": "Veterans United promotes Jeremyah Grigery to CMO",
       "link": "https://www.housingwire.com/articles/veterans-united-jeremyah-grigery-chief-marketing-officer/",
       "published": "Tue, 25 Aug 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Federal agencies scrap Biden-era SPCP guidance",
       "link": "https://www.housingwire.com/articles/regulators-rescind-biden-era-special-purpose-credit-program-guidance/",
-      "published": "Tue, 25 Aug 2026"
-    },
-    {
-      "title": "Rate adds top Dallas mortgage branch from CrossCountry",
-      "link": "https://www.housingwire.com/articles/rate-dallas-mortgage-branch/",
-      "published": "Tue, 25 Aug 2026"
-    },
-    {
-      "title": "Is the consumer getting lost in real estate’s battle for control?",
-      "link": "https://www.housingwire.com/articles/listing-access-consumer-experience/",
       "published": "Tue, 25 Aug 2026"
     },
     {
@@ -203,20 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Why 45 homebuilding markets may not beat six high density ones",
+        "url": "https://www.housingwire.com/articles/homebuilder-scale-metrics-density/",
+        "what": "This analysis separates corporate scale, operating density, and production scale in costs, cycle time, and predictability",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-scale-metrics-density/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Federal agencies scrap Biden-era SPCP guidance",
         "url": "https://www.housingwire.com/articles/regulators-rescind-biden-era-special-purpose-credit-program-guidance/",
         "what": "Interagency notice tells lenders not to rely on 2022 SPCP statement",
         "numbers": "2022",
         "justified": "housingwire.com — https://www.housingwire.com/articles/regulators-rescind-biden-era-special-purpose-credit-program-guidance/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage rates jump as Treasury buyback plan fails to cut costs",
-        "url": "https://www.housingwire.com/articles/treasury-buybacks-mortgage-rates/",
-        "what": "Treasury buybacks start Sept",
-        "numbers": "9,, 30, 6.92, 7.14",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/treasury-buybacks-mortgage-rates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -315,6 +315,15 @@
     ],
     "notables": [
       {
+        "title": "New home demand swoons even as sales prices hit a 5-year low",
+        "url": "https://www.housingwire.com/articles/new-home-demand-swoons-even-as-sales-prices-hit-a-5-year-low/",
+        "what": "As new orders weaken in July, the median sales price of a new home fell to $393,800 in July, the lowest level recorded since July 2021",
+        "numbers": "$393,800, 2021",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-demand-swoons-even-as-sales-prices-hit-a-5-year-low/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Veterans United promotes Jeremyah Grigery to CMO",
         "url": "https://www.housingwire.com/articles/veterans-united-jeremyah-grigery-chief-marketing-officer/",
         "what": "The move comes as the lender looks to expand education around VA home loan benefits",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/reax-ticker-nasdaq-remax/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Vishal Garg pushes back on Better’s CEO termination claims in court filings",
-        "url": "https://www.housingwire.com/articles/vishal-garg-ceo-termination/",
-        "what": "Garg cited Tinman AI volume of $646 million in Q4 2025 and disputed claims about his removal",
-        "numbers": "$646 million, 4, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/vishal-garg-ceo-termination/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
