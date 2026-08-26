@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-26 11:44 UTC",
+  "as_of": "2026-08-26 13:15 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "NAHB: Building material costs climb 6.7%, squeeze small builders",
+      "link": "https://www.housingwire.com/articles/nahb-material-costs-rise/",
+      "published": "Wed, 26 Aug 2026"
+    },
+    {
+      "title": "HomeServices adds mortgage servicing through Prosperity",
+      "link": "https://www.housingwire.com/articles/homeservices-adds-mortgage-servicing/",
+      "published": "Wed, 26 Aug 2026"
+    },
+    {
+      "title": "Tech-driven protection gains steam ahead of Realtor Safety Month",
+      "link": "https://www.housingwire.com/articles/tech-driven-protection-gains-steam-ahead-of-realtor-safety-month/",
+      "published": "Wed, 26 Aug 2026"
+    },
+    {
+      "title": "New York Adirondacks village converting WWI factory into housing",
+      "link": "https://www.housingwire.com/articles/tupper-lake-affordable-housing/",
+      "published": "Wed, 26 Aug 2026"
+    },
+    {
+      "title": "From Sears kits to concrete domes, a Wyoming city’s housing bet",
+      "link": "https://www.housingwire.com/articles/casper-dome-affordable-housing/",
+      "published": "Wed, 26 Aug 2026"
+    },
+    {
       "title": "Better, Coinbase announce broad rollout of token-backed conforming mortgage product",
       "link": "https://www.housingwire.com/articles/better-coinbase-token-backed-conforming-mortgage-coinbase-one-credit/",
       "published": "Wed, 26 Aug 2026"
-    },
-    {
-      "title": "The New York sessions: Deals, decisions, and direction",
-      "link": "https://www.housingwire.com/articles/the-new-york-sessions-deals-decisions-and-direction/",
-      "published": "Wed, 26 Aug 2026"
-    },
-    {
-      "title": "The mortgage industry is deploying AI backward",
-      "link": "https://www.housingwire.com/articles/mortgage-ai-chatbots-governance/",
-      "published": "Wed, 26 Aug 2026"
-    },
-    {
-      "title": "What lenders need to ask as they prepare for a multi-credit scoring model environment",
-      "link": "https://www.housingwire.com/articles/multi-credit-scoring-questions/",
-      "published": "Wed, 26 Aug 2026"
-    },
-    {
-      "title": "Colorado’s AI proposal raises new compliance questions for lenders",
-      "link": "https://www.housingwire.com/articles/colorado-ai-proposal-compliance/",
-      "published": "Tue, 25 Aug 2026"
-    },
-    {
-      "title": "Retirees are experiencing a disconnect between net worth, cash on hand",
-      "link": "https://www.housingwire.com/articles/retirement-baby-boomers-disconnect-net-worth-cash-on-hand/",
-      "published": "Tue, 25 Aug 2026"
     },
     {
       "title": "Bay Area Redfin Agents Honored in LuxeSF’s The Leading 100",
@@ -203,20 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "NAHB: Building material costs climb 6.7%, squeeze small builders",
+        "url": "https://www.housingwire.com/articles/nahb-material-costs-rise/",
+        "what": "Material inflation hits small builders hardest as costs outpace large rivals",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nahb-material-costs-rise/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "The New York sessions: Deals, decisions, and direction",
         "url": "https://www.housingwire.com/articles/the-new-york-sessions-deals-decisions-and-direction/",
         "what": "Filmed in the financial capital of the world, New York City, this HousingWire Spotlight Series explores how industry leaders are navigating market volatility, making high-stakes decisions, uncovering growth opportunities and building organizations that thrive under pressure",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/the-new-york-sessions-deals-decisions-and-direction/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Why 45 homebuilding markets may not beat six high density ones",
-        "url": "https://www.housingwire.com/articles/homebuilder-scale-metrics-density/",
-        "what": "This analysis separates corporate scale, operating density, and production scale in costs, cycle time, and predictability",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-scale-metrics-density/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -250,6 +250,33 @@
     ],
     "housing": [
       {
+        "title": "HomeServices adds mortgage servicing through Prosperity",
+        "url": "https://www.housingwire.com/articles/homeservices-adds-mortgage-servicing/",
+        "what": "Prosperity originates nearly $9 billion a year and had typically sold servicing rights after closing.",
+        "numbers": "$9 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homeservices-adds-mortgage-servicing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "New York Adirondacks village converting WWI factory into housing",
+        "url": "https://www.housingwire.com/articles/tupper-lake-affordable-housing/",
+        "what": "The deal pairs $23.8 million in state LIHTC with $12.95 million in historic tax credits",
+        "numbers": "$23.8 million, $12.95 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tupper-lake-affordable-housing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "From Sears kits to concrete domes, a Wyoming city’s housing bet",
+        "url": "https://www.housingwire.com/articles/casper-dome-affordable-housing/",
+        "what": "Casper’s Goodwill Landing targets 24 permanent affordable rentals using poured concrete dome construction",
+        "numbers": "24",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/casper-dome-affordable-housing/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Better, Coinbase announce broad rollout of token-backed conforming mortgage product",
         "url": "https://www.housingwire.com/articles/better-coinbase-token-backed-conforming-mortgage-coinbase-one-credit/",
         "what": "Early waitlist data showed more than $260 million in projected loan volume, with most respondents already on Coinbase One and planning to buy within six months",
@@ -266,15 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-ai-chatbots-governance/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Builders FirstSource bets $25.3 million on AI build-cycle scale",
-        "url": "https://www.housingwire.com/articles/builders-firstsource-bets-25-3-million-on-ai-build-cycle-scale/",
-        "what": "Digs investment aims to push BFS deeper into homebuilders’ end-to-end construction workflows",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/builders-firstsource-bets-25-3-million-on-ai-build-cycle-scale/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Bay Area Redfin Agents Honored in LuxeSF’s The Leading 100",
@@ -306,6 +324,15 @@
     ],
     "notables": [
       {
+        "title": "Tech-driven protection gains steam ahead of Realtor Safety Month",
+        "url": "https://www.housingwire.com/articles/tech-driven-protection-gains-steam-ahead-of-realtor-safety-month/",
+        "what": "The technology addresses both longstanding risks and newer vulnerabilities created by more independent work",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/tech-driven-protection-gains-steam-ahead-of-realtor-safety-month/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "What lenders need to ask as they prepare for a multi-credit scoring model environment",
         "url": "https://www.housingwire.com/articles/multi-credit-scoring-questions/",
         "what": "Four questions to align pricing, underwriting, compliance and post-lock workflows on a single source of truth",
@@ -320,33 +347,6 @@
         "what": "MBA says definitions of ADMT and consequential decisions need clearer guidance for creditors",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/colorado-ai-proposal-compliance/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Retirees are experiencing a disconnect between net worth, cash on hand",
-        "url": "https://www.housingwire.com/articles/retirement-baby-boomers-disconnect-net-worth-cash-on-hand/",
-        "what": "Prosperity is far from evenly distributed, and many older Americans are carrying significant debt into retirement",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/retirement-baby-boomers-disconnect-net-worth-cash-on-hand/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "New home demand swoons even as sales prices hit a 5-year low",
-        "url": "https://www.housingwire.com/articles/new-home-demand-swoons-even-as-sales-prices-hit-a-5-year-low/",
-        "what": "As new orders weakened in July, the median sales price of a new home fell to $393,800, the lowest level recorded since July 2021",
-        "numbers": "$393,800,, 2021",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-demand-swoons-even-as-sales-prices-hit-a-5-year-low/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Veterans United promotes Jeremyah Grigery to CMO",
-        "url": "https://www.housingwire.com/articles/veterans-united-jeremyah-grigery-chief-marketing-officer/",
-        "what": "The move comes as the lender looks to expand education around VA home loan benefits",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/veterans-united-jeremyah-grigery-chief-marketing-officer/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
