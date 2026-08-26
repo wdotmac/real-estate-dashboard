@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-26 10:51 UTC",
+  "as_of": "2026-08-26 11:44 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Better, Coinbase announce broad rollout of token-backed conforming mortgage product",
+      "link": "https://www.housingwire.com/articles/better-coinbase-token-backed-conforming-mortgage-coinbase-one-credit/",
+      "published": "Wed, 26 Aug 2026"
+    },
+    {
       "title": "The New York sessions: Deals, decisions, and direction",
       "link": "https://www.housingwire.com/articles/the-new-york-sessions-deals-decisions-and-direction/",
       "published": "Wed, 26 Aug 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Retirees are experiencing a disconnect between net worth, cash on hand",
       "link": "https://www.housingwire.com/articles/retirement-baby-boomers-disconnect-net-worth-cash-on-hand/",
-      "published": "Tue, 25 Aug 2026"
-    },
-    {
-      "title": "New home demand swoons even as sales prices hit a 5-year low",
-      "link": "https://www.housingwire.com/articles/new-home-demand-swoons-even-as-sales-prices-hit-a-5-year-low/",
       "published": "Tue, 25 Aug 2026"
     },
     {
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Better, Coinbase announce broad rollout of token-backed conforming mortgage product",
+        "url": "https://www.housingwire.com/articles/better-coinbase-token-backed-conforming-mortgage-coinbase-one-credit/",
+        "what": "Early waitlist data showed more than $260 million in projected loan volume, with most respondents already on Coinbase One and planning to buy within six months",
+        "numbers": "$260 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-coinbase-token-backed-conforming-mortgage-coinbase-one-credit/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "The mortgage industry is deploying AI backward",
         "url": "https://www.housingwire.com/articles/mortgage-ai-chatbots-governance/",
         "what": "Lenders that unify policy content and governance before borrower tools can cut search time and reduce compliance risk",
@@ -266,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/builders-firstsource-bets-25-3-million-on-ai-build-cycle-scale/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "UWM launches Mortgage Matchup plugin for ChatGPT",
-        "url": "https://www.housingwire.com/articles/uwm-mortgage-matchup-chatgpt/",
-        "what": "The tool helps users find independent mortgage brokers, run affordability math, and access calculators and education",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-mortgage-matchup-chatgpt/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Bay Area Redfin Agents Honored in LuxeSF’s The Leading 100",
