@@ -1,14 +1,14 @@
 {
-  "as_of": "2026-08-27 09:48 UTC",
+  "as_of": "2026-08-27 20:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.64,
-      "delta_bp_1d": -6.00000000000005
+      "yield_pct": 4.66,
+      "delta_bp_1d": 2.000000000000046
     },
     "mortgage_30y": {
-      "rate_pct": 6.65,
-      "delta_bp_wow": -1.9999999999999574
+      "rate_pct": 6.66,
+      "delta_bp_wow": 0.9999999999999787
     },
     "starts": {
       "level_saar": 1239.0,
@@ -140,34 +140,39 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "The operating model redesign opportunity of the century",
-      "link": "https://www.housingwire.com/articles/mortgage-operating-model-redesign/",
+      "title": "NWMLS launches AI home search on NWMLS.com with Broker Public Portal",
+      "link": "https://www.housingwire.com/articles/nwmls-ai-home-search-bpp/",
       "published": "Thu, 27 Aug 2026"
     },
     {
-      "title": "Sometimes the fastest way forward is to slow down",
-      "link": "https://www.housingwire.com/articles/fastest-forward-slow-down/",
+      "title": "Early state tax data prompts NYC to pare pied-a-terre tax pool",
+      "link": "https://www.housingwire.com/articles/nyc-pied-a-terre-tax-lawsuit/",
       "published": "Thu, 27 Aug 2026"
     },
     {
-      "title": "Mortgage lenders weigh AI, alternative data and credit models",
-      "link": "https://www.housingwire.com/articles/mortgage-credit-ai-alternative-data/",
-      "published": "Wed, 26 Aug 2026"
+      "title": "Foreclosure filings rise 10% annually in July, ATTOM says",
+      "link": "https://www.housingwire.com/articles/foreclosure-filings-july-attom/",
+      "published": "Thu, 27 Aug 2026"
     },
     {
-      "title": "Vishal Garg takes Better to court over ‘poison pill’",
-      "link": "https://www.housingwire.com/articles/vishal-garg-lawsuit-better-home-finance-board/",
-      "published": "Wed, 26 Aug 2026"
+      "title": "Stellar MLS’s new CEO wants to put the industry in fast-forward",
+      "link": "https://www.housingwire.com/articles/stellar-mlss-new-ceo-wants-to-put-the-industry-in-fast-forward/",
+      "published": "Thu, 27 Aug 2026"
     },
     {
-      "title": "Ryan Serhant doesn’t want to buy your brokerage. He wants your agents",
-      "link": "https://www.housingwire.com/articles/ryan-serhant-growth-earned/",
-      "published": "Wed, 26 Aug 2026"
+      "title": "Drees leader Rader chosen for Leadership Cincinnati class 50",
+      "link": "https://www.housingwire.com/articles/drees-pamela-rader-leadership-cincinnati/",
+      "published": "Thu, 27 Aug 2026"
     },
     {
-      "title": "‘You really can’t prepare’: Indiana real estate broker reflects on unprecedented storms",
-      "link": "https://www.housingwire.com/articles/indiana-real-estate-broker-on-unprecedented-storms/",
-      "published": "Wed, 26 Aug 2026"
+      "title": "How can Social Security COLAs impact reverse mortgage planning?",
+      "link": "https://www.housingwire.com/articles/reverse-mortgage-2027-cola-timing/",
+      "published": "Thu, 27 Aug 2026"
+    },
+    {
+      "title": "New Listings Hit 4-Month High While Demand Slips, Giving Serious Buyers Chance to Get a Deal Done",
+      "link": "https://www.redfin.com/news/housing-market-update-new-listings-rise-buyers-market/",
+      "published": "Thu, 27 Aug 2026"
     },
     {
       "title": "Bay Area Redfin Agents Honored in LuxeSF’s The Leading 100",
@@ -193,24 +198,10 @@
       "title": "With Buyers Firmly in the Driver’s Seat, Home-Purchase Cancellations Hit Highest Level in Nearly 3 Years",
       "link": "https://www.redfin.com/news/contract-cancellations-july-2026/",
       "published": "Fri, 21 Aug 2026"
-    },
-    {
-      "title": "New Listings Tick Up As Summer Winds Down",
-      "link": "https://www.redfin.com/news/housing-market-update-new-listings-tick-up-august/",
-      "published": "Thu, 20 Aug 2026"
     }
   ],
   "feed_101020": {
     "macro": [
-      {
-        "title": "DOJ, FBI say China-backed hackers breached Fed, other US agencies",
-        "url": "https://www.housingwire.com/articles/doj-fbi-seize-qscan-qtrouter-prc-botnet-critical-infrastructure/",
-        "what": "Court docs tie QTFY group to multiagency cyber breaches",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/doj-fbi-seize-qscan-qtrouter-prc-botnet-critical-infrastructure/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
       {
         "title": "Canadian Tariffs, Inflation Numbers Unlikely to Move Mortgage Rates as Markets Await Jackson Hole Address",
         "url": "https://www.redfin.com/news/canadian-tariffs-inflation-numbers-unlikely-to-move-mortgage-rates-as-markets-await-jackson-hole-adress/",
@@ -228,44 +219,53 @@
         "justified": "redfin.com — https://www.redfin.com/news/best-time-to-buy-home-late-summer/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "New Listings Tick Up As Summer Winds Down",
-        "url": "https://www.redfin.com/news/housing-market-update-new-listings-tick-up-august/",
-        "what": "High housing costs and economic uncertainty pushed pending home sales to their lowest level since March",
-        "numbers": "1.2, 16.",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-new-listings-tick-up-august/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "housing": [
       {
-        "title": "Mortgage lenders weigh AI, alternative data and credit models",
-        "url": "https://www.housingwire.com/articles/mortgage-credit-ai-alternative-data/",
-        "what": "MISMO panelists cited rental and cash flow data, plus AI rules that may affect licensing and compliance",
+        "title": "NWMLS launches AI home search on NWMLS.com with Broker Public Portal",
+        "url": "https://www.housingwire.com/articles/nwmls-ai-home-search-bpp/",
+        "what": "New Cribio-powered experience offers natural-language search and real-time Washington listings with direct broker attribution.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-credit-ai-alternative-data/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nwmls-ai-home-search-bpp/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Drees leader Rader chosen for Leadership Cincinnati class 50",
+        "url": "https://www.housingwire.com/articles/drees-pamela-rader-leadership-cincinnati/",
+        "what": "HR leader Pamela Rader will add housing insight to the Cincinnati Chamber’s flagship regional leadership program",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/drees-pamela-rader-leadership-cincinnati/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "How can Social Security COLAs impact reverse mortgage planning?",
+        "url": "https://www.housingwire.com/articles/reverse-mortgage-2027-cola-timing/",
+        "what": "In a higher-rate environment like today, line-of-credit growth can accelerate, influencing choices about loan draws and Social Security claims",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-2027-cola-timing/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "As the silver tsunami hits Delaware, who will serve an aging population?",
-        "url": "https://www.housingwire.com/articles/delaware-retiree-surge-sussex-inventory/",
-        "what": "The East Coast state has become a senior migration destination, with HousingWire Data illustrating relatively affordable market conditions",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/delaware-retiree-surge-sussex-inventory/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "MBA says July mortgage payments dipped, affordability improved",
+        "url": "https://www.housingwire.com/articles/mba-papi-july-payments-dip/",
+        "what": "The median payment dropped $16 from June but was up $48 from a year earlier",
+        "numbers": "$16, $48",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-papi-july-payments-dip/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Data centers: What housing professionals need to know",
-        "url": "https://www.housingwire.com/articles/data-centers-housing-real-estate/",
-        "what": "HousingWire stories cover agent talking points on power costs, pricing uncertainty near facilities and where housing is being pushed next.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/data-centers-housing-real-estate/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "New Listings Hit 4-Month High While Demand Slips, Giving Serious Buyers Chance to Get a Deal Done",
+        "url": "https://www.redfin.com/news/housing-market-update-new-listings-rise-buyers-market/",
+        "what": "More homes are hitting the market, but fewer buyers are purchasing them, giving house hunters an opportunity to negotiate prices and ask for concessions",
+        "numbers": "0.4, 23, 0.5, 4",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-new-listings-rise-buyers-market/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "Bay Area Redfin Agents Honored in LuxeSF’s The Leading 100",
@@ -297,56 +297,56 @@
     ],
     "notables": [
       {
-        "title": "The operating model redesign opportunity of the century",
-        "url": "https://www.housingwire.com/articles/mortgage-operating-model-redesign/",
-        "what": "Industry cost per loan rose from $3,685 in 2009 to $11,094 in 2025 despite major tech spend, encouraging a task-based operating model",
-        "numbers": "$3,685, 2009, $11,094, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-operating-model-redesign/",
+        "title": "Early state tax data prompts NYC to pare pied-a-terre tax pool",
+        "url": "https://www.housingwire.com/articles/nyc-pied-a-terre-tax-lawsuit/",
+        "what": "Filings say DOF will contact about 12,000 owners, and 1,210 are cleared after early 2025 state income tax records arrived",
+        "numbers": "12,000, 1,210, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-pied-a-terre-tax-lawsuit/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Sometimes the fastest way forward is to slow down",
-        "url": "https://www.housingwire.com/articles/fastest-forward-slow-down/",
-        "what": "A heart rate based training lesson reframes how leaders measure progress across changing seasons",
+        "title": "Foreclosure filings rise 10% annually in July, ATTOM says",
+        "url": "https://www.housingwire.com/articles/foreclosure-filings-july-attom/",
+        "what": "ATTOM counted 39,906 filings, up 1% from June, while REOs increased 23% from July 2025",
+        "numbers": "39,906, 1, 23, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/foreclosure-filings-july-attom/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Stellar MLS’s new CEO wants to put the industry in fast-forward",
+        "url": "https://www.housingwire.com/articles/stellar-mlss-new-ceo-wants-to-put-the-industry-in-fast-forward/",
+        "what": "Fairley took the helm at Stellar MLS in March, succeeding Merri Jo Cowen",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fastest-forward-slow-down/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/stellar-mlss-new-ceo-wants-to-put-the-industry-in-fast-forward/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "FirstTeam promotes Lauren Henss to chief marketing and strategy officer",
+        "url": "https://www.housingwire.com/articles/firstteam-lauren-henss-promotion/",
+        "what": "The brokerage cited brand modernization, agent centric tech work, and AI plans tied to its Purlin partnership.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/firstteam-lauren-henss-promotion/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Vishal Garg takes Better to court over ‘poison pill’",
-        "url": "https://www.housingwire.com/articles/vishal-garg-lawsuit-better-home-finance-board/",
-        "what": "The moves comes just days after Better sued Garg for unlawful solicitation of stockholders",
+        "title": "MLSs need to expand options for sellers to improve cooperation",
+        "url": "https://www.housingwire.com/articles/clear-cooperation-private-listings/",
+        "what": "Sellers who want privacy, repairs or price testing were pushed toward private channels when public marketing triggered a one-business-day MLS clock.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/vishal-garg-lawsuit-better-home-finance-board/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/clear-cooperation-private-listings/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
-        "title": "Ryan Serhant doesn’t want to buy your brokerage. He wants your agents",
-        "url": "https://www.housingwire.com/articles/ryan-serhant-growth-earned/",
-        "what": "The brokerage now spans 19 states and DC, and says average agent earnings rise 144% in year one after switching firms.",
-        "numbers": "19, 144",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ryan-serhant-growth-earned/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "‘You really can’t prepare’: Indiana real estate broker reflects on unprecedented storms",
-        "url": "https://www.housingwire.com/articles/indiana-real-estate-broker-on-unprecedented-storms/",
-        "what": "At least seven people were killed and about 1,000 were displaced as floodwaters inundated communities",
-        "numbers": "1,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/indiana-real-estate-broker-on-unprecedented-storms/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "AI worries rise among real estate leaders",
-        "url": "https://www.housingwire.com/articles/ai-worries-rise-among-real-estate-leaders/",
-        "what": "Brokerage size also influenced the types of concerns leaders reported",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-worries-rise-among-real-estate-leaders/",
+        "title": "Velocity to buy Toorak platform, manage $3B BPL portfolio",
+        "url": "https://www.housingwire.com/articles/velocity-toorak-acquisition-rtl-bpl/",
+        "what": "Deal boosts Velocity’s origination volume by 76% and its servicing portfolio by 39%",
+        "numbers": "76, 39",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/velocity-toorak-acquisition-rtl-bpl/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
