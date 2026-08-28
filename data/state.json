@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-28 05:24 UTC",
+  "as_of": "2026-08-28 18:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,39 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Real REMAX Group halts Motto Mortgage franchise growth",
-      "link": "https://www.housingwire.com/articles/real-remax-motto-mortgage-platform/",
+      "title": "ERA Real Estate names Frank Malpica president",
+      "link": "https://www.housingwire.com/articles/era-real-estate-names-frank-malpica-president/",
       "published": "Fri, 28 Aug 2026"
     },
     {
-      "title": "As Kortas and Casa make peace, AIME is back in the mix",
-      "link": "https://www.housingwire.com/articles/kortas-casa-aime/",
-      "published": "Thu, 27 Aug 2026"
+      "title": "South River Mortgage elevates Tyler Plack to CEO",
+      "link": "https://www.housingwire.com/articles/south-river-tyler-plack-ceo/",
+      "published": "Fri, 28 Aug 2026"
     },
     {
-      "title": "Builders face a tougher math problem as completed inventory rises",
-      "link": "https://www.housingwire.com/articles/new-home-supply-9-6-months/",
-      "published": "Thu, 27 Aug 2026"
+      "title": "FHA expected to keep Classic FICO as it adds new models in January",
+      "link": "https://www.housingwire.com/articles/fha-credit-score-january-launch/",
+      "published": "Fri, 28 Aug 2026"
     },
     {
-      "title": "Ginnie Mae wants issuers to focus on fixing loan-level data quality",
-      "link": "https://www.housingwire.com/articles/ginnie-mae-loan-level-data/",
-      "published": "Thu, 27 Aug 2026"
+      "title": "MBA president fires back on claims of poor FHA underwriting",
+      "link": "https://www.housingwire.com/articles/mba-uwm-fha-wsj-rebuttal/",
+      "published": "Fri, 28 Aug 2026"
     },
     {
-      "title": "NWMLS launches AI home search on NWMLS.com with Broker Public Portal",
-      "link": "https://www.housingwire.com/articles/nwmls-ai-home-search-bpp/",
-      "published": "Thu, 27 Aug 2026"
+      "title": "Fed Chair Warsh will vote to hike rates if data doesn’t improve",
+      "link": "https://www.housingwire.com/articles/rates-after-warsh-speech/",
+      "published": "Fri, 28 Aug 2026"
     },
     {
-      "title": "Early state tax data prompts NYC to pare pied-a-terre tax pool",
-      "link": "https://www.housingwire.com/articles/nyc-pied-a-terre-tax-lawsuit/",
-      "published": "Thu, 27 Aug 2026"
+      "title": "Warsh delivers hawkish Jackson Hole speech, fueling speculation of a September rate hike",
+      "link": "https://www.housingwire.com/articles/warsh-jackson-hole-hawkish-inflation-fed-september-rate-hike/",
+      "published": "Fri, 28 Aug 2026"
+    },
+    {
+      "title": "San Diego Homes Are Now Selling 8 Days Faster Than Last Year",
+      "link": "https://www.redfin.com/news/san-diego-days-on-market-down-year-over-year/",
+      "published": "Fri, 28 Aug 2026"
     },
     {
       "title": "New Listings Hit 4-Month High While Demand Slips, Giving Serious Buyers Chance to Get a Deal Done",
@@ -193,15 +198,19 @@
       "title": "Now’s the Time: Late Summer Is the Best Season For Homebuyers to Score a Deal in These U.S. Metros",
       "link": "https://www.redfin.com/news/best-time-to-buy-home-late-summer/",
       "published": "Fri, 21 Aug 2026"
-    },
-    {
-      "title": "With Buyers Firmly in the Driver’s Seat, Home-Purchase Cancellations Hit Highest Level in Nearly 3 Years",
-      "link": "https://www.redfin.com/news/contract-cancellations-july-2026/",
-      "published": "Fri, 21 Aug 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Fed Chair Warsh will vote to hike rates if data doesn’t improve",
+        "url": "https://www.housingwire.com/articles/rates-after-warsh-speech/",
+        "what": "The three things that matter now",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rates-after-warsh-speech/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Canadian Tariffs, Inflation Numbers Unlikely to Move Mortgage Rates as Markets Await Jackson Hole Address",
         "url": "https://www.redfin.com/news/canadian-tariffs-inflation-numbers-unlikely-to-move-mortgage-rates-as-markets-await-jackson-hole-adress/",
@@ -210,62 +219,44 @@
         "justified": "redfin.com — https://www.redfin.com/news/canadian-tariffs-inflation-numbers-unlikely-to-move-mortgage-rates-as-markets-await-jackson-hole-adress/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Now’s the Time: Late Summer Is the Best Season For Homebuyers to Score a Deal in These U.S. Metros",
-        "url": "https://www.redfin.com/news/best-time-to-buy-home-late-summer/",
-        "what": "Late August is the best time for homebuyers to score a deal in parts of California, Austin, TX and certain New York City suburbs",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/best-time-to-buy-home-late-summer/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "housing": [
       {
-        "title": "Real REMAX Group halts Motto Mortgage franchise growth",
-        "url": "https://www.housingwire.com/articles/real-remax-motto-mortgage-platform/",
-        "what": "Vic Lombardo, the president of REMAX’s mortgage services, had stepped down from his role",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-remax-motto-mortgage-platform/",
+        "title": "South River Mortgage elevates Tyler Plack to CEO",
+        "url": "https://www.housingwire.com/articles/south-river-tyler-plack-ceo/",
+        "what": "Tyler Plack was a founding employee of South River when it opened in 2017",
+        "numbers": "2017",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/south-river-tyler-plack-ceo/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Builders face a tougher math problem as completed inventory rises",
-        "url": "https://www.housingwire.com/articles/new-home-supply-9-6-months/",
-        "what": "With apologies to Jim Morrison and the Doors, the time to hesitate is through",
+        "title": "MBA president fires back on claims of poor FHA underwriting",
+        "url": "https://www.housingwire.com/articles/mba-uwm-fha-wsj-rebuttal/",
+        "what": "Broeksmit said the op-ed erroneously linked the health of an independent lender to the health of the FHA's Mutual Mortgage Insurance Fund (MMIF).",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-supply-9-6-months/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-uwm-fha-wsj-rebuttal/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "NWMLS launches AI home search on NWMLS.com with Broker Public Portal",
-        "url": "https://www.housingwire.com/articles/nwmls-ai-home-search-bpp/",
-        "what": "New Cribio-powered experience offers natural-language search and real-time Washington listings with direct broker attribution.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nwmls-ai-home-search-bpp/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Drees leader Rader chosen for Leadership Cincinnati class 50",
-        "url": "https://www.housingwire.com/articles/drees-pamela-rader-leadership-cincinnati/",
-        "what": "HR leader Pamela Rader will add housing insight to the Cincinnati Chamber’s flagship regional leadership program",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/drees-pamela-rader-leadership-cincinnati/",
+        "title": "San Diego Homes Are Now Selling 8 Days Faster Than Last Year",
+        "url": "https://www.redfin.com/news/san-diego-days-on-market-down-year-over-year/",
+        "what": "San Diego homes are selling eight days faster than a year ago, with the typical home going under contract in 32 days",
+        "numbers": "32, 49, 8",
+        "justified": "redfin.com — https://www.redfin.com/news/san-diego-days-on-market-down-year-over-year/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "How can Social Security COLAs impact reverse mortgage planning?",
-        "url": "https://www.housingwire.com/articles/reverse-mortgage-2027-cola-timing/",
-        "what": "In a higher-rate environment like today, line-of-credit growth can accelerate, influencing choices about loan draws and Social Security claims",
+        "title": "“The Crooked E” and manufactured housing: Evidence of systemic failures and corruption",
+        "url": "https://www.housingwire.com/articles/systemic-corruption-manufactured-housing-crisis/",
+        "what": "The Manufactured Housing Institute (MHI) consolidation thesis",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-2027-cola-timing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/systemic-corruption-manufactured-housing-crisis/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "New Listings Hit 4-Month High While Demand Slips, Giving Serious Buyers Chance to Get a Deal Done",
@@ -293,60 +284,60 @@
         "justified": "redfin.com — https://www.redfin.com/news/texas-buyers-markets-ranking-july-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "With Buyers Firmly in the Driver’s Seat, Home-Purchase Cancellations Hit Highest Level in Nearly 3 Years",
-        "url": "https://www.redfin.com/news/contract-cancellations-july-2026/",
-        "what": "14% of U.S",
-        "numbers": "14, 2023,, 3",
-        "justified": "redfin.com — https://www.redfin.com/news/contract-cancellations-july-2026/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
       {
-        "title": "As Kortas and Casa make peace, AIME is back in the mix",
-        "url": "https://www.housingwire.com/articles/kortas-casa-aime/",
-        "what": "NEXA says it will cover AIME memberships for about 4,100 loan officers as Casa seeks a role as membership director",
-        "numbers": "4,100",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kortas-casa-aime/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Ginnie Mae wants issuers to focus on fixing loan-level data quality",
-        "url": "https://www.housingwire.com/articles/ginnie-mae-loan-level-data/",
-        "what": "Joe Gormley says standardized submissions could cut reconciliation work and support friction-free servicing transfers",
+        "title": "ERA Real Estate names Frank Malpica president",
+        "url": "https://www.housingwire.com/articles/era-real-estate-names-frank-malpica-president/",
+        "what": "Malpica's appointment follows the tenure of Alex Vidal",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ginnie-mae-loan-level-data/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/era-real-estate-names-frank-malpica-president/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Early state tax data prompts NYC to pare pied-a-terre tax pool",
-        "url": "https://www.housingwire.com/articles/nyc-pied-a-terre-tax-lawsuit/",
-        "what": "Filings say DOF will contact about 12,000 owners, and 1,210 are cleared after early 2025 state income tax records arrived",
-        "numbers": "12,000, 1,210, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-pied-a-terre-tax-lawsuit/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Foreclosure filings rise 10% annually in July, ATTOM says",
-        "url": "https://www.housingwire.com/articles/foreclosure-filings-july-attom/",
-        "what": "ATTOM counted 39,906 filings, up 1% from June, while REOs increased 23% from July 2025",
-        "numbers": "39,906, 1, 23, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/foreclosure-filings-july-attom/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Stellar MLS’s new CEO wants to put the industry in fast-forward",
-        "url": "https://www.housingwire.com/articles/stellar-mlss-new-ceo-wants-to-put-the-industry-in-fast-forward/",
-        "what": "Fairley took the helm at Stellar MLS in March, succeeding Merri Jo Cowen",
+        "title": "FHA expected to keep Classic FICO as it adds new models in January",
+        "url": "https://www.housingwire.com/articles/fha-credit-score-january-launch/",
+        "what": "Lenders expect model consistency will be required at the loan level",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/stellar-mlss-new-ceo-wants-to-put-the-industry-in-fast-forward/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-credit-score-january-launch/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Warsh delivers hawkish Jackson Hole speech, fueling speculation of a September rate hike",
+        "url": "https://www.housingwire.com/articles/warsh-jackson-hole-hawkish-inflation-fed-september-rate-hike/",
+        "what": "Markets now see a 57.4% chance of a September rate hike",
+        "numbers": "57.4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/warsh-jackson-hole-hawkish-inflation-fed-september-rate-hike/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "KB Home names Casey Dare president of Tampa division",
+        "url": "https://www.housingwire.com/articles/kb-home-names-casey-dare-president-of-tampa-division/",
+        "what": "As Tampa division president, Dare will oversee land, construction, sales, and customer service across the growing market",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kb-home-names-casey-dare-president-of-tampa-division/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Champion Homes adds Eagle Materials’ Michael Haack to board",
+        "url": "https://www.housingwire.com/articles/champion-homes-adds-michael-haack-independent-director/",
+        "what": "Eagle Materials CEO Michael Haack, a new independent director, adds manufacturing and M&A expertise",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/champion-homes-adds-michael-haack-independent-director/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "ERA expands footprint across Arkansas, Missouri, Oklahoma",
+        "url": "https://www.housingwire.com/articles/era-expands-footprint-across-arkansas-missouri-oklahoma/",
+        "what": "The move adds approximately 260 affiliated sales associates to ERA's network",
+        "numbers": "260",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/era-expands-footprint-across-arkansas-missouri-oklahoma/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
