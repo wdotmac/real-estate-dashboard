@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-29 21:43 UTC",
+  "as_of": "2026-08-30 00:19 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Housing demand has slowed, but still stable for now",
+      "link": "https://www.housingwire.com/articles/housing-demand-has-slowed-but-still-stable-for-now/",
+      "published": "Sat, 29 Aug 2026"
+    },
+    {
       "title": "The WSJ is wrong about FHA loans and nonbanks, and they know it",
       "link": "https://www.housingwire.com/articles/the-wsj-is-wrong-about-fha-loans-and-nonbanks-and-they-know-it/",
       "published": "Sat, 29 Aug 2026"
@@ -162,11 +167,6 @@
     {
       "title": "South River Mortgage elevates Tyler Plack to CEO",
       "link": "https://www.housingwire.com/articles/south-river-tyler-plack-ceo/",
-      "published": "Fri, 28 Aug 2026"
-    },
-    {
-      "title": "FHA expected to keep Classic FICO as it adds new models in January",
-      "link": "https://www.housingwire.com/articles/fha-credit-score-january-launch/",
       "published": "Fri, 28 Aug 2026"
     },
     {
@@ -222,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Housing demand has slowed, but still stable for now",
+        "url": "https://www.housingwire.com/articles/housing-demand-has-slowed-but-still-stable-for-now/",
+        "what": "New listings data is still positive year-over-year",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-demand-has-slowed-but-still-stable-for-now/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Mounting ICE raids leave homebuilding’s frontlines frozen in fear",
         "url": "https://www.housingwire.com/articles/mounting-ice-raids-leave-homebuildings-frontlines-frozen-in-fear/",
@@ -331,15 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/warsh-jackson-hole-hawkish-inflation-fed-september-rate-hike/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "KB Home names Casey Dare president of Tampa division",
-        "url": "https://www.housingwire.com/articles/kb-home-names-casey-dare-president-of-tampa-division/",
-        "what": "As Tampa division president, Dare will oversee land, construction, sales, and customer service across the growing market",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kb-home-names-casey-dare-president-of-tampa-division/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
