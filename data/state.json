@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-09-01 18:30 UTC",
+  "as_of": "2026-09-01 21:46 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.73,
-      "delta_bp_1d": 6.00000000000005
+      "yield_pct": 4.75,
+      "delta_bp_1d": 1.9999999999999574
     },
     "mortgage_30y": {
       "rate_pct": 6.66,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Move Concierge partners with Ebby Halliday on utility setup",
-      "link": "https://www.housingwire.com/articles/move-concierge-ebby-halliday/",
+      "title": "Condo no-go: California defect reform fails at deadline",
+      "link": "https://www.housingwire.com/articles/california-condo-defect-reform-fails/",
       "published": "Tue, 01 Sep 2026"
     },
     {
-      "title": "Candor rolls out mortgage document intelligence tool built for GSE AI requirements",
-      "link": "https://www.housingwire.com/articles/candor-di-document-intelligence-loan-data-discrepancies/",
+      "title": "Douglas Elliman names Jamie Gagliano national brokerage COO",
+      "link": "https://www.housingwire.com/articles/douglas-elliman-gagliano-brokerage-coo/",
       "published": "Tue, 01 Sep 2026"
     },
     {
-      "title": "Announcing the 2026 HousingWire Vanguards",
-      "link": "https://www.housingwire.com/articles/announcing-the-2026-housingwire-vanguards/",
+      "title": "Social Security reform pressure mounts ahead of midterm elections",
+      "link": "https://www.housingwire.com/articles/social-security-reform-pressure-mounts-ahead-of-midterm-elections/",
       "published": "Tue, 01 Sep 2026"
     },
     {
-      "title": "Mortgage rates jump after Warsh’s Jackson Hole remarks",
-      "link": "https://www.housingwire.com/articles/rates-near-7-fed-treasury/",
+      "title": "Rocket Pro to build 3 mortgage tech tools pitched by brokers",
+      "link": "https://www.housingwire.com/articles/rocket-pro-tech-broker-tool/",
       "published": "Tue, 01 Sep 2026"
     },
     {
-      "title": "DeCaro Auctions launches fractional ownership format",
-      "link": "https://www.housingwire.com/articles/decaro-auctions-launches-fractional-ownership-format/",
+      "title": "Why did a $305M California land facility still get done in 2026?",
+      "link": "https://www.housingwire.com/articles/arec-305m-california-land-facility/",
       "published": "Tue, 01 Sep 2026"
     },
     {
-      "title": "HomeServices’ Chris Kelly says mortgage servicing is real estate’s new lead engine",
-      "link": "https://www.housingwire.com/articles/homeservices-adds-mortgage-servicing-2/",
+      "title": "Alex Vidal joins REMAX as president after Real REMAX deal",
+      "link": "https://www.housingwire.com/articles/alex-vidal-remax-president/",
       "published": "Tue, 01 Sep 2026"
     },
     {
@@ -203,11 +203,11 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Mortgage rates jump after Warsh’s Jackson Hole remarks",
-        "url": "https://www.housingwire.com/articles/rates-near-7-fed-treasury/",
-        "what": "Pivot Financial cites Treasury buybacks and inflation risk as factors that could keep MBS spreads wide",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rates-near-7-fed-treasury/",
+        "title": "Why did a $305M California land facility still get done in 2026?",
+        "url": "https://www.housingwire.com/articles/arec-305m-california-land-facility/",
+        "what": "Deal funds 3,000-plus lots as AD&C rates hit 10.43% for acquisition and 12.59% for development",
+        "numbers": "3,000, 10.43, 12.59",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/arec-305m-california-land-facility/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -223,31 +223,31 @@
     ],
     "housing": [
       {
-        "title": "Candor rolls out mortgage document intelligence tool built for GSE AI requirements",
-        "url": "https://www.housingwire.com/articles/candor-di-document-intelligence-loan-data-discrepancies/",
-        "what": "The tool is built to align with Fannie Mae and Freddie Mac AI guidance, reduce processor rework, shorten cycle times and support scalability without additional headcount",
+        "title": "Rocket Pro to build 3 mortgage tech tools pitched by brokers",
+        "url": "https://www.housingwire.com/articles/rocket-pro-tech-broker-tool/",
+        "what": "The company presented three prototypes created from broker-submitted ideas for its Big Pitch contest",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/candor-di-document-intelligence-loan-data-discrepancies/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-pro-tech-broker-tool/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Announcing the 2026 HousingWire Vanguards",
-        "url": "https://www.housingwire.com/articles/announcing-the-2026-housingwire-vanguards/",
-        "what": "Meet the 100 executives whose leadership, vision and influence are shaping the future of housing.",
-        "numbers": "100",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/announcing-the-2026-housingwire-vanguards/",
+        "title": "Gibson commission settlements upheld by Eighth Circuit",
+        "url": "https://www.housingwire.com/articles/gibson-settlements-eighth-circuit/",
+        "what": "Settlements cover Compass, Redfin, The Real Brokerage and 6 other firms, adopting NAR practice changes.",
+        "numbers": "6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gibson-settlements-eighth-circuit/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "HomeServices’ Chris Kelly says mortgage servicing is real estate’s new lead engine",
-        "url": "https://www.housingwire.com/articles/homeservices-adds-mortgage-servicing-2/",
-        "what": "Executives say servicing helps preserve agent relationships and creates recurring touchpoints that can surface refi or move-up intent.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homeservices-adds-mortgage-servicing-2/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "title": "Quantitative squeezing: all-in ownership costs bar renters from buying",
+        "url": "https://www.housingwire.com/articles/all-in-homeownership-costs-renters-affordability/",
+        "what": "Renters would spend 56.5% of income to buy the median resale home, and Los Angeles hits 100% in the latest index",
+        "numbers": "56.5, 100",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/all-in-homeownership-costs-renters-affordability/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "Seller Choice Comes To Seattle",
@@ -297,58 +297,58 @@
     ],
     "notables": [
       {
-        "title": "Move Concierge partners with Ebby Halliday on utility setup",
-        "url": "https://www.housingwire.com/articles/move-concierge-ebby-halliday/",
-        "what": "Service rolls out across 3 Texas and Oklahoma brands, covering power, internet, TV, phone, automation, and security.",
-        "numbers": "3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/move-concierge-ebby-halliday/",
+        "title": "Condo no-go: California defect reform fails at deadline",
+        "url": "https://www.housingwire.com/articles/california-condo-defect-reform-fails/",
+        "what": "Late Senate amendments sent AB 1903 back to the Assembly; the legislative session clock ran out before a vote",
+        "numbers": "1903",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/california-condo-defect-reform-fails/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "DeCaro Auctions launches fractional ownership format",
-        "url": "https://www.housingwire.com/articles/decaro-auctions-launches-fractional-ownership-format/",
-        "what": "The process is available to qualifying residential properties in premier luxury resort and lifestyle markets",
+        "title": "Douglas Elliman names Jamie Gagliano national brokerage COO",
+        "url": "https://www.housingwire.com/articles/douglas-elliman-gagliano-brokerage-coo/",
+        "what": "She will oversee national operations and align workflows with Elius, the firm’s AI platform built on Google Cloud.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/decaro-auctions-launches-fractional-ownership-format/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/douglas-elliman-gagliano-brokerage-coo/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Building agent confidence one conversation at a time",
-        "url": "https://www.housingwire.com/articles/real-estate-conversations-lead-gen/",
-        "what": "Client check ins and pricing talks show why preparation and curiosity can convert more leads.",
+        "title": "Social Security reform pressure mounts ahead of midterm elections",
+        "url": "https://www.housingwire.com/articles/social-security-reform-pressure-mounts-ahead-of-midterm-elections/",
+        "what": "The program’s retirement trust fund is projected to face insolvency in 2032",
+        "numbers": "2032",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/social-security-reform-pressure-mounts-ahead-of-midterm-elections/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Alex Vidal joins REMAX as president after Real REMAX deal",
+        "url": "https://www.housingwire.com/articles/alex-vidal-remax-president/",
+        "what": "The former ERA brand president will report to CEO Tamir Poleg as Real REMAX Group reshapes leadership.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-conversations-lead-gen/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/alex-vidal-remax-president/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Rocket Pro announces ‘Moving Squad’ initiative at RPX",
-        "url": "https://www.housingwire.com/articles/rocket-pro-moving-squad/",
-        "what": "Program targets brokers constrained by UWM’s All-In policy and includes a $10,000 referral bonus through the end of 2026",
-        "numbers": "$10,000, 2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-pro-moving-squad/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Rocket Pro boosts pricing by 60 bps in September ‘Power Play’",
-        "url": "https://www.housingwire.com/articles/rocket-pro-wholesale-pricing/",
-        "what": "The updated pricing improves base pricing by 60 bps and removes volume tiers",
-        "numbers": "60",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-pro-wholesale-pricing/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Stewart buys ProTitleUSA, DocSolutionUSA to expand title and diligence services",
-        "url": "https://www.housingwire.com/articles/stewart-acquires-protitleusa-docsolutionusa-expand-title-diligence/",
-        "what": "Stewart CEO said deal aligns with long-term strategy for centralized title services",
+        "title": "NCLC: Heirship affidavits help families keep inherited homes and access aid",
+        "url": "https://www.housingwire.com/articles/heirship-affidavits-report-inherited-property-generational-wealth/",
+        "what": "Making these documents more available and accepted could be especially helpful to Black and low-income families who wish to preserve ownership and generational wealth",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/stewart-acquires-protitleusa-docsolutionusa-expand-title-diligence/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/heirship-affidavits-report-inherited-property-generational-wealth/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Jay Bray on how Rocket plans to win brokers in a tough market",
+        "url": "https://www.housingwire.com/articles/jay-bray-rocket-mortgage-broker/",
+        "what": "Bray pointed to servicing cash flow, Mr",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/jay-bray-rocket-mortgage-broker/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
