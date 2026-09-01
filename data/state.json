@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-01 05:07 UTC",
+  "as_of": "2026-09-01 10:05 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Pre-IPO equity is redefining the qualified borrower",
+      "link": "https://www.housingwire.com/articles/pre-ipo-equity-mortgage-underwriting/",
+      "published": "Tue, 01 Sep 2026"
+    },
+    {
+      "title": "The end of SaaS as we know it in mortgage lending?",
+      "link": "https://www.housingwire.com/articles/ai-saas-mortgage-lending/",
+      "published": "Tue, 01 Sep 2026"
+    },
+    {
+      "title": "Beyond affordability: What Florida’s Amendment 3 could mean for MSR values",
+      "link": "https://www.housingwire.com/articles/florida-amendment-3-msr-values/",
+      "published": "Tue, 01 Sep 2026"
+    },
+    {
       "title": "Modular housing fails to scale. Will policy reforms alter that?",
       "link": "https://www.housingwire.com/articles/road-act-modular-housing/",
       "published": "Mon, 31 Aug 2026"
@@ -152,21 +167,6 @@
     {
       "title": "A raft of California housing bills heads to Newsom; here’s what’s new",
       "link": "https://www.housingwire.com/articles/california-housing-bills-newsom/",
-      "published": "Mon, 31 Aug 2026"
-    },
-    {
-      "title": "Jamie Cavanaugh to lead Broker Action Coalition as CEO",
-      "link": "https://www.housingwire.com/articles/broker-action-coalition-names-jamie-cavanaugh-ceo/",
-      "published": "Mon, 31 Aug 2026"
-    },
-    {
-      "title": "Closings per market shows why some builders scale faster",
-      "link": "https://www.housingwire.com/articles/homebuilders-fewer-markets-scale/",
-      "published": "Mon, 31 Aug 2026"
-    },
-    {
-      "title": "Compass settles NWMLS lawsuit on coming soon listings",
-      "link": "https://www.housingwire.com/articles/compass-nwmls-coming-soon-settlement/",
       "published": "Mon, 31 Aug 2026"
     },
     {
@@ -231,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "The end of SaaS as we know it in mortgage lending?",
+        "url": "https://www.housingwire.com/articles/ai-saas-mortgage-lending/",
+        "what": "Agentic workflows shift user interaction from LOS and POS screens to intent-based execution with audit trails",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-saas-mortgage-lending/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "A raft of California housing bills heads to Newsom; here’s what’s new",
         "url": "https://www.housingwire.com/articles/california-housing-bills-newsom/",
@@ -315,38 +324,29 @@
     ],
     "notables": [
       {
+        "title": "Pre-IPO equity is redefining the qualified borrower",
+        "url": "https://www.housingwire.com/articles/pre-ipo-equity-mortgage-underwriting/",
+        "what": "Fannie Mae rules can ignore private-company receipt history and require a 200-day trading average after an IPO",
+        "numbers": "200",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pre-ipo-equity-mortgage-underwriting/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Beyond affordability: What Florida’s Amendment 3 could mean for MSR values",
+        "url": "https://www.housingwire.com/articles/florida-amendment-3-msr-values/",
+        "what": "SitusAMC examines how Florida Amendment 3 could reduce escrow custodial balances, pressure MSR values and create new modeling considerations for servicers",
+        "numbers": "3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/florida-amendment-3-msr-values/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Financial pressures are threatening middle-class retirement",
         "url": "https://www.housingwire.com/articles/financial-pressures-threaten-middle-class-retirement/",
         "what": "Transamerica study found that 72% of respondents have taken action in response to financial strain",
         "numbers": "72",
         "justified": "housingwire.com — https://www.housingwire.com/articles/financial-pressures-threaten-middle-class-retirement/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "MILLION Luxury bets on AI to compete with mega brokerages",
-        "url": "https://www.housingwire.com/articles/million-luxury-ai-brokerage/",
-        "what": "CEO Andrés Muñoz says AI is built into marketing, CRM, lead follow up and back office workflows.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/million-luxury-ai-brokerage/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "OneKey MLS CEO: ‘MLS can’t take its value for granted’",
-        "url": "https://www.housingwire.com/articles/onekey-mls-ceo-mls-cant-take-its-value-for-granted/",
-        "what": "OneKey recently made Ocusell's listing management technology available to its agents",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/onekey-mls-ceo-mls-cant-take-its-value-for-granted/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "How to protect military buyers when the home tour is a video call",
-        "url": "https://www.housingwire.com/articles/military-pcs-sight-unseen-home-purchase/",
-        "what": "Agents must vet neighborhoods, flag condition risks early, and explain VA offer strength to sellers.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/military-pcs-sight-unseen-home-purchase/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
