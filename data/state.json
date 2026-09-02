@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-09-02 18:42 UTC",
+  "as_of": "2026-09-02 21:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.75,
-      "delta_bp_1d": 1.9999999999999574
+      "yield_pct": 4.79,
+      "delta_bp_1d": 4.0000000000000036
     },
     "mortgage_30y": {
       "rate_pct": 6.66,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Michigan primary wins bolster momentum for zoning reforms",
+      "link": "https://www.housingwire.com/articles/michigan-zoning-reform-primary/",
+      "published": "Wed, 02 Sep 2026"
+    },
+    {
+      "title": "Compass-NWMLS Settlement bigger than ‘Coming Soon’ listings",
+      "link": "https://www.housingwire.com/articles/compass-nwmls-settlement-bigger-than-coming-soon-listings/",
+      "published": "Wed, 02 Sep 2026"
+    },
+    {
+      "title": "eXp ends mortgage JV with Kind Lending, eyes Newrez deal",
+      "link": "https://www.housingwire.com/articles/exp-kind-success-lending-newrez/",
+      "published": "Wed, 02 Sep 2026"
+    },
+    {
+      "title": "Rocket’s amended complaint says UWM targeted Mr. Cooper borrowers",
+      "link": "https://www.housingwire.com/articles/rocket-uwm-amended-complaint/",
+      "published": "Wed, 02 Sep 2026"
+    },
+    {
+      "title": "Real estate doesn’t compete with other brokerages anymore",
+      "link": "https://www.housingwire.com/articles/homebuying-transparency-expectations/",
+      "published": "Wed, 02 Sep 2026"
+    },
+    {
       "title": "Immigration enforcement tightens squeeze on homebuilders’ job sites",
       "link": "https://www.housingwire.com/articles/immigration-enforcement-labor-shortage/",
-      "published": "Wed, 02 Sep 2026"
-    },
-    {
-      "title": "California mega team Tafoya Real Estate joins eXp Realty",
-      "link": "https://www.housingwire.com/articles/tafoya-real-estate-exp-realty/",
-      "published": "Wed, 02 Sep 2026"
-    },
-    {
-      "title": "Rate adds Chicago-area mortgage leaders, opens Elmhurst branch",
-      "link": "https://www.housingwire.com/articles/rate-hires-mortgage-leaders-elmhurst/",
-      "published": "Wed, 02 Sep 2026"
-    },
-    {
-      "title": "HECM volume slips in August, with the ‘Big 3’ holding 62% market share",
-      "link": "https://www.housingwire.com/articles/top-3-hecm-lenders-share/",
-      "published": "Wed, 02 Sep 2026"
-    },
-    {
-      "title": "Florida homebuyers can breathe easier as insurance market rebounds",
-      "link": "https://www.housingwire.com/articles/florida-insurance-citizens-drop/",
-      "published": "Wed, 02 Sep 2026"
-    },
-    {
-      "title": "HUD sets one-year statute of limitations on fair housing construction violations",
-      "link": "https://www.housingwire.com/articles/hud-limits-fair-housing-construction-liability/",
       "published": "Wed, 02 Sep 2026"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Housing Market Spotlight: Spotting the local signals beneath headline data",
-        "url": "https://www.housingwire.com/articles/local-housing-market-signals-changing-conditions/",
-        "what": "El Paso, San Antonio and Cincinnati show why housing professionals need to read seller behavior, supply and absorption together to understand changing market conditions",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/local-housing-market-signals-changing-conditions/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "A Tale of Two Tech Cities: San Francisco’s Housing Market Booms While Seattle Slumps",
         "url": "https://www.redfin.com/news/two-tech-cities-housing-san-francisco-seattle/",
         "what": "San Francisco, home to OpenAI and Anthropic, is seeing its housing market boom as AI employees put their money into the housing market",
@@ -232,6 +223,33 @@
     ],
     "housing": [
       {
+        "title": "Michigan primary wins bolster momentum for zoning reforms",
+        "url": "https://www.housingwire.com/articles/michigan-zoning-reform-primary/",
+        "what": "Housing reform cosponsors who faced challengers won by 47.2 points on average, even as local governments oppose zoning preemption",
+        "numbers": "47.2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/michigan-zoning-reform-primary/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Compass-NWMLS Settlement bigger than ‘Coming Soon’ listings",
+        "url": "https://www.housingwire.com/articles/compass-nwmls-settlement-bigger-than-coming-soon-listings/",
+        "what": "The agreement, which takes effect in stages beginning Sept",
+        "numbers": "4,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-nwmls-settlement-bigger-than-coming-soon-listings/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "eXp ends mortgage JV with Kind Lending, eyes Newrez deal",
+        "url": "https://www.housingwire.com/articles/exp-kind-success-lending-newrez/",
+        "what": "Success Lending will wind down as eXp targets launch with Newrez",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-kind-success-lending-newrez/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Immigration enforcement tightens squeeze on homebuilders’ job sites",
         "url": "https://www.housingwire.com/articles/immigration-enforcement-labor-shortage/",
         "what": "NAHB says the industry must recruit 723,000 workers annually as builders push the Dignity Act and trades training",
@@ -248,24 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/rate-hires-mortgage-leaders-elmhurst/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "HUD sets one-year statute of limitations on fair housing construction violations",
-        "url": "https://www.housingwire.com/articles/hud-limits-fair-housing-construction-liability/",
-        "what": "The updated guidance replaces a 2013 policy",
-        "numbers": "2013",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-limits-fair-housing-construction-liability/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "HousingWire creates unified Insights function to centralize research and data",
-        "url": "https://www.housingwire.com/articles/housingwire-launches-insights-function-names-bill-sullivan-head/",
-        "what": "Bill Sullivan will lead the new group, embedding insights directly into HousingWire Intelligence and KCM products",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housingwire-launches-insights-function-names-bill-sullivan-head/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Homes in Highly Rated School Zones Cost 35% More Than the Average U.S. Home. But the Premium Is Much Smaller in Some Parts of the Country.",
@@ -306,6 +306,24 @@
     ],
     "notables": [
       {
+        "title": "Rocket’s amended complaint says UWM targeted Mr. Cooper borrowers",
+        "url": "https://www.housingwire.com/articles/rocket-uwm-amended-complaint/",
+        "what": "Rocket claims that UWM provided brokers with lists identifying specific loans to target",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-uwm-amended-complaint/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Real estate doesn’t compete with other brokerages anymore",
+        "url": "https://www.housingwire.com/articles/homebuying-transparency-expectations/",
+        "what": "The industry is increasingly judged on proactive status updates, fewer handoffs and cost clarity before commitment.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuying-transparency-expectations/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "California mega team Tafoya Real Estate joins eXp Realty",
         "url": "https://www.housingwire.com/articles/tafoya-real-estate-exp-realty/",
         "what": "Fresno-based mega team has roughly 37 agents who closed $87.92M on 172 sides in 2024 and 2025",
@@ -329,24 +347,6 @@
         "what": "Nearly 20 insurers entered or reentered Florida after 2022 and 2023 reforms, easing quoting and closing challenges.",
         "numbers": "20, 2022, 2023",
         "justified": "housingwire.com — https://www.housingwire.com/articles/florida-insurance-citizens-drop/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "HomeVestors expands to on-market properties with acquisition",
-        "url": "https://www.housingwire.com/articles/homevestors-expands-to-on-market-properties-with-acquisition/",
-        "what": "The move aims to help franchises identify and pursue investment opportunities listed on the MLS",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homevestors-expands-to-on-market-properties-with-acquisition/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "House Republicans outline plan to overhaul CFPB",
-        "url": "https://www.housingwire.com/articles/cfpb-reform-funding-oversight/",
-        "what": "Act targets CFPB structure, shifting the bureau funding to appropriations",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-reform-funding-oversight/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
