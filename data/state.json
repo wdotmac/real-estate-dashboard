@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-02 04:41 UTC",
+  "as_of": "2026-09-02 09:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The property tax trap hiding in your real estate underwriting",
+      "link": "https://www.housingwire.com/articles/property-tax-reassessment-risk/",
+      "published": "Wed, 02 Sep 2026"
+    },
+    {
+      "title": "I asked seven AI engines for a mortgage recommendation. The results looked surprisingly old-school.",
+      "link": "https://www.housingwire.com/articles/mortgage-aeo-still-seo/",
+      "published": "Wed, 02 Sep 2026"
+    },
+    {
+      "title": "Into the crucible: Five questions every residential lending CEO should answer",
+      "link": "https://www.housingwire.com/articles/residential-lending-ceo-questions/",
+      "published": "Wed, 02 Sep 2026"
+    },
+    {
       "title": "NEXA Lending launches new model, touts 100% revenue split for LOs",
       "link": "https://www.housingwire.com/articles/nexa-lending-unlimited/",
       "published": "Tue, 01 Sep 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Douglas Elliman names Jamie Gagliano national brokerage COO",
       "link": "https://www.housingwire.com/articles/douglas-elliman-gagliano-brokerage-coo/",
-      "published": "Tue, 01 Sep 2026"
-    },
-    {
-      "title": "Social Security reform pressure mounts ahead of midterm elections",
-      "link": "https://www.housingwire.com/articles/social-security-reform-pressure-mounts-ahead-of-midterm-elections/",
-      "published": "Tue, 01 Sep 2026"
-    },
-    {
-      "title": "Rocket Pro to build 3 mortgage tech tools pitched by brokers",
-      "link": "https://www.housingwire.com/articles/rocket-pro-tech-broker-tool/",
-      "published": "Tue, 01 Sep 2026"
-    },
-    {
-      "title": "Why did a $305M California land facility still get done in 2026?",
-      "link": "https://www.housingwire.com/articles/arec-305m-california-land-facility/",
       "published": "Tue, 01 Sep 2026"
     },
     {
@@ -223,6 +223,24 @@
     ],
     "housing": [
       {
+        "title": "The property tax trap hiding in your real estate underwriting",
+        "url": "https://www.housingwire.com/articles/property-tax-reassessment-risk/",
+        "what": "Underwriting should separate current taxes from stabilized taxes and account for local reassessment rules",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/property-tax-reassessment-risk/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "I asked seven AI engines for a mortgage recommendation. The results looked surprisingly old-school.",
+        "url": "https://www.housingwire.com/articles/mortgage-aeo-still-seo/",
+        "what": "A Knoxville DSCR query across 7 AI platforms surfaced lenders with city pages and SEO signals, often without local ties",
+        "numbers": "7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-aeo-still-seo/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Rocket Pro to build 3 mortgage tech tools pitched by brokers",
         "url": "https://www.housingwire.com/articles/rocket-pro-tech-broker-tool/",
         "what": "The company presented three prototypes created from broker-submitted ideas for its Big Pitch contest",
@@ -230,15 +248,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-pro-tech-broker-tool/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Gibson commission settlements upheld by Eighth Circuit",
-        "url": "https://www.housingwire.com/articles/gibson-settlements-eighth-circuit/",
-        "what": "Settlements cover Compass, Redfin, The Real Brokerage and 6 other firms, adopting NAR practice changes.",
-        "numbers": "6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/gibson-settlements-eighth-circuit/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Seller Choice Comes To Seattle",
@@ -288,6 +297,15 @@
     ],
     "notables": [
       {
+        "title": "Into the crucible: Five questions every residential lending CEO should answer",
+        "url": "https://www.housingwire.com/articles/residential-lending-ceo-questions/",
+        "what": "Freddie Mac puts the 30-year fixed at 6.66%, and MBA sees roughly $2.2T in originations from 2026 to 2028",
+        "numbers": "30, 6.66, $2.2, 2026, 2028",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/residential-lending-ceo-questions/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "NEXA Lending launches new model, touts 100% revenue split for LOs",
         "url": "https://www.housingwire.com/articles/nexa-lending-unlimited/",
         "what": "CEO Mike Kortas: ‘If you are producing the business ..",
@@ -329,24 +347,6 @@
         "what": "The former ERA brand president will report to CEO Tamir Poleg as Real REMAX Group reshapes leadership.",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/alex-vidal-remax-president/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "NCLC: Heirship affidavits help families keep inherited homes and access aid",
-        "url": "https://www.housingwire.com/articles/heirship-affidavits-report-inherited-property-generational-wealth/",
-        "what": "Making these documents more available and accepted could be especially helpful to Black and low-income families who wish to preserve ownership and generational wealth",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/heirship-affidavits-report-inherited-property-generational-wealth/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Jay Bray on how Rocket plans to win brokers in a tough market",
-        "url": "https://www.housingwire.com/articles/jay-bray-rocket-mortgage-broker/",
-        "what": "Bray pointed to servicing cash flow, Mr",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/jay-bray-rocket-mortgage-broker/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
