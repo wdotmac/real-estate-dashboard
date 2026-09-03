@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-09-03 18:38 UTC",
+  "as_of": "2026-09-03 21:42 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
       "yield_pct": 4.79,
-      "delta_bp_1d": 4.0000000000000036
+      "delta_bp_1d": 0.0
     },
     "mortgage_30y": {
       "rate_pct": 6.71,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Is NWMLS’ First Look the template for MLS coming soon policies?",
+      "link": "https://www.housingwire.com/articles/first-look-coming-soon-mls/",
+      "published": "Thu, 03 Sep 2026"
+    },
+    {
+      "title": "The biggest impact of the SpaceX IPO won’t be in Silicon Valley",
+      "link": "https://www.housingwire.com/articles/liquidity-events-luxury-real-estate-spacex/",
+      "published": "Thu, 03 Sep 2026"
+    },
+    {
+      "title": "Vishal Garg lays out Better turnaround plan amid battle with board",
+      "link": "https://www.housingwire.com/articles/better-vishal-garg-plan/",
+      "published": "Thu, 03 Sep 2026"
+    },
+    {
+      "title": "The missing step in real estate marketing is the reply",
+      "link": "https://www.housingwire.com/articles/agent-marketing-get-replies/",
+      "published": "Thu, 03 Sep 2026"
+    },
+    {
       "title": "Graceful Finance’s ‘Lifestyle Agreement’ targets senior homeowners with reverse mortgage alternative",
       "link": "https://www.housingwire.com/articles/graceful-finance-lifestyle-agreement/",
       "published": "Thu, 03 Sep 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Dark Matter Technologies expands leadership team",
       "link": "https://www.housingwire.com/articles/dark-matter-leadership-hires/",
-      "published": "Thu, 03 Sep 2026"
-    },
-    {
-      "title": "Economic activity edges higher amid mixed consumer signals",
-      "link": "https://www.housingwire.com/articles/economic-activity-edges-higher-amid-mixed-consumer-signals/",
-      "published": "Thu, 03 Sep 2026"
-    },
-    {
-      "title": "Atlantic Avenue ranks No. 1 as higher rates keep June’s HECM broker activity in check",
-      "link": "https://www.housingwire.com/articles/june-hecm-broker-rankings/",
-      "published": "Thu, 03 Sep 2026"
-    },
-    {
-      "title": "Objector petitions for rehearing in NAR settlement appeals",
-      "link": "https://www.housingwire.com/articles/objector-rehearing-nar-settlement/",
-      "published": "Thu, 03 Sep 2026"
-    },
-    {
-      "title": "NAF lays off 160 employees in consumer direct division",
-      "link": "https://www.housingwire.com/articles/new-american-funding-layoffs-160-consumer-direct/",
       "published": "Thu, 03 Sep 2026"
     },
     {
@@ -221,15 +221,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "David Jent Realty affiliates with REMAX in Tennessee",
-        "url": "https://www.housingwire.com/articles/david-jent-realty-remax-tennessee/",
-        "what": "The 18-agent brokerage operates 2 offices in Lewisburg and Chapel Hill, and will rebrand as REMAX David Jent Realty.",
-        "numbers": "18, 2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/david-jent-realty-remax-tennessee/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "A Tale of Two Tech Cities: San Francisco’s Housing Market Booms While Seattle Slumps",
         "url": "https://www.redfin.com/news/two-tech-cities-housing-san-francisco-seattle/",
         "what": "San Francisco, home to OpenAI and Anthropic, is seeing its housing market boom as AI employees put their money into the housing market",
@@ -250,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "Vishal Garg lays out Better turnaround plan amid battle with board",
+        "url": "https://www.housingwire.com/articles/better-vishal-garg-plan/",
+        "what": "Better’s special committee has called for shareholders to reject Garg’s consent solicitation and support the board’s current strategy",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-vishal-garg-plan/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Graceful Finance’s ‘Lifestyle Agreement’ targets senior homeowners with reverse mortgage alternative",
         "url": "https://www.housingwire.com/articles/graceful-finance-lifestyle-agreement/",
         "what": "Founder and CEO Anna Frankowska says the 3-year-old company is looking to address some of the hurdles of other home equity financing options",
@@ -264,24 +264,6 @@
         "what": "Lender said the layoffs were made in response to current mortgage market conditions",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/new-american-funding-layoffs-160-consumer-direct/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Zillow sued by former employee over discrimination, firing",
-        "url": "https://www.housingwire.com/articles/zillow-discrimination-lawsuit-denver/",
-        "what": "Suit says he was fired on Sept",
-        "numbers": "9,, 2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-discrimination-lawsuit-denver/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Mortgage Nerds moves to NEXA Lending platform",
-        "url": "https://www.housingwire.com/articles/mortgage-nerds-joins-nexa-lending/",
-        "what": "The veteran-focused brokerage will remain Mortgage Nerds, while Processing Nerds stays independent and will serve brokers nationwide",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-nerds-joins-nexa-lending/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -324,6 +306,33 @@
     ],
     "notables": [
       {
+        "title": "Is NWMLS’ First Look the template for MLS coming soon policies?",
+        "url": "https://www.housingwire.com/articles/first-look-coming-soon-mls/",
+        "what": "Compass sued in April 2025 over NWMLS rules, and analysts expect more MLSs to add pre marketing options.",
+        "numbers": "2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/first-look-coming-soon-mls/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "The biggest impact of the SpaceX IPO won’t be in Silicon Valley",
+        "url": "https://www.housingwire.com/articles/liquidity-events-luxury-real-estate-spacex/",
+        "what": "Luxury buyers prioritize privacy, acreage, and optionality and they often pay premiums when scarce properties surface.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/liquidity-events-luxury-real-estate-spacex/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "The missing step in real estate marketing is the reply",
+        "url": "https://www.housingwire.com/articles/agent-marketing-get-replies/",
+        "what": "Turn one way outreach into a conversation with formats that invite responses.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/agent-marketing-get-replies/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Dark Matter Technologies expands leadership team",
         "url": "https://www.housingwire.com/articles/dark-matter-leadership-hires/",
         "what": "Salvatore Piccola and Gil Valera will report to chief product officer Stephanie Durflinger",
@@ -340,15 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/objector-rehearing-nar-settlement/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Edina Realty launches AI-powered website",
-        "url": "https://www.housingwire.com/articles/edina-realty-launches-ai-powered-website/",
-        "what": "Edina Realty has grown into one of the largest real estate companies serving Minnesota and western Wisconsin",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/edina-realty-launches-ai-powered-website/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
