@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-03 15:01 UTC",
+  "as_of": "2026-09-03 18:38 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": 4.0000000000000036
     },
     "mortgage_30y": {
-      "rate_pct": 6.66,
-      "delta_bp_wow": 0.9999999999999787
+      "rate_pct": 6.71,
+      "delta_bp_wow": 4.999999999999982
     },
     "starts": {
       "level_saar": 1239.0,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Zillow sued by former employee over discrimination, firing",
-      "link": "https://www.housingwire.com/articles/zillow-discrimination-lawsuit-denver/",
+      "title": "Graceful Finance’s ‘Lifestyle Agreement’ targets senior homeowners with reverse mortgage alternative",
+      "link": "https://www.housingwire.com/articles/graceful-finance-lifestyle-agreement/",
       "published": "Thu, 03 Sep 2026"
     },
     {
-      "title": "Mortgage Nerds moves to NEXA Lending platform",
-      "link": "https://www.housingwire.com/articles/mortgage-nerds-joins-nexa-lending/",
+      "title": "Dark Matter Technologies expands leadership team",
+      "link": "https://www.housingwire.com/articles/dark-matter-leadership-hires/",
       "published": "Thu, 03 Sep 2026"
     },
     {
-      "title": "David Jent Realty affiliates with REMAX in Tennessee",
-      "link": "https://www.housingwire.com/articles/david-jent-realty-remax-tennessee/",
+      "title": "Economic activity edges higher amid mixed consumer signals",
+      "link": "https://www.housingwire.com/articles/economic-activity-edges-higher-amid-mixed-consumer-signals/",
       "published": "Thu, 03 Sep 2026"
     },
     {
-      "title": "Sekisui’s Sommers Bend wins top Japanese construction honor",
-      "link": "https://www.housingwire.com/articles/sekisui-house-sommers-bend-wins-japan-award/",
+      "title": "Atlantic Avenue ranks No. 1 as higher rates keep June’s HECM broker activity in check",
+      "link": "https://www.housingwire.com/articles/june-hecm-broker-rankings/",
       "published": "Thu, 03 Sep 2026"
     },
     {
-      "title": "Why Reno’s housing market is holding up while Phoenix, Denver and Austin fall",
-      "link": "https://www.housingwire.com/articles/reno-housing-prices-deeds/",
+      "title": "Objector petitions for rehearing in NAR settlement appeals",
+      "link": "https://www.housingwire.com/articles/objector-rehearing-nar-settlement/",
       "published": "Thu, 03 Sep 2026"
     },
     {
-      "title": "What employer housing benefits are still missing",
-      "link": "https://www.housingwire.com/articles/employer-housing-benefits-navigation/",
+      "title": "NAF lays off 160 employees in consumer direct division",
+      "link": "https://www.housingwire.com/articles/new-american-funding-layoffs-160-consumer-direct/",
       "published": "Thu, 03 Sep 2026"
     },
     {
@@ -203,6 +203,24 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Economic activity edges higher amid mixed consumer signals",
+        "url": "https://www.housingwire.com/articles/economic-activity-edges-higher-amid-mixed-consumer-signals/",
+        "what": "The general outlook for the coming months was positive, but sentiment was mixed across sectors, according to the Fed's Beige Book",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/economic-activity-edges-higher-amid-mixed-consumer-signals/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Atlantic Avenue ranks No. 1 as higher rates keep June’s HECM broker activity in check",
+        "url": "https://www.housingwire.com/articles/june-hecm-broker-rankings/",
+        "what": "As broker endorsements remain muted, Longbridge’s Dan Ribler explores the impact from higher rates and federal debt",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/june-hecm-broker-rankings/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "David Jent Realty affiliates with REMAX in Tennessee",
         "url": "https://www.housingwire.com/articles/david-jent-realty-remax-tennessee/",
         "what": "The 18-agent brokerage operates 2 offices in Lewisburg and Chapel Hill, and will rebrand as REMAX David Jent Realty.",
@@ -231,6 +249,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Graceful Finance’s ‘Lifestyle Agreement’ targets senior homeowners with reverse mortgage alternative",
+        "url": "https://www.housingwire.com/articles/graceful-finance-lifestyle-agreement/",
+        "what": "Founder and CEO Anna Frankowska says the 3-year-old company is looking to address some of the hurdles of other home equity financing options",
+        "numbers": "3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/graceful-finance-lifestyle-agreement/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "NAF lays off 160 employees in consumer direct division",
+        "url": "https://www.housingwire.com/articles/new-american-funding-layoffs-160-consumer-direct/",
+        "what": "Lender said the layoffs were made in response to current mortgage market conditions",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-american-funding-layoffs-160-consumer-direct/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Zillow sued by former employee over discrimination, firing",
         "url": "https://www.housingwire.com/articles/zillow-discrimination-lawsuit-denver/",
@@ -268,67 +304,49 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Why Reno’s housing market is holding up while Phoenix, Denver and Austin fall",
-        "url": "https://www.housingwire.com/articles/reno-housing-prices-deeds/",
-        "what": "Washoe County deeds show a 2.1% YoY gain through July 2026, while Austin is down 5.0% and Denver is down 3.4%",
-        "numbers": "2.1, 2026,, 5.0, 3.4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reno-housing-prices-deeds/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "What employer housing benefits are still missing",
-        "url": "https://www.housingwire.com/articles/employer-housing-benefits-navigation/",
-        "what": "Down-payment loans and rate stipends won't move the needle on homeownership if workers don't know what they qualify for, or when to act",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/employer-housing-benefits-navigation/",
+        "title": "Homes in Highly Rated School Zones Cost 35% More Than the Average U.S. Home. But the Premium Is Much Smaller in Some Parts of the Country.",
+        "url": "https://www.redfin.com/news/school-zone-housing-affordability-2026/",
+        "what": "The typical U.S",
+        "numbers": "$580,000,, 35, $430,000, $159,157, $41,000, $117,995",
+        "justified": "redfin.com — https://www.redfin.com/news/school-zone-housing-affordability-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Gen Z is buying homes. Is the mortgage industry ready?",
-        "url": "https://www.housingwire.com/articles/gen-z-purchase-rate-locks/",
-        "what": "What Gen Z borrowers are telling us about the future of mortgage",
+        "title": "Seller Choice Comes To Seattle",
+        "url": "https://www.redfin.com/news/seller-choice-comes-to-seattle/",
+        "what": "A new Northwest MLS policy will give Seattle sellers much-needed flexibility in how they market their homes In a historic first for the region, homeowners in the Seattle area are about to have more freedom to market their property as they see fit",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/gen-z-purchase-rate-locks/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Michigan primary wins bolster momentum for zoning reforms",
-        "url": "https://www.housingwire.com/articles/michigan-zoning-reform-primary/",
-        "what": "Housing reform cosponsors who faced challengers won by 47.2 points on average, even as local governments oppose zoning preemption",
-        "numbers": "47.2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/michigan-zoning-reform-primary/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Compass-NWMLS settlement bigger than ‘coming soon’ listings",
-        "url": "https://www.housingwire.com/articles/compass-nwmls-settlement-bigger-than-coming-soon-listings/",
-        "what": "The agreement, which takes effect in stages beginning Sept",
-        "numbers": "4,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-nwmls-settlement-bigger-than-coming-soon-listings/",
+        "justified": "redfin.com — https://www.redfin.com/news/seller-choice-comes-to-seattle/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "eXp ends mortgage JV with Kind Lending, eyes Newrez deal",
-        "url": "https://www.housingwire.com/articles/exp-kind-success-lending-newrez/",
-        "what": "Success Lending will wind down as eXp targets launch with Newrez",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-kind-success-lending-newrez/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
       {
-        "title": "Sekisui’s Sommers Bend wins top Japanese construction honor",
-        "url": "https://www.housingwire.com/articles/sekisui-house-sommers-bend-wins-japan-award/",
-        "what": "Sekisui House’s first U.S",
+        "title": "Dark Matter Technologies expands leadership team",
+        "url": "https://www.housingwire.com/articles/dark-matter-leadership-hires/",
+        "what": "Salvatore Piccola and Gil Valera will report to chief product officer Stephanie Durflinger",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sekisui-house-sommers-bend-wins-japan-award/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/dark-matter-leadership-hires/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Objector petitions for rehearing in NAR settlement appeals",
+        "url": "https://www.housingwire.com/articles/objector-rehearing-nar-settlement/",
+        "what": "Friedman says his REBNY claims are separate and should not be bundled into NAR-related settlement terms.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/objector-rehearing-nar-settlement/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Edina Realty launches AI-powered website",
+        "url": "https://www.housingwire.com/articles/edina-realty-launches-ai-powered-website/",
+        "what": "Edina Realty has grown into one of the largest real estate companies serving Minnesota and western Wisconsin",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/edina-realty-launches-ai-powered-website/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
