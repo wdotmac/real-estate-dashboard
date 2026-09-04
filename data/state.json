@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-09-04 18:23 UTC",
+  "as_of": "2026-09-04 21:28 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.79,
-      "delta_bp_1d": 0.0
+      "yield_pct": 4.77,
+      "delta_bp_1d": -2.000000000000046
     },
     "mortgage_30y": {
       "rate_pct": 6.71,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Trump threatens trade halt if Fed does not cut rates",
+      "link": "https://www.housingwire.com/articles/trump-trade-fed-rates/",
+      "published": "Fri, 04 Sep 2026"
+    },
+    {
+      "title": "Fay Group acquires VanDyk Mortgage to expand conforming loan footprint",
+      "link": "https://www.housingwire.com/articles/fay-group-acquires-vandyk-mortgage-expand-conforming-business/",
+      "published": "Fri, 04 Sep 2026"
+    },
+    {
       "title": "ICE raids strain homebuilder labor, cycle times, and bank lines",
       "link": "https://www.housingwire.com/articles/ice-enforcement-labor-costs/",
       "published": "Fri, 04 Sep 2026"
@@ -157,16 +167,6 @@
     {
       "title": "August payrolls rise 162,000, Fed rate hike odds in focus",
       "link": "https://www.housingwire.com/articles/august-payrolls-fed-focus/",
-      "published": "Fri, 04 Sep 2026"
-    },
-    {
-      "title": "Hyperlocal micromarkets may be the next big housing data shift",
-      "link": "https://www.housingwire.com/articles/housing-micromarkets-data/",
-      "published": "Fri, 04 Sep 2026"
-    },
-    {
-      "title": "Investor share slips to 27% of single-family purchases, Cotality says",
-      "link": "https://www.housingwire.com/articles/cotality-investors-single-family/",
       "published": "Fri, 04 Sep 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Trump threatens trade halt if Fed does not cut rates",
+        "url": "https://www.housingwire.com/articles/trump-trade-fed-rates/",
+        "what": "President urged the Federal Reserve to cut rates after August payrolls rose by 162K and unemployment held at 4.1%",
+        "numbers": "162K, 4.1",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-trade-fed-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Why mortgage rates barely budged after jobs report beat estimates",
         "url": "https://www.housingwire.com/articles/why-mortgage-rates-barely-budged-after-jobs-report-beat-estimates/",
@@ -250,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "Fay Group acquires VanDyk Mortgage to expand conforming loan footprint",
+        "url": "https://www.housingwire.com/articles/fay-group-acquires-vandyk-mortgage-expand-conforming-business/",
+        "what": "Deal brings Fannie, Freddie and Ginnie execution plus MSR book",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fay-group-acquires-vandyk-mortgage-expand-conforming-business/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "ICE raids strain homebuilder labor, cycle times, and bank lines",
         "url": "https://www.housingwire.com/articles/ice-enforcement-labor-costs/",
         "what": "ICE arrests rose from 32,545 in May to 49,571 in July; homebuilders cite delays, higher bids, and missed closings in some markets",
@@ -295,15 +313,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Homebuilder sellers face tougher prices as M&A appetite slows",
-        "url": "https://www.housingwire.com/articles/homebuilder-deals-sellers-pricing-2026/",
-        "what": "Selective acquirers are prioritizing integration and discipline, while smaller builders face margin pressure and tighter credit",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-deals-sellers-pricing-2026/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "Florida’s Luxury Market Pulls Away From the Pack, With Miami and Tampa Posting Double-Digit Price Increases",
         "url": "https://www.redfin.com/news/luxury-housing-market-florida-july-2026/",
         "what": "The luxury housing market in parts of Florida is outperforming the U.S",
@@ -338,15 +347,6 @@
         "what": "Only 1% to 3% of LinkedIn users post regularly, creating low competition for referral-partner attention",
         "numbers": "1, 3",
         "justified": "housingwire.com — https://www.housingwire.com/articles/linkedin-loan-officer-authority-compounds/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Is NWMLS’s First Look the template for MLS coming soon policies?",
-        "url": "https://www.housingwire.com/articles/first-look-coming-soon-mls/",
-        "what": "Compass sued in April 2025 over NWMLS rules, and analysts expect more MLSs to add pre marketing options.",
-        "numbers": "2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/first-look-coming-soon-mls/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
