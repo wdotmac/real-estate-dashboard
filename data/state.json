@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-04 14:22 UTC",
+  "as_of": "2026-09-04 18:23 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "ICE raids strain homebuilder labor, cycle times, and bank lines",
+      "link": "https://www.housingwire.com/articles/ice-enforcement-labor-costs/",
+      "published": "Fri, 04 Sep 2026"
+    },
+    {
+      "title": "Why mortgage rates barely budged after jobs report beat estimates",
+      "link": "https://www.housingwire.com/articles/why-mortgage-rates-barely-budged-after-jobs-report-beat-estimates/",
+      "published": "Fri, 04 Sep 2026"
+    },
+    {
+      "title": "Pulte says FHFA weighing bi-merge, single credit report",
+      "link": "https://www.housingwire.com/articles/fhfa-bi-merge-credit-report-vantagescore-pulte/",
+      "published": "Fri, 04 Sep 2026"
+    },
+    {
+      "title": "August payrolls rise 162,000, Fed rate hike odds in focus",
+      "link": "https://www.housingwire.com/articles/august-payrolls-fed-focus/",
+      "published": "Fri, 04 Sep 2026"
+    },
+    {
       "title": "Hyperlocal micromarkets may be the next big housing data shift",
       "link": "https://www.housingwire.com/articles/housing-micromarkets-data/",
       "published": "Fri, 04 Sep 2026"
@@ -150,33 +170,18 @@
       "published": "Fri, 04 Sep 2026"
     },
     {
-      "title": "SERHANT. adds Chad Bishop Group in Fort Lauderdale",
-      "link": "https://www.housingwire.com/articles/serhant-chad-bishop-group/",
-      "published": "Fri, 04 Sep 2026"
-    },
-    {
-      "title": "Authority compounds on LinkedIn. Absence compounds, too.",
-      "link": "https://www.housingwire.com/articles/linkedin-loan-officer-authority-compounds/",
-      "published": "Fri, 04 Sep 2026"
-    },
-    {
-      "title": "Homebuilder sellers face tougher prices as M&A appetite slows",
-      "link": "https://www.housingwire.com/articles/homebuilder-deals-sellers-pricing-2026/",
-      "published": "Thu, 03 Sep 2026"
-    },
-    {
-      "title": "Is NWMLS’ First Look the template for MLS coming soon policies?",
-      "link": "https://www.housingwire.com/articles/first-look-coming-soon-mls/",
-      "published": "Thu, 03 Sep 2026"
-    },
-    {
-      "title": "Hot Jobs Report Slightly Increases Odds of a Fed Rate Hike This Month",
-      "link": "https://www.redfin.com/news/august-jobs-report-increases-september-rate-hike-odds/",
+      "title": "Coming Soon in San Juan Capistrano: A $7.5 Million Estate With a Wine Cellar, Movie Theater and Resort-Style Backyard",
+      "link": "https://www.redfin.com/news/san-juan-capistrano-peppertree-bnd-coming-soon-listing/",
       "published": "Fri, 04 Sep 2026"
     },
     {
       "title": "History Shows That Adjustable-Rate Mortgages Pay Off For Homebuyers Most of the Time",
       "link": "https://www.redfin.com/news/arm-versus-fixed-rate-mortgage/",
+      "published": "Fri, 04 Sep 2026"
+    },
+    {
+      "title": "Hot Jobs Report Slightly Increases Odds of a Fed Rate Hike This Month",
+      "link": "https://www.redfin.com/news/august-jobs-report-increases-september-rate-hike-odds/",
       "published": "Fri, 04 Sep 2026"
     },
     {
@@ -193,15 +198,37 @@
       "title": "Florida’s Luxury Market Pulls Away From the Pack, With Miami and Tampa Posting Double-Digit Price Increases",
       "link": "https://www.redfin.com/news/luxury-housing-market-florida-july-2026/",
       "published": "Thu, 03 Sep 2026"
-    },
-    {
-      "title": "Homebuyers Have More Fresh Options Than They’ve Had in 4 Years",
-      "link": "https://www.redfin.com/news/housing-market-update-new-listings-4-year-high/",
-      "published": "Thu, 03 Sep 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Why mortgage rates barely budged after jobs report beat estimates",
+        "url": "https://www.housingwire.com/articles/why-mortgage-rates-barely-budged-after-jobs-report-beat-estimates/",
+        "what": "A lot is priced into the markets now, as the bond market did the heavy lifting for the Fed",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-mortgage-rates-barely-budged-after-jobs-report-beat-estimates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Pulte says FHFA weighing bi-merge, single credit report",
+        "url": "https://www.housingwire.com/articles/fhfa-bi-merge-credit-report-vantagescore-pulte/",
+        "what": "FHFA opens door to VantageScore for all lenders",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-bi-merge-credit-report-vantagescore-pulte/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "August payrolls rise 162,000, Fed rate hike odds in focus",
+        "url": "https://www.housingwire.com/articles/august-payrolls-fed-focus/",
+        "what": "Construction added 22,000 jobs, real estate lost 3,200, and economists pointed to inflation as the next catalyst.",
+        "numbers": "22,000, 3,200,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/august-payrolls-fed-focus/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Hot Jobs Report Slightly Increases Odds of a Fed Rate Hike This Month",
         "url": "https://www.redfin.com/news/august-jobs-report-increases-september-rate-hike-odds/",
@@ -223,13 +250,22 @@
     ],
     "housing": [
       {
-        "title": "Hyperlocal micromarkets may be the next big housing data shift",
-        "url": "https://www.housingwire.com/articles/housing-micromarkets-data/",
-        "what": "AI can analyze faster, but market definition and entity resolution still decide which properties belong in the dataset.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-micromarkets-data/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "ICE raids strain homebuilder labor, cycle times, and bank lines",
+        "url": "https://www.housingwire.com/articles/ice-enforcement-labor-costs/",
+        "what": "ICE arrests rose from 32,545 in May to 49,571 in July; homebuilders cite delays, higher bids, and missed closings in some markets",
+        "numbers": "32,545, 49,571",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-enforcement-labor-costs/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Coming Soon in San Juan Capistrano: A $7.5 Million Estate With a Wine Cellar, Movie Theater and Resort-Style Backyard",
+        "url": "https://www.redfin.com/news/san-juan-capistrano-peppertree-bnd-coming-soon-listing/",
+        "what": "In this edition of Coming Soon–a series from Redfin News that explores new listings that house hunters can find early only on Redfin.com–we’re heading to Southern California to tour a $7.5 million estate with a movie theater and 900-bottle wine cellar",
+        "numbers": "$7.5 million, 900, 31931",
+        "justified": "redfin.com — https://www.redfin.com/news/san-juan-capistrano-peppertree-bnd-coming-soon-listing/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "History Shows That Adjustable-Rate Mortgages Pay Off For Homebuyers Most of the Time",
@@ -239,6 +275,15 @@
         "justified": "redfin.com — https://www.redfin.com/news/arm-versus-fixed-rate-mortgage/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Hyperlocal micromarkets may be the next big housing data shift",
+        "url": "https://www.housingwire.com/articles/housing-micromarkets-data/",
+        "what": "AI can analyze faster, but market definition and entity resolution still decide which properties belong in the dataset.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-micromarkets-data/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "These NYC Suburbs Are The Nation’s Strongest Seller’s Markets",
@@ -259,24 +304,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Vishal Garg lays out Better turnaround plan amid battle with board",
-        "url": "https://www.housingwire.com/articles/better-vishal-garg-plan/",
-        "what": "Better’s special committee has called for shareholders to reject Garg’s consent solicitation and support the board’s current strategy",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-vishal-garg-plan/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Graceful Finance’s ‘Lifestyle Agreement’ targets senior homeowners with reverse mortgage alternative",
-        "url": "https://www.housingwire.com/articles/graceful-finance-lifestyle-agreement/",
-        "what": "Founder and CEO Anna Frankowska says the 3-year-old company is looking to address some of the hurdles of other home equity financing options",
-        "numbers": "3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/graceful-finance-lifestyle-agreement/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Florida’s Luxury Market Pulls Away From the Pack, With Miami and Tampa Posting Double-Digit Price Increases",
         "url": "https://www.redfin.com/news/luxury-housing-market-florida-july-2026/",
         "what": "The luxury housing market in parts of Florida is outperforming the U.S",
@@ -284,15 +311,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/luxury-housing-market-florida-july-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Homebuyers Have More Fresh Options Than They’ve Had in 4 Years",
-        "url": "https://www.redfin.com/news/housing-market-update-new-listings-4-year-high/",
-        "what": "Homebuyers are gaining more power, with new listings jumping and demand flat",
-        "numbers": "30, 2022., 2.1, 4",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-new-listings-4-year-high/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
@@ -324,29 +342,11 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Is NWMLS’ First Look the template for MLS coming soon policies?",
+        "title": "Is NWMLS’s First Look the template for MLS coming soon policies?",
         "url": "https://www.housingwire.com/articles/first-look-coming-soon-mls/",
         "what": "Compass sued in April 2025 over NWMLS rules, and analysts expect more MLSs to add pre marketing options.",
         "numbers": "2025",
         "justified": "housingwire.com — https://www.housingwire.com/articles/first-look-coming-soon-mls/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The biggest impact of the SpaceX IPO won’t be in Silicon Valley",
-        "url": "https://www.housingwire.com/articles/liquidity-events-luxury-real-estate-spacex/",
-        "what": "Luxury buyers prioritize privacy, acreage, and optionality and they often pay premiums when scarce properties surface.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/liquidity-events-luxury-real-estate-spacex/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The missing step in real estate marketing is the reply",
-        "url": "https://www.housingwire.com/articles/agent-marketing-get-replies/",
-        "what": "Turn one way outreach into a conversation with formats that invite responses.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/agent-marketing-get-replies/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
