@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-09-08 18:40 UTC",
+  "as_of": "2026-09-08 21:51 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.77,
-      "delta_bp_1d": -2.000000000000046
+      "yield_pct": 4.78,
+      "delta_bp_1d": 1.0000000000000675
     },
     "mortgage_30y": {
       "rate_pct": 6.71,
@@ -140,33 +140,38 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Florida continues to dominate the list of top retirement destinations",
+      "link": "https://www.housingwire.com/articles/florida-dominates-best-cities-for-retirees-rankings-orlando/",
+      "published": "Tue, 08 Sep 2026"
+    },
+    {
+      "title": "Better continues leadership shake-up as Chad Smith, Barry Feierstein move on",
+      "link": "https://www.housingwire.com/articles/better-leadership-changes-parrish/",
+      "published": "Tue, 08 Sep 2026"
+    },
+    {
+      "title": "Huntington promotes Brant Standridge to president",
+      "link": "https://www.housingwire.com/articles/huntington-brant-standridge-president/",
+      "published": "Tue, 08 Sep 2026"
+    },
+    {
+      "title": "What D.R. Horton’s 2027 budget tells rivals about pricing pressure",
+      "link": "https://www.housingwire.com/articles/dr-horton-2027-plan-closings/",
+      "published": "Tue, 08 Sep 2026"
+    },
+    {
+      "title": "Why construction workers face one of the highest suicide risks",
+      "link": "https://www.housingwire.com/articles/construction-suicide-prevention/",
+      "published": "Tue, 08 Sep 2026"
+    },
+    {
       "title": "Foundry Group joins Compass Raleigh in Moore County",
       "link": "https://www.housingwire.com/articles/foundry-group-compass-raleigh/",
       "published": "Tue, 08 Sep 2026"
     },
     {
-      "title": "Atlas VMS acquires CloseClear.ai",
-      "link": "https://www.housingwire.com/articles/atlas-vms-acquires-closeclear-ai/",
-      "published": "Tue, 08 Sep 2026"
-    },
-    {
-      "title": "Mortgage rate locks fell 9% in August, Optimal Blue reports",
-      "link": "https://www.housingwire.com/articles/optimal-blue-mortgage-lock-volume/",
-      "published": "Tue, 08 Sep 2026"
-    },
-    {
-      "title": "Opendoor moves ahead with mortgage offerings, touts controlled costs",
-      "link": "https://www.housingwire.com/articles/opendoor-moves-ahead-with-mortgage-offerings-touts-controlled-costs/",
-      "published": "Tue, 08 Sep 2026"
-    },
-    {
-      "title": "Commodity inflation is hot, but Fed is still focused on core inflation",
-      "link": "https://www.housingwire.com/articles/commodity-inflation-is-hot-but-fed-is-still-focused-on-core-inflation/",
-      "published": "Tue, 08 Sep 2026"
-    },
-    {
-      "title": "Christie’s International Real Estate brings Warburg agents into new NYC brokerage",
-      "link": "https://www.housingwire.com/articles/warburg-agents-christies-nyc/",
+      "title": "This Week’s Inflation Data Could Be Deciding Factor in Whether the Fed Hikes Rates",
+      "link": "https://www.redfin.com/news/weekly-economic-update-september-8/",
       "published": "Tue, 08 Sep 2026"
     },
     {
@@ -193,15 +198,37 @@
       "title": "New Listings Hit a 4-Year High, A Silver Lining for Today’s Buyers",
       "link": "https://www.redfin.com/news/new-listings-hit-a-4-year-high-a-silver-lining-for-todays-buyers/",
       "published": "Fri, 04 Sep 2026"
-    },
-    {
-      "title": "Florida’s Luxury Market Pulls Away From the Pack, With Miami and Tampa Posting Double-Digit Price Increases",
-      "link": "https://www.redfin.com/news/luxury-housing-market-florida-july-2026/",
-      "published": "Thu, 03 Sep 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "This Week’s Inflation Data Could Be Deciding Factor in Whether the Fed Hikes Rates",
+        "url": "https://www.redfin.com/news/weekly-economic-update-september-8/",
+        "what": "Here’s our weekly economic update for the week of September 8",
+        "numbers": "8.",
+        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-update-september-8/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "What D.R. Horton’s 2027 budget tells rivals about pricing pressure",
+        "url": "https://www.housingwire.com/articles/dr-horton-2027-plan-closings/",
+        "what": "Horton is expected to target 82,000 to 86,000 closings, keeping discipline as rates stay elevated",
+        "numbers": "82,000, 86,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/dr-horton-2027-plan-closings/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Why construction workers face one of the highest suicide risks",
+        "url": "https://www.housingwire.com/articles/construction-suicide-prevention/",
+        "what": "CDC data found construction suicide rates ran 4 times the national average, as groups expand toolkits and training",
+        "numbers": "4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/construction-suicide-prevention/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage rate locks fell 9% in August, Optimal Blue reports",
         "url": "https://www.housingwire.com/articles/optimal-blue-mortgage-lock-volume/",
@@ -241,6 +268,15 @@
     ],
     "housing": [
       {
+        "title": "Florida continues to dominate the list of top retirement destinations",
+        "url": "https://www.housingwire.com/articles/florida-dominates-best-cities-for-retirees-rankings-orlando/",
+        "what": "Orlando's No",
+        "numbers": "1",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/florida-dominates-best-cities-for-retirees-rankings-orlando/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Opendoor moves ahead with mortgage offerings, touts controlled costs",
         "url": "https://www.housingwire.com/articles/opendoor-moves-ahead-with-mortgage-offerings-touts-controlled-costs/",
         "what": "Loans are available for any home purchase, not only Opendoor-owned properties",
@@ -248,24 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-moves-ahead-with-mortgage-offerings-touts-controlled-costs/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Envoy Mortgage taps Chad Smith as CEO, deepens integration with PLACE",
-        "url": "https://www.housingwire.com/articles/chad-smith-envoy-mortgage-ceo-place-mortgage-division/",
-        "what": "Move adds a formal CEO role atop Envoy as it seeks to scale to $4 billion in yearly production",
-        "numbers": "$4 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/chad-smith-envoy-mortgage-ceo-place-mortgage-division/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Zillow asks court to stay discrimination suit pending arbitration",
-        "url": "https://www.housingwire.com/articles/zillow-stay-arbitration-lawsuit/",
-        "what": "Filing in U.S",
-        "numbers": "2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-stay-arbitration-lawsuit/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Coming Soon in San Juan Capistrano: A $7.5 Million Estate With a Wine Cellar, Movie Theater and Resort-Style Backyard",
@@ -293,18 +311,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/nyc-suburbs-sellers-market-july-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Florida’s Luxury Market Pulls Away From the Pack, With Miami and Tampa Posting Double-Digit Price Increases",
-        "url": "https://www.redfin.com/news/luxury-housing-market-florida-july-2026/",
-        "what": "The luxury housing market in parts of Florida is outperforming the U.S",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/luxury-housing-market-florida-july-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
+      {
+        "title": "Better continues leadership shake-up as Chad Smith, Barry Feierstein move on",
+        "url": "https://www.housingwire.com/articles/better-leadership-changes-parrish/",
+        "what": "David Parrish is promoted, with COOs Smith and Feierstein stepping down amid financial and C-suite turmoil",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-leadership-changes-parrish/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Huntington promotes Brant Standridge to president",
+        "url": "https://www.housingwire.com/articles/huntington-brant-standridge-president/",
+        "what": "Former Truist executive joined Huntington in 2022 and led integrations tied to Cadence and Veritex expansion",
+        "numbers": "2022",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/huntington-brant-standridge-president/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Foundry Group joins Compass Raleigh in Moore County",
         "url": "https://www.housingwire.com/articles/foundry-group-compass-raleigh/",
@@ -322,33 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/atlas-vms-acquires-closeclear-ai/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Christie’s International Real Estate brings Warburg agents into new NYC brokerage",
-        "url": "https://www.housingwire.com/articles/warburg-agents-christies-nyc/",
-        "what": "The Upper East Side office will support luxury real estate and add services tied to fine art and collectibles",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/warburg-agents-christies-nyc/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "MBA sues New Jersey over disparate impact rule",
-        "url": "https://www.housingwire.com/articles/mba-sues-new-jersey-disparate-impact-fair-lending-rule/",
-        "what": "Trade group says rule forces race-based lending decisions",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-sues-new-jersey-disparate-impact-fair-lending-rule/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Daniel Lewis urges Better shareholders to reject Vishal Garg’s proposals",
-        "url": "https://www.housingwire.com/articles/better-interim-ceo-letter/",
-        "what": "Interim CEO says all directors except Garg oppose his return",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-interim-ceo-letter/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
