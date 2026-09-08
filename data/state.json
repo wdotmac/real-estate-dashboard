@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-08 09:40 UTC",
+  "as_of": "2026-09-08 18:40 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Can tech keep agents out of trouble for listing mistakes?",
-      "link": "https://www.housingwire.com/articles/tech-avoid-marketing-misrepresentation/",
-      "published": "Mon, 07 Sep 2026"
+      "title": "Foundry Group joins Compass Raleigh in Moore County",
+      "link": "https://www.housingwire.com/articles/foundry-group-compass-raleigh/",
+      "published": "Tue, 08 Sep 2026"
     },
     {
-      "title": "Truss Financial scales hybrid model with new direct lending platform",
-      "link": "https://www.housingwire.com/articles/truss-financial-direct-lending-non-qm-dscr-heloc/",
-      "published": "Mon, 07 Sep 2026"
+      "title": "Atlas VMS acquires CloseClear.ai",
+      "link": "https://www.housingwire.com/articles/atlas-vms-acquires-closeclear-ai/",
+      "published": "Tue, 08 Sep 2026"
     },
     {
-      "title": "Florida’s housing market looks shaky. Orlando tells a more complicated story",
-      "link": "https://www.housingwire.com/articles/floridas-housing-market-looks-shaky-orlando-tells-a-more-complicated-story/",
-      "published": "Mon, 07 Sep 2026"
+      "title": "Mortgage rate locks fell 9% in August, Optimal Blue reports",
+      "link": "https://www.housingwire.com/articles/optimal-blue-mortgage-lock-volume/",
+      "published": "Tue, 08 Sep 2026"
     },
     {
-      "title": "FSBO.com rolls out tech platform to streamline home purchase agreements",
-      "link": "https://www.housingwire.com/articles/fsbocom-launches-pact-digital-offer-to-contract-platform/",
-      "published": "Mon, 07 Sep 2026"
+      "title": "Opendoor moves ahead with mortgage offerings, touts controlled costs",
+      "link": "https://www.housingwire.com/articles/opendoor-moves-ahead-with-mortgage-offerings-touts-controlled-costs/",
+      "published": "Tue, 08 Sep 2026"
     },
     {
-      "title": "George Morales on proprietary reverse mortgages and MISMO standards",
-      "link": "https://www.housingwire.com/articles/george-morales-reverse-mismo/",
-      "published": "Mon, 07 Sep 2026"
+      "title": "Commodity inflation is hot, but Fed is still focused on core inflation",
+      "link": "https://www.housingwire.com/articles/commodity-inflation-is-hot-but-fed-is-still-focused-on-core-inflation/",
+      "published": "Tue, 08 Sep 2026"
     },
     {
-      "title": "Why the best master-planned communities are designed around everyday life",
-      "link": "https://www.housingwire.com/articles/master-planned-communities-everyday-life/",
-      "published": "Mon, 07 Sep 2026"
+      "title": "Christie’s International Real Estate brings Warburg agents into new NYC brokerage",
+      "link": "https://www.housingwire.com/articles/warburg-agents-christies-nyc/",
+      "published": "Tue, 08 Sep 2026"
     },
     {
       "title": "Coming Soon in San Juan Capistrano: A $7.5 Million Estate With a Wine Cellar, Movie Theater and Resort-Style Backyard",
@@ -203,11 +203,20 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Trump threatens trade halt if Fed does not cut rates",
-        "url": "https://www.housingwire.com/articles/trump-trade-fed-rates/",
-        "what": "President urged the Federal Reserve to cut rates after August payrolls rose by 162K and unemployment held at 4.1%",
-        "numbers": "162K, 4.1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-trade-fed-rates/",
+        "title": "Mortgage rate locks fell 9% in August, Optimal Blue reports",
+        "url": "https://www.housingwire.com/articles/optimal-blue-mortgage-lock-volume/",
+        "what": "Total locks fell 9% from July as the 30-year conforming rate ended August at 6.72% and refi demand stayed limited",
+        "numbers": "9, 30, 6.72",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/optimal-blue-mortgage-lock-volume/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Commodity inflation is hot, but Fed is still focused on core inflation",
+        "url": "https://www.housingwire.com/articles/commodity-inflation-is-hot-but-fed-is-still-focused-on-core-inflation/",
+        "what": "Commodity volatility is one reason why the Fed isn't more hawkish",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/commodity-inflation-is-hot-but-fed-is-still-focused-on-core-inflation/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -232,49 +241,31 @@
     ],
     "housing": [
       {
-        "title": "Florida’s housing market looks shaky. Orlando tells a more complicated story",
-        "url": "https://www.housingwire.com/articles/floridas-housing-market-looks-shaky-orlando-tells-a-more-complicated-story/",
-        "what": "For buyers outside the vacation segment, affordability remains a central concern",
+        "title": "Opendoor moves ahead with mortgage offerings, touts controlled costs",
+        "url": "https://www.housingwire.com/articles/opendoor-moves-ahead-with-mortgage-offerings-touts-controlled-costs/",
+        "what": "Loans are available for any home purchase, not only Opendoor-owned properties",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/floridas-housing-market-looks-shaky-orlando-tells-a-more-complicated-story/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "George Morales on proprietary reverse mortgages and MISMO standards",
-        "url": "https://www.housingwire.com/articles/george-morales-reverse-mismo/",
-        "what": "The MISMO reverse workgroup chair says standardization is meant to reduce tech barriers for lenders entering the space",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/george-morales-reverse-mismo/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-moves-ahead-with-mortgage-offerings-touts-controlled-costs/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Housing year-over-year comps need context for the rest of 2026",
-        "url": "https://www.housingwire.com/articles/housing-year-over-year-comps-need-context-for-the-rest-of-2026/",
-        "what": "Last week’s data was really impacted by comparisons to Labor Day weekend in 2025",
-        "numbers": "2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-year-over-year-comps-need-context-for-the-rest-of-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Fay Group acquires VanDyk Mortgage to expand conforming loan footprint",
-        "url": "https://www.housingwire.com/articles/fay-group-acquires-vandyk-mortgage-expand-conforming-business/",
-        "what": "Deal brings Fannie, Freddie and Ginnie execution plus MSR book",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fay-group-acquires-vandyk-mortgage-expand-conforming-business/",
+        "title": "Envoy Mortgage taps Chad Smith as CEO, deepens integration with PLACE",
+        "url": "https://www.housingwire.com/articles/chad-smith-envoy-mortgage-ceo-place-mortgage-division/",
+        "what": "Move adds a formal CEO role atop Envoy as it seeks to scale to $4 billion in yearly production",
+        "numbers": "$4 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/chad-smith-envoy-mortgage-ceo-place-mortgage-division/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "ICE raids strain homebuilder labor, cycle times, and bank lines",
-        "url": "https://www.housingwire.com/articles/ice-enforcement-labor-costs/",
-        "what": "ICE arrests rose from 32,545 in May to 49,571 in July; homebuilders cite delays, higher bids, and missed closings in some markets",
-        "numbers": "32,545, 49,571",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-enforcement-labor-costs/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+        "title": "Zillow asks court to stay discrimination suit pending arbitration",
+        "url": "https://www.housingwire.com/articles/zillow-stay-arbitration-lawsuit/",
+        "what": "Filing in U.S",
+        "numbers": "2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-stay-arbitration-lawsuit/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Coming Soon in San Juan Capistrano: A $7.5 Million Estate With a Wine Cellar, Movie Theater and Resort-Style Backyard",
@@ -315,38 +306,47 @@
     ],
     "notables": [
       {
-        "title": "Can tech keep agents out of trouble for listing mistakes?",
-        "url": "https://www.housingwire.com/articles/tech-avoid-marketing-misrepresentation/",
-        "what": "LiDAR measurements and 3D tours can back up square footage and limit misleading AI edited listing photos.",
-        "numbers": "3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tech-avoid-marketing-misrepresentation/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Truss Financial scales hybrid model with new direct lending platform",
-        "url": "https://www.housingwire.com/articles/truss-financial-direct-lending-non-qm-dscr-heloc/",
-        "what": "Truss is adding in-house underwriting and funding to cut turn times",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/truss-financial-direct-lending-non-qm-dscr-heloc/",
+        "title": "Foundry Group joins Compass Raleigh in Moore County",
+        "url": "https://www.housingwire.com/articles/foundry-group-compass-raleigh/",
+        "what": "The team reported $30.45M on 81.5 sides in 2025, plus $200M in Moore County closed volume overall",
+        "numbers": "$30.45, 81.5, 2025,, $200",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/foundry-group-compass-raleigh/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "FSBO.com rolls out tech platform to streamline home purchase agreements",
-        "url": "https://www.housingwire.com/articles/fsbocom-launches-pact-digital-offer-to-contract-platform/",
-        "what": "Developed from technology first built at Homepie, PACT is part of FSBO.com’s broader effort to digitize transactions from listing through closing",
+        "title": "Atlas VMS acquires CloseClear.ai",
+        "url": "https://www.housingwire.com/articles/atlas-vms-acquires-closeclear-ai/",
+        "what": "Atlas plans to integrate the platform's monitoring capabilities into AIM-Port as a premium offering",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fsbocom-launches-pact-digital-offer-to-contract-platform/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/atlas-vms-acquires-closeclear-ai/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Why the best master-planned communities are designed around everyday life",
-        "url": "https://www.housingwire.com/articles/master-planned-communities-everyday-life/",
-        "what": "Lasting value comes from a connected framework of streets, parks, trails, schools and daily routines",
+        "title": "Christie’s International Real Estate brings Warburg agents into new NYC brokerage",
+        "url": "https://www.housingwire.com/articles/warburg-agents-christies-nyc/",
+        "what": "The Upper East Side office will support luxury real estate and add services tied to fine art and collectibles",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/master-planned-communities-everyday-life/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/warburg-agents-christies-nyc/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "MBA sues New Jersey over disparate impact rule",
+        "url": "https://www.housingwire.com/articles/mba-sues-new-jersey-disparate-impact-fair-lending-rule/",
+        "what": "Trade group says rule forces race-based lending decisions",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-sues-new-jersey-disparate-impact-fair-lending-rule/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Daniel Lewis urges Better shareholders to reject Vishal Garg’s proposals",
+        "url": "https://www.housingwire.com/articles/better-interim-ceo-letter/",
+        "what": "Interim CEO says all directors except Garg oppose his return",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-interim-ceo-letter/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
