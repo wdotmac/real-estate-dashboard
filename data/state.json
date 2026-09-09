@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-09 14:35 UTC",
+  "as_of": "2026-09-09 18:36 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,38 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Offerpad names Benjamin Graboske to board",
-      "link": "https://www.housingwire.com/articles/offerpad-names-graboske/",
+      "title": "Do you have what it takes to scale profitably for the model you are running?",
+      "link": "https://www.housingwire.com/articles/mortgage-model-scale-profitably/",
       "published": "Wed, 09 Sep 2026"
     },
     {
-      "title": "Mortgage applications slip again as rates reach 6.85%",
-      "link": "https://www.housingwire.com/articles/mortgage-applications-slip-rates-2/",
+      "title": "Buying a home now beat waiting in 61% of scenarios, AD Mortgage study finds",
+      "link": "https://www.housingwire.com/articles/buying-now-beat-waiting-ad-mortgage/",
       "published": "Wed, 09 Sep 2026"
     },
     {
-      "title": "Bright MLS to launch AI Academy by end of 2026",
-      "link": "https://www.housingwire.com/articles/bright-mls-ai-academy-2026/",
+      "title": "GSEs open VantageScore 4.0 to all single-family lenders",
+      "link": "https://www.housingwire.com/articles/gses-broaden-vantagescore-4-0-access-rocket-uwm-dominate-volume/",
       "published": "Wed, 09 Sep 2026"
     },
     {
-      "title": "NAR: Data centers’ housing impact anything but uniform",
-      "link": "https://www.housingwire.com/articles/nar-data-centers-housing-impact-anything-but-uniform/",
+      "title": "REMAX adds Missoula affiliate with REMAX Confluence",
+      "link": "https://www.housingwire.com/articles/remax-confluence-missoula-launch/",
       "published": "Wed, 09 Sep 2026"
     },
     {
-      "title": "Who’s running Real REMAX? The new leadership team takes shape",
-      "link": "https://www.housingwire.com/articles/real-remax-group-c-suite/",
+      "title": "Berkshire Hathaway HomeServices adds Nevada leadership",
+      "link": "https://www.housingwire.com/articles/berkshire-hathaway-homeservices-adds-nevada-leadership/",
       "published": "Wed, 09 Sep 2026"
     },
     {
-      "title": "The 10-K warranty line item that challenges builder scale claims",
-      "link": "https://www.housingwire.com/articles/warranty-accruals-homebuilder-scale/",
+      "title": "UWM drops high-balance LLPAs, extends Bullseye 90 pricing",
+      "link": "https://www.housingwire.com/articles/uwm-llpas-bullseye-90/",
+      "published": "Wed, 09 Sep 2026"
+    },
+    {
+      "title": "Housing Supply Hits 6-Year High As New Listings Jump, Giving Buyers Bargaining Power",
+      "link": "https://www.redfin.com/news/new-listings-surge-august-2026/",
       "published": "Wed, 09 Sep 2026"
     },
     {
@@ -193,15 +198,28 @@
       "title": "These NYC Suburbs Are The Nation’s Strongest Seller’s Markets",
       "link": "https://www.redfin.com/news/nyc-suburbs-sellers-market-july-2026/",
       "published": "Fri, 04 Sep 2026"
-    },
-    {
-      "title": "New Listings Hit a 4-Year High, A Silver Lining for Today’s Buyers",
-      "link": "https://www.redfin.com/news/new-listings-hit-a-4-year-high-a-silver-lining-for-todays-buyers/",
-      "published": "Fri, 04 Sep 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "GSEs open VantageScore 4.0 to all single-family lenders",
+        "url": "https://www.housingwire.com/articles/gses-broaden-vantagescore-4-0-access-rocket-uwm-dominate-volume/",
+        "what": "Lenders cannot mix Classic FICO and VantageScore 4.0 on the same file",
+        "numbers": "4.0",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gses-broaden-vantagescore-4-0-access-rocket-uwm-dominate-volume/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "An MLS uprising: Is the idea of a MLS federation gaining ground?",
+        "url": "https://www.housingwire.com/articles/mls-federation-shared-backend/",
+        "what": "Executives warn that a single national input standard could dilute hyperlocal context even as they seek shared infrastructure",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-federation-shared-backend/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage applications slip again as rates reach 6.85%",
         "url": "https://www.housingwire.com/articles/mortgage-applications-slip-rates-2/",
@@ -228,51 +246,33 @@
         "justified": "redfin.com — https://www.redfin.com/news/august-jobs-report-increases-september-rate-hike-odds/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "New Listings Hit a 4-Year High, A Silver Lining for Today’s Buyers",
-        "url": "https://www.redfin.com/news/new-listings-hit-a-4-year-high-a-silver-lining-for-todays-buyers/",
-        "what": "﻿ More homes are hitting the market, giving buyers across much of the country more options and negotiating power",
-        "numbers": "4",
-        "justified": "redfin.com — https://www.redfin.com/news/new-listings-hit-a-4-year-high-a-silver-lining-for-todays-buyers/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
       {
-        "title": "NAR: Data centers’ housing impact anything but uniform",
-        "url": "https://www.housingwire.com/articles/nar-data-centers-housing-impact-anything-but-uniform/",
-        "what": "Loudoun County, Virginia, leads the nation with 213 data center facilities",
-        "numbers": "213",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-data-centers-housing-impact-anything-but-uniform/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The 10-K warranty line item that challenges builder scale claims",
-        "url": "https://www.housingwire.com/articles/warranty-accruals-homebuilder-scale/",
-        "what": "Warranty accruals ranged from about $384 to $3,808 per home across 10 major builders",
-        "numbers": "$384, $3,808, 10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/warranty-accruals-homebuilder-scale/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Superus Careers partners with HEXA Ventures on $1M mortgage recruiting tech initiative",
-        "url": "https://www.housingwire.com/articles/superus-careers-hexa-technology/",
-        "what": "The $1 million commitment is a line of credit from HEXA for Superus to fund tech development",
-        "numbers": "$1 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/superus-careers-hexa-technology/",
+        "title": "Buying a home now beat waiting in 61% of scenarios, AD Mortgage study finds",
+        "url": "https://www.housingwire.com/articles/buying-now-beat-waiting-ad-mortgage/",
+        "what": "AD Mortgage compared buying a home now versus waiting across all states during a three-year period",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/buying-now-beat-waiting-ad-mortgage/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Florida continues to dominate the list of top retirement destinations",
-        "url": "https://www.housingwire.com/articles/florida-dominates-best-cities-for-retirees-rankings-orlando/",
-        "what": "Orlando's No",
-        "numbers": "1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/florida-dominates-best-cities-for-retirees-rankings-orlando/",
+        "title": "Lawsuit fallout could shrink California CEQA barriers to housing",
+        "url": "https://www.housingwire.com/articles/midway-rising-ceqa-bills/",
+        "what": "The measures would limit height-based CEQA claims and stem legal challenges after an environmental review is certified",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/midway-rising-ceqa-bills/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Housing Supply Hits 6-Year High As New Listings Jump, Giving Buyers Bargaining Power",
+        "url": "https://www.redfin.com/news/new-listings-surge-august-2026/",
+        "what": "U.S",
+        "numbers": "2022, 2020., 6",
+        "justified": "redfin.com — https://www.redfin.com/news/new-listings-surge-august-2026/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
@@ -306,47 +306,47 @@
     ],
     "notables": [
       {
+        "title": "Do you have what it takes to scale profitably for the model you are running?",
+        "url": "https://www.housingwire.com/articles/mortgage-model-scale-profitably/",
+        "what": "MBA data shows a 6,350 per-loan cost gap between top and bottom quintiles in Q2 2026",
+        "numbers": "6,350, 2, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-model-scale-profitably/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "REMAX adds Missoula affiliate with REMAX Confluence",
+        "url": "https://www.housingwire.com/articles/remax-confluence-missoula-launch/",
+        "what": "Broker owner DJ Smith launches with nine agents and plans to recruit in western Montana counties",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/remax-confluence-missoula-launch/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Berkshire Hathaway HomeServices adds Nevada leadership",
+        "url": "https://www.housingwire.com/articles/berkshire-hathaway-homeservices-adds-nevada-leadership/",
+        "what": "Hagan spent nearly 15 years with Coldwell Banker Realty in Illinois",
+        "numbers": "15",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/berkshire-hathaway-homeservices-adds-nevada-leadership/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "UWM drops high-balance LLPAs, extends Bullseye 90 pricing",
+        "url": "https://www.housingwire.com/articles/uwm-llpas-bullseye-90/",
+        "what": "Bullseye 90 now includes eligible jumbo loans",
+        "numbers": "90",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-llpas-bullseye-90/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Offerpad names Benjamin Graboske to board",
         "url": "https://www.housingwire.com/articles/offerpad-names-graboske/",
         "what": "The 25-year data and analytics leader previously held roles at Black Knight, ICE, and Definitive Healthcare",
         "numbers": "25",
         "justified": "housingwire.com — https://www.housingwire.com/articles/offerpad-names-graboske/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Bright MLS to launch AI Academy by end of 2026",
-        "url": "https://www.housingwire.com/articles/bright-mls-ai-academy-2026/",
-        "what": "Cypher Learning will power role-based courses, webinars, and AI-assisted search tied to Bright products and workflows.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bright-mls-ai-academy-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Who’s running Real REMAX? The new leadership team takes shape",
-        "url": "https://www.housingwire.com/articles/real-remax-group-c-suite/",
-        "what": "The company lists Ravi Jani, Pritesh Damani, Alix Lumpkin, Abigail Lee and Amy Somerville in a late-month SEC filing",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-remax-group-c-suite/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The Agency expands into Rhode Island",
-        "url": "https://www.housingwire.com/articles/the-agency-expands-into-rhode-island/",
-        "what": "The Agency opened 27 new offices in 2025 and now has more than 190 offices across 17 countries",
-        "numbers": "27, 2025, 190, 17",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-agency-expands-into-rhode-island/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Better continues leadership shake-up as Chad Smith, Barry Feierstein move on",
-        "url": "https://www.housingwire.com/articles/better-leadership-changes-parrish/",
-        "what": "David Parrish is promoted, with COOs Smith and Feierstein stepping down amid financial and C-suite turmoil",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-leadership-changes-parrish/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
