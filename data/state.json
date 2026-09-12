@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-11 21:43 UTC",
+  "as_of": "2026-09-12 00:18 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Zillow faces shareholder lawsuit over Redfin deal",
+      "link": "https://www.housingwire.com/articles/zillow-shareholder-lawsuit-redfin-deal/",
+      "published": "Fri, 11 Sep 2026"
+    },
+    {
       "title": "Park Street Homes expands urban infill homebuilding model",
       "link": "https://www.housingwire.com/articles/park-street-urban-infill-scale/",
       "published": "Fri, 11 Sep 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Putting the ROAD Act into action faces a funding and HUD gauntlet",
       "link": "https://www.housingwire.com/articles/road-act-implementation-timeline/",
-      "published": "Fri, 11 Sep 2026"
-    },
-    {
-      "title": "August CPI shows sticky core inflation ahead of Fed meeting",
-      "link": "https://www.housingwire.com/articles/august-cpi-core-inflation-fed-hike/",
       "published": "Fri, 11 Sep 2026"
     },
     {
@@ -240,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Zillow faces shareholder lawsuit over Redfin deal",
+        "url": "https://www.housingwire.com/articles/zillow-shareholder-lawsuit-redfin-deal/",
+        "what": "Derivative suit cites $100 million deal, $81 million in insider sales claims, and a stock drop from $77.05 to $32.19",
+        "numbers": "$100 million, $81 million, $77.05, $32.19",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-shareholder-lawsuit-redfin-deal/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Congratulations to our President’s Club Honorees!",
         "url": "https://www.redfin.com/news/congratulations-2026-presidents-club/",
@@ -338,15 +347,6 @@
         "what": "As the organization marks its 25th anniversary, leaders are focused on expanding beyond the transaction",
         "numbers": "25",
         "justified": "housingwire.com — https://www.housingwire.com/articles/25-years-after-9-11-homes-for-heroes-has-given-back-nearly-200m/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CCM pushes conforming loan limit to $845,000 ahead of FHFA announcement",
-        "url": "https://www.housingwire.com/articles/crosscountry-conforming-loan-limit-845000-fhfa/",
-        "what": "Increase aims to give conventional lending options to more high-balance borrowers",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/crosscountry-conforming-loan-limit-845000-fhfa/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
