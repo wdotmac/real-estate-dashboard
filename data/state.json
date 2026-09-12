@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-12 19:20 UTC",
+  "as_of": "2026-09-12 22:17 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Housing market faces headwinds as mortgage rates move above 7%",
+      "link": "https://www.housingwire.com/articles/housing-market-faces-headwinds-as-mortgage-rates-move-above-7/",
+      "published": "Sat, 12 Sep 2026"
+    },
+    {
       "title": "Zillow faces shareholder lawsuit over Redfin deal",
       "link": "https://www.housingwire.com/articles/zillow-shareholder-lawsuit-redfin-deal/",
       "published": "Fri, 11 Sep 2026"
@@ -162,11 +167,6 @@
     {
       "title": "IRES MLS names Julie Dahl CEO, succeeding Jeff Bosch",
       "link": "https://www.housingwire.com/articles/ires-mls-julie-dahl-ceo/",
-      "published": "Fri, 11 Sep 2026"
-    },
-    {
-      "title": "Putting the ROAD Act into action faces a funding and HUD gauntlet",
-      "link": "https://www.housingwire.com/articles/road-act-implementation-timeline/",
       "published": "Fri, 11 Sep 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Housing market faces headwinds as mortgage rates move above 7%",
+        "url": "https://www.housingwire.com/articles/housing-market-faces-headwinds-as-mortgage-rates-move-above-7/",
+        "what": "Mortgage spreads continue to soften the blow amid Iran conflict",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-faces-headwinds-as-mortgage-rates-move-above-7/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "MISMO board adds VantageScore, Guild and FICO leaders amid credit modernization push",
         "url": "https://www.housingwire.com/articles/mismo-adds-vantagescore-guild-fico-executives-to-board/",
@@ -275,15 +284,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/why-homebuyers-have-more-negotiating-power-right-now/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Providence rent stabilization push springs back to post-primary life",
-        "url": "https://www.housingwire.com/articles/providence-rent-stabilization-debate/",
-        "what": "Morales enters the general election as the favorite, and says rent stabilization will be an early priority for City Hall",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/providence-rent-stabilization-debate/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "It’s Now The Strongest Buyer’s Market on Record, Driven by the Sun Belt",
