@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-09-14 19:21 UTC",
+  "as_of": "2026-09-14 23:07 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.95,
-      "delta_bp_1d": 12.00000000000001
+      "yield_pct": 4.96,
+      "delta_bp_1d": 0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 6.76,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Ameritrust sues investors, brokers over $14M loss in Baltimore fraud scheme",
-      "link": "https://www.housingwire.com/articles/ameritrust-mortgage-sues-over-14m-baltimore-dscr-fraud-scheme/",
+      "title": "Lennar valuation near tangible book puts margins in spotlight",
+      "link": "https://www.housingwire.com/articles/lennar-valuation-book-margins/",
       "published": "Mon, 14 Sep 2026"
     },
     {
-      "title": "HomeSmart signs marketing agreement with loanDepot",
-      "link": "https://www.housingwire.com/articles/homesmart-loandepot-marketing-services-agreement/",
+      "title": "Amblebrook and Shea’s Trilogy are rewriting their 55+ value pitch",
+      "link": "https://www.housingwire.com/articles/amblebrook-and-sheas-trilogy-are-rewriting-their-55-value-pitch/",
       "published": "Mon, 14 Sep 2026"
     },
     {
-      "title": "StreetEasy changes Experts rules and lowers success fees",
-      "link": "https://www.housingwire.com/articles/streeteasy-experts-cap-success-fees/",
+      "title": "Compass launches global division for cross-border referrals",
+      "link": "https://www.housingwire.com/articles/compass-global-division-referrals/",
       "published": "Mon, 14 Sep 2026"
     },
     {
-      "title": "First American expands no-cost property title monitoring",
-      "link": "https://www.housingwire.com/articles/first-american-expands-no-cost-property-title-monitoring/",
+      "title": "Flock cameras changing due diligence for agents, homebuyers",
+      "link": "https://www.housingwire.com/articles/flock-cameras-changing-due-diligence-for-agents-homebuyers/",
       "published": "Mon, 14 Sep 2026"
     },
     {
-      "title": "Nonbank HELOC lenders gain market share as tappable equity hits $11 trillion",
-      "link": "https://www.housingwire.com/articles/nonbank-heloc-share-equity/",
+      "title": "How DRB uses customer intel to connect land, product, and sales",
+      "link": "https://www.housingwire.com/articles/char-kurihara-drb-interwoven-leadership/",
       "published": "Mon, 14 Sep 2026"
     },
     {
-      "title": "Chase offers 25-bps mortgage rate discount through Oct. 4",
-      "link": "https://www.housingwire.com/articles/chase-limited-rate-discount/",
+      "title": "CoStar names Felix Kusch president of Homes.com",
+      "link": "https://www.housingwire.com/articles/costar-felix-kusch-homes-com/",
       "published": "Mon, 14 Sep 2026"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Chase offers 25-bps mortgage rate discount through Oct. 4",
-        "url": "https://www.housingwire.com/articles/chase-limited-rate-discount/",
-        "what": "The discount applies to new purchase and refinance loans",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/chase-limited-rate-discount/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Latest Inflation Report Points to an Uncertain Path Ahead for the Fed and Mortgage Rates",
         "url": "https://www.redfin.com/news/inflation-uncertain-fed-mortgage-rates/",
         "what": "Takeaway: A higher-than-expected inflation report has markets anticipating a Fed rate hike next Wednesday, but there’s more room than usual for markets to be surprised",
@@ -222,15 +213,6 @@
       }
     ],
     "housing": [
-      {
-        "title": "South River CEO Tyler Plack on reverse mortgage technology and origination strategies",
-        "url": "https://www.housingwire.com/articles/tyler-plack-south-river-ceo-reverse-mortgage/",
-        "what": "The newly appointed CEO explains how tech is reshaping reverse lending, including a 75% reduction in QC findings at South River",
-        "numbers": "75",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tyler-plack-south-river-ceo-reverse-mortgage/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
       {
         "title": "Congratulations to our President’s Club Honorees!",
         "url": "https://www.redfin.com/news/congratulations-2026-presidents-club/",
@@ -279,6 +261,60 @@
     ],
     "notables": [
       {
+        "title": "Lennar valuation near tangible book puts margins in spotlight",
+        "url": "https://www.housingwire.com/articles/lennar-valuation-book-margins/",
+        "what": "The stock trades at about 1.05x tangible book after a 16% decline, with ROE most sensitive to margin shifts",
+        "numbers": "1.05, 16",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lennar-valuation-book-margins/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Amblebrook and Shea’s Trilogy are rewriting their 55+ value pitch",
+        "url": "https://www.housingwire.com/articles/amblebrook-and-sheas-trilogy-are-rewriting-their-55-value-pitch/",
+        "what": "Showcasing daily life programming and social engagement can help convert hesitant active adult prospects to buying now",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/amblebrook-and-sheas-trilogy-are-rewriting-their-55-value-pitch/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Compass launches global division for cross-border referrals",
+        "url": "https://www.housingwire.com/articles/compass-global-division-referrals/",
+        "what": "New internal tiers and tracking tools aim to standardize referrals while Compass remains licensed only in the U.S.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-global-division-referrals/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Flock cameras changing due diligence for agents, homebuyers",
+        "url": "https://www.housingwire.com/articles/flock-cameras-changing-due-diligence-for-agents-homebuyers/",
+        "what": "Experts say HOA documents remain behind the times regarding use of Flock and similar technology",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/flock-cameras-changing-due-diligence-for-agents-homebuyers/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "How DRB uses customer intel to connect land, product, and sales",
+        "url": "https://www.housingwire.com/articles/char-kurihara-drb-interwoven-leadership/",
+        "what": "DRB sales and marketing spans research, digital journey, sales, and realty, tying customer insights to land and product",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/char-kurihara-drb-interwoven-leadership/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "CoStar names Felix Kusch president of Homes.com",
+        "url": "https://www.housingwire.com/articles/costar-felix-kusch-homes-com/",
+        "what": "Move follows 2nd quarter 2026 residential adjusted EBITDA of $12 million and Homes.com revenue up 66% to $28.5 million",
+        "numbers": "2, 2026, $12 million, 66, $28.5 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-felix-kusch-homes-com/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Ameritrust sues investors, brokers over $14M loss in Baltimore fraud scheme",
         "url": "https://www.housingwire.com/articles/ameritrust-mortgage-sues-over-14m-baltimore-dscr-fraud-scheme/",
         "what": "Lender says alleged scheme used 300% markups, prepackaged appraisals and title gaps",
@@ -311,42 +347,6 @@
         "what": "According to the FBI, cybercrime-related losses reached $20.9 billion that year",
         "numbers": "$20.9 billion",
         "justified": "housingwire.com — https://www.housingwire.com/articles/first-american-expands-no-cost-property-title-monitoring/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Nonbank HELOC lenders gain market share as tappable equity hits $11 trillion",
-        "url": "https://www.housingwire.com/articles/nonbank-heloc-share-equity/",
-        "what": "Nonbanks grew HELOC originations about 140% from 2023 to 2025, versus 7% to 20% at depositories, a new white paper says",
-        "numbers": "140, 2023, 2025,, 7, 20",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nonbank-heloc-share-equity/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Seller impersonation fraud more than doubled since 2024",
-        "url": "https://www.housingwire.com/articles/seller-impersonation-fraud-more-than-doubled-since-2024/",
-        "what": "The share of firms reporting an attempt in the prior month rose from 19% to 45%",
-        "numbers": "19, 45",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/seller-impersonation-fraud-more-than-doubled-since-2024/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Vesta adds Mezzo integration to expand lender access to verification providers",
-        "url": "https://www.housingwire.com/articles/vesta-mezzo-integration-one-to-many-verification-architecture/",
-        "what": "For lenders under margin and efficiency pressure, the integration aims to reduce the IT burden of adding vendors",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/vesta-mezzo-integration-one-to-many-verification-architecture/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Regulators imply a ban without saying it, real estate agents should read the words",
-        "url": "https://www.housingwire.com/articles/read-regulatory-language-precisely/",
-        "what": "Soft phrasing can indicate guidance or opinion, and agents can preserve compliant options by parsing what is actually prohibited",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/read-regulatory-language-precisely/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
