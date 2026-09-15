@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-15 07:44 UTC",
+  "as_of": "2026-09-15 13:32 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -170,6 +170,11 @@
       "published": "Mon, 14 Sep 2026"
     },
     {
+      "title": "Young Americans Are Choosin’ Texas. But Gen Zers Are Moving To San Antonio and Austin, While Millennials Favor Houston",
+      "link": "https://www.redfin.com/news/where-gen-z-millennials-move/",
+      "published": "Tue, 15 Sep 2026"
+    },
+    {
       "title": "Congratulations to our President’s Club Honorees!",
       "link": "https://www.redfin.com/news/congratulations-2026-presidents-club/",
       "published": "Fri, 11 Sep 2026"
@@ -193,11 +198,6 @@
       "title": "High Costs Sideline Some Would-Be Homebuyers, Handing Upper Hand to Those Who Stay in the Market",
       "link": "https://www.redfin.com/news/housing-market-update-high-costs-sideline-buyers-negotiating-power/",
       "published": "Thu, 10 Sep 2026"
-    },
-    {
-      "title": "Housing Supply Hits 6-Year High As New Listings Jump, Giving Buyers Bargaining Power",
-      "link": "https://www.redfin.com/news/new-listings-surge-august-2026/",
-      "published": "Wed, 09 Sep 2026"
     }
   ],
   "feed_101020": {
@@ -213,6 +213,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Young Americans Are Choosin’ Texas. But Gen Zers Are Moving To San Antonio and Austin, While Millennials Favor Houston",
+        "url": "https://www.redfin.com/news/where-gen-z-millennials-move/",
+        "what": "Gen Zers and millennials alike are leaving some of the nation’s biggest, most expensive metros, but they’re at different life stages—and that shows up in where they go",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/where-gen-z-millennials-move/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
       {
         "title": "Congratulations to our President’s Club Honorees!",
         "url": "https://www.redfin.com/news/congratulations-2026-presidents-club/",
@@ -248,15 +257,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-high-costs-sideline-buyers-negotiating-power/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Housing Supply Hits 6-Year High As New Listings Jump, Giving Buyers Bargaining Power",
-        "url": "https://www.redfin.com/news/new-listings-surge-august-2026/",
-        "what": "U.S",
-        "numbers": "2022, 2020., 6",
-        "justified": "redfin.com — https://www.redfin.com/news/new-listings-surge-august-2026/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
