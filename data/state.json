@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-15 13:32 UTC",
+  "as_of": "2026-09-15 18:11 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,37 +140,42 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Lennar valuation near tangible book puts margins in spotlight",
-      "link": "https://www.housingwire.com/articles/lennar-valuation-book-margins/",
-      "published": "Mon, 14 Sep 2026"
+      "title": "A Fed rate hike could test housing’s new ‘rate normal’",
+      "link": "https://www.housingwire.com/articles/fed-rate-hike-buyers-demand/",
+      "published": "Tue, 15 Sep 2026"
     },
     {
-      "title": "Amblebrook and Shea’s Trilogy are rewriting their 55+ value pitch",
-      "link": "https://www.housingwire.com/articles/amblebrook-and-sheas-trilogy-are-rewriting-their-55-value-pitch/",
-      "published": "Mon, 14 Sep 2026"
+      "title": "Brokerages increase AI adoption as business priorities shift",
+      "link": "https://www.housingwire.com/articles/brokerages-increase-ai-adoption-as-business-priorities-shift/",
+      "published": "Tue, 15 Sep 2026"
     },
     {
-      "title": "Compass launches global division for cross-border referrals",
-      "link": "https://www.housingwire.com/articles/compass-global-division-referrals/",
-      "published": "Mon, 14 Sep 2026"
+      "title": "Pulte pushes mortgage insurance cuts as FHFA opens door to servicer outreach",
+      "link": "https://www.housingwire.com/articles/fhfa-fannie-mae-freddie-mac-servicer-outreach-pmi-cancellation/",
+      "published": "Tue, 15 Sep 2026"
     },
     {
-      "title": "Flock cameras changing due diligence for agents, homebuyers",
-      "link": "https://www.housingwire.com/articles/flock-cameras-changing-due-diligence-for-agents-homebuyers/",
-      "published": "Mon, 14 Sep 2026"
+      "title": "NRMLA says lenders still own the risk when using sponsored TPOs",
+      "link": "https://www.housingwire.com/articles/nrmla-hecm-sponsored-tpos/",
+      "published": "Tue, 15 Sep 2026"
     },
     {
-      "title": "How DRB uses customer intel to connect land, product, and sales",
-      "link": "https://www.housingwire.com/articles/char-kurihara-drb-interwoven-leadership/",
-      "published": "Mon, 14 Sep 2026"
+      "title": "Succession planning is becoming a business imperative for broker owners",
+      "link": "https://www.housingwire.com/articles/brokerage-succession-3-5-years/",
+      "published": "Tue, 15 Sep 2026"
     },
     {
-      "title": "CoStar names Felix Kusch president of Homes.com",
-      "link": "https://www.housingwire.com/articles/costar-felix-kusch-homes-com/",
-      "published": "Mon, 14 Sep 2026"
+      "title": "Bilt buys Livly, teams with Collective Residential in growth push",
+      "link": "https://www.housingwire.com/articles/bilt-acquires-livly-partners-collective-residential/",
+      "published": "Tue, 15 Sep 2026"
     },
     {
-      "title": "Young Americans Are Choosin’ Texas. But Gen Zers Are Moving To San Antonio and Austin, While Millennials Favor Houston",
+      "title": "Markets Have Priced in a Fed Rate Hike This Week, But The Economic Case Is Far From a Slam Dunk",
+      "link": "https://www.redfin.com/news/fed-rate-hike-likely-mortage-rates-hike-uncertain/",
+      "published": "Tue, 15 Sep 2026"
+    },
+    {
+      "title": "Young Americans Are Choosin’ Texas. But Gen Zers Are Moving To San Antonio and Austin, While Millennials Favor Houston.",
       "link": "https://www.redfin.com/news/where-gen-z-millennials-move/",
       "published": "Tue, 15 Sep 2026"
     },
@@ -193,15 +198,37 @@
       "title": "It’s Now The Strongest Buyer’s Market on Record, Driven by the Sun Belt",
       "link": "https://www.redfin.com/news/buyers-vs-sellers-august-2026/",
       "published": "Thu, 10 Sep 2026"
-    },
-    {
-      "title": "High Costs Sideline Some Would-Be Homebuyers, Handing Upper Hand to Those Who Stay in the Market",
-      "link": "https://www.redfin.com/news/housing-market-update-high-costs-sideline-buyers-negotiating-power/",
-      "published": "Thu, 10 Sep 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "A Fed rate hike could test housing’s new ‘rate normal’",
+        "url": "https://www.housingwire.com/articles/fed-rate-hike-buyers-demand/",
+        "what": "Brokers cite sensitivity near 7% mortgages, with Reno seeing pullback risk and Southwest Florida watching sentiment",
+        "numbers": "7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-rate-hike-buyers-demand/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Pressured by higher rates, hew home purchase applications fall for fifth straight month",
+        "url": "https://www.housingwire.com/articles/new-home-applications-fall-august/",
+        "what": "MBA reported applications fell 6% from July while the average new home loan size dipped to $373,194",
+        "numbers": "6, $373,194",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-applications-fall-august/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Markets Have Priced in a Fed Rate Hike This Week, But The Economic Case Is Far From a Slam Dunk",
+        "url": "https://www.redfin.com/news/fed-rate-hike-likely-mortage-rates-hike-uncertain/",
+        "what": "In A Nutshell: After last week’s inflation data, markets are almost certain a Fed rate hike is coming this Wednesday, but the economic case is far from a slam dunk",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/fed-rate-hike-likely-mortage-rates-hike-uncertain/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Latest Inflation Report Points to an Uncertain Path Ahead for the Fed and Mortgage Rates",
         "url": "https://www.redfin.com/news/inflation-uncertain-fed-mortgage-rates/",
@@ -214,7 +241,25 @@
     ],
     "housing": [
       {
-        "title": "Young Americans Are Choosin’ Texas. But Gen Zers Are Moving To San Antonio and Austin, While Millennials Favor Houston",
+        "title": "Pulte pushes mortgage insurance cuts as FHFA opens door to servicer outreach",
+        "url": "https://www.housingwire.com/articles/fhfa-fannie-mae-freddie-mac-servicer-outreach-pmi-cancellation/",
+        "what": "Policy shift aligns Fannie with Freddie by allowing companies to proactively contact borrowers who may qualify for PMI removal",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-fannie-mae-freddie-mac-servicer-outreach-pmi-cancellation/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Zoning preemption’s ‘shadow effect’ speeds housing approvals",
+        "url": "https://www.housingwire.com/articles/zoning-preemption-shadow-effect/",
+        "what": "State zoning laws alter housing outcomes and forestall pushback even when nobody invokes them",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zoning-preemption-shadow-effect/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Young Americans Are Choosin’ Texas. But Gen Zers Are Moving To San Antonio and Austin, While Millennials Favor Houston.",
         "url": "https://www.redfin.com/news/where-gen-z-millennials-move/",
         "what": "Gen Zers and millennials alike are leaving some of the nation’s biggest, most expensive metros, but they’re at different life stages—and that shows up in where they go",
         "numbers": "",
@@ -248,107 +293,62 @@
         "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-august-2026/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "High Costs Sideline Some Would-Be Homebuyers, Handing Upper Hand to Those Who Stay in the Market",
-        "url": "https://www.redfin.com/news/housing-market-update-high-costs-sideline-buyers-negotiating-power/",
-        "what": "Redfin agents say pricing realistically from the start is the key to finding a buyer; 21% of home sellers are dropping their price",
-        "numbers": "21, 6",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-high-costs-sideline-buyers-negotiating-power/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
       {
-        "title": "Lennar valuation near tangible book puts margins in spotlight",
-        "url": "https://www.housingwire.com/articles/lennar-valuation-book-margins/",
-        "what": "The stock trades at about 1.05x tangible book after a 16% decline, with ROE most sensitive to margin shifts",
-        "numbers": "1.05, 16",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lennar-valuation-book-margins/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Amblebrook and Shea’s Trilogy are rewriting their 55+ value pitch",
-        "url": "https://www.housingwire.com/articles/amblebrook-and-sheas-trilogy-are-rewriting-their-55-value-pitch/",
-        "what": "Showcasing daily life programming and social engagement can help convert hesitant active adult prospects to buying now",
+        "title": "Brokerages increase AI adoption as business priorities shift",
+        "url": "https://www.housingwire.com/articles/brokerages-increase-ai-adoption-as-business-priorities-shift/",
+        "what": "Nearly all survey respondents said their agents are using AI",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/amblebrook-and-sheas-trilogy-are-rewriting-their-55-value-pitch/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/brokerages-increase-ai-adoption-as-business-priorities-shift/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Compass launches global division for cross-border referrals",
-        "url": "https://www.housingwire.com/articles/compass-global-division-referrals/",
-        "what": "New internal tiers and tracking tools aim to standardize referrals while Compass remains licensed only in the U.S.",
+        "title": "NRMLA says lenders still own the risk when using sponsored TPOs",
+        "url": "https://www.housingwire.com/articles/nrmla-hecm-sponsored-tpos/",
+        "what": "NRMLA advisory opinion says HECM lenders must supervise sponsored TPOs",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-global-division-referrals/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nrmla-hecm-sponsored-tpos/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Flock cameras changing due diligence for agents, homebuyers",
-        "url": "https://www.housingwire.com/articles/flock-cameras-changing-due-diligence-for-agents-homebuyers/",
-        "what": "Experts say HOA documents remain behind the times regarding use of Flock and similar technology",
+        "title": "Succession planning is becoming a business imperative for broker owners",
+        "url": "https://www.housingwire.com/articles/brokerage-succession-3-5-years/",
+        "what": "Kowalczyk says demographics and volatility are pushing the largest ownership handoff the industry has seen, and uncertainty drives agent exits",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/flock-cameras-changing-due-diligence-for-agents-homebuyers/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/brokerage-succession-3-5-years/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "How DRB uses customer intel to connect land, product, and sales",
-        "url": "https://www.housingwire.com/articles/char-kurihara-drb-interwoven-leadership/",
-        "what": "DRB sales and marketing spans research, digital journey, sales, and realty, tying customer insights to land and product",
+        "title": "Bilt buys Livly, teams with Collective Residential in growth push",
+        "url": "https://www.housingwire.com/articles/bilt-acquires-livly-partners-collective-residential/",
+        "what": "The combo blends property management and smart-building tools in a push to connect apartments with the neighborhood economy",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/char-kurihara-drb-interwoven-leadership/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bilt-acquires-livly-partners-collective-residential/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "CoStar names Felix Kusch president of Homes.com",
-        "url": "https://www.housingwire.com/articles/costar-felix-kusch-homes-com/",
-        "what": "Move follows 2nd quarter 2026 residential adjusted EBITDA of $12 million and Homes.com revenue up 66% to $28.5 million",
-        "numbers": "2, 2026, $12 million, 66, $28.5 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-felix-kusch-homes-com/",
+        "title": "CRA overhaul could put 85% of community development at risk, NCRC says",
+        "url": "https://www.housingwire.com/articles/cra-benchmark-community-development-risk/",
+        "what": "NCRC estimates yearly activity could fall from $102 billion to $14.8 billion if banks treat 0.625% of Tier 1 capital as a target",
+        "numbers": "$102 billion, $14.8 billion, 0.625, 1",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cra-benchmark-community-development-risk/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Ameritrust sues investors, brokers over $14M loss in Baltimore fraud scheme",
-        "url": "https://www.housingwire.com/articles/ameritrust-mortgage-sues-over-14m-baltimore-dscr-fraud-scheme/",
-        "what": "Lender says alleged scheme used 300% markups, prepackaged appraisals and title gaps",
-        "numbers": "300",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ameritrust-mortgage-sues-over-14m-baltimore-dscr-fraud-scheme/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "HomeSmart signs marketing agreement with loanDepot",
-        "url": "https://www.housingwire.com/articles/homesmart-loandepot-marketing-services-agreement/",
-        "what": "Co-marketing deal gives HomeSmart agents a direct channel to loanDepot’s offerings",
+        "title": "Sellers want certainty, here’s how authority helps you win the listing",
+        "url": "https://www.housingwire.com/articles/build-authority-win-listings/",
+        "what": "Social proof, consistent publishing, and third-party credibility can compress the time it takes to earn seller trust",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homesmart-loandepot-marketing-services-agreement/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "StreetEasy changes Experts rules and lowers success fees",
-        "url": "https://www.housingwire.com/articles/streeteasy-experts-cap-success-fees/",
-        "what": "New rules pause additions from any brokerage at 20% or more of Experts, and reduce fees to 15% and 20% at lower price tiers",
-        "numbers": "20, 15",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/streeteasy-experts-cap-success-fees/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "First American expands no-cost property title monitoring",
-        "url": "https://www.housingwire.com/articles/first-american-expands-no-cost-property-title-monitoring/",
-        "what": "According to the FBI, cybercrime-related losses reached $20.9 billion that year",
-        "numbers": "$20.9 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/first-american-expands-no-cost-property-title-monitoring/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/build-authority-win-listings/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
