@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-16 16:54 UTC",
+  "as_of": "2026-09-16 20:07 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Why more builder discounts are not unlocking new-home demand",
+      "link": "https://www.housingwire.com/articles/why-more-builder-discounts-are-not-unlocking-new-home-demand/",
+      "published": "Wed, 16 Sep 2026"
+    },
+    {
+      "title": "Fed hikes rates, with analysts seeing more tightening ahead",
+      "link": "https://www.housingwire.com/articles/fed-rate-hike-inflation-geopolitics-housing-impact/",
+      "published": "Wed, 16 Sep 2026"
+    },
+    {
+      "title": "Student loan match program could add up to $20B annually to retirement accounts",
+      "link": "https://www.housingwire.com/articles/student-loan-retirement-match-ebri-112b-2026/",
+      "published": "Wed, 16 Sep 2026"
+    },
+    {
+      "title": "Mainstay acquires Truelist, raises $18M in financing",
+      "link": "https://www.housingwire.com/articles/mainstay-acquires-truelist-raises-18m-in-financing/",
+      "published": "Wed, 16 Sep 2026"
+    },
+    {
       "title": "Reggora launches HomeInspector.com as free service",
       "link": "https://www.housingwire.com/articles/reggora-launches-homeinspector-com-as-free-service/",
       "published": "Wed, 16 Sep 2026"
@@ -147,26 +167,6 @@
     {
       "title": "OriginPoint hires Austin Reed as producing regional manager",
       "link": "https://www.housingwire.com/articles/originpoint-names-reed-manager/",
-      "published": "Wed, 16 Sep 2026"
-    },
-    {
-      "title": "Coldwell Banker Apex expands in Texas with acquisition",
-      "link": "https://www.housingwire.com/articles/coldwell-banker-apex-expands-in-texas-with-acquisition/",
-      "published": "Wed, 16 Sep 2026"
-    },
-    {
-      "title": "Why leaders must keep customer expectations at the center during times of change",
-      "link": "https://www.housingwire.com/articles/customer-expectations-guide-strategy/",
-      "published": "Wed, 16 Sep 2026"
-    },
-    {
-      "title": "UWM broadens condo financing, rolls out eligibility tool",
-      "link": "https://www.housingwire.com/articles/uwm-expands-non-warrantable-condo-financing-amid-fhfa-rule-changes/",
-      "published": "Wed, 16 Sep 2026"
-    },
-    {
-      "title": "Pennymac, UWM raise conforming loan limits ahead of FHFA update",
-      "link": "https://www.housingwire.com/articles/conforming-loan-limits-pennymac-uwm/",
       "published": "Wed, 16 Sep 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Fed hikes rates, with analysts seeing more tightening ahead",
+        "url": "https://www.housingwire.com/articles/fed-rate-hike-inflation-geopolitics-housing-impact/",
+        "what": "Fed raises benchmark rate to 3.75% to 4% range in response to high inflation and solid employment",
+        "numbers": "3.75, 4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-rate-hike-inflation-geopolitics-housing-impact/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Why leaders must keep customer expectations at the center during times of change",
         "url": "https://www.housingwire.com/articles/customer-expectations-guide-strategy/",
         "what": "Value comes from improving agent and consumer experiences, not from chasing disruption headlines",
@@ -210,24 +219,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/customer-expectations-guide-strategy/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Mortgage applications dip 4% as rates climb near 7%",
-        "url": "https://www.housingwire.com/articles/mortgage-applications-fall-rates-2/",
-        "what": "The 10-year Treasury rate moved toward 5%, pushing the 30-year fixed to 6.97%, its highest level since May 2025",
-        "numbers": "10, 5, 30, 6.97, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-fall-rates-2/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Federal court denies Zillow injunction, sends MRED claims to arbitration",
-        "url": "https://www.housingwire.com/articles/zillow-mred-arbitration-ruling/",
-        "what": "Illinois judge also paused Zillow’s claims against Compass pending arbitration results",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-mred-arbitration-ruling/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Markets Have Priced in a Fed Rate Hike This Week, But The Economic Case Is Far From a Slam Dunk",
@@ -250,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "Why more builder discounts are not unlocking new-home demand",
+        "url": "https://www.housingwire.com/articles/why-more-builder-discounts-are-not-unlocking-new-home-demand/",
+        "what": "In September, two out of three homebuilders used incentives and 38% cut prices by 6% on average",
+        "numbers": "38, 6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-more-builder-discounts-are-not-unlocking-new-home-demand/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "OriginPoint hires Austin Reed as producing regional manager",
         "url": "https://www.housingwire.com/articles/originpoint-names-reed-manager/",
         "what": "The 13-year mortgage veteran will focus on borrowers and agent partners across the Northeast",
@@ -266,15 +266,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-august-2026/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "A case for permit shot clocks builds as approval durations drag out",
-        "url": "https://www.housingwire.com/articles/permit-shot-clocks-research/",
-        "what": "Researchers tracked 1.1 million permits from 2000 to 2025, showing approvals, not construction, drive much of the delay",
-        "numbers": "1.1 million, 2000, 2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/permit-shot-clocks-research/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Young Americans Are Choosin’ Texas. But Gen Zers Are Moving To San Antonio and Austin, While Millennials Favor Houston.",
@@ -305,6 +296,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "Student loan match program could add up to $20B annually to retirement accounts",
+        "url": "https://www.housingwire.com/articles/student-loan-retirement-match-ebri-112b-2026/",
+        "what": "EBRI findings highlight an opportunity for employers and plan sponsors to use student loan matching to close retirement savings gaps",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/student-loan-retirement-match-ebri-112b-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Mainstay acquires Truelist, raises $18M in financing",
+        "url": "https://www.housingwire.com/articles/mainstay-acquires-truelist-raises-18m-in-financing/",
+        "what": "Mainstay became an independent company after being carved out of Opendoor in 2024",
+        "numbers": "2024",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mainstay-acquires-truelist-raises-18m-in-financing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Reggora launches HomeInspector.com as free service",
         "url": "https://www.housingwire.com/articles/reggora-launches-homeinspector-com-as-free-service/",
@@ -338,15 +347,6 @@
         "what": "Pennymac set a $850,000 one-unit cap, while UWM raised its one-unit limit to $847,440 ahead of the FHFA update",
         "numbers": "$850,000, $847,440",
         "justified": "housingwire.com — https://www.housingwire.com/articles/conforming-loan-limits-pennymac-uwm/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Warranty standardization can unlock trapped building benchmarks",
-        "url": "https://www.housingwire.com/articles/standardize-warranty-events-homebuilding/",
-        "what": "Better measurement can look worse to markets, which weakens incentives to normalize and share benchmarks",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/standardize-warranty-events-homebuilding/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
