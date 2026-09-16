@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-09-16 20:07 UTC",
+  "as_of": "2026-09-16 22:56 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.97,
-      "delta_bp_1d": 0.9999999999999787
+      "yield_pct": 5.0,
+      "delta_bp_1d": 3.000000000000025
     },
     "mortgage_30y": {
       "rate_pct": 6.76,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Housing Market Spotlight: The housing market signal to watch as rates top 7%",
+      "link": "https://www.housingwire.com/articles/housing-market-data-mortgage-rates-above-7-percent/",
+      "published": "Wed, 16 Sep 2026"
+    },
+    {
+      "title": "What real estate professionals should know about the Fed rate hike",
+      "link": "https://www.housingwire.com/articles/what-real-estate-professionals-should-know-about-the-fed-rate-hike/",
+      "published": "Wed, 16 Sep 2026"
+    },
+    {
       "title": "Why more builder discounts are not unlocking new-home demand",
       "link": "https://www.housingwire.com/articles/why-more-builder-discounts-are-not-unlocking-new-home-demand/",
       "published": "Wed, 16 Sep 2026"
@@ -160,13 +170,8 @@
       "published": "Wed, 16 Sep 2026"
     },
     {
-      "title": "Reggora launches HomeInspector.com as free service",
-      "link": "https://www.housingwire.com/articles/reggora-launches-homeinspector-com-as-free-service/",
-      "published": "Wed, 16 Sep 2026"
-    },
-    {
-      "title": "OriginPoint hires Austin Reed as producing regional manager",
-      "link": "https://www.housingwire.com/articles/originpoint-names-reed-manager/",
+      "title": "Mortgage Rates Are Likely to Stay High as Fed Hikes Rates and Signals More to Come",
+      "link": "https://www.redfin.com/news/mortgage-rates-september-fed-meeting-2026/",
       "published": "Wed, 16 Sep 2026"
     },
     {
@@ -193,15 +198,37 @@
       "title": "Why Homebuyers Have More Negotiating Power Right Now",
       "link": "https://www.redfin.com/news/why-homebuyers-have-more-negotiating-power-right-now/",
       "published": "Fri, 11 Sep 2026"
-    },
-    {
-      "title": "Latest Inflation Report Points to an Uncertain Path Ahead for the Fed and Mortgage Rates",
-      "link": "https://www.redfin.com/news/inflation-uncertain-fed-mortgage-rates/",
-      "published": "Fri, 11 Sep 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Housing Market Spotlight: The housing market signal to watch as rates top 7%",
+        "url": "https://www.housingwire.com/articles/housing-market-data-mortgage-rates-above-7-percent/",
+        "what": "New listings and pending sales can offer an early look at whether buyer demand is losing ground",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-data-mortgage-rates-above-7-percent/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "What real estate professionals should know about the Fed rate hike",
+        "url": "https://www.housingwire.com/articles/what-real-estate-professionals-should-know-about-the-fed-rate-hike/",
+        "what": "Housing professionals said the psychological effect on homebuyers and sellers is immediate",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/what-real-estate-professionals-should-know-about-the-fed-rate-hike/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Mortgage Rates Are Likely to Stay High as Fed Hikes Rates and Signals More to Come",
+        "url": "https://www.redfin.com/news/mortgage-rates-september-fed-meeting-2026/",
+        "what": "Takeaway: The Fed hiked by 25 bps as expected and officially projected another hike this year, but Chairman Warsh’s remarks suggest more may be on the way",
+        "numbers": "25, 2027",
+        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-september-fed-meeting-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Fed hikes rates, with analysts seeing more tightening ahead",
         "url": "https://www.housingwire.com/articles/fed-rate-hike-inflation-geopolitics-housing-impact/",
@@ -226,15 +253,6 @@
         "what": "In A Nutshell: After last week’s inflation data, markets are almost certain a Fed rate hike is coming this Wednesday, but the economic case is far from a slam dunk",
         "numbers": "",
         "justified": "redfin.com — https://www.redfin.com/news/fed-rate-hike-likely-mortage-rates-hike-uncertain/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Latest Inflation Report Points to an Uncertain Path Ahead for the Fed and Mortgage Rates",
-        "url": "https://www.redfin.com/news/inflation-uncertain-fed-mortgage-rates/",
-        "what": "Takeaway: A higher-than-expected inflation report has markets anticipating a Fed rate hike next Wednesday, but there’s more room than usual for markets to be surprised",
-        "numbers": "0.4, 3.4",
-        "justified": "redfin.com — https://www.redfin.com/news/inflation-uncertain-fed-mortgage-rates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
@@ -329,24 +347,6 @@
         "what": "The firm's 10,478 transaction sides placed No",
         "numbers": "10,478, 40",
         "justified": "housingwire.com — https://www.housingwire.com/articles/coldwell-banker-apex-expands-in-texas-with-acquisition/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "UWM broadens condo financing, rolls out eligibility tool",
-        "url": "https://www.housingwire.com/articles/uwm-expands-non-warrantable-condo-financing-amid-fhfa-rule-changes/",
-        "what": "Lender widens nonwarrantable condo eligibility",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-expands-non-warrantable-condo-financing-amid-fhfa-rule-changes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Pennymac, UWM raise conforming loan limits ahead of FHFA update",
-        "url": "https://www.housingwire.com/articles/conforming-loan-limits-pennymac-uwm/",
-        "what": "Pennymac set a $850,000 one-unit cap, while UWM raised its one-unit limit to $847,440 ahead of the FHFA update",
-        "numbers": "$850,000, $847,440",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/conforming-loan-limits-pennymac-uwm/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
