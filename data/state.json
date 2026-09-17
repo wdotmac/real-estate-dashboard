@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-17 13:27 UTC",
+  "as_of": "2026-09-17 18:14 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": 3.000000000000025
     },
     "mortgage_30y": {
-      "rate_pct": 6.76,
-      "delta_bp_wow": 4.999999999999982
+      "rate_pct": 6.95,
+      "delta_bp_wow": 19.00000000000004
     },
     "starts": {
       "level_saar": 1275.0,
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Can empowering small investors strengthen America’s housing supply?",
-      "link": "https://www.housingwire.com/articles/small-investors-housing-supply/",
+      "title": "Need a boost with reverse mortgage conversion rates? Direct mail could be the answer",
+      "link": "https://www.housingwire.com/articles/reverse-mortgage-direct-mail-roi/",
       "published": "Thu, 17 Sep 2026"
     },
     {
-      "title": "The wrong levers",
-      "link": "https://www.housingwire.com/articles/wrong-levers-housing-affordability/",
+      "title": "Former Freddie Mac CEO Michael DeVito joins Owens Corning board",
+      "link": "https://www.housingwire.com/articles/former-freddie-mac-ceo-michael-devito-joins-owens-corning-board/",
       "published": "Thu, 17 Sep 2026"
     },
     {
-      "title": "Who owns the customer? That depends on whom you ask.",
-      "link": "https://www.housingwire.com/articles/mortgage-customer-ownership-permission/",
+      "title": "Is the housing construction cycle finally breaking?",
+      "link": "https://www.housingwire.com/articles/is-the-housing-construction-cycle-finally-breaking/",
       "published": "Thu, 17 Sep 2026"
     },
     {
-      "title": "The Fed rate-hike cycle has started. What’s next?",
-      "link": "https://www.housingwire.com/articles/the-fed-rate-hike-cycle-has-started-whats-next/",
-      "published": "Wed, 16 Sep 2026"
+      "title": "FirstClose launches Lender Portal for home equity leads",
+      "link": "https://www.housingwire.com/articles/firstclose-lender-portal-leads/",
+      "published": "Thu, 17 Sep 2026"
     },
     {
-      "title": "Housing Market Spotlight: The housing market signal to watch as rates top 7%",
-      "link": "https://www.housingwire.com/articles/housing-market-data-mortgage-rates-above-7-percent/",
-      "published": "Wed, 16 Sep 2026"
+      "title": "Rechat launches private user community",
+      "link": "https://www.housingwire.com/articles/rechat-launches-private-user-community/",
+      "published": "Thu, 17 Sep 2026"
     },
     {
-      "title": "What real estate professionals should know about the Fed rate hike",
-      "link": "https://www.housingwire.com/articles/what-real-estate-professionals-should-know-about-the-fed-rate-hike/",
-      "published": "Wed, 16 Sep 2026"
+      "title": "Senate banking committee advances Brian Johnson’s nomination as CFPB director",
+      "link": "https://www.housingwire.com/articles/brian-johnson-nomination-cfpb/",
+      "published": "Thu, 17 Sep 2026"
     },
     {
       "title": "Pending Home Sales Dip to Lowest Level in Nearly 3 Years",
@@ -203,6 +203,24 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Need a boost with reverse mortgage conversion rates? Direct mail could be the answer",
+        "url": "https://www.housingwire.com/articles/reverse-mortgage-direct-mail-roi/",
+        "what": "Mutual of Omaha Mortgage cites heavy same-day reads of direct mail among seniors, as well as higher ROI for these campaigns",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-direct-mail-roi/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Is the housing construction cycle finally breaking?",
+        "url": "https://www.housingwire.com/articles/is-the-housing-construction-cycle-finally-breaking/",
+        "what": "Mortgage rate buydowns have extended this cycle versus previous ones",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/is-the-housing-construction-cycle-finally-breaking/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Can empowering small investors strengthen America’s housing supply?",
         "url": "https://www.housingwire.com/articles/small-investors-housing-supply/",
         "what": "Federal data show individuals own 59% of rental properties, even as LLCs hold 43% of rental units",
@@ -212,56 +230,11 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Who owns the customer? That depends on whom you ask.",
-        "url": "https://www.housingwire.com/articles/mortgage-customer-ownership-permission/",
-        "what": "With 30-year rates near 7%, retention and permissioned access may decide the next refi wave",
-        "numbers": "30, 7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-customer-ownership-permission/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The Fed rate-hike cycle has started. What’s next?",
-        "url": "https://www.housingwire.com/articles/the-fed-rate-hike-cycle-has-started-whats-next/",
-        "what": "Key factors for mortgage rates will be the Iran conflict and trade war, not just the economy",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-fed-rate-hike-cycle-has-started-whats-next/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Housing Market Spotlight: The housing market signal to watch as rates top 7%",
-        "url": "https://www.housingwire.com/articles/housing-market-data-mortgage-rates-above-7-percent/",
-        "what": "New listings and pending sales can offer an early look at whether buyer demand is losing ground",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-data-mortgage-rates-above-7-percent/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "What real estate professionals should know about the Fed rate hike",
-        "url": "https://www.housingwire.com/articles/what-real-estate-professionals-should-know-about-the-fed-rate-hike/",
-        "what": "Housing professionals said the psychological effect on homebuyers and sellers is immediate",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/what-real-estate-professionals-should-know-about-the-fed-rate-hike/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Mortgage Rates Are Likely to Stay High as Fed Hikes Rates and Signals More to Come",
         "url": "https://www.redfin.com/news/mortgage-rates-september-fed-meeting-2026/",
         "what": "Takeaway: The Fed hiked by 25 bps as expected and officially projected another hike this year, but Chairman Warsh’s remarks suggest more may be on the way",
         "numbers": "25, 2027",
         "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-september-fed-meeting-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Fed hikes rates, with analysts seeing more tightening ahead",
-        "url": "https://www.housingwire.com/articles/fed-rate-hike-inflation-geopolitics-housing-impact/",
-        "what": "Fed raises benchmark rate to 3.75% to 4% range in response to high inflation and solid employment",
-        "numbers": "3.75, 4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-rate-hike-inflation-geopolitics-housing-impact/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -277,6 +250,33 @@
     ],
     "housing": [
       {
+        "title": "Mutual of Omaha explores potential mortgage division sale",
+        "url": "https://www.housingwire.com/articles/mutual-of-omaha-explores-potential-mortgage-division-sale/",
+        "what": "Bloomberg reports Houlihan Lokey was hired to help the insurance giant assess its options",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mutual-of-omaha-explores-potential-mortgage-division-sale/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "NAR pending home sales index down 4.7% year over year",
+        "url": "https://www.housingwire.com/articles/nar-pending-sales-index-down/",
+        "what": "August’s index reading of 71.2 was about 30% below pre-pandemic years, with monthly declines concentrated in the Northeast and Midwest",
+        "numbers": "71.2, 30",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-pending-sales-index-down/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Zillow Preview listings to appear on RealScout later this year",
+        "url": "https://www.housingwire.com/articles/zillow-preview-realscout-integration/",
+        "what": "Integration expands pre-MLS exposure to 100,000-plus agents and buyers across hundreds of U.S",
+        "numbers": "100,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-preview-realscout-integration/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Pending Home Sales Dip to Lowest Level in Nearly 3 Years",
         "url": "https://www.redfin.com/news/housing-market-update-pending-sales-lowest-level-since-2023/",
         "what": "The homebuyers who remain in the market have more choices, less competition and more negotiating power",
@@ -284,24 +284,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-lowest-level-since-2023/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "The wrong levers",
-        "url": "https://www.housingwire.com/articles/wrong-levers-housing-affordability/",
-        "what": "Four years of a frozen housing market won't thaw from the three levers everyone keeps pulling",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/wrong-levers-housing-affordability/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Why more builder discounts are not unlocking new-home demand",
-        "url": "https://www.housingwire.com/articles/why-more-builder-discounts-are-not-unlocking-new-home-demand/",
-        "what": "In September, two out of three homebuilders used incentives and 38% cut prices by 6% on average",
-        "numbers": "38, 6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/why-more-builder-discounts-are-not-unlocking-new-home-demand/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "The Bay Area Leads August’s Most Expensive Home Sales With a $70M Hillsborough Estate",
@@ -333,20 +315,38 @@
     ],
     "notables": [
       {
-        "title": "Student loan match program could add up to $20B annually to retirement accounts",
-        "url": "https://www.housingwire.com/articles/student-loan-retirement-match-ebri-112b-2026/",
-        "what": "EBRI findings highlight an opportunity for employers and plan sponsors to use student loan matching to close retirement savings gaps",
+        "title": "Former Freddie Mac CEO Michael DeVito joins Owens Corning board",
+        "url": "https://www.housingwire.com/articles/former-freddie-mac-ceo-michael-devito-joins-owens-corning-board/",
+        "what": "DeVito will serve on the audit and finance and technology committees at Owens Corning",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/student-loan-retirement-match-ebri-112b-2026/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/former-freddie-mac-ceo-michael-devito-joins-owens-corning-board/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Mainstay acquires Truelist, raises $18M in financing",
-        "url": "https://www.housingwire.com/articles/mainstay-acquires-truelist-raises-18m-in-financing/",
-        "what": "Mainstay became an independent company after being carved out of Opendoor in 2024",
-        "numbers": "2024",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mainstay-acquires-truelist-raises-18m-in-financing/",
+        "title": "FirstClose launches Lender Portal for home equity leads",
+        "url": "https://www.housingwire.com/articles/firstclose-lender-portal-leads/",
+        "what": "Workspace unifies lead intake, soft pull eligibility checks and borrower engagement tracking for XpressEquity users",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/firstclose-lender-portal-leads/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Rechat launches private user community",
+        "url": "https://www.housingwire.com/articles/rechat-launches-private-user-community/",
+        "what": "Leaders say the group is adding roughly 175 members each week",
+        "numbers": "175",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rechat-launches-private-user-community/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Senate banking committee advances Brian Johnson’s nomination as CFPB director",
+        "url": "https://www.housingwire.com/articles/brian-johnson-nomination-cfpb/",
+        "what": "Johnson's nomination advanced out of the committee on a 13-11 vote",
+        "numbers": "13, 11",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/brian-johnson-nomination-cfpb/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
