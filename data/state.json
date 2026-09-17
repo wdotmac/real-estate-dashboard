@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-17 07:39 UTC",
+  "as_of": "2026-09-17 13:27 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -11,8 +11,8 @@
       "delta_bp_wow": 4.999999999999982
     },
     "starts": {
-      "level_saar": 1239.0,
-      "mom": -0.12438162544169606
+      "level_saar": 1275.0,
+      "mom": -0.025974025974025983
     }
   },
   "permits": {
@@ -170,6 +170,11 @@
       "published": "Wed, 16 Sep 2026"
     },
     {
+      "title": "Pending Home Sales Dip to Lowest Level in Nearly 3 Years",
+      "link": "https://www.redfin.com/news/housing-market-update-pending-sales-lowest-level-since-2023/",
+      "published": "Thu, 17 Sep 2026"
+    },
+    {
       "title": "Mortgage Rates Are Likely to Stay High as Fed Hikes Rates and Signals More to Come",
       "link": "https://www.redfin.com/news/mortgage-rates-september-fed-meeting-2026/",
       "published": "Wed, 16 Sep 2026"
@@ -192,11 +197,6 @@
     {
       "title": "Congratulations to our President’s Club Honorees!",
       "link": "https://www.redfin.com/news/congratulations-2026-presidents-club/",
-      "published": "Fri, 11 Sep 2026"
-    },
-    {
-      "title": "Why Homebuyers Have More Negotiating Power Right Now",
-      "link": "https://www.redfin.com/news/why-homebuyers-have-more-negotiating-power-right-now/",
       "published": "Fri, 11 Sep 2026"
     }
   ],
@@ -277,6 +277,15 @@
     ],
     "housing": [
       {
+        "title": "Pending Home Sales Dip to Lowest Level in Nearly 3 Years",
+        "url": "https://www.redfin.com/news/housing-market-update-pending-sales-lowest-level-since-2023/",
+        "what": "The homebuyers who remain in the market have more choices, less competition and more negotiating power",
+        "numbers": "13, 3.5, 3",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-lowest-level-since-2023/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "The wrong levers",
         "url": "https://www.housingwire.com/articles/wrong-levers-housing-affordability/",
         "what": "Four years of a frozen housing market won't thaw from the three levers everyone keeps pulling",
@@ -320,15 +329,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/congratulations-2026-presidents-club/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Why Homebuyers Have More Negotiating Power Right Now",
-        "url": "https://www.redfin.com/news/why-homebuyers-have-more-negotiating-power-right-now/",
-        "what": "Homebuyers have something they haven’t had much of in recent years: leverage",
-        "numbers": "58, 3, 5",
-        "justified": "redfin.com — https://www.redfin.com/news/why-homebuyers-have-more-negotiating-power-right-now/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
