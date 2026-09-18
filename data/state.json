@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-18 15:01 UTC",
+  "as_of": "2026-09-18 18:28 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,7 +140,22 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Better board fight escalates as Vishal Garg names 3 director picks",
+      "title": "Hagens Berman seeking plaintiffs for Compass MRED class action",
+      "link": "https://www.housingwire.com/articles/hagens-berman-compass-mred-plaintiffs/",
+      "published": "Fri, 18 Sep 2026"
+    },
+    {
+      "title": "Zillow-MRED antitrust battle shifts from courtroom to arbitration",
+      "link": "https://www.housingwire.com/articles/zillow-mred-arbitration-injunction/",
+      "published": "Fri, 18 Sep 2026"
+    },
+    {
+      "title": "Key Mortgage hires Kevin Christopher as SVP of production",
+      "link": "https://www.housingwire.com/articles/key-mortgage-kevin-christopher-hire/",
+      "published": "Fri, 18 Sep 2026"
+    },
+    {
+      "title": "Better board fight escalates as Vishal Garg selects 3 director candidates",
       "link": "https://www.housingwire.com/articles/better-board-fight-garg/",
       "published": "Fri, 18 Sep 2026"
     },
@@ -153,21 +168,6 @@
       "title": "Sidewalk gaps, train counts ignite California SB 79 zoning lawsuits",
       "link": "https://www.housingwire.com/articles/sb79-upzoning-san-diego/",
       "published": "Fri, 18 Sep 2026"
-    },
-    {
-      "title": "The unseen shift in agency pools: How ‘lender choice’ is quietly repricing specified pools",
-      "link": "https://www.housingwire.com/articles/lender-choice-specified-pools/",
-      "published": "Fri, 18 Sep 2026"
-    },
-    {
-      "title": "Gateway First Bank to acquire Colonial Savings",
-      "link": "https://www.housingwire.com/articles/gateway-first-bank-to-acquire-colonial-savings-texas-mortgage-banking/",
-      "published": "Thu, 17 Sep 2026"
-    },
-    {
-      "title": "Settlor integrates with TitleSphere, expands transaction data use",
-      "link": "https://www.housingwire.com/articles/settlor-integrates-with-titlesphere-expands-transaction-data-use/",
-      "published": "Thu, 17 Sep 2026"
     },
     {
       "title": "Nearly Half of Homebuyers Get Concessions From Sellers as Most Markets Tip in Buyers’ Favor",
@@ -241,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "Zillow-MRED antitrust battle shifts from courtroom to arbitration",
+        "url": "https://www.housingwire.com/articles/zillow-mred-arbitration-injunction/",
+        "what": "Court said evidence did not sufficiently distinguish conspiracy claims from aligned interests pursued independently by MRED and Compass",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-mred-arbitration-injunction/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Key Mortgage hires Kevin Christopher as SVP of production",
+        "url": "https://www.housingwire.com/articles/key-mortgage-kevin-christopher-hire/",
+        "what": "Christopher ran retail mortgage sales across 17 states at JPMorgan Chase’s central division",
+        "numbers": "17",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/key-mortgage-kevin-christopher-hire/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Zillow names Rikki Tremblay principal accounting officer",
         "url": "https://www.housingwire.com/articles/zillow-tremblay-principal-accounting-officer/",
         "what": "Jennifer Rock will stay in an advisory role through March 1, 2027",
@@ -264,24 +282,6 @@
         "what": "In a market where 66% of builders use incentives, Sheryl Palmer points to reputation, internal alignment, and data systems as advantages",
         "numbers": "66",
         "justified": "housingwire.com — https://www.housingwire.com/articles/taylor-morrison-trust-scale/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "NYC buyers caught in the middle of StreetEasy, Compass listing fight",
-        "url": "https://www.housingwire.com/articles/streeteasy-same-day-listing-rule/",
-        "what": "Compass pulled listings in August, StreetEasy also capped Experts participation at 20% per firm",
-        "numbers": "20",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/streeteasy-same-day-listing-rule/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Housing starts outlook turns negative through 2027 as costs rise",
-        "url": "https://www.housingwire.com/articles/housing-starts-august-2026/",
-        "what": "Buy-downs now support 80-90% of new-home sales as margins tighten and labor shortages persist",
-        "numbers": "80, 90",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-starts-august-2026/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
@@ -315,7 +315,16 @@
     ],
     "notables": [
       {
-        "title": "Better board fight escalates as Vishal Garg names 3 director picks",
+        "title": "Hagens Berman seeking plaintiffs for Compass MRED class action",
+        "url": "https://www.housingwire.com/articles/hagens-berman-compass-mred-plaintiffs/",
+        "what": "The firm cites claims of 98% market share and points to Compass research showing 4.6% higher sale prices after pre MLS marketing",
+        "numbers": "98, 4.6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hagens-berman-compass-mred-plaintiffs/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Better board fight escalates as Vishal Garg selects 3 director candidates",
         "url": "https://www.housingwire.com/articles/better-board-fight-garg/",
         "what": "Garg moved the written consent deadline to Oct",
         "numbers": "2,",
@@ -338,15 +347,6 @@
         "what": "The transaction is expected to close in the first quarter of 2027",
         "numbers": "2027",
         "justified": "housingwire.com — https://www.housingwire.com/articles/gateway-first-bank-to-acquire-colonial-savings-texas-mortgage-banking/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Florida Agency Network expands CertifID use across closings",
-        "url": "https://www.housingwire.com/articles/florida-agency-network-expands-certifid-use-across-closings/",
-        "what": "FAN said the rollout adds direct wire fraud protection to every closing it conducts",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/florida-agency-network-expands-certifid-use-across-closings/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
