@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-21 14:08 UTC",
+  "as_of": "2026-09-21 19:27 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "NAR wins Meta 2026 award for AI ad automation",
-      "link": "https://www.housingwire.com/articles/nar-meta-advantage-award/",
+      "title": "Networking for real estate agents, ask better questions and follow through",
+      "link": "https://www.housingwire.com/articles/real-estate-networking-listening/",
       "published": "Mon, 21 Sep 2026"
     },
     {
-      "title": "When a reverse mortgage comes due, heirs face a clock",
-      "link": "https://www.housingwire.com/articles/reverse-mortgage-comes-due-heirs-face-a-clock/",
+      "title": "HUD showcase spotlights Cavco chassis-free manufactured home",
+      "link": "https://www.housingwire.com/articles/cavco-chassis-free-manufactured-home-model/",
       "published": "Mon, 21 Sep 2026"
     },
     {
-      "title": "Sagent promotes Sridhar Sharma to CEO, Andrew Bon Salle to chairman",
-      "link": "https://www.housingwire.com/articles/sagent-promotes-sridhar-sharma-ceo/",
+      "title": "Miami Realtors + RWorld forms new education partnership",
+      "link": "https://www.housingwire.com/articles/miami-realtors-rworld-forms-new-education-partnership/",
       "published": "Mon, 21 Sep 2026"
     },
     {
-      "title": "Mortgage forecasts reset lower amid higher rates",
-      "link": "https://www.housingwire.com/articles/lenders-brace-for-tougher-mortgage-market-forecast-reset/",
+      "title": "First-time homebuyers get help from Airbnb in New York City",
+      "link": "https://www.housingwire.com/articles/first-time-homebuyers-help-from-airbnb-nyc/",
       "published": "Mon, 21 Sep 2026"
     },
     {
-      "title": "AREC raises $390 million to finance lot and land deals for builders",
-      "link": "https://www.housingwire.com/articles/arec-390-million-homebuilders-lots/",
+      "title": "Real estate has a new-agent launch problem, not recruiting",
+      "link": "https://www.housingwire.com/articles/new-agent-launch-problem/",
       "published": "Mon, 21 Sep 2026"
     },
     {
-      "title": "Today’s non-QM borrower is harder to define and pinpoint",
-      "link": "https://www.housingwire.com/articles/non-qm-borrowers-market-trends/",
+      "title": "Archwell Capital names Mike Middleman CEO",
+      "link": "https://www.housingwire.com/articles/archwell-capital-new-ceo/",
       "published": "Mon, 21 Sep 2026"
     },
     {
@@ -232,6 +232,15 @@
     ],
     "housing": [
       {
+        "title": "Real estate has a new-agent launch problem, not recruiting",
+        "url": "https://www.housingwire.com/articles/new-agent-launch-problem/",
+        "what": "A 90-day apprenticeship-style onboarding with activity metrics, practice reps and business basics is key",
+        "numbers": "90",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-agent-launch-problem/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
         "title": "When a reverse mortgage comes due, heirs face a clock",
         "url": "https://www.housingwire.com/articles/reverse-mortgage-comes-due-heirs-face-a-clock/",
         "what": "HUD-approved housing counseling agencies and attorneys can help heirs understand their rights",
@@ -239,15 +248,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-comes-due-heirs-face-a-clock/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "AREC raises $390 million to finance lot and land deals for builders",
-        "url": "https://www.housingwire.com/articles/arec-390-million-homebuilders-lots/",
-        "what": "The fund now tops $750M in institutional capital to target 100,000 residential lots as builders seek lot financing",
-        "numbers": "$750, 100,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/arec-390-million-homebuilders-lots/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Nearly Half of Homebuyers Get Concessions From Sellers as Most Markets Tip in Buyers’ Favor",
@@ -288,6 +288,51 @@
     ],
     "notables": [
       {
+        "title": "Networking for real estate agents, ask better questions and follow through",
+        "url": "https://www.housingwire.com/articles/real-estate-networking-listening/",
+        "what": "Ask better questions, find a real interest, and leave with a small action you can follow through on",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-networking-listening/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "HUD showcase spotlights Cavco chassis-free manufactured home",
+        "url": "https://www.housingwire.com/articles/cavco-chassis-free-manufactured-home-model/",
+        "what": "Cavco says the chassis-free shift is driven by design flexibility, not just $5,000 to $10,000 in cost reductions cited by others",
+        "numbers": "$5,000, $10,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cavco-chassis-free-manufactured-home-model/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Miami Realtors + RWorld forms new education partnership",
+        "url": "https://www.housingwire.com/articles/miami-realtors-rworld-forms-new-education-partnership/",
+        "what": "Classes are available in person, by livestream and online",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/miami-realtors-rworld-forms-new-education-partnership/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "First-time homebuyers get help from Airbnb in New York City",
+        "url": "https://www.housingwire.com/articles/first-time-homebuyers-help-from-airbnb-nyc/",
+        "what": "The initiative is supported by a $600,000 grant from Airbnb over three years",
+        "numbers": "$600,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/first-time-homebuyers-help-from-airbnb-nyc/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Archwell Capital names Mike Middleman CEO",
+        "url": "https://www.housingwire.com/articles/archwell-capital-new-ceo/",
+        "what": "Archwell also named new COO, CFO, CIO, and chief AI officer as it scales investments and businesses",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/archwell-capital-new-ceo/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "NAR wins Meta 2026 award for AI ad automation",
         "url": "https://www.housingwire.com/articles/nar-meta-advantage-award/",
         "what": "Test using Advantage+ Audience drove 432,000 landing page views and cut cost per view by 29%",
@@ -302,51 +347,6 @@
         "what": "Sharma, who served as Sagent's president, replaces Chris Marshall",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/sagent-promotes-sridhar-sharma-ceo/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Today’s non-QM borrower is harder to define and pinpoint",
-        "url": "https://www.housingwire.com/articles/non-qm-borrowers-market-trends/",
-        "what": "Led by investors and self-employed borrowers, non-QM demand continues grow, even in tucked-away areas of the country",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/non-qm-borrowers-market-trends/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Residents contest Salt Lake City bid to rezone for higher density",
-        "url": "https://www.housingwire.com/articles/residents-contest-salt-lake-city-bid-to-rezone-for-higher-density/",
-        "what": "The proposal would allow duplexes to fourplexes and townhomes on lots as small as 2,000 square feet",
-        "numbers": "2,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/residents-contest-salt-lake-city-bid-to-rezone-for-higher-density/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "ACES launches Population Testing for loan policy reviews",
-        "url": "https://www.housingwire.com/articles/aces-population-testing-loan-review/",
-        "what": "Population Testing evaluates origination and servicing populations against lender policies",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/aces-population-testing-loan-review/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "What families miss when planning for aging in place",
-        "url": "https://www.housingwire.com/articles/what-families-miss-when-planning-for-aging-in-place/",
-        "what": "Anthony Zizza, who has spent more than a decade serving seniors in New England, discusses a team approach for positive outcomes",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/what-families-miss-when-planning-for-aging-in-place/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "What New York buyers, sellers and boards need to know about the 2026 condo financing overhaul",
-        "url": "https://www.housingwire.com/articles/ny-condo-financing-overhaul/",
-        "what": "Limited review ends Aug",
-        "numbers": "3,, 15, 4,, 2027",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ny-condo-financing-overhaul/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
