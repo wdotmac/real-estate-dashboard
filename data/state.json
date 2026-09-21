@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-09-21 19:27 UTC",
+  "as_of": "2026-09-21 23:16 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.94,
-      "delta_bp_1d": -6.99999999999994
+      "yield_pct": 5.01,
+      "delta_bp_1d": 6.99999999999994
     },
     "mortgage_30y": {
       "rate_pct": 6.95,
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Never quote your real estate commission by text",
+      "link": "https://www.housingwire.com/articles/never-quote-commission-text/",
+      "published": "Mon, 21 Sep 2026"
+    },
+    {
+      "title": "Auction.com taps John Ken as SVP of marketing",
+      "link": "https://www.housingwire.com/articles/auction-com-taps-john-ken-as-svp-of-marketing/",
+      "published": "Mon, 21 Sep 2026"
+    },
+    {
       "title": "Networking for real estate agents, ask better questions and follow through",
       "link": "https://www.housingwire.com/articles/real-estate-networking-listening/",
       "published": "Mon, 21 Sep 2026"
@@ -160,13 +170,8 @@
       "published": "Mon, 21 Sep 2026"
     },
     {
-      "title": "Real estate has a new-agent launch problem, not recruiting",
-      "link": "https://www.housingwire.com/articles/new-agent-launch-problem/",
-      "published": "Mon, 21 Sep 2026"
-    },
-    {
-      "title": "Archwell Capital names Mike Middleman CEO",
-      "link": "https://www.housingwire.com/articles/archwell-capital-new-ceo/",
+      "title": "In the Aftermath of Last Week’s Rate Hike, Fed Officials Will Speak This Week",
+      "link": "https://www.redfin.com/news/mortgage-rates-post-september-fed-meeting/",
       "published": "Mon, 21 Sep 2026"
     },
     {
@@ -193,21 +198,16 @@
       "title": "Markets Have Priced in a Fed Rate Hike This Week, But The Economic Case Is Far From a Slam Dunk",
       "link": "https://www.redfin.com/news/fed-rate-hike-likely-mortage-rates-hike-uncertain/",
       "published": "Tue, 15 Sep 2026"
-    },
-    {
-      "title": "Young Americans Are Choosin’ Texas. But Gen Zers Are Moving To San Antonio and Austin, While Millennials Favor Houston.",
-      "link": "https://www.redfin.com/news/where-gen-z-millennials-move/",
-      "published": "Tue, 15 Sep 2026"
     }
   ],
   "feed_101020": {
     "macro": [
       {
-        "title": "Mortgage forecasts reset lower amid higher rates",
-        "url": "https://www.housingwire.com/articles/lenders-brace-for-tougher-mortgage-market-forecast-reset/",
-        "what": "Analysts are pricing in additional Fed hikes and a higher-for-longer rate backdrop",
+        "title": "In the Aftermath of Last Week’s Rate Hike, Fed Officials Will Speak This Week",
+        "url": "https://www.redfin.com/news/mortgage-rates-post-september-fed-meeting/",
+        "what": "In A Nutshell: A light economic calendar this week means the focus will be on digesting last week’s Fed meeting, and on any geopolitical developments",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lenders-brace-for-tougher-mortgage-market-forecast-reset/",
+        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-post-september-fed-meeting/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -275,18 +275,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/most-expensive-home-sales-august-2026/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Young Americans Are Choosin’ Texas. But Gen Zers Are Moving To San Antonio and Austin, While Millennials Favor Houston.",
-        "url": "https://www.redfin.com/news/where-gen-z-millennials-move/",
-        "what": "Gen Zers and millennials alike are leaving some of the nation’s biggest, most expensive metros, but they’re at different life stages—and that shows up in where they go",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/where-gen-z-millennials-move/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       }
     ],
     "notables": [
+      {
+        "title": "Never quote your real estate commission by text",
+        "url": "https://www.housingwire.com/articles/never-quote-commission-text/",
+        "what": "Move the question to a call, frame value before price, then give an honest range that leads to a listing appointment",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/never-quote-commission-text/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Auction.com taps John Ken as SVP of marketing",
+        "url": "https://www.housingwire.com/articles/auction-com-taps-john-ken-as-svp-of-marketing/",
+        "what": "Ken plans to widen education paths for buyers new to the process",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/auction-com-taps-john-ken-as-svp-of-marketing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Networking for real estate agents, ask better questions and follow through",
         "url": "https://www.housingwire.com/articles/real-estate-networking-listening/",
@@ -338,15 +347,6 @@
         "what": "Test using Advantage+ Audience drove 432,000 landing page views and cut cost per view by 29%",
         "numbers": "432,000, 29",
         "justified": "housingwire.com — https://www.housingwire.com/articles/nar-meta-advantage-award/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Sagent promotes Sridhar Sharma to CEO, Andrew Bon Salle to chairman",
-        "url": "https://www.housingwire.com/articles/sagent-promotes-sridhar-sharma-ceo/",
-        "what": "Sharma, who served as Sagent's president, replaces Chris Marshall",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sagent-promotes-sridhar-sharma-ceo/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
