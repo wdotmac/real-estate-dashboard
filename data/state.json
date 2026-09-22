@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-22 04:55 UTC",
+  "as_of": "2026-09-22 09:57 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Condo approval policies should balance prudent underwriting and affordability",
+      "link": "https://www.housingwire.com/articles/condo-approval-affordability-rules/",
+      "published": "Tue, 22 Sep 2026"
+    },
+    {
+      "title": "The mortgage industry starts helping borrowers too late",
+      "link": "https://www.housingwire.com/articles/borrower-readiness-stage/",
+      "published": "Tue, 22 Sep 2026"
+    },
+    {
+      "title": "Florida’s new law bars zoning discrimination against factory-built homes",
+      "link": "https://www.housingwire.com/articles/florida-zoning-parity-offsite-homes/",
+      "published": "Tue, 22 Sep 2026"
+    },
+    {
+      "title": "Technology is not culture",
+      "link": "https://www.housingwire.com/articles/technology-not-culture-mortgage/",
+      "published": "Tue, 22 Sep 2026"
+    },
+    {
       "title": "Never quote your real estate commission by text",
       "link": "https://www.housingwire.com/articles/never-quote-commission-text/",
       "published": "Mon, 21 Sep 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Auction.com taps John Ken as SVP of marketing",
       "link": "https://www.housingwire.com/articles/auction-com-taps-john-ken-as-svp-of-marketing/",
-      "published": "Mon, 21 Sep 2026"
-    },
-    {
-      "title": "Networking for real estate agents, ask better questions and follow through",
-      "link": "https://www.housingwire.com/articles/real-estate-networking-listening/",
-      "published": "Mon, 21 Sep 2026"
-    },
-    {
-      "title": "HUD showcase spotlights Cavco chassis-free manufactured home",
-      "link": "https://www.housingwire.com/articles/cavco-chassis-free-manufactured-home-model/",
-      "published": "Mon, 21 Sep 2026"
-    },
-    {
-      "title": "Miami Realtors + RWorld forms new education partnership",
-      "link": "https://www.housingwire.com/articles/miami-realtors-rworld-forms-new-education-partnership/",
-      "published": "Mon, 21 Sep 2026"
-    },
-    {
-      "title": "First-time homebuyers get help from Airbnb in New York City",
-      "link": "https://www.housingwire.com/articles/first-time-homebuyers-help-from-airbnb-nyc/",
       "published": "Mon, 21 Sep 2026"
     },
     {
@@ -232,20 +232,11 @@
     ],
     "housing": [
       {
-        "title": "Real estate has a new-agent launch problem, not recruiting",
-        "url": "https://www.housingwire.com/articles/new-agent-launch-problem/",
-        "what": "A 90-day apprenticeship-style onboarding with activity metrics, practice reps and business basics is key",
-        "numbers": "90",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-agent-launch-problem/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "When a reverse mortgage comes due, heirs face a clock",
-        "url": "https://www.housingwire.com/articles/reverse-mortgage-comes-due-heirs-face-a-clock/",
-        "what": "HUD-approved housing counseling agencies and attorneys can help heirs understand their rights",
+        "title": "The mortgage industry starts helping borrowers too late",
+        "url": "https://www.housingwire.com/articles/borrower-readiness-stage/",
+        "what": "Why lenders need a readiness stage between consumer curiosity and the loan application",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-comes-due-heirs-face-a-clock/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/borrower-readiness-stage/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -278,6 +269,33 @@
       }
     ],
     "notables": [
+      {
+        "title": "Condo approval policies should balance prudent underwriting and affordability",
+        "url": "https://www.housingwire.com/articles/condo-approval-affordability-rules/",
+        "what": "Industry groups estimate 60% to 80% of condo originations used limited reviews before the Aug",
+        "numbers": "60, 80, 3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/condo-approval-affordability-rules/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Florida’s new law bars zoning discrimination against factory-built homes",
+        "url": "https://www.housingwire.com/articles/florida-zoning-parity-offsite-homes/",
+        "what": "Section 553.385 requires qualifying off-site constructed single-family homes to receive the same local zoning treatment as site-built homes - while preserving neutral design and de",
+        "numbers": "553.385",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/florida-zoning-parity-offsite-homes/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Technology is not culture",
+        "url": "https://www.housingwire.com/articles/technology-not-culture-mortgage/",
+        "what": "How transparency cut non-sales cost per loan while paying originators more",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/technology-not-culture-mortgage/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Never quote your real estate commission by text",
         "url": "https://www.housingwire.com/articles/never-quote-commission-text/",
@@ -329,24 +347,6 @@
         "what": "The initiative is supported by a $600,000 grant from Airbnb over three years",
         "numbers": "$600,000",
         "justified": "housingwire.com — https://www.housingwire.com/articles/first-time-homebuyers-help-from-airbnb-nyc/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Archwell Capital names Mike Middleman CEO",
-        "url": "https://www.housingwire.com/articles/archwell-capital-new-ceo/",
-        "what": "Archwell also named new COO, CFO, CIO, and chief AI officer as it scales investments and businesses",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/archwell-capital-new-ceo/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "NAR wins Meta 2026 award for AI ad automation",
-        "url": "https://www.housingwire.com/articles/nar-meta-advantage-award/",
-        "what": "Test using Advantage+ Audience drove 432,000 landing page views and cut cost per view by 29%",
-        "numbers": "432,000, 29",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-meta-advantage-award/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
