@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-09-22 18:54 UTC",
+  "as_of": "2026-09-22 22:08 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.01,
-      "delta_bp_1d": 6.99999999999994
+      "yield_pct": 4.96,
+      "delta_bp_1d": -4.999999999999982
     },
     "mortgage_30y": {
       "rate_pct": 6.95,
@@ -140,7 +140,22 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Milrose plans $1 billion bond sale to fund homesite growth",
+      "title": "AARP lays out six areas of financial health for retirees",
+      "link": "https://www.housingwire.com/articles/aarp-financial-health-retirees/",
+      "published": "Tue, 22 Sep 2026"
+    },
+    {
+      "title": "Mortgage rates face several hurdles before they can return to 6%",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-hurdles-6/",
+      "published": "Tue, 22 Sep 2026"
+    },
+    {
+      "title": "Housing boom expected to follow SpaceX Louisiana arrival",
+      "link": "https://www.housingwire.com/articles/housing-boom-expected-to-follow-spacex-louisiana-arrival/",
+      "published": "Tue, 22 Sep 2026"
+    },
+    {
+      "title": "Millrose plans $1 billion bond sale to fund homesite growth",
       "link": "https://www.housingwire.com/articles/millrose-1-billion-senior-notes-deal/",
       "published": "Tue, 22 Sep 2026"
     },
@@ -152,21 +167,6 @@
     {
       "title": "Why more real estate agents are getting their mortgage loan originator license",
       "link": "https://www.housingwire.com/articles/why-more-real-estate-agents-get-mlo-license/",
-      "published": "Tue, 22 Sep 2026"
-    },
-    {
-      "title": "Massachusetts ballot puts lot density up for a vote of the people",
-      "link": "https://www.housingwire.com/articles/ma-lot-size-ballot/",
-      "published": "Tue, 22 Sep 2026"
-    },
-    {
-      "title": "New American Funding promotes Stacy Chevalier to Northwest regional VP",
-      "link": "https://www.housingwire.com/articles/naf-chevalier-northwest-vp/",
-      "published": "Tue, 22 Sep 2026"
-    },
-    {
-      "title": "LoanCare names Amy Jones chief information officer",
-      "link": "https://www.housingwire.com/articles/loancare-amy-jones-chief-information/",
       "published": "Tue, 22 Sep 2026"
     },
     {
@@ -203,7 +203,16 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Milrose plans $1 billion bond sale to fund homesite growth",
+        "title": "Mortgage rates face several hurdles before they can return to 6%",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-hurdles-6/",
+        "what": "Inflation, Fed guidance and spreads all play a role with higher rates, Logan Mohtashami says",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-hurdles-6/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Millrose plans $1 billion bond sale to fund homesite growth",
         "url": "https://www.housingwire.com/articles/millrose-1-billion-senior-notes-deal/",
         "what": "The land bank lines up $1.5 billion in debt capacity tied to Dream Finders–Beazer land strategy",
         "numbers": "$1.5 billion",
@@ -250,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "Housing boom expected to follow SpaceX Louisiana arrival",
+        "url": "https://www.housingwire.com/articles/housing-boom-expected-to-follow-spacex-louisiana-arrival/",
+        "what": "Local Realtors say investors are already buying land around the area in anticipation of workers",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-boom-expected-to-follow-spacex-louisiana-arrival/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Why more real estate agents are getting their mortgage loan originator license",
         "url": "https://www.housingwire.com/articles/why-more-real-estate-agents-get-mlo-license/",
         "what": "A December 2022 FHA letter and higher-rate friction pushed renewed focus on dual licensing and end-to-end deal control",
@@ -288,6 +306,15 @@
     ],
     "notables": [
       {
+        "title": "AARP lays out six areas of financial health for retirees",
+        "url": "https://www.housingwire.com/articles/aarp-financial-health-retirees/",
+        "what": "Rising prices, Social Security uncertainty and record debt are compounding worries",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/aarp-financial-health-retirees/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "NextHome large-office model adds 5 former Keller Williams offices",
         "url": "https://www.housingwire.com/articles/nexthome-large-office-model/",
         "what": "Nearly 400 agents across California joined after the May launch of the 5-year large-office franchise model",
@@ -322,33 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/loancare-amy-jones-chief-information/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Real estate cold calling is screened, not dead",
-        "url": "https://www.housingwire.com/articles/cold-calling-screened-not-dead/",
-        "what": "Davis says agents should follow broker policy, read Do Not Call rules precisely and use a voicemail plus text sequence to lift replies",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cold-calling-screened-not-dead/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Feedback still open for updates to FHA minimum property requirements",
-        "url": "https://www.housingwire.com/articles/feedback-still-open-for-updates-to-fha-minimum-property-requirements/",
-        "what": "All feedback must be submitted to the FHA by Nov",
-        "numbers": "6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/feedback-still-open-for-updates-to-fha-minimum-property-requirements/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Mainstreet Realtors partners with Gitcha on buyer listing service",
-        "url": "https://www.housingwire.com/articles/mainstreet-gitcha-buyer-listings/",
-        "what": "Gitcha BLS will roll into MyMainstreet for more than 18,000 members across suburban Chicagoland",
-        "numbers": "18,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mainstreet-gitcha-buyer-listings/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
