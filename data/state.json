@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-23 05:58 UTC",
+  "as_of": "2026-09-23 11:36 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "UWM sets terms for $400M rights offering with Oaktree, Ishbia backstop",
+      "link": "https://www.housingwire.com/articles/uwm-400m-rights-offering-terms/",
+      "published": "Wed, 23 Sep 2026"
+    },
+    {
+      "title": "Mortgage demand slips again as rates push past 7%",
+      "link": "https://www.housingwire.com/articles/mortgage-applications-fall-rates-7/",
+      "published": "Wed, 23 Sep 2026"
+    },
+    {
+      "title": "Five questions loan officers should ask before preapproving complex income",
+      "link": "https://www.housingwire.com/articles/complex-income-preapproval-questions/",
+      "published": "Wed, 23 Sep 2026"
+    },
+    {
       "title": "AARP lays out six areas of financial health for retirees",
       "link": "https://www.housingwire.com/articles/aarp-financial-health-retirees/",
       "published": "Tue, 22 Sep 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Housing boom expected to follow SpaceX Louisiana arrival",
       "link": "https://www.housingwire.com/articles/housing-boom-expected-to-follow-spacex-louisiana-arrival/",
-      "published": "Tue, 22 Sep 2026"
-    },
-    {
-      "title": "Millrose plans $1 billion bond sale to fund homesite growth",
-      "link": "https://www.housingwire.com/articles/millrose-1-billion-senior-notes-deal/",
-      "published": "Tue, 22 Sep 2026"
-    },
-    {
-      "title": "NextHome large-office model adds 5 former Keller Williams offices",
-      "link": "https://www.housingwire.com/articles/nexthome-large-office-model/",
-      "published": "Tue, 22 Sep 2026"
-    },
-    {
-      "title": "Why more real estate agents are getting their mortgage loan originator license",
-      "link": "https://www.housingwire.com/articles/why-more-real-estate-agents-get-mlo-license/",
       "published": "Tue, 22 Sep 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Mortgage demand slips again as rates push past 7%",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-fall-rates-7/",
+        "what": "MBA says its refinance index fell 3% and the ARM share rose to 9.8% for the week ending Sept",
+        "numbers": "3, 9.8, 18",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-fall-rates-7/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage rates face several hurdles before they can return to 6%",
         "url": "https://www.housingwire.com/articles/mortgage-rates-hurdles-6/",
         "what": "Inflation, Fed guidance and spreads all play a role with higher rates, Logan Mohtashami says",
@@ -217,15 +226,6 @@
         "what": "The land bank lines up $1.5 billion in debt capacity tied to Dream Finders–Beazer land strategy",
         "numbers": "$1.5 billion",
         "justified": "housingwire.com — https://www.housingwire.com/articles/millrose-1-billion-senior-notes-deal/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Higher mortgage rates are expected to lead to fewer originations through 2027",
-        "url": "https://www.housingwire.com/articles/mba-cuts-2027-originations/",
-        "what": "With 30-year conforming rates reaching 7.32% this week, MBA has penciled in two more Fed hikes in the next 12 months",
-        "numbers": "30, 7.32, 12",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-cuts-2027-originations/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -306,6 +306,24 @@
     ],
     "notables": [
       {
+        "title": "UWM sets terms for $400M rights offering with Oaktree, Ishbia backstop",
+        "url": "https://www.housingwire.com/articles/uwm-400m-rights-offering-terms/",
+        "what": "The distribution of the rights is expected to begin Oct",
+        "numbers": "5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-400m-rights-offering-terms/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Five questions loan officers should ask before preapproving complex income",
+        "url": "https://www.housingwire.com/articles/complex-income-preapproval-questions/",
+        "what": "A short assumption memo can prevent last-minute income changes at underwriting",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/complex-income-preapproval-questions/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "AARP lays out six areas of financial health for retirees",
         "url": "https://www.housingwire.com/articles/aarp-financial-health-retirees/",
         "what": "Rising prices, Social Security uncertainty and record debt are compounding worries",
@@ -329,24 +347,6 @@
         "what": "The state is the first to put minimum lot sizes on the ballot, with a Nov",
         "numbers": "3, 5,000",
         "justified": "housingwire.com — https://www.housingwire.com/articles/ma-lot-size-ballot/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "New American Funding promotes Stacy Chevalier to Northwest regional VP",
-        "url": "https://www.housingwire.com/articles/naf-chevalier-northwest-vp/",
-        "what": "The lender said Chevalier will build teams and branches across five Northwest states",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/naf-chevalier-northwest-vp/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "LoanCare names Amy Jones chief information officer",
-        "url": "https://www.housingwire.com/articles/loancare-amy-jones-chief-information/",
-        "what": "Jones previously led customer technology and experience at Wellmark, and held servicing tech leadership roles at Wells Fargo",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/loancare-amy-jones-chief-information/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
