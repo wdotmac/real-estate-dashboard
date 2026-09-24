@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-24 04:50 UTC",
+  "as_of": "2026-09-24 15:06 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -17,36 +17,36 @@
   },
   "permits": {
     "florida": {
-      "latest": 16024,
-      "latest_date": "2026-07",
-      "mom": 0.1757282265756841,
-      "yoy": 0.09296773753495668,
-      "ytd": -0.14800117308503036,
-      "ytd_count": 92965,
+      "latest": 13980,
+      "latest_date": "2026-08",
+      "mom": -0.1275586620069895,
+      "yoy": 0.028394880094159136,
+      "ytd": -0.12845943214786326,
+      "ytd_count": 106945,
       "latest_year": 2026,
-      "latest_month_name": "Jul"
+      "latest_month_name": "Aug"
     },
     "msa": {
       "Orlando–Kissimmee–Sanford": {
         "total": {
-          "latest": 2008,
+          "latest": 1472,
           "latest_year": 2026,
-          "latest_month": 7,
-          "latest_month_name": "Jul",
-          "mom": 0.0813139472267097,
-          "yoy": -0.03554274735830931,
-          "ytd_yoy": -0.34553928095872166,
-          "ytd_count": 11796
+          "latest_month": 8,
+          "latest_month_name": "Aug",
+          "mom": -0.26693227091633465,
+          "yoy": -0.1073377804730139,
+          "ytd_yoy": -0.32557312052051035,
+          "ytd_count": 13268
         },
         "one_unit": {
-          "latest": 1179,
+          "latest": 1120,
           "latest_year": 2026,
-          "latest_month": 7,
-          "latest_month_name": "Jul",
-          "mom": -0.1444121915820029,
-          "yoy": 0.10912511759172161,
-          "ytd_yoy": -0.20171807079279658,
-          "ytd_count": 7713
+          "latest_month": 8,
+          "latest_month_name": "Aug",
+          "mom": -0.05004240882103472,
+          "yoy": 0.20819848975188782,
+          "ytd_yoy": -0.16583246765511384,
+          "ytd_count": 8833
         },
         "dom": {
           "days": 75,
@@ -56,24 +56,24 @@
       },
       "Tampa–St. Petersburg–Clearwater": {
         "total": {
-          "latest": 2473,
+          "latest": 2060,
           "latest_year": 2026,
-          "latest_month": 7,
-          "latest_month_name": "Jul",
-          "mom": 0.3425624321389793,
-          "yoy": 0.415569547796222,
-          "ytd_yoy": -0.04505164456816346,
-          "ytd_count": 13036
+          "latest_month": 8,
+          "latest_month_name": "Aug",
+          "mom": -0.16700363930448847,
+          "yoy": -0.29160935350756534,
+          "ytd_yoy": -0.08835074581798419,
+          "ytd_count": 15096
         },
         "one_unit": {
-          "latest": 1161,
+          "latest": 1282,
           "latest_year": 2026,
-          "latest_month": 7,
-          "latest_month_name": "Jul",
-          "mom": -0.06971153846153844,
-          "yoy": 0.018421052631578894,
-          "ytd_yoy": -0.0035249787285766,
-          "ytd_count": 8198
+          "latest_month": 8,
+          "latest_month_name": "Aug",
+          "mom": 0.10422049956933677,
+          "yoy": -0.031722054380664666,
+          "ytd_yoy": -0.007433776567898676,
+          "ytd_count": 9480
         },
         "dom": {
           "days": 74,
@@ -83,24 +83,24 @@
       },
       "Ocala": {
         "total": {
-          "latest": 453,
+          "latest": 362,
           "latest_year": 2026,
-          "latest_month": 7,
-          "latest_month_name": "Jul",
-          "mom": 0.01797752808988773,
-          "yoy": 0.027210884353741527,
-          "ytd_yoy": -0.08409596834034128,
-          "ytd_count": 3703
+          "latest_month": 8,
+          "latest_month_name": "Aug",
+          "mom": -0.20088300220750555,
+          "yoy": -0.2147505422993492,
+          "ytd_yoy": -0.09746891651865008,
+          "ytd_count": 4065
         },
         "one_unit": {
-          "latest": 443,
+          "latest": 342,
           "latest_year": 2026,
-          "latest_month": 7,
-          "latest_month_name": "Jul",
-          "mom": 0.0045351473922903285,
-          "yoy": 0.07263922518159815,
-          "ytd_yoy": 0.015886287625417994,
-          "ytd_count": 3645
+          "latest_month": 8,
+          "latest_month_name": "Aug",
+          "mom": -0.2279909706546276,
+          "yoy": -0.24168514412416853,
+          "ytd_yoy": -0.01287447387967322,
+          "ytd_count": 3987
         },
         "dom": {
           "days": 78,
@@ -110,24 +110,24 @@
       },
       "Palm Bay–Melbourne–Titusville": {
         "total": {
-          "latest": 750,
+          "latest": 530,
           "latest_year": 2026,
-          "latest_month": 7,
-          "latest_month_name": "Jul",
-          "mom": 0.7162471395881007,
-          "yoy": 0.37111517367458857,
-          "ytd_yoy": 0.05026347790839081,
-          "ytd_count": 2591
+          "latest_month": 8,
+          "latest_month_name": "Aug",
+          "mom": -0.29333333333333333,
+          "yoy": 0.3554987212276215,
+          "ytd_yoy": 0.09202239328201545,
+          "ytd_count": 3121
         },
         "one_unit": {
-          "latest": 328,
+          "latest": 314,
           "latest_year": 2026,
-          "latest_month": 7,
-          "latest_month_name": "Jul",
-          "mom": -0.24942791762013727,
-          "yoy": 0.19272727272727264,
-          "ytd_yoy": 0.07964161274265802,
-          "ytd_count": 2169
+          "latest_month": 8,
+          "latest_month_name": "Aug",
+          "mom": -0.04268292682926833,
+          "yoy": 0.3138075313807531,
+          "ytd_yoy": 0.10453736654804269,
+          "ytd_count": 2483
         },
         "dom": {
           "days": 71,
@@ -140,34 +140,39 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Unison faces another class-action lawsuit, this time in North Carolina",
-      "link": "https://www.housingwire.com/articles/unison-faces-another-class-action-lawsuit-this-time-in-north-carolina/",
-      "published": "Wed, 23 Sep 2026"
+      "title": "Better committee opens probe as Garg pushes to oust five directors",
+      "link": "https://www.housingwire.com/articles/better-committee-garg-probe/",
+      "published": "Thu, 24 Sep 2026"
     },
     {
-      "title": "KB Home’ build-to-order pivot pays off, but buyers remain cautious",
-      "link": "https://www.housingwire.com/articles/kb-home-q3-2026-earnings/",
-      "published": "Wed, 23 Sep 2026"
+      "title": "Lennar’s new Iowa division opens 5 Des Moines-area communities",
+      "link": "https://www.housingwire.com/articles/lennar-enters-des-moines-market/",
+      "published": "Thu, 24 Sep 2026"
     },
     {
-      "title": "Perchwell CEO on landmark MLS shift to next-generation tech",
-      "link": "https://www.housingwire.com/articles/perchwell-ceo-on-landmark-mls-shift-to-next-generation-tech/",
-      "published": "Wed, 23 Sep 2026"
+      "title": "Could BNPL reporting help more first-time homebuyers qualify?",
+      "link": "https://www.housingwire.com/articles/bnpl-credit-scores-mortgages/",
+      "published": "Thu, 24 Sep 2026"
     },
     {
-      "title": "AI won’t get sued over a bad listing — the agent will",
-      "link": "https://www.housingwire.com/articles/ai-listing-liability-agents/",
-      "published": "Wed, 23 Sep 2026"
+      "title": "Mortgage payments drop in August, giving buyers modest affordability gains",
+      "link": "https://www.housingwire.com/articles/mba-papi-august-affordability/",
+      "published": "Thu, 24 Sep 2026"
     },
     {
-      "title": "Hot economic data sends mortgage rates to yearly highs",
-      "link": "https://www.housingwire.com/articles/mortgage-spreads-yield-spike/",
-      "published": "Wed, 23 Sep 2026"
+      "title": "Uplist partners with Arcasa to show zero-down payments on listings",
+      "link": "https://www.housingwire.com/articles/uplist-arcasa-partner-down-payment/",
+      "published": "Thu, 24 Sep 2026"
     },
     {
-      "title": "SERHANT. upgrades S.MPLE AI platform with Dot assistant",
-      "link": "https://www.housingwire.com/articles/serhant-dot-smple-2/",
-      "published": "Wed, 23 Sep 2026"
+      "title": "Ginnie Mae’s Gormley signals no change to FHA MIP for now",
+      "link": "https://www.housingwire.com/articles/fha-mip-gormley-comments/",
+      "published": "Thu, 24 Sep 2026"
+    },
+    {
+      "title": "Las Vegas and Florida Are America’s Hottest Destinations For Relocating House Hunters",
+      "link": "https://www.redfin.com/news/migration-q2-2026/",
+      "published": "Thu, 24 Sep 2026"
     },
     {
       "title": "October Is the Best Time For Homebuyers to Score a Deal in These Major U.S. Metros",
@@ -193,21 +198,16 @@
       "title": "Pending Home Sales Dip to Lowest Level in Nearly 3 Years",
       "link": "https://www.redfin.com/news/housing-market-update-pending-sales-lowest-level-since-2023/",
       "published": "Thu, 17 Sep 2026"
-    },
-    {
-      "title": "Mortgage Rates Are Likely to Stay High as Fed Hikes Rates and Signals More to Come",
-      "link": "https://www.redfin.com/news/mortgage-rates-september-fed-meeting-2026/",
-      "published": "Wed, 16 Sep 2026"
     }
   ],
   "feed_101020": {
     "macro": [
       {
-        "title": "Hot economic data sends mortgage rates to yearly highs",
-        "url": "https://www.housingwire.com/articles/mortgage-spreads-yield-spike/",
-        "what": "The 10-year yield climbed to a level not seen since 2006 after hot PMI data and more hawkish Fed messaging",
-        "numbers": "10, 2006",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-spreads-yield-spike/",
+        "title": "Could BNPL reporting help more first-time homebuyers qualify?",
+        "url": "https://www.housingwire.com/articles/bnpl-credit-scores-mortgages/",
+        "what": "Fed estimates BNPL reached $70B in 2025, while FICO models now incorporate repayment data",
+        "numbers": "$70, 2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bnpl-credit-scores-mortgages/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -232,29 +232,56 @@
     ],
     "housing": [
       {
-        "title": "Perchwell CEO on landmark MLS shift to next-generation tech",
-        "url": "https://www.housingwire.com/articles/perchwell-ceo-on-landmark-mls-shift-to-next-generation-tech/",
-        "what": "Fairbanks says a recent MLS conversion represents a different pace of industry innovation",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/perchwell-ceo-on-landmark-mls-shift-to-next-generation-tech/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+        "title": "Mortgage payments drop in August, giving buyers modest affordability gains",
+        "url": "https://www.housingwire.com/articles/mba-papi-august-affordability/",
+        "what": "Median payment for purchase applicants fell to $2,162 and the index slipped 0.6% to 154.3",
+        "numbers": "$2,162, 0.6, 154.3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-papi-august-affordability/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Orion data exchange links MetroList, NNRMLS and ODS listings",
-        "url": "https://www.housingwire.com/articles/orion-mls-data-exchange/",
-        "what": "First phase delivers real-time, multistate access in a Rapattoni user environment, with primary system feeds planned later",
+        "title": "Uplist partners with Arcasa to show zero-down payments on listings",
+        "url": "https://www.housingwire.com/articles/uplist-arcasa-partner-down-payment/",
+        "what": "Buyers can compare standard financing vs",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/orion-mls-data-exchange/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uplist-arcasa-partner-down-payment/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "DRB Group to launch two mortgage joint ventures in 2027",
-        "url": "https://www.housingwire.com/articles/drb-group-mortgage-joint-ventures/",
-        "what": "DRB Group will launch DRB Mortgage and DRB Home Loans in January 2027 with Acrisure Mortgage and Alta Home Lending",
-        "numbers": "2027",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/drb-group-mortgage-joint-ventures/",
+        "title": "Ginnie Mae’s Gormley signals no change to FHA MIP for now",
+        "url": "https://www.housingwire.com/articles/fha-mip-gormley-comments/",
+        "what": "Joe Gormley calls the current structure for single-family and reverse mortgages ‘comfortable’",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-mip-gormley-comments/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Las Vegas and Florida Are America’s Hottest Destinations For Relocating House Hunters",
+        "url": "https://www.redfin.com/news/migration-q2-2026/",
+        "what": "Las Vegas, Florida and Sacramento are the most popular destinations for U.S",
+        "numbers": "9, 10, 19",
+        "justified": "redfin.com — https://www.redfin.com/news/migration-q2-2026/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "PLACE acquires Maxwell, adding mortgage fintech capabilities",
+        "url": "https://www.housingwire.com/articles/place-acquires-maxwell/",
+        "what": "Maxwell supports more than $130B in annual mortgage transactions",
+        "numbers": "$130",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/place-acquires-maxwell/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Why default servicing breaks at the handoffs",
+        "url": "https://www.housingwire.com/articles/default-servicing-handoffs/",
+        "what": "Five default servicing handoffs that cost mortgage investors, servicers and law firms time, visibility and money",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/default-servicing-handoffs/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -275,69 +302,42 @@
         "justified": "redfin.com — https://www.redfin.com/news/home-seller-concessions-august-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Pending Home Sales Dip to Lowest Level in Nearly 3 Years",
-        "url": "https://www.redfin.com/news/housing-market-update-pending-sales-lowest-level-since-2023/",
-        "what": "The homebuyers who remain in the market have more choices, less competition and more negotiating power",
-        "numbers": "13, 3.5, 3",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-sales-lowest-level-since-2023/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
       {
-        "title": "Unison faces another class-action lawsuit, this time in North Carolina",
-        "url": "https://www.housingwire.com/articles/unison-faces-another-class-action-lawsuit-this-time-in-north-carolina/",
-        "what": "The case is the latest example of home equity investment providers attracting regulatory and legal scrutiny across the country",
+        "title": "Better committee opens probe as Garg pushes to oust five directors",
+        "url": "https://www.housingwire.com/articles/better-committee-garg-probe/",
+        "what": "Better accuses Garg of offering company's assets to gain vote while Garg claims 46% support",
+        "numbers": "46",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-committee-garg-probe/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Lennar’s new Iowa division opens 5 Des Moines-area communities",
+        "url": "https://www.housingwire.com/articles/lennar-enters-des-moines-market/",
+        "what": "Lennar’s Iowa-market entry begins as model homes at five communities are set to open to the public in October",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/unison-faces-another-class-action-lawsuit-this-time-in-north-carolina/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lennar-enters-des-moines-market/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "KB Home’ build-to-order pivot pays off, but buyers remain cautious",
-        "url": "https://www.housingwire.com/articles/kb-home-q3-2026-earnings/",
-        "what": "Q3 2026 revenue fell 20% and deliveries dropped 19%, while gross margin spiked to 16.5%, up from 15.2% in Q2",
-        "numbers": "3, 2026, 20, 19, 16.5, 15.2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/kb-home-q3-2026-earnings/",
+        "title": "Bookspan Baker Team joins NEXA, launches umbrella brand",
+        "url": "https://www.housingwire.com/articles/bookspan-baker-team-joins-nexa/",
+        "what": "The team plans to keep its identity while tapping NEXA loan products and technology",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bookspan-baker-team-joins-nexa/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "AI won’t get sued over a bad listing — the agent will",
-        "url": "https://www.housingwire.com/articles/ai-listing-liability-agents/",
-        "what": "Per the National Association of Realtors' 2026 Technology Report, 48 percent of all Realtors use AI regularly",
-        "numbers": "2026, 48",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-listing-liability-agents/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "SERHANT. upgrades S.MPLE AI platform with Dot assistant",
-        "url": "https://www.housingwire.com/articles/serhant-dot-smple-2/",
-        "what": "S.MPLE 2.0 coordinates multiple AI agents for CMAs, marketing, transactions and follow ups",
-        "numbers": "2.0",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/serhant-dot-smple-2/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Labor imbalances plague the $230B kitchen and bath sector",
-        "url": "https://www.housingwire.com/articles/nkba-2026-skilled-labor-study/",
-        "what": "NKBA’s 2026 study shows skilled labor shortages in kitchen and bath are spreading, a limit to project capacity for remodelers",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nkba-2026-skilled-labor-study/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Stellar MLS expands into Hernando County, Florida via merger",
-        "url": "https://www.housingwire.com/articles/stellar-mls-hernando-county/",
-        "what": "The Florida-based MLS now covers 19 plus counties in the state and supports 75,000 customers across 20 associations in Florida and Puerto Rico",
-        "numbers": "19, 75,000, 20",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/stellar-mls-hernando-county/",
+        "title": "The silent failure mode: What happens when your AI model quietly gets worse",
+        "url": "https://www.housingwire.com/articles/ai-model-drift-monitoring/",
+        "what": "A product leader's field notes on model drift, and why \"it worked in testing\" is no longer good enough",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-model-drift-monitoring/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
