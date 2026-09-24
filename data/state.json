@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-09-24 19:09 UTC",
+  "as_of": "2026-09-24 22:24 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.96,
-      "delta_bp_1d": 0.0
+      "yield_pct": 5.11,
+      "delta_bp_1d": 15.000000000000036
     },
     "mortgage_30y": {
       "rate_pct": 7.03,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Why credit unions are missing the boat on reverse mortgage demand",
+      "link": "https://www.housingwire.com/articles/credit-unions-reverse-mortgage-demand/",
+      "published": "Thu, 24 Sep 2026"
+    },
+    {
+      "title": "Builders cut prices as new home supply holds at 8.5 months",
+      "link": "https://www.housingwire.com/articles/august-new-home-sales-incentives/",
+      "published": "Thu, 24 Sep 2026"
+    },
+    {
+      "title": "Land strategy math gets tougher for homebuilders in 2027–2029",
+      "link": "https://www.housingwire.com/articles/homebuilder-land-underwriting-shift/",
+      "published": "Thu, 24 Sep 2026"
+    },
+    {
       "title": "Concerns over outliving assets grow among non-retirees",
       "link": "https://www.housingwire.com/articles/concerns-over-outliving-assets-grow-among-non-retirees/",
       "published": "Thu, 24 Sep 2026"
     },
     {
-      "title": "HouseCanary’s bankruptcy fight is tied to a potential $260M payday from Rocket Close",
+      "title": "HouseCanary’s bankruptcy fight is tied to a $175M+ verdict against Rocket Close",
       "link": "https://www.housingwire.com/articles/housecanary-rocket-close-damages/",
       "published": "Thu, 24 Sep 2026"
     },
     {
       "title": "A new MLS ‘constitution?’ Hive MLS CEO Daniel Jones makes his case",
       "link": "https://www.housingwire.com/articles/a-new-mls-constitution-hive-mls-ceo-daniel-jones-makes-his-case/",
-      "published": "Thu, 24 Sep 2026"
-    },
-    {
-      "title": "Interlock ransomware claim triggers lawsuit against NFM Lending",
-      "link": "https://www.housingwire.com/articles/nfm-lending-interlock-breach/",
-      "published": "Thu, 24 Sep 2026"
-    },
-    {
-      "title": "New home sales are at an 8-month high but still stuck after 10 years",
-      "link": "https://www.housingwire.com/articles/builder-buydowns-new-home-sales/",
-      "published": "Thu, 24 Sep 2026"
-    },
-    {
-      "title": "HouseCanary files for chapter 11 bankruptcy in New Jersey",
-      "link": "https://www.housingwire.com/articles/housecanary-chapter-11-bankruptcy/",
       "published": "Thu, 24 Sep 2026"
     },
     {
@@ -232,7 +232,34 @@
     ],
     "housing": [
       {
-        "title": "HouseCanary’s bankruptcy fight is tied to a potential $260M payday from Rocket Close",
+        "title": "Why credit unions are missing the boat on reverse mortgage demand",
+        "url": "https://www.housingwire.com/articles/credit-unions-reverse-mortgage-demand/",
+        "what": "Credit unions originated very few of the 36,000 reverse mortgages in the past 12 months, executives told ACUMA attendees",
+        "numbers": "36,000, 12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/credit-unions-reverse-mortgage-demand/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Builders cut prices as new home supply holds at 8.5 months",
+        "url": "https://www.housingwire.com/articles/august-new-home-sales-incentives/",
+        "what": "Median price fell 5.8% year over year and supply held at 8.5 months as buydowns remain entrenched",
+        "numbers": "5.8, 8.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/august-new-home-sales-incentives/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Land strategy math gets tougher for homebuilders in 2027–2029",
+        "url": "https://www.housingwire.com/articles/homebuilder-land-underwriting-shift/",
+        "what": "Acres says its expanded platform covers 1,000-plus metros and 3,000-plus counties using 155 million parcel records",
+        "numbers": "1,000, 3,000, 155 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-land-underwriting-shift/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "HouseCanary’s bankruptcy fight is tied to a $175M+ verdict against Rocket Close",
         "url": "https://www.housingwire.com/articles/housecanary-rocket-close-damages/",
         "what": "Court filings cite a $30M loan default and a pending final judgment on 2026 damages",
         "numbers": "$30, 2026",
@@ -248,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/more-renters-struggling-with-monthly-housing-costs/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Google invests in HBI program linking veterans to building careers",
-        "url": "https://www.housingwire.com/articles/hbi-google-trades-training/",
-        "what": "Homebuilders are short an estimated 700,000 construction workers a year, costing the industry $10.8B annually, HBI reports",
-        "numbers": "700,000, $10.8",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hbi-google-trades-training/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Las Vegas and Florida Are America’s Hottest Destinations For Relocating House Hunters",
@@ -320,24 +338,6 @@
         "what": "Petitions list more than $50 million in assets and at least $50 million in liabilities across 6 affiliated debtors",
         "numbers": "$50 million, 6",
         "justified": "housingwire.com — https://www.housingwire.com/articles/housecanary-chapter-11-bankruptcy/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Better, Garg face securities class action tied to volume guidance",
-        "url": "https://www.housingwire.com/articles/better-securities-class-action/",
-        "what": "Lawsuit alleges Better overstated resilience to macro conditions",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-securities-class-action/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "This Florida brokerage built an AI prospect so agents can practice before the real call",
-        "url": "https://www.housingwire.com/articles/ai-agent-training-tool-built-by-brokerage/",
-        "what": "Scenarios vary from call to call to prevent agents from memorizing responses",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-agent-training-tool-built-by-brokerage/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
