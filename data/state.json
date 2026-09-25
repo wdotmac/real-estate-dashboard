@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-25 13:46 UTC",
+  "as_of": "2026-09-25 18:36 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Costa Mesa okays 2,300 homes as California pursues its lawsuit",
-      "link": "https://www.housingwire.com/articles/costa-mesa-housing-element/",
+      "title": "Proposal seeks to standardize MSR accounting for recapture values",
+      "link": "https://www.housingwire.com/articles/fasb-msr-recapture-proposal/",
       "published": "Fri, 25 Sep 2026"
     },
     {
-      "title": "HouseCanary bankruptcy gets first day court approval",
-      "link": "https://www.housingwire.com/articles/housecanary-bankruptcy-court-approval/",
+      "title": "Gateless Smart Underwrite earns AZP Platinum AI certification",
+      "link": "https://www.housingwire.com/articles/gateless-platinum-ai-underwriting/",
       "published": "Fri, 25 Sep 2026"
     },
     {
-      "title": "Two competing Chicago rent ordinances head for a showdown",
-      "link": "https://www.housingwire.com/articles/chicago-pro-fair-rental-ordinances/",
+      "title": "Experian integrates Verify with Workday for income verification",
+      "link": "https://www.housingwire.com/articles/experian-integrates-verify-workday/",
       "published": "Fri, 25 Sep 2026"
     },
     {
-      "title": "Search and exam is still mostly manual in an automated industry. But why?",
-      "link": "https://www.housingwire.com/articles/title-search-exam-manual/",
+      "title": "New Jersey looks to remove home interior photos upon buyer request",
+      "link": "https://www.housingwire.com/articles/new-jersey-looks-to-remove-home-interior-photos-upon-buyer-request/",
       "published": "Fri, 25 Sep 2026"
     },
     {
-      "title": "Why credit unions are missing the boat on reverse mortgage demand",
-      "link": "https://www.housingwire.com/articles/credit-unions-reverse-mortgage-demand/",
-      "published": "Thu, 24 Sep 2026"
+      "title": "How mortgage brokers can tap into underserved VA markets",
+      "link": "https://www.housingwire.com/articles/va-loans-brokers-aime/",
+      "published": "Fri, 25 Sep 2026"
     },
     {
-      "title": "Builders cut prices as new home supply holds at 8.5 months",
-      "link": "https://www.housingwire.com/articles/august-new-home-sales-incentives/",
-      "published": "Thu, 24 Sep 2026"
+      "title": "Institute for Luxury Home Marketing launches property search platform",
+      "link": "https://www.housingwire.com/articles/institute-for-luxury-home-marketing-launches-property-search-platform/",
+      "published": "Fri, 25 Sep 2026"
     },
     {
       "title": "Las Vegas and Florida Are America’s Hottest Destinations For Relocating House Hunters",
@@ -203,6 +203,24 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Experian integrates Verify with Workday for income verification",
+        "url": "https://www.housingwire.com/articles/experian-integrates-verify-workday/",
+        "what": "Experian says its Verify network has a path to cover more than 80 million payroll records across the U.S.",
+        "numbers": "80 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/experian-integrates-verify-workday/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Judge dismisses UWM 401(k) forfeiture lawsuit under ERISA",
+        "url": "https://www.housingwire.com/articles/judge-dismisses-uwm-lawsuit/",
+        "what": "Michigan federal judge said plan terms allowed forfeitures to reduce employer contributions when not used for plan expenses",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/judge-dismisses-uwm-lawsuit/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "October Is the Best Time For Homebuyers to Score a Deal in These Major U.S. Metros",
         "url": "https://www.redfin.com/news/october-best-time-to-buy-home-us-metros/",
         "what": "Early October is typically the best time for homebuyers to score a deal in Boston, Chicago, and a few other U.S",
@@ -223,49 +241,22 @@
     ],
     "housing": [
       {
-        "title": "Two competing Chicago rent ordinances head for a showdown",
-        "url": "https://www.housingwire.com/articles/chicago-pro-fair-rental-ordinances/",
-        "what": "The two plans set up a broader clash over renter protections versus housing supply and construction incentives",
+        "title": "How mortgage brokers can tap into underserved VA markets",
+        "url": "https://www.housingwire.com/articles/va-loans-brokers-aime/",
+        "what": "At AIME Fuse, VA lending experts addressed product misconceptions, targeted borrower outreach strategies and a creative renovation solution",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/chicago-pro-fair-rental-ordinances/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/va-loans-brokers-aime/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Institute for Luxury Home Marketing launches property search platform",
+        "url": "https://www.housingwire.com/articles/institute-for-luxury-home-marketing-launches-property-search-platform/",
+        "what": "The platform is available to the Institute’s more than 11,000 current members",
+        "numbers": "11,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/institute-for-luxury-home-marketing-launches-property-search-platform/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Why credit unions are missing the boat on reverse mortgage demand",
-        "url": "https://www.housingwire.com/articles/credit-unions-reverse-mortgage-demand/",
-        "what": "Credit unions originated very few of the 36,000 reverse mortgages in the past 12 months, executives told ACUMA attendees",
-        "numbers": "36,000, 12",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/credit-unions-reverse-mortgage-demand/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Builders cut prices as new home supply holds at 8.5 months",
-        "url": "https://www.housingwire.com/articles/august-new-home-sales-incentives/",
-        "what": "Median price fell 5.8% year over year and supply held at 8.5 months as buydowns remain entrenched",
-        "numbers": "5.8, 8.5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/august-new-home-sales-incentives/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Land strategy math gets tougher for homebuilders in 2027–2029",
-        "url": "https://www.housingwire.com/articles/homebuilder-land-underwriting-shift/",
-        "what": "Acres says its expanded platform covers 1,000-plus metros and 3,000-plus counties using 155 million parcel records",
-        "numbers": "1,000, 3,000, 155 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-land-underwriting-shift/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "HouseCanary’s bankruptcy fight is tied to a $175M+ verdict against Rocket Close",
-        "url": "https://www.housingwire.com/articles/housecanary-rocket-close-damages/",
-        "what": "Court filings cite a $30M loan default and a pending final judgment on 2026 damages",
-        "numbers": "$30, 2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housecanary-rocket-close-damages/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Las Vegas and Florida Are America’s Hottest Destinations For Relocating House Hunters",
@@ -288,49 +279,58 @@
     ],
     "notables": [
       {
-        "title": "Costa Mesa okays 2,300 homes as California pursues its lawsuit",
-        "url": "https://www.housingwire.com/articles/costa-mesa-housing-element/",
-        "what": "The state requires Costa Mesa to plan for 11,760 homes by 2029, or face potential penalties and zoning limits",
-        "numbers": "11,760, 2029,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/costa-mesa-housing-element/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "HouseCanary bankruptcy gets first day court approval",
-        "url": "https://www.housingwire.com/articles/housecanary-bankruptcy-court-approval/",
-        "what": "New Jersey bankruptcy court approved first-day motions and access to DIP financing after a $30 million loan default",
-        "numbers": "$30 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housecanary-bankruptcy-court-approval/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Search and exam is still mostly manual in an automated industry. But why?",
-        "url": "https://www.housingwire.com/articles/title-search-exam-manual/",
-        "what": "Trust and liability keep humans in the loop, even as mechanical title work is suited to automation",
+        "title": "Proposal seeks to standardize MSR accounting for recapture values",
+        "url": "https://www.housingwire.com/articles/fasb-msr-recapture-proposal/",
+        "what": "Analysts say the change should boost transparency but is unlikely to move MSR carrying values",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/title-search-exam-manual/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fasb-msr-recapture-proposal/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Concerns over outliving assets grow among non-retirees",
-        "url": "https://www.housingwire.com/articles/concerns-over-outliving-assets-grow-among-non-retirees/",
-        "what": "Most non-retired Americans find the idea of no more regular paychecks concerning",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/concerns-over-outliving-assets-grow-among-non-retirees/",
+        "title": "Gateless Smart Underwrite earns AZP Platinum AI certification",
+        "url": "https://www.housingwire.com/articles/gateless-platinum-ai-underwriting/",
+        "what": "AZP cited 230,000 loans with no reported claims and a framework focused on governance and auditability",
+        "numbers": "230,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gateless-platinum-ai-underwriting/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "A new MLS ‘constitution?’ Hive MLS CEO Daniel Jones makes his case",
-        "url": "https://www.housingwire.com/articles/a-new-mls-constitution-hive-mls-ceo-daniel-jones-makes-his-case/",
-        "what": "The declaration arrives as MLS leaders confront questions involving private listing strategies, data ownership and much more",
+        "title": "New Jersey looks to remove home interior photos upon buyer request",
+        "url": "https://www.housingwire.com/articles/new-jersey-looks-to-remove-home-interior-photos-upon-buyer-request/",
+        "what": "Failure to comply carries real consequences for licensees",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/a-new-mls-constitution-hive-mls-ceo-daniel-jones-makes-his-case/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-jersey-looks-to-remove-home-interior-photos-upon-buyer-request/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "MLSs are changing. So is their relationship with Realtor associations",
+        "url": "https://www.housingwire.com/articles/mls-association-separation-mergers/",
+        "what": "Leaders point to consolidation, shifting ownership stakes, and governance changes as drivers of new operating models",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-association-separation-mergers/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Why file ops costs are the next pressure point for brokerages",
+        "url": "https://www.housingwire.com/articles/real-estate-file-ops-costs/",
+        "what": "The commentary argues many transaction tools track tasks but do not draft, chase signatures, or complete disclosures end to end",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-file-ops-costs/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Climate risk is turning insurance and resilience into deal factors",
+        "url": "https://www.housingwire.com/articles/insurance-climate-resilience-luxury/",
+        "what": "As only about 25% of EU climate catastrophe losses are insured, buyers are factoring long-term costs into pricing decisions",
+        "numbers": "25",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/insurance-climate-resilience-luxury/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
