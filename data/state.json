@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-09-25 18:36 UTC",
+  "as_of": "2026-09-25 22:19 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.11,
-      "delta_bp_1d": 15.000000000000036
+      "yield_pct": 5.18,
+      "delta_bp_1d": 6.99999999999994
     },
     "mortgage_30y": {
       "rate_pct": 7.03,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Where builder discounts are biggest and who is still buying",
+      "link": "https://www.housingwire.com/articles/builder-marketing-2027-planning/",
+      "published": "Fri, 25 Sep 2026"
+    },
+    {
       "title": "Proposal seeks to standardize MSR accounting for recapture values",
       "link": "https://www.housingwire.com/articles/fasb-msr-recapture-proposal/",
       "published": "Fri, 25 Sep 2026"
@@ -162,11 +167,6 @@
     {
       "title": "How mortgage brokers can tap into underserved VA markets",
       "link": "https://www.housingwire.com/articles/va-loans-brokers-aime/",
-      "published": "Fri, 25 Sep 2026"
-    },
-    {
-      "title": "Institute for Luxury Home Marketing launches property search platform",
-      "link": "https://www.housingwire.com/articles/institute-for-luxury-home-marketing-launches-property-search-platform/",
       "published": "Fri, 25 Sep 2026"
     },
     {
@@ -240,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Where builder discounts are biggest and who is still buying",
+        "url": "https://www.housingwire.com/articles/builder-marketing-2027-planning/",
+        "what": "Audience Town analyzed 201,000 sales across 25 markets and found every market sold below asking",
+        "numbers": "201,000, 25",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/builder-marketing-2027-planning/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
       {
         "title": "How mortgage brokers can tap into underserved VA markets",
         "url": "https://www.housingwire.com/articles/va-loans-brokers-aime/",
@@ -320,15 +329,6 @@
         "what": "The commentary argues many transaction tools track tasks but do not draft, chase signatures, or complete disclosures end to end",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-file-ops-costs/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Climate risk is turning insurance and resilience into deal factors",
-        "url": "https://www.housingwire.com/articles/insurance-climate-resilience-luxury/",
-        "what": "As only about 25% of EU climate catastrophe losses are insured, buyers are factoring long-term costs into pricing decisions",
-        "numbers": "25",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/insurance-climate-resilience-luxury/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
