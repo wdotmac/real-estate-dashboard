@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-25 07:48 UTC",
+  "as_of": "2026-09-25 13:46 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Costa Mesa okays 2,300 homes as California pursues its lawsuit",
+      "link": "https://www.housingwire.com/articles/costa-mesa-housing-element/",
+      "published": "Fri, 25 Sep 2026"
+    },
+    {
+      "title": "HouseCanary bankruptcy gets first day court approval",
+      "link": "https://www.housingwire.com/articles/housecanary-bankruptcy-court-approval/",
+      "published": "Fri, 25 Sep 2026"
+    },
+    {
+      "title": "Two competing Chicago rent ordinances head for a showdown",
+      "link": "https://www.housingwire.com/articles/chicago-pro-fair-rental-ordinances/",
+      "published": "Fri, 25 Sep 2026"
+    },
+    {
       "title": "Search and exam is still mostly manual in an automated industry. But why?",
       "link": "https://www.housingwire.com/articles/title-search-exam-manual/",
       "published": "Fri, 25 Sep 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Builders cut prices as new home supply holds at 8.5 months",
       "link": "https://www.housingwire.com/articles/august-new-home-sales-incentives/",
-      "published": "Thu, 24 Sep 2026"
-    },
-    {
-      "title": "Land strategy math gets tougher for homebuilders in 2027–2029",
-      "link": "https://www.housingwire.com/articles/homebuilder-land-underwriting-shift/",
-      "published": "Thu, 24 Sep 2026"
-    },
-    {
-      "title": "Concerns over outliving assets grow among non-retirees",
-      "link": "https://www.housingwire.com/articles/concerns-over-outliving-assets-grow-among-non-retirees/",
-      "published": "Thu, 24 Sep 2026"
-    },
-    {
-      "title": "HouseCanary’s bankruptcy fight is tied to a $175M+ verdict against Rocket Close",
-      "link": "https://www.housingwire.com/articles/housecanary-rocket-close-damages/",
       "published": "Thu, 24 Sep 2026"
     },
     {
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "New home sales are at an 8-month high but still stuck after 10 years",
-        "url": "https://www.housingwire.com/articles/builder-buydowns-new-home-sales/",
-        "what": "Sales reached a 684,000 annual rate, but higher mortgage rates may pressure builder margins and confidence",
-        "numbers": "684,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/builder-buydowns-new-home-sales/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "October Is the Best Time For Homebuyers to Score a Deal in These Major U.S. Metros",
         "url": "https://www.redfin.com/news/october-best-time-to-buy-home-us-metros/",
         "what": "Early October is typically the best time for homebuyers to score a deal in Boston, Chicago, and a few other U.S",
@@ -231,6 +222,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Two competing Chicago rent ordinances head for a showdown",
+        "url": "https://www.housingwire.com/articles/chicago-pro-fair-rental-ordinances/",
+        "what": "The two plans set up a broader clash over renter protections versus housing supply and construction incentives",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/chicago-pro-fair-rental-ordinances/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
       {
         "title": "Why credit unions are missing the boat on reverse mortgage demand",
         "url": "https://www.housingwire.com/articles/credit-unions-reverse-mortgage-demand/",
@@ -284,18 +284,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/home-price-index-august-2026/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Nearly Half of Homebuyers Get Concessions From Sellers as Most Markets Tip in Buyers’ Favor",
-        "url": "https://www.redfin.com/news/home-seller-concessions-august-2026/",
-        "what": "Seller concessions are rising because today’s buyer’s market gives house hunters power to negotiate for closing costs, repairs and other perks",
-        "numbers": "7, 10",
-        "justified": "redfin.com — https://www.redfin.com/news/home-seller-concessions-august-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
+      {
+        "title": "Costa Mesa okays 2,300 homes as California pursues its lawsuit",
+        "url": "https://www.housingwire.com/articles/costa-mesa-housing-element/",
+        "what": "The state requires Costa Mesa to plan for 11,760 homes by 2029, or face potential penalties and zoning limits",
+        "numbers": "11,760, 2029,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/costa-mesa-housing-element/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "HouseCanary bankruptcy gets first day court approval",
+        "url": "https://www.housingwire.com/articles/housecanary-bankruptcy-court-approval/",
+        "what": "New Jersey bankruptcy court approved first-day motions and access to DIP financing after a $30 million loan default",
+        "numbers": "$30 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housecanary-bankruptcy-court-approval/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Search and exam is still mostly manual in an automated industry. But why?",
         "url": "https://www.housingwire.com/articles/title-search-exam-manual/",
@@ -322,24 +331,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/a-new-mls-constitution-hive-mls-ceo-daniel-jones-makes-his-case/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Interlock ransomware claim triggers lawsuit against NFM Lending",
-        "url": "https://www.housingwire.com/articles/nfm-lending-interlock-breach/",
-        "what": "Interlock claimed the breach involved more than 2.5 terabytes of files",
-        "numbers": "2.5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nfm-lending-interlock-breach/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "HouseCanary files for chapter 11 bankruptcy in New Jersey",
-        "url": "https://www.housingwire.com/articles/housecanary-chapter-11-bankruptcy/",
-        "what": "Petitions list more than $50 million in assets and at least $50 million in liabilities across 6 affiliated debtors",
-        "numbers": "$50 million, 6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housecanary-chapter-11-bankruptcy/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
