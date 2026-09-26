@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-26 07:40 UTC",
+  "as_of": "2026-09-26 13:05 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Compass asks MLSs to block listing data from recruiting tools",
+      "link": "https://www.housingwire.com/articles/compass-mls-recruiting-data/",
+      "published": "Sat, 26 Sep 2026"
+    },
+    {
       "title": "Where builder discounts are biggest and who is still buying",
       "link": "https://www.housingwire.com/articles/builder-marketing-2027-planning/",
       "published": "Fri, 25 Sep 2026"
@@ -162,11 +167,6 @@
     {
       "title": "New Jersey looks to remove home interior photos upon buyer request",
       "link": "https://www.housingwire.com/articles/new-jersey-looks-to-remove-home-interior-photos-upon-buyer-request/",
-      "published": "Fri, 25 Sep 2026"
-    },
-    {
-      "title": "How mortgage brokers can tap into underserved VA markets",
-      "link": "https://www.housingwire.com/articles/va-loans-brokers-aime/",
       "published": "Fri, 25 Sep 2026"
     },
     {
@@ -288,6 +288,15 @@
     ],
     "notables": [
       {
+        "title": "Compass asks MLSs to block listing data from recruiting tools",
+        "url": "https://www.housingwire.com/articles/compass-mls-recruiting-data/",
+        "what": "Letter seeks opt-out from non-IDX and VOW vendor feeds, with a 30-day deadline",
+        "numbers": "30",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-mls-recruiting-data/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Proposal seeks to standardize MSR accounting for recapture values",
         "url": "https://www.housingwire.com/articles/fasb-msr-recapture-proposal/",
         "what": "Analysts say the change should boost transparency but is unlikely to move MSR carrying values",
@@ -320,15 +329,6 @@
         "what": "Leaders point to consolidation, shifting ownership stakes, and governance changes as drivers of new operating models",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mls-association-separation-mergers/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Why file ops costs are the next pressure point for brokerages",
-        "url": "https://www.housingwire.com/articles/real-estate-file-ops-costs/",
-        "what": "The commentary argues many transaction tools track tasks but do not draft, chase signatures, or complete disclosures end to end",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-file-ops-costs/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
