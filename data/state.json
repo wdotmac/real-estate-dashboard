@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-27 18:23 UTC",
+  "as_of": "2026-09-27 22:10 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage rates have gone wild, so what’s next for housing?",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-have-gone-wild-so-whats-next-for-housing/",
+      "published": "Sun, 27 Sep 2026"
+    },
+    {
       "title": "Compass asks MLSs to block listing data from recruiting tools",
       "link": "https://www.housingwire.com/articles/compass-mls-recruiting-data/",
       "published": "Sat, 26 Sep 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Experian integrates Verify with Workday for income verification",
       "link": "https://www.housingwire.com/articles/experian-integrates-verify-workday/",
-      "published": "Fri, 25 Sep 2026"
-    },
-    {
-      "title": "New Jersey looks to remove home interior photos upon buyer request",
-      "link": "https://www.housingwire.com/articles/new-jersey-looks-to-remove-home-interior-photos-upon-buyer-request/",
       "published": "Fri, 25 Sep 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage rates have gone wild, so what’s next for housing?",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-have-gone-wild-so-whats-next-for-housing/",
+        "what": "Rates near 7.5% plus volatility delivered a clear hit to weekly demand",
+        "numbers": "7.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-have-gone-wild-so-whats-next-for-housing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Experian integrates Verify with Workday for income verification",
         "url": "https://www.housingwire.com/articles/experian-integrates-verify-workday/",
@@ -320,15 +329,6 @@
         "what": "Failure to comply carries real consequences for licensees",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/new-jersey-looks-to-remove-home-interior-photos-upon-buyer-request/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "MLSs are changing. So is their relationship with Realtor associations",
-        "url": "https://www.housingwire.com/articles/mls-association-separation-mergers/",
-        "what": "Leaders point to consolidation, shifting ownership stakes, and governance changes as drivers of new operating models",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-association-separation-mergers/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
