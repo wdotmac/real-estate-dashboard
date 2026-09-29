@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-09-29 15:51 UTC",
+  "as_of": "2026-09-29 20:46 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.17,
-      "delta_bp_1d": -0.9999999999999787
+      "yield_pct": 5.24,
+      "delta_bp_1d": 7.000000000000028
     },
     "mortgage_30y": {
       "rate_pct": 7.03,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Signature Homes thinks 100-day builds can win in a smaller market",
+      "link": "https://www.housingwire.com/articles/signature-homes-100-day-build/",
+      "published": "Tue, 29 Sep 2026"
+    },
+    {
+      "title": "FHFA says Fannie, Freddie will use one LLPA grid for FICO and VantageScore",
+      "link": "https://www.housingwire.com/articles/fhfa-gses-one-grid/",
+      "published": "Tue, 29 Sep 2026"
+    },
+    {
+      "title": "NRMLA says it will keep pushing for HECM insurance changes after remarks by Ginnie Mae president",
+      "link": "https://www.housingwire.com/articles/nrmla-hecm-upfront-mip/",
+      "published": "Tue, 29 Sep 2026"
+    },
+    {
+      "title": "Home prices up 1.9% annually in July — energy, fuel costs loom",
+      "link": "https://www.housingwire.com/articles/home-prices-up-1-9-annually-in-july-energy-fuel-costs-loom/",
+      "published": "Tue, 29 Sep 2026"
+    },
+    {
       "title": "How real estate agents can build business without waiting on rates or inventory",
       "link": "https://www.housingwire.com/articles/real-estate-agents-build-business-now/",
       "published": "Tue, 29 Sep 2026"
@@ -147,26 +167,6 @@
     {
       "title": "West Capital Lending hires Michael Cecero and 33-person team",
       "link": "https://www.housingwire.com/articles/west-capital-lending-cecero-team/",
-      "published": "Tue, 29 Sep 2026"
-    },
-    {
-      "title": "Valera Homes debuts in Houston with focus on attainable housing",
-      "link": "https://www.housingwire.com/articles/valera-homes-launches-greater-houston/",
-      "published": "Tue, 29 Sep 2026"
-    },
-    {
-      "title": "A Florida agent playbook for rate pressure and longer market times",
-      "link": "https://www.housingwire.com/articles/florida-buyers-wait-sellers-concede/",
-      "published": "Tue, 29 Sep 2026"
-    },
-    {
-      "title": "Elio Mortgage launches with $5.1M preseed funding",
-      "link": "https://www.housingwire.com/articles/elio-mortgage-5-1m-preseed/",
-      "published": "Tue, 29 Sep 2026"
-    },
-    {
-      "title": "Nor’easter highlights El Niño weather risks for homebuilders",
-      "link": "https://www.housingwire.com/articles/el-nino-winter-builder-operating-risks/",
       "published": "Tue, 29 Sep 2026"
     },
     {
@@ -203,29 +203,29 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "FHFA says Fannie, Freddie will use one LLPA grid for FICO and VantageScore",
+        "url": "https://www.housingwire.com/articles/fhfa-gses-one-grid/",
+        "what": "Change follows lender feedback after VantageScore 4.0 was approved for eligible conventional loans earlier this month",
+        "numbers": "4.0",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-gses-one-grid/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "NRMLA says it will keep pushing for HECM insurance changes after remarks by Ginnie Mae president",
+        "url": "https://www.housingwire.com/articles/nrmla-hecm-upfront-mip/",
+        "what": "NRMLA President Steve Irwin said the trade group will continue to lobby HUD, FHA on lowering the upfront mortgage insurance premium for federally insured reverse mortgages",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nrmla-hecm-upfront-mip/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "How real estate agents can build business without waiting on rates or inventory",
         "url": "https://www.housingwire.com/articles/real-estate-agents-build-business-now/",
         "what": "This checklist prioritizes relationship reactivation, one monthly process improvement and consistent publishing that stays useful instead of promotional",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-agents-build-business-now/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Rocket Mortgage will make VantageScore 4.0 its default credit model",
-        "url": "https://www.housingwire.com/articles/rocket-mortgage-vantagescore-model/",
-        "what": "Rocket says a 4-month test using 1.4 million reports helped some borrowers qualify and improved pricing outcomes",
-        "numbers": "4, 1.4 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-mortgage-vantagescore-model/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Inflation and housing costs are squeezing senior homeowners, Longbridge survey finds",
-        "url": "https://www.housingwire.com/articles/inflation-housing-costs-older-homeowners-longbridge-2026-index/",
-        "what": "Only 28% of homeowners 55+ expect their finances to improve soon, with financial confidence split sharply by income and gender",
-        "numbers": "28, 55",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/inflation-housing-costs-older-homeowners-longbridge-2026-index/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -240,6 +240,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Signature Homes thinks 100-day builds can win in a smaller market",
+        "url": "https://www.housingwire.com/articles/signature-homes-100-day-build/",
+        "what": "Builder expects 530 closings and $430 million revenue in 2026, with 304 net orders in the first half",
+        "numbers": "530, $430 million, 2026,, 304",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/signature-homes-100-day-build/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Home prices up 1.9% annually in July — energy, fuel costs loom",
+        "url": "https://www.housingwire.com/articles/home-prices-up-1-9-annually-in-july-energy-fuel-costs-loom/",
+        "what": "Seattle recorded the largest annual decline for the second consecutive month",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/home-prices-up-1-9-annually-in-july-energy-fuel-costs-loom/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Valera Homes debuts in Houston with focus on attainable housing",
         "url": "https://www.housingwire.com/articles/valera-homes-launches-greater-houston/",
@@ -266,15 +284,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/el-nino-winter-builder-operating-risks/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "The modern lender’s playbook: Creating more confident borrowers",
-        "url": "https://www.housingwire.com/articles/mortgage-fee-transparency-playbook/",
-        "what": "New findings from the ServiceLink Loan Officer Report reveal how mortgage fee transparency and education can become a competitive advantage",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-fee-transparency-playbook/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Las Vegas and Florida Are America’s Hottest Destinations For Relocating House Hunters",
@@ -304,15 +313,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/florida-buyers-wait-sellers-concede/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Stellar MLS launches consumer portal built on BPP Cribio",
-        "url": "https://www.housingwire.com/articles/stellar-bpp-cribio-portal/",
-        "what": "The ad-free site emphasizes broker and agent attribution and is free to use on desktop and mobile browsers",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/stellar-bpp-cribio-portal/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
