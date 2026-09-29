@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-09-28 15:27 UTC",
+  "as_of": "2026-09-29 01:57 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.18,
-      "delta_bp_1d": 6.99999999999994
+      "yield_pct": 5.17,
+      "delta_bp_1d": -0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 7.03,
@@ -140,33 +140,38 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "UWM names Vandad Fartaj as first chief investment officer",
-      "link": "https://www.housingwire.com/articles/uwm-chief-investment-fartaj/",
+      "title": "Are 9% mortgage rates possible?",
+      "link": "https://www.housingwire.com/articles/are-9-mortgage-rates-possible/",
       "published": "Mon, 28 Sep 2026"
     },
     {
-      "title": "CFPB examiner sues bureau over race discrimination claims",
-      "link": "https://www.housingwire.com/articles/cfpb-race-discrimination-lawsuit/",
+      "title": "From policy to a path forward",
+      "link": "https://www.housingwire.com/articles/california-disaster-rebuilding-portal/",
       "published": "Mon, 28 Sep 2026"
     },
     {
-      "title": "Should agents disclose restricted real estate licenses to clients?",
-      "link": "https://www.housingwire.com/articles/disclose-restricted-real-estate-license/",
+      "title": "Is technology changing the economics?",
+      "link": "https://www.housingwire.com/articles/cost-originate-ai-economics/",
       "published": "Mon, 28 Sep 2026"
     },
     {
-      "title": "Realtracs expands in Tennessee with RCAR and GSMAR",
-      "link": "https://www.housingwire.com/articles/realtracs-tennessee-rcar-gsmar/",
+      "title": "UWM’s Mat Ishbia backs VantageScore 4.0, says Underwriting+ results are ‘off the charts’",
+      "link": "https://www.housingwire.com/articles/uwm-ishbia-vantagescore-4-mortgages/",
       "published": "Mon, 28 Sep 2026"
     },
     {
-      "title": "CubiCasa, Restb.ai expand floor plan services for MLSs",
-      "link": "https://www.housingwire.com/articles/cubicasa-restb-ai-expand-floor-plan-services-for-mlss/",
+      "title": "Lennar’s “home within a home” targets multigenerational demand",
+      "link": "https://www.housingwire.com/articles/lennar-multigenerational-demand/",
       "published": "Mon, 28 Sep 2026"
     },
     {
-      "title": "Eric Lovins on Luminate Bank’s reverse mortgage growth, M&A strategy",
-      "link": "https://www.housingwire.com/articles/luminate-bank-reverse-mortgage/",
+      "title": "Sitzer settlement survives another challenge as attorneys fight over $120M commission fund",
+      "link": "https://www.housingwire.com/articles/eighth-circuit-sitzer-rehearing-denied/",
+      "published": "Mon, 28 Sep 2026"
+    },
+    {
+      "title": "Mortgage Rates Jump as Markets Price in More Fed Rate Hikes",
+      "link": "https://www.redfin.com/news/mortgage-rates-rise-economic-concerns/",
       "published": "Mon, 28 Sep 2026"
     },
     {
@@ -193,23 +198,45 @@
       "title": "Nearly Half of Homebuyers Get Concessions From Sellers as Most Markets Tip in Buyers’ Favor",
       "link": "https://www.redfin.com/news/home-seller-concessions-august-2026/",
       "published": "Fri, 18 Sep 2026"
-    },
-    {
-      "title": "Pending Home Sales Dip to Lowest Level in Nearly 3 Years",
-      "link": "https://www.redfin.com/news/housing-market-update-pending-sales-lowest-level-since-2023/",
-      "published": "Thu, 17 Sep 2026"
     }
   ],
   "feed_101020": {
     "macro": [
       {
-        "title": "Mortgage rates have gone wild, so what’s next for housing?",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-have-gone-wild-so-whats-next-for-housing/",
-        "what": "Rates near 7.5% plus volatility delivered a clear hit to weekly demand",
-        "numbers": "7.5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-have-gone-wild-so-whats-next-for-housing/",
+        "title": "Are 9% mortgage rates possible?",
+        "url": "https://www.housingwire.com/articles/are-9-mortgage-rates-possible/",
+        "what": "Without a 10-year move above 6% and the spreads widening, the math does not support 9%",
+        "numbers": "10, 6, 9",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/are-9-mortgage-rates-possible/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Mortgage Rates Jump as Markets Price in More Fed Rate Hikes",
+        "url": "https://www.redfin.com/news/mortgage-rates-rise-economic-concerns/",
+        "what": "In A Nutshell: Mortgage rates have shot up as a number of economic concerns come together in a perfect storm",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-rise-economic-concerns/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Is technology changing the economics?",
+        "url": "https://www.housingwire.com/articles/cost-originate-ai-economics/",
+        "what": "AI is reshaping mortgage economics, but lowering the cost to originate requires disciplined processes, measurable ROI and accountability across the organization.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cost-originate-ai-economics/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "UWM’s Mat Ishbia backs VantageScore 4.0, says Underwriting+ results are ‘off the charts’",
+        "url": "https://www.housingwire.com/articles/uwm-ishbia-vantagescore-4-mortgages/",
+        "what": "At last week’s AIME Fuse event, Ishbia also shared his thoughts on UWM’s new Underwriter+ program",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-ishbia-vantagescore-4-mortgages/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "October Is the Best Time For Homebuyers to Score a Deal in These Major U.S. Metros",
@@ -219,35 +246,44 @@
         "justified": "redfin.com — https://www.redfin.com/news/october-best-time-to-buy-home-us-metros/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "In the Aftermath of Last Week’s Rate Hike, Fed Officials Will Speak This Week",
-        "url": "https://www.redfin.com/news/mortgage-rates-post-september-fed-meeting/",
-        "what": "In A Nutshell: A light economic calendar this week means the focus will be on digesting last week’s Fed meeting, and on any geopolitical developments",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-post-september-fed-meeting/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
       {
-        "title": "Eric Lovins on Luminate Bank’s reverse mortgage growth, M&A strategy",
-        "url": "https://www.housingwire.com/articles/luminate-bank-reverse-mortgage/",
-        "what": "Co-founder Eric Lovins explains how the Minneapolis-based lender is building a ‘concierge’ financial experience",
+        "title": "Sitzer settlement survives another challenge as attorneys fight over $120M commission fund",
+        "url": "https://www.housingwire.com/articles/eighth-circuit-sitzer-rehearing-denied/",
+        "what": "Objectors March and Friedman lost rehearing requests, Gibson rehearing petition remains pending",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/luminate-bank-reverse-mortgage/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/eighth-circuit-sitzer-rehearing-denied/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Can a $100M homebuilder build his own operating system with AI?",
+        "url": "https://www.housingwire.com/articles/homebuilder-ai-operating-system/",
+        "what": "Alex Akel says he spent 1,600 to 1,800 hours building an integrated platform spanning sales to field operations",
+        "numbers": "1,600, 1,800",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-ai-operating-system/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Where builder discounts are biggest and who is still buying",
-        "url": "https://www.housingwire.com/articles/builder-marketing-2027-planning/",
-        "what": "Audience Town analyzed 201,000 sales across 25 markets and found every market sold below asking",
-        "numbers": "201,000, 25",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/builder-marketing-2027-planning/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+        "title": "Benchmark shuts down wholesale division Eleven Mortgage, says it will focus on retail",
+        "url": "https://www.housingwire.com/articles/eleven-mortgage-shuts-down-benchmark/",
+        "what": "The company announced the wind-down of its wholesale and correspondent channel",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/eleven-mortgage-shuts-down-benchmark/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Coming soon listings are changing the rules of the home search",
+        "url": "https://www.housingwire.com/articles/coming-soon-listings-portals-mls/",
+        "what": "Agents cite shifting syndication rules by brokerage and MLS, with NWMLS First Look allowing up to 21 days pre market",
+        "numbers": "21",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/coming-soon-listings-portals-mls/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Las Vegas and Florida Are America’s Hottest Destinations For Relocating House Hunters",
@@ -270,67 +306,31 @@
     ],
     "notables": [
       {
-        "title": "UWM names Vandad Fartaj as first chief investment officer",
-        "url": "https://www.housingwire.com/articles/uwm-chief-investment-fartaj/",
-        "what": "The former Pennymac CIO brings 30 years in capital markets, investing and portfolio strategy",
-        "numbers": "30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-chief-investment-fartaj/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "CFPB examiner sues bureau over race discrimination claims",
-        "url": "https://www.housingwire.com/articles/cfpb-race-discrimination-lawsuit/",
-        "what": "The lawsuit alleges race discrimination and retaliation after reassignment",
+        "title": "From policy to a path forward",
+        "url": "https://www.housingwire.com/articles/california-disaster-rebuilding-portal/",
+        "what": "California MBA CEO Paul Gigliotti explains how collaboration can turn disaster recovery policy into clearer resources and real paths forward for homeowners.",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-race-discrimination-lawsuit/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/california-disaster-rebuilding-portal/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Should agents disclose restricted real estate licenses to clients?",
-        "url": "https://www.housingwire.com/articles/disclose-restricted-real-estate-license/",
-        "what": "Regulators should require notice when restrictions are active, without turning disclosure into extra punishment",
+        "title": "Lennar’s “home within a home” targets multigenerational demand",
+        "url": "https://www.housingwire.com/articles/lennar-multigenerational-demand/",
+        "what": "A survey from Sotheby's International Realty suggests that buyers are willing to pay a premium for multigenerational homes",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/disclose-restricted-real-estate-license/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lennar-multigenerational-demand/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Realtracs expands in Tennessee with RCAR and GSMAR",
-        "url": "https://www.housingwire.com/articles/realtracs-tennessee-rcar-gsmar/",
-        "what": "RCAR went live in August and GSMAR went live Monday, adding 1,700 members to the network",
-        "numbers": "1,700",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/realtracs-tennessee-rcar-gsmar/",
+        "title": "NeighborWorks America awards $4.14M in supplemental grants",
+        "url": "https://www.housingwire.com/articles/neighborworks-america-awards-4-14m-in-supplemental-grants/",
+        "what": "Awards cover 23 network organizations in 17 states and the District of Columbia",
+        "numbers": "23, 17",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/neighborworks-america-awards-4-14m-in-supplemental-grants/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CubiCasa, Restb.ai expand floor plan services for MLSs",
-        "url": "https://www.housingwire.com/articles/cubicasa-restb-ai-expand-floor-plan-services-for-mlss/",
-        "what": "CubiCasa is used by more than 200,000 companies, including more than 100 MLSs",
-        "numbers": "200,000, 100",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cubicasa-restb-ai-expand-floor-plan-services-for-mlss/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Sometimes leaders have to take the stairs",
-        "url": "https://www.housingwire.com/articles/leaders-take-the-stairs/",
-        "what": "Small, consistent actions can compound when time is limited by market pressure and day-to-day execution",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/leaders-take-the-stairs/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Compass asks MLSs to block listing data from recruiting tools",
-        "url": "https://www.housingwire.com/articles/compass-mls-recruiting-data/",
-        "what": "Letter seeks opt-out from non-IDX and VOW vendor feeds, with a 30-day deadline",
-        "numbers": "30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-mls-recruiting-data/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
