@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-30 06:42 UTC",
+  "as_of": "2026-09-30 13:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,39 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Judge denies Zillow’s motion to dismiss antitrust lawsuit",
-      "link": "https://www.housingwire.com/articles/zillow-antitrust-lawsuit-tying/",
+      "title": "Mortgage applications fall 6% as rates hit highest level in three years",
+      "link": "https://www.housingwire.com/articles/mba-mortgage-applications-down-6/",
       "published": "Wed, 30 Sep 2026"
     },
     {
-      "title": "The ‘choice market’ arrives as sellers face growing price pressure",
-      "link": "https://www.housingwire.com/articles/the-choice-market-arrives-as-sellers-face-growing-price-pressure/",
-      "published": "Tue, 29 Sep 2026"
+      "title": "ICE launches residential whole loan evaluations service",
+      "link": "https://www.housingwire.com/articles/ice-whole-loan-evaluations/",
+      "published": "Wed, 30 Sep 2026"
     },
     {
-      "title": "New homes still cost less than resales in many U.S. markets",
-      "link": "https://www.housingwire.com/articles/new-homes-cheaper-resale-market/",
-      "published": "Tue, 29 Sep 2026"
+      "title": "Judge orders NYC to withdraw pied-à-terre surcharge notices",
+      "link": "https://www.housingwire.com/articles/judge-orders-nyc-to-withdraw-pied-a-terre-surcharge-notices/",
+      "published": "Wed, 30 Sep 2026"
     },
     {
-      "title": "Signature Homes thinks 100-day builds can win in a smaller market",
-      "link": "https://www.housingwire.com/articles/signature-homes-100-day-build/",
-      "published": "Tue, 29 Sep 2026"
+      "title": "Austin Moyer moves Rochester team to Engel & Völkers",
+      "link": "https://www.housingwire.com/articles/austin-moyer-engel-volkers-rochester/",
+      "published": "Wed, 30 Sep 2026"
     },
     {
-      "title": "FHFA says Fannie, Freddie will use one LLPA grid for FICO and VantageScore",
-      "link": "https://www.housingwire.com/articles/fhfa-gses-one-grid/",
-      "published": "Tue, 29 Sep 2026"
+      "title": "The promise and risk of AI in mortgage lending and secondary markets",
+      "link": "https://www.housingwire.com/articles/mortgage-ai-promise-risk/",
+      "published": "Wed, 30 Sep 2026"
     },
     {
-      "title": "NRMLA says it will keep pushing for HECM insurance changes after remarks by Ginnie Mae president",
-      "link": "https://www.housingwire.com/articles/nrmla-hecm-upfront-mip/",
-      "published": "Tue, 29 Sep 2026"
+      "title": "You may not just have one credit score",
+      "link": "https://www.housingwire.com/articles/multiple-credit-scores-mortgage/",
+      "published": "Wed, 30 Sep 2026"
+    },
+    {
+      "title": "Price-Drop Rate Ticks Up to Record September Rate Amid Strong Buyer’s Market",
+      "link": "https://www.redfin.com/news/price-drop-rate-ticks-up/",
+      "published": "Wed, 30 Sep 2026"
     },
     {
       "title": "Mortgage Rates Jump as Markets Price in More Fed Rate Hikes",
@@ -193,41 +198,27 @@
       "title": "In the Aftermath of Last Week’s Rate Hike, Fed Officials Will Speak This Week",
       "link": "https://www.redfin.com/news/mortgage-rates-post-september-fed-meeting/",
       "published": "Mon, 21 Sep 2026"
-    },
-    {
-      "title": "Nearly Half of Homebuyers Get Concessions From Sellers as Most Markets Tip in Buyers’ Favor",
-      "link": "https://www.redfin.com/news/home-seller-concessions-august-2026/",
-      "published": "Fri, 18 Sep 2026"
     }
   ],
   "feed_101020": {
     "macro": [
       {
-        "title": "FHFA says Fannie, Freddie will use one LLPA grid for FICO and VantageScore",
-        "url": "https://www.housingwire.com/articles/fhfa-gses-one-grid/",
-        "what": "Change follows lender feedback after VantageScore 4.0 was approved for eligible conventional loans earlier this month",
+        "title": "Mortgage applications fall 6% as rates hit highest level in three years",
+        "url": "https://www.housingwire.com/articles/mba-mortgage-applications-down-6/",
+        "what": "Refinance activity fell 9% week over week and was 56% lower than a year ago",
+        "numbers": "9, 56",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-mortgage-applications-down-6/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "You may not just have one credit score",
+        "url": "https://www.housingwire.com/articles/multiple-credit-scores-mortgage/",
+        "what": "Fannie Mae and Freddie Mac now allow VantageScore 4.0 as an alternative to Classic FICO for eligible loans",
         "numbers": "4.0",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-gses-one-grid/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/multiple-credit-scores-mortgage/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "NRMLA says it will keep pushing for HECM insurance changes after remarks by Ginnie Mae president",
-        "url": "https://www.housingwire.com/articles/nrmla-hecm-upfront-mip/",
-        "what": "NRMLA President Steve Irwin said the trade group will continue to lobby HUD, FHA on lowering the upfront mortgage insurance premium for federally insured reverse mortgages",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nrmla-hecm-upfront-mip/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "How real estate agents can build business without waiting on rates or inventory",
-        "url": "https://www.housingwire.com/articles/real-estate-agents-build-business-now/",
-        "what": "This checklist prioritizes relationship reactivation, one monthly process improvement and consistent publishing that stays useful instead of promotional",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-agents-build-business-now/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Mortgage Rates Jump as Markets Price in More Fed Rate Hikes",
@@ -240,6 +231,33 @@
       }
     ],
     "housing": [
+      {
+        "title": "Price-Drop Rate Ticks Up to Record September Rate Amid Strong Buyer’s Market",
+        "url": "https://www.redfin.com/news/price-drop-rate-ticks-up/",
+        "what": "21% of U.S",
+        "numbers": "21, 20,, 19.8",
+        "justified": "redfin.com — https://www.redfin.com/news/price-drop-rate-ticks-up/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "The promise and risk of AI in mortgage lending and secondary markets",
+        "url": "https://www.housingwire.com/articles/mortgage-ai-promise-risk/",
+        "what": "SitusAMC’s Julia Curran explains why mortgage AI requires rigorous testing, subject-matter expertise and human oversight to deliver efficiency without introducing new risk",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-ai-promise-risk/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "The ROAD to Housing Act: The latest milestone in the history of American public housing",
+        "url": "https://www.housingwire.com/articles/rad-program-road-act/",
+        "what": "With 860,000 public housing units remaining, Congress locks in RAD authorization and extends its reach as investment totals $28.4 billion",
+        "numbers": "860,000, $28.4 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rad-program-road-act/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Judge denies Zillow’s motion to dismiss antitrust lawsuit",
         "url": "https://www.housingwire.com/articles/zillow-antitrust-lawsuit-tying/",
@@ -259,33 +277,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Signature Homes thinks 100-day builds can win in a smaller market",
-        "url": "https://www.housingwire.com/articles/signature-homes-100-day-build/",
-        "what": "Builder expects 530 closings and $430 million revenue in 2026, with 304 net orders in the first half",
-        "numbers": "530, $430 million, 2026,, 304",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/signature-homes-100-day-build/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Home prices up 1.9% annually in July — energy, fuel costs loom",
-        "url": "https://www.housingwire.com/articles/home-prices-up-1-9-annually-in-july-energy-fuel-costs-loom/",
-        "what": "Seattle recorded the largest annual decline for the second consecutive month",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/home-prices-up-1-9-annually-in-july-energy-fuel-costs-loom/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Valera Homes debuts in Houston with focus on attainable housing",
-        "url": "https://www.housingwire.com/articles/valera-homes-launches-greater-houston/",
-        "what": "Valera Homes, a sister of StoneManor Homes, launches with four communities, targeting first-time, value-conscious buyers",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/valera-homes-launches-greater-houston/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Las Vegas and Florida Are America’s Hottest Destinations For Relocating House Hunters",
         "url": "https://www.redfin.com/news/migration-q2-2026/",
         "what": "Las Vegas, Florida and Sacramento are the most popular destinations for U.S",
@@ -297,6 +288,33 @@
     ],
     "notables": [
       {
+        "title": "ICE launches residential whole loan evaluations service",
+        "url": "https://www.housingwire.com/articles/ice-whole-loan-evaluations/",
+        "what": "New model-driven evaluations cover QM, non-QM and specialty loans, delivered daily or monthly via ICE Data API",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-whole-loan-evaluations/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Judge orders NYC to withdraw pied-à-terre surcharge notices",
+        "url": "https://www.housingwire.com/articles/judge-orders-nyc-to-withdraw-pied-a-terre-surcharge-notices/",
+        "what": "The ruling targets NYC enforcement; a separate Suffolk County litigation by wealthy Florida residents challenges a New York State law authorizing the surcharge",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/judge-orders-nyc-to-withdraw-pied-a-terre-surcharge-notices/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Austin Moyer moves Rochester team to Engel & Völkers",
+        "url": "https://www.housingwire.com/articles/austin-moyer-engel-volkers-rochester/",
+        "what": "RealTrends Verified shows 34 sides and $8.44M volume in 2025 for the Greater Rochester-based Moyer",
+        "numbers": "34, $8.44, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/austin-moyer-engel-volkers-rochester/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "The ‘choice market’ arrives as sellers face growing price pressure",
         "url": "https://www.housingwire.com/articles/the-choice-market-arrives-as-sellers-face-growing-price-pressure/",
         "what": "Austin, Houston buyers gain choices as sellers cut prices",
@@ -304,15 +322,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/the-choice-market-arrives-as-sellers-face-growing-price-pressure/",
         "why": "Price trend signals wealth effects and buyer/seller power.",
         "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "West Capital Lending hires Michael Cecero and 33-person team",
-        "url": "https://www.housingwire.com/articles/west-capital-lending-cecero-team/",
-        "what": "The move adds about $325M in annual production and expands the company's presence in Tennessee and Missouri",
-        "numbers": "$325",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/west-capital-lending-cecero-team/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
