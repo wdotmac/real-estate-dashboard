@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-30 13:43 UTC",
+  "as_of": "2026-09-30 19:19 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Mortgage applications fall 6% as rates hit highest level in three years",
-      "link": "https://www.housingwire.com/articles/mba-mortgage-applications-down-6/",
+      "title": "Compass’s Reffkin gives MLSs an ultimatum: Change listing rules or face lawsuits",
+      "link": "https://www.housingwire.com/articles/reffkin-sue-mls-exclusives/",
       "published": "Wed, 30 Sep 2026"
     },
     {
-      "title": "ICE launches residential whole loan evaluations service",
-      "link": "https://www.housingwire.com/articles/ice-whole-loan-evaluations/",
+      "title": "Archwest Capital closes $300M rated RTL securitization",
+      "link": "https://www.housingwire.com/articles/archwest-300m-rated-securitization/",
       "published": "Wed, 30 Sep 2026"
     },
     {
-      "title": "Judge orders NYC to withdraw pied-à-terre surcharge notices",
-      "link": "https://www.housingwire.com/articles/judge-orders-nyc-to-withdraw-pied-a-terre-surcharge-notices/",
+      "title": "Zillow’s Samuelson: Undermining the MLS could bring regulators knocking",
+      "link": "https://www.housingwire.com/articles/samuelson-mls-tragedy-commons/",
       "published": "Wed, 30 Sep 2026"
     },
     {
-      "title": "Austin Moyer moves Rochester team to Engel & Völkers",
-      "link": "https://www.housingwire.com/articles/austin-moyer-engel-volkers-rochester/",
+      "title": "Texas Mortgage Source: Reverse is the ‘largest underserved market in the business right now’",
+      "link": "https://www.housingwire.com/articles/texas-mortgage-source-reverse/",
       "published": "Wed, 30 Sep 2026"
     },
     {
-      "title": "The promise and risk of AI in mortgage lending and secondary markets",
-      "link": "https://www.housingwire.com/articles/mortgage-ai-promise-risk/",
+      "title": "When pricing power disappears, builders have to find margin upstream",
+      "link": "https://www.housingwire.com/articles/builder-pricing-power-margins/",
       "published": "Wed, 30 Sep 2026"
     },
     {
-      "title": "You may not just have one credit score",
-      "link": "https://www.housingwire.com/articles/multiple-credit-scores-mortgage/",
+      "title": "Stockton Mortgage elevates founder David Stockton to CEO, names new president",
+      "link": "https://www.housingwire.com/articles/stockton-mortgage-leadership-restructure/",
       "published": "Wed, 30 Sep 2026"
     },
     {
@@ -203,22 +203,13 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Mortgage applications fall 6% as rates hit highest level in three years",
-        "url": "https://www.housingwire.com/articles/mba-mortgage-applications-down-6/",
-        "what": "Refinance activity fell 9% week over week and was 56% lower than a year ago",
-        "numbers": "9, 56",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-mortgage-applications-down-6/",
+        "title": "Newsom signs law expanding starter home rules",
+        "url": "https://www.housingwire.com/articles/newsom-starter-home-rules/",
+        "what": "The newly minted bill removes a 5-acre cap and curbs local rules that can reduce housing yield on qualifying projects",
+        "numbers": "5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/newsom-starter-home-rules/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "You may not just have one credit score",
-        "url": "https://www.housingwire.com/articles/multiple-credit-scores-mortgage/",
-        "what": "Fannie Mae and Freddie Mac now allow VantageScore 4.0 as an alternative to Classic FICO for eligible loans",
-        "numbers": "4.0",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/multiple-credit-scores-mortgage/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Mortgage Rates Jump as Markets Price in More Fed Rate Hikes",
@@ -232,6 +223,51 @@
     ],
     "housing": [
       {
+        "title": "Compass’s Reffkin gives MLSs an ultimatum: Change listing rules or face lawsuits",
+        "url": "https://www.housingwire.com/articles/reffkin-sue-mls-exclusives/",
+        "what": "Exclusive HousingWire coverage from CMLS: Reffkin said Compass could file antitrust suits by mid-October and set an October 6 deadline",
+        "numbers": "6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reffkin-sue-mls-exclusives/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Zillow’s Samuelson: Undermining the MLS could bring regulators knocking",
+        "url": "https://www.housingwire.com/articles/samuelson-mls-tragedy-commons/",
+        "what": "Exclusive coverage from CMLS: Samuelson cited Hill scrutiny of Compass and MRED and warned data restrictions could invite regulation",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/samuelson-mls-tragedy-commons/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Texas Mortgage Source: Reverse is the ‘largest underserved market in the business right now’",
+        "url": "https://www.housingwire.com/articles/texas-mortgage-source-reverse/",
+        "what": "At AIME Fuse in Austin, Mark Hairston and Shara Parker shared successful borrower scenarios for unlocking nearly $15 trillion in U.S",
+        "numbers": "$15",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/texas-mortgage-source-reverse/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "When pricing power disappears, builders have to find margin upstream",
+        "url": "https://www.housingwire.com/articles/builder-pricing-power-margins/",
+        "what": "As incentives and input costs squeeze homebuilder margins, controlling product complexity earlier can create another lever for protecting profitability",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/builder-pricing-power-margins/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Stockton Mortgage elevates founder David Stockton to CEO, names new president",
+        "url": "https://www.housingwire.com/articles/stockton-mortgage-leadership-restructure/",
+        "what": "Anthony Whiteside becomes president, while Scott Bristol joins as EVP of national sales",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/stockton-mortgage-leadership-restructure/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Price-Drop Rate Ticks Up to Record September Rate Amid Strong Buyer’s Market",
         "url": "https://www.redfin.com/news/price-drop-rate-ticks-up/",
         "what": "21% of U.S",
@@ -239,42 +275,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/price-drop-rate-ticks-up/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The promise and risk of AI in mortgage lending and secondary markets",
-        "url": "https://www.housingwire.com/articles/mortgage-ai-promise-risk/",
-        "what": "SitusAMC’s Julia Curran explains why mortgage AI requires rigorous testing, subject-matter expertise and human oversight to deliver efficiency without introducing new risk",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-ai-promise-risk/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The ROAD to Housing Act: The latest milestone in the history of American public housing",
-        "url": "https://www.housingwire.com/articles/rad-program-road-act/",
-        "what": "With 860,000 public housing units remaining, Congress locks in RAD authorization and extends its reach as investment totals $28.4 billion",
-        "numbers": "860,000, $28.4 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rad-program-road-act/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Judge denies Zillow’s motion to dismiss antitrust lawsuit",
-        "url": "https://www.housingwire.com/articles/zillow-antitrust-lawsuit-tying/",
-        "what": "Court cites 35%-40% referral fees and claims of 60% audience share in denying Zillow’s motion to dismiss",
-        "numbers": "35, 40, 60",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-antitrust-lawsuit-tying/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "New homes still cost less than resales in many U.S. markets",
-        "url": "https://www.housingwire.com/articles/new-homes-cheaper-resale-market/",
-        "what": "Zillow reports that new homes in July sold at $205 per square foot, compared with $212 for existing homes",
-        "numbers": "$205, $212",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-homes-cheaper-resale-market/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Las Vegas and Florida Are America’s Hottest Destinations For Relocating House Hunters",
@@ -288,40 +288,40 @@
     ],
     "notables": [
       {
-        "title": "ICE launches residential whole loan evaluations service",
-        "url": "https://www.housingwire.com/articles/ice-whole-loan-evaluations/",
-        "what": "New model-driven evaluations cover QM, non-QM and specialty loans, delivered daily or monthly via ICE Data API",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-whole-loan-evaluations/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Judge orders NYC to withdraw pied-à-terre surcharge notices",
-        "url": "https://www.housingwire.com/articles/judge-orders-nyc-to-withdraw-pied-a-terre-surcharge-notices/",
-        "what": "The ruling targets NYC enforcement; a separate Suffolk County litigation by wealthy Florida residents challenges a New York State law authorizing the surcharge",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/judge-orders-nyc-to-withdraw-pied-a-terre-surcharge-notices/",
+        "title": "Archwest Capital closes $300M rated RTL securitization",
+        "url": "https://www.housingwire.com/articles/archwest-300m-rated-securitization/",
+        "what": "Deal is backed by 218 loans, plus a $98.5M accumulation account and a two-year revolving structure",
+        "numbers": "218, $98.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/archwest-300m-rated-securitization/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Austin Moyer moves Rochester team to Engel & Völkers",
-        "url": "https://www.housingwire.com/articles/austin-moyer-engel-volkers-rochester/",
-        "what": "RealTrends Verified shows 34 sides and $8.44M volume in 2025 for the Greater Rochester-based Moyer",
-        "numbers": "34, $8.44, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/austin-moyer-engel-volkers-rochester/",
+        "title": "CMLS CEO Jessica Edgerton urges industry to ‘get messy’ at 2026 Open House",
+        "url": "https://www.housingwire.com/articles/cmls-ceo-jessica-edgerton-urges-industry-to-get-messy-at-2026-open-house/",
+        "what": "Edgerton also announced a new broker membership tier at CMLS",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cmls-ceo-jessica-edgerton-urges-industry-to-get-messy-at-2026-open-house/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "The ‘choice market’ arrives as sellers face growing price pressure",
-        "url": "https://www.housingwire.com/articles/the-choice-market-arrives-as-sellers-face-growing-price-pressure/",
-        "what": "Austin, Houston buyers gain choices as sellers cut prices",
+        "title": "CRMLS rejects Compass demands on MLS cooperation rules",
+        "url": "https://www.housingwire.com/articles/crmls-compass-mls-cooperation/",
+        "what": "MLS says it is preparing for possible litigation and launching an MLS Cooperation Legal Defense Fund",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-choice-market-arrives-as-sellers-face-growing-price-pressure/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/crmls-compass-mls-cooperation/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "GSEs grant policy waiver for lenders not ready for UAD 3.6 mandate",
+        "url": "https://www.housingwire.com/articles/gses-temporary-uad-3-6-exception-sellers-2027-timeline/",
+        "what": "Lenders that secure a one-time waiver can keep using UAD 2.6 into 2027",
+        "numbers": "2.6, 2027",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gses-temporary-uad-3-6-exception-sellers-2027-timeline/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
