@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-10-01 18:54 UTC",
+  "as_of": "2026-10-01 23:12 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.26,
-      "delta_bp_1d": 1.9999999999999574
+      "yield_pct": 5.29,
+      "delta_bp_1d": 3.000000000000025
     },
     "mortgage_30y": {
       "rate_pct": 7.28,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Breaking down barriers between rural America and more housing",
-      "link": "https://www.housingwire.com/articles/breaking-down-barriers-between-rural-america-and-more-housing/",
+      "title": "FHFA set to order Fannie, Freddie to accept two-bureau credit reports",
+      "link": "https://www.housingwire.com/articles/fhfa-bi-merge-credit-reports-fannie-freddie/",
       "published": "Thu, 01 Oct 2026"
     },
     {
-      "title": "David Charron: How MLSs can stay relevant before the market moves around them",
-      "link": "https://www.housingwire.com/articles/mls-budgets-relevance-18-months/",
+      "title": "Howard Hughes names Kaminski President of Arizona region",
+      "link": "https://www.housingwire.com/articles/howard-hughes-kate-kaminski-arizona/",
       "published": "Thu, 01 Oct 2026"
     },
     {
-      "title": "Forget waiting for lower rates. KW’s Jason Abrams has a playbook for finding business anyway",
-      "link": "https://www.housingwire.com/articles/forget-waiting-for-lower-rates-kws-jason-abrams-has-a-playbook-for-finding-business-anyway/",
+      "title": "Mortgage Banking Summit: FHFA’s unified LLPA grid for FICO, VantageScore raises investor concerns",
+      "link": "https://www.housingwire.com/articles/fhfa-unified-llpa-grid-fico-vantagescore/",
       "published": "Thu, 01 Oct 2026"
     },
     {
-      "title": "Mortgage Banking Summit: FOA’s Jonathan Scarpati on finding opportunity in reverse",
-      "link": "https://www.housingwire.com/articles/reverse-mortgage-foa-mortgage-banking-summit/",
+      "title": "Why Brookfield Residential put data governance ahead of AI",
+      "link": "https://www.housingwire.com/articles/brookfield-data-before-ai/",
       "published": "Thu, 01 Oct 2026"
     },
     {
-      "title": "HomeServices spent decades building quietly. Now it wants to get loud",
-      "link": "https://www.housingwire.com/articles/homeservices-buys-1000watt-onepoint/",
+      "title": "Garg says Better board will honor results once consent vote is confirmed",
+      "link": "https://www.housingwire.com/articles/better-garg-board-consent-vote/",
       "published": "Thu, 01 Oct 2026"
     },
     {
-      "title": "STRATMOR Group hires Coby Hakalir as managing director",
-      "link": "https://www.housingwire.com/articles/stratmor-hires-coby-hakalir/",
+      "title": "MLS data is more valuable than ever. The industry has to decide how to protect it",
+      "link": "https://www.housingwire.com/articles/mls-data-licensing-ai/",
       "published": "Thu, 01 Oct 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Mortgage Banking Summit: FHFA’s unified LLPA grid for FICO, VantageScore raises investor concerns",
+        "url": "https://www.housingwire.com/articles/fhfa-unified-llpa-grid-fico-vantagescore/",
+        "what": "Summit participants question how investors will treat VS4-driven MBS pools",
+        "numbers": "4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-unified-llpa-grid-fico-vantagescore/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Breaking down barriers between rural America and more housing",
         "url": "https://www.housingwire.com/articles/breaking-down-barriers-between-rural-america-and-more-housing/",
         "what": "The USDA and HUD agreed earlier this week to streamline environmental reviews for federally funded rural housing projects",
@@ -221,15 +230,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "FHFA moves to cut OIG budget after peer match review",
-        "url": "https://www.housingwire.com/articles/fhfa-oig-budget-peer-match/",
-        "what": "FHFA claims the OIG sought 16% of the agency’s budget versus a 2% federal average",
-        "numbers": "16, 2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-oig-budget-peer-match/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Mortgage Rates Jump as Markets Price in More Fed Rate Hikes",
         "url": "https://www.redfin.com/news/mortgage-rates-rise-economic-concerns/",
         "what": "In A Nutshell: Mortgage rates have shot up as a number of economic concerns come together in a perfect storm",
@@ -241,58 +241,13 @@
     ],
     "housing": [
       {
-        "title": "Mortgage Banking Summit: FOA’s Jonathan Scarpati on finding opportunity in reverse",
-        "url": "https://www.housingwire.com/articles/reverse-mortgage-foa-mortgage-banking-summit/",
-        "what": "Scarpati said older homeowners present a much faster growth path for lenders than first-time buyers",
+        "title": "FHA nominee Matt Jones says he’ll target more housing supply and lower costs",
+        "url": "https://www.housingwire.com/articles/fha-nominee-matt-jones/",
+        "what": "In his Senate confirmation hearing, Jones highlighted manufactured housing, limits on large investors and new credit underwriting models",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-foa-mortgage-banking-summit/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "HomeServices spent decades building quietly. Now it wants to get loud",
-        "url": "https://www.housingwire.com/articles/homeservices-buys-1000watt-onepoint/",
-        "what": "In an interview with HousingWire, CEO Chris Kelly says HomeServices can run a lot faster with the 1000Watt acquisition",
-        "numbers": "1000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homeservices-buys-1000watt-onepoint/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-nominee-matt-jones/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "STRATMOR Group hires Coby Hakalir as managing director",
-        "url": "https://www.housingwire.com/articles/stratmor-hires-coby-hakalir/",
-        "what": "New managing director will advise mortgage lenders, investors, and real estate firms on growth and tech",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/stratmor-hires-coby-hakalir/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Google home listings go national through HouseCanary deal",
-        "url": "https://www.housingwire.com/articles/housecanary-google-expand-home-listing-program-with-national-agreement/",
-        "what": "The agreement builds on a program HouseCanary and Google announced in June",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housecanary-google-expand-home-listing-program-with-national-agreement/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Mortgage Banking Summit: Mike Kortas on NEXA’s hybrid model, next steps in servicing",
-        "url": "https://www.housingwire.com/articles/nexa-hybrid-mortgage-model-broker-retail-servicing-mike-kortas/",
-        "what": "Founder Mike Kortas says NEXA is in a ‘twilight zone’ as it navigates the crossover from brokerage to retail lender and servicer",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nexa-hybrid-mortgage-model-broker-retail-servicing-mike-kortas/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "HECM broker endorsements for July show the same players dominating the market",
-        "url": "https://www.housingwire.com/articles/hecm-broker-tpo-rankings-july/",
-        "what": "Atlantic Avenue topped 1,000 loans on a 12-month rolling total, while endorsements are tracking to have their weakest year since 2003",
-        "numbers": "1,000, 12, 2003",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hecm-broker-tpo-rankings-july/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Price-Drop Rate Ticks Up to Record September Rate Amid Strong Buyer’s Market",
@@ -305,6 +260,51 @@
       }
     ],
     "notables": [
+      {
+        "title": "FHFA set to order Fannie, Freddie to accept two-bureau credit reports",
+        "url": "https://www.housingwire.com/articles/fhfa-bi-merge-credit-reports-fannie-freddie/",
+        "what": "The requirement is expected to take effect one to three months after it is announced, per Bloomberg",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-bi-merge-credit-reports-fannie-freddie/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Howard Hughes names Kaminski President of Arizona region",
+        "url": "https://www.housingwire.com/articles/howard-hughes-kate-kaminski-arizona/",
+        "what": "In the role, Kaminski will lead strategy and operations for Teravalis, a 37,000-acre master planned community in Buckeye",
+        "numbers": "37,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/howard-hughes-kate-kaminski-arizona/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Why Brookfield Residential put data governance ahead of AI",
+        "url": "https://www.housingwire.com/articles/brookfield-data-before-ai/",
+        "what": "CIO Brandon Sharp says the company logged 250,000 internal hours and deployed 7 major systems to build a single source of truth",
+        "numbers": "250,000, 7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/brookfield-data-before-ai/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Garg says Better board will honor results once consent vote is confirmed",
+        "url": "https://www.housingwire.com/articles/better-garg-board-consent-vote/",
+        "what": "Garg says the consent solicitation topped 50% and could remove five directors, with a third-party inspector reviewing results",
+        "numbers": "50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-garg-board-consent-vote/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "MLS data is more valuable than ever. The industry has to decide how to protect it",
+        "url": "https://www.housingwire.com/articles/mls-data-licensing-ai/",
+        "what": "Speakers at CMLS said data will be monetized either way, the issue is governance and protecting brokers’ rights",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-data-licensing-ai/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "David Charron: How MLSs can stay relevant before the market moves around them",
         "url": "https://www.housingwire.com/articles/mls-budgets-relevance-18-months/",
