@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-02 09:45 UTC",
+  "as_of": "2026-10-02 16:16 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "FHA launches optional transition period to UAD 3.6",
+      "link": "https://www.housingwire.com/articles/fha-optional-uad-3-6/",
+      "published": "Fri, 02 Oct 2026"
+    },
+    {
+      "title": "Jobs growth stalls — and that could be good news for mortgage rates",
+      "link": "https://www.housingwire.com/articles/september-jobs-report-payrolls-slow/",
+      "published": "Fri, 02 Oct 2026"
+    },
+    {
+      "title": "California’s $3.9B Midway Rising becomes a CEQA lightning rod",
+      "link": "https://www.housingwire.com/articles/newsom-ceqa-lawsuits-housing/",
+      "published": "Fri, 02 Oct 2026"
+    },
+    {
       "title": "FHFA set to order Fannie, Freddie to accept two-bureau credit reports",
       "link": "https://www.housingwire.com/articles/fhfa-bi-merge-credit-reports-fannie-freddie/",
       "published": "Thu, 01 Oct 2026"
@@ -155,19 +170,14 @@
       "published": "Thu, 01 Oct 2026"
     },
     {
-      "title": "Why Brookfield Residential put data governance ahead of AI",
-      "link": "https://www.housingwire.com/articles/brookfield-data-before-ai/",
-      "published": "Thu, 01 Oct 2026"
+      "title": "Soft September Jobs Report May Give Fed Reason to Pause Rate Hikes, Slowing Ascent of Mortgage Rates",
+      "link": "https://www.redfin.com/news/soft-september-jobs-meaning-for-mortgage-rates/",
+      "published": "Fri, 02 Oct 2026"
     },
     {
-      "title": "Garg says Better board will honor results once consent vote is confirmed",
-      "link": "https://www.housingwire.com/articles/better-garg-board-consent-vote/",
-      "published": "Thu, 01 Oct 2026"
-    },
-    {
-      "title": "MLS data is more valuable than ever. The industry has to decide how to protect it",
-      "link": "https://www.housingwire.com/articles/mls-data-licensing-ai/",
-      "published": "Thu, 01 Oct 2026"
+      "title": "These Are San Diego’s 5 Hottest Neighborhoods of 2026",
+      "link": "https://www.redfin.com/news/san-diego-hottest-neighborhoods-2026/",
+      "published": "Fri, 02 Oct 2026"
     },
     {
       "title": "Price-Drop Rate Ticks Up to Record September Rate Amid Strong Buyer’s Market",
@@ -188,44 +198,34 @@
       "title": "October Is the Best Time For Homebuyers to Score a Deal in These Major U.S. Metros",
       "link": "https://www.redfin.com/news/october-best-time-to-buy-home-us-metros/",
       "published": "Tue, 22 Sep 2026"
-    },
-    {
-      "title": "U.S. Home Prices Rose 0.25% in August",
-      "link": "https://www.redfin.com/news/home-price-index-august-2026/",
-      "published": "Tue, 22 Sep 2026"
-    },
-    {
-      "title": "In the Aftermath of Last Week’s Rate Hike, Fed Officials Will Speak This Week",
-      "link": "https://www.redfin.com/news/mortgage-rates-post-september-fed-meeting/",
-      "published": "Mon, 21 Sep 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Soft September Jobs Report May Give Fed Reason to Pause Rate Hikes, Slowing Ascent of Mortgage Rates",
+        "url": "https://www.redfin.com/news/soft-september-jobs-meaning-for-mortgage-rates/",
+        "what": "Takeaway: A soft jobs report may finally offer some relief for mortgage rates, or at least help to stem the march upward",
+        "numbers": "",
+        "justified": "redfin.com — https://www.redfin.com/news/soft-september-jobs-meaning-for-mortgage-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Jobs growth stalls — and that could be good news for mortgage rates",
+        "url": "https://www.housingwire.com/articles/september-jobs-report-payrolls-slow/",
+        "what": "Unemployment rose to 4.2% and prior 2 months were revised down by 60,000 jobs",
+        "numbers": "4.2, 2, 60,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/september-jobs-report-payrolls-slow/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage Banking Summit: FHFA’s unified LLPA grid for FICO, VantageScore raises investor concerns",
         "url": "https://www.housingwire.com/articles/fhfa-unified-llpa-grid-fico-vantagescore/",
         "what": "Summit participants question how investors will treat VS4-driven MBS pools",
         "numbers": "4",
         "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-unified-llpa-grid-fico-vantagescore/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Breaking down barriers between rural America and more housing",
-        "url": "https://www.housingwire.com/articles/breaking-down-barriers-between-rural-america-and-more-housing/",
-        "what": "The USDA and HUD agreed earlier this week to streamline environmental reviews for federally funded rural housing projects",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/breaking-down-barriers-between-rural-america-and-more-housing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Forget waiting for lower rates. KW’s Jason Abrams has a playbook for finding business anyway",
-        "url": "https://www.housingwire.com/articles/forget-waiting-for-lower-rates-kws-jason-abrams-has-a-playbook-for-finding-business-anyway/",
-        "what": "For agents, Abrams said a slower market requires a different approach to prospecting",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/forget-waiting-for-lower-rates-kws-jason-abrams-has-a-playbook-for-finding-business-anyway/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -240,6 +240,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "These Are San Diego’s 5 Hottest Neighborhoods of 2026",
+        "url": "https://www.redfin.com/news/san-diego-hottest-neighborhoods-2026/",
+        "what": "Otay Ranch is San Diego’s hottest neighborhood of 2026, followed by San Pasqual Valley and Hillcrest",
+        "numbers": "2026,, 5, 2026",
+        "justified": "redfin.com — https://www.redfin.com/news/san-diego-hottest-neighborhoods-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "FHA nominee Matt Jones says he’ll target more housing supply and lower costs",
         "url": "https://www.housingwire.com/articles/fha-nominee-matt-jones/",
@@ -260,6 +269,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "FHA launches optional transition period to UAD 3.6",
+        "url": "https://www.housingwire.com/articles/fha-optional-uad-3-6/",
+        "what": "Lenders can begin sending FHA appraisals in UAD 3.6",
+        "numbers": "3.6",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-optional-uad-3-6/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "California’s $3.9B Midway Rising becomes a CEQA lightning rod",
+        "url": "https://www.housingwire.com/articles/newsom-ceqa-lawsuits-housing/",
+        "what": "SB 344 targets Midway Rising, a $3.9 billion redevelopment with 4,000 homes, SB 958 caps height as an infill project qualifier",
+        "numbers": "344, $3.9 billion, 4,000, 958",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/newsom-ceqa-lawsuits-housing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "FHFA set to order Fannie, Freddie to accept two-bureau credit reports",
         "url": "https://www.housingwire.com/articles/fhfa-bi-merge-credit-reports-fannie-freddie/",
@@ -304,15 +331,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mls-data-licensing-ai/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "David Charron: How MLSs can stay relevant before the market moves around them",
-        "url": "https://www.housingwire.com/articles/mls-budgets-relevance-18-months/",
-        "what": "Exclusive CMLS coverage: Former Bright MLS strategy chief David Charron urged CMLS attendees to cut friction and invest for where the industry will be 18-month",
-        "numbers": "18",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-budgets-relevance-18-months/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
