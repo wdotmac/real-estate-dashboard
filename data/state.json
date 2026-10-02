@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-10-02 16:16 UTC",
+  "as_of": "2026-10-02 21:19 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.29,
-      "delta_bp_1d": 3.000000000000025
+      "yield_pct": 5.24,
+      "delta_bp_1d": -4.999999999999982
     },
     "mortgage_30y": {
       "rate_pct": 7.28,
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "FHA launches optional transition period to UAD 3.6",
-      "link": "https://www.housingwire.com/articles/fha-optional-uad-3-6/",
+      "title": "View Homes CEO Gandhi rebuilds builder operating platform",
+      "link": "https://www.housingwire.com/articles/view-homes-operating-platform/",
       "published": "Fri, 02 Oct 2026"
     },
     {
-      "title": "Jobs growth stalls — and that could be good news for mortgage rates",
-      "link": "https://www.housingwire.com/articles/september-jobs-report-payrolls-slow/",
+      "title": "‘Lawfare is now the norm’: MLS leaders brace for more legal battles",
+      "link": "https://www.housingwire.com/articles/mls-antitrust-policy-changes/",
       "published": "Fri, 02 Oct 2026"
     },
     {
-      "title": "California’s $3.9B Midway Rising becomes a CEQA lightning rod",
-      "link": "https://www.housingwire.com/articles/newsom-ceqa-lawsuits-housing/",
+      "title": "Why real estate agents are mentoring college athletes — and getting referrals",
+      "link": "https://www.housingwire.com/articles/why-real-estate-agents-are-mentoring-college-athletes-and-getting-referrals/",
       "published": "Fri, 02 Oct 2026"
     },
     {
-      "title": "FHFA set to order Fannie, Freddie to accept two-bureau credit reports",
-      "link": "https://www.housingwire.com/articles/fhfa-bi-merge-credit-reports-fannie-freddie/",
-      "published": "Thu, 01 Oct 2026"
+      "title": "Your best producer is the hardest person in the building to read",
+      "link": "https://www.housingwire.com/articles/mortgage-production-lagging-metric/",
+      "published": "Fri, 02 Oct 2026"
     },
     {
-      "title": "Howard Hughes names Kaminski President of Arizona region",
-      "link": "https://www.housingwire.com/articles/howard-hughes-kate-kaminski-arizona/",
-      "published": "Thu, 01 Oct 2026"
+      "title": "Private listing ecosystems could deepen the housing affordability crisis",
+      "link": "https://www.housingwire.com/articles/housing-transparency-private-listings/",
+      "published": "Fri, 02 Oct 2026"
     },
     {
-      "title": "Mortgage Banking Summit: FHFA’s unified LLPA grid for FICO, VantageScore raises investor concerns",
-      "link": "https://www.housingwire.com/articles/fhfa-unified-llpa-grid-fico-vantagescore/",
-      "published": "Thu, 01 Oct 2026"
+      "title": "HECM originations sink to lowest level since 2020, HMBS issuance down 17% in September",
+      "link": "https://www.housingwire.com/articles/hecm-endorsements-hmbs-septembe/",
+      "published": "Fri, 02 Oct 2026"
     },
     {
       "title": "Soft September Jobs Report May Give Fed Reason to Pause Rate Hikes, Slowing Ascent of Mortgage Rates",
@@ -203,29 +203,29 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Even a missed jobs report and the Fed talking dovish aren’t keeping yields lower",
+        "url": "https://www.housingwire.com/articles/even-a-missed-jobs-report-and-the-fed-talking-dovish-arent-keeping-yields-lower/",
+        "what": "A jobs miss sent the 10-year yield to as low as 5.17% before yields rose higher toward 5.28%",
+        "numbers": "10, 5.17, 5.28",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/even-a-missed-jobs-report-and-the-fed-talking-dovish-arent-keeping-yields-lower/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Mortgage Banking Summit: ‘Street fight’ market concentrates growth toward nondelegated lenders",
+        "url": "https://www.housingwire.com/articles/mortgage-market-share/",
+        "what": "Data shows a small fraction of lenders capturing most new production as LOs shift to brokerage and correspondent platforms",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-market-share/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Soft September Jobs Report May Give Fed Reason to Pause Rate Hikes, Slowing Ascent of Mortgage Rates",
         "url": "https://www.redfin.com/news/soft-september-jobs-meaning-for-mortgage-rates/",
         "what": "Takeaway: A soft jobs report may finally offer some relief for mortgage rates, or at least help to stem the march upward",
         "numbers": "",
         "justified": "redfin.com — https://www.redfin.com/news/soft-september-jobs-meaning-for-mortgage-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Jobs growth stalls — and that could be good news for mortgage rates",
-        "url": "https://www.housingwire.com/articles/september-jobs-report-payrolls-slow/",
-        "what": "Unemployment rose to 4.2% and prior 2 months were revised down by 60,000 jobs",
-        "numbers": "4.2, 2, 60,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/september-jobs-report-payrolls-slow/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage Banking Summit: FHFA’s unified LLPA grid for FICO, VantageScore raises investor concerns",
-        "url": "https://www.housingwire.com/articles/fhfa-unified-llpa-grid-fico-vantagescore/",
-        "what": "Summit participants question how investors will treat VS4-driven MBS pools",
-        "numbers": "4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-unified-llpa-grid-fico-vantagescore/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -241,20 +241,29 @@
     ],
     "housing": [
       {
+        "title": "View Homes CEO Gandhi rebuilds builder operating platform",
+        "url": "https://www.housingwire.com/articles/view-homes-operating-platform/",
+        "what": "Leadership changes, standardized concessions, and a 12–18 month systems rollout are central to the plan",
+        "numbers": "12, 18",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/view-homes-operating-platform/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Private listing ecosystems could deepen the housing affordability crisis",
+        "url": "https://www.housingwire.com/articles/housing-transparency-private-listings/",
+        "what": "Rising prices alongside weaker sales and closed listing ecosystems are reducing consumer visibility and competition",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-transparency-private-listings/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "These Are San Diego’s 5 Hottest Neighborhoods of 2026",
         "url": "https://www.redfin.com/news/san-diego-hottest-neighborhoods-2026/",
         "what": "Otay Ranch is San Diego’s hottest neighborhood of 2026, followed by San Pasqual Valley and Hillcrest",
         "numbers": "2026,, 5, 2026",
         "justified": "redfin.com — https://www.redfin.com/news/san-diego-hottest-neighborhoods-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "FHA nominee Matt Jones says he’ll target more housing supply and lower costs",
-        "url": "https://www.housingwire.com/articles/fha-nominee-matt-jones/",
-        "what": "In his Senate confirmation hearing, Jones highlighted manufactured housing, limits on large investors and new credit underwriting models",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-nominee-matt-jones/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
@@ -270,65 +279,56 @@
     ],
     "notables": [
       {
+        "title": "‘Lawfare is now the norm’: MLS leaders brace for more legal battles",
+        "url": "https://www.housingwire.com/articles/mls-antitrust-policy-changes/",
+        "what": "MLS legal experts at CMLS Open House urged scenario planning around cooperation, participation, and data access as lawsuits and demand letters increase",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-antitrust-policy-changes/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Why real estate agents are mentoring college athletes — and getting referrals",
+        "url": "https://www.housingwire.com/articles/why-real-estate-agents-are-mentoring-college-athletes-and-getting-referrals/",
+        "what": "Student-athletes receive mentoring and complete requirements to become licensed real estate referral agents",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-real-estate-agents-are-mentoring-college-athletes-and-getting-referrals/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Your best producer is the hardest person in the building to read",
+        "url": "https://www.housingwire.com/articles/mortgage-production-lagging-metric/",
+        "what": "The operational signals that show strain before the leaderboard does",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-production-lagging-metric/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "HECM originations sink to lowest level since 2020, HMBS issuance down 17% in September",
+        "url": "https://www.housingwire.com/articles/hecm-endorsements-hmbs-septembe/",
+        "what": "September endorsements dropped to 1,790",
+        "numbers": "1,790, 2020, $446 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hecm-endorsements-hmbs-septembe/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Christie’s International Real Estate SoCal adds $180M in agent production with Pasadena expansion",
+        "url": "https://www.housingwire.com/articles/christies-socal-pasadena-office/",
+        "what": "New team additions posted $180 million in the past 12 months, the RealTrends Verified brokerage reported",
+        "numbers": "$180 million, 12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/christies-socal-pasadena-office/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "FHA launches optional transition period to UAD 3.6",
         "url": "https://www.housingwire.com/articles/fha-optional-uad-3-6/",
         "what": "Lenders can begin sending FHA appraisals in UAD 3.6",
         "numbers": "3.6",
         "justified": "housingwire.com — https://www.housingwire.com/articles/fha-optional-uad-3-6/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "California’s $3.9B Midway Rising becomes a CEQA lightning rod",
-        "url": "https://www.housingwire.com/articles/newsom-ceqa-lawsuits-housing/",
-        "what": "SB 344 targets Midway Rising, a $3.9 billion redevelopment with 4,000 homes, SB 958 caps height as an infill project qualifier",
-        "numbers": "344, $3.9 billion, 4,000, 958",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/newsom-ceqa-lawsuits-housing/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "FHFA set to order Fannie, Freddie to accept two-bureau credit reports",
-        "url": "https://www.housingwire.com/articles/fhfa-bi-merge-credit-reports-fannie-freddie/",
-        "what": "The requirement is expected to take effect one to three months after it is announced, per Bloomberg",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-bi-merge-credit-reports-fannie-freddie/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Howard Hughes names Kaminski President of Arizona region",
-        "url": "https://www.housingwire.com/articles/howard-hughes-kate-kaminski-arizona/",
-        "what": "In the role, Kaminski will lead strategy and operations for Teravalis, a 37,000-acre master planned community in Buckeye",
-        "numbers": "37,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/howard-hughes-kate-kaminski-arizona/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Why Brookfield Residential put data governance ahead of AI",
-        "url": "https://www.housingwire.com/articles/brookfield-data-before-ai/",
-        "what": "CIO Brandon Sharp says the company logged 250,000 internal hours and deployed 7 major systems to build a single source of truth",
-        "numbers": "250,000, 7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/brookfield-data-before-ai/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Garg says Better board will honor results once consent vote is confirmed",
-        "url": "https://www.housingwire.com/articles/better-garg-board-consent-vote/",
-        "what": "Garg says the consent solicitation topped 50% and could remove five directors, with a third-party inspector reviewing results",
-        "numbers": "50",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-garg-board-consent-vote/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "MLS data is more valuable than ever. The industry has to decide how to protect it",
-        "url": "https://www.housingwire.com/articles/mls-data-licensing-ai/",
-        "what": "Speakers at CMLS said data will be monetized either way, the issue is governance and protecting brokers’ rights",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-data-licensing-ai/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
