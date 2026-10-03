@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-03 21:14 UTC",
+  "as_of": "2026-10-03 23:47 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "What’s next for housing: 7%, 8% or 9% mortgage rates?",
+      "link": "https://www.housingwire.com/articles/whats-next-for-housing-7-8-or-9-mortgage-rates/",
+      "published": "Sat, 03 Oct 2026"
+    },
+    {
       "title": "View Homes CEO Gandhi rebuilds builder operating platform",
       "link": "https://www.housingwire.com/articles/view-homes-operating-platform/",
       "published": "Fri, 02 Oct 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Private listing ecosystems could deepen the housing affordability crisis",
       "link": "https://www.housingwire.com/articles/housing-transparency-private-listings/",
-      "published": "Fri, 02 Oct 2026"
-    },
-    {
-      "title": "HECM originations sink to lowest level since 2020, HMBS issuance down 17% in September",
-      "link": "https://www.housingwire.com/articles/hecm-endorsements-hmbs-septembe/",
       "published": "Fri, 02 Oct 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "What’s next for housing: 7%, 8% or 9% mortgage rates?",
+        "url": "https://www.housingwire.com/articles/whats-next-for-housing-7-8-or-9-mortgage-rates/",
+        "what": "Mortgage rates are at 7.57% and demand softened more last week",
+        "numbers": "7.57",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/whats-next-for-housing-7-8-or-9-mortgage-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Even a missed jobs report and the Fed talking dovish aren’t keeping yields lower",
         "url": "https://www.housingwire.com/articles/even-a-missed-jobs-report-and-the-fed-talking-dovish-arent-keeping-yields-lower/",
@@ -320,15 +329,6 @@
         "what": "New team additions posted $180 million in the past 12 months, the RealTrends Verified brokerage reported",
         "numbers": "$180 million, 12",
         "justified": "housingwire.com — https://www.housingwire.com/articles/christies-socal-pasadena-office/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "FHA launches optional transition period to UAD 3.6",
-        "url": "https://www.housingwire.com/articles/fha-optional-uad-3-6/",
-        "what": "Lenders can begin sending FHA appraisals in UAD 3.6",
-        "numbers": "3.6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-optional-uad-3-6/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
