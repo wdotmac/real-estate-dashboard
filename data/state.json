@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-10-05 07:02 UTC",
+  "as_of": "2026-10-05 22:36 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.24,
-      "delta_bp_1d": -4.999999999999982
+      "yield_pct": 5.28,
+      "delta_bp_1d": 4.0000000000000036
     },
     "mortgage_30y": {
       "rate_pct": 7.28,
@@ -140,34 +140,39 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Support starter homes, not looser lending or financial fixes",
-      "link": "https://www.housingwire.com/articles/build-starter-homes-supply/",
+      "title": "Vishal Garg regains control of Better’s board after receiving 52% shareholder support",
+      "link": "https://www.housingwire.com/articles/garg-regains-better-control/",
       "published": "Mon, 05 Oct 2026"
     },
     {
-      "title": "Fly-by-wire: Why AI governance is instrumentation, not insurance",
-      "link": "https://www.housingwire.com/articles/ai-governance-instrumentation/",
+      "title": "Lawmakers float a housing 2.0 push to build faster and cheaper",
+      "link": "https://www.housingwire.com/articles/lawmakers-float-a-housing-2-0-push-to-build-faster-and-cheaper/",
       "published": "Mon, 05 Oct 2026"
     },
     {
-      "title": "What’s next for housing: 7%, 8% or 9% mortgage rates?",
-      "link": "https://www.housingwire.com/articles/whats-next-for-housing-7-8-or-9-mortgage-rates/",
-      "published": "Sat, 03 Oct 2026"
+      "title": "Daniel Dennis named Long and Foster president and CEO",
+      "link": "https://www.housingwire.com/articles/daniel-dennis-long-foster-ceo/",
+      "published": "Mon, 05 Oct 2026"
     },
     {
-      "title": "View Homes CEO Gandhi rebuilds builder operating platform",
-      "link": "https://www.housingwire.com/articles/view-homes-operating-platform/",
-      "published": "Fri, 02 Oct 2026"
+      "title": "Freddie Mac reshuffles risk leadership as Hinduja exits, Glessner steps in",
+      "link": "https://www.housingwire.com/articles/freddie-mac-anil-hinduja-john-glessner/",
+      "published": "Mon, 05 Oct 2026"
     },
     {
-      "title": "‘Lawfare is now the norm’: MLS leaders brace for more legal battles",
-      "link": "https://www.housingwire.com/articles/mls-antitrust-policy-changes/",
-      "published": "Fri, 02 Oct 2026"
+      "title": "Pennymac deploys VantageScore 4.0 across all production channels",
+      "link": "https://www.housingwire.com/articles/pennymac-vantagescore/",
+      "published": "Mon, 05 Oct 2026"
     },
     {
-      "title": "Why real estate agents are mentoring college athletes — and getting referrals",
-      "link": "https://www.housingwire.com/articles/why-real-estate-agents-are-mentoring-college-athletes-and-getting-referrals/",
-      "published": "Fri, 02 Oct 2026"
+      "title": "Why Alex Vidal believes REMAX and Real can be stronger together",
+      "link": "https://www.housingwire.com/articles/alex-vidal-remax-president-next-phase/",
+      "published": "Mon, 05 Oct 2026"
+    },
+    {
+      "title": "Mortgage Rates Tick Up Even as the Odds of a Fed Rate Hike Decline",
+      "link": "https://www.redfin.com/news/weekly-economic-take-october-5/",
+      "published": "Mon, 05 Oct 2026"
     },
     {
       "title": "Soft September Jobs Report May Give Fed Reason to Pause Rate Hikes, Slowing Ascent of Mortgage Rates",
@@ -193,30 +198,25 @@
       "title": "Las Vegas and Florida Are America’s Hottest Destinations For Relocating House Hunters",
       "link": "https://www.redfin.com/news/migration-q2-2026/",
       "published": "Thu, 24 Sep 2026"
-    },
-    {
-      "title": "October Is the Best Time For Homebuyers to Score a Deal in These Major U.S. Metros",
-      "link": "https://www.redfin.com/news/october-best-time-to-buy-home-us-metros/",
-      "published": "Tue, 22 Sep 2026"
     }
   ],
   "feed_101020": {
     "macro": [
       {
-        "title": "What’s next for housing: 7%, 8% or 9% mortgage rates?",
-        "url": "https://www.housingwire.com/articles/whats-next-for-housing-7-8-or-9-mortgage-rates/",
-        "what": "Mortgage rates are at 7.57% and demand softened more last week",
-        "numbers": "7.57",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/whats-next-for-housing-7-8-or-9-mortgage-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "title": "Pennymac deploys VantageScore 4.0 across all production channels",
+        "url": "https://www.housingwire.com/articles/pennymac-vantagescore/",
+        "what": "The move follows FHFA and HUD guidance that opened conventional and FHA lending to competing credit score models",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pennymac-vantagescore/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Even a missed jobs report and the Fed talking dovish aren’t keeping yields lower",
-        "url": "https://www.housingwire.com/articles/even-a-missed-jobs-report-and-the-fed-talking-dovish-arent-keeping-yields-lower/",
-        "what": "A jobs miss sent the 10-year yield to as low as 5.17% before yields rose higher toward 5.28%",
-        "numbers": "10, 5.17, 5.28",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/even-a-missed-jobs-report-and-the-fed-talking-dovish-arent-keeping-yields-lower/",
+        "title": "Mortgage Rates Tick Up Even as the Odds of a Fed Rate Hike Decline",
+        "url": "https://www.redfin.com/news/weekly-economic-take-october-5/",
+        "what": "In A Nutshell: There’s still upward pressure on rates, as bond market investors have all of the same worries that have caused mortgage rates to increase by 1.5 percentage points already this year",
+        "numbers": "1.5",
+        "justified": "redfin.com — https://www.redfin.com/news/weekly-economic-take-october-5/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -228,35 +228,17 @@
         "justified": "redfin.com — https://www.redfin.com/news/soft-september-jobs-meaning-for-mortgage-rates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage Rates Jump as Markets Price in More Fed Rate Hikes",
-        "url": "https://www.redfin.com/news/mortgage-rates-rise-economic-concerns/",
-        "what": "In A Nutshell: Mortgage rates have shot up as a number of economic concerns come together in a perfect storm",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-rise-economic-concerns/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
       {
-        "title": "View Homes CEO Gandhi rebuilds builder operating platform",
-        "url": "https://www.housingwire.com/articles/view-homes-operating-platform/",
-        "what": "Leadership changes, standardized concessions, and a 12–18 month systems rollout are central to the plan",
-        "numbers": "12, 18",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/view-homes-operating-platform/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Private listing ecosystems could deepen the housing affordability crisis",
-        "url": "https://www.housingwire.com/articles/housing-transparency-private-listings/",
-        "what": "Rising prices alongside weaker sales and closed listing ecosystems are reducing consumer visibility and competition",
+        "title": "Lawmakers float a housing 2.0 push to build faster and cheaper",
+        "url": "https://www.housingwire.com/articles/lawmakers-float-a-housing-2-0-push-to-build-faster-and-cheaper/",
+        "what": "Bipartisan Build America Caucus sketches housing reform targeting zoning, building material costs and inefficient financing barriers",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-transparency-private-listings/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lawmakers-float-a-housing-2-0-push-to-build-faster-and-cheaper/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "These Are San Diego’s 5 Hottest Neighborhoods of 2026",
@@ -279,58 +261,76 @@
     ],
     "notables": [
       {
-        "title": "Support starter homes, not looser lending or financial fixes",
-        "url": "https://www.housingwire.com/articles/build-starter-homes-supply/",
-        "what": "Policymakers can lower frictions, but only new starter-home production changes the math",
+        "title": "Vishal Garg regains control of Better’s board after receiving 52% shareholder support",
+        "url": "https://www.housingwire.com/articles/garg-regains-better-control/",
+        "what": "A majority of shareholders backed the removal of five directors, including interim CEO Daniel Lewis, with Better finalizing his successor",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/build-starter-homes-supply/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/garg-regains-better-control/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Fly-by-wire: Why AI governance is instrumentation, not insurance",
-        "url": "https://www.housingwire.com/articles/ai-governance-instrumentation/",
-        "what": "Quarterly testing can miss drift, lenders need continuous fair lending visibility",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-governance-instrumentation/",
+        "title": "Daniel Dennis named Long and Foster president and CEO",
+        "url": "https://www.housingwire.com/articles/daniel-dennis-long-foster-ceo/",
+        "what": "Dennis succeeds Patrick Bain, who is stepping down after 16 years with the company",
+        "numbers": "16",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/daniel-dennis-long-foster-ceo/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "‘Lawfare is now the norm’: MLS leaders brace for more legal battles",
-        "url": "https://www.housingwire.com/articles/mls-antitrust-policy-changes/",
-        "what": "MLS legal experts at CMLS Open House urged scenario planning around cooperation, participation, and data access as lawsuits and demand letters increase",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-antitrust-policy-changes/",
+        "title": "Freddie Mac reshuffles risk leadership as Hinduja exits, Glessner steps in",
+        "url": "https://www.housingwire.com/articles/freddie-mac-anil-hinduja-john-glessner/",
+        "what": "Anil Hinduja’s employment with Freddie Mac ended Oct",
+        "numbers": "1",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/freddie-mac-anil-hinduja-john-glessner/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Why real estate agents are mentoring college athletes — and getting referrals",
-        "url": "https://www.housingwire.com/articles/why-real-estate-agents-are-mentoring-college-athletes-and-getting-referrals/",
-        "what": "Student-athletes receive mentoring and complete requirements to become licensed real estate referral agents",
+        "title": "Why Alex Vidal believes REMAX and Real can be stronger together",
+        "url": "https://www.housingwire.com/articles/alex-vidal-remax-president-next-phase/",
+        "what": "He joined after the August close that created Real REMAX Group, with both brands keeping separate identities",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/why-real-estate-agents-are-mentoring-college-athletes-and-getting-referrals/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/alex-vidal-remax-president-next-phase/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "White House readies $90 payments to offset Medicare premiums",
+        "url": "https://www.housingwire.com/articles/white-house-readies-90-payments-to-offset-medicare-premiums/",
+        "what": "Payments are expected to be distributed in early October",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/white-house-readies-90-payments-to-offset-medicare-premiums/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Your best producer is the hardest person in the building to read",
-        "url": "https://www.housingwire.com/articles/mortgage-production-lagging-metric/",
-        "what": "The operational signals that show strain before the leaderboard does",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-production-lagging-metric/",
+        "title": "Global survey: spiraling costs block households’ path to ownership",
+        "url": "https://www.housingwire.com/articles/global-survey-housing-budgets-homeownership/",
+        "what": "A Habitat for Humanity survey across 22 countries found that 75% of individuals say they cut expenses in the cost-of-living crisis",
+        "numbers": "22, 75",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/global-survey-housing-budgets-homeownership/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "HECM originations sink to lowest level since 2020, HMBS issuance down 17% in September",
-        "url": "https://www.housingwire.com/articles/hecm-endorsements-hmbs-septembe/",
-        "what": "September endorsements dropped to 1,790",
-        "numbers": "1,790, 2020, $446 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hecm-endorsements-hmbs-septembe/",
+        "title": "Valon raises $150M Series D at $2.3B valuation",
+        "url": "https://www.housingwire.com/articles/valon-raises-150-million-series-d/",
+        "what": "The round doubles its prior valuation and brings in new investor Ribbit Capital",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/valon-raises-150-million-series-d/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Fathom, Bed Bath and Beyond terminate merger",
+        "url": "https://www.housingwire.com/articles/fathom-neighborhood-merger-terminated/",
+        "what": "Companies cite share price valuations; Neighborhood keeps tZERO and other digital asset holdings",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fathom-neighborhood-merger-terminated/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ]
   }
