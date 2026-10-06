@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-06 02:58 UTC",
+  "as_of": "2026-10-06 10:17 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "CRMLS moves first, asking court to block Compass antitrust claims",
+      "link": "https://www.housingwire.com/articles/crmls-sues-compass-mls/",
+      "published": "Tue, 06 Oct 2026"
+    },
+    {
+      "title": "Beyond mortgage rates: How community lenders can expand access to homeownership",
+      "link": "https://www.housingwire.com/articles/mpf-program-homeownership/",
+      "published": "Tue, 06 Oct 2026"
+    },
+    {
+      "title": "UAD 3.6 is almost here. Lenders need to move from awareness to production.",
+      "link": "https://www.housingwire.com/articles/uad-36-deadline/",
+      "published": "Tue, 06 Oct 2026"
+    },
+    {
+      "title": "What the latest rate hike means for you",
+      "link": "https://www.housingwire.com/articles/fed-rate-hike-mortgage-rates/",
+      "published": "Tue, 06 Oct 2026"
+    },
+    {
       "title": "Vishal Garg regains control of Better’s board after receiving 52% shareholder support",
       "link": "https://www.housingwire.com/articles/garg-regains-better-control/",
       "published": "Mon, 05 Oct 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Lawmakers float a housing 2.0 push to build faster and cheaper",
       "link": "https://www.housingwire.com/articles/lawmakers-float-a-housing-2-0-push-to-build-faster-and-cheaper/",
-      "published": "Mon, 05 Oct 2026"
-    },
-    {
-      "title": "Daniel Dennis named Long and Foster president and CEO",
-      "link": "https://www.housingwire.com/articles/daniel-dennis-long-foster-ceo/",
-      "published": "Mon, 05 Oct 2026"
-    },
-    {
-      "title": "Freddie Mac reshuffles risk leadership as Hinduja exits, Glessner steps in",
-      "link": "https://www.housingwire.com/articles/freddie-mac-anil-hinduja-john-glessner/",
-      "published": "Mon, 05 Oct 2026"
-    },
-    {
-      "title": "Pennymac deploys VantageScore 4.0 across all production channels",
-      "link": "https://www.housingwire.com/articles/pennymac-vantagescore/",
-      "published": "Mon, 05 Oct 2026"
-    },
-    {
-      "title": "Why Alex Vidal believes REMAX and Real can be stronger together",
-      "link": "https://www.housingwire.com/articles/alex-vidal-remax-president-next-phase/",
       "published": "Mon, 05 Oct 2026"
     },
     {
@@ -202,6 +202,33 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "CRMLS moves first, asking court to block Compass antitrust claims",
+        "url": "https://www.housingwire.com/articles/crmls-sues-compass-mls/",
+        "what": "The MLS asks a New York federal judge to declare its policies procompetitive and antitrust compliant",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/crmls-sues-compass-mls/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Beyond mortgage rates: How community lenders can expand access to homeownership",
+        "url": "https://www.housingwire.com/articles/mpf-program-homeownership/",
+        "what": "The Federal Home Loan Banks’ Mortgage Partnership Finance® Program helps community lenders expand homeownership through liquidity, collaboration and targeted financing solutions",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mpf-program-homeownership/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "What the latest rate hike means for you",
+        "url": "https://www.housingwire.com/articles/fed-rate-hike-mortgage-rates/",
+        "what": "The Fed lifted the target range by 25 bps to 3.75%–4%, but mortgage rates track long-term yields, not the Fed funds rate",
+        "numbers": "25, 3.75, 4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-rate-hike-mortgage-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Pennymac deploys VantageScore 4.0 across all production channels",
         "url": "https://www.housingwire.com/articles/pennymac-vantagescore/",
@@ -261,6 +288,15 @@
     ],
     "notables": [
       {
+        "title": "UAD 3.6 is almost here. Lenders need to move from awareness to production.",
+        "url": "https://www.housingwire.com/articles/uad-36-deadline/",
+        "what": "The new appraisal standard is more than a form update: Five actions can help lenders protect pipeline continuity and capture the benefits of better-structured collateral data",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uad-36-deadline/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Vishal Garg regains control of Better’s board after receiving 52% shareholder support",
         "url": "https://www.housingwire.com/articles/garg-regains-better-control/",
         "what": "A majority of shareholders backed the removal of five directors, including interim CEO Daniel Lewis, with Better finalizing his successor",
@@ -295,42 +331,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/alex-vidal-remax-president-next-phase/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "White House readies $90 payments to offset Medicare premiums",
-        "url": "https://www.housingwire.com/articles/white-house-readies-90-payments-to-offset-medicare-premiums/",
-        "what": "Payments are expected to be distributed in early October",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/white-house-readies-90-payments-to-offset-medicare-premiums/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Global survey: spiraling costs block households’ path to ownership",
-        "url": "https://www.housingwire.com/articles/global-survey-housing-budgets-homeownership/",
-        "what": "A Habitat for Humanity survey across 22 countries found that 75% of individuals say they cut expenses in the cost-of-living crisis",
-        "numbers": "22, 75",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/global-survey-housing-budgets-homeownership/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Valon raises $150M Series D at $2.3B valuation",
-        "url": "https://www.housingwire.com/articles/valon-raises-150-million-series-d/",
-        "what": "The round doubles its prior valuation and brings in new investor Ribbit Capital",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/valon-raises-150-million-series-d/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Fathom, Bed Bath and Beyond terminate merger",
-        "url": "https://www.housingwire.com/articles/fathom-neighborhood-merger-terminated/",
-        "what": "Companies cite share price valuations; Neighborhood keeps tZERO and other digital asset holdings",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fathom-neighborhood-merger-terminated/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ]
   }
