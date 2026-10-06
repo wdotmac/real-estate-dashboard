@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-10-06 17:10 UTC",
+  "as_of": "2026-10-06 21:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.28,
-      "delta_bp_1d": 4.0000000000000036
+      "yield_pct": 5.31,
+      "delta_bp_1d": 2.999999999999936
     },
     "mortgage_30y": {
       "rate_pct": 7.28,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Cold call cost-per-deal benchmarks are leaving out most of the math",
-      "link": "https://www.housingwire.com/articles/outbound-calling-cost-per-close/",
+      "title": "Seniors aren’t keeping up with their credit card debt. Reverse mortgages can help",
+      "link": "https://www.housingwire.com/articles/seniors-arent-keeping-up-with-their-credit-card-debt-reverse-mortgages-can-help/",
       "published": "Tue, 06 Oct 2026"
     },
     {
-      "title": "Wealthfront adds Washington to its mortgage footprint",
-      "link": "https://www.housingwire.com/articles/wealthfront-mortgage-washington/",
+      "title": "Timberline Homes buy will push Champion deeper into retail",
+      "link": "https://www.housingwire.com/articles/champion-homes-timberline-acquisition/",
       "published": "Tue, 06 Oct 2026"
     },
     {
-      "title": "Better advances sale of Birmingham Bank to consortium",
-      "link": "https://www.housingwire.com/articles/better-birmingham-bank-sale/",
+      "title": "CRMLS went on offense against Compass. Will other MLSs follow?",
+      "link": "https://www.housingwire.com/articles/crmls-sues-compass-cooperation/",
       "published": "Tue, 06 Oct 2026"
     },
     {
-      "title": "Why Japanese-owned U.S. builders may pull back on growth",
-      "link": "https://www.housingwire.com/articles/japanese-owned-builders-capital-efficiency/",
+      "title": "Upstate New York bucking national housing slowdown",
+      "link": "https://www.housingwire.com/articles/upstate-new-york-bucking-national-housing-slowdown/",
       "published": "Tue, 06 Oct 2026"
     },
     {
-      "title": "States outpace Capitol Hill on factory-built housing policy gains",
-      "link": "https://www.housingwire.com/articles/factory-built-housing-laws/",
+      "title": "UWM moves to dual-score model, auto-selects best result",
+      "link": "https://www.housingwire.com/articles/uwm-moves-to-dual-score-model/",
       "published": "Tue, 06 Oct 2026"
     },
     {
-      "title": "June Point Lending expands DSCR loans to California",
-      "link": "https://www.housingwire.com/articles/june-point-dscr-california/",
+      "title": "Rocket Mortgage names Nicole Beattie chief servicing officer",
+      "link": "https://www.housingwire.com/articles/rocket-mortgage-chief-servicing-officer/",
       "published": "Tue, 06 Oct 2026"
     },
     {
@@ -203,6 +203,24 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "UWM moves to dual-score model, auto-selects best result",
+        "url": "https://www.housingwire.com/articles/uwm-moves-to-dual-score-model/",
+        "what": "Lender will obtain both FICO and VantageScore on every credit pull",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-moves-to-dual-score-model/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Will mortgage rates nearing 8% force lenders to make cuts or close their doors?",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-lenders-pressure/",
+        "what": "HousingWire Data shows the 30-year conforming average at 7.63%, up 31 bps in two weeks, while FHA rates rose 59 bps",
+        "numbers": "30, 7.63, 31, 59",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-lenders-pressure/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Wealthfront adds Washington to its mortgage footprint",
         "url": "https://www.housingwire.com/articles/wealthfront-mortgage-washington/",
         "what": "Digital lender says its rates run about 50 bps below the national average",
@@ -232,40 +250,31 @@
     ],
     "housing": [
       {
-        "title": "Why Japanese-owned U.S. builders may pull back on growth",
-        "url": "https://www.housingwire.com/articles/japanese-owned-builders-capital-efficiency/",
-        "what": "Sumitomo, Sekisui, and Daiwa cite leverage targets, weaker U.S",
+        "title": "Seniors aren’t keeping up with their credit card debt. Reverse mortgages can help",
+        "url": "https://www.housingwire.com/articles/seniors-arent-keeping-up-with-their-credit-card-debt-reverse-mortgages-can-help/",
+        "what": "As credit card and HELOC balances grow, reverse mortgages and their voluntary payment structures should be considered",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/japanese-owned-builders-capital-efficiency/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "States outpace Capitol Hill on factory-built housing policy gains",
-        "url": "https://www.housingwire.com/articles/factory-built-housing-laws/",
-        "what": "California approved factory-built housing measures as modular leaders cite state and local rules as the main near-term driver",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/factory-built-housing-laws/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Polly launches PollyOS for mortgage pricing, hedging and trading",
-        "url": "https://www.housingwire.com/articles/pollyos-pricing-hedging-trading/",
-        "what": "Platform combines pricing and eligibility, Polly Hedge and a relaunched Loan Trading Exchange",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pollyos-pricing-hedging-trading/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/seniors-arent-keeping-up-with-their-credit-card-debt-reverse-mortgages-can-help/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "HousingWire names Laura Monroe Head of Industry Relations",
-        "url": "https://www.housingwire.com/articles/housingwire-names-laura-monroe-head-of-industry-relations/",
-        "what": "Monroe will build relationships across HousingWire, KCM, Altos Research and RealTrends Verified with brokerages, associations and networks",
+        "title": "Upstate New York bucking national housing slowdown",
+        "url": "https://www.housingwire.com/articles/upstate-new-york-bucking-national-housing-slowdown/",
+        "what": "Planned tech development is expected to bring even more buyers to upper New York",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housingwire-names-laura-monroe-head-of-industry-relations/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/upstate-new-york-bucking-national-housing-slowdown/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Rocket Mortgage names Nicole Beattie chief servicing officer",
+        "url": "https://www.housingwire.com/articles/rocket-mortgage-chief-servicing-officer/",
+        "what": "Move comes as Rocket’s servicing book tops $2 trillion and 9.1 million loans",
+        "numbers": "$2, 9.1 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-mortgage-chief-servicing-officer/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "These Are San Diego’s 5 Hottest Neighborhoods of 2026",
@@ -288,6 +297,33 @@
     ],
     "notables": [
       {
+        "title": "Timberline Homes buy will push Champion deeper into retail",
+        "url": "https://www.housingwire.com/articles/champion-homes-timberline-acquisition/",
+        "what": "The Timberline Homes acquisition, Champion Homes' third acquisition since 2025, signals a growing emphasis on direct-to-consumer sales",
+        "numbers": "2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/champion-homes-timberline-acquisition/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "CRMLS went on offense against Compass. Will other MLSs follow?",
+        "url": "https://www.housingwire.com/articles/crmls-sues-compass-cooperation/",
+        "what": "Industry leaders weigh in as CRMLS seeks to stop Compass from challenging MLS rules in court",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/crmls-sues-compass-cooperation/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "ARM reset wave set to crest in 2027, hit pockets of borrowers",
+        "url": "https://www.housingwire.com/articles/arm-resets-2027-limited-risk/",
+        "what": "ICE and Optimal Blue data point to a manageable wave of ARM adjustments",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/arm-resets-2027-limited-risk/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Cold call cost-per-deal benchmarks are leaving out most of the math",
         "url": "https://www.housingwire.com/articles/outbound-calling-cost-per-close/",
         "what": "Programs should be evaluated on cost per close, not just salary and dialer fees",
@@ -295,42 +331,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/outbound-calling-cost-per-close/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Better advances sale of Birmingham Bank to consortium",
-        "url": "https://www.housingwire.com/articles/better-birmingham-bank-sale/",
-        "what": "Better expects pro forma cash to rise to about $140 million if the transaction closes, based on Sept",
-        "numbers": "$140 million, 30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-birmingham-bank-sale/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "June Point Lending expands DSCR loans to California",
-        "url": "https://www.housingwire.com/articles/june-point-dscr-california/",
-        "what": "Wholesale non-QM lender now offers DSCR in 19 states",
-        "numbers": "19",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/june-point-dscr-california/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Rocket Pro October Power Play introduces Orbit rewards",
-        "url": "https://www.housingwire.com/articles/orbit-broker-rewards-rocket/",
-        "what": "Perks include eligible EPO fee protection, same-day conditional approvals and Padlock days converted to pricing credits",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/orbit-broker-rewards-rocket/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Earnnest names Russell Smith CEO, Rick Altizer vice chairman",
-        "url": "https://www.housingwire.com/articles/earnnest-smith-ceo-transition/",
-        "what": "The firm says it has processed 1 million transactions and $4 billion in volume since 2019",
-        "numbers": "1 million, $4 billion, 2019",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/earnnest-smith-ceo-transition/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ]
   }
