@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-07 01:31 UTC",
+  "as_of": "2026-10-07 08:38 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The return of the specialist: Why a more fragmented mortgage market favors active management",
+      "link": "https://www.housingwire.com/articles/fragmented-mortgage-active-management/",
+      "published": "Wed, 07 Oct 2026"
+    },
+    {
+      "title": "Non-QM is a fit, not a fallout",
+      "link": "https://www.housingwire.com/articles/non-qm-fit-not-fallout/",
+      "published": "Wed, 07 Oct 2026"
+    },
+    {
       "title": "Vishal Garg lays out Better 2.0 plan during shareholder call",
       "link": "https://www.housingwire.com/articles/better-2-plan-shareholder/",
       "published": "Tue, 06 Oct 2026"
@@ -157,16 +167,6 @@
     {
       "title": "CRMLS went on offense against Compass. Will other MLSs follow?",
       "link": "https://www.housingwire.com/articles/crmls-sues-compass-cooperation/",
-      "published": "Tue, 06 Oct 2026"
-    },
-    {
-      "title": "Upstate New York bucking national housing slowdown",
-      "link": "https://www.housingwire.com/articles/upstate-new-york-bucking-national-housing-slowdown/",
-      "published": "Tue, 06 Oct 2026"
-    },
-    {
-      "title": "UWM moves to dual-score model, auto-selects best result",
-      "link": "https://www.housingwire.com/articles/uwm-moves-to-dual-score-model/",
       "published": "Tue, 06 Oct 2026"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Will mortgage rates nearing 8% force lenders to make cuts or close their doors?",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-lenders-pressure/",
-        "what": "HousingWire Data shows the 30-year conforming average at 7.63%, up 31 bps in two weeks, while FHA rates rose 59 bps",
-        "numbers": "30, 7.63, 31, 59",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-lenders-pressure/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Mortgage Rates Tick Up Even as the Odds of a Fed Rate Hike Decline",
         "url": "https://www.redfin.com/news/weekly-economic-take-october-5/",
         "what": "In A Nutshell: There’s still upward pressure on rates, as bond market investors have all of the same worries that have caused mortgage rates to increase by 1.5 percentage points already this year",
@@ -240,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "The return of the specialist: Why a more fragmented mortgage market favors active management",
+        "url": "https://www.housingwire.com/articles/fragmented-mortgage-active-management/",
+        "what": "Cross-sector relative value, from agency MBS to whole loans and RMBS, can persist as mandates limit capital mobility",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fragmented-mortgage-active-management/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Seniors aren’t keeping up with their credit card debt. Reverse mortgages can help",
         "url": "https://www.housingwire.com/articles/seniors-arent-keeping-up-with-their-credit-card-debt-reverse-mortgages-can-help/",
@@ -288,6 +288,15 @@
     ],
     "notables": [
       {
+        "title": "Non-QM is a fit, not a fallout",
+        "url": "https://www.housingwire.com/articles/non-qm-fit-not-fallout/",
+        "what": "A growing share of loans are non-QM as bank statement and DSCR programs expand broker options",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/non-qm-fit-not-fallout/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Vishal Garg lays out Better 2.0 plan during shareholder call",
         "url": "https://www.housingwire.com/articles/better-2-plan-shareholder/",
         "what": "Daniel Lewis was removed as interim CEO effective Oct",
@@ -320,15 +329,6 @@
         "what": "ICE and Optimal Blue data point to a manageable wave of ARM adjustments",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/arm-resets-2027-limited-risk/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Cold call cost-per-deal benchmarks are leaving out most of the math",
-        "url": "https://www.housingwire.com/articles/outbound-calling-cost-per-close/",
-        "what": "Programs should be evaluated on cost per close, not just salary and dialer fees",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/outbound-calling-cost-per-close/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
