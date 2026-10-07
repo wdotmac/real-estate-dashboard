@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-07 08:38 UTC",
+  "as_of": "2026-10-07 16:28 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "The return of the specialist: Why a more fragmented mortgage market favors active management",
-      "link": "https://www.housingwire.com/articles/fragmented-mortgage-active-management/",
+      "title": "Civil rights groups warn private listings could widen housing inequities",
+      "link": "https://www.housingwire.com/articles/private-listings-first-time-buyers-access/",
       "published": "Wed, 07 Oct 2026"
     },
     {
-      "title": "Non-QM is a fit, not a fallout",
-      "link": "https://www.housingwire.com/articles/non-qm-fit-not-fallout/",
+      "title": "HUD chooses NIBS as factory-built multifamily housing trailblazer",
+      "link": "https://www.housingwire.com/articles/hud-nibs-factory-built-multifamily-housing/",
       "published": "Wed, 07 Oct 2026"
     },
     {
-      "title": "Vishal Garg lays out Better 2.0 plan during shareholder call",
-      "link": "https://www.housingwire.com/articles/better-2-plan-shareholder/",
-      "published": "Tue, 06 Oct 2026"
+      "title": "Six reasons to change your plans now, and come join us in Dallas",
+      "link": "https://www.housingwire.com/articles/homebuilding-leadership-dallas-summit/",
+      "published": "Wed, 07 Oct 2026"
     },
     {
-      "title": "Seniors aren’t keeping up with their credit card debt. Reverse mortgages can help",
-      "link": "https://www.housingwire.com/articles/seniors-arent-keeping-up-with-their-credit-card-debt-reverse-mortgages-can-help/",
-      "published": "Tue, 06 Oct 2026"
+      "title": "Indecomm launches AuditGenius AI tool for tying mortgage QC findings to guidelines",
+      "link": "https://www.housingwire.com/articles/auditgenius-ai-mortgage-qc/",
+      "published": "Wed, 07 Oct 2026"
     },
     {
-      "title": "Timberline Homes buy will push Champion deeper into retail",
-      "link": "https://www.housingwire.com/articles/champion-homes-timberline-acquisition/",
-      "published": "Tue, 06 Oct 2026"
+      "title": "Mortgage applications fall 4.2% as 30-year rate hits 7.49%",
+      "link": "https://www.housingwire.com/articles/mortgage-applications-fall-7-49/",
+      "published": "Wed, 07 Oct 2026"
     },
     {
-      "title": "CRMLS went on offense against Compass. Will other MLSs follow?",
-      "link": "https://www.housingwire.com/articles/crmls-sues-compass-cooperation/",
-      "published": "Tue, 06 Oct 2026"
+      "title": "UWM drops minimum credit score overlay for agency loans",
+      "link": "https://www.housingwire.com/articles/uwm-minimum-credit-score/",
+      "published": "Wed, 07 Oct 2026"
     },
     {
       "title": "Mortgage Rates Tick Up Even as the Odds of a Fed Rate Hike Decline",
@@ -203,11 +203,11 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "UWM moves to dual-score model, auto-selects best result",
-        "url": "https://www.housingwire.com/articles/uwm-moves-to-dual-score-model/",
-        "what": "Lender will obtain both FICO and VantageScore on every credit pull",
+        "title": "UWM drops minimum credit score overlay for agency loans",
+        "url": "https://www.housingwire.com/articles/uwm-minimum-credit-score/",
+        "what": "Eligibility now hinges on AUS findings across Fannie, Freddie, FHA, VA and USDA programs",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-moves-to-dual-score-model/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-minimum-credit-score/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
@@ -232,38 +232,65 @@
     ],
     "housing": [
       {
+        "title": "Civil rights groups warn private listings could widen housing inequities",
+        "url": "https://www.housingwire.com/articles/private-listings-first-time-buyers-access/",
+        "what": "The groups cite demographic gaps between sellers and first-time buyers, warning that withheld MLS exposure can advantage older, wealthier networks",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/private-listings-first-time-buyers-access/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "HUD chooses NIBS as factory-built multifamily housing trailblazer",
+        "url": "https://www.housingwire.com/articles/hud-nibs-factory-built-multifamily-housing/",
+        "what": "NBIS and MOD X will draft a framework for manufactured housing in developments of five-plus units and team up on HUD demos",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-nibs-factory-built-multifamily-housing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Indecomm launches AuditGenius AI tool for tying mortgage QC findings to guidelines",
+        "url": "https://www.housingwire.com/articles/auditgenius-ai-mortgage-qc/",
+        "what": "The tool, which will be previewed at MBA Annual, links all findings to page-level evidence and allows human auditor overrides",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/auditgenius-ai-mortgage-qc/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Mortgage applications fall 4.2% as 30-year rate hits 7.49%",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-fall-7-49/",
+        "what": "Refinance volume fell 8% week over week and was 56% below the same week last year, MBA data shows",
+        "numbers": "8, 56",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-fall-7-49/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Unlock MLS rejects Compass demand on clear cooperation fines",
+        "url": "https://www.housingwire.com/articles/unlock-mls-compass-ccp-fines/",
+        "what": "The MLS says enforcement starts with a courtesy notice, then a $100 fine, with up to $500 only after a hearing",
+        "numbers": "$100, $500",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/unlock-mls-compass-ccp-fines/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Integra Solutions, Donnell Systems partner to streamline mortgage servicer account oversight",
+        "url": "https://www.housingwire.com/articles/integra-donnell-systems-ocie-integra-recon-automate-mortgage-servicing-reconciliations/",
+        "what": "Move aims to cut manual effort, reduce operational risk, and improve transparency and audit readiness for servicers",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/integra-donnell-systems-ocie-integra-recon-automate-mortgage-servicing-reconciliations/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "The return of the specialist: Why a more fragmented mortgage market favors active management",
         "url": "https://www.housingwire.com/articles/fragmented-mortgage-active-management/",
         "what": "Cross-sector relative value, from agency MBS to whole loans and RMBS, can persist as mandates limit capital mobility",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/fragmented-mortgage-active-management/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Seniors aren’t keeping up with their credit card debt. Reverse mortgages can help",
-        "url": "https://www.housingwire.com/articles/seniors-arent-keeping-up-with-their-credit-card-debt-reverse-mortgages-can-help/",
-        "what": "As credit card and HELOC balances grow, reverse mortgages and their voluntary payment structures should be considered",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/seniors-arent-keeping-up-with-their-credit-card-debt-reverse-mortgages-can-help/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Upstate New York bucking national housing slowdown",
-        "url": "https://www.housingwire.com/articles/upstate-new-york-bucking-national-housing-slowdown/",
-        "what": "Planned tech development is expected to bring even more buyers to upper New York",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/upstate-new-york-bucking-national-housing-slowdown/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Rocket Mortgage names Nicole Beattie chief servicing officer",
-        "url": "https://www.housingwire.com/articles/rocket-mortgage-chief-servicing-officer/",
-        "what": "Move comes as Rocket’s servicing book tops $2 trillion and 9.1 million loans",
-        "numbers": "$2, 9.1 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-mortgage-chief-servicing-officer/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -275,60 +302,24 @@
         "justified": "redfin.com — https://www.redfin.com/news/san-diego-hottest-neighborhoods-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Price-Drop Rate Ticks Up to Record September Rate Amid Strong Buyer’s Market",
-        "url": "https://www.redfin.com/news/price-drop-rate-ticks-up/",
-        "what": "21% of U.S",
-        "numbers": "21, 20,, 19.8",
-        "justified": "redfin.com — https://www.redfin.com/news/price-drop-rate-ticks-up/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
+      {
+        "title": "Six reasons to change your plans now, and come join us in Dallas",
+        "url": "https://www.housingwire.com/articles/homebuilding-leadership-dallas-summit/",
+        "what": "The 2.5-day Dallas agenda centers on execution, customer value, construction velocity, and leadership judgment",
+        "numbers": "2.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilding-leadership-dallas-summit/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Non-QM is a fit, not a fallout",
         "url": "https://www.housingwire.com/articles/non-qm-fit-not-fallout/",
         "what": "A growing share of loans are non-QM as bank statement and DSCR programs expand broker options",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/non-qm-fit-not-fallout/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Vishal Garg lays out Better 2.0 plan during shareholder call",
-        "url": "https://www.housingwire.com/articles/better-2-plan-shareholder/",
-        "what": "Daniel Lewis was removed as interim CEO effective Oct",
-        "numbers": "5,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-2-plan-shareholder/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Timberline Homes buy will push Champion deeper into retail",
-        "url": "https://www.housingwire.com/articles/champion-homes-timberline-acquisition/",
-        "what": "The Timberline Homes acquisition, Champion Homes' third acquisition since 2025, signals a growing emphasis on direct-to-consumer sales",
-        "numbers": "2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/champion-homes-timberline-acquisition/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CRMLS went on offense against Compass. Will other MLSs follow?",
-        "url": "https://www.housingwire.com/articles/crmls-sues-compass-cooperation/",
-        "what": "Industry leaders weigh in as CRMLS seeks to stop Compass from challenging MLS rules in court",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/crmls-sues-compass-cooperation/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "ARM reset wave set to crest in 2027, hit pockets of borrowers",
-        "url": "https://www.housingwire.com/articles/arm-resets-2027-limited-risk/",
-        "what": "ICE and Optimal Blue data point to a manageable wave of ARM adjustments",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/arm-resets-2027-limited-risk/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
