@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-08 08:57 UTC",
+  "as_of": "2026-10-08 16:27 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": -4.0000000000000036
     },
     "mortgage_30y": {
-      "rate_pct": 7.28,
-      "delta_bp_wow": 25.0
+      "rate_pct": 7.4,
+      "delta_bp_wow": 12.00000000000001
     },
     "starts": {
       "level_saar": 1275.0,
@@ -140,34 +140,39 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "UAD 3.6 is coming. Hybrid appraisals are built for it.",
-      "link": "https://www.housingwire.com/articles/uad-3-6-hybrid-appraisals/",
+      "title": "MRED, NoCoast MLS partner to expand Midwest market access",
+      "link": "https://www.housingwire.com/articles/mred-nocoast-mls-partner-to-expand-midwest-market-access/",
       "published": "Thu, 08 Oct 2026"
     },
     {
-      "title": "Confessions of a content hoarder: What 107 dead pages taught me",
-      "link": "https://www.housingwire.com/articles/zero-click-pages-lender-content/",
+      "title": "PulteGroup expands Explore by Del Webb to Utah",
+      "link": "https://www.housingwire.com/articles/pultegroup-explore-del-webb-utah/",
       "published": "Thu, 08 Oct 2026"
     },
     {
-      "title": "Bank of America: Older Americans have taken on a bigger economic role",
-      "link": "https://www.housingwire.com/articles/bank-of-america-older-americans-have-taken-on-a-bigger-economic-role/",
-      "published": "Wed, 07 Oct 2026"
+      "title": "eXp Realty and Newrez form Revenos Mortgage joint venture",
+      "link": "https://www.housingwire.com/articles/exp-newrez-revenos-mortgage-jv/",
+      "published": "Thu, 08 Oct 2026"
     },
     {
-      "title": "HUD opens probe into Wells Fargo’s race-based mortgage programs",
-      "link": "https://www.housingwire.com/articles/hud-investigation-wells-fargo-race/",
-      "published": "Wed, 07 Oct 2026"
+      "title": "eXp gives agents new tools to win listings and never miss a showing",
+      "link": "https://www.housingwire.com/articles/exp-showgo-exp-ready/",
+      "published": "Thu, 08 Oct 2026"
     },
     {
-      "title": "FICO to cut 15% of staff, reduce management layers",
-      "link": "https://www.housingwire.com/articles/fico-layoffs-competition-mortgages/",
-      "published": "Wed, 07 Oct 2026"
+      "title": "eXp Realty doesn’t want to build another chatbot. It wants to connect to yours",
+      "link": "https://www.housingwire.com/articles/exp-mcp-first-ai/",
+      "published": "Thu, 08 Oct 2026"
     },
     {
-      "title": "New $100 million Baltimore fund targets vacant housing pipeline",
-      "link": "https://www.housingwire.com/articles/baltimore-vacant-housing-fund/",
-      "published": "Wed, 07 Oct 2026"
+      "title": "FHA lending to nonpermanent residents has dropped in the wake of HUD’s rule change",
+      "link": "https://www.housingwire.com/articles/fha-residency-rule-change/",
+      "published": "Thu, 08 Oct 2026"
+    },
+    {
+      "title": "U.S. Housing Costs Could Return to “Normal” Within 5 Years. Here’s What It Would Take.",
+      "link": "https://www.redfin.com/news/return-to-normal-housing-costs/",
+      "published": "Thu, 08 Oct 2026"
     },
     {
       "title": "Mortgage Rates Tick Up Even as the Odds of a Fed Rate Hike Decline",
@@ -193,32 +198,18 @@
       "title": "Mortgage Rates Jump as Markets Price in More Fed Rate Hikes",
       "link": "https://www.redfin.com/news/mortgage-rates-rise-economic-concerns/",
       "published": "Mon, 28 Sep 2026"
-    },
-    {
-      "title": "Las Vegas and Florida Are America’s Hottest Destinations For Relocating House Hunters",
-      "link": "https://www.redfin.com/news/migration-q2-2026/",
-      "published": "Thu, 24 Sep 2026"
     }
   ],
   "feed_101020": {
     "macro": [
       {
-        "title": "Bank of America: Older Americans have taken on a bigger economic role",
-        "url": "https://www.housingwire.com/articles/bank-of-america-older-americans-have-taken-on-a-bigger-economic-role/",
-        "what": "Households headed by someone 55 or older held close to $140 trillion in net worth as of Q2 2026",
-        "numbers": "55, $140, 2, 2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bank-of-america-older-americans-have-taken-on-a-bigger-economic-role/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "FICO to cut 15% of staff, reduce management layers",
-        "url": "https://www.housingwire.com/articles/fico-layoffs-competition-mortgages/",
-        "what": "The move comes as regulators and large lenders are embracing competing credit score models",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fico-layoffs-competition-mortgages/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "U.S. Housing Costs Could Return to “Normal” Within 5 Years. Here’s What It Would Take.",
+        "url": "https://www.redfin.com/news/return-to-normal-housing-costs/",
+        "what": "Housing costs could hypothetically return to “normal” within the next five years if mortgage rates drop to 6% and home-price growth holds steady around 2.1%",
+        "numbers": "6, 2.1, 7.5, 5",
+        "justified": "redfin.com — https://www.redfin.com/news/return-to-normal-housing-costs/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Mortgage Rates Tick Up Even as the Odds of a Fed Rate Hike Decline",
@@ -241,40 +232,31 @@
     ],
     "housing": [
       {
-        "title": "HUD opens probe into Wells Fargo’s race-based mortgage programs",
-        "url": "https://www.housingwire.com/articles/hud-investigation-wells-fargo-race/",
-        "what": "HUD says bank initiatives may violate the Fair Housing Act",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-investigation-wells-fargo-race/",
+        "title": "eXp Realty and Newrez form Revenos Mortgage joint venture",
+        "url": "https://www.housingwire.com/articles/exp-newrez-revenos-mortgage-jv/",
+        "what": "Revenos is slated to go live in early 2027",
+        "numbers": "2027",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-newrez-revenos-mortgage-jv/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "New $100 million Baltimore fund targets vacant housing pipeline",
-        "url": "https://www.housingwire.com/articles/baltimore-vacant-housing-fund/",
-        "what": "The Greater Baltimore Committee and Enterprise will launch a Funders’ Consortium in November",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/baltimore-vacant-housing-fund/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Hive MLS agents will soon be able to see buyer demand before a listing hits",
-        "url": "https://www.housingwire.com/articles/gitcha-bls-hive-mls/",
-        "what": "Rollout starts in December for nearly 20,000 brokers and appraisers across 6 Southeastern states",
-        "numbers": "20,000, 6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/gitcha-bls-hive-mls/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Civil rights groups warn private listings could widen housing inequities",
-        "url": "https://www.housingwire.com/articles/private-listings-first-time-buyers-access/",
-        "what": "The groups cite demographic gaps between sellers and first-time buyers, warning that withheld MLS exposure can advantage older, wealthier networks",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/private-listings-first-time-buyers-access/",
+        "title": "eXp gives agents new tools to win listings and never miss a showing",
+        "url": "https://www.housingwire.com/articles/exp-showgo-exp-ready/",
+        "what": "eXp Ready offers up to $50,000 for pre-listing improvements, repaid at closing or within 12 months",
+        "numbers": "$50,000, 12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-showgo-exp-ready/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "70% of mortgage executives just told you the future",
+        "url": "https://www.housingwire.com/articles/mortgage-executives-rates-2027/",
+        "what": "Are we creating strategic optionality?",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-executives-rates-2027/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "These Are San Diego’s 5 Hottest Neighborhoods of 2026",
@@ -288,40 +270,67 @@
     ],
     "notables": [
       {
-        "title": "UAD 3.6 is coming. Hybrid appraisals are built for it.",
-        "url": "https://www.housingwire.com/articles/uad-3-6-hybrid-appraisals/",
-        "what": "Hybrid eligibility is now in the high-90% range for some programs, expanding use cases ahead of Nov",
-        "numbers": "90, 2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uad-3-6-hybrid-appraisals/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Confessions of a content hoarder: What 107 dead pages taught me",
-        "url": "https://www.housingwire.com/articles/zero-click-pages-lender-content/",
-        "what": "Tough-love advice to marketers about their bloated websites",
+        "title": "MRED, NoCoast MLS partner to expand Midwest market access",
+        "url": "https://www.housingwire.com/articles/mred-nocoast-mls-partner-to-expand-midwest-market-access/",
+        "what": "MRED and NoCoast MLS teams are already working on the technical implementation of the partnership",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zero-click-pages-lender-content/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mred-nocoast-mls-partner-to-expand-midwest-market-access/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Property tax delinquency reaches highest level since 2017",
-        "url": "https://www.housingwire.com/articles/property-tax-delinquency-reaches-highest-level-since-2017/",
-        "what": "North Dakota recorded the lowest rate at 1.4%, followed by Wisconsin (1.5%)",
-        "numbers": "1.4, 1.5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/property-tax-delinquency-reaches-highest-level-since-2017/",
+        "title": "PulteGroup expands Explore by Del Webb to Utah",
+        "url": "https://www.housingwire.com/articles/pultegroup-explore-del-webb-utah/",
+        "what": "The new Explore by Del Webb lifestyle brand to will bring about 900 homes to Utah’s Jordanelle Ridge near Park City",
+        "numbers": "900",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pultegroup-explore-del-webb-utah/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "eXp Realty doesn’t want to build another chatbot. It wants to connect to yours",
+        "url": "https://www.housingwire.com/articles/exp-mcp-first-ai/",
+        "what": "Agents can authorize connections inside their preferred chat tool, reducing manual exports and repeated data updates",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-mcp-first-ai/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "FHA lending to nonpermanent residents has dropped in the wake of HUD’s rule change",
+        "url": "https://www.housingwire.com/articles/fha-residency-rule-change/",
+        "what": "ICE data shows the FHA purchase share for this group fell from 5.8% to 0.1% after a rule change in May 2025",
+        "numbers": "5.8, 0.1, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-residency-rule-change/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "The 90-day business reset every real estate agent should do before 2027",
+        "url": "https://www.housingwire.com/articles/90-day-reset-agents-2027/",
+        "what": "Run a business audit, rebuild your database, and lock 3 decisions for what to do more of and stop doing.",
+        "numbers": "3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/90-day-reset-agents-2027/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Why the condo sale next door may not be the best comp",
+        "url": "https://www.housingwire.com/articles/miami-condo-appraisals-relevant-comps/",
+        "what": "Why market definition may be the missing layer between property data and actionable market intelligence",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/miami-condo-appraisals-relevant-comps/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Compass, Qualia expand title and escrow partnership",
+        "url": "https://www.housingwire.com/articles/compass-qualia-expand-title-and-escrow-partnership/",
+        "what": "Consolidation will replace separate systems Compass inherited following its merger with Anywhere Real Estate",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-qualia-expand-title-and-escrow-partnership/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Your next buyer or seller may ask ChatGPT for an agent. Will your name come up?",
-        "url": "https://www.housingwire.com/articles/your-next-client-may-ask-chatgpt-for-an-agent-will-your-name-come-up/",
-        "what": "An agent's own claims are only part of the information AI can use to evaluate that agent",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/your-next-client-may-ask-chatgpt-for-an-agent-will-your-name-come-up/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
