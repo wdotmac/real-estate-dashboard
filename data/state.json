@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-10-13 15:58 UTC",
+  "as_of": "2026-10-13 21:14 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.22,
-      "delta_bp_1d": -6.00000000000005
+      "yield_pct": 5.24,
+      "delta_bp_1d": 2.000000000000046
     },
     "mortgage_30y": {
       "rate_pct": 7.4,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "D.R. Horton tests Promise Robotics factory model for 1,250 homes",
-      "link": "https://www.housingwire.com/articles/promise-robotics-dr-horton-factory/",
+      "title": "Miami’s Little Havana confronts housing density’s double edge",
+      "link": "https://www.housingwire.com/articles/little-havana-density-housing/",
       "published": "Tue, 13 Oct 2026"
     },
     {
-      "title": "Mortgage rates hold at 7.63% as inflation pressures persist",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-763-fha-jumbo/",
+      "title": "Some builders beat an entry-level retreat. Valera eyes an opening",
+      "link": "https://www.housingwire.com/articles/valera-homes-houston-entry-level/",
       "published": "Tue, 13 Oct 2026"
     },
     {
-      "title": "JPMorgan, Wells Fargo mortgage revenue falls in Q3",
-      "link": "https://www.housingwire.com/articles/q3-mortgage-revenue-decline/",
+      "title": "HUD eyes 203(k) renovation changes to boost housing supply",
+      "link": "https://www.housingwire.com/articles/fha-203k-renovation-program/",
       "published": "Tue, 13 Oct 2026"
     },
     {
-      "title": "ARMLS, HouseCanary expand Google Listings Program in Arizona",
-      "link": "https://www.housingwire.com/articles/armls-housecanary-google-listings/",
+      "title": "The MLS was built around sellers. Gitcha wants to change that",
+      "link": "https://www.housingwire.com/articles/gitcha-mls-buyer-listing-service/",
       "published": "Tue, 13 Oct 2026"
     },
     {
-      "title": "Longbridge Financial elevates Larissa Morrell to VP of product development",
-      "link": "https://www.housingwire.com/articles/longbridge-financial-larissa-morrell-vice-president-product-development/",
+      "title": "Ryan Serhant’s AI bet could help agents create more content in less time",
+      "link": "https://www.housingwire.com/articles/ryan-serhants-ai-bet-could-help-agents-create-more-content-in-less-time/",
       "published": "Tue, 13 Oct 2026"
     },
     {
-      "title": "Why the Mitchells sold the builder but kept the land platform",
-      "link": "https://www.housingwire.com/articles/mitchells-sell-builder-keep-land/",
+      "title": "Optimal Blue data shows non-QM lending, ARM usage is expanding",
+      "link": "https://www.housingwire.com/articles/non-qm-arms-optimal-blue/",
       "published": "Tue, 13 Oct 2026"
     },
     {
@@ -203,13 +203,22 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Mortgage rates hold at 7.63% as inflation pressures persist",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-763-fha-jumbo/",
-        "what": "FHA fell to 7.37% from 7.59% and jumbo slipped 10 bps to 7.75% as Treasury yields stayed elevated",
-        "numbers": "7.37, 7.59, 10, 7.75",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-763-fha-jumbo/",
+        "title": "Existing home sales beat estimates, but don’t reflect recent higher rates",
+        "url": "https://www.housingwire.com/articles/existing-home-sales-beat-estimates-but-dont-reflect-recent-higher-rates/",
+        "what": "NAR showed sales up 1.5% month over month, but rates have rapidly increased in the last few weeks",
+        "numbers": "1.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/existing-home-sales-beat-estimates-but-dont-reflect-recent-higher-rates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Experian expands Power Profile Plus, adds unlimited soft pulls",
+        "url": "https://www.housingwire.com/articles/experian-power-profile-plus/",
+        "what": "The tool pairs a full Experian credit profile with VantageScore 4.0 and supports a later shift to a hard inquiry",
+        "numbers": "4.0",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/experian-power-profile-plus/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "All Eyes on Wednesday’s Inflation Report as Markets Weigh How Many More Fed Hikes Are Left",
@@ -241,31 +250,40 @@
     ],
     "housing": [
       {
-        "title": "JPMorgan, Wells Fargo mortgage revenue falls in Q3",
-        "url": "https://www.housingwire.com/articles/q3-mortgage-revenue-decline/",
-        "what": "Both banks reported higher net income year over year in the third quarter",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/q3-mortgage-revenue-decline/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "title": "Miami’s Little Havana confronts housing density’s double edge",
+        "url": "https://www.housingwire.com/articles/little-havana-density-housing/",
+        "what": "Plan would allow up to 150 units per acre and 8-story buildings, while design rules and state review could extend timelines",
+        "numbers": "150, 8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/little-havana-density-housing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "ARMLS, HouseCanary expand Google Listings Program in Arizona",
-        "url": "https://www.housingwire.com/articles/armls-housecanary-google-listings/",
-        "what": "Unlike other MLS deals, ARMLS participation is opt in and brokerages can also enroll directly through HouseCanary",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/armls-housecanary-google-listings/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Why the Mitchells sold the builder but kept the land platform",
-        "url": "https://www.housingwire.com/articles/mitchells-sell-builder-keep-land/",
-        "what": "Century Communities bought scale in Dallas-Fort Worth while Jabez and ONM Living stayed with the family",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mitchells-sell-builder-keep-land/",
+        "title": "Some builders beat an entry-level retreat. Valera eyes an opening",
+        "url": "https://www.housingwire.com/articles/valera-homes-houston-entry-level/",
+        "what": "A StoneManor Homes brand extension, Valera Homes will offer Houston-area homes priced from the $270s to the $350s",
+        "numbers": "$270, $350",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/valera-homes-houston-entry-level/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "HUD eyes 203(k) renovation changes to boost housing supply",
+        "url": "https://www.housingwire.com/articles/fha-203k-renovation-program/",
+        "what": "Recent draw changes and a potential review of consultant requirements signal a refocus on the product",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-203k-renovation-program/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Serving clients or breaking bylaws? AI shortcuts into the MLS are all the rage",
+        "url": "https://www.housingwire.com/articles/mls-security-ai-bots/",
+        "what": "HousingWire exclusive columnist Craig Rowe explores how agents are using AI tools to automate MLS workflows, in many cases against MLS bylaws.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-security-ai-bots/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "The Hottest Neighborhood on Chicago’s Red Line: Near North Side",
@@ -279,56 +297,38 @@
     ],
     "notables": [
       {
-        "title": "D.R. Horton tests Promise Robotics factory model for 1,250 homes",
-        "url": "https://www.housingwire.com/articles/promise-robotics-dr-horton-factory/",
-        "what": "Promise Robotics says it can frame a typical 1,800-square-foot home in about eight hours",
-        "numbers": "1,800",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/promise-robotics-dr-horton-factory/",
+        "title": "The MLS was built around sellers. Gitcha wants to change that",
+        "url": "https://www.housingwire.com/articles/gitcha-mls-buyer-listing-service/",
+        "what": "Founder Dan Cooper said five MLSs have signed on since early 2025, with more partnerships expected after contract reviews",
+        "numbers": "2025,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/gitcha-mls-buyer-listing-service/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Longbridge Financial elevates Larissa Morrell to VP of product development",
-        "url": "https://www.housingwire.com/articles/longbridge-financial-larissa-morrell-vice-president-product-development/",
-        "what": "The promotion signals Longbridge’s push to deepen offerings for senior homeowners and retirement-focused home equity products",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/longbridge-financial-larissa-morrell-vice-president-product-development/",
+        "title": "Ryan Serhant’s AI bet could help agents create more content in less time",
+        "url": "https://www.housingwire.com/articles/ryan-serhants-ai-bet-could-help-agents-create-more-content-in-less-time/",
+        "what": "@HeySerhant will publish original content daily for the next 12 months",
+        "numbers": "12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ryan-serhants-ai-bet-could-help-agents-create-more-content-in-less-time/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "The next AI advantage in real estate is remembering the buyer",
-        "url": "https://www.housingwire.com/articles/real-estate-ai-needs-memory-context/",
-        "what": "Why retaining the context of a buyer's search is the true test of a real estate AI assistant",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-ai-needs-memory-context/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "Optimal Blue data shows non-QM lending, ARM usage is expanding",
+        "url": "https://www.housingwire.com/articles/non-qm-arms-optimal-blue/",
+        "what": "Non-QM represented 12% of production in September as the 30-year conforming rate ended the month at 7.39%",
+        "numbers": "12, 30, 7.39",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/non-qm-arms-optimal-blue/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Beyond closing: The next chapter of affordability",
-        "url": "https://www.housingwire.com/articles/affordability-beyond-closing-lenders/",
-        "what": "Rethinking lender value in a world where customer expectations extend beyond closing",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/affordability-beyond-closing-lenders/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Lawsuit claims Compass downplayed regulatory risks ahead of Anywhere acquisition",
-        "url": "https://www.housingwire.com/articles/compass-anywhere-shareholder-lawsuit/",
-        "what": "Robbins LLP filed the proposed class action, lead plaintiff deadline is December 7",
-        "numbers": "7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-anywhere-shareholder-lawsuit/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Victor Padilla named co-CEO of HIC Land",
-        "url": "https://www.housingwire.com/articles/victor-padilla-co-ceo-hic-land/",
-        "what": "The land banking and land development firm has 48,000 lots under control or under development in eight states across the Southeast",
-        "numbers": "48,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/victor-padilla-co-ceo-hic-land/",
+        "title": "Regulators should rethink proposed CRA changes, NAAHL says",
+        "url": "https://www.housingwire.com/articles/naahl-cra-proposed-changes/",
+        "what": "Proposed asset threshold changes could leave 31 million people in areas with limited community development coverage, association claims",
+        "numbers": "31 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/naahl-cra-proposed-changes/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
