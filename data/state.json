@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-14 06:08 UTC",
+  "as_of": "2026-10-14 11:51 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Florida’s Live Local turns tables in Hollywood’s 30-story tower fight",
+      "link": "https://www.housingwire.com/articles/hollywood-live-local-tower/",
+      "published": "Wed, 14 Oct 2026"
+    },
+    {
+      "title": "Every servicing exception needs an owner and a clock",
+      "link": "https://www.housingwire.com/articles/servicing-exceptions-owner-clock/",
+      "published": "Wed, 14 Oct 2026"
+    },
+    {
+      "title": "How equity buyouts work in a divorce refinance",
+      "link": "https://www.housingwire.com/articles/divorce-refinance-equity-buyout/",
+      "published": "Wed, 14 Oct 2026"
+    },
+    {
       "title": "Miami’s Little Havana confronts housing density’s double edge",
       "link": "https://www.housingwire.com/articles/little-havana-density-housing/",
       "published": "Tue, 13 Oct 2026"
@@ -155,19 +170,9 @@
       "published": "Tue, 13 Oct 2026"
     },
     {
-      "title": "The MLS was built around sellers. Gitcha wants to change that",
-      "link": "https://www.housingwire.com/articles/gitcha-mls-buyer-listing-service/",
-      "published": "Tue, 13 Oct 2026"
-    },
-    {
-      "title": "Ryan Serhant’s AI bet could help agents create more content in less time",
-      "link": "https://www.housingwire.com/articles/ryan-serhants-ai-bet-could-help-agents-create-more-content-in-less-time/",
-      "published": "Tue, 13 Oct 2026"
-    },
-    {
-      "title": "Optimal Blue data shows non-QM lending, ARM usage is expanding",
-      "link": "https://www.housingwire.com/articles/non-qm-arms-optimal-blue/",
-      "published": "Tue, 13 Oct 2026"
+      "title": "A Smile Is America’s Favorite Way to Greet a Neighbor",
+      "link": "https://www.redfin.com/news/greeting-neighbors-smile/",
+      "published": "Wed, 14 Oct 2026"
     },
     {
       "title": "All Eyes on Wednesday’s Inflation Report as Markets Weigh How Many More Fed Hikes Are Left",
@@ -193,11 +198,6 @@
       "title": "Mortgage Rates Tick Up Even as the Odds of a Fed Rate Hike Decline",
       "link": "https://www.redfin.com/news/weekly-economic-take-october-5/",
       "published": "Mon, 05 Oct 2026"
-    },
-    {
-      "title": "Soft September Jobs Report May Give Fed Reason to Pause Rate Hikes, Slowing Ascent of Mortgage Rates",
-      "link": "https://www.redfin.com/news/soft-september-jobs-meaning-for-mortgage-rates/",
-      "published": "Fri, 02 Oct 2026"
     }
   ],
   "feed_101020": {
@@ -210,15 +210,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/existing-home-sales-beat-estimates-but-dont-reflect-recent-higher-rates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Experian expands Power Profile Plus, adds unlimited soft pulls",
-        "url": "https://www.housingwire.com/articles/experian-power-profile-plus/",
-        "what": "The tool pairs a full Experian credit profile with VantageScore 4.0 and supports a later shift to a hard inquiry",
-        "numbers": "4.0",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/experian-power-profile-plus/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "All Eyes on Wednesday’s Inflation Report as Markets Weigh How Many More Fed Hikes Are Left",
@@ -250,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "A Smile Is America’s Favorite Way to Greet a Neighbor",
+        "url": "https://www.redfin.com/news/greeting-neighbors-smile/",
+        "what": "Smiling is the most common way U.S",
+        "numbers": "45, 40, 51, 49",
+        "justified": "redfin.com — https://www.redfin.com/news/greeting-neighbors-smile/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "How equity buyouts work in a divorce refinance",
+        "url": "https://www.housingwire.com/articles/divorce-refinance-equity-buyout/",
+        "what": "Appraisal minus mortgage balance sets equity, but the buyout amount hinges on solo borrowing capacity",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/divorce-refinance-equity-buyout/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Miami’s Little Havana confronts housing density’s double edge",
         "url": "https://www.housingwire.com/articles/little-havana-density-housing/",
         "what": "Plan would allow up to 150 units per acre and 8-story buildings, while design rules and state review could extend timelines",
@@ -277,15 +286,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Serving clients or breaking bylaws? AI shortcuts into the MLS are all the rage",
-        "url": "https://www.housingwire.com/articles/mls-security-ai-bots/",
-        "what": "HousingWire exclusive columnist Craig Rowe explores how agents are using AI tools to automate MLS workflows, in many cases against MLS bylaws.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-security-ai-bots/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "The Hottest Neighborhood on Chicago’s Red Line: Near North Side",
         "url": "https://www.redfin.com/news/chicago-hottest-neighborhoods-red-line-2026/",
         "what": "Near North Side is the hottest neighborhood along the Red Line in 2026, followed by Uptown and Near South Side, according to a Redfin ranking",
@@ -296,6 +296,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "Florida’s Live Local turns tables in Hollywood’s 30-story tower fight",
+        "url": "https://www.housingwire.com/articles/hollywood-live-local-tower/",
+        "what": "Commissioners voted 6-1 after 12 hours of public input, the county’s next step hinges on a resident lawsuit",
+        "numbers": "6, 1, 12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hollywood-live-local-tower/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Every servicing exception needs an owner and a clock",
+        "url": "https://www.housingwire.com/articles/servicing-exceptions-owner-clock/",
+        "what": "MBA data shows nonperforming servicing costs $1,573 per loan vs $176, exceptions can push costs higher",
+        "numbers": "$1,573, $176,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/servicing-exceptions-owner-clock/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "The MLS was built around sellers. Gitcha wants to change that",
         "url": "https://www.housingwire.com/articles/gitcha-mls-buyer-listing-service/",
@@ -322,15 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/non-qm-arms-optimal-blue/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Regulators should rethink proposed CRA changes, NAAHL says",
-        "url": "https://www.housingwire.com/articles/naahl-cra-proposed-changes/",
-        "what": "Proposed asset threshold changes could leave 31 million people in areas with limited community development coverage, association claims",
-        "numbers": "31 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/naahl-cra-proposed-changes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
