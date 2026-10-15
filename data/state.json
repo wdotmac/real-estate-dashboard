@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-15 09:53 UTC",
+  "as_of": "2026-10-15 15:00 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Pineapple Financial rebrands as Pentiv, launches US mortgage broker intelligence platform",
+      "link": "https://www.housingwire.com/articles/pineapple-financial-rebrands-pentiv-launches-mortgage-brokerage-intelligence-platform/",
+      "published": "Thu, 15 Oct 2026"
+    },
+    {
+      "title": "An alleged agent boycott revives antitrust questions the industry thought it had settled",
+      "link": "https://www.housingwire.com/articles/rex-colorado-antitrust-lawsuit/",
+      "published": "Thu, 15 Oct 2026"
+    },
+    {
       "title": "The real test of AI in property management happens the moment a human steps in",
       "link": "https://www.housingwire.com/articles/ai-human-handoff-trust/",
       "published": "Thu, 15 Oct 2026"
@@ -160,14 +170,9 @@
       "published": "Wed, 14 Oct 2026"
     },
     {
-      "title": "AI can speed up permitting, but messy zoning data holds it back",
-      "link": "https://www.housingwire.com/articles/ai-permitting-zoning-limits/",
-      "published": "Wed, 14 Oct 2026"
-    },
-    {
-      "title": "When real estate listing scarcity becomes the strategy, who benefits?",
-      "link": "https://www.housingwire.com/articles/compass-private-listings-fair-housing/",
-      "published": "Wed, 14 Oct 2026"
+      "title": "Housing Market Update: Asking Prices Fall For the First Time Since March",
+      "link": "https://www.redfin.com/news/housing-market-update-asking-prices-decline-october/",
+      "published": "Thu, 15 Oct 2026"
     },
     {
       "title": "Home Sellers Now Outnumber Buyers By 63%, the Biggest Gap Since the Post-Recession Housing Crash",
@@ -193,11 +198,6 @@
       "title": "The Hottest Neighborhood on Chicago’s Red Line: Near North Side",
       "link": "https://www.redfin.com/news/chicago-hottest-neighborhoods-red-line-2026/",
       "published": "Mon, 12 Oct 2026"
-    },
-    {
-      "title": "U.S. Pending Home Sales Sink Near 12-Year Low",
-      "link": "https://www.redfin.com/news/pending-home-sales-sink-rates/",
-      "published": "Mon, 12 Oct 2026"
     }
   ],
   "feed_101020": {
@@ -219,18 +219,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-ahead-cpi-october-12/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "U.S. Pending Home Sales Sink Near 12-Year Low",
-        "url": "https://www.redfin.com/news/pending-home-sales-sink-rates/",
-        "what": "U.S",
-        "numbers": "2014,, 2020., 7, 1.3, 12",
-        "justified": "redfin.com — https://www.redfin.com/news/pending-home-sales-sink-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Pineapple Financial rebrands as Pentiv, launches US mortgage broker intelligence platform",
+        "url": "https://www.housingwire.com/articles/pineapple-financial-rebrands-pentiv-launches-mortgage-brokerage-intelligence-platform/",
+        "what": "The Canadian-based company hired former SoFi executive Usman Maher as it seeks growth in the U.S.",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pineapple-financial-rebrands-pentiv-launches-mortgage-brokerage-intelligence-platform/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Housing Market Update: Asking Prices Fall For the First Time Since March",
+        "url": "https://www.redfin.com/news/housing-market-update-asking-prices-decline-october/",
+        "what": "Pending home sales inched up this week, but they’re still near record lows",
+        "numbers": "11, 0.5",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-asking-prices-decline-october/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Before your borrower’s AI agent calls mine: Three questions mortgage servicers aren’t asking yet",
         "url": "https://www.housingwire.com/articles/borrower-ai-agents-servicing/",
@@ -286,24 +295,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Compass CEO defends private listings, says MLSs make homes look ‘damaged’",
-        "url": "https://www.housingwire.com/articles/reffkin-private-exclusives-mls/",
-        "what": "Reffkin said 43% of listings had a price drop history in September, and 6% were pulled off market",
-        "numbers": "43, 6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reffkin-private-exclusives-mls/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Saluda Grade invests $20M in manufactured housing lender Zippy",
-        "url": "https://www.housingwire.com/articles/saluda-grade-20-million-series-c-zippy/",
-        "what": "Investment will help Zippy expand its 27-state footprint",
-        "numbers": "27",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/saluda-grade-20-million-series-c-zippy/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Home Sellers Now Outnumber Buyers By 63%, the Biggest Gap Since the Post-Recession Housing Crash",
         "url": "https://www.redfin.com/news/buyers-vs-sellers-september-2026/",
         "what": "House hunters had more negotiating power in September than they’ve had since the housing market crashed after the 2008 financial crisis, with 63% more home sellers than buyers",
@@ -323,6 +314,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "An alleged agent boycott revives antitrust questions the industry thought it had settled",
+        "url": "https://www.housingwire.com/articles/rex-colorado-antitrust-lawsuit/",
+        "what": "The suit alleges threats to discourage showings because REX did not use the MLS or offer buyer broker compensation",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rex-colorado-antitrust-lawsuit/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "The real test of AI in property management happens the moment a human steps in",
         "url": "https://www.housingwire.com/articles/ai-human-handoff-trust/",
