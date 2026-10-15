@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-10-15 19:06 UTC",
+  "as_of": "2026-10-15 22:17 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.21,
-      "delta_bp_1d": -3.000000000000025
+      "yield_pct": 5.19,
+      "delta_bp_1d": -1.9999999999999574
     },
     "mortgage_30y": {
       "rate_pct": 7.4,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Will home equity investments take flight once their regulatory status is resolved?",
-      "link": "https://www.housingwire.com/articles/home-equity-investments-regulation/",
+      "title": "New York 485-x filings cluster at 99 units to avoid wage rule",
+      "link": "https://www.housingwire.com/articles/new-york-485x-99-units/",
       "published": "Thu, 15 Oct 2026"
     },
     {
-      "title": "New American Funding adds Mullinix Mortgage Group",
-      "link": "https://www.housingwire.com/articles/new-american-funding-mullinix-mortgage-group/",
+      "title": "Surging jobsite raids put 370,000 new home completions at risk",
+      "link": "https://www.housingwire.com/articles/immigration-enforcement-home-pipeline-risk/",
       "published": "Thu, 15 Oct 2026"
     },
     {
-      "title": "Did mortgage rates just peak or is this some bond market madness?",
-      "link": "https://www.housingwire.com/articles/did-mortgage-rates-just-peak-or-is-this-some-bond-market-madness/",
+      "title": "Homa raises $5M to expand across California, add mortgage lending",
+      "link": "https://www.housingwire.com/articles/homa-raises-5m-expand-ai-homebuying-platform/",
       "published": "Thu, 15 Oct 2026"
     },
     {
-      "title": "Former X CEO Linda Yaccarino joins Better’s board",
-      "link": "https://www.housingwire.com/articles/linda-yaccarino-joins-better-board/",
+      "title": "Mortgage industry reacts to Pulte’s absence at MBA Annual",
+      "link": "https://www.housingwire.com/articles/pulte-mba-annual-reacts/",
       "published": "Thu, 15 Oct 2026"
     },
     {
-      "title": "The real reason teams outperform solo agents: someone always answers",
-      "link": "https://www.housingwire.com/articles/nar-solo-team-gap/",
+      "title": "MLSs race to set AI guardrails before data slips beyond their control",
+      "link": "https://www.housingwire.com/articles/mls-listing-data-ai-governance/",
       "published": "Thu, 15 Oct 2026"
     },
     {
-      "title": "NRMLA asks DC Council to expand reverse mortgage fee exemption",
-      "link": "https://www.housingwire.com/articles/nrmla-dc-fee-exemption/",
+      "title": "What midterms could mean for Realtors and the housing market",
+      "link": "https://www.housingwire.com/articles/what-midterms-could-mean-for-realtors-and-the-housing-market/",
       "published": "Thu, 15 Oct 2026"
     },
     {
@@ -203,20 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Surging jobsite raids put 370,000 new home completions at risk",
+        "url": "https://www.housingwire.com/articles/immigration-enforcement-home-pipeline-risk/",
+        "what": "Census data show 256,000 homes under construction and 114,000 not started, as builders push for year end completions",
+        "numbers": "256,000, 114,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/immigration-enforcement-home-pipeline-risk/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Did mortgage rates just peak or is this some bond market madness?",
         "url": "https://www.housingwire.com/articles/did-mortgage-rates-just-peak-or-is-this-some-bond-market-madness/",
         "what": "In the last 48 hours, we got two very hot inflation reports, positive retail sales, rising oil prices and historically low jobless claims",
         "numbers": "48",
         "justified": "housingwire.com — https://www.housingwire.com/articles/did-mortgage-rates-just-peak-or-is-this-some-bond-market-madness/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "New home mortgage applications fell 8% in September as rates rose",
-        "url": "https://www.housingwire.com/articles/new-home-mortgage-applications-fell-8-in-september-as-rates-rose/",
-        "what": "Builder Application Survey data also shows a 12% drop in estimated sales to a 584,000 annual pace, the weakest since April 2020",
-        "numbers": "12, 584,000, 2020",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-mortgage-applications-fell-8-in-september-as-rates-rose/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -241,6 +241,33 @@
     ],
     "housing": [
       {
+        "title": "Homa raises $5M to expand across California, add mortgage lending",
+        "url": "https://www.housingwire.com/articles/homa-raises-5m-expand-ai-homebuying-platform/",
+        "what": "The brokerage, also live in Florida and Texas, offers buyers up to 2% of the purchase price back at closing",
+        "numbers": "2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homa-raises-5m-expand-ai-homebuying-platform/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Mortgage industry reacts to Pulte’s absence at MBA Annual",
+        "url": "https://www.housingwire.com/articles/pulte-mba-annual-reacts/",
+        "what": "MBA said 3,700 attendees still gathered in Chicago as FHFA director cited travel tied to housing funds",
+        "numbers": "3,700",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pulte-mba-annual-reacts/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "What midterms could mean for Realtors and the housing market",
+        "url": "https://www.housingwire.com/articles/what-midterms-could-mean-for-realtors-and-the-housing-market/",
+        "what": "Data points to close races to determine razor thin Senate and House majorities",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/what-midterms-could-mean-for-realtors-and-the-housing-market/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Will home equity investments take flight once their regulatory status is resolved?",
         "url": "https://www.housingwire.com/articles/home-equity-investments-regulation/",
         "what": "With the MBA forecasting mortgage volume below $2 trillion in 2027, Point is framing HEIs as a viable business alternative",
@@ -255,24 +282,6 @@
         "what": "Mullinix ranked No",
         "numbers": "32, $197.2 million, 355",
         "justified": "housingwire.com — https://www.housingwire.com/articles/new-american-funding-mullinix-mortgage-group/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NRMLA asks DC Council to expand reverse mortgage fee exemption",
-        "url": "https://www.housingwire.com/articles/nrmla-dc-fee-exemption/",
-        "what": "Trade group cites TILA and Regulation Z, says exemption should cover proprietary products available to borrowers under 62",
-        "numbers": "62",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nrmla-dc-fee-exemption/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Pineapple Financial rebrands as Pentiv, launches US mortgage broker intelligence platform",
-        "url": "https://www.housingwire.com/articles/pineapple-financial-rebrands-pentiv-launches-mortgage-brokerage-intelligence-platform/",
-        "what": "The Canadian-based company hired former SoFi executive Usman Maher as it seeks growth in the U.S.",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pineapple-financial-rebrands-pentiv-launches-mortgage-brokerage-intelligence-platform/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -315,38 +324,29 @@
     ],
     "notables": [
       {
+        "title": "New York 485-x filings cluster at 99 units to avoid wage rule",
+        "url": "https://www.housingwire.com/articles/new-york-485x-99-units/",
+        "what": "Latent Urban found 49 registered projects at exactly 99 units across the April and October releases",
+        "numbers": "49, 99",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-york-485x-99-units/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "MLSs race to set AI guardrails before data slips beyond their control",
+        "url": "https://www.housingwire.com/articles/mls-listing-data-ai-governance/",
+        "what": "As agents feed large MLS datasets into LLMs for CMAs, MLSs weigh closed-loop tools and new governance layers",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-listing-data-ai-governance/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Former X CEO Linda Yaccarino joins Better’s board",
         "url": "https://www.housingwire.com/articles/linda-yaccarino-joins-better-board/",
         "what": "Appointment follows proxy fight that restored Vishal Garg’s influence",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/linda-yaccarino-joins-better-board/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The real reason teams outperform solo agents: someone always answers",
-        "url": "https://www.housingwire.com/articles/nar-solo-team-gap/",
-        "what": "NAR reported median 2025 production of 9 sides for individual agents versus 32 for team-based agents, alongside major coverage differences",
-        "numbers": "2025, 9, 32",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-solo-team-gap/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "When a seller texts about real estate commission, use this 4 step plan to keep the deal moving",
-        "url": "https://www.housingwire.com/articles/commission-scripts-listing-appointment/",
-        "what": "The approach is acknowledge, switch to a call, provide context first, then give an honest range tied to service and timing",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/commission-scripts-listing-appointment/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "An alleged agent boycott revives antitrust questions the industry thought it had settled",
-        "url": "https://www.housingwire.com/articles/rex-colorado-antitrust-lawsuit/",
-        "what": "The suit alleges threats to discourage showings because REX did not use the MLS or offer buyer broker compensation",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rex-colorado-antitrust-lawsuit/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
