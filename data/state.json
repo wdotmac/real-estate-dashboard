@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-10-16 17:23 UTC",
+  "as_of": "2026-10-16 21:07 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.19,
-      "delta_bp_1d": -1.9999999999999574
+      "yield_pct": 5.1,
+      "delta_bp_1d": -9.000000000000075
     },
     "mortgage_30y": {
       "rate_pct": 7.4,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Real, Compass, SERHANT. add teams; Baird & Warner picks COO",
+      "link": "https://www.housingwire.com/articles/real-compass-serhant-add-teams-baird-warner-picks-coo/",
+      "published": "Fri, 16 Oct 2026"
+    },
+    {
+      "title": "Compass takes CRMLS fight to court and promises to cover agent fines",
+      "link": "https://www.housingwire.com/articles/compass-sues-crmls-cooperation-rules/",
+      "published": "Fri, 16 Oct 2026"
+    },
+    {
+      "title": "First Horizon sells $4.5B mortgage portfolio at discount",
+      "link": "https://www.housingwire.com/articles/first-horizon-sells-4-5-billion/",
+      "published": "Fri, 16 Oct 2026"
+    },
+    {
+      "title": "Disruption can distract brokerage leaders from consumer expectations",
+      "link": "https://www.housingwire.com/articles/disruption-consumer-expectations/",
+      "published": "Fri, 16 Oct 2026"
+    },
+    {
       "title": "Fannie Mae slashes 2027 mortgage forecast amid higher rates",
       "link": "https://www.housingwire.com/articles/fannie-mae-cuts-2027-mortgage-forecast/",
       "published": "Fri, 16 Oct 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Dark Matter promotes three executives to senior leadership roles",
       "link": "https://www.housingwire.com/articles/dark-matter-promotes-leadership/",
-      "published": "Fri, 16 Oct 2026"
-    },
-    {
-      "title": "Candidates pitch housing affordability fixes as a midterm gambit",
-      "link": "https://www.housingwire.com/articles/housing-affordability-core-midterm-issue/",
-      "published": "Fri, 16 Oct 2026"
-    },
-    {
-      "title": "AI voice agents target real estate’s next conversion opportunity",
-      "link": "https://www.housingwire.com/articles/ai-voice-real-estate-leads/",
-      "published": "Fri, 16 Oct 2026"
-    },
-    {
-      "title": "Housing M&A shifts as global capital retargets residential futures",
-      "link": "https://www.housingwire.com/articles/housing-ma-global-capital/",
-      "published": "Fri, 16 Oct 2026"
-    },
-    {
-      "title": "Could your lead-gen and referral practices face FTC scrutiny? Senators want a closer look",
-      "link": "https://www.housingwire.com/articles/ftc-online-real-estate-practices/",
       "published": "Fri, 16 Oct 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "First Horizon sells $4.5B mortgage portfolio at discount",
+        "url": "https://www.housingwire.com/articles/first-horizon-sells-4-5-billion/",
+        "what": "Bank is moving to align its mortgage production more closely with core relationship clients",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/first-horizon-sells-4-5-billion/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Fannie Mae slashes 2027 mortgage forecast amid higher rates",
         "url": "https://www.housingwire.com/articles/fannie-mae-cuts-2027-mortgage-forecast/",
         "what": "Refinance activity takes the brunt of the revision",
@@ -210,15 +219,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-mae-cuts-2027-mortgage-forecast/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Surging jobsite raids put 370,000 new home completions at risk",
-        "url": "https://www.housingwire.com/articles/immigration-enforcement-home-pipeline-risk/",
-        "what": "Census data show 256,000 homes under construction and 114,000 not started, as builders push for year end completions",
-        "numbers": "256,000, 114,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/immigration-enforcement-home-pipeline-risk/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Core Inflation Tops Forecasts, Making an October Fed Rate Hike a Close Call",
@@ -268,15 +268,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage underwriting has a blind spot: The homeowner’s largest risk",
-        "url": "https://www.housingwire.com/articles/homeowner-concentration-risk/",
-        "what": "A diversified benchmark approach could reduce balance sheet shocks that precede credit deterioration",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homeowner-concentration-risk/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Housing Market Update: Asking Prices Fall For the First Time Since March",
         "url": "https://www.redfin.com/news/housing-market-update-asking-prices-decline-october/",
         "what": "Pending home sales inched up this week, but they’re still near record lows",
@@ -315,6 +306,33 @@
     ],
     "notables": [
       {
+        "title": "Real, Compass, SERHANT. add teams; Baird & Warner picks COO",
+        "url": "https://www.housingwire.com/articles/real-compass-serhant-add-teams-baird-warner-picks-coo/",
+        "what": "Christies International Real Estate expands in New Jersey",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-compass-serhant-add-teams-baird-warner-picks-coo/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Compass takes CRMLS fight to court and promises to cover agent fines",
+        "url": "https://www.housingwire.com/articles/compass-sues-crmls-cooperation-rules/",
+        "what": "Complaint alleges fines up to $2,500 for public marketing outside the MLS when clients direct it in writing",
+        "numbers": "$2,500",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-sues-crmls-cooperation-rules/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Disruption can distract brokerage leaders from consumer expectations",
+        "url": "https://www.housingwire.com/articles/disruption-consumer-expectations/",
+        "what": "Lessons from deregulation, software shifts, wireless competition, and patient consumerism point to a consistent pattern, choice changes behavior",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/disruption-consumer-expectations/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Dark Matter promotes three executives to senior leadership roles",
         "url": "https://www.housingwire.com/articles/dark-matter-promotes-leadership/",
         "what": "The company promoted three executives into CTO, CFO, legal roles",
@@ -329,24 +347,6 @@
         "what": "CINC’s Jeff Walker says the priority is recognizing lead intent during a 12-month sales cycle and acting at the right moment",
         "numbers": "12",
         "justified": "housingwire.com — https://www.housingwire.com/articles/ai-voice-real-estate-leads/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Beazer Homes stockholders approve $2.2B sale to Dream Finders",
-        "url": "https://www.housingwire.com/articles/beazer-homes-dream-finders-approval/",
-        "what": "The all-cash deal is now expected to close on October 20",
-        "numbers": "20",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/beazer-homes-dream-finders-approval/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "New York 485-x filings cluster at 99 units to avoid wage rule",
-        "url": "https://www.housingwire.com/articles/new-york-485x-99-units/",
-        "what": "Latent Urban found 49 registered projects at exactly 99 units across the April and October releases",
-        "numbers": "49, 99",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/new-york-485x-99-units/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
