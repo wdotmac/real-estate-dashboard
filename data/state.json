@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-16 01:20 UTC",
+  "as_of": "2026-10-16 07:08 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Mortgage underwriting has a blind spot: The homeowner’s largest risk",
+      "link": "https://www.housingwire.com/articles/homeowner-concentration-risk/",
+      "published": "Fri, 16 Oct 2026"
+    },
+    {
       "title": "Beazer Homes stockholders approve $2.2B sale to Dream Finders",
       "link": "https://www.housingwire.com/articles/beazer-homes-dream-finders-approval/",
       "published": "Thu, 15 Oct 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Mortgage industry reacts to Pulte’s absence at MBA Annual",
       "link": "https://www.housingwire.com/articles/pulte-mba-annual-reacts/",
-      "published": "Thu, 15 Oct 2026"
-    },
-    {
-      "title": "MLSs race to set AI guardrails before data slips beyond their control",
-      "link": "https://www.housingwire.com/articles/mls-listing-data-ai-governance/",
       "published": "Thu, 15 Oct 2026"
     },
     {
@@ -212,15 +212,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Did mortgage rates just peak or is this some bond market madness?",
-        "url": "https://www.housingwire.com/articles/did-mortgage-rates-just-peak-or-is-this-some-bond-market-madness/",
-        "what": "In the last 48 hours, we got two very hot inflation reports, positive retail sales, rising oil prices and historically low jobless claims",
-        "numbers": "48",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/did-mortgage-rates-just-peak-or-is-this-some-bond-market-madness/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Core Inflation Tops Forecasts, Making an October Fed Rate Hike a Close Call",
         "url": "https://www.redfin.com/news/cpi-report-economist-commentary-october-2026/",
         "what": "Takeaway: A higher-than-expected inflation report puts the odds of a rate hike in two weeks at 50/50",
@@ -240,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Mortgage underwriting has a blind spot: The homeowner’s largest risk",
+        "url": "https://www.housingwire.com/articles/homeowner-concentration-risk/",
+        "what": "A diversified benchmark approach could reduce balance sheet shocks that precede credit deterioration",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homeowner-concentration-risk/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Homa raises $5M to expand across California, add mortgage lending",
         "url": "https://www.housingwire.com/articles/homa-raises-5m-expand-ai-homebuying-platform/",
