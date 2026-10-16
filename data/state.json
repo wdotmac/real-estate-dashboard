@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-16 12:24 UTC",
+  "as_of": "2026-10-16 17:23 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Fannie Mae slashes 2027 mortgage forecast amid higher rates",
+      "link": "https://www.housingwire.com/articles/fannie-mae-cuts-2027-mortgage-forecast/",
+      "published": "Fri, 16 Oct 2026"
+    },
+    {
+      "title": "Dark Matter promotes three executives to senior leadership roles",
+      "link": "https://www.housingwire.com/articles/dark-matter-promotes-leadership/",
+      "published": "Fri, 16 Oct 2026"
+    },
+    {
+      "title": "Candidates pitch housing affordability fixes as a midterm gambit",
+      "link": "https://www.housingwire.com/articles/housing-affordability-core-midterm-issue/",
+      "published": "Fri, 16 Oct 2026"
+    },
+    {
+      "title": "AI voice agents target real estate’s next conversion opportunity",
+      "link": "https://www.housingwire.com/articles/ai-voice-real-estate-leads/",
+      "published": "Fri, 16 Oct 2026"
+    },
+    {
       "title": "Housing M&A shifts as global capital retargets residential futures",
       "link": "https://www.housingwire.com/articles/housing-ma-global-capital/",
       "published": "Fri, 16 Oct 2026"
@@ -148,26 +168,6 @@
       "title": "Could your lead-gen and referral practices face FTC scrutiny? Senators want a closer look",
       "link": "https://www.housingwire.com/articles/ftc-online-real-estate-practices/",
       "published": "Fri, 16 Oct 2026"
-    },
-    {
-      "title": "Mortgage underwriting has a blind spot: The homeowner’s largest risk",
-      "link": "https://www.housingwire.com/articles/homeowner-concentration-risk/",
-      "published": "Fri, 16 Oct 2026"
-    },
-    {
-      "title": "Beazer Homes stockholders approve $2.2B sale to Dream Finders",
-      "link": "https://www.housingwire.com/articles/beazer-homes-dream-finders-approval/",
-      "published": "Thu, 15 Oct 2026"
-    },
-    {
-      "title": "New York 485-x filings cluster at 99 units to avoid wage rule",
-      "link": "https://www.housingwire.com/articles/new-york-485x-99-units/",
-      "published": "Thu, 15 Oct 2026"
-    },
-    {
-      "title": "Surging jobsite raids put 370,000 new home completions at risk",
-      "link": "https://www.housingwire.com/articles/immigration-enforcement-home-pipeline-risk/",
-      "published": "Thu, 15 Oct 2026"
     },
     {
       "title": "Housing Market Update: Asking Prices Fall For the First Time Since March",
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Fannie Mae slashes 2027 mortgage forecast amid higher rates",
+        "url": "https://www.housingwire.com/articles/fannie-mae-cuts-2027-mortgage-forecast/",
+        "what": "Refinance activity takes the brunt of the revision",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fannie-mae-cuts-2027-mortgage-forecast/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Surging jobsite raids put 370,000 new home completions at risk",
         "url": "https://www.housingwire.com/articles/immigration-enforcement-home-pipeline-risk/",
         "what": "Census data show 256,000 homes under construction and 114,000 not started, as builders push for year end completions",
@@ -232,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "Candidates pitch housing affordability fixes as a midterm gambit",
+        "url": "https://www.housingwire.com/articles/housing-affordability-core-midterm-issue/",
+        "what": "Candidates pair pro-supply policies with populist proposals like investor limits, LIHTC expansion and down payment help",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-affordability-core-midterm-issue/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Housing M&A shifts as global capital retargets residential futures",
         "url": "https://www.housingwire.com/articles/housing-ma-global-capital/",
         "what": "Zelman data shows housing M&A deal value up 56% through Aug",
@@ -257,33 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/homeowner-concentration-risk/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Homa raises $5M to expand across California, add mortgage lending",
-        "url": "https://www.housingwire.com/articles/homa-raises-5m-expand-ai-homebuying-platform/",
-        "what": "The brokerage, also live in Florida and Texas, offers buyers up to 2% of the purchase price back at closing",
-        "numbers": "2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homa-raises-5m-expand-ai-homebuying-platform/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage industry reacts to Pulte’s absence at MBA Annual",
-        "url": "https://www.housingwire.com/articles/pulte-mba-annual-reacts/",
-        "what": "MBA said 3,700 attendees still gathered in Chicago as FHFA director cited travel tied to housing funds",
-        "numbers": "3,700",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pulte-mba-annual-reacts/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "What midterms could mean for Realtors and the housing market",
-        "url": "https://www.housingwire.com/articles/what-midterms-could-mean-for-realtors-and-the-housing-market/",
-        "what": "Data points to close races to determine razor thin Senate and House majorities",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/what-midterms-could-mean-for-realtors-and-the-housing-market/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Housing Market Update: Asking Prices Fall For the First Time Since March",
@@ -324,6 +315,24 @@
     ],
     "notables": [
       {
+        "title": "Dark Matter promotes three executives to senior leadership roles",
+        "url": "https://www.housingwire.com/articles/dark-matter-promotes-leadership/",
+        "what": "The company promoted three executives into CTO, CFO, legal roles",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/dark-matter-promotes-leadership/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "AI voice agents target real estate’s next conversion opportunity",
+        "url": "https://www.housingwire.com/articles/ai-voice-real-estate-leads/",
+        "what": "CINC’s Jeff Walker says the priority is recognizing lead intent during a 12-month sales cycle and acting at the right moment",
+        "numbers": "12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-voice-real-estate-leads/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Beazer Homes stockholders approve $2.2B sale to Dream Finders",
         "url": "https://www.housingwire.com/articles/beazer-homes-dream-finders-approval/",
         "what": "The all-cash deal is now expected to close on October 20",
@@ -338,15 +347,6 @@
         "what": "Latent Urban found 49 registered projects at exactly 99 units across the April and October releases",
         "numbers": "49, 99",
         "justified": "housingwire.com — https://www.housingwire.com/articles/new-york-485x-99-units/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "MLSs race to set AI guardrails before data slips beyond their control",
-        "url": "https://www.housingwire.com/articles/mls-listing-data-ai-governance/",
-        "what": "As agents feed large MLS datasets into LLMs for CMAs, MLSs weigh closed-loop tools and new governance layers",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-listing-data-ai-governance/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
