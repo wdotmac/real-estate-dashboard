@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-19 01:17 UTC",
+  "as_of": "2026-10-19 07:45 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The next mortgage cycle will be won by companies that rethink how they operate",
+      "link": "https://www.housingwire.com/articles/next-mortgage-cycle-operations/",
+      "published": "Mon, 19 Oct 2026"
+    },
+    {
       "title": "Voters seize the ‘say’ in key state battles for housing affordability",
       "link": "https://www.housingwire.com/articles/housing-ballot-measures-3-states/",
       "published": "Sun, 18 Oct 2026"
@@ -162,11 +167,6 @@
     {
       "title": "First Horizon sells $4.5B mortgage portfolio at discount",
       "link": "https://www.housingwire.com/articles/first-horizon-sells-4-5-billion/",
-      "published": "Fri, 16 Oct 2026"
-    },
-    {
-      "title": "Disruption can distract brokerage leaders from consumer expectations",
-      "link": "https://www.housingwire.com/articles/disruption-consumer-expectations/",
       "published": "Fri, 16 Oct 2026"
     },
     {
@@ -249,6 +249,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "The next mortgage cycle will be won by companies that rethink how they operate",
+        "url": "https://www.housingwire.com/articles/next-mortgage-cycle-operations/",
+        "what": "D Bank data shows AI finance use rose to 55% in 2026, while 81% still want human support",
+        "numbers": "55, 2026,, 81",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/next-mortgage-cycle-operations/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Voters seize the ‘say’ in key state battles for housing affordability",
         "url": "https://www.housingwire.com/articles/housing-ballot-measures-3-states/",
@@ -338,15 +347,6 @@
         "what": "The company promoted three executives into CTO, CFO, legal roles",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/dark-matter-promotes-leadership/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "AI voice agents target real estate’s next conversion opportunity",
-        "url": "https://www.housingwire.com/articles/ai-voice-real-estate-leads/",
-        "what": "CINC’s Jeff Walker says the priority is recognizing lead intent during a 12-month sales cycle and acting at the right moment",
-        "numbers": "12",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-voice-real-estate-leads/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
