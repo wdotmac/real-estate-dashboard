@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-10-19 15:35 UTC",
+  "as_of": "2026-10-19 21:02 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.1,
-      "delta_bp_1d": -9.000000000000075
+      "yield_pct": 5.09,
+      "delta_bp_1d": -0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 7.4,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Pulte signals review of LLPAs, credit reports",
-      "link": "https://www.housingwire.com/articles/pulte-llpa-review-credit-reports/",
+      "title": "Your next deal may already be in your CRM. Here’s how to find it",
+      "link": "https://www.housingwire.com/articles/your-next-deal-may-already-be-in-your-crm-heres-how-to-find-it/",
       "published": "Mon, 19 Oct 2026"
     },
     {
-      "title": "Do listing sites create a real estate ‘resort fee’ problem?",
-      "link": "https://www.housingwire.com/articles/ftc-hidden-real-estate-fees/",
+      "title": "Opendoor’s shared-equity test shows a new way to hunt for buyer demand",
+      "link": "https://www.housingwire.com/articles/opendoor-ownify-shared-equity/",
       "published": "Mon, 19 Oct 2026"
     },
     {
-      "title": "eXp settles sex trafficking lawsuit on eve of trial — here’s what it means for the brokerage",
-      "link": "https://www.housingwire.com/articles/exp-agnt-roberts-settlement/",
+      "title": "Bank of America pegs 2027 mortgage volume at $1.72T, warns of 2023-style housing replay",
+      "link": "https://www.housingwire.com/articles/bank-of-america-2027-mortgage-forecast/",
       "published": "Mon, 19 Oct 2026"
     },
     {
-      "title": "Bloomberg Philanthropies funds local housing reforms nationwide",
-      "link": "https://www.housingwire.com/articles/bloomberg-philanthropies-funds-local-housing-reforms-nationwide/",
+      "title": "Michael Bloomberg: To ease the housing shortage, empower mayors",
+      "link": "https://www.housingwire.com/articles/michael-bloomberg-to-ease-the-housing-shortage-empower-mayors/",
       "published": "Mon, 19 Oct 2026"
     },
     {
-      "title": "A coaching framework for real estate agents when nothing is working",
-      "link": "https://www.housingwire.com/articles/coach-agents-production-stalls/",
+      "title": "West Capital Lending adds Hass Beydoun, Home Advantage team",
+      "link": "https://www.housingwire.com/articles/west-capital-lending-beydoun/",
       "published": "Mon, 19 Oct 2026"
     },
     {
-      "title": "The warning signs an agent may leave your brokerage — and what to do about them",
-      "link": "https://www.housingwire.com/articles/the-warning-signs-an-agent-may-leave-your-brokerage-and-what-to-do-about-them/",
+      "title": "Homebuying experience is fragmented, survey finds 70% call it a hassle",
+      "link": "https://www.housingwire.com/articles/connected-homebuying-experience/",
       "published": "Mon, 19 Oct 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Michael Bloomberg: To ease the housing shortage, empower mayors",
+        "url": "https://www.housingwire.com/articles/michael-bloomberg-to-ease-the-housing-shortage-empower-mayors/",
+        "what": "With rates over 7%, city-led reforms could speed homebuilding and ease prices",
+        "numbers": "7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/michael-bloomberg-to-ease-the-housing-shortage-empower-mayors/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Core Inflation Tops Forecasts, Making an October Fed Rate Hike a Close Call",
         "url": "https://www.redfin.com/news/cpi-report-economist-commentary-october-2026/",
         "what": "Takeaway: A higher-than-expected inflation report puts the odds of a rate hike in two weeks at 50/50",
@@ -223,6 +232,24 @@
     ],
     "housing": [
       {
+        "title": "Bank of America pegs 2027 mortgage volume at $1.72T, warns of 2023-style housing replay",
+        "url": "https://www.housingwire.com/articles/bank-of-america-2027-mortgage-forecast/",
+        "what": "Analysts see persistent lock-in effect and fading demand despite modest supply gains",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bank-of-america-2027-mortgage-forecast/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "MBA calls for policy changes to lower housing costs",
+        "url": "https://www.housingwire.com/articles/mba-road-map-housing-costs/",
+        "what": "Trade group points to tri-merge costs, plus LLPA and FHA MIP changes",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-road-map-housing-costs/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Do listing sites create a real estate ‘resort fee’ problem?",
         "url": "https://www.housingwire.com/articles/ftc-hidden-real-estate-fees/",
         "what": "Warren and Booker cite lead routing, lender steering, and private listings in a letter to the FTC",
@@ -230,42 +257,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/ftc-hidden-real-estate-fees/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "eXp settles sex trafficking lawsuit on eve of trial — here’s what it means for the brokerage",
-        "url": "https://www.housingwire.com/articles/exp-agnt-roberts-settlement/",
-        "what": "Court filing says claims against Bjorkman and Golden are still pending despite the Sunday settlement notice",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-agnt-roberts-settlement/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Bloomberg Philanthropies funds local housing reforms nationwide",
-        "url": "https://www.housingwire.com/articles/bloomberg-philanthropies-funds-local-housing-reforms-nationwide/",
-        "what": "The initiative aims to streamline and expand digital permitting, ADU and zoning reforms and housing strike teams",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bloomberg-philanthropies-funds-local-housing-reforms-nationwide/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Builder inventory-to-backlog ratios flag spec risk pre-Q3 earnings",
-        "url": "https://www.housingwire.com/articles/builder-inventory-backlog-ratios/",
-        "what": "Inventory to backlog ranges from 0.44x at NVR to 3.09x at Century, with margin pressure risk into Q4",
-        "numbers": "0.44, 3.09, 4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/builder-inventory-backlog-ratios/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Adam Ennabe outlines Access Home Lending’s wholesale reverse mortgage plans",
-        "url": "https://www.housingwire.com/articles/access-home-lending-wholesale-reverse/",
-        "what": "The company has its sights set on making reverse mortgages mainstream via the broker channel",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/access-home-lending-wholesale-reverse/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "Housing Market Update: Asking Prices Fall For the First Time Since March",
@@ -297,47 +288,56 @@
     ],
     "notables": [
       {
+        "title": "Your next deal may already be in your CRM. Here’s how to find it",
+        "url": "https://www.housingwire.com/articles/your-next-deal-may-already-be-in-your-crm-heres-how-to-find-it/",
+        "what": "An analysis of 10 million real estate leads found that 91% had received no human contact in 90 days",
+        "numbers": "10 million, 91, 90",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/your-next-deal-may-already-be-in-your-crm-heres-how-to-find-it/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Opendoor’s shared-equity test shows a new way to hunt for buyer demand",
+        "url": "https://www.housingwire.com/articles/opendoor-ownify-shared-equity/",
+        "what": "Ownify partner helps fund purchases, buyers make five years of fixed payments, then face renewal or buyout",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-ownify-shared-equity/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "West Capital Lending adds Hass Beydoun, Home Advantage team",
+        "url": "https://www.housingwire.com/articles/west-capital-lending-beydoun/",
+        "what": "Beydoun’s team has originated $41.9 million on 115 transactions in 2026",
+        "numbers": "$41.9 million, 115, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/west-capital-lending-beydoun/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Homebuying experience is fragmented, survey finds 70% call it a hassle",
+        "url": "https://www.housingwire.com/articles/connected-homebuying-experience/",
+        "what": "HomeServices survey of 1,000 buyers found 46% cite uncoordinated providers as the top frustration",
+        "numbers": "1,000, 46",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/connected-homebuying-experience/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "NeighborWorks America says first-time homebuyers account for 94% of its business",
+        "url": "https://www.housingwire.com/articles/neighborworks-first-time-buyers-fy2025/",
+        "what": "Median income for borrowers served was $66,000, with typical assistance of $16,700 and a $260,500 purchase price",
+        "numbers": "$66,000,, $16,700, $260,500",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/neighborworks-first-time-buyers-fy2025/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "Pulte signals review of LLPAs, credit reports",
         "url": "https://www.housingwire.com/articles/pulte-llpa-review-credit-reports/",
         "what": "Pulte pushed back on media reports that he might become White House chief of staff",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/pulte-llpa-review-credit-reports/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "A coaching framework for real estate agents when nothing is working",
-        "url": "https://www.housingwire.com/articles/coach-agents-production-stalls/",
-        "what": "Darryl Davis argues leaders should diagnose who first, then why, then strategy, and use a monthly integrity sheet to guide coaching",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/coach-agents-production-stalls/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The warning signs an agent may leave your brokerage — and what to do about them",
-        "url": "https://www.housingwire.com/articles/the-warning-signs-an-agent-may-leave-your-brokerage-and-what-to-do-about-them/",
-        "what": "Findings suggest retention requires more than monitoring sales and adjusting commission structures",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-warning-signs-an-agent-may-leave-your-brokerage-and-what-to-do-about-them/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Retirement confidence lags for the youngest segment of senior homeowners",
-        "url": "https://www.housingwire.com/articles/retirement-confidence-longbridge/",
-        "what": "Longbridge survey of 2,000+ homeowners found 47% confidence among ages 55 to 64",
-        "numbers": "2,000, 47, 55, 64",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/retirement-confidence-longbridge/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "HUD just gave BTR an FHA-backed finance ‘in;’ here’s what it means",
-        "url": "https://www.housingwire.com/articles/hud-financing-btr/",
-        "what": "HUD extended FHA multifamily programs to BTR, opening up 221(d)(4) new construction and 223(f) refi and acquisition options",
-        "numbers": "221, 4, 223",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hud-financing-btr/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
