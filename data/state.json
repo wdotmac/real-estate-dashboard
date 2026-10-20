@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-20 00:19 UTC",
+  "as_of": "2026-10-20 11:35 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Builder confidence plunges as rate shock, costs squeeze margins",
-      "link": "https://www.housingwire.com/articles/nahb-builder-confidence-14-year-low-october/",
-      "published": "Mon, 19 Oct 2026"
+      "title": "California starter home laws reshape small home building",
+      "link": "https://www.housingwire.com/articles/california-adu-boom-starter-homes/",
+      "published": "Tue, 20 Oct 2026"
     },
     {
-      "title": "First American’s Odeta Kushi on how labor, AI and migration will impact the housing market",
-      "link": "https://www.housingwire.com/articles/odeta-kushi-labor-ai-migration/",
-      "published": "Mon, 19 Oct 2026"
+      "title": "Two questions that prevent homebuilder growth mistakes",
+      "link": "https://www.housingwire.com/articles/builder-growth-two-questions/",
+      "published": "Tue, 20 Oct 2026"
     },
     {
-      "title": "Retirement delays rise as Americans worry about running out of money",
-      "link": "https://www.housingwire.com/articles/retirement-delays-rise-as-americans-worry-about-running-out-of-money/",
-      "published": "Mon, 19 Oct 2026"
+      "title": "The borrowers traditional underwriting wasn’t built for",
+      "link": "https://www.housingwire.com/articles/non-traditional-income-underwriting/",
+      "published": "Tue, 20 Oct 2026"
     },
     {
-      "title": "Your next deal may already be in your CRM. Here’s how to find it",
-      "link": "https://www.housingwire.com/articles/your-next-deal-may-already-be-in-your-crm-heres-how-to-find-it/",
-      "published": "Mon, 19 Oct 2026"
+      "title": "Mortgage needs a new productivity metric: Human attention per loan",
+      "link": "https://www.housingwire.com/articles/human-attention-per-loan/",
+      "published": "Tue, 20 Oct 2026"
     },
     {
-      "title": "Opendoor’s shared-equity test shows a new way to hunt for buyer demand",
-      "link": "https://www.housingwire.com/articles/opendoor-ownify-shared-equity/",
-      "published": "Mon, 19 Oct 2026"
+      "title": "Affordability changed the buyer. Now builders have to change the sales conversation.",
+      "link": "https://www.housingwire.com/articles/homebuyer-affordability-new-home-sales/",
+      "published": "Tue, 20 Oct 2026"
     },
     {
-      "title": "Bank of America pegs 2027 mortgage volume at $1.72T, warns of 2023-style housing replay",
-      "link": "https://www.housingwire.com/articles/bank-of-america-2027-mortgage-forecast/",
-      "published": "Mon, 19 Oct 2026"
+      "title": "Ready for surging short sales in 2027?",
+      "link": "https://www.housingwire.com/articles/short-sales-2027-negative-equity/",
+      "published": "Tue, 20 Oct 2026"
     },
     {
       "title": "Housing Market Update: Asking Prices Fall For the First Time Since March",
@@ -203,20 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Mortgage needs a new productivity metric: Human attention per loan",
+        "url": "https://www.housingwire.com/articles/human-attention-per-loan/",
+        "what": "AI will not change mortgage economics until lenders measure how much expert attention each loan actually consumes",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/human-attention-per-loan/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "First American’s Odeta Kushi on how labor, AI and migration will impact the housing market",
         "url": "https://www.housingwire.com/articles/odeta-kushi-labor-ai-migration/",
         "what": "Economist explains how 7% mortgage rates and lower home price growth are reshaping affordability and mobility",
         "numbers": "7",
         "justified": "housingwire.com — https://www.housingwire.com/articles/odeta-kushi-labor-ai-migration/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Michael Bloomberg: To ease the housing shortage, empower mayors",
-        "url": "https://www.housingwire.com/articles/michael-bloomberg-to-ease-the-housing-shortage-empower-mayors/",
-        "what": "With rates over 7%, city-led reforms could speed homebuilding and ease prices",
-        "numbers": "7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/michael-bloomberg-to-ease-the-housing-shortage-empower-mayors/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -232,6 +232,33 @@
     ],
     "housing": [
       {
+        "title": "Two questions that prevent homebuilder growth mistakes",
+        "url": "https://www.housingwire.com/articles/builder-growth-two-questions/",
+        "what": "A former banker turned builder hire learns why risk tolerance and return assumptions decide outcomes",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/builder-growth-two-questions/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Affordability changed the buyer. Now builders have to change the sales conversation.",
+        "url": "https://www.housingwire.com/articles/homebuyer-affordability-new-home-sales/",
+        "what": "New Home Star’s buyer insights show why homebuyer affordability, buyer psychology and new home sales conversion increasingly depend on understanding what buyers value beyond price",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuyer-affordability-new-home-sales/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Ready for surging short sales in 2027?",
+        "url": "https://www.housingwire.com/articles/short-sales-2027-negative-equity/",
+        "what": "Mortgage servicers are offering more pre-foreclosure short sale options to a rapidly growing pool of underwater homeowners who are also behind on mortgage payments",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/short-sales-2027-negative-equity/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Builder confidence plunges as rate shock, costs squeeze margins",
         "url": "https://www.housingwire.com/articles/nahb-builder-confidence-14-year-low-october/",
         "what": "NAHB’s October Housing Market Index for builder confidence dropped three points to 29, a low since June 2012",
@@ -239,24 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/nahb-builder-confidence-14-year-low-october/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Bank of America pegs 2027 mortgage volume at $1.72T, warns of 2023-style housing replay",
-        "url": "https://www.housingwire.com/articles/bank-of-america-2027-mortgage-forecast/",
-        "what": "Analysts see persistent lock-in effect and fading demand despite modest supply gains",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bank-of-america-2027-mortgage-forecast/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "MBA calls for policy changes to lower housing costs",
-        "url": "https://www.housingwire.com/articles/mba-road-map-housing-costs/",
-        "what": "Trade group points to tri-merge costs, plus LLPA and FHA MIP changes",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mba-road-map-housing-costs/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Housing Market Update: Asking Prices Fall For the First Time Since March",
@@ -288,6 +297,24 @@
     ],
     "notables": [
       {
+        "title": "California starter home laws reshape small home building",
+        "url": "https://www.housingwire.com/articles/california-adu-boom-starter-homes/",
+        "what": "Small developers are stacking state tools to make lots feasible, from backyard units to 10-home subdivisions",
+        "numbers": "10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/california-adu-boom-starter-homes/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "The borrowers traditional underwriting wasn’t built for",
+        "url": "https://www.housingwire.com/articles/non-traditional-income-underwriting/",
+        "what": "Half of Gen Z workers earn independent income, lenders are leaning on cash flow analysis plus underwriter expertise",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/non-traditional-income-underwriting/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Retirement delays rise as Americans worry about running out of money",
         "url": "https://www.housingwire.com/articles/retirement-delays-rise-as-americans-worry-about-running-out-of-money/",
         "what": "More than half of respondents say the events of 2026 have impacted their retirement planning",
@@ -302,33 +329,6 @@
         "what": "An analysis of 10 million real estate leads found that 91% had received no human contact in 90 days",
         "numbers": "10 million, 91, 90",
         "justified": "housingwire.com — https://www.housingwire.com/articles/your-next-deal-may-already-be-in-your-crm-heres-how-to-find-it/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Opendoor’s shared-equity test shows a new way to hunt for buyer demand",
-        "url": "https://www.housingwire.com/articles/opendoor-ownify-shared-equity/",
-        "what": "Ownify partner helps fund purchases, buyers make five years of fixed payments, then face renewal or buyout",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-ownify-shared-equity/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "West Capital Lending adds Hass Beydoun, Home Advantage team",
-        "url": "https://www.housingwire.com/articles/west-capital-lending-beydoun/",
-        "what": "Beydoun’s team has originated $41.9 million on 115 transactions in 2026",
-        "numbers": "$41.9 million, 115, 2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/west-capital-lending-beydoun/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Homebuying experience is fragmented, survey finds 70% call it a hassle",
-        "url": "https://www.housingwire.com/articles/connected-homebuying-experience/",
-        "what": "HomeServices survey of 1,000 buyers found 46% cite uncoordinated providers as the top frustration",
-        "numbers": "1,000, 46",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/connected-homebuying-experience/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
