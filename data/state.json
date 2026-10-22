@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-22 15:16 UTC",
+  "as_of": "2026-10-22 20:06 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": -3.000000000000025
     },
     "mortgage_30y": {
-      "rate_pct": 7.4,
-      "delta_bp_wow": 0.0
+      "rate_pct": 7.32,
+      "delta_bp_wow": -8.000000000000007
     },
     "starts": {
       "level_saar": 1221.0,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Most agents say CMAs will become more relevant, despite AI growth",
+      "link": "https://www.housingwire.com/articles/most-agents-say-cmas-will-become-more-relevant-despite-ai-growth/",
+      "published": "Thu, 22 Oct 2026"
+    },
+    {
+      "title": "Mortgage executives on the importance of cost-effective labor, borrower retention amid high rates",
+      "link": "https://www.housingwire.com/articles/mortgage-servicing-recapture-tools/",
+      "published": "Thu, 22 Oct 2026"
+    },
+    {
+      "title": "Sotheby’s International Realty names Mark McLaughlin CEO, Philip White transitions to executive chairman",
+      "link": "https://www.housingwire.com/articles/sothebys-mclaughlin-ceo/",
+      "published": "Thu, 22 Oct 2026"
+    },
+    {
+      "title": "The luxury premium isn’t the house anymore. It’s everything around it.",
+      "link": "https://www.housingwire.com/articles/luxury-premium-land-privacy/",
+      "published": "Thu, 22 Oct 2026"
+    },
+    {
+      "title": "Sex trafficking lawsuit against eXp agents settles midtrial",
+      "link": "https://www.housingwire.com/articles/exp-agents-lawsuit-settles/",
+      "published": "Thu, 22 Oct 2026"
+    },
+    {
       "title": "Down payment assistance availability peaks again, with programs pushing average LTVs down 9%",
       "link": "https://www.housingwire.com/articles/down-payment-assistance-q3-2026/",
-      "published": "Thu, 22 Oct 2026"
-    },
-    {
-      "title": "Former REMAX president Nick Bailey joins proptech start up",
-      "link": "https://www.housingwire.com/articles/nick-bailey-authoritysignal-ai/",
-      "published": "Thu, 22 Oct 2026"
-    },
-    {
-      "title": "ServiceLink announces leadership reshuffle for 2027",
-      "link": "https://www.housingwire.com/articles/servicelink-leadership-changes/",
-      "published": "Thu, 22 Oct 2026"
-    },
-    {
-      "title": "Compass sues former ERA president Alex Vidal over move to REMAX",
-      "link": "https://www.housingwire.com/articles/compass-vidal-noncompete-delaware/",
-      "published": "Thu, 22 Oct 2026"
-    },
-    {
-      "title": "Opendoor names CEO Kaz Nejatian president after Matheson steps down",
-      "link": "https://www.housingwire.com/articles/opendoor-nejatian-president/",
-      "published": "Thu, 22 Oct 2026"
-    },
-    {
-      "title": "MLSs sue Compass in proactive move to defend cooperation rules",
-      "link": "https://www.housingwire.com/articles/mls-sue-compass-antitrust/",
       "published": "Thu, 22 Oct 2026"
     },
     {
@@ -202,6 +202,24 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Mortgage executives on the importance of cost-effective labor, borrower retention amid high rates",
+        "url": "https://www.housingwire.com/articles/mortgage-servicing-recapture-tools/",
+        "what": "At MBA Annual, leaders discussed labor automation and client recapture as a path forward during the down cycle",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-servicing-recapture-tools/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Sex trafficking lawsuit against eXp agents settles midtrial",
+        "url": "https://www.housingwire.com/articles/exp-agents-lawsuit-settles/",
+        "what": "Plaintiff filed a notice of settlement in federal court in Los Angeles, terms are confidential",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-agents-lawsuit-settles/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "U.S. Pending Home Sales Sink to a New Low",
         "url": "https://www.redfin.com/news/housing-market-update-pending-home-sales-sink-high-rates/",
@@ -242,6 +260,33 @@
       }
     ],
     "notables": [
+      {
+        "title": "Most agents say CMAs will become more relevant, despite AI growth",
+        "url": "https://www.housingwire.com/articles/most-agents-say-cmas-will-become-more-relevant-despite-ai-growth/",
+        "what": "Nearly 90% of respondents said CMAs will become more relevant in the future",
+        "numbers": "90",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/most-agents-say-cmas-will-become-more-relevant-despite-ai-growth/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Sotheby’s International Realty names Mark McLaughlin CEO, Philip White transitions to executive chairman",
+        "url": "https://www.housingwire.com/articles/sothebys-mclaughlin-ceo/",
+        "what": "Leadership change takes effect Nov",
+        "numbers": "1,, 40",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/sothebys-mclaughlin-ceo/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "The luxury premium isn’t the house anymore. It’s everything around it.",
+        "url": "https://www.housingwire.com/articles/luxury-premium-land-privacy/",
+        "what": "Remote work and limited coastal, agricultural supply are pushing premiums toward vineyards, views, and distance from neighbors",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/luxury-premium-land-privacy/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Down payment assistance availability peaks again, with programs pushing average LTVs down 9%",
         "url": "https://www.housingwire.com/articles/down-payment-assistance-q3-2026/",
@@ -284,51 +329,6 @@
         "what": "Matheson will stay on as a non-executive advisor through mid-July under a transition agreement",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-nejatian-president/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "MLSs sue Compass in proactive move to defend cooperation rules",
-        "url": "https://www.housingwire.com/articles/mls-sue-compass-antitrust/",
-        "what": "ARMLS, Bridge, Canopy, REcolorado, Hive, and Doorify seek an injunction over cooperation rules and office exclusives",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-sue-compass-antitrust/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How fast you should respond to leads — and why it matters",
-        "url": "https://www.housingwire.com/articles/how-fast-you-should-respond-to-leads-and-why-it-matters/",
-        "what": "We all know that responding to leads in a timely manner is necessary, but that leaves a few questions: how fast do I need to respond",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/how-fast-you-should-respond-to-leads-and-why-it-matters/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Stop staging homes for photos. Start staging them for buyers.",
-        "url": "https://www.housingwire.com/articles/photos-vs-reality-staging/",
-        "what": "Agents can reduce friction by making online marketing align with room size, light and walkability",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/photos-vs-reality-staging/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Real estate agent trust gap points to commission incentives",
-        "url": "https://www.housingwire.com/articles/real-estate-agent-trust-commissions/",
-        "what": "Gallup ethics ratings fell to 17% in 2025 as lawsuits and studies spotlighted incentive misalignment",
-        "numbers": "17, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-estate-agent-trust-commissions/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Balance Homes rolls out co-ownership program across 12 states",
-        "url": "https://www.housingwire.com/articles/balance-homes-co-ownership-12-states/",
-        "what": "The move doubles Balance Homes' footprint following a relaunch backed by $30 million led by Falco Group",
-        "numbers": "$30 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/balance-homes-co-ownership-12-states/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
