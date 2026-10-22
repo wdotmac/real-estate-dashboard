@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-10-21 10:07 UTC",
+  "as_of": "2026-10-22 10:10 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.15,
-      "delta_bp_1d": 6.00000000000005
+      "yield_pct": 5.12,
+      "delta_bp_1d": -3.000000000000025
     },
     "mortgage_30y": {
       "rate_pct": 7.4,
@@ -140,34 +140,39 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "In November, the appraisal becomes data. The CMA stays a document.",
-      "link": "https://www.housingwire.com/articles/appraisal-data-cma-gap/",
+      "title": "Support starter homes, not looser lending or financial fixes",
+      "link": "https://www.housingwire.com/articles/starter-homes-affordability-fix/",
+      "published": "Thu, 22 Oct 2026"
+    },
+    {
+      "title": "Where AI belongs in your listing marketing, and where it doesn’t",
+      "link": "https://www.housingwire.com/articles/ai-listing-marketing-templates/",
+      "published": "Thu, 22 Oct 2026"
+    },
+    {
+      "title": "Bay Area ADU initiative could lay path for aging in place",
+      "link": "https://www.housingwire.com/articles/bay-area-adu-initiative-could-lay-path-for-aging-in-place/",
       "published": "Wed, 21 Oct 2026"
     },
     {
-      "title": "Why second liens won, and equity never got a product",
-      "link": "https://www.housingwire.com/articles/second-liens-home-equity-product/",
+      "title": "White House executive order would seek to cut mortgage costs",
+      "link": "https://www.housingwire.com/articles/trump-executive-order-housing-costs-mortgage/",
       "published": "Wed, 21 Oct 2026"
     },
     {
-      "title": "‘Mutually assured destruction’: Brokers warn of fallout from Compass’s MLS demands",
-      "link": "https://www.housingwire.com/articles/compass-mls-antitrust-pushback/",
-      "published": "Tue, 20 Oct 2026"
+      "title": "Why lower home prices aren’t bringing buyers back to the housing market",
+      "link": "https://www.housingwire.com/articles/lower-home-prices-housing-affordability-buyers/",
+      "published": "Wed, 21 Oct 2026"
     },
     {
-      "title": "Village Capital settles over broken 6% VA loan rate cap",
-      "link": "https://www.housingwire.com/articles/village-capital-scra-settlement-doj/",
-      "published": "Tue, 20 Oct 2026"
+      "title": "Permits before loans: Inside the launch of Kukun’s Renovation-HELOC Index",
+      "link": "https://www.housingwire.com/articles/kukun-heloc-permit-data/",
+      "published": "Wed, 21 Oct 2026"
     },
     {
-      "title": "Real-REMAX CEO says AI will take over housing systems",
-      "link": "https://www.housingwire.com/articles/real-remax-ceo-says-ai-will-take-over-housing-systems/",
-      "published": "Tue, 20 Oct 2026"
-    },
-    {
-      "title": "Proprietary reverse mortgages continue to thrive as borrowers move away from HECMs",
-      "link": "https://www.housingwire.com/articles/proprietary-reverse-share-60/",
-      "published": "Tue, 20 Oct 2026"
+      "title": "Tanglewood Forest, Buttercup Creek and Behrens Ranch Are Austin’s Hottest Neighborhoods of 2026",
+      "link": "https://www.redfin.com/news/austin-texas-hottest-neighborhoods-2026/",
+      "published": "Wed, 21 Oct 2026"
     },
     {
       "title": "U.S. Home-Sale Prices Ticked Up 0.25% in September",
@@ -193,21 +198,16 @@
       "title": "Core Inflation Tops Forecasts, Making an October Fed Rate Hike a Close Call",
       "link": "https://www.redfin.com/news/cpi-report-economist-commentary-october-2026/",
       "published": "Wed, 14 Oct 2026"
-    },
-    {
-      "title": "A Smile Is America’s Favorite Way to Greet a Neighbor",
-      "link": "https://www.redfin.com/news/greeting-neighbors-smile/",
-      "published": "Wed, 14 Oct 2026"
     }
   ],
   "feed_101020": {
     "macro": [
       {
-        "title": "Mortgage rates cool down in response to AI stock sell-off, lower Treasury yields",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-dip-treasury-yield/",
-        "what": "HousingWire Data shows 30-year conforming rates at 7.52%, down 11 bps week over week, as the 10-year yield fell to 5.09%",
-        "numbers": "30, 7.52, 11, 10, 5.09",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-dip-treasury-yield/",
+        "title": "Why lower home prices aren’t bringing buyers back to the housing market",
+        "url": "https://www.housingwire.com/articles/lower-home-prices-housing-affordability-buyers/",
+        "what": "The search for housing affordability is getting harder as mortgage rates top 7%, with weakening contract activity in Omaha, Huntsville and Tulsa",
+        "numbers": "7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/lower-home-prices-housing-affordability-buyers/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -219,62 +219,35 @@
         "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-stay-on-edge-ahead-of-fed-meeting/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Core Inflation Tops Forecasts, Making an October Fed Rate Hike a Close Call",
-        "url": "https://www.redfin.com/news/cpi-report-economist-commentary-october-2026/",
-        "what": "Takeaway: A higher-than-expected inflation report puts the odds of a rate hike in two weeks at 50/50",
-        "numbers": "50, 50., 0.65, 0.58, 0.40",
-        "justified": "redfin.com — https://www.redfin.com/news/cpi-report-economist-commentary-october-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
       {
-        "title": "In November, the appraisal becomes data. The CMA stays a document.",
-        "url": "https://www.housingwire.com/articles/appraisal-data-cma-gap/",
-        "what": "Fannie and Freddie shift to MISMO-aligned fields, while listing pricing still starts with an unstructured CMA",
+        "title": "White House executive order would seek to cut mortgage costs",
+        "url": "https://www.housingwire.com/articles/trump-executive-order-housing-costs-mortgage/",
+        "what": "Executive order draft calls for policy actions across several areas, including mortgage insurance, manufactured housing and refinance costs",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/appraisal-data-cma-gap/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-executive-order-housing-costs-mortgage/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Permits before loans: Inside the launch of Kukun’s Renovation-HELOC Index",
+        "url": "https://www.housingwire.com/articles/kukun-heloc-permit-data/",
+        "what": "The company has mapped renovation hotspots by ZIP code as lenders and servicers eye home equity opportunities",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/kukun-heloc-permit-data/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Real-REMAX CEO says AI will take over housing systems",
-        "url": "https://www.housingwire.com/articles/real-remax-ceo-says-ai-will-take-over-housing-systems/",
-        "what": "Poleg also predicted that U.S",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-remax-ceo-says-ai-will-take-over-housing-systems/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Proprietary reverse mortgages continue to thrive as borrowers move away from HECMs",
-        "url": "https://www.housingwire.com/articles/proprietary-reverse-share-60/",
-        "what": "While HECM volume fell to $880 million in Q3 2026, private-label loans totaled $1.2 billion",
-        "numbers": "$880 million, 3, 2026,, $1.2 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/proprietary-reverse-share-60/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Fairway Home Mortgage rehires Jeff Gilmore, Matt Gray team",
-        "url": "https://www.housingwire.com/articles/fairway-home-mortgage-rehires-jeff-gilmore-matt-gray-team/",
-        "what": "The North Carolina-based team has logged 418 loans and $125.5M in volume year to date",
-        "numbers": "418, $125.5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fairway-home-mortgage-rehires-jeff-gilmore-matt-gray-team/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "NAR pending home sales index falls to record low in September",
-        "url": "https://www.housingwire.com/articles/pending-home-sales-record-low/",
-        "what": "HousingWire Intelligence data showed 51,947 new pending single family sales for Oct",
-        "numbers": "51,947, 16, 13.1",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pending-home-sales-record-low/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+        "title": "Tanglewood Forest, Buttercup Creek and Behrens Ranch Are Austin’s Hottest Neighborhoods of 2026",
+        "url": "https://www.redfin.com/news/austin-texas-hottest-neighborhoods-2026/",
+        "what": "Tanglewood Forest is Austin’s hottest neighborhood of 2026, followed by Buttercup Creek and Behrens Ranch",
+        "numbers": "2026,, 2026",
+        "justified": "redfin.com — https://www.redfin.com/news/austin-texas-hottest-neighborhoods-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "U.S. Home-Sale Prices Ticked Up 0.25% in September",
@@ -293,60 +266,69 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-asking-prices-decline-october/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Home Sellers Now Outnumber Buyers By 63%, the Biggest Gap Since the Post-Recession Housing Crash",
-        "url": "https://www.redfin.com/news/buyers-vs-sellers-september-2026/",
-        "what": "House hunters had more negotiating power in September than they’ve had since the housing market crashed after the 2008 financial crisis, with 63% more home sellers than buyers",
-        "numbers": "2008, 63, 2013,",
-        "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-september-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "A Smile Is America’s Favorite Way to Greet a Neighbor",
-        "url": "https://www.redfin.com/news/greeting-neighbors-smile/",
-        "what": "Smiling is the most common way U.S",
-        "numbers": "45, 40, 51, 49",
-        "justified": "redfin.com — https://www.redfin.com/news/greeting-neighbors-smile/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
       {
-        "title": "Why second liens won, and equity never got a product",
-        "url": "https://www.housingwire.com/articles/second-liens-home-equity-product/",
-        "what": "ICE data shows $11.7T tappable equity held by 47.5M borrowers in Q2 2026, with 54% of equity taps using second liens",
-        "numbers": "$11.7, 47.5, 2, 2026,, 54",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/second-liens-home-equity-product/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "Support starter homes, not looser lending or financial fixes",
+        "url": "https://www.housingwire.com/articles/starter-homes-affordability-fix/",
+        "what": "Research estimates smaller lots could have added 3.1 million starter homes in 10 years, at 10% to 15% lower prices",
+        "numbers": "3.1 million, 10, 15",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/starter-homes-affordability-fix/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
-        "title": "‘Mutually assured destruction’: Brokers warn of fallout from Compass’s MLS demands",
-        "url": "https://www.housingwire.com/articles/compass-mls-antitrust-pushback/",
-        "what": "Brown Harris Stevens, NextHome and Lamacchia Realty leaders say listing hoarding could undermine comps and appraisals",
+        "title": "Where AI belongs in your listing marketing, and where it doesn’t",
+        "url": "https://www.housingwire.com/articles/ai-listing-marketing-templates/",
+        "what": "AI can speed captions and photo cleanup, but templates tied to MLS data prevent errors at scale",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-mls-antitrust-pushback/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-listing-marketing-templates/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Village Capital settles over broken 6% VA loan rate cap",
-        "url": "https://www.housingwire.com/articles/village-capital-scra-settlement-doj/",
-        "what": "DOJ says the servicer refused rate cut requests and retaliated against those seeking relief",
+        "title": "Bay Area ADU initiative could lay path for aging in place",
+        "url": "https://www.housingwire.com/articles/bay-area-adu-initiative-could-lay-path-for-aging-in-place/",
+        "what": "Officials are seeking an administrator to guide participants through the process",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/village-capital-scra-settlement-doj/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bay-area-adu-initiative-could-lay-path-for-aging-in-place/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Real Wallet expanding into financial hub for agents",
+        "url": "https://www.housingwire.com/articles/real-wallet-expanding-into-financial-hub-for-agents/",
+        "what": "Total funds held in Real Wallet checking accounts have grown to $45 million",
+        "numbers": "$45 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-wallet-expanding-into-financial-hub-for-agents/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Northpointe to sell distributed retail, consumer direct channels to CMG",
+        "url": "https://www.housingwire.com/articles/northpointe-mortgage-channels-sale-cmg-financial/",
+        "what": "Deal is expected to close by the end of 2026",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/northpointe-mortgage-channels-sale-cmg-financial/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Small investors make gains as institutional homebuyers retreat",
+        "url": "https://www.housingwire.com/articles/small-investors-make-gains-as-institutional-homebuyers-retreat/",
+        "what": "Investor activity remained concentrated in the Midwest and Sun Belt",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/small-investors-make-gains-as-institutional-homebuyers-retreat/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Real unveils Leo Pro AI platform, agent-to-agent referral tools",
-        "url": "https://www.housingwire.com/articles/real-unveils-leo-pro-ai-platform-agent-to-agent-referral-tools/",
-        "what": "Agents using Referral Central can list areas of expertise to help colleagues find appropriate matches",
+        "title": "MLS insurance offerings expanded with new partnership",
+        "url": "https://www.housingwire.com/articles/mls-insurance-offerings-expanded-with-new-partnership/",
+        "what": "Orion was launched by MetroList, Northern Nevada Regional MLS and Oregon Data Share",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-unveils-leo-pro-ai-platform-agent-to-agent-referral-tools/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-insurance-offerings-expanded-with-new-partnership/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
