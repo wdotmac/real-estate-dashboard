@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-10-22 20:06 UTC",
+  "as_of": "2026-10-22 23:22 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.12,
-      "delta_bp_1d": -3.000000000000025
+      "yield_pct": 5.13,
+      "delta_bp_1d": 0.9999999999999787
     },
     "mortgage_30y": {
       "rate_pct": 7.32,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Most agents say CMAs will become more relevant, despite AI growth",
-      "link": "https://www.housingwire.com/articles/most-agents-say-cmas-will-become-more-relevant-despite-ai-growth/",
+      "title": "Don’t count on full Social Security benefits, financial planner warns",
+      "link": "https://www.housingwire.com/articles/social-security-benefits-financial-planner/",
       "published": "Thu, 22 Oct 2026"
     },
     {
-      "title": "Mortgage executives on the importance of cost-effective labor, borrower retention amid high rates",
-      "link": "https://www.housingwire.com/articles/mortgage-servicing-recapture-tools/",
+      "title": "Trump signs executive order targeting mortgage insurance, manufactured housing and more",
+      "link": "https://www.housingwire.com/articles/trump-order-mortgage-insurance/",
       "published": "Thu, 22 Oct 2026"
     },
     {
-      "title": "Sotheby’s International Realty names Mark McLaughlin CEO, Philip White transitions to executive chairman",
-      "link": "https://www.housingwire.com/articles/sothebys-mclaughlin-ceo/",
+      "title": "Internal AI ecosystem a big win for independent Arizona brokerage",
+      "link": "https://www.housingwire.com/articles/internal-ai-ecosystem-a-big-win-for-independent-arizona-brokerage/",
       "published": "Thu, 22 Oct 2026"
     },
     {
-      "title": "The luxury premium isn’t the house anymore. It’s everything around it.",
-      "link": "https://www.housingwire.com/articles/luxury-premium-land-privacy/",
+      "title": "The 10-year yield is under 5%. Are sub-7% mortgage rates next?",
+      "link": "https://www.housingwire.com/articles/the-10-year-yield-is-under-5-are-sub-7-mortgage-rates-next/",
       "published": "Thu, 22 Oct 2026"
     },
     {
-      "title": "Sex trafficking lawsuit against eXp agents settles midtrial",
-      "link": "https://www.housingwire.com/articles/exp-agents-lawsuit-settles/",
+      "title": "Nationwide Equities president Glenn Wallace retires after 50 years",
+      "link": "https://www.housingwire.com/articles/nationwide-equities-wallace-retires/",
       "published": "Thu, 22 Oct 2026"
     },
     {
-      "title": "Down payment assistance availability peaks again, with programs pushing average LTVs down 9%",
-      "link": "https://www.housingwire.com/articles/down-payment-assistance-q3-2026/",
+      "title": "Treasury blueprints carve-outs from ROAD’s Wall Street BTR ban",
+      "link": "https://www.housingwire.com/articles/btr-exemptions-institutional-investor-ban/",
       "published": "Thu, 22 Oct 2026"
     },
     {
@@ -203,20 +203,38 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Trump signs executive order targeting mortgage insurance, manufactured housing and more",
+        "url": "https://www.housingwire.com/articles/trump-order-mortgage-insurance/",
+        "what": "White House fact sheet also mentions expansion of title insurance waivers, along with lower USDA and VA direct loan rates",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-order-mortgage-insurance/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "The 10-year yield is under 5%. Are sub-7% mortgage rates next?",
+        "url": "https://www.housingwire.com/articles/the-10-year-yield-is-under-5-are-sub-7-mortgage-rates-next/",
+        "what": "Thursday was a wild day, and there was some short covering in bonds",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-10-year-yield-is-under-5-are-sub-7-mortgage-rates-next/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Treasury blueprints carve-outs from ROAD’s Wall Street BTR ban",
+        "url": "https://www.housingwire.com/articles/btr-exemptions-institutional-investor-ban/",
+        "what": "The proposal calls for an 18-month window for institutional investors to buy newly built BTR communities",
+        "numbers": "18",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/btr-exemptions-institutional-investor-ban/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Mortgage executives on the importance of cost-effective labor, borrower retention amid high rates",
         "url": "https://www.housingwire.com/articles/mortgage-servicing-recapture-tools/",
         "what": "At MBA Annual, leaders discussed labor automation and client recapture as a path forward during the down cycle",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-servicing-recapture-tools/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Sex trafficking lawsuit against eXp agents settles midtrial",
-        "url": "https://www.housingwire.com/articles/exp-agents-lawsuit-settles/",
-        "what": "Plaintiff filed a notice of settlement in federal court in Los Angeles, terms are confidential",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-agents-lawsuit-settles/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -241,6 +259,33 @@
     ],
     "housing": [
       {
+        "title": "Don’t count on full Social Security benefits, financial planner warns",
+        "url": "https://www.housingwire.com/articles/social-security-benefits-financial-planner/",
+        "what": "Expert warns future Social Security recipients against assuming they’ll receive currently projected amounts",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/social-security-benefits-financial-planner/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Internal AI ecosystem a big win for independent Arizona brokerage",
+        "url": "https://www.housingwire.com/articles/internal-ai-ecosystem-a-big-win-for-independent-arizona-brokerage/",
+        "what": "The brokerage also created a consumer-direct mortgage tool",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/internal-ai-ecosystem-a-big-win-for-independent-arizona-brokerage/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Why mortgage leaders are betting on home equity through 2027",
+        "url": "https://www.housingwire.com/articles/why-mortgage-leaders-are-betting-on-home-equity-through-2027/",
+        "what": "Executives cited $35 trillion in accumulated equity and the potential for $150 billion in 2026 originations as second liens gain attention",
+        "numbers": "$35, $150 billion, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-mortgage-leaders-are-betting-on-home-equity-through-2027/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Tanglewood Forest, Buttercup Creek and Behrens Ranch Are Austin’s Hottest Neighborhoods of 2026",
         "url": "https://www.redfin.com/news/austin-texas-hottest-neighborhoods-2026/",
         "what": "Tanglewood Forest is Austin’s hottest neighborhood of 2026, followed by Buttercup Creek and Behrens Ranch",
@@ -261,6 +306,15 @@
     ],
     "notables": [
       {
+        "title": "Nationwide Equities president Glenn Wallace retires after 50 years",
+        "url": "https://www.housingwire.com/articles/nationwide-equities-wallace-retires/",
+        "what": "General counsel Philip Parziale will take over as president while keeping his legal role",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nationwide-equities-wallace-retires/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Most agents say CMAs will become more relevant, despite AI growth",
         "url": "https://www.housingwire.com/articles/most-agents-say-cmas-will-become-more-relevant-despite-ai-growth/",
         "what": "Nearly 90% of respondents said CMAs will become more relevant in the future",
@@ -275,60 +329,6 @@
         "what": "Leadership change takes effect Nov",
         "numbers": "1,, 40",
         "justified": "housingwire.com — https://www.housingwire.com/articles/sothebys-mclaughlin-ceo/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The luxury premium isn’t the house anymore. It’s everything around it.",
-        "url": "https://www.housingwire.com/articles/luxury-premium-land-privacy/",
-        "what": "Remote work and limited coastal, agricultural supply are pushing premiums toward vineyards, views, and distance from neighbors",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/luxury-premium-land-privacy/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Down payment assistance availability peaks again, with programs pushing average LTVs down 9%",
-        "url": "https://www.housingwire.com/articles/down-payment-assistance-q3-2026/",
-        "what": "DPR tracked 2,833 programs, with 2,110 offering down payment and closing cost assistance",
-        "numbers": "2,833, 2,110",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/down-payment-assistance-q3-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Former REMAX president Nick Bailey joins proptech start up",
-        "url": "https://www.housingwire.com/articles/nick-bailey-authoritysignal-ai/",
-        "what": "AuthoritySignal AI analyzes digital signals across markets and specialties",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nick-bailey-authoritysignal-ai/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "ServiceLink announces leadership reshuffle for 2027",
-        "url": "https://www.housingwire.com/articles/servicelink-leadership-changes/",
-        "what": "Changes take effect Jan",
-        "numbers": "1,, 2027,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/servicelink-leadership-changes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Compass sues former ERA president Alex Vidal over move to REMAX",
-        "url": "https://www.housingwire.com/articles/compass-vidal-noncompete-delaware/",
-        "what": "Suit seeks injunction barring Vidal from serving as REMAX president for one year under a 2025 agreement.",
-        "numbers": "2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-vidal-noncompete-delaware/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Opendoor names CEO Kaz Nejatian president after Matheson steps down",
-        "url": "https://www.housingwire.com/articles/opendoor-nejatian-president/",
-        "what": "Matheson will stay on as a non-executive advisor through mid-July under a transition agreement",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-nejatian-president/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
