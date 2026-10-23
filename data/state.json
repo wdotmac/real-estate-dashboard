@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-10-23 19:12 UTC",
+  "as_of": "2026-10-23 22:13 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.13,
-      "delta_bp_1d": 0.9999999999999787
+      "yield_pct": 4.96,
+      "delta_bp_1d": -16.999999999999993
     },
     "mortgage_30y": {
       "rate_pct": 7.32,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Appraisers warn of risks as more real estate listings go private",
+      "link": "https://www.housingwire.com/articles/uad-36-mls-photo-privacy/",
+      "published": "Fri, 23 Oct 2026"
+    },
+    {
+      "title": "The Agency, huntington & ellis expand as brokerages make moves",
+      "link": "https://www.housingwire.com/articles/the-agency-huntington-ellis-expand-as-brokerages-make-moves/",
+      "published": "Fri, 23 Oct 2026"
+    },
+    {
+      "title": "Housing leaders weigh in on Trump’s scaled-back EO",
+      "link": "https://www.housingwire.com/articles/trump-eo-mortgage-insurance-title-refi-costs/",
+      "published": "Fri, 23 Oct 2026"
+    },
+    {
+      "title": "Subservicer benchmark survey shows 27-point gap between best, worst performers",
+      "link": "https://www.housingwire.com/articles/mortgage-subservicer-benchmark-gap/",
+      "published": "Fri, 23 Oct 2026"
+    },
+    {
       "title": "Taylor Morrison CEO on the value of trust in a challenging market",
       "link": "https://www.housingwire.com/articles/taylor-morrison-trust-culture/",
       "published": "Fri, 23 Oct 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Sideways demand exposes which homebuilding teams can improve",
       "link": "https://www.housingwire.com/articles/homebuilding-leadership-process-2027/",
-      "published": "Fri, 23 Oct 2026"
-    },
-    {
-      "title": "Foreclosure auctions, up 25% in the past year, hit a post-pandemic peak",
-      "link": "https://www.housingwire.com/articles/foreclosure-auctions-up-25-in-the-past-year-hit-a-post-pandemic-peak/",
-      "published": "Fri, 23 Oct 2026"
-    },
-    {
-      "title": "Qualia expands into payments with earnest money, cash to close",
-      "link": "https://www.housingwire.com/articles/qualia-expands-into-payments-with-earnest-money-cash-to-close/",
-      "published": "Fri, 23 Oct 2026"
-    },
-    {
-      "title": "Pennsylvania lawsuit targets $650 ‘broker fee’ at Keller Williams franchise",
-      "link": "https://www.housingwire.com/articles/pennsylvania-keller-williams-broker-fee/",
-      "published": "Fri, 23 Oct 2026"
-    },
-    {
-      "title": "Real estate coaching that builds authentic agent trust",
-      "link": "https://www.housingwire.com/articles/authentic-agent-trust/",
       "published": "Fri, 23 Oct 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Subservicer benchmark survey shows 27-point gap between best, worst performers",
+        "url": "https://www.housingwire.com/articles/mortgage-subservicer-benchmark-gap/",
+        "what": "Garrett, McAuley & Co",
+        "numbers": "53, 80",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-subservicer-benchmark-gap/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Qualia expands into payments with earnest money, cash to close",
         "url": "https://www.housingwire.com/articles/qualia-expands-into-payments-with-earnest-money-cash-to-close/",
         "what": "Customers sign up from inside Qualia Core and can keep their existing escrow bank account",
@@ -210,15 +219,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/qualia-expands-into-payments-with-earnest-money-cash-to-close/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Newrez Q3 originations drop 19%, but servicing and tech investments lift profits",
-        "url": "https://www.housingwire.com/articles/newrez-q3-originations/",
-        "what": "Lender funded $12.9 billion in mortgages in Q3 as high rates pressured volume",
-        "numbers": "$12.9 billion, 3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/newrez-q3-originations/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "U.S. Pending Home Sales Sink to a New Low",
@@ -241,6 +241,24 @@
     ],
     "housing": [
       {
+        "title": "Appraisers warn of risks as more real estate listings go private",
+        "url": "https://www.housingwire.com/articles/uad-36-mls-photo-privacy/",
+        "what": "Appraisers say hidden interiors and off-market sales limit comp verification and will extend turnaround times",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uad-36-mls-photo-privacy/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Housing leaders weigh in on Trump’s scaled-back EO",
+        "url": "https://www.housingwire.com/articles/trump-eo-mortgage-insurance-title-refi-costs/",
+        "what": "Analysts see the moves as largely benign for mortgage and title insurers",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-eo-mortgage-insurance-title-refi-costs/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Foreclosure auctions, up 25% in the past year, hit a post-pandemic peak",
         "url": "https://www.housingwire.com/articles/foreclosure-auctions-up-25-in-the-past-year-hit-a-post-pandemic-peak/",
         "what": "Mortgages originated in 2022 or later represented 46% of all foreclosure auction activity in the third quarter",
@@ -248,24 +266,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/foreclosure-auctions-up-25-in-the-past-year-hit-a-post-pandemic-peak/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage pros see a mixed outlook for conventional lending into 2027",
-        "url": "https://www.housingwire.com/articles/conventional-lending-outlook-2027/",
-        "what": "AD Mortgage survey of 250+ respondents finds 34.5% expect conventional channel growth, while 55% cite income and DTI hurdles",
-        "numbers": "250, 34.5, 55",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/conventional-lending-outlook-2027/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "HousingWire Daily wins Signal Award for best daily podcast",
-        "url": "https://www.housingwire.com/articles/housingwire-daily-signal-award/",
-        "what": "The show, launched in 2020, now tops 1.4 million annual downloads and often ranks in the top 15 of business news podcasts",
-        "numbers": "2020,, 1.4 million, 15",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housingwire-daily-signal-award/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Tanglewood Forest, Buttercup Creek and Behrens Ranch Are Austin’s Hottest Neighborhoods of 2026",
@@ -287,6 +287,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "The Agency, huntington & ellis expand as brokerages make moves",
+        "url": "https://www.housingwire.com/articles/the-agency-huntington-ellis-expand-as-brokerages-make-moves/",
+        "what": "The Agency now has over 190 offices across 18 countries and launched 27 new offices in 2025",
+        "numbers": "190, 18, 27, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-agency-huntington-ellis-expand-as-brokerages-make-moves/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Taylor Morrison CEO on the value of trust in a challenging market",
         "url": "https://www.housingwire.com/articles/taylor-morrison-trust-culture/",
@@ -320,15 +329,6 @@
         "what": "As automated messaging rises, leaders can create an edge by coaching voice, temperament fit and sustainability",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/authentic-agent-trust/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "UWM plans MSR sale of up to $80 billion in Q4 to cut leverage",
-        "url": "https://www.housingwire.com/articles/uwm-80b-msr-sale-q4-deleveraging/",
-        "what": "Proceeds and preferred raise would target nonfunding debt paydown",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-80b-msr-sale-q4-deleveraging/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
