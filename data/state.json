@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-24 18:08 UTC",
+  "as_of": "2026-10-24 20:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Slightly lower mortgage rates finally pause slide in housing demand",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/",
+      "published": "Sat, 24 Oct 2026"
+    },
+    {
       "title": "Appraisers warn of risks as more real estate listings go private",
       "link": "https://www.housingwire.com/articles/uad-36-mls-photo-privacy/",
       "published": "Fri, 23 Oct 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Taylor Morrison CEO on the value of trust in a challenging market",
       "link": "https://www.housingwire.com/articles/taylor-morrison-trust-culture/",
-      "published": "Fri, 23 Oct 2026"
-    },
-    {
-      "title": "Sideways demand exposes which homebuilding teams can improve",
-      "link": "https://www.housingwire.com/articles/homebuilding-leadership-process-2027/",
       "published": "Fri, 23 Oct 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Slightly lower mortgage rates finally pause slide in housing demand",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/",
+        "what": "Rates fell toward 7.30% as the 10-year yield dipped below 5% in a wild week for the bond market",
+        "numbers": "7.30, 10, 5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Subservicer benchmark survey shows 27-point gap between best, worst performers",
         "url": "https://www.housingwire.com/articles/mortgage-subservicer-benchmark-gap/",
@@ -320,15 +329,6 @@
         "what": "Complaint seeks class status and an injunction against Keller Williams Elite in Lancaster County",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/pennsylvania-keller-williams-broker-fee/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Real estate coaching that builds authentic agent trust",
-        "url": "https://www.housingwire.com/articles/authentic-agent-trust/",
-        "what": "As automated messaging rises, leaders can create an edge by coaching voice, temperament fit and sustainability",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/authentic-agent-trust/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
