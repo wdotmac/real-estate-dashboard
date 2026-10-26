@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-26 06:12 UTC",
+  "as_of": "2026-10-26 13:09 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Homebuilding scale grows as institutional knowledge fades",
+      "link": "https://www.housingwire.com/articles/homebuilding-institutional-wisdom-loss/",
+      "published": "Mon, 26 Oct 2026"
+    },
+    {
+      "title": "Splitero’s Michael Gifford says HEIs could gain market share as mortgage rates stay high",
+      "link": "https://www.housingwire.com/articles/splitero-ceo-hei-rates/",
+      "published": "Mon, 26 Oct 2026"
+    },
+    {
+      "title": "At 7.28%, the American dream just got a $215-a-month surcharge",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-american-dream/",
+      "published": "Mon, 26 Oct 2026"
+    },
+    {
+      "title": "Playbook: Triage first, strategy second.",
+      "link": "https://www.housingwire.com/articles/mortgage-lender-triage-strategy/",
+      "published": "Mon, 26 Oct 2026"
+    },
+    {
       "title": "Slightly lower mortgage rates finally pause slide in housing demand",
       "link": "https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/",
       "published": "Sat, 24 Oct 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Appraisers warn of risks as more real estate listings go private",
       "link": "https://www.housingwire.com/articles/uad-36-mls-photo-privacy/",
-      "published": "Fri, 23 Oct 2026"
-    },
-    {
-      "title": "The Agency, huntington & ellis expand as brokerages make moves",
-      "link": "https://www.housingwire.com/articles/the-agency-huntington-ellis-expand-as-brokerages-make-moves/",
-      "published": "Fri, 23 Oct 2026"
-    },
-    {
-      "title": "Housing leaders weigh in on Trump’s scaled-back EO",
-      "link": "https://www.housingwire.com/articles/trump-eo-mortgage-insurance-title-refi-costs/",
-      "published": "Fri, 23 Oct 2026"
-    },
-    {
-      "title": "Subservicer benchmark survey shows 27-point gap between best, worst performers",
-      "link": "https://www.housingwire.com/articles/mortgage-subservicer-benchmark-gap/",
-      "published": "Fri, 23 Oct 2026"
-    },
-    {
-      "title": "Taylor Morrison CEO on the value of trust in a challenging market",
-      "link": "https://www.housingwire.com/articles/taylor-morrison-trust-culture/",
       "published": "Fri, 23 Oct 2026"
     },
     {
@@ -203,6 +203,24 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "Splitero’s Michael Gifford says HEIs could gain market share as mortgage rates stay high",
+        "url": "https://www.housingwire.com/articles/splitero-ceo-hei-rates/",
+        "what": "Michael Gifford says securitization demand could lower pricing over time, but the regulatory picture remains cloudy",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/splitero-ceo-hei-rates/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Playbook: Triage first, strategy second.",
+        "url": "https://www.housingwire.com/articles/mortgage-lender-triage-strategy/",
+        "what": "Mortgage rates are volatile",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-lender-triage-strategy/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Slightly lower mortgage rates finally pause slide in housing demand",
         "url": "https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/",
         "what": "Rates fell toward 7.30% as the 10-year yield dipped below 5% in a wild week for the bond market",
@@ -219,15 +237,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-subservicer-benchmark-gap/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Qualia expands into payments with earnest money, cash to close",
-        "url": "https://www.housingwire.com/articles/qualia-expands-into-payments-with-earnest-money-cash-to-close/",
-        "what": "Customers sign up from inside Qualia Core and can keep their existing escrow bank account",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/qualia-expands-into-payments-with-earnest-money-cash-to-close/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "U.S. Pending Home Sales Sink to a New Low",
@@ -268,15 +277,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Foreclosure auctions, up 25% in the past year, hit a post-pandemic peak",
-        "url": "https://www.housingwire.com/articles/foreclosure-auctions-up-25-in-the-past-year-hit-a-post-pandemic-peak/",
-        "what": "Mortgages originated in 2022 or later represented 46% of all foreclosure auction activity in the third quarter",
-        "numbers": "2022, 46",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/foreclosure-auctions-up-25-in-the-past-year-hit-a-post-pandemic-peak/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "Tanglewood Forest, Buttercup Creek and Behrens Ranch Are Austin’s Hottest Neighborhoods of 2026",
         "url": "https://www.redfin.com/news/austin-texas-hottest-neighborhoods-2026/",
         "what": "Tanglewood Forest is Austin’s hottest neighborhood of 2026, followed by Buttercup Creek and Behrens Ranch",
@@ -297,6 +297,24 @@
     ],
     "notables": [
       {
+        "title": "Homebuilding scale grows as institutional knowledge fades",
+        "url": "https://www.housingwire.com/articles/homebuilding-institutional-wisdom-loss/",
+        "what": "The Fox & Jacobs 'North Dallas Special' model 402 showed how buyer research and market focus can outperform national scale",
+        "numbers": "402",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilding-institutional-wisdom-loss/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "At 7.28%, the American dream just got a $215-a-month surcharge",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-american-dream/",
+        "what": "On a $429,100 median home with 20% down, principal and interest rises from about $2,130 to $2,350",
+        "numbers": "$429,100, 20, $2,130, $2,350",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-american-dream/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "The Agency, huntington & ellis expand as brokerages make moves",
         "url": "https://www.housingwire.com/articles/the-agency-huntington-ellis-expand-as-brokerages-make-moves/",
         "what": "The Agency now has over 190 offices across 18 countries and launched 27 new offices in 2025",
@@ -311,24 +329,6 @@
         "what": "Sheryl Palmer said trust helps Taylor Morrison rework land deals and avoid deeper discounts amid 2026 market pressure",
         "numbers": "2026",
         "justified": "housingwire.com — https://www.housingwire.com/articles/taylor-morrison-trust-culture/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Sideways demand exposes which homebuilding teams can improve",
-        "url": "https://www.housingwire.com/articles/homebuilding-leadership-process-2027/",
-        "what": "From takeoffs to trade scheduling, Summit conversations show how to turn founder know-how into repeatable, enterprise systems",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilding-leadership-process-2027/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Pennsylvania lawsuit targets $650 ‘broker fee’ at Keller Williams franchise",
-        "url": "https://www.housingwire.com/articles/pennsylvania-keller-williams-broker-fee/",
-        "what": "Complaint seeks class status and an injunction against Keller Williams Elite in Lancaster County",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pennsylvania-keller-williams-broker-fee/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
