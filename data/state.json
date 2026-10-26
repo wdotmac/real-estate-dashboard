@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-26 13:09 UTC",
+  "as_of": "2026-10-26 19:18 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Homebuilding scale grows as institutional knowledge fades",
-      "link": "https://www.housingwire.com/articles/homebuilding-institutional-wisdom-loss/",
+      "title": "Could a pullback in Medicare Advantage plans boost reverse mortgages?",
+      "link": "https://www.housingwire.com/articles/medicare-advantage-2027-reverse-mortgages/",
       "published": "Mon, 26 Oct 2026"
     },
     {
-      "title": "Splitero’s Michael Gifford says HEIs could gain market share as mortgage rates stay high",
-      "link": "https://www.housingwire.com/articles/splitero-ceo-hei-rates/",
+      "title": "Everything we know so far about Open Real Estate",
+      "link": "https://www.housingwire.com/articles/open-real-estate-initiative/",
       "published": "Mon, 26 Oct 2026"
     },
     {
-      "title": "At 7.28%, the American dream just got a $215-a-month surcharge",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-american-dream/",
+      "title": "ENRG Realty appoints Eric Hauser as SVP of growth",
+      "link": "https://www.housingwire.com/articles/enrg-realty-appoints-eric-hauser-as-svp-of-growth/",
       "published": "Mon, 26 Oct 2026"
     },
     {
-      "title": "Playbook: Triage first, strategy second.",
-      "link": "https://www.housingwire.com/articles/mortgage-lender-triage-strategy/",
+      "title": "The Agency builds global AI platform for luxury real estate",
+      "link": "https://www.housingwire.com/articles/the-agency-builds-global-ai-platform-for-luxury-real-estate/",
       "published": "Mon, 26 Oct 2026"
     },
     {
-      "title": "Slightly lower mortgage rates finally pause slide in housing demand",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/",
-      "published": "Sat, 24 Oct 2026"
+      "title": "Unlock closes $433.1M home equity agreement securitization",
+      "link": "https://www.housingwire.com/articles/unlock-433m-hea-securitization/",
+      "published": "Mon, 26 Oct 2026"
     },
     {
-      "title": "Appraisers warn of risks as more real estate listings go private",
-      "link": "https://www.housingwire.com/articles/uad-36-mls-photo-privacy/",
-      "published": "Fri, 23 Oct 2026"
+      "title": "FICO freezes $10 mortgage score bundle price",
+      "link": "https://www.housingwire.com/articles/fico-holds-10-mortgage-score-pricing/",
+      "published": "Mon, 26 Oct 2026"
     },
     {
       "title": "U.S. Pending Home Sales Sink to a New Low",
@@ -203,38 +203,20 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "FICO freezes $10 mortgage score bundle price",
+        "url": "https://www.housingwire.com/articles/fico-holds-10-mortgage-score-pricing/",
+        "what": "Flat pricing on Classic FICO and FICO 10T comes amid competition",
+        "numbers": "10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fico-holds-10-mortgage-score-pricing/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Splitero’s Michael Gifford says HEIs could gain market share as mortgage rates stay high",
         "url": "https://www.housingwire.com/articles/splitero-ceo-hei-rates/",
         "what": "Michael Gifford says securitization demand could lower pricing over time, but the regulatory picture remains cloudy",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/splitero-ceo-hei-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Playbook: Triage first, strategy second.",
-        "url": "https://www.housingwire.com/articles/mortgage-lender-triage-strategy/",
-        "what": "Mortgage rates are volatile",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-lender-triage-strategy/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Slightly lower mortgage rates finally pause slide in housing demand",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/",
-        "what": "Rates fell toward 7.30% as the 10-year yield dipped below 5% in a wild week for the bond market",
-        "numbers": "7.30, 10, 5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Subservicer benchmark survey shows 27-point gap between best, worst performers",
-        "url": "https://www.housingwire.com/articles/mortgage-subservicer-benchmark-gap/",
-        "what": "Garrett, McAuley & Co",
-        "numbers": "53, 80",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-subservicer-benchmark-gap/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -259,22 +241,31 @@
     ],
     "housing": [
       {
-        "title": "Appraisers warn of risks as more real estate listings go private",
-        "url": "https://www.housingwire.com/articles/uad-36-mls-photo-privacy/",
-        "what": "Appraisers say hidden interiors and off-market sales limit comp verification and will extend turnaround times",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/uad-36-mls-photo-privacy/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Housing leaders weigh in on Trump’s scaled-back EO",
-        "url": "https://www.housingwire.com/articles/trump-eo-mortgage-insurance-title-refi-costs/",
-        "what": "Analysts see the moves as largely benign for mortgage and title insurers",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-eo-mortgage-insurance-title-refi-costs/",
+        "title": "Could a pullback in Medicare Advantage plans boost reverse mortgages?",
+        "url": "https://www.housingwire.com/articles/medicare-advantage-2027-reverse-mortgages/",
+        "what": "With fewer Medicare Advantage plans available in 2027, seniors may look to their home equity to offset rising expenses",
+        "numbers": "2027,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/medicare-advantage-2027-reverse-mortgages/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Open Real Estate: Housing markets must remain open to all",
+        "url": "https://www.housingwire.com/articles/open-real-estate-listing-access/",
+        "what": "Industry open letter calls for standardized data sharing across MLSs and portals",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/open-real-estate-listing-access/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "4 Real estate giants team up to create new, shared listings platform",
+        "url": "https://www.housingwire.com/articles/open-real-estate-data-initiative/",
+        "what": "eXp, NextHome, HomeServices, Keller Williams and Real REMAX Group join forces to create a national data-sharing program",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/open-real-estate-data-initiative/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Tanglewood Forest, Buttercup Creek and Behrens Ranch Are Austin’s Hottest Neighborhoods of 2026",
@@ -297,38 +288,47 @@
     ],
     "notables": [
       {
+        "title": "Everything we know so far about Open Real Estate",
+        "url": "https://www.housingwire.com/articles/open-real-estate-initiative/",
+        "what": "Leaders say local MLS governance remains in place as Open Real Estate prepares for a Q1 2027 rollout",
+        "numbers": "1, 2027",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/open-real-estate-initiative/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "ENRG Realty appoints Eric Hauser as SVP of growth",
+        "url": "https://www.housingwire.com/articles/enrg-realty-appoints-eric-hauser-as-svp-of-growth/",
+        "what": "Hauser will focus on expanding ENRG's national presence",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/enrg-realty-appoints-eric-hauser-as-svp-of-growth/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "The Agency builds global AI platform for luxury real estate",
+        "url": "https://www.housingwire.com/articles/the-agency-builds-global-ai-platform-for-luxury-real-estate/",
+        "what": "Agents and leaders can ask questions in plain language and get answers grounded in The Agency's own data",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/the-agency-builds-global-ai-platform-for-luxury-real-estate/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Unlock closes $433.1M home equity agreement securitization",
+        "url": "https://www.housingwire.com/articles/unlock-433m-hea-securitization/",
+        "what": "The transaction includes 4,474 HEAs originated and managed by Unlock",
+        "numbers": "4,474",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/unlock-433m-hea-securitization/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Homebuilding scale grows as institutional knowledge fades",
         "url": "https://www.housingwire.com/articles/homebuilding-institutional-wisdom-loss/",
         "what": "The Fox & Jacobs 'North Dallas Special' model 402 showed how buyer research and market focus can outperform national scale",
         "numbers": "402",
         "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilding-institutional-wisdom-loss/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "At 7.28%, the American dream just got a $215-a-month surcharge",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-american-dream/",
-        "what": "On a $429,100 median home with 20% down, principal and interest rises from about $2,130 to $2,350",
-        "numbers": "$429,100, 20, $2,130, $2,350",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-american-dream/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The Agency, huntington & ellis expand as brokerages make moves",
-        "url": "https://www.housingwire.com/articles/the-agency-huntington-ellis-expand-as-brokerages-make-moves/",
-        "what": "The Agency now has over 190 offices across 18 countries and launched 27 new offices in 2025",
-        "numbers": "190, 18, 27, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-agency-huntington-ellis-expand-as-brokerages-make-moves/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Taylor Morrison CEO on the value of trust in a challenging market",
-        "url": "https://www.housingwire.com/articles/taylor-morrison-trust-culture/",
-        "what": "Sheryl Palmer said trust helps Taylor Morrison rework land deals and avoid deeper discounts amid 2026 market pressure",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/taylor-morrison-trust-culture/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
