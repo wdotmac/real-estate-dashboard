@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-10-26 19:18 UTC",
+  "as_of": "2026-10-26 23:52 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.96,
-      "delta_bp_1d": -16.999999999999993
+      "yield_pct": 5.0,
+      "delta_bp_1d": 4.0000000000000036
     },
     "mortgage_30y": {
       "rate_pct": 7.32,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Analysts cast FICO’s $10 mortgage pricing as defensive volume play",
+      "link": "https://www.housingwire.com/articles/fico-preferred-program-analyst-reaction/",
+      "published": "Mon, 26 Oct 2026"
+    },
+    {
+      "title": "Rust Belt city eliminates minimum lot sizes to jump-start revival",
+      "link": "https://www.housingwire.com/articles/akron-minimum-lot-sizes/",
+      "published": "Mon, 26 Oct 2026"
+    },
+    {
+      "title": "Reds10 Group’s MMY US acquisition secures U.S. offsite beachhead",
+      "link": "https://www.housingwire.com/articles/reds10-mmy-us-acquisition/",
+      "published": "Mon, 26 Oct 2026"
+    },
+    {
       "title": "Could a pullback in Medicare Advantage plans boost reverse mortgages?",
       "link": "https://www.housingwire.com/articles/medicare-advantage-2027-reverse-mortgages/",
       "published": "Mon, 26 Oct 2026"
@@ -155,18 +170,8 @@
       "published": "Mon, 26 Oct 2026"
     },
     {
-      "title": "The Agency builds global AI platform for luxury real estate",
-      "link": "https://www.housingwire.com/articles/the-agency-builds-global-ai-platform-for-luxury-real-estate/",
-      "published": "Mon, 26 Oct 2026"
-    },
-    {
-      "title": "Unlock closes $433.1M home equity agreement securitization",
-      "link": "https://www.housingwire.com/articles/unlock-433m-hea-securitization/",
-      "published": "Mon, 26 Oct 2026"
-    },
-    {
-      "title": "FICO freezes $10 mortgage score bundle price",
-      "link": "https://www.housingwire.com/articles/fico-holds-10-mortgage-score-pricing/",
+      "title": "Mortgage Rates Dip as AI Jitters Boost Bonds Ahead of Fed Decision, GDP Data",
+      "link": "https://www.redfin.com/news/mortgage-rates-dip-as-ai-jitters-boost-bonds-ahead-of-fed-decision-gdp-data/",
       "published": "Mon, 26 Oct 2026"
     },
     {
@@ -193,30 +198,34 @@
       "title": "Housing Market Update: Sellers’ Asking Prices Fall For the First Time Since March",
       "link": "https://www.redfin.com/news/housing-market-update-asking-prices-decline-october/",
       "published": "Thu, 15 Oct 2026"
-    },
-    {
-      "title": "Home Sellers Now Outnumber Buyers By 63%, the Biggest Gap Since the Post-Recession Housing Crash",
-      "link": "https://www.redfin.com/news/buyers-vs-sellers-september-2026/",
-      "published": "Wed, 14 Oct 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Analysts cast FICO’s $10 mortgage pricing as defensive volume play",
+        "url": "https://www.housingwire.com/articles/fico-preferred-program-analyst-reaction/",
+        "what": "Preferred Program locks in FICO pulls at $10 per score as industry shifts to multiscore framework",
+        "numbers": "$10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fico-preferred-program-analyst-reaction/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Mortgage Rates Dip as AI Jitters Boost Bonds Ahead of Fed Decision, GDP Data",
+        "url": "https://www.redfin.com/news/mortgage-rates-dip-as-ai-jitters-boost-bonds-ahead-of-fed-decision-gdp-data/",
+        "what": "In A Nutshell: Rates have mellowed a bit coming into a big week with a Fed meeting and the first read of Q3 GDP data",
+        "numbers": "3",
+        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-dip-as-ai-jitters-boost-bonds-ahead-of-fed-decision-gdp-data/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "FICO freezes $10 mortgage score bundle price",
         "url": "https://www.housingwire.com/articles/fico-holds-10-mortgage-score-pricing/",
         "what": "Flat pricing on Classic FICO and FICO 10T comes amid competition",
         "numbers": "10",
         "justified": "housingwire.com — https://www.housingwire.com/articles/fico-holds-10-mortgage-score-pricing/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Splitero’s Michael Gifford says HEIs could gain market share as mortgage rates stay high",
-        "url": "https://www.housingwire.com/articles/splitero-ceo-hei-rates/",
-        "what": "Michael Gifford says securitization demand could lower pricing over time, but the regulatory picture remains cloudy",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/splitero-ceo-hei-rates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -259,15 +268,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "4 Real estate giants team up to create new, shared listings platform",
-        "url": "https://www.housingwire.com/articles/open-real-estate-data-initiative/",
-        "what": "eXp, NextHome, HomeServices, Keller Williams and Real REMAX Group join forces to create a national data-sharing program",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/open-real-estate-data-initiative/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
         "title": "Tanglewood Forest, Buttercup Creek and Behrens Ranch Are Austin’s Hottest Neighborhoods of 2026",
         "url": "https://www.redfin.com/news/austin-texas-hottest-neighborhoods-2026/",
         "what": "Tanglewood Forest is Austin’s hottest neighborhood of 2026, followed by Buttercup Creek and Behrens Ranch",
@@ -287,6 +287,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "Rust Belt city eliminates minimum lot sizes to jump-start revival",
+        "url": "https://www.housingwire.com/articles/akron-minimum-lot-sizes/",
+        "what": "Zoning rewrite allows homes on any lot meeting yard rules, hundreds of city held parcels now qualify",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/akron-minimum-lot-sizes/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Reds10 Group’s MMY US acquisition secures U.S. offsite beachhead",
+        "url": "https://www.housingwire.com/articles/reds10-mmy-us-acquisition/",
+        "what": "MMY US has an off-site construction facility in Louisville, and is planning to build another modular factory in Cleveland",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reds10-mmy-us-acquisition/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Everything we know so far about Open Real Estate",
         "url": "https://www.housingwire.com/articles/open-real-estate-initiative/",
@@ -320,15 +338,6 @@
         "what": "The transaction includes 4,474 HEAs originated and managed by Unlock",
         "numbers": "4,474",
         "justified": "housingwire.com — https://www.housingwire.com/articles/unlock-433m-hea-securitization/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Homebuilding scale grows as institutional knowledge fades",
-        "url": "https://www.housingwire.com/articles/homebuilding-institutional-wisdom-loss/",
-        "what": "The Fox & Jacobs 'North Dallas Special' model 402 showed how buyer research and market focus can outperform national scale",
-        "numbers": "402",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilding-institutional-wisdom-loss/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
