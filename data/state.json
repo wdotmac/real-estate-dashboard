@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-27 10:33 UTC",
+  "as_of": "2026-10-27 16:38 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -17,36 +17,36 @@
   },
   "permits": {
     "florida": {
-      "latest": 13980,
-      "latest_date": "2026-08",
-      "mom": -0.1275586620069895,
-      "yoy": 0.028394880094159136,
-      "ytd": -0.12845943214786326,
-      "ytd_count": 106945,
+      "latest": 14649,
+      "latest_date": "2026-09",
+      "mom": 0.047854077253218774,
+      "yoy": 0.09705684115929003,
+      "ytd": -0.10632730907460619,
+      "ytd_count": 121594,
       "latest_year": 2026,
-      "latest_month_name": "Aug"
+      "latest_month_name": "Sep"
     },
     "msa": {
       "Orlando–Kissimmee–Sanford": {
         "total": {
-          "latest": 1472,
+          "latest": 1574,
           "latest_year": 2026,
-          "latest_month": 8,
-          "latest_month_name": "Aug",
-          "mom": -0.26693227091633465,
-          "yoy": -0.1073377804730139,
-          "ytd_yoy": -0.32557312052051035,
-          "ytd_count": 13268
+          "latest_month": 9,
+          "latest_month_name": "Sep",
+          "mom": 0.06929347826086962,
+          "yoy": -0.22233201581027673,
+          "ytd_yoy": -0.3159422961699774,
+          "ytd_count": 14842
         },
         "one_unit": {
-          "latest": 1120,
+          "latest": 1021,
           "latest_year": 2026,
-          "latest_month": 8,
-          "latest_month_name": "Aug",
-          "mom": -0.05004240882103472,
-          "yoy": 0.20819848975188782,
-          "ytd_yoy": -0.16583246765511384,
-          "ytd_count": 8833
+          "latest_month": 9,
+          "latest_month_name": "Sep",
+          "mom": -0.08839285714285716,
+          "yoy": 0.19275700934579443,
+          "ytd_yoy": -0.13901266928789868,
+          "ytd_count": 9854
         },
         "dom": {
           "days": 77,
@@ -56,24 +56,24 @@
       },
       "Tampa–St. Petersburg–Clearwater": {
         "total": {
-          "latest": 2060,
+          "latest": 1934,
           "latest_year": 2026,
-          "latest_month": 8,
-          "latest_month_name": "Aug",
-          "mom": -0.16700363930448847,
-          "yoy": -0.29160935350756534,
-          "ytd_yoy": -0.08835074581798419,
-          "ytd_count": 15096
+          "latest_month": 9,
+          "latest_month_name": "Sep",
+          "mom": -0.061165048543689315,
+          "yoy": 0.2240506329113925,
+          "ytd_yoy": -0.061138982303324374,
+          "ytd_count": 17030
         },
         "one_unit": {
-          "latest": 1282,
+          "latest": 1015,
           "latest_year": 2026,
-          "latest_month": 8,
-          "latest_month_name": "Aug",
-          "mom": 0.10422049956933677,
-          "yoy": -0.031722054380664666,
-          "ytd_yoy": -0.007433776567898676,
-          "ytd_count": 9480
+          "latest_month": 9,
+          "latest_month_name": "Sep",
+          "mom": -0.20826833073322937,
+          "yoy": -0.043355325164938785,
+          "ytd_yoy": -0.011025254428948306,
+          "ytd_count": 10495
         },
         "dom": {
           "days": 76,
@@ -83,24 +83,24 @@
       },
       "Ocala": {
         "total": {
-          "latest": 362,
+          "latest": 511,
           "latest_year": 2026,
-          "latest_month": 8,
-          "latest_month_name": "Aug",
-          "mom": -0.20088300220750555,
-          "yoy": -0.2147505422993492,
-          "ytd_yoy": -0.09746891651865008,
-          "ytd_count": 4065
+          "latest_month": 9,
+          "latest_month_name": "Sep",
+          "mom": 0.4116022099447514,
+          "yoy": 0.1911421911421911,
+          "ytd_yoy": -0.07236975471315632,
+          "ytd_count": 4576
         },
         "one_unit": {
-          "latest": 342,
+          "latest": 399,
           "latest_year": 2026,
-          "latest_month": 8,
-          "latest_month_name": "Aug",
-          "mom": -0.2279909706546276,
-          "yoy": -0.24168514412416853,
-          "ytd_yoy": -0.01287447387967322,
-          "ytd_count": 3987
+          "latest_month": 9,
+          "latest_month_name": "Sep",
+          "mom": 0.16666666666666674,
+          "yoy": 0.09315068493150691,
+          "ytd_yoy": -0.004087193460490468,
+          "ytd_count": 4386
         },
         "dom": {
           "days": 77,
@@ -110,24 +110,24 @@
       },
       "Palm Bay–Melbourne–Titusville": {
         "total": {
-          "latest": 530,
+          "latest": 400,
           "latest_year": 2026,
-          "latest_month": 8,
-          "latest_month_name": "Aug",
-          "mom": -0.29333333333333333,
-          "yoy": 0.3554987212276215,
-          "ytd_yoy": 0.09202239328201545,
-          "ytd_count": 3121
+          "latest_month": 9,
+          "latest_month_name": "Sep",
+          "mom": -0.24528301886792447,
+          "yoy": -0.375,
+          "ytd_yoy": 0.006575185820468787,
+          "ytd_count": 3521
         },
         "one_unit": {
-          "latest": 314,
+          "latest": 364,
           "latest_year": 2026,
-          "latest_month": 8,
-          "latest_month_name": "Aug",
-          "mom": -0.04268292682926833,
-          "yoy": 0.3138075313807531,
-          "ytd_yoy": 0.10453736654804269,
-          "ytd_count": 2483
+          "latest_month": 9,
+          "latest_month_name": "Sep",
+          "mom": 0.15923566878980888,
+          "yoy": 0.33823529411764697,
+          "ytd_yoy": 0.12976190476190474,
+          "ytd_count": 2847
         },
         "dom": {
           "days": 68,
@@ -140,34 +140,39 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "MBA Compliance and Risk 2026: Appropriately startled",
-      "link": "https://www.housingwire.com/articles/mba-risk-2026-ai-fraud/",
+      "title": "Better drops federal securities suit against Vishal Garg",
+      "link": "https://www.housingwire.com/articles/better-dismisses-garg-lawsuit/",
       "published": "Tue, 27 Oct 2026"
     },
     {
-      "title": "UAD 3.6 is coming. Hybrid appraisals are built for it.",
-      "link": "https://www.housingwire.com/articles/uad-3-6-hybrid-appraisals-2/",
+      "title": "Mortgage delinquency rate rises to 3.66% in September, ICE says",
+      "link": "https://www.housingwire.com/articles/mortgage-delinquency-september-ice/",
       "published": "Tue, 27 Oct 2026"
     },
     {
-      "title": "Analysts cast FICO’s $10 mortgage pricing as defensive volume play",
-      "link": "https://www.housingwire.com/articles/fico-preferred-program-analyst-reaction/",
-      "published": "Mon, 26 Oct 2026"
+      "title": "HouseCanary adds Keyes listings to Google mobile search",
+      "link": "https://www.housingwire.com/articles/keyes-housecanary-google-listings/",
+      "published": "Tue, 27 Oct 2026"
     },
     {
-      "title": "Rust Belt city eliminates minimum lot sizes to jump-start revival",
-      "link": "https://www.housingwire.com/articles/akron-minimum-lot-sizes/",
-      "published": "Mon, 26 Oct 2026"
+      "title": "Inside Stylecraft Builders’ playbook for laser-focused local scale",
+      "link": "https://www.housingwire.com/articles/stylecraft-builders-playbook-scaling/",
+      "published": "Tue, 27 Oct 2026"
     },
     {
-      "title": "Reds10 Group’s MMY US acquisition secures U.S. offsite beachhead",
-      "link": "https://www.housingwire.com/articles/reds10-mmy-us-acquisition/",
-      "published": "Mon, 26 Oct 2026"
+      "title": "Marketing what matters: Turning market attention into consumer understanding",
+      "link": "https://www.housingwire.com/articles/rate-volatility-marketing-moment/",
+      "published": "Tue, 27 Oct 2026"
     },
     {
-      "title": "Could a pullback in Medicare Advantage plans boost reverse mortgages?",
-      "link": "https://www.housingwire.com/articles/medicare-advantage-2027-reverse-mortgages/",
-      "published": "Mon, 26 Oct 2026"
+      "title": "Open Real Estate promises broader listing access — and a more level playing field for brokers",
+      "link": "https://www.housingwire.com/articles/open-real-estate-launch/",
+      "published": "Tue, 27 Oct 2026"
+    },
+    {
+      "title": "Holiday Season Is the Best Time For Homebuyers to Score a Deal in These 7 U.S. Metros",
+      "link": "https://www.redfin.com/news/best-time-to-get-deal-november-december/",
+      "published": "Tue, 27 Oct 2026"
     },
     {
       "title": "Mortgage Rates Dip as AI Jitters Boost Bonds Ahead of Fed Decision, GDP Data",
@@ -193,15 +198,37 @@
       "title": "Geopolitics and AI to Drive Mortgage Rates This Week as an October Fed Rate Hike Appears Unlikely",
       "link": "https://www.redfin.com/news/mortgage-rates-stay-on-edge-ahead-of-fed-meeting/",
       "published": "Tue, 20 Oct 2026"
-    },
-    {
-      "title": "Housing Market Update: Sellers’ Asking Prices Fall For the First Time Since March",
-      "link": "https://www.redfin.com/news/housing-market-update-asking-prices-decline-october/",
-      "published": "Thu, 15 Oct 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Better drops federal securities suit against Vishal Garg",
+        "url": "https://www.housingwire.com/articles/better-dismisses-garg-lawsuit/",
+        "what": "Court filing dated Oct",
+        "numbers": "5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-dismisses-garg-lawsuit/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Marketing what matters: Turning market attention into consumer understanding",
+        "url": "https://www.housingwire.com/articles/rate-volatility-marketing-moment/",
+        "what": "The moment rates change, consumers seek context, and brands can lead with education instead of urgency",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rate-volatility-marketing-moment/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Holiday Season Is the Best Time For Homebuyers to Score a Deal in These 7 U.S. Metros",
+        "url": "https://www.redfin.com/news/best-time-to-get-deal-november-december/",
+        "what": "While spring and early summer are typically peak seasons for house hunting, patience can pay off for buyers in certain parts of the country willing to shop during the end-of-year holidays",
+        "numbers": "7",
+        "justified": "redfin.com — https://www.redfin.com/news/best-time-to-get-deal-november-december/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Analysts cast FICO’s $10 mortgage pricing as defensive volume play",
         "url": "https://www.housingwire.com/articles/fico-preferred-program-analyst-reaction/",
@@ -228,26 +255,44 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-pending-home-sales-sink-high-rates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Geopolitics and AI to Drive Mortgage Rates This Week as an October Fed Rate Hike Appears Unlikely",
-        "url": "https://www.redfin.com/news/mortgage-rates-stay-on-edge-ahead-of-fed-meeting/",
-        "what": "In A Nutshell: It’s a pretty light week ahead of next week’s Fed meeting, but rates are still hostage to geopolitical developments and to market views of the economic effects of AI",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-stay-on-edge-ahead-of-fed-meeting/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
       {
-        "title": "Could a pullback in Medicare Advantage plans boost reverse mortgages?",
-        "url": "https://www.housingwire.com/articles/medicare-advantage-2027-reverse-mortgages/",
-        "what": "With fewer Medicare Advantage plans available in 2027, seniors may look to their home equity to offset rising expenses",
-        "numbers": "2027,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/medicare-advantage-2027-reverse-mortgages/",
+        "title": "Mortgage delinquency rate rises to 3.66% in September, ICE says",
+        "url": "https://www.housingwire.com/articles/mortgage-delinquency-september-ice/",
+        "what": "ICE First Look report: Active foreclosure inventory rose 37% to hit its highest level since early 2019",
+        "numbers": "37, 2019",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-delinquency-september-ice/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "HouseCanary adds Keyes listings to Google mobile search",
+        "url": "https://www.housingwire.com/articles/keyes-housecanary-google-listings/",
+        "what": "More than 4,000 agents listings will surface in a Google carousel through My State MLS feeds",
+        "numbers": "4,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/keyes-housecanary-google-listings/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Inside Stylecraft Builders’ playbook for laser-focused local scale",
+        "url": "https://www.housingwire.com/articles/stylecraft-builders-playbook-scaling/",
+        "what": "Stylecraft sold nearly 1,000 homes last year and grew revenue 17% by laser-focusing on smaller and mid-sized Texas markets",
+        "numbers": "1,000, 17",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/stylecraft-builders-playbook-scaling/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Scott Cox on why homebuilders may be fighting for fewer buyers",
+        "url": "https://www.housingwire.com/articles/builders-demand-risk-cox/",
+        "what": "Excerpt two of seven from 'Less Wrong, More Right' argues prices cannot offset missing buyers when demand contracts",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/builders-demand-risk-cox/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Tanglewood Forest, Buttercup Creek and Behrens Ranch Are Austin’s Hottest Neighborhoods of 2026",
@@ -257,18 +302,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/austin-texas-hottest-neighborhoods-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "U.S. Home-Sale Prices Ticked Up 0.25% in September",
-        "url": "https://www.redfin.com/news/home-price-index-september-2026/",
-        "what": "Home prices rose 0.25% nationwide in September, up slightly from 0.21% in August",
-        "numbers": "0.25, 0.21, 34, 50, 16",
-        "justified": "redfin.com — https://www.redfin.com/news/home-price-index-september-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
+      {
+        "title": "Open Real Estate promises broader listing access — and a more level playing field for brokers",
+        "url": "https://www.housingwire.com/articles/open-real-estate-launch/",
+        "what": "The project plans a database with UI and APIs, and is soliciting vendor proposals to build the platform",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/open-real-estate-launch/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "MBA Compliance and Risk 2026: Appropriately startled",
         "url": "https://www.housingwire.com/articles/mba-risk-2026-ai-fraud/",
@@ -284,60 +329,6 @@
         "what": "GSE exception allows UAD 2.6 through May 19, 2027, but rep and warranty protections drop starting March 1, 2027",
         "numbers": "2.6, 19,, 2027,, 1,, 2027",
         "justified": "housingwire.com — https://www.housingwire.com/articles/uad-3-6-hybrid-appraisals-2/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Rust Belt city eliminates minimum lot sizes to jump-start revival",
-        "url": "https://www.housingwire.com/articles/akron-minimum-lot-sizes/",
-        "what": "Zoning rewrite allows homes on any lot meeting yard rules, hundreds of city held parcels now qualify",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/akron-minimum-lot-sizes/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Reds10 Group’s MMY US acquisition secures U.S. offsite beachhead",
-        "url": "https://www.housingwire.com/articles/reds10-mmy-us-acquisition/",
-        "what": "MMY US has an off-site construction facility in Louisville, and is planning to build another modular factory in Cleveland",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reds10-mmy-us-acquisition/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Everything we know so far about Open Real Estate",
-        "url": "https://www.housingwire.com/articles/open-real-estate-initiative/",
-        "what": "Leaders say local MLS governance remains in place as Open Real Estate prepares for a Q1 2027 rollout",
-        "numbers": "1, 2027",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/open-real-estate-initiative/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "ENRG Realty appoints Eric Hauser as SVP of growth",
-        "url": "https://www.housingwire.com/articles/enrg-realty-appoints-eric-hauser-as-svp-of-growth/",
-        "what": "Hauser will focus on expanding ENRG's national presence",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/enrg-realty-appoints-eric-hauser-as-svp-of-growth/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The Agency builds global AI platform for luxury real estate",
-        "url": "https://www.housingwire.com/articles/the-agency-builds-global-ai-platform-for-luxury-real-estate/",
-        "what": "Agents and leaders can ask questions in plain language and get answers grounded in The Agency's own data",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-agency-builds-global-ai-platform-for-luxury-real-estate/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Unlock closes $433.1M home equity agreement securitization",
-        "url": "https://www.housingwire.com/articles/unlock-433m-hea-securitization/",
-        "what": "The transaction includes 4,474 HEAs originated and managed by Unlock",
-        "numbers": "4,474",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/unlock-433m-hea-securitization/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
