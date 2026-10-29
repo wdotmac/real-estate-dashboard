@@ -1,13 +1,13 @@
 {
-  "as_of": "2026-10-29 14:18 UTC",
+  "as_of": "2026-10-29 20:16 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.99,
-      "delta_bp_1d": -0.9999999999999787
+      "yield_pct": 5.05,
+      "delta_bp_1d": 5.999999999999961
     },
     "mortgage_30y": {
-      "rate_pct": 7.32,
+      "rate_pct": 7.24,
       "delta_bp_wow": -8.000000000000007
     },
     "starts": {
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Zillow to pay $212.5M settlement in iBuying class action",
-      "link": "https://www.housingwire.com/articles/zillow-ibuying-class-action/",
+      "title": "RealTrends Verified brokerage Howard Hanna enters Alabama with ARC, Capstone deal",
+      "link": "https://www.housingwire.com/articles/howard-hanna-enters-alabama/",
       "published": "Thu, 29 Oct 2026"
     },
     {
-      "title": "Sandra Thompson flags mortgage risk in FHFA’s unified score pricing",
-      "link": "https://www.housingwire.com/articles/thompson-questions-fhfa-credit-score/",
+      "title": "MLS executives weigh Open Real Estate and listing control",
+      "link": "https://www.housingwire.com/articles/mls-open-real-estate-control/",
       "published": "Thu, 29 Oct 2026"
     },
     {
-      "title": "Why Century and Meritage ended Q3 with too much inventory",
-      "link": "https://www.housingwire.com/articles/century-meritage-excess-inventory/",
+      "title": "CrossCountry says borrowers are saving an average of $2,500 with VantageScore 4.0",
+      "link": "https://www.housingwire.com/articles/crosscountry-vantagescore-savings/",
       "published": "Thu, 29 Oct 2026"
     },
     {
-      "title": "Ten strategies builders need for America’s 2030s demographic cliff",
-      "link": "https://www.housingwire.com/articles/homebuilders-demographic-shift-2030/",
+      "title": "Does recruiting really take 1,000 cups of coffee, or just a system?",
+      "link": "https://www.housingwire.com/articles/brokerage-recruiting-system/",
       "published": "Thu, 29 Oct 2026"
     },
     {
-      "title": "Single-family new-home permits could fall 24% to 86% by 2035",
-      "link": "https://www.housingwire.com/articles/single-family-permits-demand-range/",
+      "title": "ICE grows mortgage tech revenue in Q3 through Wells Fargo, Freedom deals",
+      "link": "https://www.housingwire.com/articles/ice-mortgage-tech-q3-revenue/",
       "published": "Thu, 29 Oct 2026"
     },
     {
-      "title": "A bigger slice of a smaller pie",
-      "link": "https://www.housingwire.com/articles/exp-newrez-revenos-mortgage-escosystems/",
+      "title": "Regulators urge seniors to build defenses against financial fraud, cyber threats",
+      "link": "https://www.housingwire.com/articles/fdic-cfpb-senior-fraud/",
       "published": "Thu, 29 Oct 2026"
     },
     {
@@ -203,29 +203,20 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Sandra Thompson flags mortgage risk in FHFA’s unified score pricing",
-        "url": "https://www.housingwire.com/articles/thompson-questions-fhfa-credit-score/",
-        "what": "Thompson said that changing the credit score framework is “no small task”",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/thompson-questions-fhfa-credit-score/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "title": "CrossCountry says borrowers are saving an average of $2,500 with VantageScore 4.0",
+        "url": "https://www.housingwire.com/articles/crosscountry-vantagescore-savings/",
+        "what": "Company cites a 62-bps average LLPA reduction in the first 60 days after scores improved",
+        "numbers": "62, 60",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/crosscountry-vantagescore-savings/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "The housing market gets a positive Fed day for a change",
-        "url": "https://www.housingwire.com/articles/fed-warsh-10-year-5/",
-        "what": "We still have some pressing issues with inflation, but it looks like the Fed doesn’t want to go crazy with rate hikes",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-warsh-10-year-5/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Toll Brothers underwrites lots for tomorrow’s market, not yesterday’s",
-        "url": "https://www.housingwire.com/articles/toll-brothers-land-strategy/",
-        "what": "As demand moderates, Toll Brothers is tightening its underwriting hurdle rates and doubling down on prime \"Main and Main\" sites",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/toll-brothers-land-strategy/",
+        "title": "FICO weighs subscription model for mortgage scores in 2027",
+        "url": "https://www.housingwire.com/articles/fico-pricing-mortgage-scores-2027/",
+        "what": "New 2027 structure would sit next to FICO’s $10 Preferred Program",
+        "numbers": "2027, $10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fico-pricing-mortgage-scores-2027/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -259,22 +250,31 @@
     ],
     "housing": [
       {
-        "title": "Zillow to pay $212.5M settlement in iBuying class action",
-        "url": "https://www.housingwire.com/articles/zillow-ibuying-class-action/",
-        "what": "The Jaeger case alleges misstatements on volumes and pricing accuracy, Zillow Offers ended after a $304M Q3 2021 write-down",
-        "numbers": "$304, 3, 2021",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/zillow-ibuying-class-action/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "ICE grows mortgage tech revenue in Q3 through Wells Fargo, Freedom deals",
+        "url": "https://www.housingwire.com/articles/ice-mortgage-tech-q3-revenue/",
+        "what": "Wells Fargo and Freedom Mortgage recently added home equity portfolios to ICE’s MSP platform",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-mortgage-tech-q3-revenue/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Why Century and Meritage ended Q3 with too much inventory",
-        "url": "https://www.housingwire.com/articles/century-meritage-excess-inventory/",
-        "what": "Century Communities guided to incentives up 2% to 2.5% in Q4, after incentives hit 13% of ASP in Q3",
-        "numbers": "2, 2.5, 4,, 13, 3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/century-meritage-excess-inventory/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+        "title": "Parents, grandparents step in as down payment backers amid affordability crunch",
+        "url": "https://www.housingwire.com/articles/parents-saving-kids-down-payment-coldwell-banker-2026-american-dream-report/",
+        "what": "Among parents of children 5 and under, 14% have already started saving for a future down payment",
+        "numbers": "5, 14",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/parents-saving-kids-down-payment-coldwell-banker-2026-american-dream-report/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Radian announces leadership changes, including new CFO and CIO",
+        "url": "https://www.housingwire.com/articles/radian-leadership-cfo-cio/",
+        "what": "The changes span mortgage insurance and specialty insurance",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/radian-leadership-cfo-cio/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
@@ -284,51 +284,51 @@
         "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Ten strategies builders need for America’s 2030s demographic cliff",
-        "url": "https://www.housingwire.com/articles/homebuilders-demographic-shift-2030/",
-        "what": "Slower household growth and aging demand could reshape land strategy, underwriting, and operating scale",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilders-demographic-shift-2030/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Single-family new-home permits could fall 24% to 86% by 2035",
-        "url": "https://www.housingwire.com/articles/single-family-permits-demand-range/",
-        "what": "Scott Cox models 2025-to-2035 demand at 123,000 to 670,000 permits a year vs",
-        "numbers": "2025, 2035, 123,000, 670,000, 880,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/single-family-permits-demand-range/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "A bigger slice of a smaller pie",
-        "url": "https://www.housingwire.com/articles/exp-newrez-revenos-mortgage-escosystems/",
-        "what": "Existing home sales have hovered near 4 million annually for 4 years, pushing a larger share fight",
-        "numbers": "4 million, 4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-newrez-revenos-mortgage-escosystems/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Mortgage lending’s next big risk is between data and decision",
-        "url": "https://www.housingwire.com/articles/mortgage-data-decision-gap/",
-        "what": "As credit models, verification sources and AI workflows multiply, lenders need more than information",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-data-decision-gap/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
       {
-        "title": "Alexander brothers sentenced to 30 years for sex trafficking",
-        "url": "https://www.housingwire.com/articles/alexander-brothers-30-years/",
-        "what": "The brothers were convicted in March 2026 after 11 women testified during trial",
-        "numbers": "2026, 11",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/alexander-brothers-30-years/",
+        "title": "RealTrends Verified brokerage Howard Hanna enters Alabama with ARC, Capstone deal",
+        "url": "https://www.housingwire.com/articles/howard-hanna-enters-alabama/",
+        "what": "The partnership adds 875 agents across 12 offices in Birmingham, Montgomery and Huntsville",
+        "numbers": "875, 12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/howard-hanna-enters-alabama/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "MLS executives weigh Open Real Estate and listing control",
+        "url": "https://www.housingwire.com/articles/mls-open-real-estate-control/",
+        "what": "Bright MLS and Northstar MLS cite modernization potential, SDMLS flags adoption hurdles and data set concerns",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-open-real-estate-control/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Does recruiting really take 1,000 cups of coffee, or just a system?",
+        "url": "https://www.housingwire.com/articles/brokerage-recruiting-system/",
+        "what": "Courted found 16% of agents moved in 2025, top brands traded down as net volume grew 1.8%",
+        "numbers": "16, 2025,, 1.8",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/brokerage-recruiting-system/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Regulators urge seniors to build defenses against financial fraud, cyber threats",
+        "url": "https://www.housingwire.com/articles/fdic-cfpb-senior-fraud/",
+        "what": "Officials at the FDIC and CFPB highlighted cyber hygiene, investment fraud red flags and veteran pension scams in their Money Smart educational series",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fdic-cfpb-senior-fraud/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Real estate’s biggest problem isn’t the appraisal. It’s the wait.",
+        "url": "https://www.housingwire.com/articles/machine-valuations-cut-appraisal-delays/",
+        "what": "The industry keeps debating whether machines should value property",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/machine-valuations-cut-appraisal-delays/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
