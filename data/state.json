@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-28 21:04 UTC",
+  "as_of": "2026-10-29 00:55 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The housing market gets a positive Fed day for a change",
+      "link": "https://www.housingwire.com/articles/fed-warsh-10-year-5/",
+      "published": "Wed, 28 Oct 2026"
+    },
+    {
+      "title": "Alexander brothers sentenced to 30 years for sex trafficking",
+      "link": "https://www.housingwire.com/articles/alexander-brothers-30-years/",
+      "published": "Wed, 28 Oct 2026"
+    },
+    {
       "title": "Toll Brothers underwrites lots for tomorrow’s market, not yesterday’s",
       "link": "https://www.housingwire.com/articles/toll-brothers-land-strategy/",
       "published": "Wed, 28 Oct 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Open Real Estate gains momentum as independent brokerages sign on",
       "link": "https://www.housingwire.com/articles/open-real-estate-early-brokerages/",
-      "published": "Wed, 28 Oct 2026"
-    },
-    {
-      "title": "As tappable home equity peaks, can reverse mortgage lenders get more borrowers on board?",
-      "link": "https://www.housingwire.com/articles/accessible-home-equity-record-13-2-trillion-rate-lock-in-q2-2026-first-american/",
-      "published": "Wed, 28 Oct 2026"
-    },
-    {
-      "title": "Figure hits $500M per year in small-business loans as entrepreneurs turn to home equity",
-      "link": "https://www.housingwire.com/articles/figure-small-business-financing-500m/",
       "published": "Wed, 28 Oct 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "The housing market gets a positive Fed day for a change",
+        "url": "https://www.housingwire.com/articles/fed-warsh-10-year-5/",
+        "what": "We still have some pressing issues with inflation, but it looks like the Fed doesn’t want to go crazy with rate hikes",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-warsh-10-year-5/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Toll Brothers underwrites lots for tomorrow’s market, not yesterday’s",
         "url": "https://www.housingwire.com/articles/toll-brothers-land-strategy/",
@@ -248,15 +257,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Mortgage CEOs warn liquidity is top risk as rates stay higher for longer",
-        "url": "https://www.housingwire.com/articles/mortgage-liquidity-risk-higher-for-longer-rates/",
-        "what": "Freedom, Rocket and Redwood say balance-sheet discipline and selective M&A can drive growth",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-liquidity-risk-higher-for-longer-rates/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "The Holiday Season Is the Best Time For Homebuyers to Score a Deal in These 7 U.S. Metros",
         "url": "https://www.redfin.com/news/best-time-to-get-deal-november-december/",
         "what": "While spring and early summer are typically peak seasons for house hunting, patience can pay off for buyers in certain parts of the country willing to shop during the end-of-year holidays",
@@ -284,18 +284,17 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
-    "housing": [
-      {
-        "title": "Why a spike in price cuts doesn’t always signal a housing market shift",
-        "url": "https://www.housingwire.com/articles/housing-market-price-cuts-trends/",
-        "what": "A price cut spike in two California cities shows why short-term changes don't always signal a market shift",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-market-price-cuts-trends/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      }
-    ],
+    "housing": [],
     "notables": [
+      {
+        "title": "Alexander brothers sentenced to 30 years for sex trafficking",
+        "url": "https://www.housingwire.com/articles/alexander-brothers-30-years/",
+        "what": "The brothers were convicted in March 2026 after 11 women testified during trial",
+        "numbers": "2026, 11",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/alexander-brothers-30-years/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "CoStar wants faster Homes.com growth, is shifting sales into the field",
         "url": "https://www.housingwire.com/articles/costar-q3-2026-bookings/",
