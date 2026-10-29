@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-29 00:55 UTC",
+  "as_of": "2026-10-29 07:04 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "A bigger slice of a smaller pie",
+      "link": "https://www.housingwire.com/articles/exp-newrez-revenos-mortgage-escosystems/",
+      "published": "Thu, 29 Oct 2026"
+    },
+    {
+      "title": "Mortgage lending’s next big risk is between data and decision",
+      "link": "https://www.housingwire.com/articles/mortgage-data-decision-gap/",
+      "published": "Thu, 29 Oct 2026"
+    },
+    {
       "title": "The housing market gets a positive Fed day for a change",
       "link": "https://www.housingwire.com/articles/fed-warsh-10-year-5/",
       "published": "Wed, 28 Oct 2026"
@@ -157,16 +167,6 @@
     {
       "title": "CoStar wants faster Homes.com growth, is shifting sales into the field",
       "link": "https://www.housingwire.com/articles/costar-q3-2026-bookings/",
-      "published": "Wed, 28 Oct 2026"
-    },
-    {
-      "title": "NYC office-to-apartment mega project resumes after near disaster",
-      "link": "https://www.housingwire.com/articles/nyc-office-apartment-conversion-pipeline/",
-      "published": "Wed, 28 Oct 2026"
-    },
-    {
-      "title": "Open Real Estate gains momentum as independent brokerages sign on",
-      "link": "https://www.housingwire.com/articles/open-real-estate-early-brokerages/",
       "published": "Wed, 28 Oct 2026"
     },
     {
@@ -239,24 +239,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Fed pauses before midterms as markets bet on December hike",
-        "url": "https://www.housingwire.com/articles/fed-holds-benchmark-rate/",
-        "what": "Softer job growth clashes with hotter September inflation",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fed-holds-benchmark-rate/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Better reports $22.9M in annualized savings from turnaround efforts",
-        "url": "https://www.housingwire.com/articles/better-annualized-savings-turnaround/",
-        "what": "Weekly scorecard shows $6.6M added from staffing and vendor cuts",
-        "numbers": "$6.6",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-annualized-savings-turnaround/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "The Holiday Season Is the Best Time For Homebuyers to Score a Deal in These 7 U.S. Metros",
         "url": "https://www.redfin.com/news/best-time-to-get-deal-november-december/",
         "what": "While spring and early summer are typically peak seasons for house hunting, patience can pay off for buyers in certain parts of the country willing to shop during the end-of-year holidays",
@@ -284,7 +266,26 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
-    "housing": [],
+    "housing": [
+      {
+        "title": "A bigger slice of a smaller pie",
+        "url": "https://www.housingwire.com/articles/exp-newrez-revenos-mortgage-escosystems/",
+        "what": "Existing home sales have hovered near 4 million annually for 4 years, pushing a larger share fight",
+        "numbers": "4 million, 4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-newrez-revenos-mortgage-escosystems/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Mortgage lending’s next big risk is between data and decision",
+        "url": "https://www.housingwire.com/articles/mortgage-data-decision-gap/",
+        "what": "As credit models, verification sources and AI workflows multiply, lenders need more than information",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-data-decision-gap/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      }
+    ],
     "notables": [
       {
         "title": "Alexander brothers sentenced to 30 years for sex trafficking",
