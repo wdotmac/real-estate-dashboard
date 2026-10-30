@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-30 00:58 UTC",
+  "as_of": "2026-10-30 07:05 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "AI can speed housing development amid crisis",
+      "link": "https://www.housingwire.com/articles/ai-housing-permitting-productivity/",
+      "published": "Fri, 30 Oct 2026"
+    },
+    {
       "title": "Rocket posts $709M profit in Q3 despite tougher mortgage market",
       "link": "https://www.housingwire.com/articles/rocket-q3-profit-tougher-market/",
       "published": "Thu, 29 Oct 2026"
@@ -162,11 +167,6 @@
     {
       "title": "CrossCountry says borrowers are saving an average of $2,500 with VantageScore 4.0",
       "link": "https://www.housingwire.com/articles/crosscountry-vantagescore-savings/",
-      "published": "Thu, 29 Oct 2026"
-    },
-    {
-      "title": "Does recruiting really take 1,000 cups of coffee, or just a system?",
-      "link": "https://www.housingwire.com/articles/brokerage-recruiting-system/",
       "published": "Thu, 29 Oct 2026"
     },
     {
@@ -241,6 +241,15 @@
     ],
     "housing": [
       {
+        "title": "AI can speed housing development amid crisis",
+        "url": "https://www.housingwire.com/articles/ai-housing-permitting-productivity/",
+        "what": "Seattle reported intake review time cut by about 50%; Honolulu permit decisions averaged 32.5 days versus 73 days",
+        "numbers": "50, 32.5, 73",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-housing-permitting-productivity/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Rocket posts $709M profit in Q3 despite tougher mortgage market",
         "url": "https://www.housingwire.com/articles/rocket-q3-profit-tougher-market/",
         "what": "Rocket guided Q4 adjusted revenue to range of $2.1 billion to $2.3 billion while noting that refis could drop nearly 50% from Q3",
@@ -266,15 +275,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/parents-saving-kids-down-payment-coldwell-banker-2026-american-dream-report/",
         "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
         "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Radian announces leadership changes, including new CFO and CIO",
-        "url": "https://www.housingwire.com/articles/radian-leadership-cfo-cio/",
-        "what": "The changes span mortgage insurance and specialty insurance",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/radian-leadership-cfo-cio/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
