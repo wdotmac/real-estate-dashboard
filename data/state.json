@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-30 14:07 UTC",
+  "as_of": "2026-10-30 19:21 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Student Hack-A-House trailblazers focus on housing’s bottlenecks",
-      "link": "https://www.housingwire.com/articles/student-hack-a-house-bottlenecks/",
+      "title": "Op-Ed: MLSs can build what brokers want or brokers will do it",
+      "link": "https://www.housingwire.com/articles/brokers-mls-data-rights/",
       "published": "Fri, 30 Oct 2026"
     },
     {
-      "title": "Homebuilder profits, why brand beats volume for Toll Brothers",
-      "link": "https://www.housingwire.com/articles/homebuilder-scale-trap-profits/",
+      "title": "Pennymac posts $29M profit amid expense cuts, upcoming leadership changes",
+      "link": "https://www.housingwire.com/articles/pennymac-q3-2026-earnings-msr-sale-cost-cuts-leadership-changes/",
       "published": "Fri, 30 Oct 2026"
     },
     {
-      "title": "AI can speed housing development amid crisis",
-      "link": "https://www.housingwire.com/articles/ai-housing-permitting-productivity/",
+      "title": "First Horizon, Nations Lending and Planet announce leadership moves",
+      "link": "https://www.housingwire.com/articles/first-horizon-leadership-moves/",
       "published": "Fri, 30 Oct 2026"
     },
     {
-      "title": "Rocket posts $709M profit in Q3 despite tougher mortgage market",
-      "link": "https://www.housingwire.com/articles/rocket-q3-profit-tougher-market/",
-      "published": "Thu, 29 Oct 2026"
+      "title": "MAVERIX adds former Compass International Holdings executive Anna Visioli as strategic advisor",
+      "link": "https://www.housingwire.com/articles/maverix-adds-anna-visioli-strategic-advisor/",
+      "published": "Fri, 30 Oct 2026"
     },
     {
-      "title": "Why Howard Hanna was missing from Open Real Estate launch list",
-      "link": "https://www.housingwire.com/articles/howard-hanna-open-real-estate/",
-      "published": "Thu, 29 Oct 2026"
+      "title": "$711 million is sitting in the commission suit settlement fund, so when do payouts start?",
+      "link": "https://www.housingwire.com/articles/nar-settlement-payout-timing/",
+      "published": "Fri, 30 Oct 2026"
     },
     {
-      "title": "RealTrends Verified brokerage Howard Hanna enters Alabama with ARC, Capstone deal",
-      "link": "https://www.housingwire.com/articles/howard-hanna-enters-alabama/",
-      "published": "Thu, 29 Oct 2026"
+      "title": "California’s housing push braves a lion’s den of local NIMBY tactics",
+      "link": "https://www.housingwire.com/articles/california-mountain-lion-housing/",
+      "published": "Fri, 30 Oct 2026"
     },
     {
       "title": "Redfin Celebrates 250 Years of American History Through the Places We Call Home",
@@ -212,15 +212,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "CrossCountry says borrowers are saving an average of $2,500 with VantageScore 4.0",
-        "url": "https://www.housingwire.com/articles/crosscountry-vantagescore-savings/",
-        "what": "Company cites a 62-bps average LLPA reduction in the first 60 days after scores improved",
-        "numbers": "62, 60",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/crosscountry-vantagescore-savings/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Fed Holds Rates Steady, But Sets Up a December Hike",
         "url": "https://www.redfin.com/news/fed-holds-rates-steady-october-2026/",
         "what": "Takeaway: The Fed skipped hiking rates at today’s meeting, as expected",
@@ -250,6 +241,42 @@
     ],
     "housing": [
       {
+        "title": "Pennymac posts $29M profit amid expense cuts, upcoming leadership changes",
+        "url": "https://www.housingwire.com/articles/pennymac-q3-2026-earnings-msr-sale-cost-cuts-leadership-changes/",
+        "what": "Company announces pending retirement of president Doug Jones, while CSO Kevin Ryan will replace Dan Perotti as CFO",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pennymac-q3-2026-earnings-msr-sale-cost-cuts-leadership-changes/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "First Horizon, Nations Lending and Planet announce leadership moves",
+        "url": "https://www.housingwire.com/articles/first-horizon-leadership-moves/",
+        "what": "This week’s mortgage industry appointments include a new SVP of valuations, a president and COO restructure, plus a bank board addition",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/first-horizon-leadership-moves/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "California’s housing push braves a lion’s den of local NIMBY tactics",
+        "url": "https://www.housingwire.com/articles/california-mountain-lion-housing/",
+        "what": "The 398-home plan includes 97 very-low-income units and sought streamlined approval on commercially zoned land",
+        "numbers": "398, 97",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/california-mountain-lion-housing/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "eXp Realty coming soon listings to appear on RealScout",
+        "url": "https://www.housingwire.com/articles/exp-coming-soon-realscout/",
+        "what": "The companies did not provide a launch date, expanding eXp syndication beyond Realtor.com and Homes.com",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/exp-coming-soon-realscout/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Student Hack-A-House trailblazers focus on housing’s bottlenecks",
         "url": "https://www.housingwire.com/articles/student-hack-a-house-bottlenecks/",
         "what": "64 university teams pitched 24-hour solutions spanning panelized production, permitting workflow, and manufactured home finance",
@@ -268,33 +295,6 @@
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "AI can speed housing development amid crisis",
-        "url": "https://www.housingwire.com/articles/ai-housing-permitting-productivity/",
-        "what": "Seattle reported intake review time cut by about 50%; Honolulu permit decisions averaged 32.5 days versus 73 days",
-        "numbers": "50, 32.5, 73",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-housing-permitting-productivity/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Rocket posts $709M profit in Q3 despite tougher mortgage market",
-        "url": "https://www.housingwire.com/articles/rocket-q3-profit-tougher-market/",
-        "what": "Rocket guided Q4 adjusted revenue to range of $2.1 billion to $2.3 billion while noting that refis could drop nearly 50% from Q3",
-        "numbers": "4, $2.1 billion, $2.3 billion, 50, 3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-q3-profit-tougher-market/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "ICE grows mortgage tech revenue in Q3 through Wells Fargo, Freedom deals",
-        "url": "https://www.housingwire.com/articles/ice-mortgage-tech-q3-revenue/",
-        "what": "Wells Fargo and Freedom Mortgage recently added home equity portfolios to ICE’s MSP platform",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-mortgage-tech-q3-revenue/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
         "url": "https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/",
         "what": "The median monthly mortgage payment is still sitting at its second-highest level on record, spooking would-be buyers",
@@ -306,38 +306,38 @@
     ],
     "notables": [
       {
-        "title": "Why Howard Hanna was missing from Open Real Estate launch list",
-        "url": "https://www.housingwire.com/articles/howard-hanna-open-real-estate/",
-        "what": "CEO Hoby Hanna says founders have contacted him, he wants clarity on governance, funding and end goals before committing",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/howard-hanna-open-real-estate/",
+        "title": "Op-Ed: MLSs can build what brokers want or brokers will do it",
+        "url": "https://www.housingwire.com/articles/brokers-mls-data-rights/",
+        "what": "With a vendor not expected until early 2027, brokers are pressing for rule changes on data use, IDX and distribution",
+        "numbers": "2027,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/brokers-mls-data-rights/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "RealTrends Verified brokerage Howard Hanna enters Alabama with ARC, Capstone deal",
-        "url": "https://www.housingwire.com/articles/howard-hanna-enters-alabama/",
-        "what": "The partnership adds 875 agents across 12 offices in Birmingham, Montgomery and Huntsville",
-        "numbers": "875, 12",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/howard-hanna-enters-alabama/",
+        "title": "MAVERIX adds former Compass International Holdings executive Anna Visioli as strategic advisor",
+        "url": "https://www.housingwire.com/articles/maverix-adds-anna-visioli-strategic-advisor/",
+        "what": "Visioli held multiple leadership roles focused on building technology platforms, operational programs and strategic initiatives across large brokerage networks",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/maverix-adds-anna-visioli-strategic-advisor/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "$711 million is sitting in the commission suit settlement fund, so when do payouts start?",
+        "url": "https://www.housingwire.com/articles/nar-settlement-payout-timing/",
+        "what": "JND reports 2.7 million claims processed, while the court pauses payments and audits administrator invoices",
+        "numbers": "2.7 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-settlement-payout-timing/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "MLS executives weigh Open Real Estate and listing control",
-        "url": "https://www.housingwire.com/articles/mls-open-real-estate-control/",
-        "what": "Bright MLS and Northstar MLS cite modernization potential, SDMLS flags adoption hurdles and data set concerns",
+        "title": "Exclusive: Dark Matter acquires House Numbers’ agentic AI platform",
+        "url": "https://www.housingwire.com/articles/exclusive-dark-matter-acquires-house-numbers-agentic-ai-platform/",
+        "what": "Jeff Levinsohn, the co-founder and CEO of House Numbers, joins Dark Matter as chief AI officer",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-open-real-estate-control/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Does recruiting really take 1,000 cups of coffee, or just a system?",
-        "url": "https://www.housingwire.com/articles/brokerage-recruiting-system/",
-        "what": "Courted found 16% of agents moved in 2025, top brands traded down as net volume grew 1.8%",
-        "numbers": "16, 2025,, 1.8",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/brokerage-recruiting-system/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/exclusive-dark-matter-acquires-house-numbers-agentic-ai-platform/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
