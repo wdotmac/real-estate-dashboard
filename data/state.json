@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-30 07:05 UTC",
+  "as_of": "2026-10-30 14:07 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Student Hack-A-House trailblazers focus on housing’s bottlenecks",
+      "link": "https://www.housingwire.com/articles/student-hack-a-house-bottlenecks/",
+      "published": "Fri, 30 Oct 2026"
+    },
+    {
+      "title": "Homebuilder profits, why brand beats volume for Toll Brothers",
+      "link": "https://www.housingwire.com/articles/homebuilder-scale-trap-profits/",
+      "published": "Fri, 30 Oct 2026"
+    },
+    {
       "title": "AI can speed housing development amid crisis",
       "link": "https://www.housingwire.com/articles/ai-housing-permitting-productivity/",
       "published": "Fri, 30 Oct 2026"
@@ -160,14 +170,9 @@
       "published": "Thu, 29 Oct 2026"
     },
     {
-      "title": "MLS executives weigh Open Real Estate and listing control",
-      "link": "https://www.housingwire.com/articles/mls-open-real-estate-control/",
-      "published": "Thu, 29 Oct 2026"
-    },
-    {
-      "title": "CrossCountry says borrowers are saving an average of $2,500 with VantageScore 4.0",
-      "link": "https://www.housingwire.com/articles/crosscountry-vantagescore-savings/",
-      "published": "Thu, 29 Oct 2026"
+      "title": "Redfin Celebrates 250 Years of American History Through the Places We Call Home",
+      "link": "https://www.redfin.com/news/iconic-homes/",
+      "published": "Fri, 30 Oct 2026"
     },
     {
       "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
@@ -193,15 +198,19 @@
       "title": "U.S. Pending Home Sales Sink to a New Low",
       "link": "https://www.redfin.com/news/housing-market-update-pending-home-sales-sink-high-rates/",
       "published": "Thu, 22 Oct 2026"
-    },
-    {
-      "title": "Tanglewood Forest, Buttercup Creek and Behrens Ranch Are Austin’s Hottest Neighborhoods of 2026",
-      "link": "https://www.redfin.com/news/austin-texas-hottest-neighborhoods-2026/",
-      "published": "Wed, 21 Oct 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Redfin Celebrates 250 Years of American History Through the Places We Call Home",
+        "url": "https://www.redfin.com/news/iconic-homes/",
+        "what": "From today, Redfin is celebrating America’s 250th anniversary by spotlighting the stories of iconic homes of America",
+        "numbers": "250",
+        "justified": "redfin.com — https://www.redfin.com/news/iconic-homes/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "CrossCountry says borrowers are saving an average of $2,500 with VantageScore 4.0",
         "url": "https://www.housingwire.com/articles/crosscountry-vantagescore-savings/",
@@ -241,6 +250,24 @@
     ],
     "housing": [
       {
+        "title": "Student Hack-A-House trailblazers focus on housing’s bottlenecks",
+        "url": "https://www.housingwire.com/articles/student-hack-a-house-bottlenecks/",
+        "what": "64 university teams pitched 24-hour solutions spanning panelized production, permitting workflow, and manufactured home finance",
+        "numbers": "64, 24",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/student-hack-a-house-bottlenecks/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Homebuilder profits, why brand beats volume for Toll Brothers",
+        "url": "https://www.housingwire.com/articles/homebuilder-scale-trap-profits/",
+        "what": "The homebuilder scale trap is that revenue can rise 50% while profits fall; Toll tripled net income as Lennar earned less than in 2020",
+        "numbers": "50, 2020",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-scale-trap-profits/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "AI can speed housing development amid crisis",
         "url": "https://www.housingwire.com/articles/ai-housing-permitting-productivity/",
         "what": "Seattle reported intake review time cut by about 50%; Honolulu permit decisions averaged 32.5 days versus 73 days",
@@ -266,15 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/ice-mortgage-tech-q3-revenue/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Parents, grandparents step in as down payment backers amid affordability crunch",
-        "url": "https://www.housingwire.com/articles/parents-saving-kids-down-payment-coldwell-banker-2026-american-dream-report/",
-        "what": "Among parents of children 5 and under, 14% have already started saving for a future down payment",
-        "numbers": "5, 14",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/parents-saving-kids-down-payment-coldwell-banker-2026-american-dream-report/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
@@ -320,15 +338,6 @@
         "what": "Courted found 16% of agents moved in 2025, top brands traded down as net volume grew 1.8%",
         "numbers": "16, 2025,, 1.8",
         "justified": "housingwire.com — https://www.housingwire.com/articles/brokerage-recruiting-system/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Regulators urge seniors to build defenses against financial fraud, cyber threats",
-        "url": "https://www.housingwire.com/articles/fdic-cfpb-senior-fraud/",
-        "what": "Officials at the FDIC and CFPB highlighted cyber hygiene, investment fraud red flags and veteran pension scams in their Money Smart educational series",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fdic-cfpb-senior-fraud/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
