@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-31 12:28 UTC",
+  "as_of": "2026-10-31 17:43 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Exclusive: CrossCountry Mortgage demands payment from former LOs, invokes 2-year non-solicitation",
+      "link": "https://www.housingwire.com/articles/ccm-customer-poaching-former-loan-officers/",
+      "published": "Sat, 31 Oct 2026"
+    },
+    {
       "title": "Silvio Tavares steps down as VantageScore CEO, Anthony Hutchinson named interim leader",
       "link": "https://www.housingwire.com/articles/vantagescore-ceo-steps-down/",
       "published": "Fri, 30 Oct 2026"
@@ -162,11 +167,6 @@
     {
       "title": "First Horizon, Nations Lending and Planet announce leadership moves",
       "link": "https://www.housingwire.com/articles/first-horizon-leadership-moves/",
-      "published": "Fri, 30 Oct 2026"
-    },
-    {
-      "title": "MAVERIX adds former Compass International Holdings executive Anna Visioli as strategic advisor",
-      "link": "https://www.housingwire.com/articles/maverix-adds-anna-visioli-strategic-advisor/",
       "published": "Fri, 30 Oct 2026"
     },
     {
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Exclusive: CrossCountry Mortgage demands payment from former LOs, invokes 2-year non-solicitation",
+        "url": "https://www.housingwire.com/articles/ccm-customer-poaching-former-loan-officers/",
+        "what": "Documents show the company is demanding 75 bps for each refinanced loan on former customers",
+        "numbers": "75",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ccm-customer-poaching-former-loan-officers/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Q3 2026 earnings for publicly traded mortgage, real estate and homebuilder companies",
         "url": "https://www.housingwire.com/articles/q3-2026-earnings-mortgage-real-estate-homebuilding/",
         "what": "As earnings results wrap up for Q3 2026, here's a rundown of what's happened for major lenders, brokerages, homebuilders, listing portals and title firms.",
@@ -329,15 +338,6 @@
         "what": "JND reports 2.7 million claims processed, while the court pauses payments and audits administrator invoices",
         "numbers": "2.7 million",
         "justified": "housingwire.com — https://www.housingwire.com/articles/nar-settlement-payout-timing/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Exclusive: Dark Matter acquires House Numbers’ agentic AI platform",
-        "url": "https://www.housingwire.com/articles/exclusive-dark-matter-acquires-house-numbers-agentic-ai-platform/",
-        "what": "Jeff Levinsohn, the co-founder and CEO of House Numbers, joins Dark Matter as chief AI officer",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/exclusive-dark-matter-acquires-house-numbers-agentic-ai-platform/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
