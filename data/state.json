@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-11-03 20:58 UTC",
+  "as_of": "2026-11-04 01:20 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.94,
-      "delta_bp_1d": -4.0000000000000036
+      "yield_pct": 4.91,
+      "delta_bp_1d": -3.000000000000025
     },
     "mortgage_30y": {
       "rate_pct": 7.24,
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Finance of America grows origination volume but reports $110M loss in Q3",
+      "link": "https://www.housingwire.com/articles/finance-of-america-earnings/",
+      "published": "Tue, 03 Nov 2026"
+    },
+    {
+      "title": "MSRs trade at richest levels in decades as lenders, funds pile in",
+      "link": "https://www.housingwire.com/articles/msr-multiples-near-7x/",
+      "published": "Tue, 03 Nov 2026"
+    },
+    {
+      "title": "NIMBYs cite a 155-year-old law to thwart a San Francisco project",
+      "link": "https://www.housingwire.com/articles/marina-safeway-san-franscisco-housing-fight/",
+      "published": "Tue, 03 Nov 2026"
+    },
+    {
+      "title": "Why homebuilders and lot sellers no longer price risk the same way",
+      "link": "https://www.housingwire.com/articles/homebuilding-capital-squeeze-land-deals/",
+      "published": "Tue, 03 Nov 2026"
+    },
+    {
       "title": "Social Security COLA, tax break could narrow spending gap for older consumers in 2027",
       "link": "https://www.housingwire.com/articles/older-americans-spending-2027-social-security-cola/",
       "published": "Tue, 03 Nov 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Real Brokerage expands in Midwest with Iowa-based The Team",
       "link": "https://www.housingwire.com/articles/real-midwest-team-move/",
-      "published": "Tue, 03 Nov 2026"
-    },
-    {
-      "title": "Mortgage rates have a quiet week as markets digest Fed comments, Trump’s directive",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-flat-fedwatch-december/",
-      "published": "Tue, 03 Nov 2026"
-    },
-    {
-      "title": "Why Offerpad is getting more selective on home buys",
-      "link": "https://www.housingwire.com/articles/offerpad-strategy-mortgage-rates/",
-      "published": "Tue, 03 Nov 2026"
-    },
-    {
-      "title": "RealTrends Verified brokerage ERA Live Moore acquisition and other brokerage moves",
-      "link": "https://www.housingwire.com/articles/brokerage-moves-era-serhant-corcoran-realtrends-verified/",
-      "published": "Tue, 03 Nov 2026"
-    },
-    {
-      "title": "The concessions field problem that breaks pay-for-listing data models",
-      "link": "https://www.housingwire.com/articles/reso-concessions-data/",
       "published": "Tue, 03 Nov 2026"
     },
     {
@@ -202,6 +202,24 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Finance of America grows origination volume but reports $110M loss in Q3",
+        "url": "https://www.housingwire.com/articles/finance-of-america-earnings/",
+        "what": "Funded volume increased 24% year over year to $748 million, but higher interest rates pressured origination margins",
+        "numbers": "24, $748 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/finance-of-america-earnings/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "NIMBYs cite a 155-year-old law to thwart a San Francisco project",
+        "url": "https://www.housingwire.com/articles/marina-safeway-san-franscisco-housing-fight/",
+        "what": "A Reconstruction-era civil rights statute is the sole federal hook in a lawsuit over homes above a waterfront Safeway",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/marina-safeway-san-franscisco-housing-fight/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage rates have a quiet week as markets digest Fed comments, Trump’s directive",
         "url": "https://www.housingwire.com/articles/mortgage-rates-flat-fedwatch-december/",
@@ -241,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "Why homebuilders and lot sellers no longer price risk the same way",
+        "url": "https://www.housingwire.com/articles/homebuilding-capital-squeeze-land-deals/",
+        "what": "Public homebuilder gross margins fell to about 20% from 26%, and incentives rose to about 8% to 12% of prices",
+        "numbers": "20, 26, 8, 12",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilding-capital-squeeze-land-deals/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Social Security COLA, tax break could narrow spending gap for older consumers in 2027",
         "url": "https://www.housingwire.com/articles/older-americans-spending-2027-social-security-cola/",
         "what": "Policy drivers could have implications for housing, including renovation demand and affordability assessments for older clients",
@@ -260,6 +287,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "MSRs trade at richest levels in decades as lenders, funds pile in",
+        "url": "https://www.housingwire.com/articles/msr-multiples-near-7x/",
+        "what": "From Rate’s full retention stance to UWM’s bulk sale, strategies diverge",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/msr-multiples-near-7x/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Real Brokerage expands in Midwest with Iowa-based The Team",
         "url": "https://www.housingwire.com/articles/real-midwest-team-move/",
@@ -295,42 +331,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/reso-concessions-data/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Newrez names Jay Jones chief servicing officer",
-        "url": "https://www.housingwire.com/articles/newrez-jay-jones-servicing/",
-        "what": "Jones will oversee the company's servicing portfolio and guide the ValonOS transition targeted for early 2027",
-        "numbers": "2027",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/newrez-jay-jones-servicing/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Exclusive: Victor Ciardelli on merger of Rate, Compass JVs into top-10 retail lender",
-        "url": "https://www.housingwire.com/articles/rate-compass-merge-jv/",
-        "what": "Guaranteed Rate Affinity and OriginPoint will combine under the OriginPoint brand",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rate-compass-merge-jv/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Compass expands agent benefits with health and retirement support",
-        "url": "https://www.housingwire.com/articles/compass-agent-benefits/",
-        "what": "Stride and TouchCare will support ACA plan selection and billing disputes, Morgan Stanley and Vestwell add Solo and team 401(k) options",
-        "numbers": "401",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-agent-benefits/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Rocket Pro launches broker-built Quick Counter tool in November Power Play",
-        "url": "https://www.housingwire.com/articles/rocket-pro-quick-counter/",
-        "what": "Quick Counter helps brokers counter competing refinance offers during a live borrower call using real-time pricing inputs",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-pro-quick-counter/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
