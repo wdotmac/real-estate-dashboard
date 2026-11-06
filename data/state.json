@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-06 09:23 UTC",
+  "as_of": "2026-11-06 17:29 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,39 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Numbers tell a story. Are you uncovering the right ones?",
-      "link": "https://www.housingwire.com/articles/funnel-metrics-lo-conversion/",
+      "title": "AGNT says housing market is tough but not broken, points to ‘unmatched’ agent value",
+      "link": "https://www.housingwire.com/articles/agnt-q3-2026-earnings/",
       "published": "Fri, 06 Nov 2026"
     },
     {
-      "title": "Compass boosts private listings while weighing Open Real Estate",
-      "link": "https://www.housingwire.com/articles/compass-private-exclusives-open-real-estate/",
+      "title": "Mortgage firms add sales leadership and expand lending teams",
+      "link": "https://www.housingwire.com/articles/mortgage-industry-hires/",
       "published": "Fri, 06 Nov 2026"
     },
     {
-      "title": "Los Angeles votes all-in on housing, electing YIMBY-backed Raman",
-      "link": "https://www.housingwire.com/articles/raman-bass-la-mayor/",
-      "published": "Thu, 05 Nov 2026"
+      "title": "Starwood-Trez venture targets $1B a year in residential land loans",
+      "link": "https://www.housingwire.com/articles/starwood-trez-capital-residential-land-lending/",
+      "published": "Fri, 06 Nov 2026"
     },
     {
-      "title": "RealPRO Select helps lift Realtor.com revenue",
-      "link": "https://www.housingwire.com/articles/realtorcom-revenue-q1-2027/",
-      "published": "Thu, 05 Nov 2026"
+      "title": "October jobs report strengthens case for December rate hike",
+      "link": "https://www.housingwire.com/articles/october-jobs-december-fed-hike/",
+      "published": "Fri, 06 Nov 2026"
     },
     {
-      "title": "American Housing Corp names leadership for new Austin division",
-      "link": "https://www.housingwire.com/articles/american-housing-corp-austin-division/",
-      "published": "Thu, 05 Nov 2026"
+      "title": "Treasury, IRS finalize new Opportunity Zone designations",
+      "link": "https://www.housingwire.com/articles/new-opportunity-zone-designations/",
+      "published": "Fri, 06 Nov 2026"
     },
     {
-      "title": "NYC pied-a-terre tax notices get an appeals court green light",
-      "link": "https://www.housingwire.com/articles/nyc-pied-a-terre-tax-appeal/",
-      "published": "Thu, 05 Nov 2026"
+      "title": "Here’s how the midterms could reset Washington’s housing agenda",
+      "link": "https://www.housingwire.com/articles/congress-housing-policy/",
+      "published": "Fri, 06 Nov 2026"
+    },
+    {
+      "title": "October Job Growth Beats Expectations, Keeping a December Fed Hike on the Table",
+      "link": "https://www.redfin.com/news/october-job-growth-beats-expectations-keeping-a-december-fed-hike-on-the-table/",
+      "published": "Fri, 06 Nov 2026"
     },
     {
       "title": "Homebuyers Get Some Relief as Prices Decline For Third Straight Week, Monthly Payments Dip",
@@ -193,30 +198,43 @@
       "title": "Fed Holds Rates Steady, But Sets Up a December Hike",
       "link": "https://www.redfin.com/news/fed-holds-rates-steady-october-2026/",
       "published": "Wed, 28 Oct 2026"
-    },
-    {
-      "title": "The Holiday Season Is the Best Time For Homebuyers to Score a Deal in These 7 U.S. Metros",
-      "link": "https://www.redfin.com/news/best-time-to-get-deal-november-december/",
-      "published": "Tue, 27 Oct 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "October jobs report strengthens case for December rate hike",
+        "url": "https://www.housingwire.com/articles/october-jobs-december-fed-hike/",
+        "what": "Payrolls rose by 165,000, U-6 underemployment increased to 7.9%, and August and September gains were revised higher",
+        "numbers": "165,000,, 6, 7.9",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/october-jobs-december-fed-hike/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "October Job Growth Beats Expectations, Keeping a December Fed Hike on the Table",
+        "url": "https://www.redfin.com/news/october-job-growth-beats-expectations-keeping-a-december-fed-hike-on-the-table/",
+        "what": "Takeaway: A strong jobs report gives the Fed permission to hike again in December should they want to",
+        "numbers": "165,000, 84,000, 83,000",
+        "justified": "redfin.com — https://www.redfin.com/news/october-job-growth-beats-expectations-keeping-a-december-fed-hike-on-the-table/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Treasury, IRS finalize new Opportunity Zone designations",
+        "url": "https://www.housingwire.com/articles/new-opportunity-zone-designations/",
+        "what": "The Opportunity Zone program has attracted more than $110 billion in private investment since 2017, mostly from residential developers",
+        "numbers": "$110 billion, 2017,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-opportunity-zone-designations/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Numbers tell a story. Are you uncovering the right ones?",
         "url": "https://www.housingwire.com/articles/funnel-metrics-lo-conversion/",
         "what": "Credit buckets and PQ-to-lock rates can reveal why top-line conversion and volume hide process leaks",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/funnel-metrics-lo-conversion/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Can the new Congress help lower mortgage rates?",
-        "url": "https://www.housingwire.com/articles/can-the-new-congress-help-lower-mortgage-rates/",
-        "what": "The 4 factors that could pull the 10-year yield off recent highs",
-        "numbers": "4, 10",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/can-the-new-congress-help-lower-mortgage-rates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -228,20 +246,38 @@
         "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-december-hike-possible/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Redfin Celebrates 250 Years of American History Through the Places We Call Home",
-        "url": "https://www.redfin.com/news/iconic-homes/",
-        "what": "From today, Redfin is celebrating America’s 250th anniversary by spotlighting the stories of iconic homes of America",
-        "numbers": "250",
-        "justified": "redfin.com — https://www.redfin.com/news/iconic-homes/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
       {
-        "title": "Compass boosts private listings while weighing Open Real Estate",
+        "title": "AGNT says housing market is tough but not broken, points to ‘unmatched’ agent value",
+        "url": "https://www.housingwire.com/articles/agnt-q3-2026-earnings/",
+        "what": "Revenue rose to $1.4 billion, but net results swung to a $4.3 million loss",
+        "numbers": "$1.4 billion, $4.3 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/agnt-q3-2026-earnings/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Mortgage firms add sales leadership and expand lending teams",
+        "url": "https://www.housingwire.com/articles/mortgage-industry-hires/",
+        "what": "Recent moves include a new national sales director at NEXA Lending, mortgage team additions at New American Funding, Better and Carter Bank, and a MISMO appointment for Down Paymen",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-industry-hires/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Here’s how the midterms could reset Washington’s housing agenda",
+        "url": "https://www.housingwire.com/articles/congress-housing-policy/",
+        "what": "With affordability a top voter issue this election cycle, housing is potentially positioned as a major focus for the next Congress",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/congress-housing-policy/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Compass boosts exclusive listings while weighing Open Real Estate",
         "url": "https://www.housingwire.com/articles/compass-private-exclusives-open-real-estate/",
         "what": "Reffkin says 63% of new launches use 3-phase marketing in locations without restrictions",
         "numbers": "63, 3",
@@ -268,24 +304,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "American Housing Corp names leadership for new Austin division",
-        "url": "https://www.housingwire.com/articles/american-housing-corp-austin-division/",
-        "what": "American Housing Corporation's Austin homebuilding division will focus on factory-built, infill urban rowhomes",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/american-housing-corp-austin-division/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Florida’s Amendment 3 could give housing market a ‘sugar high’ through year-end",
-        "url": "https://www.housingwire.com/articles/florida-amendment-3-cutoff/",
-        "what": "Homestead exemption rises to $250,000 in 2028, eligibility requires Florida residency by 12/31/2026",
-        "numbers": "$250,000, 2028,, 12, 31, 2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/florida-amendment-3-cutoff/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
         "title": "Homebuyers Get Some Relief as Prices Decline For Third Straight Week, Monthly Payments Dip",
         "url": "https://www.redfin.com/news/housing-market-update-sale-prices-keep-declining/",
         "what": "New listings of homes for sale fell to their lowest level since the start of the year, but there are still significantly more sellers than buyers in the market",
@@ -297,29 +315,11 @@
     ],
     "notables": [
       {
-        "title": "NYC pied-a-terre tax notices get an appeals court green light",
-        "url": "https://www.housingwire.com/articles/nyc-pied-a-terre-tax-appeal/",
-        "what": "The surcharge applies to non-primary homes over $5 million through July 2028, as a separate legal challenge remains active",
-        "numbers": "$5 million, 2028,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nyc-pied-a-terre-tax-appeal/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Secure borders. A stronger economy. Washington must deliver both",
-        "url": "https://www.housingwire.com/articles/borders-labor-housing-2026/",
-        "what": "Harvard JCHS reports foreign-born workers drove all net growth in construction trades from 2013 to 2024",
-        "numbers": "2013, 2024",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/borders-labor-housing-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CFPB narrows enforcement practices, closes 86% of supervisory actions",
-        "url": "https://www.housingwire.com/articles/cfpb-closes-supervisory-actions/",
-        "what": "Semiannual report says 1,327 of 1,552 supervisory actions were closed, and scheduled exams fell about 50%",
-        "numbers": "1,327, 1,552, 50",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-closes-supervisory-actions/",
+        "title": "Starwood-Trez venture targets $1B a year in residential land loans",
+        "url": "https://www.housingwire.com/articles/starwood-trez-capital-residential-land-lending/",
+        "what": "Starwood Capital, Trez Capital team up on US residential land financing",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/starwood-trez-capital-residential-land-lending/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
