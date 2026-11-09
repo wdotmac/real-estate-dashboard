@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-09 06:26 UTC",
+  "as_of": "2026-11-09 17:28 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,44 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "NAR sees pent-up demand waiting on lower mortgage rates, better sentiment",
-      "link": "https://www.housingwire.com/articles/nar-pent-up-housing-demand/",
-      "published": "Sun, 08 Nov 2026"
+      "title": "Pro-housing coalition presses Senate on BAAJA permitting reforms",
+      "link": "https://www.housingwire.com/articles/pro-housing-coalition-baaja-reforms/",
+      "published": "Mon, 09 Nov 2026"
     },
     {
-      "title": "What NAR’s new MLS policy options mean for data feeds and licensing",
-      "link": "https://www.housingwire.com/articles/nar-mls-policy-updates/",
-      "published": "Sun, 08 Nov 2026"
+      "title": "Ryan Serhant’s firm aligns with American Real Estate Association to raise agent standards",
+      "link": "https://www.housingwire.com/articles/serhant-joins-american-real-estate-association-ara/",
+      "published": "Mon, 09 Nov 2026"
     },
     {
-      "title": "Mortgage rates fell and demand steadied as inventory dipped",
-      "link": "https://www.housingwire.com/articles/rates-fall-demand-stabilizes/",
-      "published": "Sat, 07 Nov 2026"
+      "title": "Brokerage moves: New affiliations, leadership changes and AI tools reshape real estate",
+      "link": "https://www.housingwire.com/articles/compass-exp-real-teams-ai/",
+      "published": "Mon, 09 Nov 2026"
     },
     {
-      "title": "Why didn’t the strong jobs report send mortgage rates skyrocketing?",
-      "link": "https://www.housingwire.com/articles/jobs-report-mortgage-rates-flat/",
-      "published": "Fri, 06 Nov 2026"
+      "title": "ICE: Borrowers reach record tappable equity as cash-out refis drive runoff",
+      "link": "https://www.housingwire.com/articles/ash-out-refi-home-equity/",
+      "published": "Mon, 09 Nov 2026"
     },
     {
-      "title": "Opendoor says it’s behind schedule but plans to catch up by 2027",
-      "link": "https://www.housingwire.com/articles/opendoor-q3-2026-losses/",
-      "published": "Fri, 06 Nov 2026"
+      "title": "Ryan Serhant’s warning to brokers: Stop protecting the business you used to have",
+      "link": "https://www.housingwire.com/articles/ryan-serhant-leads-not-splits/",
+      "published": "Mon, 09 Nov 2026"
     },
     {
-      "title": "Progress Residential to pay $49.8M to settle FTC, state claims over rental practices",
-      "link": "https://www.housingwire.com/articles/progress-residential-ftc-settlement-49-8m/",
-      "published": "Fri, 06 Nov 2026"
+      "title": "Graceful Finance’s Anna Frankowska pitches home reversions for seniors’ toolbox",
+      "link": "https://www.housingwire.com/articles/graceful-finance-home-reversion/",
+      "published": "Mon, 09 Nov 2026"
+    },
+    {
+      "title": "Mortgage Rates Dip Ahead of a Big Week for Inflation Data",
+      "link": "https://www.redfin.com/news/economic-update-november-9/",
+      "published": "Mon, 09 Nov 2026"
+    },
+    {
+      "title": "For Every Condo Buyer in the U.S., There Are More Than Two Sellers. That Gives Condo Buyers Strong Negotiating Power.",
+      "link": "https://www.redfin.com/news/condo-fall-2026/",
+      "published": "Mon, 09 Nov 2026"
     },
     {
       "title": "October Job Growth Beats Expectations, Keeping a December Fed Hike on the Table",
@@ -188,44 +198,25 @@
       "title": "Redfin Celebrates 250 Years of American History Through the Places We Call Home",
       "link": "https://www.redfin.com/news/iconic-homes/",
       "published": "Fri, 30 Oct 2026"
-    },
-    {
-      "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
-      "link": "https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/",
-      "published": "Thu, 29 Oct 2026"
-    },
-    {
-      "title": "Fed Holds Rates Steady, But Sets Up a December Hike",
-      "link": "https://www.redfin.com/news/fed-holds-rates-steady-october-2026/",
-      "published": "Wed, 28 Oct 2026"
     }
   ],
   "feed_101020": {
     "macro": [
       {
-        "title": "NAR sees pent-up demand waiting on lower mortgage rates, better sentiment",
-        "url": "https://www.housingwire.com/articles/nar-pent-up-housing-demand/",
-        "what": "Yun cites 350M population and 159M payroll jobs, yet sales track near 4M, well below 2000 levels",
-        "numbers": "350, 159, 4, 2000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-pent-up-housing-demand/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage rates fell and demand steadied as inventory dipped",
-        "url": "https://www.housingwire.com/articles/rates-fall-demand-stabilizes/",
-        "what": "Is the market changing or is it just seasonality?",
+        "title": "Mortgage Rates Dip Ahead of a Big Week for Inflation Data",
+        "url": "https://www.redfin.com/news/economic-update-november-9/",
+        "what": "In A Nutshell: Mortgage rates are coming down as investors dial back expectations for rate hikes",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rates-fall-demand-stabilizes/",
+        "justified": "redfin.com — https://www.redfin.com/news/economic-update-november-9/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Why didn’t the strong jobs report send mortgage rates skyrocketing?",
-        "url": "https://www.housingwire.com/articles/jobs-report-mortgage-rates-flat/",
-        "what": "Payrolls rose 165,000, construction softened slightly and residential construction employment remained a key cycle indicator",
-        "numbers": "165,000,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/jobs-report-mortgage-rates-flat/",
+        "title": "Pro-housing coalition presses Senate on BAAJA permitting reforms",
+        "url": "https://www.housingwire.com/articles/pro-housing-coalition-baaja-reforms/",
+        "what": "The coalition argues that BAAJA’s reforms could significantly cut timelines and costs for federally assisted affordable housing",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pro-housing-coalition-baaja-reforms/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -250,40 +241,40 @@
     ],
     "housing": [
       {
-        "title": "Opendoor says it’s behind schedule but plans to catch up by 2027",
-        "url": "https://www.housingwire.com/articles/opendoor-q3-2026-losses/",
-        "what": "Adjusted net loss totaled $66 million, revenue rose 12% to $1.022 billion, and inventory increased to 7,596 homes",
-        "numbers": "$66 million, 12, $1.022 billion, 7,596",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/opendoor-q3-2026-losses/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Progress Residential to pay $49.8M to settle FTC, state claims over rental practices",
-        "url": "https://www.housingwire.com/articles/progress-residential-ftc-settlement-49-8m/",
-        "what": "Settlement with the FTC and four states requires clearer pricing disclosures",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/progress-residential-ftc-settlement-49-8m/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
-        "title": "Massachusetts AG issues rule on shared appreciation mortgages, NCLC calls for broader protections",
-        "url": "https://www.housingwire.com/articles/mass-ag-rule-shared-appreciation-mortgages-home-equity-risks/",
-        "what": "NCLC welcomed SAM safeguards but warned that similar risks persist in home equity investments, which are not directly covered by the rule",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mass-ag-rule-shared-appreciation-mortgages-home-equity-risks/",
+        "title": "ICE: Borrowers reach record tappable equity as cash-out refis drive runoff",
+        "url": "https://www.housingwire.com/articles/ash-out-refi-home-equity/",
+        "what": "Mortgage holders had a record $17.5 trillion in home equity in Q3",
+        "numbers": "$17.5, 3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ash-out-refi-home-equity/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "NAR President Kevin Brown warns of outside forces threatening real estate marketplace",
-        "url": "https://www.housingwire.com/articles/nar-mls-listing-data-fight/",
-        "what": "Brown compared current marketplace pressures to forces that preceded the 2008 housing crisis",
-        "numbers": "2008",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-mls-listing-data-fight/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+        "title": "For Every Condo Buyer in the U.S., There Are More Than Two Sellers. That Gives Condo Buyers Strong Negotiating Power.",
+        "url": "https://www.redfin.com/news/condo-fall-2026/",
+        "what": "Condo buyers today have more negotiating power than they’ve had in at least 13 years",
+        "numbers": "13, 123, 2013., 95.5",
+        "justified": "redfin.com — https://www.redfin.com/news/condo-fall-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Massachusetts voters narrowly reject minimum lot size measure",
+        "url": "https://www.housingwire.com/articles/massachusetts-lot-size-measure-fails/",
+        "what": "A 'yes' vote would have allowed single-family homes on smaller home sites than most local zoning permits",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/massachusetts-lot-size-measure-fails/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "The housing laws that could derail a sale — and why Realtors need to pay attention",
+        "url": "https://www.housingwire.com/articles/dsa-tenant-laws-nar/",
+        "what": "Exclusive: Speakers at NAR NXT 2026 highlighted right of first refusal, just cause eviction, and source of income protections as key risks",
+        "numbers": "2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/dsa-tenant-laws-nar/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Homebuyers Get Some Relief as Prices Decline For Third Straight Week, Monthly Payments Dip",
@@ -297,29 +288,56 @@
     ],
     "notables": [
       {
-        "title": "What NAR’s new MLS policy options mean for data feeds and licensing",
-        "url": "https://www.housingwire.com/articles/nar-mls-policy-updates/",
-        "what": "New optional rules include up to 50% copyright interest in some listing content, with quarterly registration and broker opt outs",
-        "numbers": "50",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-mls-policy-updates/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "How a new Pulte Florida agrihood makes conservation a buyer desire",
-        "url": "https://www.housingwire.com/articles/how-a-new-pulte-florida-agrihood-makes-conservation-a-buyer-desire/",
-        "what": "PulteGroup recently grand-opened The Grow, an \"agrihood\" community centered around a 9-acre working farm",
-        "numbers": "9",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/how-a-new-pulte-florida-agrihood-makes-conservation-a-buyer-desire/",
+        "title": "Ryan Serhant’s firm aligns with American Real Estate Association to raise agent standards",
+        "url": "https://www.housingwire.com/articles/serhant-joins-american-real-estate-association-ara/",
+        "what": "SERHANT",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/serhant-joins-american-real-estate-association-ara/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Elizabeth Warren expected to lead Senate banking committee in January",
-        "url": "https://www.housingwire.com/articles/warren-senate-banking-chair/",
-        "what": "Democrats’ midterm wins set up a leadership change that may reshape oversight and CFPB policy",
+        "title": "Brokerage moves: New affiliations, leadership changes and AI tools reshape real estate",
+        "url": "https://www.housingwire.com/articles/compass-exp-real-teams-ai/",
+        "what": "Moves include 70-plus agents joining eXp in Tampa Bay and Real adding a 30-agent Iowa group with $1.2 billion history",
+        "numbers": "70, 30, $1.2 billion",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-exp-real-teams-ai/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Ryan Serhant’s warning to brokers: Stop protecting the business you used to have",
+        "url": "https://www.housingwire.com/articles/ryan-serhant-leads-not-splits/",
+        "what": "AI should remove admin work and raise transactions per agent, not add another tool agents must manage",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/warren-senate-banking-chair/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ryan-serhant-leads-not-splits/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Graceful Finance’s Anna Frankowska pitches home reversions for seniors’ toolbox",
+        "url": "https://www.housingwire.com/articles/graceful-finance-home-reversion/",
+        "what": "Product for homeowners 75+ offers a lump sum or recurring income while allowing them to stay in their homes for life",
+        "numbers": "75",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/graceful-finance-home-reversion/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Longbridge promotes Melissa Macerato to president and chief commercial officer",
+        "url": "https://www.housingwire.com/articles/longbridge-financial-melissa-macerato-president-chief-commercial-officer/",
+        "what": "Macerato, who has been with the company since 2012, has played a key role in its recent growth",
+        "numbers": "2012,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/longbridge-financial-melissa-macerato-president-chief-commercial-officer/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "‘You’re the Bacon’: A blunt warning to Realtors about AI",
+        "url": "https://www.housingwire.com/articles/nar-warns-ai-risks/",
+        "what": "Exclusive: Mike Woodward told NXT attendees to avoid free tools for confidential data and verify outputs after demos showed multiple factual errors",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-warns-ai-risks/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
