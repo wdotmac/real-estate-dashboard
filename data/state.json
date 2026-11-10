@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-11-10 17:49 UTC",
+  "as_of": "2026-11-10 23:20 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.86,
-      "delta_bp_1d": 2.000000000000046
+      "yield_pct": 4.88,
+      "delta_bp_1d": 1.9999999999999574
     },
     "mortgage_30y": {
       "rate_pct": 7.18,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "3 AI agents value a home similarly, could they be wrong?",
-      "link": "https://www.housingwire.com/articles/ai-home-value-estimates-wrong/",
+      "title": "Mamdani gives nonprofits first dibs on buying apartment buildings",
+      "link": "https://www.housingwire.com/articles/mamdani-nonprofits-first-dibs/",
       "published": "Tue, 10 Nov 2026"
     },
     {
-      "title": "Enter once, distribute everywhere: Can Open Real Estate deliver?",
-      "link": "https://www.housingwire.com/articles/open-real-estate-mls-vendor-questions/",
+      "title": "Third spaces perform a star turn in this new Florida master plan",
+      "link": "https://www.housingwire.com/articles/third-spaces-perform-a-star-turn-in-this-new-florida-master-plan/",
       "published": "Tue, 10 Nov 2026"
     },
     {
-      "title": "October inflation ran hot again, making a December Fed hike likely",
-      "link": "https://www.housingwire.com/articles/october-cpi-fed-hike/",
+      "title": "RealPlus brings HouseCanary Google Listings to NYC clients",
+      "link": "https://www.housingwire.com/articles/realplus-housecanary-google-listings/",
       "published": "Tue, 10 Nov 2026"
     },
     {
-      "title": "Better cuts managers, leans on AI after posting Q3 loss",
-      "link": "https://www.housingwire.com/articles/better-com-q3-2026-loss/",
+      "title": "From chaos to close: Holly Mabery says agents need to quell confusion",
+      "link": "https://www.housingwire.com/articles/holly-mabery-chaos-closings/",
       "published": "Tue, 10 Nov 2026"
     },
     {
-      "title": "SERHANT. opens in Utah, led by a former Summit Sotheby’s exec",
-      "link": "https://www.housingwire.com/articles/serhant-utah-salt-lake-park-city/",
+      "title": "Mortgage rates ease as buyers gain leverage with concessions, ARMs",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-ease-buyers/",
       "published": "Tue, 10 Nov 2026"
     },
     {
-      "title": "Asset Based Lending closes $200M securitization",
-      "link": "https://www.housingwire.com/articles/asset-based-lending-200m-securitization/",
+      "title": "Compass bars employees from Realtor leadership roles",
+      "link": "https://www.housingwire.com/articles/compass-realtor-leadership-ban/",
       "published": "Tue, 10 Nov 2026"
     },
     {
@@ -203,11 +203,20 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "October inflation ran hot again, making a December Fed hike likely",
-        "url": "https://www.housingwire.com/articles/october-cpi-fed-hike/",
-        "what": "Shelter rose 0.3% and energy rose 0.7%, while core CPI held at 0.3% month over month",
-        "numbers": "0.3, 0.7",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/october-cpi-fed-hike/",
+        "title": "Mortgage rates ease as buyers gain leverage with concessions, ARMs",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-ease-buyers/",
+        "what": "At HousingWire’s Mortgage Rates Center on Tuesday, 30-year fixed-rate mortgages averaged 7.35%",
+        "numbers": "30, 7.35",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-ease-buyers/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Davidson Homes, loanDepot launch in-house mortgage JV",
+        "url": "https://www.housingwire.com/articles/loandepot-davidson-homes-mortgage/",
+        "what": "The JV integrates financing into the Davidson Homes sales process, giving the regional builder an in-house mortgage option",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/loandepot-davidson-homes-mortgage/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -250,13 +259,31 @@
     ],
     "housing": [
       {
-        "title": "Why homebuilders need business plans that test scenarios",
-        "url": "https://www.housingwire.com/articles/builder-planning-model-scenarios/",
-        "what": "In excerpt four of seven, Scott Cox outlines why plans should test alternatives, and introduces the 11x17 and assumptions-page tests",
-        "numbers": "11, 17",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/builder-planning-model-scenarios/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+        "title": "Mamdani gives nonprofits first dibs on buying apartment buildings",
+        "url": "https://www.housingwire.com/articles/mamdani-nonprofits-first-dibs/",
+        "what": "Mamdani says COPA can deter predatory investors, while rent freeze and 2019 rent law lawsuits continue",
+        "numbers": "2019",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mamdani-nonprofits-first-dibs/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "RealPlus brings HouseCanary Google Listings to NYC clients",
+        "url": "https://www.housingwire.com/articles/realplus-housecanary-google-listings/",
+        "what": "Listings can display photos, price, and a click-to-contact link that routes inquiries to the listing agent",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/realplus-housecanary-google-listings/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Seller’s choice or Compass choice? Here’s what Robert Reffkin said to his investors",
+        "url": "https://www.housingwire.com/articles/compass-private-listings-call/",
+        "what": "Sellers hear that private listings are about their choice",
+        "numbers": "5,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-private-listings-call/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
         "title": "Sunlight, Weather and Childcare: A Year of New Data on Redfin Home Listings",
@@ -266,15 +293,6 @@
         "justified": "redfin.com — https://www.redfin.com/news/sunlight-weather-and-childcare-a-year-of-new-data-on-redfin-home-listings/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "California voters reject measure to shred environmental red tape",
-        "url": "https://www.housingwire.com/articles/california-ceqa-prop-45-rejected/",
-        "what": "Opponents argued the measure could also fast-track data centers and major infrastructure, not just housing",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/california-ceqa-prop-45-rejected/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "For Every Condo Buyer in the U.S., There Are More Than Two Sellers. That Gives Condo Buyers Strong Negotiating Power.",
@@ -288,65 +306,47 @@
     ],
     "notables": [
       {
+        "title": "Third spaces perform a star turn in this new Florida master plan",
+        "url": "https://www.housingwire.com/articles/third-spaces-perform-a-star-turn-in-this-new-florida-master-plan/",
+        "what": "The 215-acre Wyld Oaks will include up to 6,000 residential units, along with retail, hotels, parks, medical and industrial uses",
+        "numbers": "215, 6,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/third-spaces-perform-a-star-turn-in-this-new-florida-master-plan/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "From chaos to close: Holly Mabery says agents need to quell confusion",
+        "url": "https://www.housingwire.com/articles/holly-mabery-chaos-closings/",
+        "what": "At NAR NXT, the eXp Realty leader urged a noise versus action filter and simpler client messaging",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/holly-mabery-chaos-closings/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Compass bars employees from Realtor leadership roles",
+        "url": "https://www.housingwire.com/articles/compass-realtor-leadership-ban/",
+        "what": "Company says the policy mirrors a prior Anywhere approach, scope for non-Realtor MLS roles is unclear",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-realtor-leadership-ban/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "What 1,000 U.S. real estate ads reveal about lead generation",
+        "url": "https://www.housingwire.com/articles/ads-skip-buyer-qualification/",
+        "what": "Only 7.7% of 1,000 Meta ads used explicit qualification cues, even when 38% listed price or payments in copy",
+        "numbers": "7.7, 1,000, 38",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ads-skip-buyer-qualification/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
         "title": "3 AI agents value a home similarly, could they be wrong?",
         "url": "https://www.housingwire.com/articles/ai-home-value-estimates-wrong/",
         "what": "Similar estimates can reflect shared market assumptions, not independent validation of comparable sales",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/ai-home-value-estimates-wrong/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Enter once, distribute everywhere: Can Open Real Estate deliver?",
-        "url": "https://www.housingwire.com/articles/open-real-estate-mls-vendor-questions/",
-        "what": "Ocusell and other vendors say MLS specific fields, compliance and duplicate licensing costs could slow adoption",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/open-real-estate-mls-vendor-questions/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Better cuts managers, leans on AI after posting Q3 loss",
-        "url": "https://www.housingwire.com/articles/better-com-q3-2026-loss/",
-        "what": "Company reported a net loss of $36.5 million in the third quarter",
-        "numbers": "$36.5 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-com-q3-2026-loss/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "SERHANT. opens in Utah, led by a former Summit Sotheby’s exec",
-        "url": "https://www.housingwire.com/articles/serhant-utah-salt-lake-park-city/",
-        "what": "Managing director Bridgette Osguthorpe brings 20-plus years of experience after 16 years at Summit Sotheby’s International Realty",
-        "numbers": "20, 16",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/serhant-utah-salt-lake-park-city/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Asset Based Lending closes $200M securitization",
-        "url": "https://www.housingwire.com/articles/asset-based-lending-200m-securitization/",
-        "what": "Deal allows up to 65% ground-up infill construction loans and brings total securitization volume to $723M",
-        "numbers": "65, $723",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/asset-based-lending-200m-securitization/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "AI is already in real estate, and its next opportunity is connection",
-        "url": "https://www.housingwire.com/articles/ai-real-estate-connection/",
-        "what": "Surveys show 82% of agents and nearly 90% of title pros use AI, the gap is pulling file status into view",
-        "numbers": "82, 90",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-real-estate-connection/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Five FAQs homeowners have about private flood insurance",
-        "url": "https://www.housingwire.com/articles/private-flood-insurance-faqs/",
-        "what": "Flood losses are often excluded from standard homeowners policies; private coverage can supplement NFIP limits",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/private-flood-insurance-faqs/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
