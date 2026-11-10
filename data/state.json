@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-11-09 17:28 UTC",
+  "as_of": "2026-11-10 01:30 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.84,
-      "delta_bp_1d": -6.00000000000005
+      "yield_pct": 4.86,
+      "delta_bp_1d": 2.000000000000046
     },
     "mortgage_30y": {
       "rate_pct": 7.18,
@@ -140,33 +140,38 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Pro-housing coalition presses Senate on BAAJA permitting reforms",
-      "link": "https://www.housingwire.com/articles/pro-housing-coalition-baaja-reforms/",
+      "title": "California voters reject measure to shred environmental red tape",
+      "link": "https://www.housingwire.com/articles/california-ceqa-prop-45-rejected/",
       "published": "Mon, 09 Nov 2026"
     },
     {
-      "title": "Ryan Serhant’s firm aligns with American Real Estate Association to raise agent standards",
-      "link": "https://www.housingwire.com/articles/serhant-joins-american-real-estate-association-ara/",
+      "title": "HECM endorsements rebound in October but stay near decade low",
+      "link": "https://www.housingwire.com/articles/hecm-reverse-mortgage-endorsements-october-2026/",
       "published": "Mon, 09 Nov 2026"
     },
     {
-      "title": "Brokerage moves: New affiliations, leadership changes and AI tools reshape real estate",
-      "link": "https://www.housingwire.com/articles/compass-exp-real-teams-ai/",
+      "title": "Century Communities names Jim Francescon as president",
+      "link": "https://www.housingwire.com/articles/entury-communities-jim-francescon-president/",
       "published": "Mon, 09 Nov 2026"
     },
     {
-      "title": "ICE: Borrowers reach record tappable equity as cash-out refis drive runoff",
-      "link": "https://www.housingwire.com/articles/ash-out-refi-home-equity/",
+      "title": "Trump strikes a softer note on immigration; builders need proof",
+      "link": "https://www.housingwire.com/articles/trump-immigration-homebuilders/",
       "published": "Mon, 09 Nov 2026"
     },
     {
-      "title": "Ryan Serhant’s warning to brokers: Stop protecting the business you used to have",
-      "link": "https://www.housingwire.com/articles/ryan-serhant-leads-not-splits/",
+      "title": "What View Homes’ rebrand says about Gandhi’s operating overhaul",
+      "link": "https://www.housingwire.com/articles/view-homes-unified-brand-overhaul/",
       "published": "Mon, 09 Nov 2026"
     },
     {
-      "title": "Graceful Finance’s Anna Frankowska pitches home reversions for seniors’ toolbox",
-      "link": "https://www.housingwire.com/articles/graceful-finance-home-reversion/",
+      "title": "NAR moves from survival to ‘showing receipts’ on member value",
+      "link": "https://www.housingwire.com/articles/nar-nxt-strategic-plan-mls/",
+      "published": "Mon, 09 Nov 2026"
+    },
+    {
+      "title": "Sunlight, Weather and Childcare: A Year of New Data on Redfin Home Listings",
+      "link": "https://www.redfin.com/news/sunlight-weather-and-childcare-a-year-of-new-data-on-redfin-home-listings/",
       "published": "Mon, 09 Nov 2026"
     },
     {
@@ -193,11 +198,6 @@
       "title": "Mortgage Rates Drop From September Highs as Midterms and Jobs Data Loom",
       "link": "https://www.redfin.com/news/mortgage-rates-december-hike-possible/",
       "published": "Mon, 02 Nov 2026"
-    },
-    {
-      "title": "Redfin Celebrates 250 Years of American History Through the Places We Call Home",
-      "link": "https://www.redfin.com/news/iconic-homes/",
-      "published": "Fri, 30 Oct 2026"
     }
   ],
   "feed_101020": {
@@ -228,26 +228,35 @@
         "justified": "redfin.com — https://www.redfin.com/news/october-job-growth-beats-expectations-keeping-a-december-fed-hike-on-the-table/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage Rates Drop From September Highs as Midterms and Jobs Data Loom",
-        "url": "https://www.redfin.com/news/mortgage-rates-december-hike-possible/",
-        "what": "In A Nutshell: Rates have fallen about 30–40 basis points since the peak at the end of September and there’s little reason to believe the volatility will slow down",
-        "numbers": "30, 40",
-        "justified": "redfin.com — https://www.redfin.com/news/mortgage-rates-december-hike-possible/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
       {
-        "title": "ICE: Borrowers reach record tappable equity as cash-out refis drive runoff",
-        "url": "https://www.housingwire.com/articles/ash-out-refi-home-equity/",
-        "what": "Mortgage holders had a record $17.5 trillion in home equity in Q3",
-        "numbers": "$17.5, 3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ash-out-refi-home-equity/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "title": "Sunlight, Weather and Childcare: A Year of New Data on Redfin Home Listings",
+        "url": "https://www.redfin.com/news/sunlight-weather-and-childcare-a-year-of-new-data-on-redfin-home-listings/",
+        "what": "In 2026, Redfin added information about sunlight, weather, childcare access and more to home listings",
+        "numbers": "2026,",
+        "justified": "redfin.com — https://www.redfin.com/news/sunlight-weather-and-childcare-a-year-of-new-data-on-redfin-home-listings/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "California voters reject measure to shred environmental red tape",
+        "url": "https://www.housingwire.com/articles/california-ceqa-prop-45-rejected/",
+        "what": "Opponents argued the measure could also fast-track data centers and major infrastructure, not just housing",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/california-ceqa-prop-45-rejected/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Trump strikes a softer note on immigration; builders need proof",
+        "url": "https://www.housingwire.com/articles/trump-immigration-homebuilders/",
+        "what": "On Sunday, President Donald Trump said his administration's immigration policies \"might be too tough\"",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-immigration-homebuilders/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "For Every Condo Buyer in the U.S., There Are More Than Two Sellers. That Gives Condo Buyers Strong Negotiating Power.",
@@ -255,24 +264,6 @@
         "what": "Condo buyers today have more negotiating power than they’ve had in at least 13 years",
         "numbers": "13, 123, 2013., 95.5",
         "justified": "redfin.com — https://www.redfin.com/news/condo-fall-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Massachusetts voters narrowly reject minimum lot size measure",
-        "url": "https://www.housingwire.com/articles/massachusetts-lot-size-measure-fails/",
-        "what": "A 'yes' vote would have allowed single-family homes on smaller home sites than most local zoning permits",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/massachusetts-lot-size-measure-fails/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "The housing laws that could derail a sale — and why Realtors need to pay attention",
-        "url": "https://www.housingwire.com/articles/dsa-tenant-laws-nar/",
-        "what": "Exclusive: Speakers at NAR NXT 2026 highlighted right of first refusal, just cause eviction, and source of income protections as key risks",
-        "numbers": "2026",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/dsa-tenant-laws-nar/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
@@ -288,56 +279,65 @@
     ],
     "notables": [
       {
-        "title": "Ryan Serhant’s firm aligns with American Real Estate Association to raise agent standards",
-        "url": "https://www.housingwire.com/articles/serhant-joins-american-real-estate-association-ara/",
-        "what": "SERHANT",
+        "title": "HECM endorsements rebound in October but stay near decade low",
+        "url": "https://www.housingwire.com/articles/hecm-reverse-mortgage-endorsements-october-2026/",
+        "what": "HECM endorsements rise 11% while HMBS issuance falls 16%",
+        "numbers": "11, 16",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/hecm-reverse-mortgage-endorsements-october-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Century Communities names Jim Francescon as president",
+        "url": "https://www.housingwire.com/articles/entury-communities-jim-francescon-president/",
+        "what": "Executive Chairman Dale Francescon will remain in his role, and CEO Rob Francescon will continue as chief executive",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/serhant-joins-american-real-estate-association-ara/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/entury-communities-jim-francescon-president/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Brokerage moves: New affiliations, leadership changes and AI tools reshape real estate",
-        "url": "https://www.housingwire.com/articles/compass-exp-real-teams-ai/",
-        "what": "Moves include 70-plus agents joining eXp in Tampa Bay and Real adding a 30-agent Iowa group with $1.2 billion history",
-        "numbers": "70, 30, $1.2 billion",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-exp-real-teams-ai/",
+        "title": "What View Homes’ rebrand says about Gandhi’s operating overhaul",
+        "url": "https://www.housingwire.com/articles/view-homes-unified-brand-overhaul/",
+        "what": "After seven months as CEO, Gandhi is aligning standards across 5 divisions and eyeing Denver-area growth",
+        "numbers": "5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/view-homes-unified-brand-overhaul/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Ryan Serhant’s warning to brokers: Stop protecting the business you used to have",
-        "url": "https://www.housingwire.com/articles/ryan-serhant-leads-not-splits/",
-        "what": "AI should remove admin work and raise transactions per agent, not add another tool agents must manage",
+        "title": "NAR moves from survival to ‘showing receipts’ on member value",
+        "url": "https://www.housingwire.com/articles/nar-nxt-strategic-plan-mls/",
+        "what": "Wright credited Kevin Sears and Kevin Brown, citing Tuccori opt in, 450+ MLS outreach and zero based budgeting",
+        "numbers": "450",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-nxt-strategic-plan-mls/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Invitation Homes, HBI team up to train vets in skilled trades",
+        "url": "https://www.housingwire.com/articles/invitation-homes-hbi-partnership/",
+        "what": "The investment will fund hands-on training, industry credentials and job placement for transitioning service members and veterans",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ryan-serhant-leads-not-splits/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Graceful Finance’s Anna Frankowska pitches home reversions for seniors’ toolbox",
-        "url": "https://www.housingwire.com/articles/graceful-finance-home-reversion/",
-        "what": "Product for homeowners 75+ offers a lump sum or recurring income while allowing them to stay in their homes for life",
-        "numbers": "75",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/graceful-finance-home-reversion/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/invitation-homes-hbi-partnership/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Longbridge promotes Melissa Macerato to president and chief commercial officer",
-        "url": "https://www.housingwire.com/articles/longbridge-financial-melissa-macerato-president-chief-commercial-officer/",
-        "what": "Macerato, who has been with the company since 2012, has played a key role in its recent growth",
-        "numbers": "2012,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/longbridge-financial-melissa-macerato-president-chief-commercial-officer/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "‘You’re the Bacon’: A blunt warning to Realtors about AI",
-        "url": "https://www.housingwire.com/articles/nar-warns-ai-risks/",
-        "what": "Exclusive: Mike Woodward told NXT attendees to avoid free tools for confidential data and verify outputs after demos showed multiple factual errors",
+        "title": "loanDepot’s Q3 loss grows while it chases 2027 break-even",
+        "url": "https://www.housingwire.com/articles/loandepot-q3-2026/",
+        "what": "Founder and CEO Anthony Hsieh signaled break-even \"by first half or mid next year\"",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-warns-ai-risks/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/loandepot-q3-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "NAR membership proves more resilient than expected, topping 1.46 million",
+        "url": "https://www.housingwire.com/articles/nar-membership-revenue-budget-2026/",
+        "what": "Membership hit 1,469,127 at end of September, dues revenue was about $220 million, and expenses ran $7 million under budget",
+        "numbers": "1,469,127, $220 million, $7 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-membership-revenue-budget-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
