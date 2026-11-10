@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-10 09:49 UTC",
+  "as_of": "2026-11-10 17:49 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,44 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "AI is already in real estate, and its next opportunity is connection",
-      "link": "https://www.housingwire.com/articles/ai-real-estate-connection/",
+      "title": "3 AI agents value a home similarly, could they be wrong?",
+      "link": "https://www.housingwire.com/articles/ai-home-value-estimates-wrong/",
       "published": "Tue, 10 Nov 2026"
     },
     {
-      "title": "Five FAQs homeowners have about private flood insurance",
-      "link": "https://www.housingwire.com/articles/private-flood-insurance-faqs/",
+      "title": "Enter once, distribute everywhere: Can Open Real Estate deliver?",
+      "link": "https://www.housingwire.com/articles/open-real-estate-mls-vendor-questions/",
       "published": "Tue, 10 Nov 2026"
     },
     {
-      "title": "California voters reject measure to shred environmental red tape",
-      "link": "https://www.housingwire.com/articles/california-ceqa-prop-45-rejected/",
-      "published": "Mon, 09 Nov 2026"
+      "title": "October inflation ran hot again, making a December Fed hike likely",
+      "link": "https://www.housingwire.com/articles/october-cpi-fed-hike/",
+      "published": "Tue, 10 Nov 2026"
     },
     {
-      "title": "HECM endorsements rebound in October but stay near decade low",
-      "link": "https://www.housingwire.com/articles/hecm-reverse-mortgage-endorsements-october-2026/",
-      "published": "Mon, 09 Nov 2026"
+      "title": "Better cuts managers, leans on AI after posting Q3 loss",
+      "link": "https://www.housingwire.com/articles/better-com-q3-2026-loss/",
+      "published": "Tue, 10 Nov 2026"
     },
     {
-      "title": "Century Communities names Jim Francescon as president",
-      "link": "https://www.housingwire.com/articles/entury-communities-jim-francescon-president/",
-      "published": "Mon, 09 Nov 2026"
+      "title": "SERHANT. opens in Utah, led by a former Summit Sotheby’s exec",
+      "link": "https://www.housingwire.com/articles/serhant-utah-salt-lake-park-city/",
+      "published": "Tue, 10 Nov 2026"
     },
     {
-      "title": "Trump strikes a softer note on immigration; builders need proof",
-      "link": "https://www.housingwire.com/articles/trump-immigration-homebuilders/",
-      "published": "Mon, 09 Nov 2026"
+      "title": "Asset Based Lending closes $200M securitization",
+      "link": "https://www.housingwire.com/articles/asset-based-lending-200m-securitization/",
+      "published": "Tue, 10 Nov 2026"
+    },
+    {
+      "title": "October Marks the First Month in 3 Years With a Decline in U.S. Home-Sale Prices",
+      "link": "https://www.redfin.com/news/home-prices-decline-october-2026/",
+      "published": "Tue, 10 Nov 2026"
+    },
+    {
+      "title": "Hot Inflation Report and Hawkish Comments From Fed’s Waller Put a 50 Bps December Hike in Play",
+      "link": "https://www.redfin.com/news/hot-inflation-report-and-hawkish-comments-from-feds-waller-put-a-50-bps-december-hike-in-play/",
+      "published": "Tue, 10 Nov 2026"
     },
     {
       "title": "Sunlight, Weather and Childcare: A Year of New Data on Redfin Home Listings",
@@ -188,20 +198,37 @@
       "title": "October Job Growth Beats Expectations, Keeping a December Fed Hike on the Table",
       "link": "https://www.redfin.com/news/october-job-growth-beats-expectations-keeping-a-december-fed-hike-on-the-table/",
       "published": "Fri, 06 Nov 2026"
-    },
-    {
-      "title": "Homebuyers Get Some Relief as Prices Decline For Third Straight Week, Monthly Payments Dip",
-      "link": "https://www.redfin.com/news/housing-market-update-sale-prices-keep-declining/",
-      "published": "Thu, 05 Nov 2026"
-    },
-    {
-      "title": "Mortgage Rates Drop From September Highs as Midterms and Jobs Data Loom",
-      "link": "https://www.redfin.com/news/mortgage-rates-december-hike-possible/",
-      "published": "Mon, 02 Nov 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "October inflation ran hot again, making a December Fed hike likely",
+        "url": "https://www.housingwire.com/articles/october-cpi-fed-hike/",
+        "what": "Shelter rose 0.3% and energy rose 0.7%, while core CPI held at 0.3% month over month",
+        "numbers": "0.3, 0.7",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/october-cpi-fed-hike/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "October Marks the First Month in 3 Years With a Decline in U.S. Home-Sale Prices",
+        "url": "https://www.redfin.com/news/home-prices-decline-october-2026/",
+        "what": "The median U.S",
+        "numbers": "3, 16.8, 7",
+        "justified": "redfin.com — https://www.redfin.com/news/home-prices-decline-october-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Hot Inflation Report and Hawkish Comments From Fed’s Waller Put a 50 Bps December Hike in Play",
+        "url": "https://www.redfin.com/news/hot-inflation-report-and-hawkish-comments-from-feds-waller-put-a-50-bps-december-hike-in-play/",
+        "what": "Takeaway: A hot inflation report coupled with aggressive remarks from Fed Governor Waller overnight locks in a December rate hike and brings up the possibility of a larger 50 bps hike or a previously unanticipated hike in January",
+        "numbers": "50, 0.296",
+        "justified": "redfin.com — https://www.redfin.com/news/hot-inflation-report-and-hawkish-comments-from-feds-waller-put-a-50-bps-december-hike-in-play/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Mortgage Rates Dip Ahead of a Big Week for Inflation Data",
         "url": "https://www.redfin.com/news/economic-update-november-9/",
@@ -223,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Why homebuilders need business plans that test scenarios",
+        "url": "https://www.housingwire.com/articles/builder-planning-model-scenarios/",
+        "what": "In excerpt four of seven, Scott Cox outlines why plans should test alternatives, and introduces the 11x17 and assumptions-page tests",
+        "numbers": "11, 17",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/builder-planning-model-scenarios/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Sunlight, Weather and Childcare: A Year of New Data on Redfin Home Listings",
         "url": "https://www.redfin.com/news/sunlight-weather-and-childcare-a-year-of-new-data-on-redfin-home-listings/",
         "what": "In 2026, Redfin added information about sunlight, weather, childcare access and more to home listings",
@@ -241,15 +277,6 @@
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Trump strikes a softer note on immigration; builders need proof",
-        "url": "https://www.housingwire.com/articles/trump-immigration-homebuilders/",
-        "what": "On Sunday, President Donald Trump said his administration's immigration policies \"might be too tough\"",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/trump-immigration-homebuilders/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
         "title": "For Every Condo Buyer in the U.S., There Are More Than Two Sellers. That Gives Condo Buyers Strong Negotiating Power.",
         "url": "https://www.redfin.com/news/condo-fall-2026/",
         "what": "Condo buyers today have more negotiating power than they’ve had in at least 13 years",
@@ -257,18 +284,54 @@
         "justified": "redfin.com — https://www.redfin.com/news/condo-fall-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Homebuyers Get Some Relief as Prices Decline For Third Straight Week, Monthly Payments Dip",
-        "url": "https://www.redfin.com/news/housing-market-update-sale-prices-keep-declining/",
-        "what": "New listings of homes for sale fell to their lowest level since the start of the year, but there are still significantly more sellers than buyers in the market",
-        "numbers": "1",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-sale-prices-keep-declining/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       }
     ],
     "notables": [
+      {
+        "title": "3 AI agents value a home similarly, could they be wrong?",
+        "url": "https://www.housingwire.com/articles/ai-home-value-estimates-wrong/",
+        "what": "Similar estimates can reflect shared market assumptions, not independent validation of comparable sales",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-home-value-estimates-wrong/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Enter once, distribute everywhere: Can Open Real Estate deliver?",
+        "url": "https://www.housingwire.com/articles/open-real-estate-mls-vendor-questions/",
+        "what": "Ocusell and other vendors say MLS specific fields, compliance and duplicate licensing costs could slow adoption",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/open-real-estate-mls-vendor-questions/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Better cuts managers, leans on AI after posting Q3 loss",
+        "url": "https://www.housingwire.com/articles/better-com-q3-2026-loss/",
+        "what": "Company reported a net loss of $36.5 million in the third quarter",
+        "numbers": "$36.5 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-com-q3-2026-loss/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "SERHANT. opens in Utah, led by a former Summit Sotheby’s exec",
+        "url": "https://www.housingwire.com/articles/serhant-utah-salt-lake-park-city/",
+        "what": "Managing director Bridgette Osguthorpe brings 20-plus years of experience after 16 years at Summit Sotheby’s International Realty",
+        "numbers": "20, 16",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/serhant-utah-salt-lake-park-city/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Asset Based Lending closes $200M securitization",
+        "url": "https://www.housingwire.com/articles/asset-based-lending-200m-securitization/",
+        "what": "Deal allows up to 65% ground-up infill construction loans and brings total securitization volume to $723M",
+        "numbers": "65, $723",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/asset-based-lending-200m-securitization/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "AI is already in real estate, and its next opportunity is connection",
         "url": "https://www.housingwire.com/articles/ai-real-estate-connection/",
@@ -284,60 +347,6 @@
         "what": "Flood losses are often excluded from standard homeowners policies; private coverage can supplement NFIP limits",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/private-flood-insurance-faqs/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "HECM endorsements rebound in October but stay near decade low",
-        "url": "https://www.housingwire.com/articles/hecm-reverse-mortgage-endorsements-october-2026/",
-        "what": "HECM endorsements rise 11% while HMBS issuance falls 16%",
-        "numbers": "11, 16",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/hecm-reverse-mortgage-endorsements-october-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Century Communities names Jim Francescon as president",
-        "url": "https://www.housingwire.com/articles/entury-communities-jim-francescon-president/",
-        "what": "Executive Chairman Dale Francescon will remain in his role, and CEO Rob Francescon will continue as chief executive",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/entury-communities-jim-francescon-president/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "What View Homes’ rebrand says about Gandhi’s operating overhaul",
-        "url": "https://www.housingwire.com/articles/view-homes-unified-brand-overhaul/",
-        "what": "After seven months as CEO, Gandhi is aligning standards across 5 divisions and eyeing Denver-area growth",
-        "numbers": "5",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/view-homes-unified-brand-overhaul/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "NAR moves from survival to ‘showing receipts’ on member value",
-        "url": "https://www.housingwire.com/articles/nar-nxt-strategic-plan-mls/",
-        "what": "Wright credited Kevin Sears and Kevin Brown, citing Tuccori opt in, 450+ MLS outreach and zero based budgeting",
-        "numbers": "450",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nar-nxt-strategic-plan-mls/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Invitation Homes, HBI team up to train vets in skilled trades",
-        "url": "https://www.housingwire.com/articles/invitation-homes-hbi-partnership/",
-        "what": "The investment will fund hands-on training, industry credentials and job placement for transitioning service members and veterans",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/invitation-homes-hbi-partnership/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "loanDepot’s Q3 loss grows while it chases 2027 break-even",
-        "url": "https://www.housingwire.com/articles/loandepot-q3-2026/",
-        "what": "Founder and CEO Anthony Hsieh signaled break-even \"by first half or mid next year\"",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/loandepot-q3-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
