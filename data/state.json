@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-12 11:07 UTC",
+  "as_of": "2026-11-12 18:55 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -7,8 +7,8 @@
       "delta_bp_1d": 1.9999999999999574
     },
     "mortgage_30y": {
-      "rate_pct": 7.18,
-      "delta_bp_wow": -6.00000000000005
+      "rate_pct": 7.11,
+      "delta_bp_wow": -6.99999999999994
     },
     "starts": {
       "level_saar": 1221.0,
@@ -140,38 +140,48 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Why the next Fed decision should not impact your house purchase",
-      "link": "https://www.housingwire.com/articles/mortgage-rates-fed-math/",
+      "title": "Newrez partners with Upgrade to add personal loans for servicing customers",
+      "link": "https://www.housingwire.com/articles/newrez-unsecured-personal-loans-upgrade/",
       "published": "Thu, 12 Nov 2026"
     },
     {
-      "title": "What pricing and execution inefficiency really costs mortgage lenders",
-      "link": "https://www.housingwire.com/articles/pricing-execution-costs-lenders/",
+      "title": "UWM rolls out 40 bps year-end pricing bonus, expands Bilt partnership",
+      "link": "https://www.housingwire.com/articles/uwm-40-pricing-incentive-bilt/",
       "published": "Thu, 12 Nov 2026"
     },
     {
-      "title": "Why the 2026 fake foreclosure crisis never happened",
-      "link": "https://www.housingwire.com/articles/why-the-2026-fake-foreclosure-crisis-never-happened/",
+      "title": "Compass pushes back on antitrust claims, says it owes StreetEasy nothing",
+      "link": "https://www.housingwire.com/articles/compass-antitrust-lawsuit-dismissal/",
       "published": "Thu, 12 Nov 2026"
     },
     {
-      "title": "Education, not operations, are holding back reverse for purchase deals",
-      "link": "https://www.housingwire.com/articles/reverse-purchase-closing-times/",
-      "published": "Wed, 11 Nov 2026"
+      "title": "Figure loan volume rises 135% on platform growth after Kiavi acquisition",
+      "link": "https://www.housingwire.com/articles/figure-q3-marketplace-volume/",
+      "published": "Thu, 12 Nov 2026"
     },
     {
-      "title": "Housing demand shows signs of stabilizing. Does your market?",
-      "link": "https://www.housingwire.com/articles/is-your-houisng-market-stabilizing/",
-      "published": "Wed, 11 Nov 2026"
+      "title": "MLS roundup: AI, fraud prevention and data sharing take center stage",
+      "link": "https://www.housingwire.com/articles/mls-tech-ai-fraud-partnerships/",
+      "published": "Thu, 12 Nov 2026"
     },
     {
-      "title": "A Veterans Day reflection for building leaders and the work ahead",
-      "link": "https://www.housingwire.com/articles/veterans-day-housing-leadership/",
-      "published": "Wed, 11 Nov 2026"
+      "title": "Unlock expands home equity agreements to Georgia",
+      "link": "https://www.housingwire.com/articles/unlock-expands-hea-georgia/",
+      "published": "Thu, 12 Nov 2026"
     },
     {
       "title": "The Generational Housing Divide: Millennials Had It Better Than Baby Boomers–Until the Pandemic Changed the Math",
       "link": "https://www.redfin.com/news/millennials-baby-boomers-housing-affordability/",
+      "published": "Thu, 12 Nov 2026"
+    },
+    {
+      "title": "Monthly Mortgage Payments Fall to Lowest Level in 6 Weeks as Home Prices Keep Dipping",
+      "link": "https://www.redfin.com/news/housing-market-update-mortgage-payments-prices-dip/",
+      "published": "Thu, 12 Nov 2026"
+    },
+    {
+      "title": "Just 3 Major U.S. Metros Are Seller’s Markets–the Fewest Since the Pandemic Freeze",
+      "link": "https://www.redfin.com/news/buyers-vs-sellers-october-2026/",
       "published": "Thu, 12 Nov 2026"
     },
     {
@@ -188,20 +198,28 @@
       "title": "Sunlight, Weather and Childcare: A Year of New Data on Redfin Home Listings",
       "link": "https://www.redfin.com/news/sunlight-weather-and-childcare-a-year-of-new-data-on-redfin-home-listings/",
       "published": "Mon, 09 Nov 2026"
-    },
-    {
-      "title": "Mortgage Rates Dip Ahead of a Big Week for Inflation Data",
-      "link": "https://www.redfin.com/news/economic-update-november-9/",
-      "published": "Mon, 09 Nov 2026"
-    },
-    {
-      "title": "For Every Condo Buyer in the U.S., There Are More Than Two Sellers. That Gives Condo Buyers Strong Negotiating Power.",
-      "link": "https://www.redfin.com/news/condo-fall-2026/",
-      "published": "Mon, 09 Nov 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Zero-down VA loans help push veteran homeownership to 77%, study finds",
+        "url": "https://www.housingwire.com/articles/veteran-homeownership-va-loans-racial-wealth-gap/",
+        "what": "VA purchase loans and related federal, state and nonprofit programs enable zero-down financing, lower rates and flexible underwriting",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/veteran-homeownership-va-loans-racial-wealth-gap/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Existing home sales hit a new low as rates stay high",
+        "url": "https://www.housingwire.com/articles/existing-home-sales-october-375m/",
+        "what": "Inventory rose to 1.59 million, while the median price increased 0.4% to $416,700",
+        "numbers": "1.59 million, 0.4, $416,700",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/existing-home-sales-october-375m/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "The Generational Housing Divide: Millennials Had It Better Than Baby Boomers–Until the Pandemic Changed the Math",
         "url": "https://www.redfin.com/news/millennials-baby-boomers-housing-affordability/",
@@ -212,20 +230,11 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Why the next Fed decision should not impact your house purchase",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-fed-math/",
-        "what": "Freddie Mac put the 30-year fixed average at 7.24% on Oct",
-        "numbers": "30, 7.24, 29,, 3.75, 4, 28",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-fed-math/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Why the 2026 fake foreclosure crisis never happened",
-        "url": "https://www.housingwire.com/articles/why-the-2026-fake-foreclosure-crisis-never-happened/",
-        "what": "The New York Fed's Household Debt and Credit Report for Q3 shows how far off the predictions were",
-        "numbers": "3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/why-the-2026-fake-foreclosure-crisis-never-happened/",
+        "title": "Monthly Mortgage Payments Fall to Lowest Level in 6 Weeks as Home Prices Keep Dipping",
+        "url": "https://www.redfin.com/news/housing-market-update-mortgage-payments-prices-dip/",
+        "what": "Pending home sales held steady from a week earlier as prices and mortgage rates fell–but rates have since ticked back up",
+        "numbers": "8, $388,613,, 0.9, 6",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-mortgage-payments-prices-dip/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -246,53 +255,26 @@
         "justified": "redfin.com — https://www.redfin.com/news/hot-inflation-report-and-hawkish-comments-from-feds-waller-put-a-50-bps-december-hike-in-play/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Mortgage Rates Dip Ahead of a Big Week for Inflation Data",
-        "url": "https://www.redfin.com/news/economic-update-november-9/",
-        "what": "In A Nutshell: Mortgage rates are coming down as investors dial back expectations for rate hikes",
-        "numbers": "",
-        "justified": "redfin.com — https://www.redfin.com/news/economic-update-november-9/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
       {
-        "title": "What pricing and execution inefficiency really costs mortgage lenders",
-        "url": "https://www.housingwire.com/articles/pricing-execution-costs-lenders/",
-        "what": "The hidden cost of standing still may exceed the cost of change",
+        "title": "Compass pushes back on antitrust claims, says it owes StreetEasy nothing",
+        "url": "https://www.housingwire.com/articles/compass-antitrust-lawsuit-dismissal/",
+        "what": "The Robert Reffkin-helmed firm argues it lacks monopoly power and says the plaintiff cannot tie higher rent to its StreetEasy listing decision",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pricing-execution-costs-lenders/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Housing demand shows signs of stabilizing. Does your market?",
-        "url": "https://www.housingwire.com/articles/is-your-houisng-market-stabilizing/",
-        "what": "New pending listings rose 20% in one Florida metro area, but neighboring cities tell different stories",
-        "numbers": "20",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/is-your-houisng-market-stabilizing/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-antitrust-lawsuit-dismissal/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "A Veterans Day reflection for building leaders and the work ahead",
-        "url": "https://www.housingwire.com/articles/veterans-day-housing-leadership/",
-        "what": "We highlight two Texas families promised mortgage-free homes and frame affordability progress as an industry leadership test",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/veterans-day-housing-leadership/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Homebuilders and their partners team up to salute our veterans",
-        "url": "https://www.housingwire.com/articles/homebuilders-celebrate-veterans-day/",
-        "what": "Veterans Day initiatives include discounts for military families, mortgage-free home donations and workforce development",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilders-celebrate-veterans-day/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+        "title": "Just 3 Major U.S. Metros Are Seller’s Markets–the Fewest Since the Pandemic Freeze",
+        "url": "https://www.redfin.com/news/buyers-vs-sellers-october-2026/",
+        "what": "There are just 3 seller’s markets among the 50 most populous U.S",
+        "numbers": "3, 50, 2013,, 71",
+        "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-october-2026/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
         "title": "Sunlight, Weather and Childcare: A Year of New Data on Redfin Home Listings",
@@ -302,53 +284,71 @@
         "justified": "redfin.com — https://www.redfin.com/news/sunlight-weather-and-childcare-a-year-of-new-data-on-redfin-home-listings/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "For Every Condo Buyer in the U.S., There Are More Than Two Sellers. That Gives Condo Buyers Strong Negotiating Power.",
-        "url": "https://www.redfin.com/news/condo-fall-2026/",
-        "what": "Condo buyers today have more negotiating power than they’ve had in at least 13 years",
-        "numbers": "13, 123, 2013., 95.5",
-        "justified": "redfin.com — https://www.redfin.com/news/condo-fall-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
       {
-        "title": "Education, not operations, are holding back reverse for purchase deals",
-        "url": "https://www.housingwire.com/articles/reverse-purchase-closing-times/",
-        "what": "Panelists at NRMLA Annual detailed ways to get referral partners on board and avoid all-cash transactions",
+        "title": "Newrez partners with Upgrade to add personal loans for servicing customers",
+        "url": "https://www.housingwire.com/articles/newrez-unsecured-personal-loans-upgrade/",
+        "what": "Upgrade will originate and service the loans",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-purchase-closing-times/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/newrez-unsecured-personal-loans-upgrade/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Winning in a buyer’s market",
-        "url": "https://www.housingwire.com/articles/winning-in-a-buyers-market/",
-        "what": "Three practical strategies agents and lenders can use to help hesitant homebuyers capitalize on today's shifting conditions",
+        "title": "UWM rolls out 40 bps year-end pricing bonus, expands Bilt partnership",
+        "url": "https://www.housingwire.com/articles/uwm-40-pricing-incentive-bilt/",
+        "what": "Lender links 40-bps incentive to use of its closing and underwriting tools",
+        "numbers": "40",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/uwm-40-pricing-incentive-bilt/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Figure loan volume rises 135% on platform growth after Kiavi acquisition",
+        "url": "https://www.housingwire.com/articles/figure-q3-marketplace-volume/",
+        "what": "Figure Connect drove $4.3B of volume, while Kiavi added $677M after the deal closed Sept",
+        "numbers": "$4.3, $677, 1",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/figure-q3-marketplace-volume/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "MLS roundup: AI, fraud prevention and data sharing take center stage",
+        "url": "https://www.housingwire.com/articles/mls-tech-ai-fraud-partnerships/",
+        "what": "Updates span 1,600-subscriber fraud monitoring in Montana and AI property research for 15,000 agents in South Texas",
+        "numbers": "1,600, 15,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-tech-ai-fraud-partnerships/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Unlock expands home equity agreements to Georgia",
+        "url": "https://www.housingwire.com/articles/unlock-expands-hea-georgia/",
+        "what": "Unlock says 25,000 homeowners have used its HEA product",
+        "numbers": "25,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/unlock-expands-hea-georgia/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Better 2.0 plan hits reported $34.1M in cost savings",
+        "url": "https://www.housingwire.com/articles/better-34-1m-cost-savings/",
+        "what": "Company received five term sheets for $50M in debt financing tied to its U.K",
+        "numbers": "$50, 43",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-34-1m-cost-savings/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Datadog COO Adam Blitzer replaces Bill Emerson on Rocket board",
+        "url": "https://www.housingwire.com/articles/rocket-datadog-coo-adam-blitzer-to-board/",
+        "what": "Emerson is leaving to focus on the board of a nonprofit that will redevelop, own and operate Detroit’s Renaissance Center",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/winning-in-a-buyers-market/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-datadog-coo-adam-blitzer-to-board/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "If you own the asset, you should own the project data",
-        "url": "https://www.housingwire.com/articles/own-project-data-record/",
-        "what": "A durable record of budgets, decisions, RFIs and as-builts supports operations, refinancing and AI use",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/own-project-data-record/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "A military spouse’s advice for serving veteran homebuyers",
-        "url": "https://www.housingwire.com/articles/va-loan-veteran-homebuyers/",
-        "what": "55% of veteran homebuyers used VA financing in 2025, and eligibility is not limited to one use",
-        "numbers": "55, 2025,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/va-loan-veteran-homebuyers/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
