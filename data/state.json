@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-12 02:58 UTC",
+  "as_of": "2026-11-12 11:07 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Why the next Fed decision should not impact your house purchase",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-fed-math/",
+      "published": "Thu, 12 Nov 2026"
+    },
+    {
+      "title": "What pricing and execution inefficiency really costs mortgage lenders",
+      "link": "https://www.housingwire.com/articles/pricing-execution-costs-lenders/",
+      "published": "Thu, 12 Nov 2026"
+    },
+    {
       "title": "Why the 2026 fake foreclosure crisis never happened",
       "link": "https://www.housingwire.com/articles/why-the-2026-fake-foreclosure-crisis-never-happened/",
       "published": "Thu, 12 Nov 2026"
@@ -160,14 +170,9 @@
       "published": "Wed, 11 Nov 2026"
     },
     {
-      "title": "Homebuilders and their partners team up to salute our veterans",
-      "link": "https://www.housingwire.com/articles/homebuilders-celebrate-veterans-day/",
-      "published": "Wed, 11 Nov 2026"
-    },
-    {
-      "title": "Winning in a buyer’s market",
-      "link": "https://www.housingwire.com/articles/winning-in-a-buyers-market/",
-      "published": "Wed, 11 Nov 2026"
+      "title": "The Generational Housing Divide: Millennials Had It Better Than Baby Boomers–Until the Pandemic Changed the Math",
+      "link": "https://www.redfin.com/news/millennials-baby-boomers-housing-affordability/",
+      "published": "Thu, 12 Nov 2026"
     },
     {
       "title": "October Marks the First Month in 3 Years With a Decline in U.S. Home-Sale Prices",
@@ -193,15 +198,28 @@
       "title": "For Every Condo Buyer in the U.S., There Are More Than Two Sellers. That Gives Condo Buyers Strong Negotiating Power.",
       "link": "https://www.redfin.com/news/condo-fall-2026/",
       "published": "Mon, 09 Nov 2026"
-    },
-    {
-      "title": "October Job Growth Beats Expectations, Keeping a December Fed Hike on the Table",
-      "link": "https://www.redfin.com/news/october-job-growth-beats-expectations-keeping-a-december-fed-hike-on-the-table/",
-      "published": "Fri, 06 Nov 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "The Generational Housing Divide: Millennials Had It Better Than Baby Boomers–Until the Pandemic Changed the Math",
+        "url": "https://www.redfin.com/news/millennials-baby-boomers-housing-affordability/",
+        "what": "Timing made a big difference for millennials",
+        "numbers": "2022, 35",
+        "justified": "redfin.com — https://www.redfin.com/news/millennials-baby-boomers-housing-affordability/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Why the next Fed decision should not impact your house purchase",
+        "url": "https://www.housingwire.com/articles/mortgage-rates-fed-math/",
+        "what": "Freddie Mac put the 30-year fixed average at 7.24% on Oct",
+        "numbers": "30, 7.24, 29,, 3.75, 4, 28",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-fed-math/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Why the 2026 fake foreclosure crisis never happened",
         "url": "https://www.housingwire.com/articles/why-the-2026-fake-foreclosure-crisis-never-happened/",
@@ -237,18 +255,18 @@
         "justified": "redfin.com — https://www.redfin.com/news/economic-update-november-9/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "October Job Growth Beats Expectations, Keeping a December Fed Hike on the Table",
-        "url": "https://www.redfin.com/news/october-job-growth-beats-expectations-keeping-a-december-fed-hike-on-the-table/",
-        "what": "Takeaway: A strong jobs report gives the Fed permission to hike again in December should they want to",
-        "numbers": "165,000, 84,000, 83,000",
-        "justified": "redfin.com — https://www.redfin.com/news/october-job-growth-beats-expectations-keeping-a-december-fed-hike-on-the-table/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "What pricing and execution inefficiency really costs mortgage lenders",
+        "url": "https://www.housingwire.com/articles/pricing-execution-costs-lenders/",
+        "what": "The hidden cost of standing still may exceed the cost of change",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pricing-execution-costs-lenders/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Housing demand shows signs of stabilizing. Does your market?",
         "url": "https://www.housingwire.com/articles/is-your-houisng-market-stabilizing/",
@@ -275,24 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilders-celebrate-veterans-day/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Reverse mortgage leaders on alleviating sales and referral pain points",
-        "url": "https://www.housingwire.com/articles/nrmla-reverse-mortgage-strategies-2026/",
-        "what": "Industry veterans Dan Hultquist, John Luddy and Scott Harmes were joined by financial adviser Ryan Ponsford in a NRMLA panel discussion",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/nrmla-reverse-mortgage-strategies-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Higharc, ECI launch MarkSystems integration for big builders",
-        "url": "https://www.housingwire.com/articles/higharc-eci-marksystems-integration/",
-        "what": "Integration ties 3D design, option pricing and ERP workflows to cut production builders' manual entry and errors",
-        "numbers": "3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/higharc-eci-marksystems-integration/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
         "title": "Sunlight, Weather and Childcare: A Year of New Data on Redfin Home Listings",
