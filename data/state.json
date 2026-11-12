@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-11 21:57 UTC",
+  "as_of": "2026-11-12 02:58 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Why the 2026 fake foreclosure crisis never happened",
+      "link": "https://www.housingwire.com/articles/why-the-2026-fake-foreclosure-crisis-never-happened/",
+      "published": "Thu, 12 Nov 2026"
+    },
+    {
       "title": "Education, not operations, are holding back reverse for purchase deals",
       "link": "https://www.housingwire.com/articles/reverse-purchase-closing-times/",
       "published": "Wed, 11 Nov 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Winning in a buyer’s market",
       "link": "https://www.housingwire.com/articles/winning-in-a-buyers-market/",
-      "published": "Wed, 11 Nov 2026"
-    },
-    {
-      "title": "If you own the asset, you should own the project data",
-      "link": "https://www.housingwire.com/articles/own-project-data-record/",
       "published": "Wed, 11 Nov 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Why the 2026 fake foreclosure crisis never happened",
+        "url": "https://www.housingwire.com/articles/why-the-2026-fake-foreclosure-crisis-never-happened/",
+        "what": "The New York Fed's Household Debt and Credit Report for Q3 shows how far off the predictions were",
+        "numbers": "3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/why-the-2026-fake-foreclosure-crisis-never-happened/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "October Marks the First Month in 3 Years With a Decline in U.S. Home-Sale Prices",
         "url": "https://www.redfin.com/news/home-prices-decline-october-2026/",
@@ -284,15 +293,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/higharc-eci-marksystems-integration/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Mamdani gives nonprofits first dibs on buying apartment buildings",
-        "url": "https://www.housingwire.com/articles/mamdani-nonprofits-first-dibs/",
-        "what": "Mamdani says COPA can deter predatory investors, while rent freeze and 2019 rent law lawsuits continue",
-        "numbers": "2019",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mamdani-nonprofits-first-dibs/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
       },
       {
         "title": "Sunlight, Weather and Childcare: A Year of New Data on Redfin Home Listings",
