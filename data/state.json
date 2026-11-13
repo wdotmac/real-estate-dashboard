@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-11-13 16:22 UTC",
+  "as_of": "2026-11-13 22:37 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.98,
-      "delta_bp_1d": 10.000000000000053
+      "yield_pct": 5.1,
+      "delta_bp_1d": 11.999999999999922
     },
     "mortgage_30y": {
       "rate_pct": 7.11,
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Why Compass is pulling its leaders from Realtor associations — and what it means for the industry",
-      "link": "https://www.housingwire.com/articles/compass-realtor-boards-mls-lawsuits/",
+      "title": "Legislative risk continues to cloud BTR’s capital outlook; here’s why",
+      "link": "https://www.housingwire.com/articles/btr-legislative-uncertainty-capital/",
       "published": "Fri, 13 Nov 2026"
     },
     {
-      "title": "8 real estate brokerage moves and tech launches to know this week",
-      "link": "https://www.housingwire.com/articles/brokerage-tech-roundup-nov-2026/",
+      "title": "Apartment rents diverge: San Francisco rises, the Sun Belt falls",
+      "link": "https://www.housingwire.com/articles/apartment-rents-diverge-2026/",
       "published": "Fri, 13 Nov 2026"
     },
     {
-      "title": "Rate, Better and First Horizon announce mortgage industry hires",
-      "link": "https://www.housingwire.com/articles/mortgage-industry-hires-rate-better/",
+      "title": "Movement Mortgage seeks to recoup $1.2M from former LOs",
+      "link": "https://www.housingwire.com/articles/movement-mortgage-1-2m-bonus-clawback/",
       "published": "Fri, 13 Nov 2026"
     },
     {
-      "title": "The cost of manual handoffs: Where homebuilder margins slip",
-      "link": "https://www.housingwire.com/articles/manual-handoffs-homebuilder-margins/",
+      "title": "PRMG hires 100-person team from Gold Star in organic growth push",
+      "link": "https://www.housingwire.com/articles/prmg-hires-responsive-mortgage-team/",
       "published": "Fri, 13 Nov 2026"
     },
     {
-      "title": "Compass sues 15 MLSs over office exclusive rules",
-      "link": "https://www.housingwire.com/articles/compass-15-mls-lawsuits/",
-      "published": "Thu, 12 Nov 2026"
+      "title": "Stubborn input inflation pressures builders despite energy pullback",
+      "link": "https://www.housingwire.com/articles/residential-construction-input-inflation-october-nahb/",
+      "published": "Fri, 13 Nov 2026"
     },
     {
-      "title": "California cities get firm notice: follow new housing laws, or else",
-      "link": "https://www.housingwire.com/articles/calhdf-pre-vote-letters/",
-      "published": "Thu, 12 Nov 2026"
+      "title": "Will the Fifth Circuit keep FinCEN anti-money laundering rule off the books?",
+      "link": "https://www.housingwire.com/articles/fincen-anti-money-laundering-real-estate-rule-appeal/",
+      "published": "Fri, 13 Nov 2026"
     },
     {
       "title": "The Generational Housing Divide: Millennials Had It Better Than Baby Boomers–Until the Pandemic Changed the Math",
@@ -202,6 +202,24 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Stubborn input inflation pressures builders despite energy pullback",
+        "url": "https://www.housingwire.com/articles/residential-construction-input-inflation-october-nahb/",
+        "what": "Residential construction input prices climb 10.4% year over year",
+        "numbers": "10.4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/residential-construction-input-inflation-october-nahb/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Why Midwest buyer demand is holding up in the face of higher mortgage rates",
+        "url": "https://www.housingwire.com/articles/midwest-buyer-demand-pending-sales/",
+        "what": "Several Midwest metros are keeping pending sales aligned with new listings, led by Columbus and Cincinnati",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/midwest-buyer-demand-pending-sales/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "The Generational Housing Divide: Millennials Had It Better Than Baby Boomers–Until the Pandemic Changed the Math",
         "url": "https://www.redfin.com/news/millennials-baby-boomers-housing-affordability/",
@@ -241,56 +259,56 @@
     ],
     "housing": [
       {
-        "title": "Rate, Better and First Horizon announce mortgage industry hires",
-        "url": "https://www.housingwire.com/articles/mortgage-industry-hires-rate-better/",
-        "what": "Rate adds a former CrossCountry Mortgage team with $85 million in annual production",
-        "numbers": "$85 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-industry-hires-rate-better/",
+        "title": "Legislative risk continues to cloud BTR’s capital outlook; here’s why",
+        "url": "https://www.housingwire.com/articles/btr-legislative-uncertainty-capital/",
+        "what": "NAA data shows BTR starts down 18.5% YoY, completions down 40.2% and sales volume down 51.5% as of Q3 2026",
+        "numbers": "18.5, 40.2, 51.5, 3, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/btr-legislative-uncertainty-capital/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Apartment rents diverge: San Francisco rises, the Sun Belt falls",
+        "url": "https://www.housingwire.com/articles/apartment-rents-diverge-2026/",
+        "what": "Northern California took the top 3 growth spots, and San Antonio posted the steepest decline among the 50 largest markets",
+        "numbers": "3, 50",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/apartment-rents-diverge-2026/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
+      {
+        "title": "Movement Mortgage seeks to recoup $1.2M from former LOs",
+        "url": "https://www.housingwire.com/articles/movement-mortgage-1-2m-bonus-clawback/",
+        "what": "Arbitrator backs lender on signing bonus payback tied to 3-year terms",
+        "numbers": "3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/movement-mortgage-1-2m-bonus-clawback/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "The cost of manual handoffs: Where homebuilder margins slip",
-        "url": "https://www.housingwire.com/articles/manual-handoffs-homebuilder-margins/",
-        "what": "Connected homebuilder data can help reduce pricing gaps, contract errors and the rework that puts pressure on homebuilder margins",
+        "title": "PRMG hires 100-person team from Gold Star in organic growth push",
+        "url": "https://www.housingwire.com/articles/prmg-hires-responsive-mortgage-team/",
+        "what": "Responsive Mortgage joins PRMG in a move indicative of ‘peak transition season’",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/manual-handoffs-homebuilder-margins/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/prmg-hires-responsive-mortgage-team/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "California cities get firm notice: follow new housing laws, or else",
-        "url": "https://www.housingwire.com/articles/calhdf-pre-vote-letters/",
-        "what": "The warnings are designed to build a paper trail if officials deny or downsize projects that meet state rules",
+        "title": "Builder credit conditions tighten for 19th straight quarter",
+        "url": "https://www.housingwire.com/articles/ad-c-credit-conditions-tighten-third-quarter-2026/",
+        "what": "NAHB: AD&C lending remains restrictive despite mixed rate movements; construction-to-perm loans grow",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/calhdf-pre-vote-letters/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ad-c-credit-conditions-tighten-third-quarter-2026/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Builders are looking for a bottom. 2027 plans can’t wait that long",
-        "url": "https://www.housingwire.com/articles/resale-rental-competition-builders/",
-        "what": "Months of supply climbed to 5.1, while new-home inventory remained elevated at 8.4 months, intensifying competition for buyers",
-        "numbers": "5.1,, 8.4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/resale-rental-competition-builders/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Why QXO sees homebuilders as its mainstay of future growth",
-        "url": "https://www.housingwire.com/articles/qxo-homebuilders-growth/",
-        "what": "Brad Jacobs says QXO has several paths to growth in 2027, and pointed to homebuilders as a key opportunity",
-        "numbers": "2027,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/qxo-homebuilders-growth/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Reverse mortgage executives read the tea leaves to decipher the industry’s next chapter",
-        "url": "https://www.housingwire.com/articles/reverse-forward-lo-distribution/",
-        "what": "Panelists cited tens of thousands of originators at the largest IMBs, pointing to education and tech tools to drive adoption in 2027",
-        "numbers": "2027",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-forward-lo-distribution/",
+        "title": "Mortgage industry expects CFPB servicing rule to narrow",
+        "url": "https://www.housingwire.com/articles/cfpb-revised-mortgage-servicing-loss-mitigation/",
+        "what": "Legal experts anticipate targeted changes to Regulation X rather than a full rewrite",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/cfpb-revised-mortgage-servicing-loss-mitigation/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -315,38 +333,20 @@
     ],
     "notables": [
       {
-        "title": "Why Compass is pulling its leaders from Realtor associations — and what it means for the industry",
-        "url": "https://www.housingwire.com/articles/compass-realtor-boards-mls-lawsuits/",
-        "what": "Analysts cite conflict concerns as Compass litigates against MLS and association-owned entities",
+        "title": "Will the Fifth Circuit keep FinCEN anti-money laundering rule off the books?",
+        "url": "https://www.housingwire.com/articles/fincen-anti-money-laundering-real-estate-rule-appeal/",
+        "what": "ALTA and TLTA filed amicus briefs after an East Texas judge vacated the rule in March",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-realtor-boards-mls-lawsuits/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fincen-anti-money-laundering-real-estate-rule-appeal/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "8 real estate brokerage moves and tech launches to know this week",
-        "url": "https://www.housingwire.com/articles/brokerage-tech-roundup-nov-2026/",
-        "what": "Moves include agent team moves, new market entries and new AI and compliance tools across multiple metros",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/brokerage-tech-roundup-nov-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Compass sues 15 MLSs over office exclusive rules",
-        "url": "https://www.housingwire.com/articles/compass-15-mls-lawsuits/",
-        "what": "The complaints mirror its CRMLS case and target fines tied to public marketing without MLS submission",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-15-mls-lawsuits/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Exclusive: ARA forms AI Task Force to back licensee-in-the-loop laws",
-        "url": "https://www.housingwire.com/articles/ara-licensee-in-loop-ai-laws/",
-        "what": "Exclusive: Jason Haber says ARA is launching an AI Task Force chaired by Dmitriy Kruglyak to draft policy and white papers",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ara-licensee-in-loop-ai-laws/",
+        "title": "IRS raises 401(k) limit for 2027 to $25,500",
+        "url": "https://www.housingwire.com/articles/irs-401-k-2027-limit/",
+        "what": "Catch-up limits for older workers rise to $8,500 and $11,750, while IRA limits stay at $7,500",
+        "numbers": "$8,500, $11,750,, $7,500",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/irs-401-k-2027-limit/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
