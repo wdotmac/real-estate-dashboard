@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-11-12 18:55 UTC",
+  "as_of": "2026-11-13 00:22 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.88,
-      "delta_bp_1d": 1.9999999999999574
+      "yield_pct": 4.98,
+      "delta_bp_1d": 10.000000000000053
     },
     "mortgage_30y": {
       "rate_pct": 7.11,
@@ -140,33 +140,33 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Newrez partners with Upgrade to add personal loans for servicing customers",
-      "link": "https://www.housingwire.com/articles/newrez-unsecured-personal-loans-upgrade/",
+      "title": "Compass sues 15 MLSs over office exclusive rules",
+      "link": "https://www.housingwire.com/articles/compass-15-mls-lawsuits/",
       "published": "Thu, 12 Nov 2026"
     },
     {
-      "title": "UWM rolls out 40 bps year-end pricing bonus, expands Bilt partnership",
-      "link": "https://www.housingwire.com/articles/uwm-40-pricing-incentive-bilt/",
+      "title": "California cities get firm notice: follow new housing laws, or else",
+      "link": "https://www.housingwire.com/articles/calhdf-pre-vote-letters/",
       "published": "Thu, 12 Nov 2026"
     },
     {
-      "title": "Compass pushes back on antitrust claims, says it owes StreetEasy nothing",
-      "link": "https://www.housingwire.com/articles/compass-antitrust-lawsuit-dismissal/",
+      "title": "Exclusive: ARA forms AI Task Force to back licensee-in-the-loop laws",
+      "link": "https://www.housingwire.com/articles/ara-licensee-in-loop-ai-laws/",
       "published": "Thu, 12 Nov 2026"
     },
     {
-      "title": "Figure loan volume rises 135% on platform growth after Kiavi acquisition",
-      "link": "https://www.housingwire.com/articles/figure-q3-marketplace-volume/",
+      "title": "Builders are looking for a bottom. 2027 plans can’t wait that long",
+      "link": "https://www.housingwire.com/articles/resale-rental-competition-builders/",
       "published": "Thu, 12 Nov 2026"
     },
     {
-      "title": "MLS roundup: AI, fraud prevention and data sharing take center stage",
-      "link": "https://www.housingwire.com/articles/mls-tech-ai-fraud-partnerships/",
+      "title": "Why QXO sees homebuilders as its mainstay of future growth",
+      "link": "https://www.housingwire.com/articles/qxo-homebuilders-growth/",
       "published": "Thu, 12 Nov 2026"
     },
     {
-      "title": "Unlock expands home equity agreements to Georgia",
-      "link": "https://www.housingwire.com/articles/unlock-expands-hea-georgia/",
+      "title": "Reverse mortgage executives read the tea leaves to decipher the industry’s next chapter",
+      "link": "https://www.housingwire.com/articles/reverse-forward-lo-distribution/",
       "published": "Thu, 12 Nov 2026"
     },
     {
@@ -202,24 +202,6 @@
   ],
   "feed_101020": {
     "macro": [
-      {
-        "title": "Zero-down VA loans help push veteran homeownership to 77%, study finds",
-        "url": "https://www.housingwire.com/articles/veteran-homeownership-va-loans-racial-wealth-gap/",
-        "what": "VA purchase loans and related federal, state and nonprofit programs enable zero-down financing, lower rates and flexible underwriting",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/veteran-homeownership-va-loans-racial-wealth-gap/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Existing home sales hit a new low as rates stay high",
-        "url": "https://www.housingwire.com/articles/existing-home-sales-october-375m/",
-        "what": "Inventory rose to 1.59 million, while the median price increased 0.4% to $416,700",
-        "numbers": "1.59 million, 0.4, $416,700",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/existing-home-sales-october-375m/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
       {
         "title": "The Generational Housing Divide: Millennials Had It Better Than Baby Boomers–Until the Pandemic Changed the Math",
         "url": "https://www.redfin.com/news/millennials-baby-boomers-housing-affordability/",
@@ -259,6 +241,42 @@
     ],
     "housing": [
       {
+        "title": "California cities get firm notice: follow new housing laws, or else",
+        "url": "https://www.housingwire.com/articles/calhdf-pre-vote-letters/",
+        "what": "The warnings are designed to build a paper trail if officials deny or downsize projects that meet state rules",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/calhdf-pre-vote-letters/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Builders are looking for a bottom. 2027 plans can’t wait that long",
+        "url": "https://www.housingwire.com/articles/resale-rental-competition-builders/",
+        "what": "Months of supply climbed to 5.1, while new-home inventory remained elevated at 8.4 months, intensifying competition for buyers",
+        "numbers": "5.1,, 8.4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/resale-rental-competition-builders/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Why QXO sees homebuilders as its mainstay of future growth",
+        "url": "https://www.housingwire.com/articles/qxo-homebuilders-growth/",
+        "what": "Brad Jacobs says QXO has several paths to growth in 2027, and pointed to homebuilders as a key opportunity",
+        "numbers": "2027,",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/qxo-homebuilders-growth/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
+        "title": "Reverse mortgage executives read the tea leaves to decipher the industry’s next chapter",
+        "url": "https://www.housingwire.com/articles/reverse-forward-lo-distribution/",
+        "what": "Panelists cited tens of thousands of originators at the largest IMBs, pointing to education and tech tools to drive adoption in 2027",
+        "numbers": "2027",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-forward-lo-distribution/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Compass pushes back on antitrust claims, says it owes StreetEasy nothing",
         "url": "https://www.housingwire.com/articles/compass-antitrust-lawsuit-dismissal/",
         "what": "The Robert Reffkin-helmed firm argues it lacks monopoly power and says the plaintiff cannot tie higher rent to its StreetEasy listing decision",
@@ -288,6 +306,24 @@
     ],
     "notables": [
       {
+        "title": "Compass sues 15 MLSs over office exclusive rules",
+        "url": "https://www.housingwire.com/articles/compass-15-mls-lawsuits/",
+        "what": "The complaints mirror its CRMLS case and target fines tied to public marketing without MLS submission",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-15-mls-lawsuits/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Exclusive: ARA forms AI Task Force to back licensee-in-the-loop laws",
+        "url": "https://www.housingwire.com/articles/ara-licensee-in-loop-ai-laws/",
+        "what": "Exclusive: Jason Haber says ARA is launching an AI Task Force chaired by Dmitriy Kruglyak to draft policy and white papers",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ara-licensee-in-loop-ai-laws/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
         "title": "Newrez partners with Upgrade to add personal loans for servicing customers",
         "url": "https://www.housingwire.com/articles/newrez-unsecured-personal-loans-upgrade/",
         "what": "Upgrade will originate and service the loans",
@@ -313,42 +349,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/figure-q3-marketplace-volume/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "MLS roundup: AI, fraud prevention and data sharing take center stage",
-        "url": "https://www.housingwire.com/articles/mls-tech-ai-fraud-partnerships/",
-        "what": "Updates span 1,600-subscriber fraud monitoring in Montana and AI property research for 15,000 agents in South Texas",
-        "numbers": "1,600, 15,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-tech-ai-fraud-partnerships/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Unlock expands home equity agreements to Georgia",
-        "url": "https://www.housingwire.com/articles/unlock-expands-hea-georgia/",
-        "what": "Unlock says 25,000 homeowners have used its HEA product",
-        "numbers": "25,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/unlock-expands-hea-georgia/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Better 2.0 plan hits reported $34.1M in cost savings",
-        "url": "https://www.housingwire.com/articles/better-34-1m-cost-savings/",
-        "what": "Company received five term sheets for $50M in debt financing tied to its U.K",
-        "numbers": "$50, 43",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/better-34-1m-cost-savings/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Datadog COO Adam Blitzer replaces Bill Emerson on Rocket board",
-        "url": "https://www.housingwire.com/articles/rocket-datadog-coo-adam-blitzer-to-board/",
-        "what": "Emerson is leaving to focus on the board of a nonprofit that will redevelop, own and operate Detroit’s Renaissance Center",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-datadog-coo-adam-blitzer-to-board/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
