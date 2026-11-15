@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-14 21:29 UTC",
+  "as_of": "2026-11-15 01:55 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "The seasonal decline in housing inventory is in full force",
+      "link": "https://www.housingwire.com/articles/inventory-seasonal-decline-rates/",
+      "published": "Sun, 15 Nov 2026"
+    },
+    {
       "title": "Legislative risk continues to cloud BTR’s capital outlook; here’s why",
       "link": "https://www.housingwire.com/articles/btr-legislative-uncertainty-capital/",
       "published": "Fri, 13 Nov 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Stubborn input inflation pressures builders despite energy pullback",
       "link": "https://www.housingwire.com/articles/residential-construction-input-inflation-october-nahb/",
-      "published": "Fri, 13 Nov 2026"
-    },
-    {
-      "title": "Will the Fifth Circuit keep FinCEN anti-money laundering rule off the books?",
-      "link": "https://www.housingwire.com/articles/fincen-anti-money-laundering-real-estate-rule-appeal/",
       "published": "Fri, 13 Nov 2026"
     },
     {
@@ -259,6 +259,15 @@
     ],
     "housing": [
       {
+        "title": "The seasonal decline in housing inventory is in full force",
+        "url": "https://www.housingwire.com/articles/inventory-seasonal-decline-rates/",
+        "what": "Inventory fell to 895,988, down 6,752 week to week, while new listings were 53,162 vs 56,569 last year.",
+        "numbers": "895,988,, 6,752, 53,162, 56,569",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/inventory-seasonal-decline-rates/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
         "title": "Legislative risk continues to cloud BTR’s capital outlook; here’s why",
         "url": "https://www.housingwire.com/articles/btr-legislative-uncertainty-capital/",
         "what": "NAA data shows BTR starts down 18.5% YoY, completions down 40.2% and sales volume down 51.5% as of Q3 2026",
@@ -338,15 +347,6 @@
         "what": "ALTA and TLTA filed amicus briefs after an East Texas judge vacated the rule in March",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/fincen-anti-money-laundering-real-estate-rule-appeal/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "IRS raises 401(k) limit for 2027 to $25,500",
-        "url": "https://www.housingwire.com/articles/irs-401-k-2027-limit/",
-        "what": "Catch-up limits for older workers rise to $8,500 and $11,750, while IRA limits stay at $7,500",
-        "numbers": "$8,500, $11,750,, $7,500",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/irs-401-k-2027-limit/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
