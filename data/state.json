@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-11-16 20:28 UTC",
+  "as_of": "2026-11-17 03:53 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.1,
-      "delta_bp_1d": 11.999999999999922
+      "yield_pct": 5.15,
+      "delta_bp_1d": 5.000000000000071
     },
     "mortgage_30y": {
       "rate_pct": 7.11,
@@ -140,6 +140,21 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "NAMB opposes VA loan fee increases in Senate bill",
+      "link": "https://www.housingwire.com/articles/namb-va-loan-fees-s4744/",
+      "published": "Mon, 16 Nov 2026"
+    },
+    {
+      "title": "Infill outlier Thomas James Homes ‘landmaxxes’ lots with ADUs",
+      "link": "https://www.housingwire.com/articles/thomas-james-homes-adus-seattle/",
+      "published": "Mon, 16 Nov 2026"
+    },
+    {
+      "title": "Ackman says Trump can still end GSE conservatorships, relist this term",
+      "link": "https://www.housingwire.com/articles/ackman-fannie-freddie-conservatorship-relisting-trump/",
+      "published": "Mon, 16 Nov 2026"
+    },
+    {
       "title": "Hedge fund pressures Invitation Homes to speed up home sales",
       "link": "https://www.housingwire.com/articles/land-buildings-invitation-homes-activist-letter/",
       "published": "Mon, 16 Nov 2026"
@@ -152,21 +167,6 @@
     {
       "title": "Alex Vidal to oversee REMAX Canada as company clarifies remit",
       "link": "https://www.housingwire.com/articles/vidal-leads-remax-canada/",
-      "published": "Mon, 16 Nov 2026"
-    },
-    {
-      "title": "CCM leader Brady Mullen’s playbook to win reverse mortgage referrals without a hard sales pitch",
-      "link": "https://www.housingwire.com/articles/ccm-leader-brady-mullens-playbook-to-win-reverse-mortgage-referrals-without-a-hard-sales-pitch/",
-      "published": "Mon, 16 Nov 2026"
-    },
-    {
-      "title": "Lenders increasingly pull with new credit score model, but few use it for pricing",
-      "link": "https://www.housingwire.com/articles/lenders-pull-but-dont-price-with-new-credit-score-model/",
-      "published": "Mon, 16 Nov 2026"
-    },
-    {
-      "title": "Using AI for listings, where marketing ends and misrepresentation begins",
-      "link": "https://www.housingwire.com/articles/ai-real-estate-misrepresentation-risk/",
       "published": "Mon, 16 Nov 2026"
     },
     {
@@ -250,6 +250,15 @@
     ],
     "housing": [
       {
+        "title": "Infill outlier Thomas James Homes ‘landmaxxes’ lots with ADUs",
+        "url": "https://www.housingwire.com/articles/thomas-james-homes-adus-seattle/",
+        "what": "The builder's PNW division leverages attached ADUs to maximize yard space and lower costs through shared walls and utilities",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/thomas-james-homes-adus-seattle/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Hedge fund pressures Invitation Homes to speed up home sales",
         "url": "https://www.housingwire.com/articles/land-buildings-invitation-homes-activist-letter/",
         "what": "Land & Buildings urges Invitation Homes to sell more houses, return $2B a year to shareholders",
@@ -293,18 +302,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-october-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Sunlight, Weather and Childcare: A Year of New Data on Redfin Home Listings",
-        "url": "https://www.redfin.com/news/sunlight-weather-and-childcare-a-year-of-new-data-on-redfin-home-listings/",
-        "what": "In 2026, Redfin added information about sunlight, weather, childcare access and more to home listings",
-        "numbers": "2026,",
-        "justified": "redfin.com — https://www.redfin.com/news/sunlight-weather-and-childcare-a-year-of-new-data-on-redfin-home-listings/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
+      {
+        "title": "NAMB opposes VA loan fee increases in Senate bill",
+        "url": "https://www.housingwire.com/articles/namb-va-loan-fees-s4744/",
+        "what": "Legislation passed by the House would lift IRRRL fees to 1.42% and make higher charges permanent",
+        "numbers": "1.42",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/namb-va-loan-fees-s4744/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Ackman says Trump can still end GSE conservatorships, relist this term",
+        "url": "https://www.housingwire.com/articles/ackman-fannie-freddie-conservatorship-relisting-trump/",
+        "what": "Pershing Square execs argue the administration has a political incentive to avoid ‘handing control’ of the GSEs",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ackman-fannie-freddie-conservatorship-relisting-trump/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Alex Vidal to oversee REMAX Canada as company clarifies remit",
         "url": "https://www.housingwire.com/articles/vidal-leads-remax-canada/",
@@ -322,33 +340,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/fha-mmi-fund-capital-ratio-2026-mip-cuts-pressure/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Why database touch plans fail real estate agents",
-        "url": "https://www.housingwire.com/articles/agent-database-touches/",
-        "what": "Touch plans aim to stay top of mind, but NAR survey results suggest trust and referrals drive most hiring decisions",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/agent-database-touches/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How real estate leaders can coach authenticity, not personas",
-        "url": "https://www.housingwire.com/articles/leaders-build-authenticity-culture/",
-        "what": "Consumers discount polish, while authentic communication helps agents stand out",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/leaders-build-authenticity-culture/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The Tuccori commission settlements were supposed to wrap up, then the judge asked for more",
-        "url": "https://www.housingwire.com/articles/tuccori-commission-settlements-delay/",
-        "what": "The court wants more support for how over $120 million in opt-in deals and separate defendant settlements were valued",
-        "numbers": "$120 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/tuccori-commission-settlements-delay/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ]
   }
