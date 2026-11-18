@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-18 04:19 UTC",
+  "as_of": "2026-11-18 13:57 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -11,8 +11,8 @@
       "delta_bp_wow": -6.99999999999994
     },
     "starts": {
-      "level_saar": 1221.0,
-      "mom": -0.052018633540372616
+      "level_saar": 1309.0,
+      "mom": 0.0990764063811922
     }
   },
   "permits": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Homeward cash-offer product launches nationwide for agents",
+      "link": "https://www.housingwire.com/articles/homeward-cash-offer-48-states/",
+      "published": "Wed, 18 Nov 2026"
+    },
+    {
+      "title": "Done right, verification gives loan officers their time back",
+      "link": "https://www.housingwire.com/articles/verification-automation-lo-time/",
+      "published": "Wed, 18 Nov 2026"
+    },
+    {
       "title": "Fitch affirms Finance of America’s CCC rating as key risks, leverage persist",
       "link": "https://www.housingwire.com/articles/fitch-affirms-finance-of-america-ccc-positive-outlook/",
       "published": "Tue, 17 Nov 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Dark Matter, ServiceLink add automated closing to Empower",
       "link": "https://www.housingwire.com/articles/dark-matter-servicelink-empower/",
-      "published": "Tue, 17 Nov 2026"
-    },
-    {
-      "title": "How reverse mortgage LOs can help borrowers to self-service",
-      "link": "https://www.housingwire.com/articles/reverse-mortgage-self-service-tools/",
-      "published": "Tue, 17 Nov 2026"
-    },
-    {
-      "title": "Prophetic unveils SiteAI Drafter for homebuilder land teams",
-      "link": "https://www.housingwire.com/articles/prophetic-launches-siteai-drafter/",
       "published": "Tue, 17 Nov 2026"
     },
     {
@@ -286,15 +286,6 @@
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mamdani’s NYC public housing rebuild plan skirts DSA rebuke",
-        "url": "https://www.housingwire.com/articles/mamdani-dsa-public-housing/",
-        "what": "The plan, which opponents call 'privatization,' replaces 2,056 apartments with about 3,500 new mixed-income units, with rent capped at 30% of income",
-        "numbers": "2,056, 3,500, 30",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mamdani-dsa-public-housing/",
-        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
-        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
-      },
-      {
         "title": "Just 3 Major U.S. Metros Are Seller’s Markets–the Fewest Since the Pandemic Freeze",
         "url": "https://www.redfin.com/news/buyers-vs-sellers-october-2026/",
         "what": "There are just 3 seller’s markets among the 50 most populous U.S",
@@ -305,6 +296,24 @@
       }
     ],
     "notables": [
+      {
+        "title": "Homeward cash-offer product launches nationwide for agents",
+        "url": "https://www.housingwire.com/articles/homeward-cash-offer-48-states/",
+        "what": "Agents can offer a cash close in as little as 14 days, with resale upside returned to the seller",
+        "numbers": "14",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homeward-cash-offer-48-states/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Done right, verification gives loan officers their time back",
+        "url": "https://www.housingwire.com/articles/verification-automation-lo-time/",
+        "what": "Connected income, employment and asset data reduces follow-up and keeps verification from becoming the LO’s task",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/verification-automation-lo-time/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Fitch affirms Finance of America’s CCC rating as key risks, leverage persist",
         "url": "https://www.housingwire.com/articles/fitch-affirms-finance-of-america-ccc-positive-outlook/",
@@ -320,15 +329,6 @@
         "what": "Tech integration comes as ServiceLink data shows 82% of borrowers expect a refi to close in less than a month",
         "numbers": "82",
         "justified": "housingwire.com — https://www.housingwire.com/articles/dark-matter-servicelink-empower/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Promise Robotics raises $25M to scale automated homebuilding",
-        "url": "https://www.housingwire.com/articles/promise-robotics-25m-katerra-economics/",
-        "what": "Promise says Series B funds the platform, not factories, as it plans a Phoenix facility and 2028 deployments",
-        "numbers": "2028",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/promise-robotics-25m-katerra-economics/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
