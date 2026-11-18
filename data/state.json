@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-11-18 13:57 UTC",
+  "as_of": "2026-11-18 21:56 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.12,
-      "delta_bp_1d": -3.000000000000025
+      "yield_pct": 5.1,
+      "delta_bp_1d": -2.000000000000046
     },
     "mortgage_30y": {
       "rate_pct": 7.11,
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Homeward cash-offer product launches nationwide for agents",
-      "link": "https://www.housingwire.com/articles/homeward-cash-offer-48-states/",
+      "title": "Why housing construction is sliding back toward COVID-era lows",
+      "link": "https://www.housingwire.com/articles/housing-permits-covid-lows/",
       "published": "Wed, 18 Nov 2026"
     },
     {
-      "title": "Done right, verification gives loan officers their time back",
-      "link": "https://www.housingwire.com/articles/verification-automation-lo-time/",
+      "title": "Single-family permits telegraph a weakened 2027 building pipeline",
+      "link": "https://www.housingwire.com/articles/single-family-permits-construction-pipeline/",
       "published": "Wed, 18 Nov 2026"
     },
     {
-      "title": "Fitch affirms Finance of America’s CCC rating as key risks, leverage persist",
-      "link": "https://www.housingwire.com/articles/fitch-affirms-finance-of-america-ccc-positive-outlook/",
-      "published": "Tue, 17 Nov 2026"
+      "title": "Newrez settles Washington state servicing case with $3 million payout",
+      "link": "https://www.housingwire.com/articles/newrez-washington-dfi-servicing-consent-order-3-million/",
+      "published": "Wed, 18 Nov 2026"
     },
     {
-      "title": "Fitch warns of growing balance-sheet strain at top nonbank mortgage firms",
-      "link": "https://www.housingwire.com/articles/fitch-nonbank-mortgage-ratings-outlook/",
-      "published": "Tue, 17 Nov 2026"
+      "title": "Why 2027 may turn into a land negotiation year for homebuilders",
+      "link": "https://www.housingwire.com/articles/2027-land-negotiations-builders/",
+      "published": "Wed, 18 Nov 2026"
     },
     {
-      "title": "Homebuilder confidence sinks to a 14-year low as buyers hibernate",
-      "link": "https://www.housingwire.com/articles/homebuilder-confidence-november-2026/",
-      "published": "Tue, 17 Nov 2026"
+      "title": "Guild’s Nora Guerra on helping baby boomers buy and rehab homes with reverse mortgages",
+      "link": "https://www.housingwire.com/articles/baby-boomers-reverse-mortgages/",
+      "published": "Wed, 18 Nov 2026"
     },
     {
-      "title": "Dark Matter, ServiceLink add automated closing to Empower",
-      "link": "https://www.housingwire.com/articles/dark-matter-servicelink-empower/",
-      "published": "Tue, 17 Nov 2026"
+      "title": "Real REMAX Group confirms additional layoffs after merger",
+      "link": "https://www.housingwire.com/articles/real-remax-group-layoffs/",
+      "published": "Wed, 18 Nov 2026"
     },
     {
       "title": "This Week Brings a Chance for Clarity After Mortgage Rates Rise on Hot Inflation and Hawkish Fed Remarks",
@@ -203,15 +203,6 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Mortgage rates jump to 7.58% as inflation lifts bond yields",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-jump-758/",
-        "what": "In the wake of October inflation gains, 30-year jumbo loans jumped to 7.87% and odds of a Fed hike in December hit 93%",
-        "numbers": "30, 7.87, 93",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-jump-758/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
         "title": "This Week Brings a Chance for Clarity After Mortgage Rates Rise on Hot Inflation and Hawkish Fed Remarks",
         "url": "https://www.redfin.com/news/rates-inflation-hawkish-fed/",
         "what": "In A Nutshell: Rates climbed last week following surprising commentary from the Fed potentially hinting at more hikes to come, but there are plenty of opportunities for Fed speakers to clarify their views this week",
@@ -241,49 +232,67 @@
     ],
     "housing": [
       {
-        "title": "Fitch warns of growing balance-sheet strain at top nonbank mortgage firms",
-        "url": "https://www.housingwire.com/articles/fitch-nonbank-mortgage-ratings-outlook/",
-        "what": "Rising leverage and MSR concentration drive negative outlooks",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fitch-nonbank-mortgage-ratings-outlook/",
+        "title": "Why housing construction is sliding back toward COVID-era lows",
+        "url": "https://www.housingwire.com/articles/housing-permits-covid-lows/",
+        "what": "October permits fell to a 1,295,000 annual rate, down 7.4% from September and 8.7% from 2025.",
+        "numbers": "1,295,000, 7.4, 8.7, 2025.",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-permits-covid-lows/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Homebuilder confidence sinks to a 14-year low as buyers hibernate",
-        "url": "https://www.housingwire.com/articles/homebuilder-confidence-november-2026/",
-        "what": "NAHB says 68% of builders used incentives in November, as builders face thinner margins and affordability constrained buyers",
-        "numbers": "68",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-confidence-november-2026/",
+        "title": "Single-family permits telegraph a weakened 2027 building pipeline",
+        "url": "https://www.housingwire.com/articles/single-family-permits-construction-pipeline/",
+        "what": "Single-family permits fell 8.7% to an annualized rate of 772,000 in October, the lowest level since January 2023",
+        "numbers": "8.7, 772,000, 2023",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/single-family-permits-construction-pipeline/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Why 2027 may turn into a land negotiation year for homebuilders",
+        "url": "https://www.housingwire.com/articles/2027-land-negotiations-builders/",
+        "what": "Scott Cox expects re-trades, softer takedowns, and more price discovery as incentives shift for land bankers and sellers",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/2027-land-negotiations-builders/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "How reverse mortgage LOs can help borrowers to self-service",
-        "url": "https://www.housingwire.com/articles/reverse-mortgage-self-service-tools/",
-        "what": "At NRMLA Annual, Celink said it plans to launch ReverseLink within weeks, while Onity is building infrastructure for digital draw requests",
+        "title": "Guild’s Nora Guerra on helping baby boomers buy and rehab homes with reverse mortgages",
+        "url": "https://www.housingwire.com/articles/baby-boomers-reverse-mortgages/",
+        "what": "At NRMLA Annual, Guerra targeted the factors causing lenders to miss boomers in today’s mortgage market",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/reverse-mortgage-self-service-tools/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/baby-boomers-reverse-mortgages/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Prophetic unveils SiteAI Drafter for homebuilder land teams",
-        "url": "https://www.housingwire.com/articles/prophetic-launches-siteai-drafter/",
-        "what": "The tool complements SiteAI’s existing automated layouts, allowing users to custom map road networks and product mixes",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/prophetic-launches-siteai-drafter/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Renting as a financial strategy, what real estate agents should know",
-        "url": "https://www.housingwire.com/articles/renting-financial-strategy-agents/",
-        "what": "Entrata leader Virginia Love says renters prioritize savings, debt payoff, and flexibility amid higher ownership costs",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/renting-financial-strategy-agents/",
+        "title": "The mortgage industry was built to help Americans buy homes. An aging America needs more from it.",
+        "url": "https://www.housingwire.com/articles/mortgage-industry-aging-in-place/",
+        "what": "Survey of 2,000 homeowners 55 plus shows 88% prioritize staying home and 90% prioritize independence",
+        "numbers": "2,000, 55, 88, 90",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-industry-aging-in-place/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Another record low for pending home sales, NAR index drops to 63",
+        "url": "https://www.housingwire.com/articles/pending-home-sales-record-low-2/",
+        "what": "Index fell 4.7% month over month and 16.7% year over year, West down 20.3% annually",
+        "numbers": "4.7, 16.7, 20.3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pending-home-sales-record-low-2/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Why buyers may get more from seller concessions than a price cut",
+        "url": "https://www.housingwire.com/articles/seller-concessions-vs-price-cut/",
+        "what": "Pending sales fell 7.3% in September, and Redfin shows them down 16.4% year over year into early November",
+        "numbers": "7.3, 16.4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/seller-concessions-vs-price-cut/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
       },
       {
         "title": "Just 3 Major U.S. Metros Are Seller’s Markets–the Fewest Since the Pandemic Freeze",
@@ -297,38 +306,29 @@
     ],
     "notables": [
       {
-        "title": "Homeward cash-offer product launches nationwide for agents",
-        "url": "https://www.housingwire.com/articles/homeward-cash-offer-48-states/",
-        "what": "Agents can offer a cash close in as little as 14 days, with resale upside returned to the seller",
-        "numbers": "14",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homeward-cash-offer-48-states/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Done right, verification gives loan officers their time back",
-        "url": "https://www.housingwire.com/articles/verification-automation-lo-time/",
-        "what": "Connected income, employment and asset data reduces follow-up and keeps verification from becoming the LO’s task",
+        "title": "Newrez settles Washington state servicing case with $3 million payout",
+        "url": "https://www.housingwire.com/articles/newrez-washington-dfi-servicing-consent-order-3-million/",
+        "what": "Newrez does not admit or deny any wrongdoing under the agreement",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/verification-automation-lo-time/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/newrez-washington-dfi-servicing-consent-order-3-million/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Fitch affirms Finance of America’s CCC rating as key risks, leverage persist",
-        "url": "https://www.housingwire.com/articles/fitch-affirms-finance-of-america-ccc-positive-outlook/",
-        "what": "Fitch says assigning a higher rating to FOA would require a larger liquidity cushion and sustained profitability",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fitch-affirms-finance-of-america-ccc-positive-outlook/",
+        "title": "Real REMAX Group confirms additional layoffs after merger",
+        "url": "https://www.housingwire.com/articles/real-remax-group-layoffs/",
+        "what": "Executives previously cited 14% headcount cuts and more than $40 million in annualized cost savings",
+        "numbers": "14, $40 million",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/real-remax-group-layoffs/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Dark Matter, ServiceLink add automated closing to Empower",
-        "url": "https://www.housingwire.com/articles/dark-matter-servicelink-empower/",
-        "what": "Tech integration comes as ServiceLink data shows 82% of borrowers expect a refi to close in less than a month",
-        "numbers": "82",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/dark-matter-servicelink-empower/",
+        "title": "How far can brokerages go when clawing back commissions from departing agents?",
+        "url": "https://www.housingwire.com/articles/q2-2026-agent-moves-chinatti/",
+        "what": "Plaintiff agents cite over $350,000 paid in 75%-85% referral fees paid to former brokerage",
+        "numbers": "$350,000, 75, 85",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/q2-2026-agent-moves-chinatti/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
