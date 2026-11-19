@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-19 03:26 UTC",
+  "as_of": "2026-11-19 13:05 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,26 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Multifamily starts jump in October as analysts question data",
+      "link": "https://www.housingwire.com/articles/multifamily-starts-october-data/",
+      "published": "Thu, 19 Nov 2026"
+    },
+    {
+      "title": "Seller impersonation fraud is no longer a niche title problem",
+      "link": "https://www.housingwire.com/articles/seller-impersonation-fraud-title/",
+      "published": "Thu, 19 Nov 2026"
+    },
+    {
+      "title": "The housing cliff is here.",
+      "link": "https://www.housingwire.com/articles/housing-cliff-mortgage-locks/",
+      "published": "Thu, 19 Nov 2026"
+    },
+    {
+      "title": "What are we so afraid of?",
+      "link": "https://www.housingwire.com/articles/financial-fear-homebuyers/",
+      "published": "Thu, 19 Nov 2026"
+    },
+    {
       "title": "Fix-and-flip margins tighten in Q3 as prices dip and costs rise",
       "link": "https://www.housingwire.com/articles/fix-and-flip-margins-q3/",
       "published": "Wed, 18 Nov 2026"
@@ -147,26 +167,6 @@
     {
       "title": "Why housing construction is sliding back toward COVID-era lows",
       "link": "https://www.housingwire.com/articles/housing-permits-covid-lows/",
-      "published": "Wed, 18 Nov 2026"
-    },
-    {
-      "title": "Single-family permits telegraph a weakened 2027 building pipeline",
-      "link": "https://www.housingwire.com/articles/single-family-permits-construction-pipeline/",
-      "published": "Wed, 18 Nov 2026"
-    },
-    {
-      "title": "Newrez settles Washington state servicing case with $3 million payout",
-      "link": "https://www.housingwire.com/articles/newrez-washington-dfi-servicing-consent-order-3-million/",
-      "published": "Wed, 18 Nov 2026"
-    },
-    {
-      "title": "Why 2027 may turn into a land negotiation year for homebuilders",
-      "link": "https://www.housingwire.com/articles/2027-land-negotiations-builders/",
-      "published": "Wed, 18 Nov 2026"
-    },
-    {
-      "title": "Guild’s Nora Guerra on helping baby boomers buy and rehab homes with reverse mortgages",
-      "link": "https://www.housingwire.com/articles/baby-boomers-reverse-mortgages/",
       "published": "Wed, 18 Nov 2026"
     },
     {
@@ -219,18 +219,27 @@
         "justified": "redfin.com — https://www.redfin.com/news/millennials-baby-boomers-housing-affordability/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Monthly Mortgage Payments Fall to Lowest Level in 6 Weeks as Home Prices Keep Dipping",
-        "url": "https://www.redfin.com/news/housing-market-update-mortgage-payments-prices-dip/",
-        "what": "Pending home sales held steady from a week earlier as prices and mortgage rates fell–but rates have since ticked back up",
-        "numbers": "8, $388,613,, 0.9, 6",
-        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-mortgage-payments-prices-dip/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
+      {
+        "title": "Multifamily starts jump in October as analysts question data",
+        "url": "https://www.housingwire.com/articles/multifamily-starts-october-data/",
+        "what": "Starts hit a 433,000 annual rate, but permits slipped to 475,000 and developers expect fewer groundbreakings into 2027",
+        "numbers": "433,000, 475,000, 2027",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/multifamily-starts-october-data/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "The housing cliff is here.",
+        "url": "https://www.housingwire.com/articles/housing-cliff-mortgage-locks/",
+        "what": "MBA apps fell 42% YoY, pending home sales hit a record low while GSE and FHA capital levels rose",
+        "numbers": "42",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-cliff-mortgage-locks/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
       {
         "title": "Why housing construction is sliding back toward COVID-era lows",
         "url": "https://www.housingwire.com/articles/housing-permits-covid-lows/",
@@ -266,36 +275,27 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/baby-boomers-reverse-mortgages/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The mortgage industry was built to help Americans buy homes. An aging America needs more from it.",
-        "url": "https://www.housingwire.com/articles/mortgage-industry-aging-in-place/",
-        "what": "Survey of 2,000 homeowners 55 plus shows 88% prioritize staying home and 90% prioritize independence",
-        "numbers": "2,000, 55, 88, 90",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-industry-aging-in-place/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Another record low for pending home sales, NAR index drops to 63",
-        "url": "https://www.housingwire.com/articles/pending-home-sales-record-low-2/",
-        "what": "Index fell 4.7% month over month and 16.7% year over year, West down 20.3% annually",
-        "numbers": "4.7, 16.7, 20.3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pending-home-sales-record-low-2/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Just 3 Major U.S. Metros Are Seller’s Markets–the Fewest Since the Pandemic Freeze",
-        "url": "https://www.redfin.com/news/buyers-vs-sellers-october-2026/",
-        "what": "There are just 3 seller’s markets among the 50 most populous U.S",
-        "numbers": "3, 50, 2013,, 71",
-        "justified": "redfin.com — https://www.redfin.com/news/buyers-vs-sellers-october-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ],
     "notables": [
+      {
+        "title": "Seller impersonation fraud is no longer a niche title problem",
+        "url": "https://www.housingwire.com/articles/seller-impersonation-fraud-title/",
+        "what": "New survey data shows attempts rose from 28% to 59% in 2 years, with layered detection and curative work key",
+        "numbers": "28, 59, 2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/seller-impersonation-fraud-title/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "What are we so afraid of?",
+        "url": "https://www.housingwire.com/articles/financial-fear-homebuyers/",
+        "what": "Money scares Americans more than death, and it’s costing you business",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/financial-fear-homebuyers/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Fix-and-flip margins tighten in Q3 as prices dip and costs rise",
         "url": "https://www.housingwire.com/articles/fix-and-flip-margins-q3/",
@@ -311,24 +311,6 @@
         "what": "Newrez does not admit or deny any wrongdoing under the agreement",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/newrez-washington-dfi-servicing-consent-order-3-million/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Real REMAX Group confirms additional layoffs after merger",
-        "url": "https://www.housingwire.com/articles/real-remax-group-layoffs/",
-        "what": "Executives previously cited 14% headcount cuts and more than $40 million in annualized cost savings",
-        "numbers": "14, $40 million",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/real-remax-group-layoffs/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "How far can brokerages go when clawing back commissions from departing agents?",
-        "url": "https://www.housingwire.com/articles/q2-2026-agent-moves-chinatti/",
-        "what": "Plaintiff agents cite over $350,000 paid in 75%-85% referral fees paid to former brokerage",
-        "numbers": "$350,000, 75, 85",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/q2-2026-agent-moves-chinatti/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
