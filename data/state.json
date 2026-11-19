@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-18 21:56 UTC",
+  "as_of": "2026-11-19 03:26 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Fix-and-flip margins tighten in Q3 as prices dip and costs rise",
+      "link": "https://www.housingwire.com/articles/fix-and-flip-margins-q3/",
+      "published": "Wed, 18 Nov 2026"
+    },
+    {
       "title": "Why housing construction is sliding back toward COVID-era lows",
       "link": "https://www.housingwire.com/articles/housing-permits-covid-lows/",
       "published": "Wed, 18 Nov 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Guild’s Nora Guerra on helping baby boomers buy and rehab homes with reverse mortgages",
       "link": "https://www.housingwire.com/articles/baby-boomers-reverse-mortgages/",
-      "published": "Wed, 18 Nov 2026"
-    },
-    {
-      "title": "Real REMAX Group confirms additional layoffs after merger",
-      "link": "https://www.housingwire.com/articles/real-remax-group-layoffs/",
       "published": "Wed, 18 Nov 2026"
     },
     {
@@ -286,15 +286,6 @@
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "Why buyers may get more from seller concessions than a price cut",
-        "url": "https://www.housingwire.com/articles/seller-concessions-vs-price-cut/",
-        "what": "Pending sales fell 7.3% in September, and Redfin shows them down 16.4% year over year into early November",
-        "numbers": "7.3, 16.4",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/seller-concessions-vs-price-cut/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
         "title": "Just 3 Major U.S. Metros Are Seller’s Markets–the Fewest Since the Pandemic Freeze",
         "url": "https://www.redfin.com/news/buyers-vs-sellers-october-2026/",
         "what": "There are just 3 seller’s markets among the 50 most populous U.S",
@@ -305,6 +296,15 @@
       }
     ],
     "notables": [
+      {
+        "title": "Fix-and-flip margins tighten in Q3 as prices dip and costs rise",
+        "url": "https://www.housingwire.com/articles/fix-and-flip-margins-q3/",
+        "what": "Only 23% of investors expect good sales in the next six months, while 40% report lower prices than a year ago",
+        "numbers": "23, 40",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fix-and-flip-margins-q3/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Newrez settles Washington state servicing case with $3 million payout",
         "url": "https://www.housingwire.com/articles/newrez-washington-dfi-servicing-consent-order-3-million/",
