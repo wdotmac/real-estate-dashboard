@@ -1,14 +1,14 @@
 {
-  "as_of": "2026-11-19 13:05 UTC",
+  "as_of": "2026-11-19 21:33 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.1,
-      "delta_bp_1d": -2.000000000000046
+      "yield_pct": 5.07,
+      "delta_bp_1d": -2.999999999999936
     },
     "mortgage_30y": {
-      "rate_pct": 7.11,
-      "delta_bp_wow": -6.99999999999994
+      "rate_pct": 7.28,
+      "delta_bp_wow": 16.999999999999993
     },
     "starts": {
       "level_saar": 1309.0,
@@ -140,34 +140,39 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Multifamily starts jump in October as analysts question data",
-      "link": "https://www.housingwire.com/articles/multifamily-starts-october-data/",
+      "title": "Why some regional brokerages are avoiding ancillary services",
+      "link": "https://www.housingwire.com/articles/brokerages-ancillary-services-strategy/",
       "published": "Thu, 19 Nov 2026"
     },
     {
-      "title": "Seller impersonation fraud is no longer a niche title problem",
-      "link": "https://www.housingwire.com/articles/seller-impersonation-fraud-title/",
+      "title": "Housing groups urge FHFA to delay condo reserve rule until 2028",
+      "link": "https://www.housingwire.com/articles/fhfa-condo-reserve-rule-delay/",
       "published": "Thu, 19 Nov 2026"
     },
     {
-      "title": "The housing cliff is here.",
-      "link": "https://www.housingwire.com/articles/housing-cliff-mortgage-locks/",
+      "title": "Senate committee advances Matt Jones’ nomination as FHA commissioner",
+      "link": "https://www.housingwire.com/articles/matt-jones-fha-commissioner-nomination/",
       "published": "Thu, 19 Nov 2026"
     },
     {
-      "title": "What are we so afraid of?",
-      "link": "https://www.housingwire.com/articles/financial-fear-homebuyers/",
+      "title": "Broker Action Coalition pushes for QM change on compensation cap",
+      "link": "https://www.housingwire.com/articles/bac-qm-broker-compensation/",
       "published": "Thu, 19 Nov 2026"
     },
     {
-      "title": "Fix-and-flip margins tighten in Q3 as prices dip and costs rise",
-      "link": "https://www.housingwire.com/articles/fix-and-flip-margins-q3/",
-      "published": "Wed, 18 Nov 2026"
+      "title": "Why Compass wants the MLS antitrust dispute out of New York",
+      "link": "https://www.housingwire.com/articles/compass-mls-antitrust-venue-fight/",
+      "published": "Thu, 19 Nov 2026"
     },
     {
-      "title": "Why housing construction is sliding back toward COVID-era lows",
-      "link": "https://www.housingwire.com/articles/housing-permits-covid-lows/",
-      "published": "Wed, 18 Nov 2026"
+      "title": "Mortgage delinquencies rise to 4.42% in Q3 2026",
+      "link": "https://www.housingwire.com/articles/mortgage-delinquencies-q3-2026/",
+      "published": "Thu, 19 Nov 2026"
+    },
+    {
+      "title": "Monthly Housing Payments Fell to Lowest Level in Nearly 2 Months–But Rates Are Climbing Again",
+      "link": "https://www.redfin.com/news/housing-market-update-monthly-housing-payments-slip/",
+      "published": "Thu, 19 Nov 2026"
     },
     {
       "title": "This Week Brings a Chance for Clarity After Mortgage Rates Rise on Hot Inflation and Hawkish Fed Remarks",
@@ -193,15 +198,19 @@
       "title": "October Marks the First Month in 3 Years With a Decline in U.S. Home-Sale Prices",
       "link": "https://www.redfin.com/news/home-prices-decline-october-2026/",
       "published": "Tue, 10 Nov 2026"
-    },
-    {
-      "title": "Hot Inflation Report and Hawkish Comments From Fed’s Waller Put a 50 Bps December Hike in Play",
-      "link": "https://www.redfin.com/news/hot-inflation-report-and-hawkish-comments-from-feds-waller-put-a-50-bps-december-hike-in-play/",
-      "published": "Tue, 10 Nov 2026"
     }
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Monthly Housing Payments Fell to Lowest Level in Nearly 2 Months–But Rates Are Climbing Again",
+        "url": "https://www.redfin.com/news/housing-market-update-monthly-housing-payments-slip/",
+        "what": "Home prices are slipping and house hunters have more room to negotiate",
+        "numbers": "15, 2",
+        "justified": "redfin.com — https://www.redfin.com/news/housing-market-update-monthly-housing-payments-slip/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "This Week Brings a Chance for Clarity After Mortgage Rates Rise on Hot Inflation and Hawkish Fed Remarks",
         "url": "https://www.redfin.com/news/rates-inflation-hawkish-fed/",
@@ -210,107 +219,98 @@
         "justified": "redfin.com — https://www.redfin.com/news/rates-inflation-hawkish-fed/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "The Generational Housing Divide: Millennials Had It Better Than Baby Boomers–Until the Pandemic Changed the Math",
-        "url": "https://www.redfin.com/news/millennials-baby-boomers-housing-affordability/",
-        "what": "Timing made a big difference for millennials",
-        "numbers": "2022, 35",
-        "justified": "redfin.com — https://www.redfin.com/news/millennials-baby-boomers-housing-affordability/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "housing": [
       {
-        "title": "Multifamily starts jump in October as analysts question data",
-        "url": "https://www.housingwire.com/articles/multifamily-starts-october-data/",
-        "what": "Starts hit a 433,000 annual rate, but permits slipped to 475,000 and developers expect fewer groundbreakings into 2027",
-        "numbers": "433,000, 475,000, 2027",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/multifamily-starts-october-data/",
+        "title": "Housing groups urge FHFA to delay condo reserve rule until 2028",
+        "url": "https://www.housingwire.com/articles/fhfa-condo-reserve-rule-delay/",
+        "what": "Coalition wants Fannie and Freddie rule shift to be pushed to 2028 as reserves rise from 10% to 15%",
+        "numbers": "2028, 10, 15",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-condo-reserve-rule-delay/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Mortgage delinquencies rise to 4.42% in Q3 2026",
+        "url": "https://www.housingwire.com/articles/mortgage-delinquencies-q3-2026/",
+        "what": "Foreclosure starts rose to 0.21%, while loans in foreclosure increased to 0.71%",
+        "numbers": "0.21, 0.71",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-delinquencies-q3-2026/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "The housing cliff is here.",
-        "url": "https://www.housingwire.com/articles/housing-cliff-mortgage-locks/",
-        "what": "MBA apps fell 42% YoY, pending home sales hit a record low while GSE and FHA capital levels rose",
-        "numbers": "42",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-cliff-mortgage-locks/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+        "title": "Zoning reform is remaking parking lots into a housing paradise",
+        "url": "https://www.housingwire.com/articles/parking-lot-redevelopment-zoning/",
+        "what": "Commercial parking makes up a 26% median share of downtown land in large U.S",
+        "numbers": "26",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/parking-lot-redevelopment-zoning/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Why housing construction is sliding back toward COVID-era lows",
-        "url": "https://www.housingwire.com/articles/housing-permits-covid-lows/",
-        "what": "October permits fell to a 1,295,000 annual rate, down 7.4% from September and 8.7% from 2025.",
-        "numbers": "1,295,000, 7.4, 8.7, 2025.",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-permits-covid-lows/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Single-family permits telegraph a weakened 2027 building pipeline",
-        "url": "https://www.housingwire.com/articles/single-family-permits-construction-pipeline/",
-        "what": "Single-family permits fell 8.7% to an annualized rate of 772,000 in October, the lowest level since January 2023",
-        "numbers": "8.7, 772,000, 2023",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/single-family-permits-construction-pipeline/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Why 2027 may turn into a land negotiation year for homebuilders",
-        "url": "https://www.housingwire.com/articles/2027-land-negotiations-builders/",
-        "what": "Scott Cox expects re-trades, softer takedowns, and more price discovery as incentives shift for land bankers and sellers",
+        "title": "Exclusive: ICE Mortgage Technology appoints AI strategy, product leaders",
+        "url": "https://www.housingwire.com/articles/ice-mortgage-technology-vice-presidents/",
+        "what": "Kiran Sahota and Leslie Peeler are joining the company",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/2027-land-negotiations-builders/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "Guild’s Nora Guerra on helping baby boomers buy and rehab homes with reverse mortgages",
-        "url": "https://www.housingwire.com/articles/baby-boomers-reverse-mortgages/",
-        "what": "At NRMLA Annual, Guerra targeted the factors causing lenders to miss boomers in today’s mortgage market",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/baby-boomers-reverse-mortgages/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-mortgage-technology-vice-presidents/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
       {
-        "title": "Seller impersonation fraud is no longer a niche title problem",
-        "url": "https://www.housingwire.com/articles/seller-impersonation-fraud-title/",
-        "what": "New survey data shows attempts rose from 28% to 59% in 2 years, with layered detection and curative work key",
-        "numbers": "28, 59, 2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/seller-impersonation-fraud-title/",
+        "title": "Why some regional brokerages are avoiding ancillary services",
+        "url": "https://www.housingwire.com/articles/brokerages-ancillary-services-strategy/",
+        "what": "Regional firms cite agent choice, compliance risk, and marketing partnerships over joint ventures",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/brokerages-ancillary-services-strategy/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "What are we so afraid of?",
-        "url": "https://www.housingwire.com/articles/financial-fear-homebuyers/",
-        "what": "Money scares Americans more than death, and it’s costing you business",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/financial-fear-homebuyers/",
+        "title": "Senate committee advances Matt Jones’ nomination as FHA commissioner",
+        "url": "https://www.housingwire.com/articles/matt-jones-fha-commissioner-nomination/",
+        "what": "His nomination advanced to the full Senate on a 13-11 vote split along party lines",
+        "numbers": "13, 11",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/matt-jones-fha-commissioner-nomination/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Fix-and-flip margins tighten in Q3 as prices dip and costs rise",
-        "url": "https://www.housingwire.com/articles/fix-and-flip-margins-q3/",
-        "what": "Only 23% of investors expect good sales in the next six months, while 40% report lower prices than a year ago",
-        "numbers": "23, 40",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fix-and-flip-margins-q3/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+        "title": "Broker Action Coalition pushes for QM change on compensation cap",
+        "url": "https://www.housingwire.com/articles/bac-qm-broker-compensation/",
+        "what": "White paper argues lender-paid broker pay should match retail LO treatment under the 3% points and fees cap",
+        "numbers": "3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/bac-qm-broker-compensation/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Newrez settles Washington state servicing case with $3 million payout",
-        "url": "https://www.housingwire.com/articles/newrez-washington-dfi-servicing-consent-order-3-million/",
-        "what": "Newrez does not admit or deny any wrongdoing under the agreement",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/newrez-washington-dfi-servicing-consent-order-3-million/",
+        "title": "Why Compass wants the MLS antitrust dispute out of New York",
+        "url": "https://www.housingwire.com/articles/compass-mls-antitrust-venue-fight/",
+        "what": "Plaintiffs argue a single ruling on listing submission rules could bind Compass and reduce inconsistent outcomes across 11 districts",
+        "numbers": "11",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-mls-antitrust-venue-fight/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Rocket, Mr. Cooper to pay $6.75M over cybersecurity lapses in New York",
+        "url": "https://www.housingwire.com/articles/rocket-mr-cooper-nydfs-cybersecurity-settlement/",
+        "what": "Regulator cites data exposure, 72-hour rule violations in cyber cases",
+        "numbers": "72",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-mr-cooper-nydfs-cybersecurity-settlement/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
+      {
+        "title": "Covius rolls out capital markets dashboard for bulk title reviews",
+        "url": "https://www.housingwire.com/articles/covius-capital-markets-dashboard-title/",
+        "what": "Loanscape CM validates 100-plus title report attributes to flag loans needing deeper review",
+        "numbers": "100",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/covius-capital-markets-dashboard-title/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
