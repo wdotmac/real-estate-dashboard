@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-20 11:47 UTC",
+  "as_of": "2026-11-20 20:18 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Which way is down, revisited",
-      "link": "https://www.housingwire.com/articles/delinquencies-home-prices-2026/",
+      "title": "West Capital Lending hit with 1099 independent contractor suit",
+      "link": "https://www.housingwire.com/articles/wcl-contractor-1099-suit-lo-pay-models/",
       "published": "Fri, 20 Nov 2026"
     },
     {
-      "title": "Texas’ population boom is opening doors for new real estate agents",
-      "link": "https://www.housingwire.com/articles/texas-population-boom-agents/",
+      "title": "Pulley raises $64 million to speed permitting and development",
+      "link": "https://www.housingwire.com/articles/pulley-raises-64-million-permitting/",
       "published": "Fri, 20 Nov 2026"
     },
     {
-      "title": "Rate’s Jesse Allen: Reverse mortgage lenders should plan for the ‘down case,’ not FHA relief",
-      "link": "https://www.housingwire.com/articles/allen-reverse-mortgage-expand-products/",
-      "published": "Thu, 19 Nov 2026"
+      "title": "My Home Communities maps Southeast growth beyond Georgia",
+      "link": "https://www.housingwire.com/articles/my-home-communities-expands/",
+      "published": "Fri, 20 Nov 2026"
     },
     {
-      "title": "New CEO at Villa eyes manufactured housing, ADU opportunity",
-      "link": "https://www.housingwire.com/articles/villas-new-ceo-growth-strategy/",
-      "published": "Thu, 19 Nov 2026"
+      "title": "Does your brokerage need a mortgage servicing arm to keep past clients engaged?",
+      "link": "https://www.housingwire.com/articles/brokerages-retention-without-servicing/",
+      "published": "Fri, 20 Nov 2026"
     },
     {
-      "title": "Why some regional brokerages are avoiding ancillary services",
-      "link": "https://www.housingwire.com/articles/brokerages-ancillary-services-strategy/",
-      "published": "Thu, 19 Nov 2026"
+      "title": "America builds cool things, except houses",
+      "link": "https://www.housingwire.com/articles/homebuilding-progress-pitfalls/",
+      "published": "Fri, 20 Nov 2026"
     },
     {
-      "title": "Housing groups urge FHFA to delay condo reserve rule until 2028",
-      "link": "https://www.housingwire.com/articles/fhfa-condo-reserve-rule-delay/",
-      "published": "Thu, 19 Nov 2026"
+      "title": "House bill takes on judicial foreclosure requirements for FHA loans in non-judicial states",
+      "link": "https://www.housingwire.com/articles/housing-process-parity-act-fha/",
+      "published": "Fri, 20 Nov 2026"
     },
     {
       "title": "Monthly Housing Payments Fell to Lowest Level in Nearly 2 Months–But Rates Are Climbing Again",
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [
       {
+        "title": "House bill takes on judicial foreclosure requirements for FHA loans in non-judicial states",
+        "url": "https://www.housingwire.com/articles/housing-process-parity-act-fha/",
+        "what": "Representatives say bill would cut federal red tape and increase the supply of available homes",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/housing-process-parity-act-fha/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
         "title": "Monthly Housing Payments Fell to Lowest Level in Nearly 2 Months–But Rates Are Climbing Again",
         "url": "https://www.redfin.com/news/housing-market-update-monthly-housing-payments-slip/",
         "what": "Home prices are slipping and house hunters have more room to negotiate",
@@ -223,96 +232,87 @@
     ],
     "housing": [
       {
-        "title": "Which way is down, revisited",
-        "url": "https://www.housingwire.com/articles/delinquencies-home-prices-2026/",
-        "what": "Do delinquencies cause price declines, or the reverse",
+        "title": "Pulley raises $64 million to speed permitting and development",
+        "url": "https://www.housingwire.com/articles/pulley-raises-64-million-permitting/",
+        "what": "Pulley will use the capital to expand its permitting services and launch tools for site selection and AI-driven drawing review",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/delinquencies-home-prices-2026/",
-        "why": "Price trend signals wealth effects and buyer/seller power.",
-        "market": "Firm prices help builder margins; softness hits comps and sentiment."
-      },
-      {
-        "title": "Texas’ population boom is opening doors for new real estate agents",
-        "url": "https://www.housingwire.com/articles/texas-population-boom-agents/",
-        "what": "Texas added 391,243 people in 12 months and authorized 210,217 new-home permits in 2025",
-        "numbers": "391,243, 12, 210,217, 2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/texas-population-boom-agents/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/pulley-raises-64-million-permitting/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Rate’s Jesse Allen: Reverse mortgage lenders should plan for the ‘down case,’ not FHA relief",
-        "url": "https://www.housingwire.com/articles/allen-reverse-mortgage-expand-products/",
-        "what": "NRMLA board member and Rate leader says proprietary products, reverse for purchase financing and responsible equity release are where growth lies heading into 2027",
-        "numbers": "2027",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/allen-reverse-mortgage-expand-products/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "New CEO at Villa eyes manufactured housing, ADU opportunity",
-        "url": "https://www.housingwire.com/articles/villas-new-ceo-growth-strategy/",
-        "what": "David Messenger will steer Villa into larger manufactured home communities, tapping finished, entitled land to limit entitlement risk",
+        "title": "My Home Communities maps Southeast growth beyond Georgia",
+        "url": "https://www.housingwire.com/articles/my-home-communities-expands/",
+        "what": "The Georgia-based builder is building communities in Gaffney, SC, Summerdale, AL and Milton, FL",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/villas-new-ceo-growth-strategy/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "justified": "housingwire.com — https://www.housingwire.com/articles/my-home-communities-expands/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Housing groups urge FHFA to delay condo reserve rule until 2028",
-        "url": "https://www.housingwire.com/articles/fhfa-condo-reserve-rule-delay/",
-        "what": "Coalition wants Fannie and Freddie rule shift to be pushed to 2028 as reserves rise from 10% to 15%",
-        "numbers": "2028, 10, 15",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-condo-reserve-rule-delay/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Mortgage delinquencies rise to 4.42% in Q3 2026",
-        "url": "https://www.housingwire.com/articles/mortgage-delinquencies-q3-2026/",
-        "what": "Foreclosure starts rose to 0.21%, while loans in foreclosure increased to 0.71%",
-        "numbers": "0.21, 0.71",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-delinquencies-q3-2026/",
+        "title": "Does your brokerage need a mortgage servicing arm to keep past clients engaged?",
+        "url": "https://www.housingwire.com/articles/brokerages-retention-without-servicing/",
+        "what": "Firms highlighted tactics from home value tools and seasonal reminders to branded home handbooks and education driven content partnerships",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/brokerages-retention-without-servicing/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "New-home mortgage applications fall 13.6% in October",
+        "url": "https://www.housingwire.com/articles/new-home-mortgage-applications-fall-october/",
+        "what": "MBA reports a fourth consecutive annual decline in applications for newly built homes",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-mortgage-applications-fall-october/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "How brokers can support new agents without overspending",
+        "url": "https://www.housingwire.com/articles/support-agents-without-overspending/",
+        "what": "A 3-part system, training, personal development and mentorship, can cut churn and speed ramp time",
+        "numbers": "3",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/support-agents-without-overspending/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       }
     ],
     "notables": [
       {
-        "title": "Why some regional brokerages are avoiding ancillary services",
-        "url": "https://www.housingwire.com/articles/brokerages-ancillary-services-strategy/",
-        "what": "Regional firms cite agent choice, compliance risk, and marketing partnerships over joint ventures",
+        "title": "West Capital Lending hit with 1099 independent contractor suit",
+        "url": "https://www.housingwire.com/articles/wcl-contractor-1099-suit-lo-pay-models/",
+        "what": "Case renews scrutiny of LO hiring and pay models",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/brokerages-ancillary-services-strategy/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/wcl-contractor-1099-suit-lo-pay-models/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Senate committee advances Matt Jones’ nomination as FHA commissioner",
-        "url": "https://www.housingwire.com/articles/matt-jones-fha-commissioner-nomination/",
-        "what": "His nomination advanced to the full Senate on a 13-11 vote split along party lines",
-        "numbers": "13, 11",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/matt-jones-fha-commissioner-nomination/",
+        "title": "America builds cool things, except houses",
+        "url": "https://www.housingwire.com/articles/homebuilding-progress-pitfalls/",
+        "what": "Matt Winter unpacks five root cause pitfalls to homebuilding progress, from zoning constraints to weak cost competition pressure",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilding-progress-pitfalls/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Broker Action Coalition pushes for QM change on compensation cap",
-        "url": "https://www.housingwire.com/articles/bac-qm-broker-compensation/",
-        "what": "White paper argues lender-paid broker pay should match retail LO treatment under the 3% points and fees cap",
-        "numbers": "3",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/bac-qm-broker-compensation/",
+        "title": "Deals, hires, and 2027 trend signals across real estate brokerages",
+        "url": "https://www.housingwire.com/articles/brokerage-deals-hires-trends/",
+        "what": "Items include a 2027 CEO appointment, new affiliates, an acquisition and teams joining Compass and Keller Williams",
+        "numbers": "2027",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/brokerage-deals-hires-trends/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "Why Compass wants the MLS antitrust dispute out of New York",
-        "url": "https://www.housingwire.com/articles/compass-mls-antitrust-venue-fight/",
-        "what": "Plaintiffs argue a single ruling on listing submission rules could bind Compass and reduce inconsistent outcomes across 11 districts",
-        "numbers": "11",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/compass-mls-antitrust-venue-fight/",
-        "why": "Inventory and velocity drive pricing power and volume.",
-        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+        "title": "Better, NEXA, MBA announce leadership and hiring changes",
+        "url": "https://www.housingwire.com/articles/mortgage-industry-leadership-hiring/",
+        "what": "First Horizon and Credit Union ONE also announce leadership changes",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-industry-leadership-hiring/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
