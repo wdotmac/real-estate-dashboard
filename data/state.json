@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-19 21:33 UTC",
+  "as_of": "2026-11-20 03:13 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Rate’s Jesse Allen: Reverse mortgage lenders should plan for the ‘down case,’ not FHA relief",
+      "link": "https://www.housingwire.com/articles/allen-reverse-mortgage-expand-products/",
+      "published": "Thu, 19 Nov 2026"
+    },
+    {
+      "title": "New CEO at Villa eyes manufactured housing, ADU opportunity",
+      "link": "https://www.housingwire.com/articles/villas-new-ceo-growth-strategy/",
+      "published": "Thu, 19 Nov 2026"
+    },
+    {
       "title": "Why some regional brokerages are avoiding ancillary services",
       "link": "https://www.housingwire.com/articles/brokerages-ancillary-services-strategy/",
       "published": "Thu, 19 Nov 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Broker Action Coalition pushes for QM change on compensation cap",
       "link": "https://www.housingwire.com/articles/bac-qm-broker-compensation/",
-      "published": "Thu, 19 Nov 2026"
-    },
-    {
-      "title": "Why Compass wants the MLS antitrust dispute out of New York",
-      "link": "https://www.housingwire.com/articles/compass-mls-antitrust-venue-fight/",
-      "published": "Thu, 19 Nov 2026"
-    },
-    {
-      "title": "Mortgage delinquencies rise to 4.42% in Q3 2026",
-      "link": "https://www.housingwire.com/articles/mortgage-delinquencies-q3-2026/",
       "published": "Thu, 19 Nov 2026"
     },
     {
@@ -222,6 +222,24 @@
       }
     ],
     "housing": [
+      {
+        "title": "Rate’s Jesse Allen: Reverse mortgage lenders should plan for the ‘down case,’ not FHA relief",
+        "url": "https://www.housingwire.com/articles/allen-reverse-mortgage-expand-products/",
+        "what": "NRMLA board member and Rate leader says proprietary products, reverse for purchase financing and responsible equity release are where growth lies heading into 2027",
+        "numbers": "2027",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/allen-reverse-mortgage-expand-products/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "New CEO at Villa eyes manufactured housing, ADU opportunity",
+        "url": "https://www.housingwire.com/articles/villas-new-ceo-growth-strategy/",
+        "what": "David Messenger will steer Villa into larger manufactured home communities, tapping finished, entitled land to limit entitlement risk",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/villas-new-ceo-growth-strategy/",
+        "why": "Relevant development for housing and markets.",
+        "market": "Watch second-order effects across builders, lenders, and REITs."
+      },
       {
         "title": "Housing groups urge FHFA to delay condo reserve rule until 2028",
         "url": "https://www.housingwire.com/articles/fhfa-condo-reserve-rule-delay/",
@@ -295,24 +313,6 @@
         "justified": "housingwire.com — https://www.housingwire.com/articles/compass-mls-antitrust-venue-fight/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
-      },
-      {
-        "title": "Rocket, Mr. Cooper to pay $6.75M over cybersecurity lapses in New York",
-        "url": "https://www.housingwire.com/articles/rocket-mr-cooper-nydfs-cybersecurity-settlement/",
-        "what": "Regulator cites data exposure, 72-hour rule violations in cyber cases",
-        "numbers": "72",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/rocket-mr-cooper-nydfs-cybersecurity-settlement/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Covius rolls out capital markets dashboard for bulk title reviews",
-        "url": "https://www.housingwire.com/articles/covius-capital-markets-dashboard-title/",
-        "what": "Loanscape CM validates 100-plus title report attributes to flag loans needing deeper review",
-        "numbers": "100",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/covius-capital-markets-dashboard-title/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
       }
     ]
   }
