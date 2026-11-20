@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-20 03:13 UTC",
+  "as_of": "2026-11-20 11:47 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,16 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Which way is down, revisited",
+      "link": "https://www.housingwire.com/articles/delinquencies-home-prices-2026/",
+      "published": "Fri, 20 Nov 2026"
+    },
+    {
+      "title": "Texas’ population boom is opening doors for new real estate agents",
+      "link": "https://www.housingwire.com/articles/texas-population-boom-agents/",
+      "published": "Fri, 20 Nov 2026"
+    },
+    {
       "title": "Rate’s Jesse Allen: Reverse mortgage lenders should plan for the ‘down case,’ not FHA relief",
       "link": "https://www.housingwire.com/articles/allen-reverse-mortgage-expand-products/",
       "published": "Thu, 19 Nov 2026"
@@ -157,16 +167,6 @@
     {
       "title": "Housing groups urge FHFA to delay condo reserve rule until 2028",
       "link": "https://www.housingwire.com/articles/fhfa-condo-reserve-rule-delay/",
-      "published": "Thu, 19 Nov 2026"
-    },
-    {
-      "title": "Senate committee advances Matt Jones’ nomination as FHA commissioner",
-      "link": "https://www.housingwire.com/articles/matt-jones-fha-commissioner-nomination/",
-      "published": "Thu, 19 Nov 2026"
-    },
-    {
-      "title": "Broker Action Coalition pushes for QM change on compensation cap",
-      "link": "https://www.housingwire.com/articles/bac-qm-broker-compensation/",
       "published": "Thu, 19 Nov 2026"
     },
     {
@@ -223,6 +223,24 @@
     ],
     "housing": [
       {
+        "title": "Which way is down, revisited",
+        "url": "https://www.housingwire.com/articles/delinquencies-home-prices-2026/",
+        "what": "Do delinquencies cause price declines, or the reverse",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/delinquencies-home-prices-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Texas’ population boom is opening doors for new real estate agents",
+        "url": "https://www.housingwire.com/articles/texas-population-boom-agents/",
+        "what": "Texas added 391,243 people in 12 months and authorized 210,217 new-home permits in 2025",
+        "numbers": "391,243, 12, 210,217, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/texas-population-boom-agents/",
+        "why": "Supply pipeline sets future inventory and construction activity.",
+        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+      },
+      {
         "title": "Rate’s Jesse Allen: Reverse mortgage lenders should plan for the ‘down case,’ not FHA relief",
         "url": "https://www.housingwire.com/articles/allen-reverse-mortgage-expand-products/",
         "what": "NRMLA board member and Rate leader says proprietary products, reverse for purchase financing and responsible equity release are where growth lies heading into 2027",
@@ -255,24 +273,6 @@
         "what": "Foreclosure starts rose to 0.21%, while loans in foreclosure increased to 0.71%",
         "numbers": "0.21, 0.71",
         "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-delinquencies-q3-2026/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Zoning reform is remaking parking lots into a housing paradise",
-        "url": "https://www.housingwire.com/articles/parking-lot-redevelopment-zoning/",
-        "what": "Commercial parking makes up a 26% median share of downtown land in large U.S",
-        "numbers": "26",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/parking-lot-redevelopment-zoning/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Exclusive: ICE Mortgage Technology appoints AI strategy, product leaders",
-        "url": "https://www.housingwire.com/articles/ice-mortgage-technology-vice-presidents/",
-        "what": "Kiran Sahota and Leslie Peeler are joining the company",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ice-mortgage-technology-vice-presidents/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
