@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-21 23:15 UTC",
+  "as_of": "2026-11-22 03:15 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Will the AI stock sell-off give us sub-7% mortgage rates before the holidays?",
+      "link": "https://www.housingwire.com/articles/sub-7-mortgage-rates-yield-spreads/",
+      "published": "Sat, 21 Nov 2026"
+    },
+    {
       "title": "Why aren’t mortgage rates lower after massive stock sell-off?",
       "link": "https://www.housingwire.com/articles/10-year-yield-mortgage-rates-fed/",
       "published": "Fri, 20 Nov 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Bronx real estate broker indicted for allegedly hiding felony convictions on license renewal",
       "link": "https://www.housingwire.com/articles/ny-broker-renewal-charges/",
-      "published": "Fri, 20 Nov 2026"
-    },
-    {
-      "title": "Lock-in effect likely to keep HELOCs, second lien activity up through 2027",
-      "link": "https://www.housingwire.com/articles/lock-in-effect-second-liens/",
       "published": "Fri, 20 Nov 2026"
     },
     {
@@ -202,6 +202,15 @@
   ],
   "feed_101020": {
     "macro": [
+      {
+        "title": "Will the AI stock sell-off give us sub-7% mortgage rates before the holidays?",
+        "url": "https://www.housingwire.com/articles/sub-7-mortgage-rates-yield-spreads/",
+        "what": "All we need is the 10-year yield below 4.85% and 2% mortgage spreads to make this work",
+        "numbers": "10, 4.85, 2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/sub-7-mortgage-rates-yield-spreads/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
       {
         "title": "Why aren’t mortgage rates lower after massive stock sell-off?",
         "url": "https://www.housingwire.com/articles/10-year-yield-mortgage-rates-fed/",
@@ -273,15 +282,6 @@
         "what": "Pulley will use the capital to expand its permitting services and launch tools for site selection and AI-driven drawing review",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/pulley-raises-64-million-permitting/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
-      },
-      {
-        "title": "My Home Communities maps Southeast growth beyond Georgia",
-        "url": "https://www.housingwire.com/articles/my-home-communities-expands/",
-        "what": "The Georgia-based builder is building communities in Gaffney, SC, Summerdale, AL and Milton, FL",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/my-home-communities-expands/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       }
