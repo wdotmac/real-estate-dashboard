@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-11-23 10:45 UTC",
+  "as_of": "2026-11-23 22:38 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 5.04,
-      "delta_bp_1d": -3.000000000000025
+      "yield_pct": 4.92,
+      "delta_bp_1d": -12.00000000000001
     },
     "mortgage_30y": {
       "rate_pct": 7.28,
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Smart home infrastructure belongs in the original home design",
-      "link": "https://www.housingwire.com/articles/smart-home-infrastructure-design/",
+      "title": "Georgia builders give affordable housing an essential new identity",
+      "link": "https://www.housingwire.com/articles/georgia-essential-homes-rebrand/",
       "published": "Mon, 23 Nov 2026"
     },
     {
-      "title": "Will the AI stock sell-off give us sub-7% mortgage rates before the holidays?",
-      "link": "https://www.housingwire.com/articles/sub-7-mortgage-rates-yield-spreads/",
-      "published": "Sat, 21 Nov 2026"
+      "title": "Raleigh’s housing reforms helped ease rents, Pew study finds",
+      "link": "https://www.housingwire.com/articles/raleigh-zoning-reforms-rents/",
+      "published": "Mon, 23 Nov 2026"
     },
     {
-      "title": "Why aren’t mortgage rates lower after massive stock sell-off?",
-      "link": "https://www.housingwire.com/articles/10-year-yield-mortgage-rates-fed/",
-      "published": "Fri, 20 Nov 2026"
+      "title": "Cost cutting is not cost reduction; builders and trades face a test",
+      "link": "https://www.housingwire.com/articles/homebuilder-cost-cuts-trade-partners/",
+      "published": "Mon, 23 Nov 2026"
     },
     {
-      "title": "Homebuilders’ $30B buying spree has cooled; now it’s all execution",
-      "link": "https://www.housingwire.com/articles/homebuilding-consolidation-integration/",
-      "published": "Fri, 20 Nov 2026"
+      "title": "Beyond commission splits: How wellness benefits give brokerages a recruiting edge",
+      "link": "https://www.housingwire.com/articles/brokerages-agent-health-benefits/",
+      "published": "Mon, 23 Nov 2026"
     },
     {
-      "title": "Howard Hanna sued over $395 real estate transaction fee",
-      "link": "https://www.housingwire.com/articles/howard-hanna-transaction-fee-lawsuit/",
-      "published": "Fri, 20 Nov 2026"
+      "title": "FHA’s reverse mortgage book faces headwinds from home prices, fewer payoffs",
+      "link": "https://www.housingwire.com/articles/fha-2026-annual-report-hecm-hmbs-capital-risks/",
+      "published": "Mon, 23 Nov 2026"
     },
     {
-      "title": "Stakeholder relations director Meredith Wimbrow departs FHFA",
-      "link": "https://www.housingwire.com/articles/stakeholder-director-meredith-wimbrow-to-depart-fhfa/",
-      "published": "Fri, 20 Nov 2026"
+      "title": "Mortgage headlines aren’t as big a concern as your cost per closing",
+      "link": "https://www.housingwire.com/articles/ate-fears-cost-closing/",
+      "published": "Mon, 23 Nov 2026"
     },
     {
       "title": "Monthly Housing Payments Fell to Lowest Level in Nearly 2 Months–But Rates Are Climbing Again",
@@ -203,38 +203,20 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "Will the AI stock sell-off give us sub-7% mortgage rates before the holidays?",
-        "url": "https://www.housingwire.com/articles/sub-7-mortgage-rates-yield-spreads/",
-        "what": "All we need is the 10-year yield below 4.85% and 2% mortgage spreads to make this work",
-        "numbers": "10, 4.85, 2",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/sub-7-mortgage-rates-yield-spreads/",
+        "title": "Raleigh’s housing reforms helped ease rents, Pew study finds",
+        "url": "https://www.housingwire.com/articles/raleigh-zoning-reforms-rents/",
+        "what": "Pew estimates Raleigh's inflation adjusted rents fell 15% from 2022 to 2025 amid a building boom",
+        "numbers": "15, 2022, 2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/raleigh-zoning-reforms-rents/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Why aren’t mortgage rates lower after massive stock sell-off?",
-        "url": "https://www.housingwire.com/articles/10-year-yield-mortgage-rates-fed/",
-        "what": "The Fed is still staying very hawkish, even with lower energy prices",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/10-year-yield-mortgage-rates-fed/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Stakeholder relations director Meredith Wimbrow departs FHFA",
-        "url": "https://www.housingwire.com/articles/stakeholder-director-meredith-wimbrow-to-depart-fhfa/",
-        "what": "Wimbrow, a Pulte aide, will become VP at Federal Hall",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/stakeholder-director-meredith-wimbrow-to-depart-fhfa/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Housing groups cheer Senate passage of milestone permitting bill",
-        "url": "https://www.housingwire.com/articles/senate-passes-baaja-permitting-bill/",
-        "what": "The BAAJA measure, which cleared the Senate 62-33, would streamline environmental reviews and permitting for federally backed projects",
-        "numbers": "62, 33,",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/senate-passes-baaja-permitting-bill/",
+        "title": "Mortgage headlines aren’t as big a concern as your cost per closing",
+        "url": "https://www.housingwire.com/articles/ate-fears-cost-closing/",
+        "what": "At current rates, the same payment covers about $357,000 vs",
+        "numbers": "$357,000, $400,000, 11",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ate-fears-cost-closing/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -259,58 +241,76 @@
     ],
     "housing": [
       {
-        "title": "Smart home infrastructure belongs in the original home design",
-        "url": "https://www.housingwire.com/articles/smart-home-infrastructure-design/",
-        "what": "Builders can reduce retrofit costs by planning wiring, power and network capacity early",
+        "title": "Georgia builders give affordable housing an essential new identity",
+        "url": "https://www.housingwire.com/articles/georgia-essential-homes-rebrand/",
+        "what": "Builders cite permit delays, infrastructure rules, and final plat holdups as price drivers",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/smart-home-infrastructure-design/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/georgia-essential-homes-rebrand/",
         "why": "Supply pipeline sets future inventory and construction activity.",
         "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
       },
       {
-        "title": "Homebuilders’ $30B buying spree has cooled; now it’s all execution",
-        "url": "https://www.housingwire.com/articles/homebuilding-consolidation-integration/",
-        "what": "Mega buyers face weaker demand, higher incentives, and tougher choices on centralization versus local autonomy",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilding-consolidation-integration/",
-        "why": "Supply pipeline sets future inventory and construction activity.",
-        "market": "Stronger pipeline aids suppliers; oversupply later can weigh on pricing."
+        "title": "Cost cutting is not cost reduction; builders and trades face a test",
+        "url": "https://www.housingwire.com/articles/homebuilder-cost-cuts-trade-partners/",
+        "what": "Strategem models $12,919 in tariff costs per new home, as input cost indexes rose 10.4% year over year",
+        "numbers": "$12,919, 10.4",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/homebuilder-cost-cuts-trade-partners/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Bronx real estate broker indicted for allegedly hiding felony convictions on license renewal",
-        "url": "https://www.housingwire.com/articles/ny-broker-renewal-charges/",
-        "what": "DOS suspended Marcia Campbell’s license after prosecutors say she omitted felony pleas and pending charges",
+        "title": "FHA’s reverse mortgage book faces headwinds from home prices, fewer payoffs",
+        "url": "https://www.housingwire.com/articles/fha-2026-annual-report-hecm-hmbs-capital-risks/",
+        "what": "HECM endorsements dropped 14% to roughly 24,000 loans with $12.81 billion in maximum claim amounts in FY 2026",
+        "numbers": "14, 24,000, $12.81 billion, 2026",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/fha-2026-annual-report-hecm-hmbs-capital-risks/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Human review remains paramount for AI mortgage underwriting",
+        "url": "https://www.housingwire.com/articles/ai-underwriting-review/",
+        "what": "Executives said lenders should deploy AI in stages and compare results to human reviews",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ny-broker-renewal-charges/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/ai-underwriting-review/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "Washington state regulator issues temporary stop on new business for Directors Mortgage",
+        "url": "https://www.housingwire.com/articles/washington-dfi-directors-mortgage/",
+        "what": "Directors Mortgage must pause new originations in Washington amid records dispute, payment issues",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/washington-dfi-directors-mortgage/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
+      },
+      {
+        "title": "New York Governor signs new rules for private listings into law, Compass praises it",
+        "url": "https://www.housingwire.com/articles/new-york-private-listing-law/",
+        "what": "Listings must be publicly marketed unless sellers sign an opt-out disclosure, with enforcement up to $5,000 fines",
+        "numbers": "$5,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-york-private-listing-law/",
         "why": "Inventory and velocity drive pricing power and volume.",
         "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
+      },
+      {
+        "title": "Non-QM lending grows as buyers change financing strategies",
+        "url": "https://www.housingwire.com/articles/non-qm-lending-grows-as-buyers-change-financing-strategies/",
+        "what": "Cotality found 69% cut lifestyle spending, and 65% later changed financing to keep homeownership in reach",
+        "numbers": "69, 65",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/non-qm-lending-grows-as-buyers-change-financing-strategies/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       }
     ],
     "notables": [
       {
-        "title": "Howard Hanna sued over $395 real estate transaction fee",
-        "url": "https://www.housingwire.com/articles/howard-hanna-transaction-fee-lawsuit/",
-        "what": "Pennsylvania buyer alleges the fee was added at closing in 2021 and the case seeks class action status and an injunction",
-        "numbers": "2021",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/howard-hanna-transaction-fee-lawsuit/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "Lock-in effect likely to keep HELOCs, second lien activity up through 2027",
-        "url": "https://www.housingwire.com/articles/lock-in-effect-second-liens/",
-        "what": "Lenders report renovations, debt consolidation, and bridge down payments as top home equity uses",
+        "title": "Beyond commission splits: How wellness benefits give brokerages a recruiting edge",
+        "url": "https://www.housingwire.com/articles/brokerages-agent-health-benefits/",
+        "what": "Programs span group-style health plans and individualized coaching tied to retention and recruiting",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/lock-in-effect-second-liens/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "West Capital Lending hit with 1099 independent contractor suit",
-        "url": "https://www.housingwire.com/articles/wcl-contractor-1099-suit-lo-pay-models/",
-        "what": "Case renews scrutiny of LO hiring and pay models",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/wcl-contractor-1099-suit-lo-pay-models/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/brokerages-agent-health-benefits/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
