@@ -1,14 +1,14 @@
 {
-  "as_of": "2026-11-25 12:54 UTC",
+  "as_of": "2026-11-25 22:31 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.92,
-      "delta_bp_1d": 0.0
+      "yield_pct": 4.91,
+      "delta_bp_1d": -0.9999999999999787
     },
     "mortgage_30y": {
-      "rate_pct": 7.28,
-      "delta_bp_wow": 16.999999999999993
+      "rate_pct": 7.21,
+      "delta_bp_wow": -7.000000000000028
     },
     "starts": {
       "level_saar": 1309.0,
@@ -17,36 +17,36 @@
   },
   "permits": {
     "florida": {
-      "latest": 14649,
-      "latest_date": "2026-09",
-      "mom": 0.047854077253218774,
-      "yoy": 0.09705684115929003,
-      "ytd": -0.10632730907460619,
-      "ytd_count": 121594,
+      "latest": 11091,
+      "latest_date": "2026-10",
+      "mom": -0.24288347327462623,
+      "yoy": -0.27032894736842106,
+      "ytd": -0.12280759746398606,
+      "ytd_count": 132685,
       "latest_year": 2026,
-      "latest_month_name": "Sep"
+      "latest_month_name": "Oct"
     },
     "msa": {
       "Orlando–Kissimmee–Sanford": {
         "total": {
-          "latest": 1574,
+          "latest": 1363,
           "latest_year": 2026,
-          "latest_month": 9,
-          "latest_month_name": "Sep",
-          "mom": 0.06929347826086962,
-          "yoy": -0.22233201581027673,
-          "ytd_yoy": -0.3159422961699774,
-          "ytd_count": 14842
+          "latest_month": 10,
+          "latest_month_name": "Oct",
+          "mom": -0.13405336721728078,
+          "yoy": -0.4484014569000405,
+          "ytd_yoy": -0.3294852697782191,
+          "ytd_count": 16205
         },
         "one_unit": {
-          "latest": 1021,
+          "latest": 962,
           "latest_year": 2026,
-          "latest_month": 9,
-          "latest_month_name": "Sep",
-          "mom": -0.08839285714285716,
-          "yoy": 0.19275700934579443,
-          "ytd_yoy": -0.13901266928789868,
-          "ytd_count": 9854
+          "latest_month": 10,
+          "latest_month_name": "Oct",
+          "mom": -0.057786483839373126,
+          "yoy": -0.12065813528336378,
+          "ytd_yoy": -0.13741127681633303,
+          "ytd_count": 10816
         },
         "dom": {
           "days": 78,
@@ -56,24 +56,24 @@
       },
       "Tampa–St. Petersburg–Clearwater": {
         "total": {
-          "latest": 1934,
+          "latest": 2011,
           "latest_year": 2026,
-          "latest_month": 9,
-          "latest_month_name": "Sep",
-          "mom": -0.061165048543689315,
-          "yoy": 0.2240506329113925,
-          "ytd_yoy": -0.061138982303324374,
-          "ytd_count": 17030
+          "latest_month": 10,
+          "latest_month_name": "Oct",
+          "mom": 0.039813857290589505,
+          "yoy": -0.1714050267820354,
+          "ytd_yoy": -0.07415151220460958,
+          "ytd_count": 19041
         },
         "one_unit": {
-          "latest": 1015,
+          "latest": 925,
           "latest_year": 2026,
-          "latest_month": 9,
-          "latest_month_name": "Sep",
-          "mom": -0.20826833073322937,
-          "yoy": -0.043355325164938785,
-          "ytd_yoy": -0.011025254428948306,
-          "ytd_count": 10495
+          "latest_month": 10,
+          "latest_month_name": "Oct",
+          "mom": -0.08866995073891626,
+          "yoy": -0.2812742812742812,
+          "ytd_yoy": -0.0402554836540886,
+          "ytd_count": 11420
         },
         "dom": {
           "days": 77,
@@ -83,24 +83,24 @@
       },
       "Ocala": {
         "total": {
-          "latest": 511,
+          "latest": 419,
           "latest_year": 2026,
-          "latest_month": 9,
-          "latest_month_name": "Sep",
-          "mom": 0.4116022099447514,
-          "yoy": 0.1911421911421911,
-          "ytd_yoy": -0.07236975471315632,
-          "ytd_count": 4576
+          "latest_month": 10,
+          "latest_month_name": "Oct",
+          "mom": -0.18003913894324852,
+          "yoy": -0.10851063829787233,
+          "ytd_yoy": -0.07551360355358139,
+          "ytd_count": 4995
         },
         "one_unit": {
-          "latest": 399,
+          "latest": 403,
           "latest_year": 2026,
-          "latest_month": 9,
-          "latest_month_name": "Sep",
-          "mom": 0.16666666666666674,
-          "yoy": 0.09315068493150691,
-          "ytd_yoy": -0.004087193460490468,
-          "ytd_count": 4386
+          "latest_month": 10,
+          "latest_month_name": "Oct",
+          "mom": 0.010025062656641603,
+          "yoy": -0.09234234234234229,
+          "ytd_yoy": -0.0121699669966997,
+          "ytd_count": 4789
         },
         "dom": {
           "days": 77,
@@ -110,24 +110,24 @@
       },
       "Palm Bay–Melbourne–Titusville": {
         "total": {
-          "latest": 400,
+          "latest": 377,
           "latest_year": 2026,
-          "latest_month": 9,
-          "latest_month_name": "Sep",
-          "mom": -0.24528301886792447,
-          "yoy": -0.375,
-          "ytd_yoy": 0.006575185820468787,
-          "ytd_count": 3521
+          "latest_month": 10,
+          "latest_month_name": "Oct",
+          "mom": -0.057499999999999996,
+          "yoy": 0.0991253644314869,
+          "ytd_yoy": 0.014839885446498391,
+          "ytd_count": 3898
         },
         "one_unit": {
-          "latest": 364,
+          "latest": 313,
           "latest_year": 2026,
-          "latest_month": 9,
-          "latest_month_name": "Sep",
-          "mom": 0.15923566878980888,
-          "yoy": 0.33823529411764697,
-          "ytd_yoy": 0.12976190476190474,
-          "ytd_count": 2847
+          "latest_month": 10,
+          "latest_month_name": "Oct",
+          "mom": -0.14010989010989006,
+          "yoy": -0.08746355685131191,
+          "ytd_yoy": 0.10373733845616484,
+          "ytd_count": 3160
         },
         "dom": {
           "days": 69,
@@ -140,34 +140,34 @@
   "watchlist": [],
   "feed": [
     {
-      "title": "Pennsylvania settlement shows where mortgage joint ventures can run into RESPA trouble",
-      "link": "https://www.housingwire.com/articles/pa-ag-respa-settlement-conquest/",
+      "title": "New home sales surge in October, but demand signals remain soft",
+      "link": "https://www.housingwire.com/articles/new-home-sales-october-2026/",
       "published": "Wed, 25 Nov 2026"
     },
     {
-      "title": "Eight questions for evaluating PPE technology",
-      "link": "https://www.housingwire.com/articles/ppe-technology-8-questions/",
+      "title": "Housing data shocks to the upside: Will we get sub-7% rates for Christmas?",
+      "link": "https://www.housingwire.com/articles/10-year-yield-482-holiday-rates/",
       "published": "Wed, 25 Nov 2026"
     },
     {
-      "title": "From documents to decisions: Keeping loan data in sync across mortgage capital markets",
-      "link": "https://www.housingwire.com/articles/mortgage-hedging-loan-data-sync/",
+      "title": "Colorado first responders can now get state home mortgage help",
+      "link": "https://www.housingwire.com/articles/colorado-chfa-mortgage-help/",
       "published": "Wed, 25 Nov 2026"
     },
     {
-      "title": "As cities act to shred housing’s red-tape, Boston homes in on parking",
-      "link": "https://www.housingwire.com/articles/local-housing-reforms-parking/",
-      "published": "Tue, 24 Nov 2026"
+      "title": "Better signs agreement with mortgage servicer to grow HELOC volume",
+      "link": "https://www.housingwire.com/articles/better-mortgage-servicer-heloc/",
+      "published": "Wed, 25 Nov 2026"
     },
     {
-      "title": "BTR sector fears Treasury rules move the goal line on investor ban",
-      "link": "https://www.housingwire.com/articles/btr-treasury-investor-ban/",
-      "published": "Tue, 24 Nov 2026"
+      "title": "Luminate Bank buys Real Genius mortgage unit",
+      "link": "https://www.housingwire.com/articles/luminate-bank-acquires-real-genius/",
+      "published": "Wed, 25 Nov 2026"
     },
     {
-      "title": "What will Social Security look like in 2027 and beyond?",
-      "link": "https://www.housingwire.com/articles/social-security-3-6-cola-insolvency-debt-risks-senior-housing/",
-      "published": "Tue, 24 Nov 2026"
+      "title": "How real estate agents handle proof of funds and disclosures",
+      "link": "https://www.housingwire.com/articles/proof-funds-disclosure-best-practices/",
+      "published": "Wed, 25 Nov 2026"
     },
     {
       "title": "U.S. Home Prices Ticked Up 0.14% in October",
@@ -203,29 +203,20 @@
   "feed_101020": {
     "macro": [
       {
-        "title": "BTR sector fears Treasury rules move the goal line on investor ban",
-        "url": "https://www.housingwire.com/articles/btr-treasury-investor-ban/",
-        "what": "Industry letters challenged Treasury's proposed 18-month certificate-of-occupancy window and ambiguity on single-plat projects",
-        "numbers": "18",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/btr-treasury-investor-ban/",
+        "title": "Housing data shocks to the upside: Will we get sub-7% rates for Christmas?",
+        "url": "https://www.housingwire.com/articles/10-year-yield-482-holiday-rates/",
+        "what": "We're getting surprisingly positive data right before Thanksgiving",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/10-year-yield-482-holiday-rates/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "Mortgage rates whiplash is in full effect, with jumbo loans shedding 25 bps this week",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-seesaw-753/",
-        "what": "Interest rate traders are pricing a 96% chance of a Fed hike in December, keeping pressure on borrowing costs heading into 2027",
-        "numbers": "96, 2027",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-rates-seesaw-753/",
-        "why": "Rates & inflation shape discount rates and housing affordability.",
-        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
-      },
-      {
-        "title": "Why 16 MLSs want a united front against Compass in the battle over private listings",
-        "url": "https://www.housingwire.com/articles/mls-seek-compass-case-consolidation/",
-        "what": "A JPML request would coordinate 16 federal suits and add 2 SDNY declaratory judgment actions filed by 9 MLSs",
-        "numbers": "16, 2, 9",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mls-seek-compass-case-consolidation/",
+        "title": "Better signs agreement with mortgage servicer to grow HELOC volume",
+        "url": "https://www.housingwire.com/articles/better-mortgage-servicer-heloc/",
+        "what": "The company's Week 7 scorecard cites $38.97M in corporate savings",
+        "numbers": "7, $38.97, $64.2",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/better-mortgage-servicer-heloc/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
@@ -241,40 +232,49 @@
     ],
     "housing": [
       {
-        "title": "Pennsylvania settlement shows where mortgage joint ventures can run into RESPA trouble",
-        "url": "https://www.housingwire.com/articles/pa-ag-respa-settlement-conquest/",
-        "what": "$65,000 payment and compliance monitoring required, with a potential additional $100,000 penalty for violations",
-        "numbers": "$65,000, $100,000",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/pa-ag-respa-settlement-conquest/",
+        "title": "New home sales surge in October, but demand signals remain soft",
+        "url": "https://www.housingwire.com/articles/new-home-sales-october-2026/",
+        "what": "Subject to revision, sales rose to 701,000 annual pace, while the median sales price fell 3.2% year over year to $391,000",
+        "numbers": "701,000, 3.2, $391,000",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/new-home-sales-october-2026/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
+      {
+        "title": "Colorado first responders can now get state home mortgage help",
+        "url": "https://www.housingwire.com/articles/colorado-chfa-mortgage-help/",
+        "what": "The new CHFA option follows years of state efforts to expand housing access",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/colorado-chfa-mortgage-help/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "From documents to decisions: Keeping loan data in sync across mortgage capital markets",
-        "url": "https://www.housingwire.com/articles/mortgage-hedging-loan-data-sync/",
-        "what": "Consolidated Analytics applies its loan due diligence expertise to mortgage hedging, pricing and investor delivery through a shared loan record in loanDNA",
+        "title": "Luminate Bank buys Real Genius mortgage unit",
+        "url": "https://www.housingwire.com/articles/luminate-bank-acquires-real-genius/",
+        "what": "Deal expands Minneapolis bank’s reach in the consumer-direct channel",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-hedging-loan-data-sync/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/luminate-bank-acquires-real-genius/",
         "why": "Rates & inflation shape discount rates and housing affordability.",
         "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
-        "title": "As cities act to shred housing’s red-tape, Boston homes in on parking",
-        "url": "https://www.housingwire.com/articles/local-housing-reforms-parking/",
-        "what": "Boulder set a 90-day deadline, Allentown tied tax breaks to 20% affordability, and Boston is weighing citywide reform",
-        "numbers": "90, 20",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/local-housing-reforms-parking/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "BOXABL financial filing shows cash burn and scaling risk",
+        "url": "https://www.housingwire.com/articles/boxabl-cash-burn-backlog/",
+        "what": "Unrestricted cash fell to $14 million, inventory hit $17.6 million, and the 10-Q cites going concern doubt",
+        "numbers": "$14 million, $17.6 million, 10",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/boxabl-cash-burn-backlog/",
+        "why": "Inventory and velocity drive pricing power and volume.",
+        "market": "Rising inventory/DOM tilts to buyers; tight supply supports prices."
       },
       {
-        "title": "What will Social Security look like in 2027 and beyond?",
-        "url": "https://www.housingwire.com/articles/social-security-3-6-cola-insolvency-debt-risks-senior-housing/",
-        "what": "Various factors, including Medicare premium increases, will determine how much of the COLA retirees actually keep, with direct implications for housing affordability and borrowing",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/social-security-3-6-cola-insolvency-debt-risks-senior-housing/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
+        "title": "Mortgage applications rise 6.1% even as 30-year hits 7.38%",
+        "url": "https://www.housingwire.com/articles/mortgage-applications-rise-61/",
+        "what": "Purchase index rose 10% week over week, ARM share climbed to 11.5%, the highest in over a year",
+        "numbers": "10, 11.5",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/mortgage-applications-rise-61/",
+        "why": "Rates & inflation shape discount rates and housing affordability.",
+        "market": "Lower rates support demand/valuations; higher rates pressure builders/REITs and slow transactions."
       },
       {
         "title": "U.S. Home Prices Ticked Up 0.14% in October",
@@ -288,29 +288,29 @@
     ],
     "notables": [
       {
-        "title": "Eight questions for evaluating PPE technology",
-        "url": "https://www.housingwire.com/articles/ppe-technology-8-questions/",
-        "what": "A practical framework for accounting for hidden costs, missed opportunities and operational scalability",
+        "title": "How real estate agents handle proof of funds and disclosures",
+        "url": "https://www.housingwire.com/articles/proof-funds-disclosure-best-practices/",
+        "what": "Why agents should request documents after the buyer appointment, then limit sharing with a signed authorization",
         "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/ppe-technology-8-questions/",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/proof-funds-disclosure-best-practices/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "FHFA maps out FICO 10T rollout with broad eligibility by late 2028",
-        "url": "https://www.housingwire.com/articles/fhfa-fico-10t-classic-fico-sunset-2028/",
-        "what": "Agency timeline anticipates retirement of Classic FICO across GSE channels by late 2028",
-        "numbers": "2028",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-fico-10t-classic-fico-sunset-2028/",
+        "title": "Epique’s ‘Power Agent’ trademark fight could put its branding at risk",
+        "url": "https://www.housingwire.com/articles/power-agent-lawsuit-epique/",
+        "what": "SDNY will hear Darryl Davis’s preliminary injunction bid in the first week of December",
+        "numbers": "",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/power-agent-lawsuit-epique/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       },
       {
-        "title": "FHFA raises conforming loan limit to $855,400 in 2027",
-        "url": "https://www.housingwire.com/articles/fhfa-raises-2027-conforming-loan-limit-855400/",
-        "what": "Higher limits keep more loans out of the jumbo market",
-        "numbers": "",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/fhfa-raises-2027-conforming-loan-limit-855400/",
+        "title": "CoStar photographers say quotas rose, now some want to unionize",
+        "url": "https://www.housingwire.com/articles/costar-photographers-ibew-union/",
+        "what": "Sources cite 2025 quota changes and September point-value cuts, while CoStar says automation and outsourced editing reduced tasks",
+        "numbers": "2025",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-photographers-ibew-union/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
