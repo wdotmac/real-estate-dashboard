@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-25 22:31 UTC",
+  "as_of": "2026-11-26 05:03 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Court upholds NYC rent freeze backed by Mayor Mamdani",
+      "link": "https://www.housingwire.com/articles/court-upholds-nyc-rent-freeze/",
+      "published": "Wed, 25 Nov 2026"
+    },
+    {
       "title": "New home sales surge in October, but demand signals remain soft",
       "link": "https://www.housingwire.com/articles/new-home-sales-october-2026/",
       "published": "Wed, 25 Nov 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Luminate Bank buys Real Genius mortgage unit",
       "link": "https://www.housingwire.com/articles/luminate-bank-acquires-real-genius/",
-      "published": "Wed, 25 Nov 2026"
-    },
-    {
-      "title": "How real estate agents handle proof of funds and disclosures",
-      "link": "https://www.housingwire.com/articles/proof-funds-disclosure-best-practices/",
       "published": "Wed, 25 Nov 2026"
     },
     {
@@ -231,6 +231,15 @@
       }
     ],
     "housing": [
+      {
+        "title": "Court upholds NYC rent freeze backed by Mayor Mamdani",
+        "url": "https://www.housingwire.com/articles/court-upholds-nyc-rent-freeze/",
+        "what": "Judge Lantry dismissed claims that the mayor predetermined the outcome, and cited the board’s 42-page explanatory statement",
+        "numbers": "42",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/court-upholds-nyc-rent-freeze/",
+        "why": "Rent moves feed shelter inflation and multifamily fundamentals.",
+        "market": "Rising rents help MF REITs; falling rents ease inflation but pressure NOI."
+      },
       {
         "title": "New home sales surge in October, but demand signals remain soft",
         "url": "https://www.housingwire.com/articles/new-home-sales-october-2026/",
@@ -302,15 +311,6 @@
         "what": "SDNY will hear Darryl Davis’s preliminary injunction bid in the first week of December",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/power-agent-lawsuit-epique/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "CoStar photographers say quotas rose, now some want to unionize",
-        "url": "https://www.housingwire.com/articles/costar-photographers-ibew-union/",
-        "what": "Sources cite 2025 quota changes and September point-value cuts, while CoStar says automation and outsourced editing reduced tasks",
-        "numbers": "2025",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/costar-photographers-ibew-union/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
