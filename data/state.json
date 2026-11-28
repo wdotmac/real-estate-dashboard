@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-11-27 18:58 UTC",
+  "as_of": "2026-11-28 01:59 UTC",
   "macro": {
     "spx": null,
     "ten_year": {
-      "yield_pct": 4.91,
-      "delta_bp_1d": -0.9999999999999787
+      "yield_pct": 4.85,
+      "delta_bp_1d": -6.00000000000005
     },
     "mortgage_30y": {
       "rate_pct": 7.21,
@@ -140,6 +140,11 @@
   "watchlist": [],
   "feed": [
     {
+      "title": "Will the Anthropic IPO supercharge San Francisco’s already-hot housing market?",
+      "link": "https://www.housingwire.com/articles/anthropic-ipo-sf-housing/",
+      "published": "Fri, 27 Nov 2026"
+    },
+    {
       "title": "Who should referee a national MLS, brokers or a neutral body?",
       "link": "https://www.housingwire.com/articles/open-real-estate-national-mls/",
       "published": "Fri, 27 Nov 2026"
@@ -162,11 +167,6 @@
     {
       "title": "Why biodiversity belongs in the master plan",
       "link": "https://www.housingwire.com/articles/biodiversity-master-planned-communities/",
-      "published": "Fri, 27 Nov 2026"
-    },
-    {
-      "title": "8 best Florida real estate schools for 2026",
-      "link": "https://www.housingwire.com/articles/8-best-florida-real-estate-schools-for-2026/",
       "published": "Fri, 27 Nov 2026"
     },
     {
@@ -203,6 +203,15 @@
   "feed_101020": {
     "macro": [],
     "housing": [
+      {
+        "title": "Will the Anthropic IPO supercharge San Francisco’s already-hot housing market?",
+        "url": "https://www.housingwire.com/articles/anthropic-ipo-sf-housing/",
+        "what": "The median single-family price rose 29% to $2.39M in October, and 86% sold above asking.",
+        "numbers": "29, $2.39, 86",
+        "justified": "housingwire.com — https://www.housingwire.com/articles/anthropic-ipo-sf-housing/",
+        "why": "Price trend signals wealth effects and buyer/seller power.",
+        "market": "Firm prices help builder margins; softness hits comps and sentiment."
+      },
       {
         "title": "Mortgage hires: Genworth names CEO, FHLB New York elects chair",
         "url": "https://www.housingwire.com/articles/genworth-ceo-fhlb-chair-hires/",
@@ -292,15 +301,6 @@
         "what": "Looking to become a real estate agent in New York State",
         "numbers": "",
         "justified": "housingwire.com — https://www.housingwire.com/articles/6-best-online-real-estate-courses-in-new-york-for-2026/",
-        "why": "Relevant development for housing and markets.",
-        "market": "Watch second-order effects across builders, lenders, and REITs."
-      },
-      {
-        "title": "The 6 best real estate schools in Texas for 2026",
-        "url": "https://www.housingwire.com/articles/the-6-best-real-estate-schools-in-texas-for-2026/",
-        "what": "From Abilene to El Paso, Austin, Dallas, San Antonio and Galveston",
-        "numbers": "2024",
-        "justified": "housingwire.com — https://www.housingwire.com/articles/the-6-best-real-estate-schools-in-texas-for-2026/",
         "why": "Relevant development for housing and markets.",
         "market": "Watch second-order effects across builders, lenders, and REITs."
       }
